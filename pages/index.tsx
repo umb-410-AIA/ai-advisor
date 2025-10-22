@@ -1,7 +1,10 @@
 import Head from "next/head";
+import { useRouter } from 'next/navigation';
 import Image from "next/image";
 import { Geist, Geist_Mono } from "next/font/google";
 import styles from "@/styles/Home.module.css";
+import { useAuth } from "@/contexts/AuthContext";
+import { useEffect } from "react";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -14,6 +17,15 @@ const geistMono = Geist_Mono({
 });
 
 export default function Home() {
+  const { isAuthenticated } = useAuth();
+  const router = useRouter();
+
+  useEffect(() => {
+    if (!isAuthenticated) {
+      router.push('/login');
+    }
+  }, [isAuthenticated]);
+
   return (
     <>
       <Head>
@@ -26,8 +38,8 @@ export default function Home() {
         className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
       >
         <main className={styles.main}>
-        <h1>UMB AI Advisor</h1>
-        <h3>Coming Soon</h3>
+          <h1>UMB AI Advisor</h1>
+          <h3>Coming Soon</h3>
         </main>
         <footer className={styles.footer}>
           <a
