@@ -1,0 +1,14 @@
+name: umb-course-scraper
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - bs4
+  - conda-forge::python-magic
+  - pip
+  - pypdf
+  - python=3.12
+  - regex
+  - tqdm
+  - typing_extensions
+  - vadersentiment
