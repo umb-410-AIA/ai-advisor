@@ -2,6 +2,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 import path from "path";
 import OpenAI from "openai";
 import data from "./data/data.json";
+import { assertRequestHasValidJwt } from "@/utils/auth";
 
 const defaul_system_prompt = `
     You are a chatbot advisor assistant for a college website, meant to help students plan and choose courses.
@@ -32,6 +33,12 @@ async function chatbot(prompt: string, system_prompt: string) {
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== "POST") return res.status(405).end();
+
+  try {
+    assertRequestHasValidJwt(req);
+  } catch (err) {
+    return res.status(401).json({ error: err });
+  }
 
   try {
     const { message } = req.body;

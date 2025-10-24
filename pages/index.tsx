@@ -1,36 +1,29 @@
-import Head from "next/head";
 import { useRouter } from 'next/navigation';
-import Image from "next/image";
-import { Geist, Geist_Mono } from "next/font/google";
-import styles from "@/styles/Home.module.css";
 import { useAuth } from "@/contexts/AuthContext";
-import { useEffect, useState } from "react";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+import { FormEventHandler, useCallback, useEffect, useState } from "react";
+import Link from 'next/link';
 
 export default function Home() {
   const [input, setInput] = useState("");
   const [chat, setChat] = useState<{ user: string; bot: string }[]>([]);
 
-  async function sendMessage() {
+  const { isAuthenticated, token } = useAuth();
+
+  const sendMessage = useCallback<FormEventHandler>(async (e) => {
+    if (e) e.preventDefault();
+
     const res = await fetch("/api/chat", {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${token}`
+      },
       body: JSON.stringify({ message: input }),
     });
     const data = await res.json();
     setChat([...chat, { user: input, bot: data.reply }]);
-  }
+  }, [input, token, chat]);
 
-  const { isAuthenticated } = useAuth();
   const router = useRouter();
 
   useEffect(() => {
@@ -58,6 +51,7 @@ export default function Home() {
             value={input}
             onChange={(e) => setInput(e.target.value)}
             style={{ flex: 1, padding: 8 }}
+            onSubmit={sendMessage}
             placeholder="Ask a question..."
           />
           <button onClick={sendMessage} style={{ padding: "8px 16px" }}>
@@ -65,6 +59,7 @@ export default function Home() {
           </button>
         </div>
       </div>
+      <Link href="logout">Log out</Link>
     </main>
   );
 }
