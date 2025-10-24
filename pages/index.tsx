@@ -6,12 +6,14 @@ import Link from 'next/link';
 export default function Home() {
   const [input, setInput] = useState("");
   const [chat, setChat] = useState<{ user: string; bot: string }[]>([]);
+  const [loading, setLoading] = useState<boolean>(false);
 
   const { isAuthenticated, token } = useAuth();
 
   const sendMessage = useCallback<FormEventHandler>(async (e) => {
     if (e) e.preventDefault();
 
+    setLoading(true);
     const res = await fetch("/api/chat", {
       method: "POST",
       headers: {
@@ -21,7 +23,9 @@ export default function Home() {
       body: JSON.stringify({ message: input }),
     });
     const data = await res.json();
+
     setChat([...chat, { user: input, bot: data.reply }]);
+    setLoading(false);
   }, [input, token, chat]);
 
   const router = useRouter();
@@ -46,18 +50,18 @@ export default function Home() {
             </div>
           ))}
         </div>
-        <div style={{ display: "flex" }}>
+        <form onSubmit={sendMessage} style={{ display: "flex" }}>
           <input
+            disabled={loading}
             value={input}
             onChange={(e) => setInput(e.target.value)}
             style={{ flex: 1, padding: 8 }}
-            onSubmit={sendMessage}
             placeholder="Ask a question..."
           />
-          <button onClick={sendMessage} style={{ padding: "8px 16px" }}>
-            Send
+          <button disabled={loading} onClick={sendMessage} style={{ padding: "8px 16px" }}>
+          {loading ? '...' : 'Send'}
           </button>
-        </div>
+        </form>
       </div>
       <Link href="logout">Log out</Link>
     </main>
