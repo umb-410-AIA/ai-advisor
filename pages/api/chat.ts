@@ -1,0 +1,86 @@
+import type { NextApiRequest, NextApiResponse } from "next";
+import * as ollama from "ollama"
+import fs from "fs";
+import path from "path";
+import OpenAI from "openai";
+
+const defaul_system_prompt = `
+    You are a chatbot advisor assistant for a college website, meant to help students plan and choose courses.
+    If the user asks for courses, respond ONLY with a valid JSON object (no prose, no markdown, no explanation).
+    The JSON must match exactly this format:
+    {"tool":"getCourses", "args":{"major":"CS"}}
+
+    If the major is unknown, use {"tool":"getCourses", "args":{"major":"UNKNOWN"}}.
+    If the user is not asking about courses, respond in plain English.\n
+    `;
+
+const openai = new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY, // from your .env.local
+});
+
+async function chatbot(prompt: string, system_prompt: string) {
+      const completion = await openai.chat.completions.create({
+        model: "gpt-4o-mini", // or "gpt-4o", "gpt-3.5-turbo", etc.
+        messages: [
+          { role: "system", content: system_prompt },
+          { role: "user", content: prompt },
+        ],
+        max_tokens: 1000,
+      });
+    const reply = completion.choices[0]?.message?.content ?? "No response";
+    return reply;
+}
+
+export default async function handler(req: NextApiRequest, res: NextApiResponse) {
+  if (req.method !== "POST") return res.status(405).end();
+
+  try {
+    const { message } = req.body;
+
+    // Read the JSON file
+    const dbPath = path.join(process.cwd(), "./pages/api/data/data.json");
+    const raw = fs.readFileSync(dbPath, "utf8");
+    const data = JSON.parse(raw);
+
+    // Convert the object into an array of classes
+    const classes = Object.values(data);
+
+    const tools = {
+      getCourses: async (major: string) => {
+        const prunedClasses = classes
+                              .filter((cls: any) => cls.id.startsWith(major.toUpperCase()))
+                              .map(
+                                (cls: any) => `${cls.id} — ${cls.title}\n${cls.course_descriptors.description}`
+                              )
+                              .join("\n\n");
+        return prunedClasses;
+      },
+    };
+
+    // combine system_prompt with user message
+    const reply = await chatbot(message, defaul_system_prompt);
+    
+    try {
+      const parsed = JSON.parse(reply);
+      if (parsed.tool == tools.getCourses.name) {
+        console.log("TOOL CALL\n");
+        const result = await tools.getCourses(parsed.args.major);
+        const query = await chatbot(`Here's a list of courses: ${result}  
+                                  "\n\nList them all by ID, in increasing order, 
+                                  exactly as they appear, followed by the name
+                                  CS105 - intro to computing, CS109 - computing for engineers`, "");  
+                                  console.log(query);
+        return res.status(200).json({ reply: query });
+      }
+    } catch (e) {
+      console.log(e)
+    }
+    return res.status(200).json({ reply: reply });
+  }
+  catch (err: any) {
+    console.error("API error:", err);
+    return res
+      .status(500)
+      .json({ error: "Failed to read or parse data.json" });
+  }
+}
