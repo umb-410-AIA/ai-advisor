@@ -62,6 +62,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     
     try {
       const parsed = JSON.parse(reply);
+      console.log({parsed, tool: parsed.tools})
       if (parsed.tool == tools.getCourses.name) {
         console.log("TOOL CALL\n");
         const result = await tools.getCourses(parsed.args.major);
