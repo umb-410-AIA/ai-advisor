@@ -3,7 +3,7 @@ import OpenAI from "openai";
 import data from "./data/data.json";
 import { assertRequestHasValidJwt } from "@/utils/auth";
 
-const defaul_system_prompt = `
+const default_system_prompt = `
     You are a chatbot advisor assistant for a college website, meant to help students plan and choose courses.
     If the user asks for courses, respond ONLY with a valid JSON object (no prose, no markdown, no explanation).
     The JSON must match exactly this format:
@@ -16,6 +16,15 @@ const defaul_system_prompt = `
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY, // from your .env.local
 });
+
+function extractFirstJsonObject(s: string) {
+  // strip code fences
+  s = s.replace(/```(?:json)?/gi, "").replace(/```/g, "").trim();
+  // grab first {...} block
+  const m = s.match(/\{[\s\S]*\}/);
+  if (!m) throw new Error("No JSON object found");
+  return m[0];
+}
 
 async function chatbot(prompt: string, system_prompt: string) {
       const completion = await openai.chat.completions.create({
@@ -58,11 +67,11 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     };
 
     // combine system_prompt with user message
-    const reply = await chatbot(message, defaul_system_prompt);
+    const reply = await chatbot(message, default_system_prompt);
     
     try {
-      const parsed = JSON.parse(reply);
-      console.log({parsed, tool: parsed.tools})
+      const parsed = JSON.parse(extractFirstJsonObject(reply));
+      console.log({parsed, tool: parsed.tool})
       if (parsed.tool == tools.getCourses.name) {
         console.log("TOOL CALL\n");
         const result = await tools.getCourses(parsed.args.major);
