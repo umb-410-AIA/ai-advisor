@@ -1,8 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import * as ollama from "ollama"
-import fs from "fs";
 import path from "path";
 import OpenAI from "openai";
+import data from "./data/data.json";
 
 const defaul_system_prompt = `
     You are a chatbot advisor assistant for a college website, meant to help students plan and choose courses.
@@ -39,8 +38,6 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
     // Read the JSON file
     const dbPath = path.join(process.cwd(), "./pages/api/data/data.json");
-    const raw = fs.readFileSync(dbPath, "utf8");
-    const data = JSON.parse(raw);
 
     // Convert the object into an array of classes
     const classes = Object.values(data);
