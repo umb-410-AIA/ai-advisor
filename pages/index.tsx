@@ -3,7 +3,7 @@ import { FormEventHandler, useCallback, useState } from "react";
 import Link from 'next/link';
 import Head from "next/head";
 import { Send } from "lucide-react";
-
+//
 export default function Home() {
   const [input, setInput] = useState("");
   const [chat, setChat] = useState<{ user: string; bot: string }[]>([]);
