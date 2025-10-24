@@ -54,10 +54,8 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     // Convert the object into an array of classes
     const classes = Object.values(data);
 
-    console.log({classes})
-
     const tools = {
-      getCourses: async (major: string) => {
+      getCourses: async ({ major }: { major: string }) => {
         const prunedClasses = classes
                               .filter((cls: any) => cls.id.startsWith(major.toUpperCase()))
                               .map(
@@ -73,15 +71,13 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     
     try {
       const parsed = JSON.parse(extractFirstJsonObject(reply));
-      console.log({parsed, tool: parsed.tool})
-      if (parsed.tool === 'getCourses') {
-        console.log("TOOL CALL\n");
-        const result = await tools.getCourses(parsed.args.major);
-        console.log(result)
-        const query = await chatbot(`Here's a list of courses: ${result}  
-                                  "\n\nList them all by ID, in increasing order, 
-                                  exactly as they appear, followed by the name
-                                  CS105 - intro to computing, CS109 - computing for engineers`, "");  
+      if (tools.hasOwnProperty(parsed.tool)) {
+        console.log("TOOL CALL\n" + parsed.tool);
+        const result = await tools[parsed.tool](parsed.args);
+        const query = await chatbot(`
+                                    Here's the result of your tool call: ${result}  
+                                    \n\n Here is the user's message/request: \n\n"""${message}"""
+                                    Please use the result of the tool call to provide the most helpful response possible.`, "");  
                                   console.log(query);
         return res.status(200).json({ reply: query });
       }
