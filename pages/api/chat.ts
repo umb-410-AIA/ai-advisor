@@ -54,6 +54,8 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     // Convert the object into an array of classes
     const classes = Object.values(data);
 
+    console.log({classes})
+
     const tools = {
       getCourses: async (major: string) => {
         const prunedClasses = classes
@@ -75,6 +77,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       if (parsed.tool == tools.getCourses.name) {
         console.log("TOOL CALL\n");
         const result = await tools.getCourses(parsed.args.major);
+        console.log(result)
         const query = await chatbot(`Here's a list of courses: ${result}  
                                   "\n\nList them all by ID, in increasing order, 
                                   exactly as they appear, followed by the name
