@@ -1,5 +1,4 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import path from "path";
 import OpenAI from "openai";
 import data from "./data/data.json";
 import { assertRequestHasValidJwt } from "@/utils/auth";
@@ -43,9 +42,6 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   try {
     const { message } = req.body;
 
-    // Read the JSON file
-    const dbPath = path.join(process.cwd(), "./pages/api/data/data.json");
-
     // Convert the object into an array of classes
     const classes = Object.values(data);
 
@@ -79,6 +75,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     } catch (e) {
       console.log(e)
     }
+    console.log(reply);
     return res.status(200).json({ reply: reply });
   }
   catch (err: any) {
