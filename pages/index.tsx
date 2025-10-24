@@ -25,6 +25,7 @@ export default function Home() {
     const data = await res.json();
 
     setChat([...chat, { user: input, bot: data.reply }]);
+    setInput('');
     setLoading(false);
   }, [input, token, chat]);
 
