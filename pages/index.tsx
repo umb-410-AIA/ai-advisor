@@ -1,16 +1,35 @@
-import { useState } from "react";
+import { useAuth } from "@/contexts/AuthContext";
+import { FormEventHandler, useCallback, useState } from "react";
+import Link from 'next/link';
 import Head from "next/head";
 import { Send } from "lucide-react";
 
 export default function Home() {
-  const [message, setMessage] = useState("");
-  const [chat, setChat] = useState<string[]>([]);
+  const [input, setInput] = useState("");
+  const [chat, setChat] = useState<{ user: string; bot: string }[]>([]);
+  const [loading, setLoading] = useState<boolean>(false);
 
-  const handleSend = () => {
-    if (!message.trim()) return;
-    setChat((prev) => [...prev, `You: ${message}`]);
-    setMessage("");
-  };
+  const { token } = useAuth();
+
+  const sendMessage = useCallback<FormEventHandler>(async (e) => {
+    if (e) e.preventDefault();
+    if (!input.trim()) return;
+
+    setLoading(true);
+    const res = await fetch("/api/chat", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${token}`
+      },
+      body: JSON.stringify({ message: input }),
+    });
+    const data = await res.json();
+
+    setChat([...chat, { user: input, bot: data.reply }]);
+    setInput('');
+    setLoading(false);
+  }, [input, token, chat]);
 
   return (
     <div style={styles.page}>
@@ -56,27 +75,37 @@ export default function Home() {
             Let's get you started with finding the correct course for you.
           </p>
         ) : (
-          chat.map((msg, idx) => (
-            <p key={idx} style={styles.chatMessage}>
-              {msg}
-            </p>
+          chat.map((msg, i) => (
+            <div key={i} style={styles.chatMessage}>
+              <div style={{ marginBottom: 8 }}>
+                <b>You:</b>
+                <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
+              </div>
+              <div>
+                <b>Bot:</b>
+                <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
+              </div>
+            </div>
           ))
         )}
       </div>
 
       {/* Chat Bar */}
-      <div style={styles.chatBar}>
+      <form onSubmit={sendMessage} style={styles.chatBar}>
         <input
           style={styles.textBox}
-          value={message}
-          onChange={(e) => setMessage(e.target.value)}
+          disabled={loading}
+          value={input}
+          onChange={(e) => setInput(e.target.value)}
           placeholder="Type your question here..."
         />
-        <button style={styles.sendButton} onClick={handleSend}>
+        <button style={styles.sendButton} disabled={loading} type="submit">
           <Send size={16} style={{ marginRight: 5 }} />
-          Send
+          {loading ? '...' : 'Send'}
         </button>
-      </div>
+      </form>
+
+      <Link href="logout" style={styles.logoutLink}>Log out</Link>
 
       <footer style={styles.footer}>
         © {new Date().getFullYear()} UMass Boston | Intelligent Academic Path Planner
@@ -138,7 +167,7 @@ const styles: Record<string, any> = {
     fontSize: "14px",
   },
   chatMessage: {
-    margin: "5px 0",
+    margin: "10px 0",
     color: "#333",
   },
   chatBar: {
@@ -166,8 +195,13 @@ const styles: Record<string, any> = {
     alignItems: "center",
     cursor: "pointer",
   },
+  logoutLink: {
+    marginTop: "20px",
+    color: "#004aad",
+    textDecoration: "underline",
+  },
   footer: {
-    marginTop: "40px",
+    marginTop: "20px",
     color: "#777",
     fontSize: "12px",
   },
