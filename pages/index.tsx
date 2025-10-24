@@ -1,15 +1,25 @@
 import { useAuth } from "@/contexts/AuthContext";
-import { FormEventHandler, useCallback, useState } from "react";
+import { FormEventHandler, useCallback, useState, useEffect } from "react";
 import Link from 'next/link';
 import Head from "next/head";
 import { Send } from "lucide-react";
-//
+import { useRouter } from "next/navigation";
+
 export default function Home() {
   const [input, setInput] = useState("");
   const [chat, setChat] = useState<{ user: string; bot: string }[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
 
-  const { token } = useAuth();
+  const { token, isAuthenticated } = useAuth();
+  const router = useRouter();
+
+  // Redirect to login if not authenticated
+  useEffect(() => {
+    if (!isAuthenticated) {
+      console.log('User not authenticated, redirecting to login...');
+      router.push('/login');
+    }
+  }, [isAuthenticated, router]);
 
   const sendMessage = useCallback<FormEventHandler>(async (e) => {
     if (e) e.preventDefault();
@@ -19,12 +29,13 @@ export default function Home() {
     if (!token) {
       console.error('No authentication token found');
       setChat([...chat, { user: input, bot: 'Error: Please log in to use the chat.' }]);
+      setInput('');
       return;
     }
 
     setLoading(true);
     try {
-      console.log('Sending message to API...');
+      console.log('Sending message to API with token:', token ? 'Token present' : 'No token');
       const res = await fetch("/api/chat", {
         method: "POST",
         headers: {
@@ -35,7 +46,8 @@ export default function Home() {
       });
       
       if (!res.ok) {
-        console.error('API request failed:', res.status, res.statusText);
+        const errorData = await res.json().catch(() => ({}));
+        console.error('API request failed:', res.status, res.statusText, errorData);
         throw new Error(`API request failed: ${res.status}`);
       }
       
@@ -47,6 +59,7 @@ export default function Home() {
     } catch (error) {
       console.error('Error sending message:', error);
       setChat([...chat, { user: input, bot: 'Error: Failed to get response from server.' }]);
+      setInput('');
     } finally {
       setLoading(false);
     }
