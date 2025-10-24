@@ -13,7 +13,6 @@ export default function Home() {
   const sendMessage = useCallback<FormEventHandler>(async (e) => {
     if (e) e.preventDefault();
 
-    setLoading(true);
     const res = await fetch("/api/chat", {
       method: "POST",
       headers: {
@@ -57,6 +56,7 @@ export default function Home() {
             value={input}
             onChange={(e) => setInput(e.target.value)}
             style={{ flex: 1, padding: 8 }}
+            onSubmit={sendMessage}
             placeholder="Ask a question..."
           />
           <button disabled={loading} onClick={sendMessage} style={{ padding: "8px 16px" }}>
