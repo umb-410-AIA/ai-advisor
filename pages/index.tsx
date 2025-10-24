@@ -15,20 +15,41 @@ export default function Home() {
     if (e) e.preventDefault();
     if (!input.trim()) return;
 
-    setLoading(true);
-    const res = await fetch("/api/chat", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "Authorization": `Bearer ${token}`
-      },
-      body: JSON.stringify({ message: input }),
-    });
-    const data = await res.json();
+    // Check if token exists
+    if (!token) {
+      console.error('No authentication token found');
+      setChat([...chat, { user: input, bot: 'Error: Please log in to use the chat.' }]);
+      return;
+    }
 
-    setChat([...chat, { user: input, bot: data.reply }]);
-    setInput('');
-    setLoading(false);
+    setLoading(true);
+    try {
+      console.log('Sending message to API...');
+      const res = await fetch("/api/chat", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`
+        },
+        body: JSON.stringify({ message: input }),
+      });
+      
+      if (!res.ok) {
+        console.error('API request failed:', res.status, res.statusText);
+        throw new Error(`API request failed: ${res.status}`);
+      }
+      
+      const data = await res.json();
+      console.log('API response:', data);
+
+      setChat([...chat, { user: input, bot: data.reply }]);
+      setInput('');
+    } catch (error) {
+      console.error('Error sending message:', error);
+      setChat([...chat, { user: input, bot: 'Error: Failed to get response from server.' }]);
+    } finally {
+      setLoading(false);
+    }
   }, [input, token, chat]);
 
   return (

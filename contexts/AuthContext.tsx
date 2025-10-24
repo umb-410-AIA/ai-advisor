@@ -46,6 +46,7 @@ export const AuthProvider: React.FC<React.PropsWithChildren> = ({ children }) =>
   }, []);
 
   const login = useCallback<LoginFn>(async (password: string) => {
+    console.log('Login function called');
     const res = await fetch("/api/auth/login", {
       method: "POST",
       headers: {
@@ -54,20 +55,29 @@ export const AuthProvider: React.FC<React.PropsWithChildren> = ({ children }) =>
       body: JSON.stringify({ password }),
     });
 
+    console.log('Login response status:', res.status);
+
     if (!res.ok) {
+      const errorData = await res.json().catch(() => ({}));
+      console.error('Login failed:', errorData);
       // You can refine error handling based on your API's error shape
-      throw new Error("Authentication failed. Check the password and try again.");
+      throw new Error(errorData.error || "Authentication failed. Check the password and try again.");
     }
 
     const data = (await res.json()) as { token: string };
+    console.log('Login response data:', data);
+    
     if (!data?.token) {
       throw new Error("Login response did not include a token.");
     }
 
     setToken(data.token);
+    console.log('Token set successfully');
     try {
       window.localStorage.setItem(TOKEN_STORAGE_KEY, data.token);
-    } catch {
+      console.log('Token saved to localStorage');
+    } catch (err) {
+      console.error('Failed to save token to localStorage:', err);
       // Ignore storage write errors (e.g., in private mode)
     }
   }, []);

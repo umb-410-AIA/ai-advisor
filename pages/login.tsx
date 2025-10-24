@@ -24,9 +24,12 @@ export default function LoginPage() {
     setLoading(true);
 
     try {
+      console.log('Attempting login...');
       await login(password);
+      console.log('Login successful, redirecting...');
       router.push("/");
     } catch (err) {
+      console.error('Login error:', err);
       setError((err as Error).message);
     } finally {
       setLoading(false);
