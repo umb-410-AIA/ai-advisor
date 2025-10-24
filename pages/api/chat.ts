@@ -51,9 +51,6 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   try {
     const { message } = req.body;
 
-  try {
-    const { message } = req.body;
-
     // Convert the object into an array of classes
     const classes = Object.values(data);
 
