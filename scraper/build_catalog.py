@@ -17,7 +17,7 @@ assert COURSE_CATALOG_PATH
 COURSE_CATALOG_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), COURSE_CATALOG_PATH))
 
 semester_urls = [
-    'https://courses.umb.edu/course_catalog/subjects/2025%20Spring',
+    'https://courses.umb.edu/course_catalog/subjects/2026%20Spring',
 ]
 
 catalog_data = {}
