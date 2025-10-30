@@ -2,13 +2,26 @@ import { useAuth } from "@/contexts/AuthContext";
 import { FormEventHandler, useCallback, useState, useEffect } from "react";
 import Link from 'next/link';
 import Head from "next/head";
-import { Send } from "lucide-react";
+import { Send, Paperclip, Menu } from "lucide-react";
 import { useRouter } from "next/navigation";
 
 export default function Home() {
   const [input, setInput] = useState("");
   const [chat, setChat] = useState<{ user: string; bot: string }[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
+  const [isTextBoxHovered, setIsTextBoxHovered] = useState(false);
+  const [isSendButtonHovered, setIsSendButtonHovered] = useState(false);
+  const [isFileButtonHovered, setIsFileButtonHovered] = useState(false);
+  const [isMenuButtonHovered, setIsMenuButtonHovered] = useState(false);
+  const [selectedFiles, setSelectedFiles] = useState<FileList | null>(null);
+  const [mousePos, setMousePos] = useState({ x: 50, y: 50 });
+
+  const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = ((e.clientX - rect.left) / rect.width) * 100;
+    const y = ((e.clientY - rect.top) / rect.height) * 100;
+    setMousePos({ x, y });
+  };
 
   const { token, isAuthenticated } = useAuth();
   const router = useRouter();
@@ -69,9 +82,41 @@ export default function Home() {
     <div style={styles.page}>
       <Head>
         <title>Intelligent Academic Path Planner</title>
+        <style>{`
+          input::placeholder {
+            color: #ffffff !important;
+            opacity: 0.9;
+          }
+        `}</style>
       </Head>
 
-      <h1 style={styles.title}>Intelligent Academic Path Planner</h1>
+      {/* Title Bar */}
+      <div style={styles.titleBar}>
+        <button 
+          style={{
+            ...styles.menuButton,
+            ...(isMenuButtonHovered ? {
+              ...styles.menuButtonHover,
+              background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.35))`,
+            } : {}),
+          }}
+          onMouseEnter={() => setIsMenuButtonHovered(true)}
+          onMouseLeave={() => setIsMenuButtonHovered(false)}
+          onMouseMove={handleMouseMove}
+        >
+          <Menu size={24} color="#ffffff" />
+        </button>
+        <h1 style={styles.titleBarHeading}>Intelligent Academic Path Planner</h1>
+        <select style={styles.universityDropdown}>
+          <option value="">Select Your University</option>
+          <option>UMass Boston</option>
+          <option>MIT</option>
+          <option>Harvard University</option>
+          <option>Boston University</option>
+          <option>Northeastern University</option>
+        </select>
+      </div>
+
       <p style={styles.subtitle}>AI-Powered Advisor for University Students</p>
 
       {/* Dropdown Section */}
@@ -79,7 +124,7 @@ export default function Home() {
         <input style={styles.input} placeholder="Your Name" />
 
         <select style={styles.input}>
-          <option value="">Select Major</option>
+          <option value="">Select your Major</option>
           <option>Computer Science</option>
           <option>Mathematics</option>
           <option>Engineering</option>
@@ -127,13 +172,59 @@ export default function Home() {
       {/* Chat Bar */}
       <form onSubmit={sendMessage} style={styles.chatBar}>
         <input
-          style={styles.textBox}
+          style={{
+            ...styles.textBox,
+            ...(isTextBoxHovered ? styles.textBoxHover : {}),
+          }}
           disabled={loading}
           value={input}
           onChange={(e) => setInput(e.target.value)}
+          onMouseEnter={() => setIsTextBoxHovered(true)}
+          onMouseLeave={() => setIsTextBoxHovered(false)}
           placeholder="Type your question here..."
         />
-        <button style={styles.sendButton} disabled={loading} type="submit">
+        
+        {/* File Upload Button */}
+        <label 
+          htmlFor="file-upload" 
+          style={{
+            ...styles.fileUploadButton,
+            ...(isFileButtonHovered ? {
+              ...styles.fileUploadButtonHover,
+              background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #e8edf2, #7a8388)`,
+            } : {}),
+          }}
+          onMouseEnter={() => setIsFileButtonHovered(true)}
+          onMouseLeave={() => setIsFileButtonHovered(false)}
+          onMouseMove={handleMouseMove as any}
+        >
+          <Paperclip size={16} style={{ marginRight: 5 }} />
+          {selectedFiles && selectedFiles.length > 0 
+            ? `${selectedFiles.length} file(s)` 
+            : 'Attach'}
+        </label>
+        <input
+          id="file-upload"
+          type="file"
+          multiple
+          onChange={(e) => setSelectedFiles(e.target.files)}
+          style={{ display: 'none' }}
+        />
+        
+        <button
+          style={{
+            ...styles.sendButton,
+            ...(isSendButtonHovered ? {
+              ...styles.sendButtonHover,
+              background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #99ccff, #1a75d9)`,
+            } : {}),
+          }}
+          disabled={loading}
+          type="submit"
+          onMouseEnter={() => setIsSendButtonHovered(true)}
+          onMouseLeave={() => setIsSendButtonHovered(false)}
+          onMouseMove={handleMouseMove}
+        >
           <Send size={16} style={{ marginRight: 5 }} />
           {loading ? '...' : 'Send'}
         </button>
@@ -156,7 +247,58 @@ const styles: Record<string, any> = {
     alignItems: "center",
     background: "linear-gradient(to bottom right, #f0f6ff, #ffffff)",
     padding: "40px 20px",
+    paddingTop: "100px", // Add space for fixed title bar
     fontFamily: "Arial, sans-serif",
+  },
+  titleBar: {
+    position: "fixed",
+    top: 0,
+    left: 0,
+    right: 0,
+    height: "70px",
+    background: "linear-gradient(to right, #004aad, #0066cc)",
+    boxShadow: "0 2px 10px rgba(0,0,0,0.15)",
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "space-between",
+    padding: "0 30px",
+    zIndex: 1000,
+  },
+  menuButton: {
+    background: "transparent",
+    border: "none",
+    cursor: "pointer",
+    padding: "8px",
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    transition: "all 0.3s ease",
+    borderRadius: "4px",
+  },
+  menuButtonHover: {
+    background: "rgba(255, 255, 255, 0.2)",
+    transform: "scale(1.15)",
+  },
+  titleBarHeading: {
+    fontSize: "1.5rem",
+    color: "#ffffff",
+    fontWeight: "bold",
+    margin: 0,
+    position: "absolute",
+    left: "50%",
+    transform: "translateX(-50%)",
+  },
+  universityDropdown: {
+    padding: "10px 15px",
+    border: "2px solid #ffffff",
+    borderRadius: "8px",
+    background: "rgba(255, 255, 255, 0.95)",
+    fontSize: "14px",
+    fontWeight: "500",
+    color: "#004aad",
+    cursor: "pointer",
+    minWidth: "200px",
+    outline: "none",
   },
   title: {
     fontSize: "2.5rem",
@@ -183,6 +325,7 @@ const styles: Record<string, any> = {
     borderRadius: "8px",
     width: "200px",
     fontSize: "14px",
+    color: "#ffffff",
   },
   chatWindow: {
     width: "100%",
@@ -217,10 +360,17 @@ const styles: Record<string, any> = {
     border: "1px solid #ccc",
     borderRadius: "8px",
     fontSize: "14px",
+    transition: "all 0.3s ease",
+    color: "#ffffff",
   },
-  sendButton: {
-    background: "#004aad",
-    color: "white",
+  textBoxHover: {
+    border: "2px solid #004aad",
+    boxShadow: "0 0 12px rgba(0, 74, 173, 0.5)",
+    transform: "translateY(-2px)",
+  },
+  fileUploadButton: {
+    background: "#6c757d",
+    color: "#ffffff",
     border: "none",
     borderRadius: "8px",
     padding: "10px 16px",
@@ -228,6 +378,31 @@ const styles: Record<string, any> = {
     display: "flex",
     alignItems: "center",
     cursor: "pointer",
+    transition: "all 0.3s ease",
+    whiteSpace: "nowrap",
+  },
+  fileUploadButtonHover: {
+    background: "#5a6268",
+    boxShadow: "0 6px 18px rgba(108, 117, 125, 0.5)",
+    transform: "translateY(-3px)",
+  },
+  sendButton: {
+    background: "#004aad",
+    color: "#ffffff",
+    border: "none",
+    borderRadius: "8px",
+    padding: "10px 16px",
+    fontSize: "14px",
+    display: "flex",
+    alignItems: "center",
+    cursor: "pointer",
+    transition: "all 0.3s ease",
+  },
+  sendButtonHover: {
+    background: "#0066cc",
+    color: "#ffffff",
+    boxShadow: "0 6px 18px rgba(0, 74, 173, 0.6)",
+    transform: "translateY(-3px) scale(1.05)",
   },
   logoutLink: {
     marginTop: "20px",
