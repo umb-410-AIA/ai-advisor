@@ -12,3 +12,5 @@ dependencies:
   - tqdm
   - typing_extensions
   - vadersentiment
+  - requests
+  - lxml
