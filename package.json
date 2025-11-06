@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "dev": "next dev",
-  "dev:open": "npm run dev & sleep 1 && open http://localhost:3000",
+    "dev": "next dev",
+    "dev:open": "npm run dev & sleep 1 && open http://localhost:3000",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.80.0",
     "@types/jsonwebtoken": "^9.0.10",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.546.0",
@@ -16,7 +17,8 @@
     "ollama": "^0.6.0",
     "openai": "^6.6.0",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
