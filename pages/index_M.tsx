@@ -55,7 +55,7 @@ export default function Home() {
           animation-delay: 4s;
         }
         .chat-scroll::-webkit-scrollbar {
-          width: 6px;
+          width: 10px;
         }
         .chat-scroll::-webkit-scrollbar-track {
           background: transparent;
@@ -84,9 +84,10 @@ export default function Home() {
             style={styles.menuButton}
             onMouseEnter={(e) => e.currentTarget.style.transform = 'scale(1.1)'}
             onMouseLeave={(e) => e.currentTarget.style.transform = 'scale(1)'}
+            
           >
             <Menu size={24} color="#4f46e5" />
-          </button>
+          </button >
           
           <div style={styles.logoSection}>
             <GraduationCap color="#4f46e5" size={32} />
@@ -183,6 +184,7 @@ export default function Home() {
       {/* Overlay when sidebar is open */}
       {isSidebarOpen && (
         <div 
+          
           style={styles.overlay}
           onClick={() => setIsSidebarOpen(false)}
         />
@@ -204,121 +206,7 @@ export default function Home() {
           </p>
         </div>
 
-        {/* Profile Input Cards */}
-        <div style={styles.cardsGrid}>
-          <div 
-            style={{
-              ...styles.card,
-              transform: hoveredCard === 'name' ? 'translateY(-4px)' : 'translateY(0)',
-              boxShadow: hoveredCard === 'name' ? '0 10px 25px -5px rgba(0, 0, 0, 0.15)' : '0 2px 10px rgba(0, 0, 0, 0.05)'
-            }}
-            onMouseEnter={() => setHoveredCard('name')}
-            onMouseLeave={() => setHoveredCard(null)}
-          >
-            <label style={styles.cardLabel}>
-              <User color="#4f46e5" size={20} style={{
-                transform: hoveredCard === 'name' ? 'scale(1.1)' : 'scale(1)',
-                transition: 'transform 0.3s'
-              }} />
-              <span style={{marginLeft: '8px'}}>Your Name</span>
-            </label>
-            <input
-              type="text"
-              value={userInfo.name}
-              onChange={(e) => setUserInfo({...userInfo, name: e.target.value})}
-              style={styles.cardInput}
-              placeholder="Enter your name"
-            />
-          </div>
-
-          <div 
-            style={{
-              ...styles.card,
-              transform: hoveredCard === 'major' ? 'translateY(-4px)' : 'translateY(0)',
-              boxShadow: hoveredCard === 'major' ? '0 10px 25px -5px rgba(0, 0, 0, 0.15)' : '0 2px 10px rgba(0, 0, 0, 0.05)'
-            }}
-            onMouseEnter={() => setHoveredCard('major')}
-            onMouseLeave={() => setHoveredCard(null)}
-          >
-            <label style={styles.cardLabel}>
-              <BookOpen color="#9333ea" size={20} style={{
-                transform: hoveredCard === 'major' ? 'scale(1.1)' : 'scale(1)',
-                transition: 'transform 0.3s'
-              }} />
-              <span style={{marginLeft: '8px'}}>Select Major</span>
-            </label>
-            <select 
-              value={userInfo.major}
-              onChange={(e) => setUserInfo({...userInfo, major: e.target.value})}
-              style={styles.cardInput}
-            >
-              <option value="">Choose major</option>
-              <option>Computer Science</option>
-              <option>Mathematics</option>
-              <option>Engineering</option>
-              <option>Biology</option>
-            </select>
-          </div>
-
-          <div 
-            style={{
-              ...styles.card,
-              transform: hoveredCard === 'year' ? 'translateY(-4px)' : 'translateY(0)',
-              boxShadow: hoveredCard === 'year' ? '0 10px 25px -5px rgba(0, 0, 0, 0.15)' : '0 2px 10px rgba(0, 0, 0, 0.05)'
-            }}
-            onMouseEnter={() => setHoveredCard('year')}
-            onMouseLeave={() => setHoveredCard(null)}
-          >
-            <label style={styles.cardLabel}>
-              <GraduationCap color="#ec4899" size={20} style={{
-                transform: hoveredCard === 'year' ? 'scale(1.1)' : 'scale(1)',
-                transition: 'transform 0.3s'
-              }} />
-              <span style={{marginLeft: '8px'}}>College Year</span>
-            </label>
-            <select 
-              value={userInfo.year}
-              onChange={(e) => setUserInfo({...userInfo, year: e.target.value})}
-              style={styles.cardInput}
-            >
-              <option value="">Choose year</option>
-              <option>Freshman</option>
-              <option>Sophomore</option>
-              <option>Junior</option>
-              <option>Senior</option>
-            </select>
-          </div>
-
-          <div 
-            style={{
-              ...styles.card,
-              transform: hoveredCard === 'semester' ? 'translateY(-4px)' : 'translateY(0)',
-              boxShadow: hoveredCard === 'semester' ? '0 10px 25px -5px rgba(0, 0, 0, 0.15)' : '0 2px 10px rgba(0, 0, 0, 0.05)'
-            }}
-            onMouseEnter={() => setHoveredCard('semester')}
-            onMouseLeave={() => setHoveredCard(null)}
-          >
-            <label style={styles.cardLabel}>
-              <Calendar color="#4f46e5" size={20} style={{
-                transform: hoveredCard === 'semester' ? 'scale(1.1)' : 'scale(1)',
-                transition: 'transform 0.3s'
-              }} />
-              <span style={{marginLeft: '8px'}}>Semester</span>
-            </label>
-            <select 
-              value={userInfo.semester}
-              onChange={(e) => setUserInfo({...userInfo, semester: e.target.value})}
-              style={styles.cardInput}
-            >
-              <option value="">Choose semester</option>
-              <option>Fall 2025</option>
-              <option>Spring 2026</option>
-              <option>Summer 2026</option>
-            </select>
-          </div>
-        </div>
-
-        {/* Chat Window */}
+       {/* Chat Window */}
         <div style={styles.chatContainer}>
           <div style={styles.chatHeader}>
             <h3 style={styles.chatHeaderTitle}>
