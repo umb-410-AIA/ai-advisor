@@ -1,6 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import OpenAI from "openai";
-import data from "./data/data.json";
+import data from "../../data/mit_courses.json"
 import { assertRequestHasValidJwt } from "@/utils/auth";
 
 const default_system_prompt = `
