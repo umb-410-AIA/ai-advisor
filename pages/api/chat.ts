@@ -2,6 +2,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 import OpenAI from "openai";
 import data from "./data/data.json";
 import { assertRequestHasValidJwt } from "@/utils/auth";
+import { insertChatMessage } from "@/utils/chats";
 
 const default_system_prompt = `
     You are a chatbot advisor assistant for a college website, meant to help students plan and choose courses.
@@ -47,6 +48,10 @@ const visualization_system_prompt = `
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
+
+function isValidUuid(value: string): boolean {
+  return /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(value);
+}
 
 function extractFirstJsonObject(s: string) {
   s = s.replace(/```(?:json)?/gi, "").replace(/```/g, "").trim();
@@ -113,7 +118,15 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   }
 
   try {
-    const { message } = req.body;
+    const { message, chatId } = req.body ?? {};
+
+    if (typeof message !== "string" || !message.trim()) {
+      return res.status(400).json({ error: "Message is required" });
+    }
+
+    if (typeof chatId !== "string" || !isValidUuid(chatId)) {
+      return res.status(400).json({ error: "chatId must be a valid UUID" });
+    }
 
     const classes = Object.values(data);
 
@@ -131,56 +144,83 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     const needsVisualization = shouldProvideVisualization(message);
     const systemPrompt = needsVisualization ? visualization_system_prompt : default_system_prompt;
 
-    const reply = await chatbot(message, systemPrompt);
-    
-    // Try to parse as tool call first
+    await insertChatMessage(chatId, message, "user");
+
+    const initialReply = await chatbot(message, systemPrompt);
+
+    let finalReply = "";
+    let finalVisualizationType: string | undefined;
+    let finalVisualizationData: any;
+    let handled = false;
+
     try {
-      const parsed = JSON.parse(extractFirstJsonObject(reply));
-      if (tools.hasOwnProperty(parsed.tool)) {
+      const parsed = JSON.parse(extractFirstJsonObject(initialReply));
+      if (parsed && tools.hasOwnProperty(parsed.tool)) {
         console.log("TOOL CALL\n" + parsed.tool);
         const result = await tools[parsed.tool](parsed.args);
-        
-        const enhancedSystemPrompt = needsVisualization 
+
+        const enhancedSystemPrompt = needsVisualization
           ? `${visualization_system_prompt}\n\nProvide a helpful response and include visualization data if appropriate.`
           : "";
-        
-        const query = await chatbot(
+
+        const followUp = await chatbot(
           `Here's the result of your tool call: ${result}\n\nHere is the user's message/request:\n\n"""${message}"""\nPlease use the result of the tool call to provide the most helpful response possible.`,
           enhancedSystemPrompt
         );
-        
-        console.log(query);
-        
-        // Check for visualization data in the response
-        const vizData = extractVisualizationData(query);
+
+        console.log(followUp);
+
+        const vizData = extractVisualizationData(followUp);
         if (vizData) {
-          const textOnly = query.split("VISUALIZATION_DATA:")[0].trim();
-          return res.status(200).json({
-            reply: textOnly,
-            visualizationType: vizData.type,
-            data: vizData
-          });
+          finalReply = followUp.split("VISUALIZATION_DATA:")[0].trim();
+          finalVisualizationType = vizData.type;
+          finalVisualizationData = vizData;
+        } else {
+          finalReply = followUp;
         }
-        
-        return res.status(200).json({ reply: query });
+        handled = true;
       }
     } catch (e) {
       console.log(e);
     }
-    
-    // Check for visualization data in regular response
-    const vizData = extractVisualizationData(reply);
-    if (vizData) {
-      const textOnly = reply.split("VISUALIZATION_DATA:")[0].trim();
-      return res.status(200).json({
-        reply: textOnly,
-        visualizationType: vizData.type,
-        data: vizData
-      });
+
+    if (!handled) {
+      const vizData = extractVisualizationData(initialReply);
+      if (vizData) {
+        finalReply = initialReply.split("VISUALIZATION_DATA:")[0].trim();
+        finalVisualizationType = vizData.type;
+        finalVisualizationData = vizData;
+      } else {
+        finalReply = initialReply;
+      }
     }
-    
-    console.log(reply);
-    return res.status(200).json({ reply: reply });
+
+    if (!finalReply) {
+      finalReply = "No response";
+    }
+
+    const assistantPayload: Record<string, any> = {
+      reply: finalReply,
+    };
+
+    if (finalVisualizationType && finalVisualizationData) {
+      assistantPayload.visualizationType = finalVisualizationType;
+      assistantPayload.visualizationData = finalVisualizationData;
+    }
+
+    await insertChatMessage(chatId, JSON.stringify(assistantPayload), "assistant");
+
+    const responseBody: Record<string, any> = {
+      reply: finalReply,
+    };
+
+    if (finalVisualizationType && finalVisualizationData) {
+      responseBody.visualizationType = finalVisualizationType;
+      responseBody.data = finalVisualizationData;
+    }
+
+    console.log(finalReply);
+    return res.status(200).json(responseBody);
   } catch (err: any) {
     console.error("API error:", err);
     return res.status(500).json({ error: "Failed to process request" });
