@@ -28,6 +28,7 @@ type LoginFn = (password: string) => Promise<void>;
 type AuthContextValue = {
   token: string | null;
   isAuthenticated: boolean;
+  authLoading: boolean;
   login: LoginFn;
   logout: () => void;
 };
@@ -38,11 +39,13 @@ const TOKEN_STORAGE_KEY = "auth_token";
 
 export const AuthProvider: React.FC<React.PropsWithChildren> = ({ children }) => {
   const [token, setToken] = useState<string | null>(null);
+  const [authLoading, setAuthLoading] = useState(true);
 
   // Load token once from storage (if present)
   useEffect(() => {
     const stored = typeof window !== "undefined" ? window.localStorage.getItem(TOKEN_STORAGE_KEY) : null;
     if (stored) setToken(stored);
+    setAuthLoading(false);
   }, []);
 
   const login = useCallback<LoginFn>(async (password: string) => {
@@ -94,9 +97,10 @@ export const AuthProvider: React.FC<React.PropsWithChildren> = ({ children }) =>
   const value = useMemo<AuthContextValue>(() => ({
     token,
     isAuthenticated: Boolean(token),
+    authLoading,
     login,
     logout,
-  }), [token, login, logout]);
+  }), [token, authLoading, login, logout]);
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
 };

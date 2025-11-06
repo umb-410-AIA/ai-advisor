@@ -118,14 +118,14 @@ export default function ChatPage({ chatId, initialChat }: ChatPageProps) {
     setMousePos({ x, y });
   };
 
-  const { token, isAuthenticated } = useAuth();
+  const { token, isAuthenticated, authLoading } = useAuth();
   const router = useRouter();
 
   useEffect(() => {
-    // if (!isAuthenticated) {
-    //   router.push("/login");
-    // }
-  }, [isAuthenticated, router]);
+    if (!authLoading && !isAuthenticated) {
+      router.push("/login");
+    }
+  }, [authLoading, isAuthenticated, router]);
 
   useEffect(() => {
     setChat(initialChat);
