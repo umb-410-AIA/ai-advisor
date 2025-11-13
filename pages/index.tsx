@@ -1,5 +1,5 @@
 import { useAuth } from "@/contexts/AuthContext";
-import { FormEventHandler, useCallback, useState, useEffect } from "react";
+import { ChangeEvent, FormEvent, FormEventHandler, useCallback, useState, useEffect } from "react";
 import Link from 'next/link';
 import Head from "next/head";
 import { Send, Paperclip, Menu, BookOpen, Award } from "lucide-react";
@@ -35,6 +35,13 @@ export default function Home() {
   const [selectedFiles, setSelectedFiles] = useState<FileList | null>(null);
   const [mousePos, setMousePos] = useState({ x: 50, y: 50 });
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [hasSubmittedProfile, setHasSubmittedProfile] = useState(false);
+  const [profileError, setProfileError] = useState<string | null>(null);
+  const [profileForm, setProfileForm] = useState({
+    university: "",
+    major: "",
+    careerGoal: "",
+  });
 
   const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
     const rect = e.currentTarget.getBoundingClientRect();
@@ -53,15 +60,17 @@ export default function Home() {
     }
   }, [isAuthenticated, router]);
 
-  const sendMessage = useCallback<FormEventHandler>(async (e) => {
-    if (e) e.preventDefault();
-    if (!input.trim()) return;
+  const submitMessage = useCallback(async (message: string) => {
+    const trimmedMessage = message.trim();
+    if (!trimmedMessage) return false;
 
     if (!token) {
       console.error('No authentication token found');
-      setChat([...chat, { user: input, bot: 'Error: Please log in to use the chat.' }]);
-      setInput('');
-      return;
+      setChat((prev) => [
+        ...prev,
+        { user: trimmedMessage, bot: 'Error: Please log in to use the chat.' },
+      ]);
+      return false;
     }
 
     setLoading(true);
@@ -73,7 +82,7 @@ export default function Home() {
           "Content-Type": "application/json",
           "Authorization": `Bearer ${token}`
         },
-        body: JSON.stringify({ message: input }),
+        body: JSON.stringify({ message: trimmedMessage }),
       });
       
       if (!res.ok) {
@@ -85,29 +94,68 @@ export default function Home() {
       const data = await res.json();
       console.log('API response:', data);
 
-      // Check if response includes visualization data
       if (data.visualizationType && data.data) {
-        setChat([...chat, { 
-          user: input, 
-          bot: data.reply,
-          visualization: {
-            type: data.visualizationType,
-            data: data.data
+        setChat((prev) => [
+          ...prev,
+          { 
+            user: trimmedMessage, 
+            bot: data.reply,
+            visualization: {
+              type: data.visualizationType,
+              data: data.data
+            }
           }
-        }]);
+        ]);
       } else {
-        setChat([...chat, { user: input, bot: data.reply }]);
+        setChat((prev) => [...prev, { user: trimmedMessage, bot: data.reply }]);
       }
       
-      setInput('');
+      return true;
     } catch (error) {
       console.error('Error sending message:', error);
-      setChat([...chat, { user: input, bot: 'Error: Failed to get response from server.' }]);
-      setInput('');
+      setChat((prev) => [
+        ...prev,
+        { user: trimmedMessage, bot: 'Error: Failed to get response from server.' }
+      ]);
+      return false;
     } finally {
       setLoading(false);
     }
-  }, [input, token, chat]);
+  }, [token]);
+
+  const sendMessage = useCallback<FormEventHandler>(async (e) => {
+    if (e) e.preventDefault();
+    if (!input.trim()) return;
+    const success = await submitMessage(input);
+    if (success) {
+      setInput('');
+    }
+  }, [input, submitMessage]);
+
+  const handleProfileChange = (e: ChangeEvent<HTMLSelectElement | HTMLInputElement>) => {
+    const { name, value } = e.target;
+    setProfileForm((prev) => ({
+      ...prev,
+      [name]: value,
+    }));
+  };
+
+  const handleProfileSubmit = useCallback(async (e: FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    if (!profileForm.university || !profileForm.major || !profileForm.careerGoal.trim()) {
+      setProfileError('Please answer every question before starting the chat.');
+      return;
+    }
+
+    setProfileError(null);
+    setHasSubmittedProfile(true);
+    const initialPayload = JSON.stringify({
+      university: profileForm.university,
+      major: profileForm.major,
+      careerGoal: profileForm.careerGoal.trim(),
+    });
+    await submitMessage(initialPayload);
+  }, [profileForm, submitMessage]);
 
   const getDifficultyColor = (difficulty?: string) => {
     switch (difficulty?.toLowerCase()) {
@@ -220,6 +268,7 @@ export default function Home() {
         </button>
         <h1 style={styles.titleBarHeading}>Intelligent Academic Path Planner</h1>
 
+        {/*
         <select style={styles.universityDropdown}>
           <option value="">Select Your University</option>
           <option>UMass Boston</option>
@@ -228,6 +277,7 @@ export default function Home() {
           <option>Boston University</option>
           <option>Northeastern University</option>
         </select>
+          */}
       </div>
 
       {/* Sidebar Menu */}
@@ -279,97 +329,172 @@ export default function Home() {
 
       <p style={styles.subtitle}>AI-Powered Advisor for University Students</p>
 
-     
-
-      {/* Chat Window */}
-      <div style={styles.chatWindow}>
-        {chat.length === 0 ? (
-          <p style={styles.placeholder}>
-            Let's get you started with finding the correct course for you.
+      {!hasSubmittedProfile ? (
+        <div style={styles.introFormContainer}>
+          <h2 style={styles.introFormTitle}>Before we begin...</h2>
+          <p style={styles.introFormDescription}>
+            Tell us a few details so the advisor can offer more relevant guidance.
           </p>
-        ) : (
-          chat.map((msg, i) => (
-            <div key={i} style={styles.chatMessage}>
-              <div style={{ marginBottom: 8 }}>
-                <b>You:</b>
-                <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
-              </div>
-              <div>
-                <b>Bot:</b>
-                <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
-                
-                {/* Render visualization if available */}
-                {msg.visualization && (
-                  <div style={{ marginTop: 15 }}>
-                    {renderVisualization(msg.visualization)}
-                  </div>
-                )}
-              </div>
+          <form style={styles.introForm} onSubmit={handleProfileSubmit}>
+            <div style={styles.introFormGroup}>
+              <label style={styles.introFormLabel} htmlFor="university">
+                What university do you go to?
+              </label>
+              <select
+                id="university"
+                name="university"
+                style={styles.introFormSelect}
+                value={profileForm.university}
+                onChange={handleProfileChange}
+              >
+                <option value="">Select a university</option>
+                <option value="UMass Boston">UMass Boston</option>
+                <option value="MIT">MIT</option>
+                <option value="Stanford">Stanford</option>
+              </select>
             </div>
-          ))
-        )}
-      </div>
 
-      {/* Chat Bar */}
-      <form onSubmit={sendMessage} style={styles.chatBar}>
-        <input
-          style={{
-            ...styles.textBox,
-            ...(isTextBoxHovered ? styles.textBoxHover : {}),
-          }}
-          disabled={loading}
-          value={input}
-          onChange={(e) => setInput(e.target.value)}
-          onMouseEnter={() => setIsTextBoxHovered(true)}
-          onMouseLeave={() => setIsTextBoxHovered(false)}
-          placeholder="Type your question here..."
-        />
-        
-        {/* File Upload Button */}
-        <label 
-          htmlFor="file-upload" 
-          style={{
-            ...styles.fileUploadButton,
-            ...(isFileButtonHovered ? {
-              ...styles.fileUploadButtonHover,
-              background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #e8edf2, #7a8388)`,
-            } : {}),
-          }}
-          onMouseEnter={() => setIsFileButtonHovered(true)}
-          onMouseLeave={() => setIsFileButtonHovered(false)}
-          onMouseMove={handleMouseMove as any}
-        >
-          <Paperclip size={16} style={{ marginRight: 5 }} />
-          {selectedFiles && selectedFiles.length > 0 
-            ? `${selectedFiles.length} file(s)` 
-            : 'Attach'}
-        </label>
-        <input
-          id="file-upload"
-          type="file"
-          multiple
-          onChange={(e) => setSelectedFiles(e.target.files)}
-          style={{ display: 'none' }}
-        />
-        
-        <button
-          style={{
-            ...styles.sendButton,
-            ...(isSendButtonHovered ? {
-              ...styles.sendButtonHover,
-              background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #99ccff, #1a75d9)`,
-            } : {}),
-          }}
-          disabled={loading}
-          type="submit"
-          onMouseEnter={() => setIsSendButtonHovered(true)}
-          onMouseLeave={() => setIsSendButtonHovered(false)}
-          onMouseMove={handleMouseMove}
-        >
-          <Send size={16} style={{ marginRight: 5 }} />
-          {loading ? '...' : 'Send'}
-        </button>
-      </form>
+            <div style={styles.introFormGroup}>
+              <label style={styles.introFormLabel} htmlFor="major">
+                What is your major?
+              </label>
+              <select
+                id="major"
+                name="major"
+                style={styles.introFormSelect}
+                value={profileForm.major}
+                onChange={handleProfileChange}
+              >
+                <option value="">Select a major</option>
+                <option value="CS">CS</option>
+                <option value="Finance">Finance</option>
+                <option value="Math">Math</option>
+                <option value="English">English</option>
+              </select>
+            </div>
+
+            <div style={styles.introFormGroup}>
+              <label style={styles.introFormLabel} htmlFor="careerGoal">
+                What kind of career do you want?
+              </label>
+              <input
+                id="careerGoal"
+                name="careerGoal"
+                style={styles.introFormInput}
+                type="text"
+                placeholder="e.g., Software Engineer, Investment Banker"
+                value={profileForm.careerGoal}
+                onChange={handleProfileChange}
+              />
+            </div>
+
+            {profileError && <p style={styles.introFormError}>{profileError}</p>}
+
+            <button
+              style={{
+                ...styles.introFormButton,
+                ...(loading ? styles.introFormButtonDisabled : {}),
+              }}
+              type="submit"
+              disabled={loading}
+            >
+              {loading ? "Starting chat..." : "Start chat"}
+            </button>
+          </form>
+        </div>
+      ) : (
+        <>
+          {/* Chat Window */}
+          <div style={styles.chatWindow}>
+            {chat.length === 0 ? (
+              <p style={styles.placeholder}>
+                Loading...
+              </p>
+            ) : (
+              chat.map((msg, i) => (
+                <div key={i} style={styles.chatMessage}>
+                  <div style={{ marginBottom: 8 }}>
+                    <b>You:</b>
+                    <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
+                  </div>
+                  <div>
+                    <b>Bot:</b>
+                    <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
+                    
+                    {/* Render visualization if available */}
+                    {msg.visualization && (
+                      <div style={{ marginTop: 15 }}>
+                        {renderVisualization(msg.visualization)}
+                      </div>
+                    )}
+                  </div>
+                </div>
+              ))
+            )}
+          </div>
+
+          {/* Chat Bar */}
+          <form onSubmit={sendMessage} style={styles.chatBar}>
+            <input
+              style={{
+                ...styles.textBox,
+                ...(isTextBoxHovered ? styles.textBoxHover : {}),
+              }}
+              disabled={loading}
+              value={input}
+              onChange={(e) => setInput(e.target.value)}
+              onMouseEnter={() => setIsTextBoxHovered(true)}
+              onMouseLeave={() => setIsTextBoxHovered(false)}
+              placeholder="Type your question here..."
+            />
+            
+            {/* File Upload Button */}
+            <label 
+              htmlFor="file-upload" 
+              style={{
+                ...styles.fileUploadButton,
+                ...(isFileButtonHovered ? {
+                  ...styles.fileUploadButtonHover,
+                  background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #e8edf2, #7a8388)`,
+                } : {}),
+              }}
+              onMouseEnter={() => setIsFileButtonHovered(true)}
+              onMouseLeave={() => setIsFileButtonHovered(false)}
+              onMouseMove={handleMouseMove as any}
+            >
+              <Paperclip size={16} style={{ marginRight: 5 }} />
+              {selectedFiles && selectedFiles.length > 0 
+                ? `${selectedFiles.length} file(s)` 
+                : 'Attach'}
+            </label>
+            <input
+              id="file-upload"
+              type="file"
+              multiple
+              onChange={(e) => setSelectedFiles(e.target.files)}
+              style={{ display: 'none' }}
+            />
+            
+            <button
+              style={{
+                ...styles.sendButton,
+                ...(isSendButtonHovered ? {
+                  ...styles.sendButtonHover,
+                  background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #99ccff, #1a75d9)`,
+                } : {}),
+              }}
+              disabled={loading}
+              type="submit"
+              onMouseEnter={() => setIsSendButtonHovered(true)}
+              onMouseLeave={() => setIsSendButtonHovered(false)}
+              onMouseMove={handleMouseMove}
+            >
+              <Send size={16} style={{ marginRight: 5 }} />
+              {loading ? '...' : 'Send'}
+            </button>
+          </form>
+        </>
+      )}
 
       <footer style={styles.footer}>
         © {new Date().getFullYear()} UMass Boston | Intelligent Academic Path Planner
@@ -508,7 +633,7 @@ const styles: Record<string, any> = {
     display: "block",
     padding: "15px 20px",
     background: "rgba(255, 255, 255, 0.1)",
-    color: "#ffffff",
+    // color: "#ffffff",
     textDecoration: "none",
     borderTop: "1px solid rgba(255, 255, 255, 0.2)",
     fontSize: "16px",
@@ -537,7 +662,6 @@ const styles: Record<string, any> = {
     borderRadius: "8px",
     width: "200px",
     fontSize: "14px",
-    color: "#ffffffff",
   },
   /*chatContainer: {
   display: "flex",
@@ -666,6 +790,81 @@ chatBar: {
     textAlign: "center",
     boxShadow: "0 -2px 10px rgba(0,0,0,0.15)",
     zIndex: 1000,
+  },
+  introFormContainer: {
+    marginTop: "140px",
+    background: "#ffffff",
+    borderRadius: "16px",
+    padding: "30px",
+    maxWidth: "520px",
+    width: "100%",
+    boxShadow: "0 20px 60px rgba(0, 74, 173, 0.2)",
+    border: "1px solid #dbe6ff",
+  },
+  introFormTitle: {
+    margin: 0,
+    marginBottom: "10px",
+    fontSize: "1.6rem",
+    color: "#004aad",
+    fontWeight: 700,
+  },
+  introFormDescription: {
+    margin: 0,
+    marginBottom: "25px",
+    color: "#4b5c79",
+    fontSize: "1rem",
+  },
+  introForm: {
+    display: "flex",
+    flexDirection: "column",
+    gap: "20px",
+  },
+  introFormGroup: {
+    display: "flex",
+    flexDirection: "column",
+    gap: "8px",
+  },
+  introFormLabel: {
+    fontWeight: 600,
+    color: "#1c2c4c",
+  },
+  introFormSelect: {
+    color: 'black',
+    padding: "12px 14px",
+    borderRadius: "10px",
+    border: "1px solid #c5d4f6",
+    fontSize: "15px",
+    outline: "none",
+    background: "#f8fbff",
+  },
+  introFormInput: {
+    color: 'black',
+    padding: "12px 14px",
+    borderRadius: "10px",
+    border: "1px solid #c5d4f6",
+    fontSize: "15px",
+    outline: "none",
+    background: "#f8fbff",
+  },
+  introFormError: {
+    color: "#dc3545",
+    fontWeight: 600,
+    margin: 0,
+  },
+  introFormButton: {
+    marginTop: "10px",
+    padding: "14px 18px",
+    borderRadius: "999px",
+    border: "none",
+    background: "linear-gradient(90deg, #004aad, #0066cc)",
+    color: "#ffffff",
+    fontSize: "1rem",
+    fontWeight: 600,
+    cursor: "pointer",
+  },
+  introFormButtonDisabled: {
+    opacity: 0.7,
+    cursor: "not-allowed",
   },
   // Visualization styles
   visualizationContainer: {
