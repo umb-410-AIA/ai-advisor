@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
 import Head from "next/head";
 import { useAuth } from "@/contexts/AuthContext";
@@ -20,6 +20,11 @@ interface UserProfile {
   graduationYear: string;
 }
 
+const COLLEGE_YEARS = ["Freshman", "Sophomore", "Junior", "Senior"];
+const GRADUATION_YEARS = ["2025", "2026", "2027", "2028", "2029", "2030"];
+const GRADUATION_SEMESTERS = ["Spring", "Summer", "Fall", "Winter"];
+const MAJORS = ["Computer Science", "Biology", "Mathematics", "Physics"];
+
 export default function Onboarding() {
   const [step, setStep] = useState<OnboardingStep>("welcome");
   const [profile, setProfile] = useState<UserProfile>({
@@ -30,8 +35,11 @@ export default function Onboarding() {
     graduationYear: "",
   });
   const [input, setInput] = useState("");
+  const [selectedSemester, setSelectedSemester] = useState("");
+  const [selectedYear, setSelectedYear] = useState("");
   const [chatHistory, setChatHistory] = useState<Array<{ role: "bot" | "user"; text: string }>>([]);
   const [isTyping, setIsTyping] = useState(false);
+  const hasShownMessage = useRef<Record<string, boolean>>({});
   
   const { token, isAuthenticated } = useAuth();
   const router = useRouter();
@@ -42,9 +50,10 @@ export default function Onboarding() {
     }
   }, [isAuthenticated, router]);
 
+  // Initial welcome message
   useEffect(() => {
-    // Show welcome message when component mounts
-    if (step === "welcome") {
+    if (step === "welcome" && !hasShownMessage.current["welcome"]) {
+      hasShownMessage.current["welcome"] = true;
       setTimeout(() => {
         addBotMessage("Hello! I'm your personalized AI bot to help you get started with your career. Let's set up your profile together! 🎓");
         setTimeout(() => {
@@ -52,20 +61,24 @@ export default function Onboarding() {
         }, 2000);
       }, 500);
     }
-  }, []);
+  }, [step]);
 
+  // Handle step messages
   useEffect(() => {
-    // Handle step transitions and bot messages
+    if (hasShownMessage.current[step]) return;
+    
+    hasShownMessage.current[step] = true;
+    
     if (step === "name") {
       addBotMessage("First, what's your name? I'd love to know what to call you! 😊");
     } else if (step === "college") {
-      addBotMessage(`Great to meet you, ${profile.name}! Which college or university are you attending?`);
+      addBotMessage(`Great to meet you, ${profile.name}! Which university are you attending?`);
     } else if (step === "major") {
       addBotMessage("What's your preferred major or field of study?");
     } else if (step === "year") {
-      addBotMessage("What year are you currently in? (Freshman, Sophomore, Junior, or Senior)");
+      addBotMessage("What year are you currently in?");
     } else if (step === "graduation") {
-      addBotMessage("Finally, what's your expected graduation year?");
+      addBotMessage("Finally, when do you expect to graduate? Select the semester and year.");
     }
   }, [step, profile.name]);
 
@@ -81,6 +94,62 @@ export default function Onboarding() {
     setChatHistory(prev => [...prev, { role: "user", text }]);
   };
 
+  const handleOptionClick = async (value: string) => {
+    addUserMessage(value);
+
+    switch (step) {
+      case "college":
+        setProfile(prev => ({ ...prev, college: value }));
+        setTimeout(() => setStep("major"), 1000);
+        break;
+      case "major":
+        setProfile(prev => ({ ...prev, major: value }));
+        setTimeout(() => setStep("year"), 1000);
+        break;
+      case "year":
+        setProfile(prev => ({ ...prev, collegeYear: value }));
+        setTimeout(() => setStep("graduation"), 1000);
+        break;
+    }
+  };
+
+  const handleGraduationSubmit = async () => {
+    if (!selectedSemester || !selectedYear) return;
+
+    const graduationText = `${selectedSemester} ${selectedYear}`;
+    addUserMessage(graduationText);
+
+    const updatedProfile = { 
+      ...profile, 
+      graduationYear: graduationText 
+    };
+    setProfile(updatedProfile);
+    setStep("complete");
+    
+    try {
+      await fetch("/api/user-profile", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`
+        },
+        body: JSON.stringify(updatedProfile),
+      });
+      
+      addBotMessage(`Perfect! Your profile is all set up, ${profile.name}! 🎉 Redirecting you to the dashboard...`);
+      
+      localStorage.setItem("onboarding_completed", "true");
+      localStorage.setItem("user_profile", JSON.stringify(updatedProfile));
+      
+      setTimeout(() => {
+        router.push("/");
+      }, 3000);
+    } catch (error) {
+      console.error("Error saving profile:", error);
+      addBotMessage("There was an error saving your profile. Please try again.");
+    }
+  };
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!input.trim() || isTyping) return;
@@ -89,67 +158,14 @@ export default function Onboarding() {
     addUserMessage(userInput);
     setInput("");
 
-    // Process the input based on current step
-    switch (step) {
-      case "name":
-        setProfile(prev => ({ ...prev, name: userInput }));
-        setTimeout(() => setStep("college"), 1000);
-        break;
-      case "college":
-        setProfile(prev => ({ ...prev, college: userInput }));
-        setTimeout(() => setStep("major"), 1000);
-        break;
-      case "major":
-        setProfile(prev => ({ ...prev, major: userInput }));
-        setTimeout(() => setStep("year"), 1000);
-        break;
-      case "year":
-        const normalizedYear = userInput.toLowerCase();
-        const validYears = ["freshman", "sophomore", "junior", "senior"];
-        if (validYears.some(y => normalizedYear.includes(y))) {
-          setProfile(prev => ({ ...prev, collegeYear: userInput }));
-          setTimeout(() => setStep("graduation"), 1000);
-        } else {
-          addBotMessage("Please enter one of: Freshman, Sophomore, Junior, or Senior");
-        }
-        break;
-      case "graduation":
-        const year = parseInt(userInput);
-        if (year >= 2024 && year <= 2030) {
-          const updatedProfile = { ...profile, graduationYear: userInput };
-          setProfile(updatedProfile);
-          setStep("complete");
-          
-          // Save profile to backend
-          try {
-            await fetch("/api/user-profile", {
-              method: "POST",
-              headers: {
-                "Content-Type": "application/json",
-                "Authorization": `Bearer ${token}`
-              },
-              body: JSON.stringify(updatedProfile),
-            });
-            
-            addBotMessage(`Perfect! Your profile is all set up, ${profile.name}! 🎉 Redirecting you to the dashboard...`);
-            
-            // Store onboarding completion in localStorage
-            localStorage.setItem("onboarding_completed", "true");
-            localStorage.setItem("user_profile", JSON.stringify(updatedProfile));
-            
-            setTimeout(() => {
-              router.push("/");
-            }, 3000);
-          } catch (error) {
-            console.error("Error saving profile:", error);
-            addBotMessage("There was an error saving your profile. Please try again.");
-          }
-        } else {
-          addBotMessage("Please enter a valid graduation year (2024-2030)");
-        }
-        break;
+    if (step === "name") {
+      setProfile(prev => ({ ...prev, name: userInput }));
+      setTimeout(() => setStep("college"), 1000);
     }
   };
+
+  const showTextInput = step === "name";
+  const showOptions = step === "college" || step === "major" || step === "year" || step === "graduation";
 
   return (
     <div style={styles.container}>
@@ -172,7 +188,10 @@ export default function Onboarding() {
                 ...(msg.role === "bot" ? styles.botMessage : styles.userMessage),
               }}
             >
-              <div style={styles.messageContent}>
+              <div style={{
+                ...styles.messageContent,
+                ...(msg.role === "bot" ? styles.botMessageContent : styles.userMessageContent),
+              }}>
                 {msg.role === "bot" && <span style={styles.botIcon}>🤖</span>}
                 <span>{msg.text}</span>
               </div>
@@ -181,7 +200,7 @@ export default function Onboarding() {
           
           {isTyping && (
             <div style={{ ...styles.message, ...styles.botMessage }}>
-              <div style={styles.messageContent}>
+              <div style={{ ...styles.messageContent, ...styles.botMessageContent }}>
                 <span style={styles.botIcon}>🤖</span>
                 <span style={styles.typingIndicator}>
                   <span style={styles.dot}>●</span>
@@ -191,9 +210,93 @@ export default function Onboarding() {
               </div>
             </div>
           )}
+
+          {/* Option Buttons */}
+          {!isTyping && step === "college" && (
+            <div style={styles.optionsContainer}>
+              <button
+                style={styles.optionButton}
+                onClick={() => handleOptionClick("UMass Boston")}
+              >
+                🎓 UMass Boston
+              </button>
+            </div>
+          )}
+
+          {!isTyping && step === "major" && (
+            <div style={styles.optionsContainer}>
+              {MAJORS.map(major => (
+                <button
+                  key={major}
+                  style={styles.optionButton}
+                  onClick={() => handleOptionClick(major)}
+                >
+                  📖 {major}
+                </button>
+              ))}
+            </div>
+          )}
+
+          {!isTyping && step === "year" && (
+            <div style={styles.optionsContainer}>
+              {COLLEGE_YEARS.map(year => (
+                <button
+                  key={year}
+                  style={styles.optionButton}
+                  onClick={() => handleOptionClick(year)}
+                >
+                  📚 {year}
+                </button>
+              ))}
+            </div>
+          )}
+
+          {!isTyping && step === "graduation" && (
+            <div style={styles.graduationContainer}>
+              <div style={styles.graduationSection}>
+                <label style={styles.graduationLabel}>Semester:</label>
+                <select 
+                  style={styles.dropdown}
+                  value={selectedSemester}
+                  onChange={(e) => setSelectedSemester(e.target.value)}
+                >
+                  <option value="">Select Semester</option>
+                  {GRADUATION_SEMESTERS.map(semester => (
+                    <option key={semester} value={semester}>{semester}</option>
+                  ))}
+                </select>
+              </div>
+
+              <div style={styles.graduationSection}>
+                <label style={styles.graduationLabel}>Year:</label>
+                <select 
+                  style={styles.dropdown}
+                  value={selectedYear}
+                  onChange={(e) => setSelectedYear(e.target.value)}
+                >
+                  <option value="">Select Year</option>
+                  {GRADUATION_YEARS.map(year => (
+                    <option key={year} value={year}>{year}</option>
+                  ))}
+                </select>
+              </div>
+
+              <button
+                style={{
+                  ...styles.confirmButton,
+                  ...((!selectedSemester || !selectedYear) ? styles.confirmButtonDisabled : {})
+                }}
+                onClick={handleGraduationSubmit}
+                disabled={!selectedSemester || !selectedYear}
+              >
+                ✓ Confirm Graduation Date
+              </button>
+            </div>
+          )}
         </div>
 
-        {step !== "welcome" && step !== "complete" && (
+        {/* Text Input for Name only */}
+        {showTextInput && (
           <form onSubmit={handleSubmit} style={styles.inputForm}>
             <input
               type="text"
@@ -206,7 +309,10 @@ export default function Onboarding() {
             />
             <button
               type="submit"
-              style={styles.button}
+              style={{
+                ...styles.button,
+                ...(isTyping || !input.trim() ? styles.buttonDisabled : {})
+              }}
               disabled={isTyping || !input.trim()}
             >
               Send
@@ -231,7 +337,7 @@ const styles: Record<string, React.CSSProperties> = {
   chatContainer: {
     width: "100%",
     maxWidth: "700px",
-    height: "80vh",
+    height: "85vh",
     background: "#ffffff",
     borderRadius: "20px",
     boxShadow: "0 20px 60px rgba(0, 0, 0, 0.3)",
@@ -284,8 +390,81 @@ const styles: Record<string, React.CSSProperties> = {
     alignItems: "center",
     gap: "10px",
   },
+  botMessageContent: {
+    background: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+    color: "#ffffff",
+  },
+  userMessageContent: {
+    background: "#f1f3f5",
+    color: "#333",
+  },
   botIcon: {
     fontSize: "20px",
+  },
+  optionsContainer: {
+    display: "flex",
+    flexDirection: "column",
+    gap: "10px",
+    marginTop: "10px",
+  },
+  optionButton: {
+    padding: "15px 20px",
+    background: "#ffffff",
+    border: "2px solid #004aad",
+    borderRadius: "12px",
+    fontSize: "16px",
+    fontWeight: "500",
+    color: "#004aad",
+    cursor: "pointer",
+    transition: "all 0.3s ease",
+    textAlign: "left",
+  },
+  graduationContainer: {
+    display: "flex",
+    flexDirection: "column",
+    gap: "20px",
+    marginTop: "10px",
+    padding: "15px",
+    background: "#f8f9fa",
+    borderRadius: "12px",
+  },
+  graduationSection: {
+    display: "flex",
+    flexDirection: "column",
+    gap: "10px",
+  },
+  graduationLabel: {
+    fontSize: "14px",
+    fontWeight: "bold",
+    color: "#333",
+    marginBottom: "5px",
+  },
+  dropdown: {
+    padding: "12px 15px",
+    background: "#ffffff",
+    border: "2px solid #dee2e6",
+    borderRadius: "8px",
+    fontSize: "15px",
+    cursor: "pointer",
+    outline: "none",
+    transition: "all 0.2s ease",
+    width: "100%",
+  },
+  confirmButton: {
+    padding: "12px 20px",
+    background: "linear-gradient(to right, #004aad, #0066cc)",
+    color: "#ffffff",
+    border: "none",
+    borderRadius: "10px",
+    fontSize: "16px",
+    fontWeight: "bold",
+    cursor: "pointer",
+    transition: "all 0.3s ease",
+  },
+  confirmButtonDisabled: {
+    background: "#ccc",
+    cursor: "not-allowed",
+    opacity: 0.6,
   },
   inputForm: {
     display: "flex",
@@ -313,6 +492,11 @@ const styles: Record<string, React.CSSProperties> = {
     fontWeight: "bold",
     cursor: "pointer",
     transition: "all 0.3s ease",
+  },
+  buttonDisabled: {
+    background: "#ccc",
+    cursor: "not-allowed",
+    opacity: 0.6,
   },
   typingIndicator: {
     display: "flex",
