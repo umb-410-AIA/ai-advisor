@@ -5,7 +5,6 @@ import Head from "next/head";
 import { Send, Paperclip, Menu, BookOpen, Award } from "lucide-react";
 import { useRouter } from "next/navigation";
 
-
 interface Course {
   id: string;
   name: string;
@@ -24,6 +23,14 @@ interface ChatMessage {
   };
 }
 
+interface UserProfile {
+  name: string;
+  college: string;
+  major: string;
+  collegeYear: string;
+  graduationYear: string;
+}
+
 export default function Home() {
   const [input, setInput] = useState("");
   const [chat, setChat] = useState<ChatMessage[]>([]);
@@ -35,6 +42,7 @@ export default function Home() {
   const [selectedFiles, setSelectedFiles] = useState<FileList | null>(null);
   const [mousePos, setMousePos] = useState({ x: 50, y: 50 });
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [userProfile, setUserProfile] = useState<UserProfile | null>(null);
 
   const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
     const rect = e.currentTarget.getBoundingClientRect();
@@ -50,6 +58,25 @@ export default function Home() {
     if (!isAuthenticated) {
       console.log('User not authenticated, redirecting to login...');
       router.push('/login');
+      return;
+    }
+
+    // Check if onboarding is completed
+    const onboardingCompleted = localStorage.getItem("onboarding_completed");
+    if (!onboardingCompleted) {
+      console.log('Onboarding not completed, redirecting...');
+      router.push('/onboarding');
+      return;
+    }
+
+    // Load user profile from localStorage
+    const storedProfile = localStorage.getItem("user_profile");
+    if (storedProfile) {
+      try {
+        setUserProfile(JSON.parse(storedProfile));
+      } catch (e) {
+        console.error("Failed to parse user profile:", e);
+      }
     }
   }, [isAuthenticated, router]);
 
@@ -220,13 +247,8 @@ export default function Home() {
         </button>
         <h1 style={styles.titleBarHeading}>Intelligent Academic Path Planner</h1>
 
-        <select style={styles.universityDropdown}>
-          <option value="">Select Your University</option>
-          <option>UMass Boston</option>
-          <option>MIT</option>
-          <option>Harvard University</option>
-          <option>Boston University</option>
-          <option>Northeastern University</option>
+        <select style={styles.universityDropdown} value={userProfile?.college || ""} disabled>
+          <option value="">{userProfile?.college || "Select Your University"}</option>
         </select>
       </div>
 
@@ -243,28 +265,34 @@ export default function Home() {
               <div style={styles.sidebarDropdowns}>
                 <input 
                   style={styles.sidebarInput} 
-                  placeholder="Your Name" 
+                  placeholder="Your Name"
+                  value={userProfile?.name || ""}
+                  readOnly
                 />
-                <select style={styles.sidebarInput}>
-                  <option value="">Select your Major</option>
-                  <option>Computer Science</option>
-                  <option>Mathematics</option>
-                  <option>Engineering</option>
-                  <option>Biology</option>
-                </select>
-                <select style={styles.sidebarInput}>
-                  <option value="">College Year</option>
-                  <option>Freshman</option>
-                  <option>Sophomore</option>
-                  <option>Junior</option>
-                  <option>Senior</option>
-                </select>
-                <select style={styles.sidebarInput}>
-                  <option value="">Semester & Year</option>
-                  <option>Fall 2025</option>
-                  <option>Spring 2026</option>
-                  <option>Summer 2026</option>
-                </select>
+                <input 
+                  style={styles.sidebarInput} 
+                  placeholder="Your College"
+                  value={userProfile?.college || ""}
+                  readOnly
+                />
+                <input
+                  style={styles.sidebarInput}
+                  placeholder="Your Major"
+                  value={userProfile?.major || ""}
+                  readOnly
+                />
+                <input
+                  style={styles.sidebarInput}
+                  placeholder="College Year"
+                  value={userProfile?.collegeYear || ""}
+                  readOnly
+                />
+                <input
+                  style={styles.sidebarInput}
+                  placeholder="Graduation Year"
+                  value={userProfile?.graduationYear || ""}
+                  readOnly
+                />
               </div>
             </div>
             <Link 
@@ -277,9 +305,9 @@ export default function Home() {
         </>
       )}
 
-      <p style={styles.subtitle}>AI-Powered Advisor for University Students</p>
-
-     
+      <p style={styles.subtitle}>
+        {userProfile ? `Welcome back, ${userProfile.name}! 👋` : "AI-Powered Advisor for University Students"}
+      </p>
 
       {/* Chat Window */}
       <div style={styles.chatWindow}>
@@ -378,6 +406,7 @@ export default function Home() {
   );
 }
 
+// Keep all the existing styles from your original file
 const styles: Record<string, any> = {
   page: {
     minHeight: "100vh",
@@ -490,19 +519,6 @@ const styles: Record<string, any> = {
     width: "100%",
     outline: "none",
     transition: "all 0.3s ease",
-    "&::placeholder": {
-      color: "rgba(255, 255, 255, 0.7)",
-    },
-    "&:focus": {
-      border: "2px solid rgba(255, 255, 255, 0.6)",
-      background: "rgba(255, 255, 255, 0.2)",
-    },
-    "&:hover": {
-      border: "2px solid rgba(255, 255, 255, 0.5)",
-    },
-    marginBottom: "20px",
-    borderBottom: "2px solid rgba(255, 255, 255, 0.3)",
-    paddingBottom: "15px",
   },
   sidebarLogout: {
     display: "block",
@@ -522,78 +538,31 @@ const styles: Record<string, any> = {
     fontSize: "1.3rem",
     marginBottom: 30,
   },
-  dropdownSection: {
-    padding:"40px",
+  chatWindow: {
+    flex: 1,
+    padding: "15px",
+    paddingLeft: "0px",
+    maxWidth: "1100px",
+    overflowY: "auto",
+    scrollBehavior: "smooth",
+    paddingBottom: "90px",
+    paddingTop: "100px",
+  },
+  chatBar: {
     position: "fixed",
+    bottom: 70,
+    left: 0,
+    right: 0,
     display: "flex",
-    flexWrap: "wrap",
-    justifyContent: "center",
     gap: "10px",
-    marginBottom: 40,
+    padding: " 0px",
+    borderTop: "1px solid #ddd",
+    maxWidth: "1100px",
+    margin: "0 auto",
+    justifyContent: "center",
+    alignItems: "center",
+    zIndex: 1000,
   },
-  input: {
-    padding: "10px",
-    border: "1px solid #ccc",
-    borderRadius: "8px",
-    width: "200px",
-    fontSize: "14px",
-    color: "#ffffffff",
-  },
-  /*chatContainer: {
-  display: "flex",
-  flexDirection: "column",
-  height: "100vh",
-  width: "100%",
-  maxWidth: "1100px",
-  margin: "0 auto",
-  background: "#ffffffff",
-  borderRadius: "10px",
-  boxShadow: "0 2px 10px rgba(0,0,0,0.1)",
-  overflow: "hidden",
-  position: "relative",
-  //paddingTop: "20px",
-},*/
-topInputBar: {
-  position: "fixed",
-  top: 0,
-  left: 0,
-  right: 0,
-  zIndex: 1000,
-  background: "#fff",
-  padding: "15px 20px",
-  display: "flex",
-  justifyContent: "center",
-  alignItems: "center",
-  gap: "10px",
-  boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
-  height: "80px", // 👈 define a fixed height
-},
-chatWindow: {
-  flex: 1,
-  padding: "15px",
-  paddingLeft: "0px",
-  maxWidth: "1100px",
-  overflowY: "auto",
-  scrollBehavior: "smooth",
-  paddingBottom: "90px", // 👈 enough space for the input bar
-  paddingTop: "100px",
-  //position: "fixed",
-},
-chatBar: {
-  position: "fixed",     // stays on the viewport, not inside scroll
-  bottom: 70,             // anchored to bottom edge
-  left: 0,
-  right: 0,
-  display: "flex",
-  gap: "10px",
-  padding: " 0px",
-  borderTop: "1px solid #ddd",
-  maxWidth: "1100px",
-  margin: "0 auto",
-  justifyContent: "center",
-  alignItems: "center",
-  zIndex: 1000,          // makes sure it’s above other content
-},
   placeholder: {
     color: "#aaa",
     textAlign: "center",
@@ -667,7 +636,6 @@ chatBar: {
     boxShadow: "0 -2px 10px rgba(0,0,0,0.15)",
     zIndex: 1000,
   },
-  // Visualization styles
   visualizationContainer: {
     background: "linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%)",
     borderRadius: "12px",
