@@ -293,6 +293,16 @@ export default function Home() {
                   value={userProfile?.graduationYear || ""}
                   readOnly
                 />
+                <Link 
+                  href="/onboarding" 
+                  style={styles.editProfileButton}
+                  onClick={() => {
+                    // Clear onboarding flag to allow re-entry
+                    localStorage.removeItem("onboarding_completed");
+                  }}
+                >
+                  ✏️ Edit Profile
+                </Link>
               </div>
             </div>
             <Link 
