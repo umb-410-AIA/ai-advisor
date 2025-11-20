@@ -116,20 +116,20 @@ export default function Home() {
         },
         body: JSON.stringify({ message: input }),
       });
-      
+
       if (!res.ok) {
         const errorData = await res.json().catch(() => ({}));
         console.error('API request failed:', res.status, res.statusText, errorData);
         throw new Error(`API request failed: ${res.status}`);
       }
-      
+
       const data = await res.json();
       console.log('API response:', data);
 
       // Check if response includes visualization data
       if (data.visualizationType && data.data) {
-        setChat([...chat, { 
-          user: input, 
+        setChat([...chat, {
+          user: input,
           bot: data.reply,
           visualization: {
             type: data.visualizationType,
@@ -139,7 +139,7 @@ export default function Home() {
       } else {
         setChat([...chat, { user: input, bot: data.reply }]);
       }
-      
+
       setInput('');
     } catch (error) {
       console.error('Error sending message:', error);
@@ -308,7 +308,7 @@ export default function Home() {
 
     if (visualization.type === 'course_path') {
       const courses: Course[] = visualization.data.courses || [];
-      
+
       // Group courses by semester
       const coursesBySemester: Record<string, Course[]> = {};
       courses.forEach(course => {
@@ -319,7 +319,7 @@ export default function Home() {
       });
 
       const semesters = Object.keys(coursesBySemester);
-      
+
       return (
         <div style={styles.visualizationContainer}>
           <div style={styles.visualizationHeader}>
@@ -338,7 +338,7 @@ export default function Home() {
               <Printer size={16} style={{ marginRight: 6 }} /> Print / Save PDF
             </button>
           </div>
-          
+
           <div style={styles.semesterTimeline}>
             {semesters.map((semester, semIdx) => (
               <div key={semester} style={styles.semesterBlock}>
@@ -350,7 +350,7 @@ export default function Home() {
                     {coursesBySemester[semester].reduce((sum, c) => sum + c.credits, 0)} Credits
                   </div>
                 </div>
-                
+
                 <div style={styles.coursesGrid}>
                   {coursesBySemester[semester].map((course, courseIdx) => (
                     <div key={course.id} style={styles.courseCard}>
@@ -358,7 +358,7 @@ export default function Home() {
                       <div style={styles.courseCardHeader}>
                         <div style={styles.courseIdBadge}>{course.id}</div>
                         {course.difficulty && (
-                          <div 
+                          <div
                             style={{
                               ...styles.difficultyBadge,
                               background: getDifficultyColor(course.difficulty)
@@ -371,10 +371,10 @@ export default function Home() {
                           {course.credits} CR
                         </div>
                       </div>
-                      
+
                       {/* Course Name */}
                       <div style={styles.courseName}>{course.name}</div>
-                      
+
                       {/* Description */}
                       {course.description && (
                         <div style={styles.courseDescription}>
@@ -396,7 +396,7 @@ export default function Home() {
                           )}
                         </div>
                       )}
-                      
+
                       {/* Prerequisites */}
                       {course.prerequisites && course.prerequisites.length > 0 && (
                         <div style={styles.prerequisitesSection}>
@@ -410,7 +410,7 @@ export default function Home() {
                           </div>
                         </div>
                       )}
-                      
+
                       {/* Sessions/Sections */}
                       {course.sessions && course.sessions.length > 0 && (
                         <div style={styles.sessionsSection}>
@@ -463,7 +463,7 @@ export default function Home() {
                     </div>
                   ))}
                 </div>
-                
+
                 {/* Arrow between semesters */}
                 {semIdx < semesters.length - 1 && (
                   <div style={styles.semesterArrow}>↓</div>
@@ -471,7 +471,7 @@ export default function Home() {
               </div>
             ))}
           </div>
-          
+
           {/* Summary Footer */}
           <div style={styles.visualizationFooter}>
             <div style={styles.footerStat}>
@@ -490,7 +490,7 @@ export default function Home() {
         </div>
       );
     }
-    
+
     return null;
   };
 
@@ -516,7 +516,7 @@ export default function Home() {
 
       {/* Title Bar */}
       <div style={styles.titleBar}>
-        <button 
+        <button
           style={{
             ...styles.menuButton,
             ...(isMenuButtonHovered ? {
@@ -541,7 +541,7 @@ export default function Home() {
       {/* Sidebar Menu */}
       {isMenuOpen && (
         <>
-          <div 
+          <div
             style={styles.overlay}
             onClick={() => setIsMenuOpen(false)}
           />
@@ -549,14 +549,14 @@ export default function Home() {
             <div style={styles.sidebarContent}>
               <h2 style={styles.sidebarTitle}>Profile Settings</h2>
               <div style={styles.sidebarDropdowns}>
-                <input 
-                  style={styles.sidebarInput} 
+                <input
+                  style={styles.sidebarInput}
                   placeholder="Your Name"
                   value={userProfile?.name || ""}
                   readOnly
                 />
-                <input 
-                  style={styles.sidebarInput} 
+                <input
+                  style={styles.sidebarInput}
                   placeholder="Your College"
                   value={userProfile?.college || ""}
                   readOnly
@@ -579,8 +579,8 @@ export default function Home() {
                   value={userProfile?.graduationYear || ""}
                   readOnly
                 />
-                <Link 
-                  href="/onboarding" 
+                <Link
+                  href="/onboarding"
                   style={styles.editProfileButton}
                   onClick={() => {
                     localStorage.removeItem("onboarding_completed");
@@ -590,8 +590,8 @@ export default function Home() {
                 </Link>
               </div>
             </div>
-            <Link 
-              href="logout" 
+            <Link
+              href="logout"
               style={styles.sidebarLogout}
             >
               Log out
@@ -600,39 +600,39 @@ export default function Home() {
         </>
       )}
 
-      {chat.length === 0 && (
-        <p style={styles.subtitle}>
-          {userProfile ? `Welcome back, ${userProfile.name}! 👋` : "AI-Powered Advisor for University Students"}
-        </p>
-      )}
 
       {/* Chat Window */}
-      <div style={styles.chatWindow}>
-        {chat.length === 0 ? (
-          <p style={styles.placeholder}>
-            Let's get you started with finding the correct course for you.
-          </p>
-        ) : (
-          chat.map((msg, i) => (
-            <div key={i} style={styles.chatMessage}>
-              <div style={{ marginBottom: 8 }}>
-                <b>You:</b>
-                <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
+      <div style={styles.mainContent}>
+        <div style={styles.chatWindow}>
+          {chat.length === 0 ? (
+            <p style={styles.placeholder}>
+              {userProfile ? `Welcome back, ${userProfile.name}! 👋` : "AI-Powered Advisor for University Students"}
+            </p>
+          ) : (
+            chat.map((msg, i) => (
+              <div key={i} style={styles.chatMessage}>
+                <div style={{ marginBottom: 8 }}>
+                  <b>You:</b>
+                  <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
+                </div>
+                <div>
+                  <b>Bot:</b>
+                  <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
+
+                  {/* Render visualization if available */}
+                  {msg.visualization && (
+                    <div style={{ marginTop: 15 }}>
+                      {renderVisualization(msg.visualization)}
+                    </div>
+                  )}
+                </div>
               </div>
-              <div>
-                <b>Bot:</b>
-                <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
-                
-                {/* Render visualization if available */}
-                {msg.visualization && (
-                  <div style={{ marginTop: 15 }}>
-                    {renderVisualization(msg.visualization)}
-                  </div>
-                )}
-              </div>
-            </div>
-          ))
-        )}
+            ))
+          )}
+        </div>
+        <div style={styles.graphWindow}>
+          <p>graph will go here</p>
+        </div>
       </div>
 
       {/* Chat Bar */}
@@ -649,10 +649,10 @@ export default function Home() {
           onMouseLeave={() => setIsTextBoxHovered(false)}
           placeholder="Type your question here..."
         />
-        
+
         {/* File Upload Button */}
-        <label 
-          htmlFor="file-upload" 
+        <label
+          htmlFor="file-upload"
           style={{
             ...styles.fileUploadButton,
             ...(isFileButtonHovered ? {
@@ -665,8 +665,8 @@ export default function Home() {
           onMouseMove={handleMouseMove as any}
         >
           <Paperclip size={16} style={{ marginRight: 5 }} />
-          {selectedFiles && selectedFiles.length > 0 
-            ? `${selectedFiles.length} file(s)` 
+          {selectedFiles && selectedFiles.length > 0
+            ? `${selectedFiles.length} file(s)`
             : 'Attach'}
         </label>
         <input
@@ -676,7 +676,7 @@ export default function Home() {
           onChange={(e) => setSelectedFiles(e.target.files)}
           style={{ display: 'none' }}
         />
-        
+
         <button
           style={{
             ...styles.sendButton,
@@ -857,6 +857,18 @@ const styles: Record<string, any> = {
     scrollBehavior: "smooth",
     paddingBottom: "90px",
     paddingTop: "100px",
+  },
+  graphWindow: {
+    flex: 1,
+    borderLeft: '1px solid #dedede',
+    padding: '15px'
+  },
+  mainContent: {
+    width: '100%',
+    display: 'flex',
+    flexDirection: 'row',
+    color: 'black',
+    height: 'max-content',
   },
   chatBar: {
     position: "fixed",
