@@ -406,6 +406,7 @@ const styles: Record<string, React.CSSProperties> = {
     flexDirection: "column",
     gap: "10px",
     marginTop: "10px",
+    color: 'black'
   },
   optionButton: {
     padding: "15px 20px",
@@ -449,6 +450,8 @@ const styles: Record<string, React.CSSProperties> = {
     outline: "none",
     transition: "all 0.2s ease",
     width: "100%",
+    color: 'black'
+
   },
   confirmButton: {
     padding: "12px 20px",
