@@ -1,10 +1,13 @@
 import { useAuth } from "@/contexts/AuthContext";
-import { FormEventHandler, useCallback, useState, useEffect } from "react";
+import { FormEventHandler, useCallback, useState, useEffect, useRef } from "react";
 import Link from 'next/link';
 import Head from "next/head";
 import { Send, Paperclip, Menu, BookOpen, Award } from "lucide-react";
 import { useRouter } from "next/navigation";
-
+import { fetchChatMessages } from "@/utils/chats";
+import { getUserId } from "@/utils/auth";
+import { init } from "next/dist/compiled/webpack/webpack";
+import { UserProfile } from "./api/userprofile";
 
 interface Course {
   id: string;
@@ -14,8 +17,7 @@ interface Course {
   difficulty?: string;
   prerequisites: string[];
 }
-
-interface ChatMessage {
+interface MessageBox {
   user: string;
   bot: string;
   visualization?: {
@@ -26,7 +28,7 @@ interface ChatMessage {
 
 export default function Home() {
   const [input, setInput] = useState("");
-  const [chat, setChat] = useState<ChatMessage[]>([]);
+  const [chat, setChat] = useState<MessageBox[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
   const [isTextBoxHovered, setIsTextBoxHovered] = useState(false);
   const [isSendButtonHovered, setIsSendButtonHovered] = useState(false);
@@ -35,6 +37,9 @@ export default function Home() {
   const [selectedFiles, setSelectedFiles] = useState<FileList | null>(null);
   const [mousePos, setMousePos] = useState({ x: 50, y: 50 });
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [onboarding, setOnboarding] = useState(false);
+  const [profile, setProfile] = useState<UserProfile>();
+  const initLock = useRef(false);
 
   const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
     const rect = e.currentTarget.getBoundingClientRect();
@@ -45,13 +50,55 @@ export default function Home() {
 
   const { token, isAuthenticated } = useAuth();
   const router = useRouter();
-
   useEffect(() => {
+    if (initLock.current) return;
+    initLock.current = true; // lock immediately so useEffect runs 1 time only
     if (!isAuthenticated) {
-      console.log('User not authenticated, redirecting to login...');
       router.push('/login');
+      console.log('User not authenticated, redirecting to login...');
+      return;
     }
-  }, [isAuthenticated, router]);
+
+    async function initChat() { // fetch all chats for user and gather their data
+        // look for user profile
+        var res = await fetch("/api/userprofile", {
+          method: "POST",
+          headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`
+          },
+        });
+        var { chats, user_profile } = await res.json();
+        
+        // look for old chats
+        if (chats) {
+          setChat(chats.map(m => ({
+            user: m.role === "user" ? m.message : undefined,
+            bot: m.role === "assistant" ? m.message : ""
+          })));
+        }
+        
+        // onboard user
+        if (!profile) {
+          setOnboarding(true);
+          const onboardReply = await fetch("/api/onboard", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "Authorization": `Bearer ${token}`,
+            },
+            body: JSON.stringify({ message: "" }),
+          });
+          const data = await onboardReply.json();
+          setChat(prev => [...prev, { user: undefined, bot: data.reply }]);
+          if (data.onboardingComplete == true) {
+              setOnboarding(false);
+          }
+        }
+    }
+    initChat()
+    
+  }, [isAuthenticated, token, router]);
 
   const sendMessage = useCallback<FormEventHandler>(async (e) => {
     if (e) e.preventDefault();
@@ -66,8 +113,11 @@ export default function Home() {
 
     setLoading(true);
     try {
-      console.log('Sending message to API with token:', token ? 'Token present' : 'No token');
-      const res = await fetch("/api/chat", {
+      // Determine which API to call
+      const apiUrl = onboarding ? "/api/onboard" : "/api/chat";
+      console.log(`Sending message to ${apiUrl} with token:'`, token ? 'Token present' : 'No token');
+
+      const res = await fetch(apiUrl, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -81,23 +131,38 @@ export default function Home() {
         console.error('API request failed:', res.status, res.statusText, errorData);
         throw new Error(`API request failed: ${res.status}`);
       }
-      
-      const data = await res.json();
-      console.log('API response:', data);
 
-      // Check if response includes visualization data
-      if (data.visualizationType && data.data) {
-        setChat([...chat, { 
-          user: input, 
-          bot: data.reply,
-          visualization: {
-            type: data.visualizationType,
-            data: data.data
-          }
-        }]);
-      } else {
-        setChat([...chat, { user: input, bot: data.reply }]);
+      const llmRes = await res.json();
+      
+      if (llmRes.onboardingComplete) {
+        setOnboarding(false);
+        // look for user profile
+        var userprofile = await fetch("/api/userprofile", {
+          method: "POST",
+          headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`
+          },
+        });
+        var { chats, profile } = await userprofile.json();
+        setProfile(profile)
       }
+
+      setChat([...chat, { user: input, bot: llmRes.reply }]);
+
+      // // Check if response includes visualization data
+      // if (data.visualizationType && data.data) {
+      //   setChat([...chat, { 
+      //     user: input, 
+      //     bot: data.reply,
+      //     visualization: {
+      //       type: data.visualizationType,
+      //       data: data.data
+      //     }
+      //   }]);
+      // } else {
+      //   setChat([...chat, { user: input, bot: data.reply }]);
+      // }
       
       setInput('');
     } catch (error) {
@@ -107,7 +172,7 @@ export default function Home() {
     } finally {
       setLoading(false);
     }
-  }, [input, token, chat]);
+  }, [input, token, chat, onboarding]);
 
   const getDifficultyColor = (difficulty?: string) => {
     switch (difficulty?.toLowerCase()) {
@@ -288,23 +353,18 @@ export default function Home() {
             Let's get you started with finding the correct course for you.
           </p>
         ) : (
-          chat.map((msg, i) => (
-            <div key={i} style={styles.chatMessage}>
-              <div style={{ marginBottom: 8 }}>
-                <b>You:</b>
-                <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
-              </div>
-              <div>
-                <b>Bot:</b>
-                <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
-                
-                {/* Render visualization if available */}
-                {msg.visualization && (
-                  <div style={{ marginTop: 15 }}>
-                    {renderVisualization(msg.visualization)}
-                  </div>
-                )}
-              </div>
+          chat.map((m, i) => (
+            <div key={i} className="chat-row" style={{ display: 'flex', marginBottom: '8px' }}>
+              {m.user && (
+                <div style={{ marginLeft: 'auto', backgroundColor: '#0b93f6', color: 'white', padding: '8px 12px', borderRadius: '16px', maxWidth: '60%' }}>
+                  {m.user}
+                </div>
+              )}
+              {m.bot && (
+                <div style={{ marginRight: 'auto', backgroundColor: '#e5e5ea', color: 'black', padding: '8px 12px', borderRadius: '16px', maxWidth: '60%' }}>
+                  {m.bot}
+                </div>
+              )}
             </div>
           ))
         )}

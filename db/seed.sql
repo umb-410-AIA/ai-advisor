@@ -4,10 +4,21 @@ Prompt:
 Write me some sql to create a table called 'chats' to store chatbot chat logs.
 Then, write me some typescript example functions to insert into and read from that table
  */
+create table if not exists users (
+  user_id uuid primary key,             -- Supabase Auth ID
+  university text,
+  major text,
+  isStudent boolean,
+  year text check (year in ('freshman','sophomore','junior','senior')),
+  interests text[], 
+  created_at timestamptz default now()
+);
+
 create table if not exists chats (
   id uuid primary key default gen_random_uuid(),
-  chat_id uuid not null, -- represents a unique chat session or conversation
+  user_id uuid not null references users(user_id) on delete cascade,
+  chat_id uuid not null, -- unique conversation/session
   message text not null,
-  role text check (role in ('user', 'assistant', 'system')) not null,
+  role text check (role in ('user','assistant','system')) not null,
   created_at timestamptz default now()
 );
