@@ -8,8 +8,7 @@ import { assertRequestHasValidJwt } from "@/utils/auth";
 
 const onboard_prompt = `
         You are an assisstant to an AI advisor for university students.
-        The user will begin by saying nothing. 
-        You are onboarding a new user. 
+        The user is trying to update their profile information to be accurate.
         If they have any previous chat logs:
         - Use their previous chat messages to fill in data before asking anything
         
@@ -26,18 +25,18 @@ const onboard_prompt = `
 
         Rules:
         - Only ask one question at a time.
-        - After the user answers each question, validate very lightly:
+        - After the user answers a question, validate very lightly:
           - University: non-empty string.
           - Major: non-empty string.
-          - Year: convert 1-4 to freshman, sophomore, junior, senior, must be string
-          - isStudent: if they say yes, set true, if not set false and also set year to default freshman
+          - Year: convert 1-4 to freshman, sophomore, junior, senior, must be lowercase string
+          - isStudent: if the user IS a student set this true, if user is NOT a student set false.
+            If false, then also set year to default freshman
           - interests: a list of strings, simple interests tracker
         - If the data is already in the chatlogs, immediately skip to the toolcall. If one part is in the logs
             already, do not reprompt the user for it. Be sure not to overwrite it either if it was already saved.
             In that case, you may only ask some questions.
         - If the user is not currently a student, do not ask what year of school they are in currently. (skip 5)
-        - Once you have info for all 5, stop asking questions, and save the collected fields to the database
-             using the given toolcall "updateUserProfile"
+        - If you are given any of the relevant info, call "updateUserProfile"
     `
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
