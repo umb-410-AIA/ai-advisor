@@ -1,11 +1,12 @@
 import OpenAI from "openai";
 import { insertChatMessage, fetchChatMessages } from "./chats";
 import { fetchUserData, upsertUserData } from "./userdata";
+import { getCoursesByMajor } from "./universityDB";
 
 // Reprompts after saving user data
 const SAVED_REPROMPT = ` (Use 50 words or less)
                   The user's profile was just updated with new data. 
-                  Tell them to try asking again.`
+                  Continue the conversation from before.`
 const COURSES_REPROMPT = ` (Use 200 words or less)
                   You are given a list of courses from a tool call.
                   List the most relevant based on user's current profile.
@@ -62,13 +63,14 @@ export async function llm(user_id: string,
         function: {
           name: "getCoursesByMajor",
           description: `Retrieves a list of courses from the database
-                        with matching "major" argument.`,
+                        with matching "major" and "university_id" argument.`,
           parameters: {
             type: "object",
             properties: {
               major: { type: "string" },
+              university_id: { type: "number" }
             },
-            required: ["major"]
+            required: ["major", "university_id"]
           }
         }
       },
@@ -76,12 +78,12 @@ export async function llm(user_id: string,
         type: "function",
         function: {
           name: "updateUserProfile",
-          description: `Saves userprofile information into supabase db.
-                        Output args must follow exact order: university, major, isstudent, year, interests`,
+          description: `Saves userprofile information into supabase db. 
+                        Output args must follow exact order: university_id, major, isstudent, year, interests`,
           parameters: {
             type: "object",
             properties: {
-              university: { type: "string" },
+              university_id: { type: "integer" },
               major: { type: "string" },
               year: { type: "integer" },
               isstudent: { type: "boolean" },
@@ -106,13 +108,6 @@ export async function llm(user_id: string,
       const args = JSON.parse(toolCall.function.arguments);
       await upsertUserData(user_id, args);
       // REPROMPT LLM
-      const chats = await fetchChatMessages(user_id);
-      messages = chats
-        .filter(m => m.role !== "system")
-        .map(m => ({
-          role: m.role,
-          content: m.message
-        }));
       messages.push({
         role: "system",
         content: SAVED_REPROMPT + prompt
@@ -123,16 +118,16 @@ export async function llm(user_id: string,
       });
       reply.content = completion.choices[0].message.content;
     } else if (toolCall.function.name === "getCoursesByMajor") {
+      const args = JSON.parse(toolCall.function.arguments);
       
+      console.log("TOOLCALL MAJOR SEARCH:\n", args[0])
+      const courses = getCoursesByMajor(args);
       
+      if (!courses) {
+
+      }
+
       // REPROMPT LLM
-      const chats = await fetchChatMessages(user_id);
-      messages = chats
-        .filter(m => m.role !== "system")
-        .map(m => ({
-          role: m.role,
-          content: m.message
-        }));
       messages.push({
         role: "system",
         content: COURSES_REPROMPT + prompt

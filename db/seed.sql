@@ -6,9 +6,9 @@ Then, write me some typescript example functions to insert into and read from th
  */
 create table if not exists users (
   user_id uuid primary key,             -- Supabase Auth ID
-  university text,
+  university_id text,
   major text,
-  isStudent boolean,
+  isstudent boolean,
     year int CHECK (year >= 1 AND year <= 5),
   interests text[], 
   created_at timestamptz default now()

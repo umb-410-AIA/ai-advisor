@@ -47,9 +47,6 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
     userId = uuidv4();
   }
 
-  // store user_id in database
-  upsertUserData(userId, {});
-
   // Create JWT payload
   const token = jwt.sign(
     { authenticated: true, user_id: userId },
