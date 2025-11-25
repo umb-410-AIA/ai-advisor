@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Head from "next/head";
 import { Send, Paperclip, Menu, BookOpen, Award, Printer } from "lucide-react";
 import { useRouter } from "next/navigation";
+import CourseTree from "@/components/CoureTree";
 
 interface CourseSession {
   section: string;
@@ -19,7 +20,8 @@ interface CourseSession {
 interface Course {
   id: string;
   name: string;
-  semester: string;
+  semester: string;              // Semester/term name
+  semesterIndex?: number;
   credits: number;
   difficulty?: string;
   prerequisites: string[];
@@ -56,19 +58,21 @@ export default function Home() {
   const [mousePos, setMousePos] = useState({ x: 50, y: 50 });
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [userProfile, setUserProfile] = useState<UserProfile | null>(null);
-  const [expandedDescriptions, setExpandedDescriptions] = useState<Record<string, boolean>>({});
 
   const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
     const rect = e.currentTarget.getBoundingClientRect();
+    // Calculate mouse position as percentage of element dimensions
     const x = ((e.clientX - rect.left) / rect.width) * 100;
     const y = ((e.clientY - rect.top) / rect.height) * 100;
     setMousePos({ x, y });
   };
 
+  // Get authentication token and status from AuthContext
   const { token, isAuthenticated } = useAuth();
   const router = useRouter();
 
   useEffect(() => {
+    // Redirect to login if user is not authenticated
     if (!isAuthenticated) {
       console.log('User not authenticated, redirecting to login...');
       router.push('/login');
@@ -76,6 +80,7 @@ export default function Home() {
     }
 
     // Check if onboarding is completed
+    // Onboarding must be completed before accessing the main chat interface
     const onboardingCompleted = localStorage.getItem("onboarding_completed");
     if (!onboardingCompleted) {
       console.log('Onboarding not completed, redirecting...');
@@ -96,8 +101,10 @@ export default function Home() {
 
   const sendMessage = useCallback<FormEventHandler>(async (e) => {
     if (e) e.preventDefault();
+    // Don't send empty messages
     if (!input.trim()) return;
 
+    // Verify authentication token exists
     if (!token) {
       console.error('No authentication token found');
       setChat([...chat, { user: input, bot: 'Error: Please log in to use the chat.' }]);
@@ -108,15 +115,18 @@ export default function Home() {
     setLoading(true);
     try {
       console.log('Sending message to API with token:', token ? 'Token present' : 'No token');
+      
+      // Send message to chat API endpoint
       const res = await fetch("/api/chat", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": `Bearer ${token}`
+          "Authorization": `Bearer ${token}`  // Include auth token in header
         },
         body: JSON.stringify({ message: input }),
       });
       
+      // Handle API errors
       if (!res.ok) {
         const errorData = await res.json().catch(() => ({}));
         console.error('API request failed:', res.status, res.statusText, errorData);
@@ -126,174 +136,75 @@ export default function Home() {
       const data = await res.json();
       console.log('API response:', data);
 
-      // Check if response includes visualization data
+      // Check if response includes visualization data (degree plan, course path, etc.)
       if (data.visualizationType && data.data) {
+        // Add message with visualization to chat
         setChat([...chat, { 
           user: input, 
           bot: data.reply,
           visualization: {
-            type: data.visualizationType,
-            data: data.data
+            type: data.visualizationType,  // e.g., "degree_plan", "course_path"
+            data: data.data                // Visualization payload
           }
         }]);
       } else {
+        // Add simple text-only message to chat
         setChat([...chat, { user: input, bot: data.reply }]);
       }
       
+      // Clear input field after sending
       setInput('');
     } catch (error) {
       console.error('Error sending message:', error);
+      // Show error message to user
       setChat([...chat, { user: input, bot: 'Error: Failed to get response from server.' }]);
       setInput('');
     } finally {
+      // Always reset loading state
       setLoading(false);
     }
   }, [input, token, chat]);
 
-  const getDifficultyColor = (difficulty?: string) => {
-    switch (difficulty?.toLowerCase()) {
-      case 'easy': return '#28a745';
-      case 'medium': return '#ffc107';
-      case 'hard': return '#dc3545';
-      default: return '#6c757d';
-    }
-  };
-
   const renderVisualization = (visualization: { type: string; data: any }) => {
+    
+    // Handle degree plan visualization (full roadmap)
     if (visualization.type === 'degree_plan') {
       const semesters = visualization.data.semesters || [];
       const notes: string[] = visualization.data.notes || [];
 
+      // Convert degree_plan format to Course[] format for CourseTree component
+      // Maintain semester sequence order (index 0 = first semester)
+      const allCourses: Course[] = [];
+      semesters.forEach((semester: any, semesterIndex: number) => {
+        if (semester.courses && Array.isArray(semester.courses)) {
+          semester.courses.forEach((course: any) => {
+            allCourses.push({
+              id: course.id || '',
+              name: course.name || course.title || '',
+              semester: semester.term || '',
+              semesterIndex: semesterIndex, // Add index to maintain chronological order
+              credits: course.credits || 0,
+              difficulty: course.difficulty,
+              prerequisites: course.prerequisites || [],
+              description: course.description || '',
+              sessions: course.sessions || [],
+            });
+          });
+        }
+      });
+
+      // Calculate total credits across all semesters
+      const totalCredits = semesters.reduce((sum: number, s: any) => sum + (s.totalCredits || 0), 0);
+      
       return (
-        <div style={styles.visualizationContainer}>
-          <div style={styles.visualizationHeader}>
-            <BookOpen size={24} style={{ marginRight: 10 }} />
-            <div>
-              <h3 style={styles.visualizationTitle}>CS Degree Roadmap (UMass Boston)</h3>
-              <p style={styles.visualizationSubtitle}>
-                {semesters.length} terms • {semesters.reduce((sum: number, s: any) => sum + (s.totalCredits || 0), 0)} total credits
-              </p>
-            </div>
-            <button
-              type="button"
-              style={styles.printButton}
-              onClick={(e) => {
-                e.preventDefault();
-                e.stopPropagation();
-                if (typeof window !== "undefined") window.print();
-              }}
-              aria-label="Print plan"
-            >
-              <Printer size={16} /> Print / Save PDF
-            </button>
-          </div>
-
-          <div style={styles.semesterTimeline}>
-            {semesters.map((semester: any, idx: number) => (
-              <div key={semester.term} style={styles.semesterBlock}>
-                <div style={styles.semesterHeader}>
-                  <div style={styles.semesterBadge}>📅 {semester.term}</div>
-                  <div style={styles.semesterCredits}>
-                    {semester.totalCredits || semester.courses?.reduce((sum: number, c: any) => sum + (c.credits || 0), 0) || 0} Credits
-                  </div>
-                </div>
-
-                <div style={styles.coursesGrid}>
-                  {(semester.courses || []).map((course: any) => (
-                    <div key={course.id} style={styles.courseCard}>
-                      <div style={styles.courseCardHeader}>
-                        <div style={styles.courseIdBadge}>{course.id}</div>
-                        <div style={styles.creditsBadge}>{course.credits} CR</div>
-                      </div>
-
-                      <div style={styles.courseName}>{course.name}</div>
-
-                      {course.description && (
-                        <div style={styles.courseDescription}>
-                          {course.description.length > 150 && !expandedDescriptions[course.id]
-                            ? course.description.substring(0, 150) + "..."
-                            : course.description}
-                          {course.description.length > 150 && (
-                            <button
-                              style={styles.moreButton}
-                              onClick={() =>
-                                setExpandedDescriptions((prev) => ({
-                                  ...prev,
-                                  [course.id]: !prev[course.id],
-                                }))
-                              }
-                            >
-                              {expandedDescriptions[course.id] ? "Less" : "More"}
-                            </button>
-                          )}
-                        </div>
-                      )}
-
-                      {course.prerequisites && course.prerequisites.length > 0 && (
-                        <div style={styles.prerequisitesSection}>
-                          <strong>📋 Prerequisites:</strong>
-                          <div style={styles.prerequisitesList}>
-                            {course.prerequisites.map((pr: string, i: number) => (
-                              <span key={i} style={styles.prerequisiteTag}>{pr}</span>
-                            ))}
-                          </div>
-                        </div>
-                      )}
-
-                      {course.sessions && course.sessions.length > 0 && (
-                        <div style={styles.sessionsSection}>
-                          <div style={styles.sessionsSectionHeader}>
-                            🕒 Available Sections ({course.sessions.length})
-                          </div>
-                          <div style={styles.sessionsList}>
-                            {course.sessions.slice(0, 3).map((session: any, i: number) => (
-                              <div key={i} style={styles.sessionCard}>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Section:</span>
-                                  <span style={styles.sessionValue}>{session.section}</span>
-                                </div>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Time:</span>
-                                  <span style={styles.sessionValue}>{session.schedule}</span>
-                                </div>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Instructor:</span>
-                                  <span style={styles.sessionValue}>{session.instructor}</span>
-                                </div>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Location:</span>
-                                  <span style={styles.sessionValue}>{session.location}</span>
-                                </div>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Dates:</span>
-                                  <span style={styles.sessionValue}>{session.classDate}</span>
-                                </div>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Capacity:</span>
-                                  <span style={{
-                                    ...styles.sessionValue,
-                                    ...styles.capacityBadge,
-                                    background: session.status === 'Open' ? '#28a745' : '#dc3545'
-                                  }}>
-                                    {session.enrolled}/{session.capacity} • {session.status}
-                                  </span>
-                                </div>
-                              </div>
-                            ))}
-                          </div>
-                        </div>
-                      )}
-                    </div>
-                  ))}
-                </div>
-
-                {idx < semesters.length - 1 && (
-                  <div style={styles.semesterArrow}>↓</div>
-                )}
-              </div>
-            ))}
-          </div>
-
+        <div>
+          {/* Render CourseTree with all courses from the degree plan */}
+          <CourseTree 
+            courses={allCourses}
+            title="CS Degree Roadmap (UMass Boston)"
+            subtitle={`${semesters.length} terms • ${totalCredits} total credits`}
+          />
+          {/* Display notes if available */}
           {notes.length > 0 && (
             <div style={{ marginTop: 16, padding: 12, background: "#f8f9fa", borderRadius: 8, border: "1px solid #e9ecef" }}>
               <strong>Notes:</strong>
@@ -306,203 +217,30 @@ export default function Home() {
       );
     }
 
+    // Handle course path visualization (prerequisite path)
     if (visualization.type === 'course_path') {
       const courses: Course[] = visualization.data.courses || [];
       
-      // Group courses by semester
-      const coursesBySemester: Record<string, Course[]> = {};
-      courses.forEach(course => {
-        if (!coursesBySemester[course.semester]) {
-          coursesBySemester[course.semester] = [];
-        }
-        coursesBySemester[course.semester].push(course);
-      });
-
-      const semesters = Object.keys(coursesBySemester);
-      
-      return (
-        <div style={styles.visualizationContainer}>
-          <div style={styles.visualizationHeader}>
-            <BookOpen size={24} style={{ marginRight: 10 }} />
-            <div>
-              <h3 style={styles.visualizationTitle}>Your Academic Pathway</h3>
-              <p style={styles.visualizationSubtitle}>
-                {courses.length} courses • {courses.reduce((sum, c) => sum + c.credits, 0)} total credits
-              </p>
-            </div>
-            <button
-              style={styles.printButton}
-              onClick={() => window.print()}
-              aria-label="Print plan"
-            >
-              <Printer size={16} style={{ marginRight: 6 }} /> Print / Save PDF
-            </button>
-          </div>
-          
-          <div style={styles.semesterTimeline}>
-            {semesters.map((semester, semIdx) => (
-              <div key={semester} style={styles.semesterBlock}>
-                <div style={styles.semesterHeader}>
-                  <div style={styles.semesterBadge}>
-                    📅 {semester}
-                  </div>
-                  <div style={styles.semesterCredits}>
-                    {coursesBySemester[semester].reduce((sum, c) => sum + c.credits, 0)} Credits
-                  </div>
-                </div>
-                
-                <div style={styles.coursesGrid}>
-                  {coursesBySemester[semester].map((course, courseIdx) => (
-                    <div key={course.id} style={styles.courseCard}>
-                      {/* Course Header */}
-                      <div style={styles.courseCardHeader}>
-                        <div style={styles.courseIdBadge}>{course.id}</div>
-                        {course.difficulty && (
-                          <div 
-                            style={{
-                              ...styles.difficultyBadge,
-                              background: getDifficultyColor(course.difficulty)
-                            }}
-                          >
-                            {course.difficulty}
-                          </div>
-                        )}
-                        <div style={styles.creditsBadge}>
-                          {course.credits} CR
-                        </div>
-                      </div>
-                      
-                      {/* Course Name */}
-                      <div style={styles.courseName}>{course.name}</div>
-                      
-                      {/* Description */}
-                      {course.description && (
-                        <div style={styles.courseDescription}>
-                          {course.description.length > 150 && !expandedDescriptions[course.id]
-                            ? course.description.substring(0, 150) + "..."
-                            : course.description}
-                          {course.description.length > 150 && (
-                            <button
-                              style={styles.moreButton}
-                              onClick={() =>
-                                setExpandedDescriptions((prev) => ({
-                                  ...prev,
-                                  [course.id]: !prev[course.id],
-                                }))
-                              }
-                            >
-                              {expandedDescriptions[course.id] ? "Less" : "More"}
-                            </button>
-                          )}
-                        </div>
-                      )}
-                      
-                      {/* Prerequisites */}
-                      {course.prerequisites && course.prerequisites.length > 0 && (
-                        <div style={styles.prerequisitesSection}>
-                          <strong>📋 Prerequisites:</strong>
-                          <div style={styles.prerequisitesList}>
-                            {course.prerequisites.map((prereq, idx) => (
-                              <span key={idx} style={styles.prerequisiteTag}>
-                                {prereq}
-                              </span>
-                            ))}
-                          </div>
-                        </div>
-                      )}
-                      
-                      {/* Sessions/Sections */}
-                      {course.sessions && course.sessions.length > 0 && (
-                        <div style={styles.sessionsSection}>
-                          <div style={styles.sessionsSectionHeader}>
-                            🕒 Available Sections ({course.sessions.length})
-                          </div>
-                          <div style={styles.sessionsList}>
-                            {course.sessions.slice(0, 3).map((session, idx) => (
-                              <div key={idx} style={styles.sessionCard}>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Section:</span>
-                                  <span style={styles.sessionValue}>{session.section}</span>
-                                </div>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Time:</span>
-                                  <span style={styles.sessionValue}>{session.schedule}</span>
-                                </div>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Instructor:</span>
-                                  <span style={styles.sessionValue}>{session.instructor}</span>
-                                </div>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Location:</span>
-                                  <span style={styles.sessionValue}>{session.location}</span>
-                                </div>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Dates:</span>
-                                  <span style={styles.sessionValue}>{session.classDate}</span>
-                                </div>
-                                <div style={styles.sessionRow}>
-                                  <span style={styles.sessionLabel}>Capacity:</span>
-                                  <span style={{
-                                    ...styles.sessionValue,
-                                    ...styles.capacityBadge,
-                                    background: session.status === 'Open' ? '#28a745' : '#dc3545'
-                                  }}>
-                                    {session.enrolled}/{session.capacity} • {session.status}
-                                  </span>
-                                </div>
-                              </div>
-                            ))}
-                            {course.sessions.length > 3 && (
-                              <div style={styles.moreSessionsText}>
-                                + {course.sessions.length - 3} more sections available
-                              </div>
-                            )}
-                          </div>
-                        </div>
-                      )}
-                    </div>
-                  ))}
-                </div>
-                
-                {/* Arrow between semesters */}
-                {semIdx < semesters.length - 1 && (
-                  <div style={styles.semesterArrow}>↓</div>
-                )}
-              </div>
-            ))}
-          </div>
-          
-          {/* Summary Footer */}
-          <div style={styles.visualizationFooter}>
-            <div style={styles.footerStat}>
-              <Award size={20} style={{ marginRight: 5 }} />
-              <span>Total Credits: {courses.reduce((sum, c) => sum + c.credits, 0)}</span>
-            </div>
-            <div style={styles.footerStat}>
-              <BookOpen size={20} style={{ marginRight: 5 }} />
-              <span>Total Courses: {courses.length}</span>
-            </div>
-            <div style={styles.footerStat}>
-              <span>📚</span>
-              <span>Semesters: {semesters.length}</span>
-            </div>
-          </div>
-        </div>
-      );
+      // Render CourseTree with the course path data
+      return <CourseTree courses={courses} />;
     }
     
+    // Return null for unsupported visualization types
     return null;
   };
 
   return (
     <div style={styles.page}>
+      {/* Page head with title and custom styles */}
       <Head>
         <title>Intelligent Academic Path Planner</title>
         <style>{`
+          /* Custom placeholder styling for input fields */
           input::placeholder {
             color: #999999 !important;
             opacity: 0.9;
           }
+          /* Animation for sidebar slide-in effect */
           @keyframes slideIn {
             from {
               transform: translateX(-100%);
@@ -514,13 +252,15 @@ export default function Home() {
         `}</style>
       </Head>
 
-      {/* Title Bar */}
+      {/* Fixed title bar at top of page */}
       <div style={styles.titleBar}>
+        {/* Menu button with dynamic radial gradient hover effect */}
         <button 
           style={{
             ...styles.menuButton,
             ...(isMenuButtonHovered ? {
               ...styles.menuButtonHover,
+              // Dynamic radial gradient follows mouse position
               background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.35))`,
             } : {}),
           }}
@@ -531,24 +271,31 @@ export default function Home() {
         >
           <Menu size={24} color="#ffffff" />
         </button>
+        
+        {/* Page title centered in title bar */}
         <h1 style={styles.titleBarHeading}>Intelligent Academic Path Planner</h1>
 
+        {/* University dropdown (read-only, displays user's college) */}
         <select style={styles.universityDropdown} value={userProfile?.college || ""} disabled>
           <option value="">{userProfile?.college || "Select Your University"}</option>
         </select>
       </div>
 
-      {/* Sidebar Menu */}
+      {/* Sidebar Menu - slides in from left when menu button is clicked */}
       {isMenuOpen && (
         <>
+          {/* Overlay backdrop - clicking closes the sidebar */}
           <div 
             style={styles.overlay}
             onClick={() => setIsMenuOpen(false)}
           />
+          {/* Sidebar with user profile information */}
           <div style={styles.sidebar}>
+            {/* Sidebar content section with profile information */}
             <div style={styles.sidebarContent}>
               <h2 style={styles.sidebarTitle}>Profile Settings</h2>
               <div style={styles.sidebarDropdowns}>
+                {/* Read-only profile fields (loaded from localStorage) */}
                 <input 
                   style={styles.sidebarInput} 
                   placeholder="Your Name"
@@ -579,10 +326,12 @@ export default function Home() {
                   value={userProfile?.graduationYear || ""}
                   readOnly
                 />
+                {/* Link to edit profile - redirects to onboarding */}
                 <Link 
                   href="/onboarding" 
                   style={styles.editProfileButton}
                   onClick={() => {
+                    // Remove onboarding completion flag to trigger onboarding flow
                     localStorage.removeItem("onboarding_completed");
                   }}
                 >
@@ -590,6 +339,7 @@ export default function Home() {
                 </Link>
               </div>
             </div>
+            {/* Logout link at bottom of sidebar */}
             <Link 
               href="logout" 
               style={styles.sidebarLogout}
@@ -600,30 +350,35 @@ export default function Home() {
         </>
       )}
 
+      {/* Welcome message shown when chat is empty */}
       {chat.length === 0 && (
         <p style={styles.subtitle}>
           {userProfile ? `Welcome back, ${userProfile.name}! 👋` : "AI-Powered Advisor for University Students"}
         </p>
       )}
 
-      {/* Chat Window */}
+      {/* Chat Window - displays conversation history */}
       <div style={styles.chatWindow}>
         {chat.length === 0 ? (
+          // Placeholder message when no chat history exists
           <p style={styles.placeholder}>
             Let's get you started with finding the correct course for you.
           </p>
         ) : (
+          // Render chat messages with user and bot responses
           chat.map((msg, i) => (
             <div key={i} style={styles.chatMessage}>
+              {/* User's message */}
               <div style={{ marginBottom: 8 }}>
                 <b>You:</b>
                 <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
               </div>
+              {/* Bot's response */}
               <div>
                 <b>Bot:</b>
                 <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
                 
-                {/* Render visualization if available */}
+                {/* Render visualization if available (degree plan, course path, etc.) */}
                 {msg.visualization && (
                   <div style={{ marginTop: 15 }}>
                     {renderVisualization(msg.visualization)}
@@ -635,8 +390,9 @@ export default function Home() {
         )}
       </div>
 
-      {/* Chat Bar */}
+      {/* Chat Bar - fixed input form at bottom of page */}
       <form onSubmit={sendMessage} style={styles.chatBar}>
+        {/* Text input field for chat messages */}
         <input
           style={{
             ...styles.textBox,
@@ -650,13 +406,14 @@ export default function Home() {
           placeholder="Type your question here..."
         />
         
-        {/* File Upload Button */}
+        {/* File Upload Button - allows users to attach files */}
         <label 
           htmlFor="file-upload" 
           style={{
             ...styles.fileUploadButton,
             ...(isFileButtonHovered ? {
               ...styles.fileUploadButtonHover,
+              // Dynamic radial gradient follows mouse position
               background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #e8edf2, #7a8388)`,
             } : {}),
           }}
@@ -665,10 +422,12 @@ export default function Home() {
           onMouseMove={handleMouseMove as any}
         >
           <Paperclip size={16} style={{ marginRight: 5 }} />
+          {/* Show file count if files are selected */}
           {selectedFiles && selectedFiles.length > 0 
             ? `${selectedFiles.length} file(s)` 
             : 'Attach'}
         </label>
+        {/* Hidden file input - triggered by label click */}
         <input
           id="file-upload"
           type="file"
@@ -677,11 +436,13 @@ export default function Home() {
           style={{ display: 'none' }}
         />
         
+        {/* Send button - submits the chat form */}
         <button
           style={{
             ...styles.sendButton,
             ...(isSendButtonHovered ? {
               ...styles.sendButtonHover,
+              // Dynamic radial gradient follows mouse position
               background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #99ccff, #1a75d9)`,
             } : {}),
           }}
@@ -692,10 +453,12 @@ export default function Home() {
           onMouseMove={handleMouseMove}
         >
           <Send size={16} style={{ marginRight: 5 }} />
+          {/* Show loading indicator while message is being sent */}
           {loading ? '...' : 'Send'}
         </button>
       </form>
 
+      {/* Fixed footer at bottom of page */}
       <footer style={styles.footer}>
         © {new Date().getFullYear()} UMass Boston | Intelligent Academic Path Planner
       </footer>
@@ -703,6 +466,17 @@ export default function Home() {
   );
 }
 
+/**
+ * Style definitions for the Home component
+ * Contains all inline styles for the page layout, UI components, and visualizations
+ * Uses a consistent color scheme with #004aad (blue) as the primary color
+ * Includes styles for:
+ * - Page layout and layout components
+ * - Title bar and sidebar
+ * - Chat interface
+ * - Interactive buttons with hover effects
+ * - Visualization components (unused but available for future enhancements)
+ */
 const styles: Record<string, any> = {
   page: {
     minHeight: "100vh",

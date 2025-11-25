@@ -118,3 +118,43 @@ button:disabled {
   opacity: 0.6;
   cursor: not-allowed;
 }
+/* Course Tree Visualization Styles */
+.course-tree-svg {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.course-tree-svg .rd3t-link {
+  fill: none;
+  stroke: #004aad;
+  stroke-width: 2;
+}
+
+.course-tree-svg .rd3t-node {
+  cursor: pointer;
+}
+
+.course-tree-svg .rd3t-node circle {
+  transition: all 0.3s ease;
+}
+
+.course-tree-svg .rd3t-node:hover rect {
+  stroke-width: 3;
+  filter: drop-shadow(0 2px 4px rgba(0, 74, 173, 0.3));
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Close button hover effect */
+button[aria-label="Close details"]:hover {
+  background: rgba(255, 255, 255, 0.3) !important;
+  transform: scale(1.1);
+}
