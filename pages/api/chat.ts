@@ -85,26 +85,68 @@ function extractVisualizationData(text: string) {
 }
 
 function shouldProvideVisualization(message: string): boolean {
-  const visualizationKeywords = [
-    "show me my path",
-    "course plan",
-    "what courses should i take",
-    "semester plan",
-    "roadmap",
-    "plan my courses",
-    "course sequence",
-    "what should i take",
-    "degree plan",
-    "academic plan",
-    "show courses",
-    "show me courses",
-    "visualize",
-    "courses",
-    "classes"
+  const lowerMessage = message.toLowerCase().trim();
+  
+  // Core keywords that should trigger visualization
+  const coreKeywords = [
+    "roadmap", "road map", "road-map",
+    "course plan", "courseplan",
+    "degree plan", "degreeplan",
+    "academic plan", "academicplan",
+    "study plan", "studyplan",
+    "curriculum",
+    "course sequence", "coursesequence",
+    "semester plan", "semesterplan",
+    "academic roadmap", "academicroadmap",
+    "course roadmap", "courseroadmap",
+    "degree roadmap", "degreeroadmap"
   ];
   
-  const lowerMessage = message.toLowerCase();
-  return visualizationKeywords.some(keyword => lowerMessage.includes(keyword));
+  // Action phrases that combined with keywords should trigger visualization
+  const actionPhrases = [
+    "show", "display", "view", "see", "get", "give", "provide", "present",
+    "my", "me", "the", "a", "an"
+  ];
+  
+  // Check for direct keyword matches
+  const hasKeyword = coreKeywords.some(keyword => lowerMessage.includes(keyword));
+  
+  // Check for action + keyword combinations (e.g., "show roadmap", "display my course plan")
+  const hasActionAndKeyword = actionPhrases.some(action => 
+    coreKeywords.some(keyword => {
+      // Check for patterns like "show roadmap", "show me roadmap", "show the roadmap"
+      const patterns = [
+        `${action}\\s+me\\s+${keyword}`,
+        `${action}\\s+the\\s+${keyword}`,
+        `${action}\\s+my\\s+${keyword}`,
+        `${action}\\s+${keyword}`,
+        `${keyword}\\s+please`,
+        `please\\s+${action}\\s+${keyword}`
+      ];
+      return patterns.some(pattern => new RegExp(pattern, 'i').test(lowerMessage));
+    })
+  );
+  
+  // Check for common course-related phrases
+  const coursePhrases = [
+    "what courses should i take",
+    "show me courses",
+    "display courses",
+    "view courses",
+    "my courses",
+    "course schedule",
+    "class schedule",
+    "plan my courses",
+    "plan courses"
+  ];
+  
+  const hasCoursePhrase = coursePhrases.some(phrase => lowerMessage.includes(phrase));
+  
+  // Check for visualization-related words
+  const visualizationWords = ["visualize", "visualization", "graph", "chart", "tree", "diagram"];
+  const hasVisualizationWord = visualizationWords.some(word => lowerMessage.includes(word));
+  
+  return hasKeyword || hasActionAndKeyword || hasCoursePhrase || hasVisualizationWord;
 }
 
 function isCourseRequest(message: string): boolean {
