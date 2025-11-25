@@ -26,6 +26,8 @@ interface MessageBox {
   };
 }
 
+const CHAT_API = "/api/chat"
+
 export default function Home() {
   const [input, setInput] = useState("");
   const [chat, setChat] = useState<MessageBox[]>([]);
@@ -68,32 +70,42 @@ export default function Home() {
           "Authorization": `Bearer ${token}`
           },
         });
-        var { chats, user_profile } = await res.json();
-        
+        var profile = await res.json();
+
         // look for old chats
-        if (chats) {
-          setChat(chats.map(m => ({
+        if (profile.chats) {
+          setChat(profile.chats.map(m => ({
             user: m.role === "user" ? m.message : undefined,
             bot: m.role === "assistant" ? m.message : ""
           })));
         }
-        
-        // onboard user
-        if (!profile) {
+
+        // send initial message based on history (onboard if no previous profile)
+        if (!profile.data) {
           setOnboarding(true);
-          const onboardReply = await fetch("/api/onboard", {
+          const onboardReply = await fetch(CHAT_API, {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
               "Authorization": `Bearer ${token}`,
             },
-            body: JSON.stringify({ message: "" }),
+            body: JSON.stringify({ message: "onboard" }),
           });
           const data = await onboardReply.json();
           setChat(prev => [...prev, { user: undefined, bot: data.reply }]);
-          if (data.onboardingComplete == true) {
-              setOnboarding(false);
-          }
+        } else {
+          setProfile(profile)
+          setOnboarding(false);
+          const initReply = await fetch(CHAT_API, {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "Authorization": `Bearer ${token}`,
+            },
+            body: JSON.stringify({ message: "remind" }),
+          });
+          const data = await initReply.json();
+          setChat(prev => [...prev, { user: undefined, bot: data.reply }]);
         }
     }
     initChat()
@@ -114,10 +126,7 @@ export default function Home() {
     setLoading(true);
     try {
       // Determine which API to call
-      const apiUrl = onboarding ? "/api/onboard" : "/api/chat";
-      console.log(`Sending message to ${apiUrl} with token:'`, token ? 'Token present' : 'No token');
-
-      const res = await fetch(apiUrl, {
+      const res = await fetch(CHAT_API, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -134,7 +143,8 @@ export default function Home() {
 
       const llmRes = await res.json();
       
-      if (llmRes.onboardingComplete) {
+      // tool call update profile
+      if (llmRes.tool === "updateUserProfile") { 
         setOnboarding(false);
         // look for user profile
         var userprofile = await fetch("/api/userprofile", {
@@ -146,6 +156,9 @@ export default function Home() {
         });
         var { chats, profile } = await userprofile.json();
         setProfile(profile)
+      } 
+      else if (llmRes.tool === "visualizePath") { 
+
       }
 
       setChat([...chat, { user: input, bot: llmRes.reply }]);

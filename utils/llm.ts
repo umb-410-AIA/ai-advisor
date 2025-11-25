@@ -1,9 +1,16 @@
 import OpenAI from "openai";
 import { insertChatMessage, fetchChatMessages } from "./chats";
-import { upsertUserData } from "./userdata";
+import { fetchUserData, upsertUserData } from "./userdata";
 
 // Reprompts after saving user data
-const REPROMPT = `The user's profile was just updated with new data. `
+const SAVED_REPROMPT = ` (Use 50 words or less)
+                  The user's profile was just updated with new data. 
+                  Tell them to try asking again.`
+const COURSES_REPROMPT = ` (Use 200 words or less)
+                  You are given a list of courses from a tool call.
+                  List the most relevant based on user's current profile.
+                  Then ask if they want visualization of course path.`
+
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -13,10 +20,11 @@ export async function llm(user_id: string,
                           prompt: string, 
                           system_prompt: string) 
 {
-  var onboardingComplete = false
+  var passtoolcall = null
 
   // get chat history
   const chats = await fetchChatMessages(user_id);
+  const user_data = await fetchUserData(user_id);
   
   // get most recent chat_id or gen new one
   var chat_id;
@@ -75,7 +83,7 @@ export async function llm(user_id: string,
             properties: {
               university: { type: "string" },
               major: { type: "string" },
-              year: { type: "string" },
+              year: { type: "integer" },
               isstudent: { type: "boolean" },
               interests: { 
                 type: "array",    
@@ -107,24 +115,47 @@ export async function llm(user_id: string,
         }));
       messages.push({
         role: "system",
-        content: REPROMPT + prompt
+        content: SAVED_REPROMPT + prompt
       });
       const completion = await openai.chat.completions.create({
         model: "gpt-4o-mini",
         messages,
       });
       reply.content = completion.choices[0].message.content;
-      onboardingComplete = true;
+    } else if (toolCall.function.name === "getCoursesByMajor") {
+      
+      
+      // REPROMPT LLM
+      const chats = await fetchChatMessages(user_id);
+      messages = chats
+        .filter(m => m.role !== "system")
+        .map(m => ({
+          role: m.role,
+          content: m.message
+        }));
+      messages.push({
+        role: "system",
+        content: COURSES_REPROMPT + prompt
+      });
+      const completion = await openai.chat.completions.create({
+        model: "gpt-4o-mini",
+        messages,
+      });
+      reply.content = completion.choices[0].message.content;
     }
+    passtoolcall = toolCall.function.name // Pass name of toolcall to calling API
+    console.log("TOOLCALL:\n", passtoolcall)
   }
 
-  // log chat to database
-  //await insertChatMessage(user_id, chat_id, system_prompt, "system")
-  await insertChatMessage(user_id, chat_id, prompt, "user")
-  await insertChatMessage(user_id, chat_id, reply.content, "assistant")
+  // log chat to database if user has a profile
+  if (user_data) {
+    //await insertChatMessage(user_id, chat_id, system_prompt, "system")
+    await insertChatMessage(user_id, chat_id, prompt, "user")
+    await insertChatMessage(user_id, chat_id, reply.content, "assistant")
+  }
 
   return {
     reply: reply.content,
-    onboardingComplete: onboardingComplete
+    tool: passtoolcall
   };
 }

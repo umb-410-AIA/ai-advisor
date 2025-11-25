@@ -9,7 +9,7 @@ create table if not exists users (
   university text,
   major text,
   isStudent boolean,
-  year text check (year in ('freshman','sophomore','junior','senior')),
+    year int CHECK (year >= 1 AND year <= 5),
   interests text[], 
   created_at timestamptz default now()
 );
