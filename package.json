@@ -17,6 +17,8 @@
     "next": "^16.0.0",
     "ollama": "^0.6.0",
     "openai": "^6.6.0",
+    "pg": "^8.16.3",
+    "postgres": "^3.4.7",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-mermaid2": "^0.1.4",
