@@ -8,6 +8,7 @@ import { fetchChatMessages } from "@/utils/chats";
 import { getUserId } from "@/utils/auth";
 import { init } from "next/dist/compiled/webpack/webpack";
 import { UserProfile } from "./api/userprofile";
+import FlowChart from "@/components/FlowChart";
 
 interface Course {
   id: string;
@@ -24,9 +25,19 @@ interface MessageBox {
     type: string;
     data: any;
   };
+  mermaid?: string;
 }
 
 const CHAT_API = "/api/chat"
+const extractMermaidFromText = (text: string) => {
+  const match = text.match(/```mermaid\s*([\s\S]*?)```/i);
+  if (!match) return { cleanedText: text, mermaid: null };
+
+  const mermaid = match[1].trim();
+  const cleanedText = text.replace(match[0], "").trim();
+
+  return { cleanedText: cleanedText || "Here is your course chart:", mermaid };
+};
 
 export default function Home() {
   const [input, setInput] = useState("");
@@ -111,7 +122,7 @@ export default function Home() {
 
     if (!token) {
       console.error('No authentication token found');
-      setChat([...chat, { user: input, bot: 'Error: Please log in to use the chat.' }]);
+      setChat((prev) => [...prev, { user: input, bot: 'Error: Please log in to use the chat.' }]);
       setInput('');
       return;
     }
@@ -127,7 +138,7 @@ export default function Home() {
         },
         body: JSON.stringify({ message: input }),
       });
-      
+
       if (!res.ok) {
         const errorData = await res.json().catch(() => ({}));
         console.error('API request failed:', res.status, res.statusText, errorData);
@@ -170,10 +181,37 @@ export default function Home() {
       //   setChat([...chat, { user: input, bot: data.reply }]);
       // }
       
+
+      const data = await res.json();
+      console.log('API response:', data);
+
+      const botReply = data.reply ?? "";
+      const { cleanedText, mermaid } = extractMermaidFromText(botReply);
+
+      setChat((prev) => {
+        const nextMessage: ChatMessage = {
+          user: input,
+          bot: cleanedText,
+        };
+
+        if (data.visualizationType && data.data) {
+          nextMessage.visualization = {
+            type: data.visualizationType,
+            data: data.data,
+          };
+        }
+
+        if (mermaid) {
+          nextMessage.mermaid = mermaid;
+        }
+
+        return [...prev, nextMessage];
+      });
+
       setInput('');
     } catch (error) {
       console.error('Error sending message:', error);
-      setChat([...chat, { user: input, bot: 'Error: Failed to get response from server.' }]);
+      setChat((prev) => [...prev, { user: input, bot: 'Error: Failed to get response from server.' }]);
       setInput('');
     } finally {
       setLoading(false);
@@ -192,21 +230,21 @@ export default function Home() {
   const renderVisualization = (visualization: { type: string; data: any }) => {
     if (visualization.type === 'course_path') {
       const courses: Course[] = visualization.data.courses || [];
-      
+
       return (
         <div style={styles.visualizationContainer}>
           <div style={styles.visualizationHeader}>
             <BookOpen size={20} style={{ marginRight: 8 }} />
             <h3 style={styles.visualizationTitle}>Your Course Pathway</h3>
           </div>
-          
+
           <div style={styles.coursePathway}>
             {courses.map((course, index) => (
               <div key={course.id} style={styles.courseCard}>
                 <div style={styles.courseCardHeader}>
                   <div style={styles.courseId}>{course.id}</div>
                   {course.difficulty && (
-                    <div 
+                    <div
                       style={{
                         ...styles.difficultyBadge,
                         background: getDifficultyColor(course.difficulty)
@@ -216,9 +254,9 @@ export default function Home() {
                     </div>
                   )}
                 </div>
-                
+
                 <div style={styles.courseName}>{course.name}</div>
-                
+
                 <div style={styles.courseDetails}>
                   <span style={styles.courseDetailItem}>
                     📅 {course.semester}
@@ -227,20 +265,20 @@ export default function Home() {
                     📚 {course.credits} credits
                   </span>
                 </div>
-                
+
                 {course.prerequisites && course.prerequisites.length > 0 && (
                   <div style={styles.prerequisites}>
                     <strong>Prerequisites:</strong> {course.prerequisites.join(', ')}
                   </div>
                 )}
-                
+
                 {index < courses.length - 1 && (
                   <div style={styles.arrow}>↓</div>
                 )}
               </div>
             ))}
           </div>
-          
+
           <div style={styles.visualizationFooter}>
             <Award size={16} style={{ marginRight: 5 }} />
             Total Credits: {courses.reduce((sum, c) => sum + c.credits, 0)}
@@ -248,7 +286,7 @@ export default function Home() {
         </div>
       );
     }
-    
+
     return null;
   };
 
@@ -274,7 +312,7 @@ export default function Home() {
 
       {/* Title Bar */}
       <div style={styles.titleBar}>
-        <button 
+        <button
           style={{
             ...styles.menuButton,
             ...(isMenuButtonHovered ? {
@@ -304,7 +342,7 @@ export default function Home() {
       {/* Sidebar Menu */}
       {isMenuOpen && (
         <>
-          <div 
+          <div
             style={styles.overlay}
             onClick={() => setIsMenuOpen(false)}
           />
@@ -312,9 +350,9 @@ export default function Home() {
             <div style={styles.sidebarContent}>
               <h2 style={styles.sidebarTitle}>Profile Settings</h2>
               <div style={styles.sidebarDropdowns}>
-                <input 
-                  style={styles.sidebarInput} 
-                  placeholder="Your Name" 
+                <input
+                  style={styles.sidebarInput}
+                  placeholder="Your Name"
                 />
                 <select style={styles.sidebarInput}>
                   <option value="">Select your Major</option>
@@ -338,8 +376,8 @@ export default function Home() {
                 </select>
               </div>
             </div>
-            <Link 
-              href="logout" 
+            <Link
+              href="logout"
               style={styles.sidebarLogout}
             >
               Log out
@@ -350,7 +388,7 @@ export default function Home() {
 
       <p style={styles.subtitle}>AI-Powered Advisor for University Students</p>
 
-     
+
 
       {/* Chat Window */}
       <div style={styles.chatWindow}>
@@ -390,10 +428,10 @@ export default function Home() {
           onMouseLeave={() => setIsTextBoxHovered(false)}
           placeholder="Type your question here..."
         />
-        
+
         {/* File Upload Button */}
-        <label 
-          htmlFor="file-upload" 
+        <label
+          htmlFor="file-upload"
           style={{
             ...styles.fileUploadButton,
             ...(isFileButtonHovered ? {
@@ -406,8 +444,8 @@ export default function Home() {
           onMouseMove={handleMouseMove as any}
         >
           <Paperclip size={16} style={{ marginRight: 5 }} />
-          {selectedFiles && selectedFiles.length > 0 
-            ? `${selectedFiles.length} file(s)` 
+          {selectedFiles && selectedFiles.length > 0
+            ? `${selectedFiles.length} file(s)`
             : 'Attach'}
         </label>
         <input
@@ -417,7 +455,7 @@ export default function Home() {
           onChange={(e) => setSelectedFiles(e.target.files)}
           style={{ display: 'none' }}
         />
-        
+
         <button
           style={{
             ...styles.sendButton,
@@ -589,7 +627,7 @@ const styles: Record<string, any> = {
     marginBottom: 30,
   },
   dropdownSection: {
-    padding:"40px",
+    padding: "40px",
     position: "fixed",
     display: "flex",
     flexWrap: "wrap",
@@ -619,47 +657,47 @@ const styles: Record<string, any> = {
   position: "relative",
   //paddingTop: "20px",
 },*/
-topInputBar: {
-  position: "fixed",
-  top: 0,
-  left: 0,
-  right: 0,
-  zIndex: 1000,
-  background: "#fff",
-  padding: "15px 20px",
-  display: "flex",
-  justifyContent: "center",
-  alignItems: "center",
-  gap: "10px",
-  boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
-  height: "80px", // 👈 define a fixed height
-},
-chatWindow: {
-  flex: 1,
-  padding: "15px",
-  paddingLeft: "0px",
-  maxWidth: "1100px",
-  overflowY: "auto",
-  scrollBehavior: "smooth",
-  paddingBottom: "90px", // 👈 enough space for the input bar
-  paddingTop: "100px",
-  //position: "fixed",
-},
-chatBar: {
-  position: "fixed",     // stays on the viewport, not inside scroll
-  bottom: 70,             // anchored to bottom edge
-  left: 0,
-  right: 0,
-  display: "flex",
-  gap: "10px",
-  padding: " 0px",
-  borderTop: "1px solid #ddd",
-  maxWidth: "1100px",
-  margin: "0 auto",
-  justifyContent: "center",
-  alignItems: "center",
-  zIndex: 1000,          // makes sure it’s above other content
-},
+  topInputBar: {
+    position: "fixed",
+    top: 0,
+    left: 0,
+    right: 0,
+    zIndex: 1000,
+    background: "#fff",
+    padding: "15px 20px",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    gap: "10px",
+    boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
+    height: "80px", // 👈 define a fixed height
+  },
+  chatWindow: {
+    flex: 1,
+    padding: "15px",
+    paddingLeft: "0px",
+    maxWidth: "1100px",
+    overflowY: "auto",
+    scrollBehavior: "smooth",
+    paddingBottom: "90px", // 👈 enough space for the input bar
+    paddingTop: "100px",
+    //position: "fixed",
+  },
+  chatBar: {
+    position: "fixed",     // stays on the viewport, not inside scroll
+    bottom: 70,             // anchored to bottom edge
+    left: 0,
+    right: 0,
+    display: "flex",
+    gap: "10px",
+    padding: " 0px",
+    borderTop: "1px solid #ddd",
+    maxWidth: "1100px",
+    margin: "0 auto",
+    justifyContent: "center",
+    alignItems: "center",
+    zIndex: 1000,          // makes sure it’s above other content
+  },
   placeholder: {
     color: "#aaa",
     textAlign: "center",

@@ -1,0 +1,526 @@
+[
+  {
+    "coursename": "An Introduction to Computer Concepts",
+    "courseid": "CS105",
+    "coursedescription": "This course presents an overview of the role of computers in society: their application and misapplication, their capabilities and limitations. Applications may include artificial intelligence, medical, aerospace and business use of computers. Computer hardware and associated technologies are discussed. Computer programming is taught from a non-mathematical, problem-solving point of view; the course objective is to help students acquire an understanding of the programming process, rather than to develop complex or extended computer programs.",
+    "course-prerequsities": [
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Computing",
+    "courseid": "CS110",
+    "coursedescription": "An introduction to computer programming: the concepts involved in use of a higher level language and the program development process. The goal of this course is proficiency in the design and implementation of programs of significant size and complexity. This course is quite demanding because of the length of the programming exercises assigned. This is the first course in the computer science sequence.",
+    "course-prerequsities": [
+      "MATH 130",
+      "MATH 140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computer Language Supplement",
+    "courseid": "CS119",
+    "coursedescription": "This course addresses the dilemma of students who studied the equivalent of CS 110 in a language other than the one currently used in our CS 110 course. These students may want to learn the current language of CS 110, or may be interested in the material of CS 110 as a means of preparing for the follow-up course, which is CS 210. Such students can, with permission of the department, register for CS 119 for two credits. They then make arrangement to attend a section of CS 110. They are required to do all the assignments, examinations, etc., of regular CS 110 students. Thus, in virtually all respects, students who register for CS 119 are really CS 110 students, except that CS 119 meets no core curriculum requirement and does not count towards any computer science major requirement.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These students may want to learn the current language of CS 110, or may be interested in the material of CS 110 as a means of preparing for the follow-up course, which is CS 210.",
+        "Such students can, with permission of the department, register for CS 119 for two credits."
+      ]
+    }
+  },
+  {
+    "coursename": "Intermediate Computing with Data Structures",
+    "courseid": "CS210",
+    "coursedescription": "The design and implementation of computer programs in a high-level language, with emphasis on proper design principles and advanced programming concepts, including dynamic data structures and recursion. The assignments are designed to introduce the student to a variety of topics in computing: data structures and ADTs, Lists, Stacks, Queues, Ordered Lists, Binary Trees, and searching and sorting techniques.",
+    "course-prerequsities": [
+      "CS 110",
+      "IT 115L",
+      "MATH 130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Applied Discrete Mathematics",
+    "courseid": "CS220",
+    "coursedescription": "An introduction to the mathematical structures and concepts used in computing: sets, mathematical induction, ordered sets, Boolean algebras, predicate calculus, trees, relations and lattice theory. Formal and informal theories and corresponding mathematical proofs are taught.",
+    "course-prerequsities": [
+      "CS 110",
+      "MATH 140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Programming in C",
+    "courseid": "CS240",
+    "coursedescription": "C programming for programmers with prior knowledge of some high-level language (e.g., one semester of programming in Java). The course treats C as a machine-level language and as a general-purpose language; it covers number representation, masking, bitwise operations, and memory allocation, as well as more general topics such as dynamic data structures, file I/O, separate compilation, program development tools, and debugging.",
+    "course-prerequsities": [
+      "CS 110",
+      "IT 115L",
+      "CS 119"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Cognitive Science",
+    "courseid": "CS271L",
+    "coursedescription": "Cognitive science is an interdisciplinary field fundamentally concerned with furthering our understanding of the development, underlying processes, and implementation of language, perception, problem-solving, learning, memory, and other intelligent capacities. This course offers an introduction to this science for all levels of undergraduate majors in psychology, computer science, biology, and other related fields.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Social Issues and Ethics in Computing",
+    "courseid": "CS285L",
+    "coursedescription": "This course explores some of the ethical and societal issues that are raised by computing. Topics include privacy, freedom of expression, intellectual property, liability, the effect of computing on social interaction, and human-computer interface issues. Students write an analytical paper on an appropriate topic and also present their findings to the class.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Data Structures and Algorithms",
+    "courseid": "CS310",
+    "coursedescription": "A systematic study of the methods of structuring and manipulating data in computing. Abstract data types. The design and analysis of algorithms. Advanced techniques for program development and organization.",
+    "course-prerequsities": [
+      "CS 210",
+      "CS 220",
+      "CS 240"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computer Architecture and Organization",
+    "courseid": "CS341",
+    "coursedescription": "Computer hardware concepts and hardware-level programming for C programmers. Topics include digital logic circuits, computer organization of a microprocessor system (i.e., how CPU, memory, and i/o interface chips are interconnected), serial and parallel port interfacing, hardware programming in C and C/assembler, interrupt programming, device drivers. The necessary assembly language is also covered. The course includes a hands-on lab meeting one hour per week.",
+    "course-prerequsities": [
+      "CS 240"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "An Introduction to Software Engineering",
+    "courseid": "CS410",
+    "coursedescription": "This course covers all aspects of the software development process from initial specification to final validation of completed software design. Implementation methodologies are discussed in the context of a major team project, to be chosen according to student and instructor interest. Oral presentations by students are an important part of the course.",
+    "course-prerequsities": [
+      "CS 310"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Implementation methodologies are discussed in the context of a major team project, to be chosen according to student and instructor interest."
+      ]
+    }
+  },
+  {
+    "coursename": "Applied Cryptography",
+    "courseid": "CS413",
+    "coursedescription": "This course aims to introduce fundamental and practical knowledge of cryptography and its applications. This course covers diverse topics on cryptography and network security techniques including conventional encryption, asymmetric and symmetric cryptology, digital signatures, certificates, key exchange, key management, authentication, network access control, cloud computing security, electronic mail security, advanced crypto primitives, bitcoin, blockchain, and differential privacy. This course focuses on both theoretical aspects and practical applications of cryptanalysis and network security techniques.",
+    "course-prerequsities": [
+      "CS 310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "An Introduction to the Theory of Computation",
+    "courseid": "CS420",
+    "coursedescription": "This course introduces such theoretical aspects of computing as models of computation, inherent limits on computation, and feasible computation. Topics include definition of computable functions (recursive functions, functions computable by Turing machines, functions computable in a programming language), unsolvability of the halting problem and related problems, the classes P and NP, finite automata, and context-free grammars.",
+    "course-prerequsities": [
+      "CS 220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Database Management",
+    "courseid": "CS430",
+    "coursedescription": "Introduction to database systems, including database programming. The course covers relational algebra, SQL, object-relational systems, embedded programming, and basic transaction concepts. It covers database design, both entity-relationship modeling and normalization.",
+    "course-prerequsities": [
+      "CS 240",
+      "310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Database Application Development",
+    "courseid": "CS436",
+    "coursedescription": "A study of database applications, that is, software systems that solve a particular real-world problem and hold their data in a relational database. The systems under study will also have a realistic user interface. Students will work in small groups on a real-world project specified and implemented during the term. Topics include system specification from user needs, analysis of dataflow and workflow, object design, database design, and client-server techniques.",
+    "course-prerequsities": [
+      "CS 430",
+      "CS 310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Applied Machine Learning",
+    "courseid": "CS438",
+    "coursedescription": "This course presents the practical side of machine learning for applications, such as pattern recognition from images or building predictive classifiers. Topics will include linear models for regression, decision trees, rule based classification, support vector machines, Bayesian networks, and clustering. The emphasis of the course will be on the hands-on application of machine learning to a variety of problems.",
+    "course-prerequsities": [
+      "CS 310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "An Introduction to Operating Systems",
+    "courseid": "CS444",
+    "coursedescription": "Description of current operating systems, with focus on one or two in particular. Topics include defining the operating system as distinct from the hardware on one side and software systems on the other; process concepts; memory management; CPU scheduling; device management; file systems; network support.",
+    "course-prerequsities": [
+      "CS 341",
+      "310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Internetworking",
+    "courseid": "CS446",
+    "coursedescription": "The objective of this course is to provide a practical understanding of computer networks, with emphasis on the Internet. The course starts with an overview of the Internet, its protocol layers, edge and core networks, access networks and physical media. The course then focuses on fundamental design and implementation concepts of the application, transport, and network layers of the Internet.",
+    "course-prerequsities": [
+      "CS 341",
+      "310"
+    ],
+    "course-corequisites": [
+      "CS 444"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Computer Security",
+    "courseid": "CS449",
+    "coursedescription": "The course will provide an introduction to the fundamentals of computer security, and will cover both general theoretical aspects as well as applied methods of computer security. The course will address the general concepts of confidentiality, integrity and availability of digital information, and will focus on aspects such as: risks and vulnerabilities; models and policies for access control; program security - buffer overflow attacks, malware, viruses; browser security; authentication and authorization; encryption; and an overview of applied data, operating system and network security (with emphasis on Internet security). The course will also address the aspect of privacy, which is tightly related to security and is becoming increasingly important in today's digital society.",
+    "course-prerequsities": [
+      "CS 310",
+      "CS 341"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Structure of Higher Level Languages",
+    "courseid": "CS450",
+    "coursedescription": "The syntax and semantics of higher level languages. Mechanisms for parsing, parameter passing, scoping, dynamic storage allocation, and message passing are modeled by programs written in a suitably high-level language.",
+    "course-prerequsities": [
+      "CS 310",
+      "220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Compilers",
+    "courseid": "CS451",
+    "coursedescription": "This course is an introduction to compiler organization and implementation, including formal specifications and algorithms for lexical and syntactic analysis, internal representation of the source program, semantic analysis, run-time environment issues, and code generation. Participants write a compiler for a reasonably large subset of a contemporary language, targeted to a virtual machine.",
+    "course-prerequsities": [
+      "CS 310",
+      "CS 420",
+      "622"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computer Games Programming",
+    "courseid": "CS461",
+    "coursedescription": "This course covers the game development pipeline, from modeling of virtual environmental and gaming assets, to interactive rendering and real-time physics-based simulation in virtual environments. The syllabus i centered on the essential components of a game engine. Special technical issues in game development will also be discussed, such as real-time interactivity, scalability of modeling techniques and the use of the standard techniques adopted in common game engines. Students also need to team up to develop their own games using a game engine. The goal of this course is to prepare students for a career as a game developer.",
+    "course-prerequsities": [
+      "CS 310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "An Introduction to Artificial Intelligence",
+    "courseid": "CS470",
+    "coursedescription": "An introduction to the main techniques of Artificial Intelligence: state-space search methods, semantic networks, theorem-proving and production rule systems. Important applications of these techniques are presented. Students are expected to write programs exemplifying some of techniques taught, using the LISP language.",
+    "course-prerequsities": [
+      "CS 310",
+      "CS 220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "CS478",
+    "coursedescription": "Work done by a student or group of students under faculty supervision on material not currently offered in a regularly scheduled course. Students wishing to undertake such work must first find a faculty member willing to supervise it; the work to be completed must be approved by the department chairperson.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "CS480",
+    "coursedescription": "An advanced course offering intensive study of selected topics in computer science. Course content varies and will be announced prior to registration.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum in Computer Science",
+    "courseid": "CS495",
+    "coursedescription": "This course is intended to enhance academic studies by providing an industrial context for learning new concepts and skills. It will help to prepare the student for the transition from an academic program to eventual employment in the computer industry.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors Thesis",
+    "courseid": "CS498",
+    "coursedescription": "The design and execution of a significant research project under the guidance of a faculty advisor. Successful completion and oral defense of the thesis is necessary to qualify for Honors in Computer Science.",
+    "course-prerequsities": [
+      "CS 310",
+      "420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Applied Cryptography",
+    "courseid": "CS613",
+    "coursedescription": "This course aims to introduce fundamental and practical knowledge of cryptography and its applications. This course covers diverse topics on cryptography and network security techniques including conventional encryption, asymmetric and symmetric cryptology, digital signatures, certificates, key exchange, key management, authentication, network access control, cloud computing security, electronic mail security, advanced crypto primitives, bitcoin, blockchain, and differential privacy. This course focuses on both theoretical aspects and practical applications of cryptanalysis and network security techniques.",
+    "course-prerequsities": [
+      "CS 310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "User Interface Design",
+    "courseid": "CS615",
+    "coursedescription": "An introduction to user interface design, which encompasses design of the user interface and the functional design of the whole system. Students read and critique papers and articles, evaluate and critique existing user interfaces, and design interfaces of their own. Working in small groups, students use either interface prototyping tools or conventional rapid prototyping systems to construct an experimental interface.",
+    "course-prerequsities": [
+      "CS 310",
+      "CS 220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theory of Formal Languages",
+    "courseid": "CS622",
+    "coursedescription": "This course treats languages from an abstract point of view as defined by formal grammars and by families of abstract machines. The Chomsky hierarchy and associated automata are covered. Emphasis is placed on context-free languages. Careful mathematical definition and proof are stressed throughout. This course does not involve programming. This course is of special interest to students interested in linguistics and in the theory of programming language compilers.",
+    "course-prerequsities": [
+      "CS 220"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is of special interest to students interested in linguistics and in the theory of programming language compilers."
+      ]
+    }
+  },
+  {
+    "coursename": "Analysis of Algorithms",
+    "courseid": "CS624",
+    "coursedescription": "Basic techniques for designing algorithms: divide and conquer, the greedy method, dynamic programming, etc. Applications to searching and sorting algorithms. Complexity of parsing. The fast Fourier transform and its applications (evaluation of polynomials and arithmetical problems). Lower bound theory. NP-hard and NP-complete problems. Probabilistic estimates of algorithms.",
+    "course-prerequsities": [
+      "CS 220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Database Management Systems",
+    "courseid": "CS630",
+    "coursedescription": "Databases and database management systems. The entity/relationship model. The relational model. Relational algebra. The query language SQL. The object-relational model and SQL3. Embedded SQL in programs and dynamic SQL. Database administration: creating views and integrity constraints, handling data security. Functional dependencies. Normalization.",
+    "course-prerequsities": [
+      "CS 240",
+      "CS310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Database Application Development",
+    "courseid": "CS636",
+    "coursedescription": "A study of database applications, that is, software systems that solve a particular real-world problem and hold their data in a relational database. The systems under study also have a realistic user interface. Students work in small groups on a real-world project specified and implemented during the term. Topics include system specification from user needs, analysis of data flow and work flow, object design, database design, client-server techniques, and rapid prototyping systems.",
+    "course-prerequsities": [
+      "CS 630"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Applied Machine Learning",
+    "courseid": "CS638",
+    "coursedescription": "This course presents the practical side of machine learning for applications, such as pattern recognition from images or building predictive classifiers. Topics will include linear models for regression, decision trees, rule based classification, support vector machines, Bayesian networks, and clustering. The emphasis of the course will be on the hands-on application of machine learning to a variety of problems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computer Communication Networks",
+    "courseid": "CS646",
+    "coursedescription": "Need for computer networks. Architectures of networks. Architectures of systems. ISO Reference Model. Standardization efforts. Specification of protocols. Example of protocols and networks.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Wireless Networks and Mobile Computing",
+    "courseid": "CS648",
+    "coursedescription": "Wireless communications, wireless networking, mobility management technologies, and protocols for wireless LANs and WANs are surveyed. Selected mobile computing models and mobile applications development environments are evaluated. A wireless networks laboratory provides a realistic mobile/wireless computing environment. Students are expected to form groups to complete a semester project involving an investigation and the development of a prototype.",
+    "course-prerequsities": [
+      "CS 446",
+      "CS 646"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Compiler",
+    "courseid": "CS651",
+    "coursedescription": "Compiler organization and construction. Programming projects involve scanning input, analyzing program structure, error checking, code translation and interpreting, code generation and optimization. These projects result in a compiler for a reasonably large subset of ALGOL, Pascal, or similar procedural language.",
+    "course-prerequsities": [
+      "CS 310",
+      "CS 420",
+      "CS 622"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Biomedical Signal and Image Processing",
+    "courseid": "CS666",
+    "coursedescription": "This course introduces important signal and image processing methods for biomedical diagnostics and research. You will learn hands-on how to reconstruct, visualize, and analyze datasets from different modalities such as electrocardiography (ECG), electroencephalography and magnetoencephalography (EEG/MEG), ultrasound (US), X-ray, electron and light microscopy (EM/LM), computerized tomography (CT), structural and functional magnetic resonance imaging (MRI/fMRI), as well as single photon emission computed tomography and positron emission tomography (SPECT/PET). Course discussions and assignments include the fundamentals of digital signal processing, filtering and denoising, Fourier transformations, pattern recognition, and state-of-the-art registration and segmentation pipelines. After completion, you will have the $kills to work at hospitals, life science institutions, and biotech companies!",
+    "course-prerequsities": [
+      "MATH 260",
+      "CS 310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Artificial Intelligence",
+    "courseid": "CS670",
+    "coursedescription": "A broad technical introduction to the techniques that enable computers to behave intelligently: problem solving and game playing, knowledge representation and reasoning, planning and decision making, learning, perception and interpretation. The application of these techniques to real-world systems, with some programming in LISP.",
+    "course-prerequsities": [
+      "CS 220",
+      "CS 310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Neural Networks",
+    "courseid": "CS672",
+    "coursedescription": "An introduction to artificial neural networks. Topics include a survey of natural neural network models, perceptrons and their limitations, multi-layer networks and back propagation, Hebbian learning, unsupervised competitive learning, relations to automata and computability theory, adaptive resonance theory, applications of connectionist models of computing to various domains, including pattern recognition and databases.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computer Vision",
+    "courseid": "CS675",
+    "coursedescription": "This course provides both theoretical knowledge and practical experience with fundamental and advanced Computer Vision algorithms. Topics range from basic image processing techniques such as image convolution and region and edge detection to more complex vision algorithms for contour detection, depth perception, dynamic vision, and object recognition. Students will implement vision algorithms in the JAVA programming language. The performance of these programs is evaluated, and the advantages and disadvantages of individual approaches are discussed. The final project is the development by students of their own computer vision program solving a given problem.",
+    "course-prerequsities": [
+      "CS 310",
+      "CS 220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Object-Oriented Design and Programming",
+    "courseid": "CS680",
+    "coursedescription": "Object-oriented techniques for the design and development of software.Students will develop a series of moderate sized programs in C++ andJava and then design and implement a more substantial projectin small teams.",
+    "course-prerequsities": [
+      "CS 310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Object-Oriented Software Development",
+    "courseid": "CS681",
+    "coursedescription": "In this course students work in small teams to create a useful, complete, medium sized software system for real customers. There is a strong emphasis on process: the systematic use of an object-oriented development methodology based on UML models and incremental development is employed throughout each project.",
+    "course-prerequsities": [
+      "CS 680",
+      "CS 636",
+      "CS 637",
+      "CS 651"
+    ],
+    "course-corequisites": [
+      "CS 682"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Software Development Laboratory I",
+    "courseid": "CS682",
+    "coursedescription": "This is a laboratory course in which students, working in small groups, specify, design, implement, and document a large software project.",
+    "course-prerequsities": [
+      "CS 681"
+    ],
+    "course-corequisites": [
+      "CS 681"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "CS696",
+    "coursedescription": "A student must find a faculty sponsor for his or her independent study and arrange study under that person, normally about a computer science topic not covered by the department's courses.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "CS697",
+    "coursedescription": "Topics of current interest in the field, according to student and faculty areas of specialization. Course content varies according to the topic and will be announced prior to registration.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics of current interest in the field, according to student and faculty areas of specialization."
+      ]
+    }
+  },
+  {
+    "coursename": "Practicum in CS",
+    "courseid": "CS698",
+    "coursedescription": "This course is intended to enhance student industrial work by combining it with closely related academic studies - of the domain of application of computer skills and of related computer concepts, skills and methodologies. It will enhance academic studies by providing a focus and a context for learning of new concepts and skills. It will help to prepare the student for the transition from an academic program to eventual employment in the computer industry.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research for MS Thesis",
+    "courseid": "CS699",
+    "coursedescription": "A one-semester supervised practicum course to help students complete the required thesis, which must be a substantial piece of research on some aspect of computer science. The master's thesis may take the form of a theoretical paper or a report on a piece of software.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Logical Foundations of Computer Science",
+    "courseid": "CS720",
+    "coursedescription": "The course treats the logical foundations of computer science in a mathematically rigorous way but with emphasis on the applications of logic in computer science. Topics include the syntax and semantics of predicate logic, formal systems for predicate logic, many-sorted logic, and logic programming. Additional topics may include equational logic, algebraic specification, term rewriting, program verification, nonstandard logic, and databases. Students are expected to demonstrate an understanding of theoretical material and the ability to apply it.",
+    "course-prerequsities": [
+      "MATH 470"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PhD Dissertation Research",
+    "courseid": "CS899",
+    "coursedescription": "Research, conducted under faculty supervision, which leads to the presentation of a doctoral dissertation. This course carries variable credit and can be taken more than once.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]
