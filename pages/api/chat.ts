@@ -20,7 +20,6 @@ const onboard_prompt = `
 const return_system_prompt = `You are a college advisor helping students plan their academic path.
                               Welcome the user back and remind of previous interactions in 50 words or less.`
 
-
 const default_system_prompt = `
     You are a college advisor helping students plan their academic path.
     
