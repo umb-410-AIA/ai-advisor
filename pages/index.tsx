@@ -1,5 +1,5 @@
 import { useAuth } from "@/contexts/AuthContext";
-import { FormEventHandler, useCallback, useState, useEffect } from "react";
+import { FormEventHandler, useCallback, useState, useEffect, useMemo } from "react";
 import Link from 'next/link';
 import Head from "next/head";
 import { Send, Paperclip, Menu, BookOpen, Award } from "lucide-react";
@@ -201,6 +201,11 @@ export default function Home() {
     return null;
   };
 
+  const currentMermaidChart = useMemo<string | null>(() => {
+    if (!chat?.length) return null;
+    return chat.reverse().find(c => !!c.mermaid)?.mermaid ?? null;
+  }, [chat]);
+
   return (
     <div style={styles.page}>
       <Head>
@@ -302,39 +307,46 @@ export default function Home() {
 
 
       {/* Chat Window */}
-      <div style={styles.chatWindow}>
-        {chat.length === 0 ? (
-          <p style={styles.placeholder}>
-            Let's get you started with finding the correct course for you.
-          </p>
-        ) : (
-          chat.map((msg, i) => (
-            <div key={i} style={styles.chatMessage}>
-              <div style={{ marginBottom: 8 }}>
-                <b>You:</b>
-                <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
-              </div>
-              <div>
-                <b>Bot:</b>
-                <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
+      <div style={styles.splitScreenContainer}>
+        <div style={styles.chatWindow}>
+          {chat.length === 0 ? (
+            <p style={styles.placeholder}>
+              Let's get you started with finding the correct course for you.
+            </p>
+          ) : (
+            chat.map((msg, i) => (
+              <div key={i} style={styles.chatMessage}>
+                <div style={{ marginBottom: 8 }}>
+                  <b>You:</b>
+                  <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
+                </div>
+                <div>
+                  <b>Bot:</b>
+                  <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
 
-                {/* Render mermaid chart if present */}
-                {msg.mermaid && (
-                  <div style={{ marginTop: 15 }}>
-                    <FlowChart chart={msg.mermaid} />
-                  </div>
-                )}
+                  {/* Render mermaid chart if present */}
+                  {msg.mermaid && (
+                    <div style={{ marginTop: 15 }}>
+                      <FlowChart chart={msg.mermaid} />
+                    </div>
+                  )}
 
-                {/* Render visualization if available */}
-                {msg.visualization && (
-                  <div style={{ marginTop: 15 }}>
-                    {renderVisualization(msg.visualization)}
-                  </div>
-                )}
+                  {/* Render visualization if available */}
+                  {msg.visualization && (
+                    <div style={{ marginTop: 15 }}>
+                      {renderVisualization(msg.visualization)}
+                    </div>
+                  )}
+                </div>
               </div>
-            </div>
-          ))
-        )}
+            ))
+          )}
+        </div>
+        <div style={styles.mermaidWindow}>
+          {
+            currentMermaidChart ? <FlowChart chart={currentMermaidChart} /> : <p style={{ color: '#aaa' }}>Once the chat bot draws a course plan, it will appear here.</p>
+          }
+        </div>
       </div>
 
       {/* Chat Bar */}
@@ -595,15 +607,33 @@ const styles: Record<string, any> = {
     boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
     height: "80px", // 👈 define a fixed height
   },
+  splitScreenContainer: {
+    display: 'flex',
+    flexDirection: 'row',
+    height: '70vh',
+    marginTop: '5vh'
+  },
   chatWindow: {
     flex: 1,
     padding: "15px",
     paddingLeft: "0px",
     maxWidth: "1100px",
+    scrollBehavior: "smooth",
+    paddingBottom: "90px", // 👈 enough space for the input bar
+    paddingTop: "100px",
+    overflowY: 'scroll',
+    height: '100%'
+    //position: "fixed",
+  },
+  mermaidWindow: {
+    flex: 1,
+    padding: "15px",
+    maxWidth: "1100px",
     overflowY: "auto",
     scrollBehavior: "smooth",
     paddingBottom: "90px", // 👈 enough space for the input bar
     paddingTop: "100px",
+    color: 'black',
     //position: "fixed",
   },
   chatBar: {
