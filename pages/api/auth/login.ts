@@ -7,7 +7,6 @@ Now write me the nextjs pages API route to handle the authentication. It should 
 import { v4 as uuidv4 } from "uuid";
 import type { NextApiRequest, NextApiResponse } from "next";
 import jwt from "jsonwebtoken";
-import { upsertUserData } from "@/utils/userdata";
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== "POST") {

@@ -10,7 +10,10 @@ export async function getCoursesByMajor(major: string, university_id: number) {
     const jsonPath = jsonDataPath + UNIVERSITIES[university_id];
     const raw = fs.readFileSync(jsonPath, "utf8");
     const data = JSON.parse(raw);
-
+    
+    // default to CS
+    major = "CS"
+    
     // Convert the object into an array of classes
     const classes = Object.values(data);
 

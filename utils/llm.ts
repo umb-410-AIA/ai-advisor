@@ -124,7 +124,7 @@ export async function llm(user_id: string,
       const courses = getCoursesByMajor(args);
       
       if (!courses) {
-
+        
       }
 
       // REPROMPT LLM

@@ -81,32 +81,25 @@ export default function Home() {
         }
 
         // send initial message based on history (onboard if no previous profile)
+        var message;
         if (!profile.data) {
           setOnboarding(true);
-          const onboardReply = await fetch(CHAT_API, {
-            method: "POST",
-            headers: {
-              "Content-Type": "application/json",
-              "Authorization": `Bearer ${token}`,
-            },
-            body: JSON.stringify({ message: "onboard" }),
-          });
-          const data = await onboardReply.json();
-          setChat(prev => [...prev, { user: undefined, bot: data.reply }]);
+          message = "onboard"
         } else {
           setProfile(profile)
           setOnboarding(false);
-          const initReply = await fetch(CHAT_API, {
-            method: "POST",
-            headers: {
-              "Content-Type": "application/json",
-              "Authorization": `Bearer ${token}`,
-            },
-            body: JSON.stringify({ message: "remind" }),
-          });
-          const data = await initReply.json();
-          setChat(prev => [...prev, { user: undefined, bot: data.reply }]);
+          message = "remind"
         }
+        const initReply = await fetch(CHAT_API, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "Authorization": `Bearer ${token}`,
+          },
+          body: JSON.stringify({ message: "remind" }),
+        });
+        const data = await initReply.json();
+        setChat(prev => [...prev, { user: undefined, bot: data.reply }]);
     }
     initChat()
     
