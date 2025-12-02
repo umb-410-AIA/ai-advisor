@@ -94,6 +94,26 @@ export async function llm(user_id: string,
             },
           }
         }
+      },
+      {
+        type: "function",
+        function: {
+          name: "visualizePath",
+          description: `Visualizes a course path based on user profile information.`,
+          parameters: {
+            type: "object",
+            properties: {
+              university_id: { type: "integer" },
+              major: { type: "string" },
+              year: { type: "integer" },
+              isstudent: { type: "boolean" },
+              interests: { 
+                type: "array",    
+                items: { type: "string" }
+              }
+            },
+          }
+        }
       }
     ],
     tool_choice: "auto"
@@ -137,6 +157,11 @@ export async function llm(user_id: string,
         messages,
       });
       reply.content = completion.choices[0].message.content;
+    } else if (toolCall.function.name === "visualizePath") {
+      // just pass back the tool call info for front-end to handle
+      reply.visualizationType = "coursePath"
+      const args = JSON.parse(toolCall.function.arguments);
+      reply.data = args
     }
     passtoolcall = toolCall.function.name // Pass name of toolcall to calling API
     console.log("TOOLCALL:\n", passtoolcall)

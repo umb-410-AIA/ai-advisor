@@ -8,6 +8,7 @@ import { fetchChatMessages } from "@/utils/chats";
 import { getUserId } from "@/utils/auth";
 import { init } from "next/dist/compiled/webpack/webpack";
 import { UserProfile } from "./api/userprofile";
+import { llm } from "@/utils/llm";
 
 interface Course {
   id: string;
@@ -24,9 +25,20 @@ interface MessageBox {
     type: string;
     data: any;
   };
+  mermaid?: string;
 }
 
 const CHAT_API = "/api/chat"
+
+const extractMermaidFromText = (text: string) => {
+  const match = text.match(/```mermaid\s*([\s\S]*?)```/i);
+  if (!match) return { cleanedText: text, mermaid: null };
+
+  const mermaid = match[1].trim();
+  const cleanedText = text.replace(match[0], "").trim();
+
+  return { cleanedText: cleanedText || "Here is your course chart:", mermaid };
+};
 
 export default function Home() {
   const [input, setInput] = useState("");
@@ -151,10 +163,33 @@ export default function Home() {
         setProfile(profile)
       } 
       else if (llmRes.tool === "visualizePath") { 
+        // extract mermaid diagram from response
+        const { cleanedText, mermaid } = extractMermaidFromText(llmRes.reply);
+        llmRes.reply = cleanedText;
+        llmRes.mermaid = mermaid;
 
+        setChat((prev) => {
+        const nextMessage: MessageBox = {
+          user: input,
+          bot: cleanedText,
+        };
+
+        if (llmRes.visualizationType && llmRes.data) {
+          nextMessage.visualization = {
+            type: llmRes.visualizationType,
+            data: llmRes.data,
+          };
+        }
+
+        if (mermaid) {
+          nextMessage.mermaid = mermaid;
+        }
+
+        return [...prev, nextMessage];
+      });
       }
 
-      setChat([...chat, { user: input, bot: llmRes.reply }]);
+      setChat((prev) => [...prev, { user: input, bot: llmRes.reply }]);
 
       // // Check if response includes visualization data
       // if (data.visualizationType && data.data) {
@@ -173,7 +208,7 @@ export default function Home() {
       setInput('');
     } catch (error) {
       console.error('Error sending message:', error);
-      setChat([...chat, { user: input, bot: 'Error: Failed to get response from server.' }]);
+      setChat((prev) => [...prev, { user: input, bot: 'Error: Failed to get response from server.' }]);
       setInput('');
     } finally {
       setLoading(false);
