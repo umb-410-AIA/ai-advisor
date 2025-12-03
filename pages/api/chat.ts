@@ -5,47 +5,9 @@ import { upsertUserData, fetchUserData } from "@/utils/userdata";
 import { insertChatMessage, fetchChatMessages } from "@/utils/chats";
 import { getUserId } from "@/utils/auth";
 import { get } from "http";
-import { llm } from "@/utils/llm";
+import { llm, onboard_prompt, default_system_prompt, return_system_prompt } from "@/utils/llm";
 import { UNIVERSITIES } from "@/utils/universityDB"; 
-
-// replaces system prompt if first time logging in
-const onboard_prompt = `
-      You are onboarding the user. Ask one missing profile question at a time.
-      Use the following strict university ID mapping:
-      ${UNIVERSITIES.map((u, i) => `${i + 1}: ${u}`).join("\n")}
-      Never guess. Ask for clarification instead of calling the tool if invalid.
-    `
-
-// added to system prompt if user is returning
-const return_system_prompt = `You are a college advisor helping students plan their academic path.
-                              Welcome the user back and remind of previous interactions in 50 words or less.`
-
-const default_system_prompt = `
-    You are a college advisor helping students plan their academic path.
-    
-    When a user asks generally about courses for a, you should
-    make a tool call using the tool "getCoursesByMajor".
-    If the user has just said a major of interest or specific university, use that.
-    Otherwise, use the major and university in their user profile.
-
-    If the user uses any of these keywords exactly:
-      "show path",
-      "visualize",
-      "semester plan",
-      "roadmap",
-      "course sequence",
-      "degree plan",
-      "academic plan"
-    or otherwise asks for a visual path of what to take:
-      Toolcall "visualizePath" instead:
-        For parameters, use the user profile info.
-
-    If the user mentions some new information about themselves that isn't already in the profile,
-    you should toolcall "saveUserData" and save the new info. 
-    When passing university_id: Use list index as ID. If the university isn't in the list, ask the user
-    to try a different UNIVERSITY, and tell them what choices they can make from this list:
-              UNIVERSITIES[] = ${UNIVERSITIES}; 
-    `;
+import { getCoursesByMajor } from "@/utils/universityDB";
 
 function extractVisualizationData(text: string) {
   const marker = "VISUALIZATION_DATA:";

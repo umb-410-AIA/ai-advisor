@@ -81,6 +81,8 @@ export default function Home() {
             user: m.role === "user" ? m.message : undefined,
             bot: m.role === "assistant" ? m.message : ""
           })));
+        } else {
+          // ONBOARD ROUTING
         }
 
         // send initial message based on history (onboard if no previous profile)
@@ -99,10 +101,10 @@ export default function Home() {
             "Content-Type": "application/json",
             "Authorization": `Bearer ${token}`,
           },
-          body: JSON.stringify({ message: "remind" }),
+          body: JSON.stringify({ message: message }),
         });
         const data = await initReply.json();
-        setChat(prev => [...prev, { user: undefined, bot: data.reply }]);
+        setChat((chat) => [...chat, { user: undefined, bot: data.reply }]);
     }
     initChat()
     
@@ -114,7 +116,7 @@ export default function Home() {
 
     if (!token) {
       console.error('No authentication token found');
-      setChat((prev) => [...prev, { user: input, bot: 'Error: Please log in to use the chat.' }]);
+      setChat((chat) => [...chat, { user: input, bot: 'Error: Please log in to use the chat.' }]);
       setInput('');
       return;
     }
@@ -153,8 +155,10 @@ export default function Home() {
         var { chats, profile } = await userprofile.json();
         setProfile(profile)
       } 
+      
+      // toolcall visualize course path
       else if (llmRes.tool === "visualizeCoursePath") { 
-        setChat((prev) => {
+        setChat((chat) => {
         const nextMessage: MessageBox = {
           user: input,
           bot: llmRes.reply,
@@ -164,16 +168,16 @@ export default function Home() {
           }
         };
 
-        return [...prev, nextMessage];
+        return [...chat, nextMessage];
         });
       }
 
-      setChat((prev) => [...prev, { user: input, bot: llmRes.reply }]);
+      setChat((chat) => [...chat, { user: input, bot: llmRes.reply }]);
       
       setInput('');
     } catch (error) {
       console.error('Error sending message:', error);
-      setChat((prev) => [...prev, { user: input, bot: 'Error: Failed to get response from server.' }]);
+      setChat((chat) => [...chat, { user: input, bot: 'Error: Failed to get response from server.' }]);
       setInput('');
     } finally {
       setLoading(false);

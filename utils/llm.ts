@@ -1,10 +1,43 @@
 import OpenAI from "openai";
 import { insertChatMessage, fetchChatMessages } from "./chats";
 import { fetchUserData, upsertUserData } from "./userdata";
-import { getCoursesByMajor } from "./universityDB";
+import { getCoursesByMajor, UNIVERSITIES } from "./universityDB";
 import { extractMermaidFromText } from "./extractMermaid";
 
-// Reprompts after saving user data
+export const onboard_prompt = `
+      You are onboarding the user. Ask one missing profile question at a time.
+      Use the following strict university ID mapping:
+      ${UNIVERSITIES.map((u, i) => `${i + 1}: ${u}`).join("\n")}
+      Never guess. Ask for clarification instead of calling the tool if invalid.
+    `;
+export const return_system_prompt = `You are a college advisor helping students plan their academic path.
+                              Welcome the user back and remind of previous interactions in 50 words or less.`
+export const default_system_prompt = `
+    You are a college advisor helping students plan their academic path.
+    
+    When a user asks generally about courses for a, you should
+    make a tool call using the tool "getCoursesByMajor".
+    If the user has just said a major of interest or specific university, use that.
+    Otherwise, use the major and university in their user profile.
+
+    If the user uses any of these keywords exactly:
+      "show path",
+      "visualize",
+      "semester plan",
+      "roadmap",
+      "course sequence",
+      "degree plan",
+      "academic plan"
+    or otherwise asks for a visual path of what to take:
+      Toolcall "visualizePath" instead:
+        For parameters, use the user profile info.
+
+    If the user mentions some new information about themselves that isn't already in the profile,
+    you should toolcall "saveUserData" and save the new info. 
+    When passing university_id: Use list index as ID. If the university isn't in the list, ask the user
+    to try a different UNIVERSITY, and tell them what choices they can make from this list:
+              UNIVERSITIES[] = ${UNIVERSITIES}; 
+    `;
 const SAVED_REPROMPT = ` (Use 50 words or less)
                   The user's profile was just updated with new data. 
                   Continue the conversation from before.`
@@ -167,12 +200,12 @@ export async function llm(user_id: string,
       const args = JSON.parse(toolCall.function.arguments);
       
       console.log("TOOLCALL MAJOR SEARCH:\n", args[0])
-      // const courses = getCoursesByMajor(args);
+      const courses = await getCoursesByMajor("CS", 0); // TEMP HARDCODED
 
       // REPROMPT LLM
       messages.push({
         role: "system",
-        content: COURSES_REPROMPT
+        content: `COURSES: ${JSON.stringify(courses)}\n${COURSES_REPROMPT}`
       });
       const completion = await openai.chat.completions.create({
         model: "gpt-4o-mini",
@@ -180,7 +213,6 @@ export async function llm(user_id: string,
       });
       llmRes.reply = completion.choices[0].message.content;
     } else if (toolCall.function.name === "visualizeCoursePath") {
-      // just pass back the tool call info for front-end to handle
       const args = JSON.parse(toolCall.function.arguments);
       console.log("VISUALIZE ARGS:\n", args)
       
@@ -188,14 +220,13 @@ export async function llm(user_id: string,
       //   console.log("COURSES FOR VISUALIZATION:\n", courses)
       // });
 
-      getCoursesByMajor("CS", 0).then((courses) => {
-        console.log("COURSES FOR VISUALIZATION:\n", courses)
-      });
+      const courses = await getCoursesByMajor("CS", 0);
+      console.log("COURSES FOR VISUALIZATION:\n", courses);
 
       // REPROMPT LLM
       messages.push({
         role: "system",
-        content: VISUALIZATION_REPROMPT
+        content: `COURSES: ${JSON.stringify(courses)}\n${VISUALIZATION_REPROMPT}`
       });
       const completion = await openai.chat.completions.create({
         model: "gpt-4o-mini",
@@ -208,16 +239,18 @@ export async function llm(user_id: string,
     }
     llmRes.tool = toolCall.function.name // Pass name of toolcall to calling API
     console.log("TOOLCALL:\n", llmRes.tool)
+  } else {
+    llmRes.reply = reply.content; // if no toolcalls found use reply content
   }
 
   // log chat to database if user has a profile
   if (user_data) {
-    //await insertChatMessage(user_id, chat_id, system_prompt, "system")
+    //await insertChatMessage(user_id, chat_id, system_prompt, "system") //(optional)
     await insertChatMessage(user_id, chat_id, prompt, "user")
-    await insertChatMessage(user_id, chat_id, reply.content, "assistant")
+    await insertChatMessage(user_id, chat_id, llmRes.reply, "assistant")
   }
 
-  if (!reply) {
+  if (!llmRes.reply) {
     throw new Error("No reply from LLM");
   }
 
