@@ -31,16 +31,6 @@ interface MessageBox {
 
 const CHAT_API = "/api/chat"
 
-const extractMermaidFromText = (text: string) => {
-  const match = text.match(/```mermaid\s*([\s\S]*?)```/i);
-  if (!match) return { cleanedText: text, mermaid: null };
-
-  const mermaid = match[1].trim();
-  const cleanedText = text.replace(match[0], "").trim();
-
-  return { cleanedText: cleanedText || "Here is your course chart:", mermaid };
-};
-
 export default function Home() {
   const [input, setInput] = useState("");
   const [chat, setChat] = useState<MessageBox[]>([]);
@@ -124,7 +114,7 @@ export default function Home() {
 
     if (!token) {
       console.error('No authentication token found');
-      setChat([...chat, { user: input, bot: 'Error: Please log in to use the chat.' }]);
+      setChat((prev) => [...prev, { user: input, bot: 'Error: Please log in to use the chat.' }]);
       setInput('');
       return;
     }
@@ -187,24 +177,11 @@ export default function Home() {
         }
 
         return [...prev, nextMessage];
-      });
+        
+        });
       }
 
       setChat((prev) => [...prev, { user: input, bot: llmRes.reply }]);
-
-      // // Check if response includes visualization data
-      // if (data.visualizationType && data.data) {
-      //   setChat([...chat, { 
-      //     user: input, 
-      //     bot: data.reply,
-      //     visualization: {
-      //       type: data.visualizationType,
-      //       data: data.data
-      //     }
-      //   }]);
-      // } else {
-      //   setChat([...chat, { user: input, bot: data.reply }]);
-      // }
       
       setInput('');
     } catch (error) {

@@ -2,6 +2,7 @@ import OpenAI from "openai";
 import { insertChatMessage, fetchChatMessages } from "./chats";
 import { fetchUserData, upsertUserData } from "./userdata";
 import { getCoursesByMajor } from "./universityDB";
+import { extractMermaidFromText } from "./extractMermaid";
 
 // Reprompts after saving user data
 const SAVED_REPROMPT = ` (Use 50 words or less)
@@ -11,7 +12,27 @@ const COURSES_REPROMPT = ` (Use 200 words or less)
                   You are given a list of courses from a tool call.
                   List the most relevant based on user's current profile.
                   Then ask if they want visualization of course path.`
+const VISUALIZATION_REPROMPT = ` (Use 50 words or less) the user is asking about course planning, prerequisites, sequences, 
+    recommended paths, which class to take next, semester planning, or similar advising questions 
+    (not a direct course lookup request), respond in plain English AND, if possible, include a Mermaid flowchart in a markdown code block.
+    
+    MERMAID DIAGRAM REQUIREMENTS:
+    - When you provide a diagram, always wrap it in a markdown code block with the \`mermaid\` language tag, for example:
 
+      \`\`\`mermaid
+      flowchart TD
+        CS101["CS101: Intro to CS"]
+        CS201["CS201: Data Structures"]
+        CS101 --> CS201
+      \`\`\`
+
+    - The flowchart should represent a clear path of which classes to take and in what order (e.g. prerequisites, recommended next courses, semester-by-semester flow).
+    - Prefer \`flowchart TD\` (top-down) unless another orientation is clearly better.
+    - Use course codes and short names for nodes (e.g. "CS101: Intro to CS").
+    - Ensure all nodes and connections are accurate based on the user's profile and course data.
+    - Do not include any text outside the code block. 
+    Now, provide the mermaid diagram representing the course path based on the user's profile and course data.
+    `;
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -22,6 +43,7 @@ export async function llm(user_id: string,
                           system_prompt: string) 
 {
   var passtoolcall = null
+  var visualizationData = null
 
   // get chat history
   const chats = await fetchChatMessages(user_id);
@@ -103,11 +125,9 @@ export async function llm(user_id: string,
           parameters: {
             type: "object",
             properties: {
-              university_id: { type: "integer" },
               major: { type: "string" },
-              year: { type: "integer" },
-              isstudent: { type: "boolean" },
-              interests: { 
+              university_id: { type: "integer" },
+              courses: { 
                 type: "array",    
                 items: { type: "string" }
               }
@@ -141,11 +161,7 @@ export async function llm(user_id: string,
       const args = JSON.parse(toolCall.function.arguments);
       
       console.log("TOOLCALL MAJOR SEARCH:\n", args[0])
-      const courses = getCoursesByMajor(args);
-      
-      if (!courses) {
-        
-      }
+      // const courses = getCoursesByMajor(args);
 
       // REPROMPT LLM
       messages.push({
@@ -159,9 +175,26 @@ export async function llm(user_id: string,
       reply.content = completion.choices[0].message.content;
     } else if (toolCall.function.name === "visualizePath") {
       // just pass back the tool call info for front-end to handle
-      reply.visualizationType = "coursePath"
       const args = JSON.parse(toolCall.function.arguments);
-      reply.data = args
+      console.log("VISUALIZE ARGS:\n", args)
+      
+      getCoursesByMajor(args[0], args[1]).then((courses) => {
+        console.log("COURSES FOR VISUALIZATION:\n", courses)
+      });
+
+      // REPROMPT LLM
+      messages.push({
+        role: "system",
+        content: VISUALIZATION_REPROMPT + prompt
+      });
+      const completion = await openai.chat.completions.create({
+        model: "gpt-4o-mini",
+        messages,
+      });
+      // extract mermaid diagram from response
+      const { cleanedText, mermaid } = extractMermaidFromText(completion.choices[0].message.content);
+      visualizationData = mermaid;
+      reply.content = cleanedText;
     }
     passtoolcall = toolCall.function.name // Pass name of toolcall to calling API
     console.log("TOOLCALL:\n", passtoolcall)
@@ -176,6 +209,7 @@ export async function llm(user_id: string,
 
   return {
     reply: reply.content,
-    tool: passtoolcall
+    tool: passtoolcall,
+    visualizationData: visualizationData
   };
 }
