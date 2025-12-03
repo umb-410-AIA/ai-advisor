@@ -1,5 +1,5 @@
 import { useAuth } from "@/contexts/AuthContext";
-import { FormEventHandler, useCallback, useState, useEffect, useRef } from "react";
+import { FormEventHandler, useCallback, useState, useEffect, useRef, useMemo } from "react";
 import Link from 'next/link';
 import Head from "next/head";
 import { Send, Paperclip, Menu, BookOpen, Award } from "lucide-react";
@@ -9,6 +9,7 @@ import { getUserId } from "@/utils/auth";
 import { init } from "next/dist/compiled/webpack/webpack";
 import { UserProfile } from "./api/userprofile";
 import { llm } from "@/utils/llm";
+import FlowChart from "@/components/Flowchart";
 
 interface Course {
   id: string;
@@ -287,6 +288,11 @@ export default function Home() {
     return null;
   };
 
+  const currentMermaidChart = useMemo<string | null>(() => {
+    if (!chat?.length) return null;
+    return chat.reverse().find(c => !!c.mermaid)?.mermaid ?? null;
+  }, [chat]);
+
   return (
     <div style={styles.page}>
       <Head>
@@ -388,27 +394,46 @@ export default function Home() {
      
 
       {/* Chat Window */}
-      <div style={styles.chatWindow}>
-        {chat.length === 0 ? (
-          <p style={styles.placeholder}>
-            Let's get you started with finding the correct course for you.
-          </p>
-        ) : (
-          chat.map((m, i) => (
-            <div key={i} className="chat-row" style={{ display: 'flex', marginBottom: '8px' }}>
-              {m.user && (
-                <div style={{ marginLeft: 'auto', backgroundColor: '#0b93f6', color: 'white', padding: '8px 12px', borderRadius: '16px', maxWidth: '60%' }}>
-                  {m.user}
+      <div style={styles.splitScreenContainer}>
+        <div style={styles.chatWindow}>
+          {chat.length === 0 ? (
+            <p style={styles.placeholder}>
+              Let's get you started with finding the correct course for you.
+            </p>
+          ) : (
+            chat.map((msg, i) => (
+              <div key={i} style={styles.chatMessage}>
+                <div style={{ marginBottom: 8 }}>
+                  <b>You:</b>
+                  <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
                 </div>
-              )}
-              {m.bot && (
-                <div style={{ marginRight: 'auto', backgroundColor: '#e5e5ea', color: 'black', padding: '8px 12px', borderRadius: '16px', maxWidth: '60%' }}>
-                  {m.bot}
+                <div>
+                  <b>Bot:</b>
+                  <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
+
+                  {/* Render mermaid chart if present */}
+                  {msg.mermaid && (
+                    <div style={{ marginTop: 15 }}>
+                      <FlowChart chart={msg.mermaid} />
+                    </div>
+                  )}
+
+                  {/* Render visualization if available */}
+                  {msg.visualization && (
+                    <div style={{ marginTop: 15 }}>
+                      {renderVisualization(msg.visualization)}
+                    </div>
+                  )}
                 </div>
-              )}
-            </div>
-          ))
-        )}
+              </div>
+            ))
+          )}
+        </div>
+        <div style={styles.mermaidWindow}>
+          {
+            currentMermaidChart ? <FlowChart chart={currentMermaidChart} /> : <p style={{ color: '#aaa' }}>Once the chat bot draws a course plan, it will appear here.</p>
+          }
+        </div>
       </div>
 
       {/* Chat Bar */}
@@ -654,47 +679,65 @@ const styles: Record<string, any> = {
   position: "relative",
   //paddingTop: "20px",
 },*/
-topInputBar: {
-  position: "fixed",
-  top: 0,
-  left: 0,
-  right: 0,
-  zIndex: 1000,
-  background: "#fff",
-  padding: "15px 20px",
-  display: "flex",
-  justifyContent: "center",
-  alignItems: "center",
-  gap: "10px",
-  boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
-  height: "80px", // 👈 define a fixed height
-},
-chatWindow: {
-  flex: 1,
-  padding: "15px",
-  paddingLeft: "0px",
-  maxWidth: "1100px",
-  overflowY: "auto",
-  scrollBehavior: "smooth",
-  paddingBottom: "90px", // 👈 enough space for the input bar
-  paddingTop: "100px",
-  //position: "fixed",
-},
-chatBar: {
-  position: "fixed",     // stays on the viewport, not inside scroll
-  bottom: 70,             // anchored to bottom edge
-  left: 0,
-  right: 0,
-  display: "flex",
-  gap: "10px",
-  padding: " 0px",
-  borderTop: "1px solid #ddd",
-  maxWidth: "1100px",
-  margin: "0 auto",
-  justifyContent: "center",
-  alignItems: "center",
-  zIndex: 1000,          // makes sure it’s above other content
-},
+  topInputBar: {
+    position: "fixed",
+    top: 0,
+    left: 0,
+    right: 0,
+    zIndex: 1000,
+    background: "#fff",
+    padding: "15px 20px",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    gap: "10px",
+    boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
+    height: "80px", // 👈 define a fixed height
+  },
+  splitScreenContainer: {
+    display: 'flex',
+    flexDirection: 'row',
+    height: '70vh',
+    marginTop: '5vh'
+  },
+  chatWindow: {
+    flex: 1,
+    padding: "15px",
+    paddingLeft: "0px",
+    maxWidth: "1100px",
+    scrollBehavior: "smooth",
+    paddingBottom: "90px", // 👈 enough space for the input bar
+    paddingTop: "100px",
+    overflowY: 'scroll',
+    height: '100%'
+    //position: "fixed",
+  },
+  mermaidWindow: {
+    flex: 1,
+    padding: "15px",
+    maxWidth: "1100px",
+    overflowY: "auto",
+    scrollBehavior: "smooth",
+    paddingBottom: "90px", // 👈 enough space for the input bar
+    paddingTop: "100px",
+    color: 'black',
+    //position: "fixed",
+  },
+  chatBar: {
+    position: "fixed",     // stays on the viewport, not inside scroll
+    bottom: 70,             // anchored to bottom edge
+    left: 0,
+    right: 0,
+    display: "flex",
+    gap: "10px",
+    padding: " 0px",
+    borderTop: "1px solid #ddd",
+    maxWidth: "1100px",
+    margin: "0 auto",
+    justifyContent: "center",
+    alignItems: "center",
+    zIndex: 1000,          // makes sure it’s above other content
+  },
   placeholder: {
     color: "#aaa",
     textAlign: "center",
