@@ -1,5 +1,5 @@
 import { getUserId } from "@/utils/auth";
-import { fetchChatMessages } from "@/utils/chats";
+import { fetchChatMessages, fetchRecentChatMessages } from "@/utils/chats";
 import { fetchUserData } from "@/utils/userdata";
 import type { NextApiRequest, NextApiResponse } from "next";
 
@@ -24,7 +24,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   if (!user_id) return res.status(400).json({ error: "Missing user_id" });
 
   try {
-    const chats = await fetchChatMessages(user_id)
+    const chats = await fetchRecentChatMessages(user_id)
     const profile = await fetchUserData(user_id)
     const userProfile: UserProfile = {
       user_id: user_id,

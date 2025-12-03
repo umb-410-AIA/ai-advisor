@@ -19,7 +19,7 @@ interface Course {
   difficulty?: string;
   prerequisites: string[];
 }
-interface MessageBox {
+export interface MessageBox {
   user: string;
   bot: string;
   visualization?: {
@@ -27,6 +27,7 @@ interface MessageBox {
     data: any;
   };
   mermaid?: string;
+  tool?: string;
 }
 
 const CHAT_API = "/api/chat"
@@ -85,26 +86,17 @@ export default function Home() {
           // ONBOARD ROUTING
         }
 
-        // send initial message based on history (onboard if no previous profile)
-        var message;
-        if (!profile.data) {
-          setOnboarding(true);
-          message = "onboard"
-        } else {
-          setProfile(profile)
-          setOnboarding(false);
-          message = "remind"
-        }
+        // send initial reload message based on history (onboard if no previous profile)
         const initReply = await fetch(CHAT_API, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
             "Authorization": `Bearer ${token}`,
           },
-          body: JSON.stringify({ message: message }),
+          body: JSON.stringify({ message: "init" }),
         });
         const data = await initReply.json();
-        setChat((chat) => [...chat, { user: undefined, bot: data.reply }]);
+        setChat((chat) => [...chat, { user: undefined, bot: data.bot }]);
     }
     initChat()
     
@@ -139,8 +131,12 @@ export default function Home() {
         throw new Error(`API request failed: ${res.status}`);
       }
 
+      // get response from llm
       const llmRes = await res.json();
-      
+
+      // show llm response
+      setChat((chat) => { return [...chat, llmRes] });
+
       // tool call update profile
       if (llmRes.tool === "updateUserProfile") { 
         setOnboarding(false);
@@ -155,25 +151,7 @@ export default function Home() {
         var { chats, profile } = await userprofile.json();
         setProfile(profile)
       } 
-      
-      // toolcall visualize course path
-      else if (llmRes.tool === "visualizeCoursePath") { 
-        setChat((chat) => {
-        const nextMessage: MessageBox = {
-          user: input,
-          bot: llmRes.reply,
-          visualization: {
-            type: "course_path",
-            data: llmRes.visualizationData,
-          }
-        };
 
-        return [...chat, nextMessage];
-        });
-      }
-
-      setChat((chat) => [...chat, { user: input, bot: llmRes.reply }]);
-      
       setInput('');
     } catch (error) {
       console.error('Error sending message:', error);

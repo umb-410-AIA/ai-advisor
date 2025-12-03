@@ -7,6 +7,7 @@ Now write me the nextjs pages API route to handle the authentication. It should 
 import { v4 as uuidv4 } from "uuid";
 import type { NextApiRequest, NextApiResponse } from "next";
 import jwt from "jsonwebtoken";
+import { upsertUserData } from "@/utils/userdata";
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== "POST") {
@@ -45,6 +46,9 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
   if (!userId) {
     userId = uuidv4();
   }
+
+  // save userid on first login
+  upsertUserData(userId, {})
 
   // Create JWT payload
   const token = jwt.sign(

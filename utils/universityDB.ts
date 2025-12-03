@@ -1,15 +1,9 @@
-import supabase from "./supabaseClient";
 import fs from "fs";
-import path from "path";
 
 const jsonDataPath = "./data/" 
-export const UNIVERSITIES = ["UMASS_BOSTON", "MIT", "NYU", "UPENN", "YALE"]; 
+export const UNIVERSITIES = ["UMASS_BOSTON"]; // only umass boston for now
         
 export async function getCoursesByMajor(major: string, university_id: number) {
-    // default to CS
-    major = "CS"
-    university_id = 0;
-  
     const jsonPath = jsonDataPath + UNIVERSITIES[university_id] + "_coursecatalogstructured.json";
     const raw = fs.readFileSync(jsonPath, "utf8");
     const data = JSON.parse(raw);
@@ -31,6 +25,10 @@ export async function getCoursesByMajor(major: string, university_id: number) {
 
 }
 
-function getMajorsByUniversity(university: number) {
-    return "not yet implemented";
+export async function getMajorByUniversity(university: number) {
+    if (university === 0) { // UMASS_BOSTON
+        return [
+            "CS", // just cs for now
+        ];
+    }
 }

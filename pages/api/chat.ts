@@ -5,7 +5,7 @@ import { upsertUserData, fetchUserData } from "@/utils/userdata";
 import { insertChatMessage, fetchChatMessages } from "@/utils/chats";
 import { getUserId } from "@/utils/auth";
 import { get } from "http";
-import { llm, onboard_prompt, default_system_prompt, return_system_prompt } from "@/utils/llm";
+import { llm, reload_prompt, default_system_prompt } from "@/utils/llm";
 import { UNIVERSITIES } from "@/utils/universityDB"; 
 import { getCoursesByMajor } from "@/utils/universityDB";
 
@@ -64,43 +64,16 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       // onboard user
       // or respond normally to message
       var reply;
-      if (message === "remind") {
-        // remind user of previous interaction
-        const system_prompt = userContext + "\n" + return_system_prompt
-        reply = await llm(user_id, "", system_prompt);
-      } else if (message === "onboard") {
-        const system_prompt = userContext + "\n" + onboard_prompt 
-        reply = await llm(user_id, "", system_prompt);
+      if (message === "init") {
+        const system_prompt = userContext + "\n" + reload_prompt 
+        reply = await llm(user_id, null, system_prompt);
       } else {
         const system_prompt = userContext + "\n" + default_system_prompt 
         reply = await llm(user_id, message, system_prompt);
       }
-      return res.status(200).json(reply);
+      res.status(200).json(reply);
     } catch (err) {
-        console.error(err);
-        return res.status(500).json({ error: "Internal server error" });
+      console.error(err);
+      res.status(500).json({ error: "Internal server error" });
     }
-
-  try {
-    
-
-    //const reply = await chatbot(message, default_system_prompt);
-
-    // // Check for visualization data in regular response
-    // const vizData = extractVisualizationData(reply);
-    // if (vizData) {
-    //   const textOnly = reply.split("VISUALIZATION_DATA:")[0].trim();
-    //   return res.status(200).json({
-    //     reply: textOnly,
-    //     visualizationType: vizData.type,
-    //     data: vizData
-    //   });
-    // }
-    
-    //console.log(reply);
-    return res.status(200).json({ reply: "done" });
-  } catch (err: any) {
-    console.error("API error:", err);
-    return res.status(500).json({ error: "Failed to process request" });
   }
-}
