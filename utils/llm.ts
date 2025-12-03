@@ -42,8 +42,11 @@ export async function llm(user_id: string,
                           prompt: string, 
                           system_prompt: string) 
 {
-  var passtoolcall = null
-  var visualizationData = null
+  const llmRes = {
+    reply: null,
+    tool: null,
+    visualizationData: null
+  }
 
   // get chat history
   const chats = await fetchChatMessages(user_id);
@@ -120,8 +123,8 @@ export async function llm(user_id: string,
       {
         type: "function",
         function: {
-          name: "visualizePath",
-          description: `Visualizes a course path based on user profile information.`,
+          name: "visualizeCoursePath",
+          description: `Visualizes a course path based on user profile information (university/major).`,
           parameters: {
             type: "object",
             properties: {
@@ -138,8 +141,11 @@ export async function llm(user_id: string,
     ],
     tool_choice: "auto"
   });
+
+  // get reply
   const reply = completion.choices[0]?.message;
   
+  // check for tool calls
   if (reply.tool_calls?.length) {
     const toolCall = reply.tool_calls[0];
 
@@ -150,13 +156,13 @@ export async function llm(user_id: string,
       // REPROMPT LLM
       messages.push({
         role: "system",
-        content: SAVED_REPROMPT + prompt
+        content: SAVED_REPROMPT
       });
       const completion = await openai.chat.completions.create({
         model: "gpt-4o-mini",
         messages,
       });
-      reply.content = completion.choices[0].message.content;
+      llmRes.reply = completion.choices[0].message.content;
     } else if (toolCall.function.name === "getCoursesByMajor") {
       const args = JSON.parse(toolCall.function.arguments);
       
@@ -166,26 +172,30 @@ export async function llm(user_id: string,
       // REPROMPT LLM
       messages.push({
         role: "system",
-        content: COURSES_REPROMPT + prompt
+        content: COURSES_REPROMPT
       });
       const completion = await openai.chat.completions.create({
         model: "gpt-4o-mini",
         messages,
       });
-      reply.content = completion.choices[0].message.content;
-    } else if (toolCall.function.name === "visualizePath") {
+      llmRes.reply = completion.choices[0].message.content;
+    } else if (toolCall.function.name === "visualizeCoursePath") {
       // just pass back the tool call info for front-end to handle
       const args = JSON.parse(toolCall.function.arguments);
       console.log("VISUALIZE ARGS:\n", args)
       
-      getCoursesByMajor(args[0], args[1]).then((courses) => {
+      // getCoursesByMajor(args[0], args[1]).then((courses) => {
+      //   console.log("COURSES FOR VISUALIZATION:\n", courses)
+      // });
+
+      getCoursesByMajor("CS", 0).then((courses) => {
         console.log("COURSES FOR VISUALIZATION:\n", courses)
       });
 
       // REPROMPT LLM
       messages.push({
         role: "system",
-        content: VISUALIZATION_REPROMPT + prompt
+        content: VISUALIZATION_REPROMPT
       });
       const completion = await openai.chat.completions.create({
         model: "gpt-4o-mini",
@@ -193,11 +203,11 @@ export async function llm(user_id: string,
       });
       // extract mermaid diagram from response
       const { cleanedText, mermaid } = extractMermaidFromText(completion.choices[0].message.content);
-      visualizationData = mermaid;
-      reply.content = cleanedText;
+      llmRes.visualizationData = mermaid;
+      llmRes.reply = cleanedText;
     }
-    passtoolcall = toolCall.function.name // Pass name of toolcall to calling API
-    console.log("TOOLCALL:\n", passtoolcall)
+    llmRes.tool = toolCall.function.name // Pass name of toolcall to calling API
+    console.log("TOOLCALL:\n", llmRes.tool)
   }
 
   // log chat to database if user has a profile
@@ -207,9 +217,13 @@ export async function llm(user_id: string,
     await insertChatMessage(user_id, chat_id, reply.content, "assistant")
   }
 
+  if (!reply) {
+    throw new Error("No reply from LLM");
+  }
+
   return {
-    reply: reply.content,
-    tool: passtoolcall,
-    visualizationData: visualizationData
+    reply: llmRes.reply,
+    tool: llmRes.tool,
+    visualizationData: llmRes.visualizationData
   };
 }

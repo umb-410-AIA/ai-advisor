@@ -153,31 +153,18 @@ export default function Home() {
         var { chats, profile } = await userprofile.json();
         setProfile(profile)
       } 
-      else if (llmRes.tool === "visualizePath") { 
-        // extract mermaid diagram from response
-        const { cleanedText, mermaid } = extractMermaidFromText(llmRes.reply);
-        llmRes.reply = cleanedText;
-        llmRes.mermaid = mermaid;
-
+      else if (llmRes.tool === "visualizeCoursePath") { 
         setChat((prev) => {
         const nextMessage: MessageBox = {
           user: input,
-          bot: cleanedText,
+          bot: llmRes.reply,
+          visualization: {
+            type: "course_path",
+            data: llmRes.visualizationData,
+          }
         };
 
-        if (llmRes.visualizationType && llmRes.data) {
-          nextMessage.visualization = {
-            type: llmRes.visualizationType,
-            data: llmRes.data,
-          };
-        }
-
-        if (mermaid) {
-          nextMessage.mermaid = mermaid;
-        }
-
         return [...prev, nextMessage];
-        
         });
       }
 

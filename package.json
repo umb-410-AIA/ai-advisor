@@ -13,6 +13,7 @@
     "@types/jsonwebtoken": "^9.0.10",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.546.0",
+    "mermaid": "^11.12.2",
     "next": "^16.0.0",
     "ollama": "^0.6.0",
     "openai": "^6.6.0",
