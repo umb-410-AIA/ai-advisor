@@ -136,6 +136,21 @@ export default function Home() {
         // get response from llm
         const llmRes = await res.json();
 
+        /* Source: ChatGPT
+         * Prompt: Write me a javascript regex that will pull out mermaid code inside of mermaid markdown blocks in an arbitrarily long string
+         * Prompter: Ayden Diel
+         * Date: 12/4/2025
+         * START LLM RESPONSE
+         * */
+        const mermaidRegex =  /```mermaid\s*([\s\S]*?)```/g;
+        let match: any;
+        if (!llmRes.mermaid && (match = mermaidRegex.exec(llmRes.bot)) !== null) {
+          llmRes.mermaid = match?.[1]?.trim();
+          llmRes.bot = llmRes.bot.replace(/```mermaid[\s\S]*?```/g, "");
+        }
+        console.log({llmRes})
+        // END LLM RESPONSE
+
         if (llmRes.tool_id) {
           setChat((chat) => { return [...chat, llmRes] });
           message = "tool";
@@ -369,8 +384,9 @@ export default function Home() {
 
                   {/* Render mermaid chart if present */}
                   {msg.mermaid && (
-                    <div style={{ marginTop: 15 }}>
-                      <FlowChart chart={msg.mermaid} />
+                    <div style={{ marginTop: 15, color: '#aaa' }}>
+                      <em>Chart updated</em>
+                      {/*<FlowChart chart={msg.mermaid} />*/}
                     </div>
                   )}
 
