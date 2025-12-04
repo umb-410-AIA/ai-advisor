@@ -1,0 +1,94 @@
+[
+  {
+    "coursename": "Coding for Non-Coders",
+    "courseid": "EDCU212",
+    "coursedescription": "Groggily you come to. You try to move but you realize you are handcuffed and gagged. Slowly you remember being ambushed in your lab and being knocked out by a large person with a chair. \"They must be trying to get my new invention,\" you think. You suspected that once word got out, villains would want to get their hands on this powerful new tool, you just didn't think it would happen this quickly. You know you must prevent them at all costs. After all, whoever controls this new technological invention can rule the world. Your mission is to save the world, that is in the context of the game story in this class. To do so, you are not expected to begin with any coding skills but must learn basic coding concepts such as debugging, looping, and Boolean logic to solve a series of problems embedded within this game story in order to advance the storyline. Designed like a video game, it is an asynchronous online course that can be completed at your own pace. By the end of the class, you will code your own interactive game using a block-based programming language. This class is intended for any undergraduate student in any program who is interested in learning to code.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This class is intended for any undergraduate student in any program who is interested in learning to code."
+      ]
+    }
+  },
+  {
+    "coursename": "Introduction to Special Education and Inclusion",
+    "courseid": "EDCU230",
+    "coursedescription": "This course examines appropriate strategies for supporting the academic, behavioral and social aspects of teaching students with moderate disabilities. Topics include legal and ethical issues in special education; assessments for students with special needs; assistive technology; 504 and Individual Education Plans; special education advocacy; the roles of various team members and team meetings; collaboration strategies; working with parents and other educators; various types of services; the history of special education; and current trends in special education.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Urban Education",
+    "courseid": "EDCU241",
+    "coursedescription": "This course focuses on understanding the complexities of teaching in urban schools. We will explore the strengths, problems and issues that affect urban schools and examine how teachers can effectively respond to the issues that impact their students in this environment. The course covers four major topics. Understanding the Strengths and Challenges of the Urban Environment; Community Building and School Climate; Achievement Motivation: Working from a Strengths Based Perspective; Language Development as a Foundation of Learning.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "UTeach: Knowing and Learning in Mathematics and Science",
+    "courseid": "EDCU270",
+    "coursedescription": "The course focuses on knowing and learning specifically within the context of mathematics and science. Students analyze domain-specific problems-solving activities and approaches in an applied fashion, such as through the clinical interview process. Students explore the implications of individual and social learning theories on the design of learning environments within classrooms and within the context of larger social justice issues.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Technology & Education",
+    "courseid": "EDCU310",
+    "coursedescription": "This is an introduction to using computers and technology in education in responding to the ISTE National Technology Standards for Teachers and Students. The various uses of computers and K-12 educational applications in different content areas are examined. Students explore pedagogical and ethical issues that are raised by the use of computers in the classroom. In addition, students explore various criteria for effective use of technology in the classroom. Finally, the course looks at varied approaches in which technology may be used as mindful tools to facilitate changes in the ways teachers teach and students learn.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "UTeach: Perspectives on Science and Mathematics",
+    "courseid": "EDCU370",
+    "coursedescription": "The Perspective on Science and Mathematics course explores a selection of topics and episodes in the history of science and mathematics. You will understand that these disciplines are not merely a body of facts, theories, and techniques. rather, they involve diverse processes by which knowledge is continually generated and reformulated.Sciences typically discussed in Perspectives include biology, physics, geology, astronomy, and chemistry. The course traces the development of key notions in these sciences and seeks to correct common myths or defective portrayals of history in science textbooks. We will also discuss the question of whether mathematics is itself a science. The course provides historical perspectives on how practical needs, social conflicts, and even individual personalities shaped the content and direction of the disciplines.An additional objective of the course is to convey that scientific and mathematical concepts are not static. The goal of the course is to promote among UTeach students the understanding that even the most basic ideas of science and mathematics are dynamic, despite the way this information is presented in K-12 textbooks.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sociocultural Perspectives: Building School, Family & Community Relationships",
+    "courseid": "EDCU406",
+    "coursedescription": "Examine the interrelationships among students, schools and society. Learn about the ways in which race, class, gender, language, culture, and ethnicity influence how we define each other and ourselves within the broader culture of U.S. society. Explore the historical antecedents influencing the lives of exclusive and diverse peoples of the United States, as a foundation for understanding the policies, goals, assumptions, strategies, and practices of multicultural approaches to education. Draw on various models to construct educational curricula that are multicultural and socially re-constructionist. Within the context of public schooling today, read about how to develop students' \"cultural consciousness\" of the shared societal assumptions, experiences and/or our interactions with individuals from diverse backgrounds. Prepracticum experiences will deepen understandings of the interrelationships among students, schools and society.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Understanding Reading: Principles & Practices",
+    "courseid": "EDCU446",
+    "coursedescription": "Introduction to theoretical and instructional issues involved in the acquisition of literacy; provide research-based practical constructs for knowledgeable decision making; consider effective ways of creating and managing an inclusionary, balanced literacy development program, which addresses the needs of children who are culturally and linguistically diverse. Topics include: oral language and the impacts of emergent literacy development, lesson planning with particular attention to selection of appropriate literacy materials, strategies for beginning reading and writing, literacy development for English language learners, and strengthening family literacy connections. Across topics, emphasis is on teacher's roll as an observer, and the use of assessment to guide instruction.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Rethinking Equity and Teaching for English Language Learners",
+    "courseid": "EDCU451",
+    "coursedescription": "This course fulfills the Sheltered English Immersion (SEI) endorsement requirement for core academic teachers outlined by the Massachusetts Department of Elementary and Secondary Education as part of the Commonwealth's Rethinking Equity and Teaching for English Language Learners (RETELL) initiative. The RETELL initiative comes at a time when teachers of all students, and teachers of multilingual learners (MLLs) in particular, must be equipped to address the needs and build on the assets of a diverse and ever- changing student population in Massachusetts. The introduction of various educational reforms requires teachers to assume new roles and responsibilities in their classrooms. This course will support the professional growth of educators and the teaching and learning of all students in this time of change.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Designing Curriculum and Instruction Strategies",
+    "courseid": "EDCU460",
+    "coursedescription": "This course examines current theories of curriculum and instruction as well as their historical roots. Students review teaching materials and methods, design curriculum units, design assessment and evaluation instruments, and observe and critique teaching videos.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum & Seminar",
+    "courseid": "EDCU499",
+    "coursedescription": "Each practicum provides students with the opportunity to put theory and technique into practice at the level of their specialization. Students demonstrate their teaching skills in a school, with supervision by both a certified cooperating teacher and a member of the University faculty. They also attend a seminar led by the latter. The seminar provides an opportunity for student teachers to share their practicum experiences, to try out and critique plans and ideas, to air and solve problems, and to reflect on the process by which they are becoming education professionals.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

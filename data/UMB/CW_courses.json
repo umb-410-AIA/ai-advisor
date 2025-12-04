@@ -1,0 +1,72 @@
+[
+  {
+    "coursename": "MFA Poetry Workshop",
+    "courseid": "CW601",
+    "coursedescription": "The course will focus on the writing of poetry from two perspectives-craft and process. Through discussion of their own and published poetry, students will explore how writers develop language, imagery, and verbal music through attention to structural and other details presented in the work. Students in the workshop will read recently published poetry, discussing what makes this work successful and how they, as writers, can learn from it, while writing and critiquing their own work in a responsible and constructive manner. Students will be expected to present either new work or revised work to the workshop each week.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MFA Fiction Workshop",
+    "courseid": "CW602",
+    "coursedescription": "The course will focus on fiction writing from two perspectives-craft and process. Through discussion of their own and published fiction, students will explore how writers construct character, voice, suspense, story, etc. they will also discuss the more hazy area of process. Students in the workshop will read recently published fiction, discussion what makes this work successful and how they, as writers, can learn from it, while writing and critiquing their own work in a responsible and constructive manner. Students will be expected to present their own work to the workshop at least twice during the term.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Techniques of Fiction",
+    "courseid": "CW620",
+    "coursedescription": "This is a literature course designed for fiction writers and students interested in reading both canonical works of fiction and contemporary fiction from a craft perspective. We will read the novels and stories of such authors as Henry James, Earnest Hemingway, Virginia Wolff, Franz Kafka, Jane Smiley, and Jhumpa Lahiri, among others, and explore how these authors employ the tools of narrative fiction - exposition, plot dialogue, setting, point of view, character development, etc. In addition to considering the elements of craft, the course will explore several literary traditions - realism, minimalism, and fantastical literature - in order to understand how these traditions utilize the techniques of fiction to construct vastly different fictional worlds. Though this is not a creative writing course that makes use of workshop, students will be asked to write both a traditional analytical essay as well as a work of fiction, a story or extended scene, in the style of one of the authors we will be discussion during the semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This is a literature course designed for fiction writers and students interested in reading both canonical works of fiction and contemporary fiction from a craft perspective."
+      ]
+    }
+  },
+  {
+    "coursename": "Creative Writing Internship",
+    "courseid": "CW675",
+    "coursedescription": "Partnering with an off-campus institution, students will work in an environment that will further their career goals as writers, editors, and/or educators in the field of creative writing. Internships may include assisting editorial functions at a literary magazine or publishing house, leading writing workshops in facilities including schools, hospitals, nursing homes, and shelters, or working with literary organizations such as PEN New England on projects that further literary goals. In addition to work in the field, students will generate writing about their internship experience.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study in Creative Writing",
+    "courseid": "CW696",
+    "coursedescription": "Students wishing to study a topic in Creative Writing not included in the list of courses available through the graduate program in English or the MFA Program in Creative Writing may develop a course of independent study under the direction of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Creative Writing",
+    "courseid": "CW697",
+    "coursedescription": "Special Topics in Creative Writing introduces a subject outside the list of currently approved courses in the MFA Creative Writing Program. The subject may be taught once under the Special Topics designation before requiring approval as a course addition.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intern Seminar for MFA TA2s",
+    "courseid": "CW698",
+    "coursedescription": "Prior to the beginning of the semester, TA2s meet with the intern director to prepare a common course syllabus. During the semester, students meet with the TA2 intern director weekly to discuss issues of pedagogy and classroom management. In addition to weekly meetings, students are observed by the director three times during the semester, and meet with the director after each observation for discussion.",
+    "course-prerequsities": [
+      "CW 614"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MFA Thesis",
+    "courseid": "CW699",
+    "coursedescription": "In each of the final two semesters in the MFA Program, students enroll in CW 699 for a total of six credits, culminating in a capstone MFA thesis of 48-64 pages of poetry, or 100-200 pages of fiction. The thesis is written under the supervision of a thesis advisor, read by a thesis committee of a least three members, and subject to a public thesis defense. The MFA thesis is the focus of each student's three years of graduate study. It represents the best work the student has produced - informed by the MFA workshops, by the study of literature, and by subjects relevant to the student's project - mentored by faculty, directed by an advisor, and nurtured by an engaged community of writers.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

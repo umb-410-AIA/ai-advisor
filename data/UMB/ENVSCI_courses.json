@@ -1,0 +1,383 @@
+[
+  {
+    "coursename": "The Global Environment",
+    "courseid": "ENVSCI101",
+    "coursedescription": "An analysis of the physical geographic environment including the globe, the atmosphere and ocean, climate, soils, vegetation, and landform. Positive and negative interaction of human beings with these aspects of the environment is examined where appropriate.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "World Regional Geography",
+    "courseid": "ENVSCI102",
+    "coursedescription": "An overview of world regions in terms of physical environment, human populations and the relationship between them. Topics with a focus on diversity are discussed from an international viewpoint and center on particular countries.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dinosaurs: A Natural History",
+    "courseid": "ENVSCI104",
+    "coursedescription": "This course considers dinosaurs, their evolution, and our understanding of their fossil record. Students will examine the geologic record and the tools used by paleontologists to determine: geologic ages and ancient environments; evolutionary history and extinctions; dinosaurian biology and behavior; and their survival as birds. Mechanisms of global change ranging from plate tectonics to asteroid impact will be discussed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sustainability: It Is Not Easy Being Green",
+    "courseid": "ENVSCI105",
+    "coursedescription": "Sustainability, doing what we can now to preserve the environment for the future, is made up of three pillars: environment, economics, and social equity. The environment pillar refers to the goods and services provided by our planet for survival of humans and non-humans. The economics pillar refers to the reality of ensuring livelihoods are protected and enhanced while the environment is being protected for future generations. The social equity pillar refers to ensuring all groups are treated equally and fairness in environmental-decision making for future generations is front and center. Being sustainable, or green, sounds simple, but in practice is not easy. Often, sustainability is pawned off as a quick fix solution, but is this what is best for the long term? Students in this course will learn about, discuss, and act upon the components of sustainability and their role in sustainability by investigating the opportunities and challenges of sustainability in context of their daily lives, their future, and our future generations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Environmental Policy & Management",
+    "courseid": "ENVSCI122",
+    "coursedescription": "The inherent link between human activity and environmental impact highlights the importance of the social sciences in the examination of environmental systems, management and policy. This course introduces students to concepts and assessment methods vital to an understanding of environmental policy and management issues. Topics include environmental values and equity; resource allocation; environmental policy and politics; population dynamics; sustainable development; species and ecosystem-based management; habitat and food source protection; pollution management; and, land use. In-class activities and assignments will focus on three general education skills: critical thinking, critical reading and analysis, and effective communication.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Basic Start up Business Techniques for Aquaculture Operations",
+    "courseid": "ENVSCI134",
+    "coursedescription": "This course will examine the basics of working in and managing a successful aquaculture operation. Aquaculture is currently the fastest growing segment of the food industry, with more then half of what we eat from the ocean coming from aquaculture. This is an increasingly competitive space that suffers from a tradition of malpractice and misunderstanding as well as a regulatory culture that lags far behind an innovative rate. Site selection, gear, seed and feed procurement, marketing, and supply chain dynamics are all important elements of a successful aquaculture operation that demand an understanding of regulatory, financial, and marketing and entrepreneurial principles. This course is designed to introduce students to these challenges and equip them with the tools needed to engage within the industry on a sophisticated, successful level. Students will gain a foundational understanding of how to move from \"I would like to operate an aquaculture business\" to \"I am operating an aquaculture business\". Building on this understanding, students will prepare their own business plans to demonstrate mastery of key aspects of operational efficiency necessary support the vital financial structure of any business. Lastly, through the concepts of entrepreneurship, students will learn how to integrate business concepts to be able to develop and sustain a successful aquaculture business. This course will be organized into three parts: Essentials for a business in aquaculture, operating a business in aquaculture, and moving from concept to execution. This course alludes to but does not deeply discuss the complex and ever changing regulatory, policy, and legal systems that govern operations in this sector.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Climate Change",
+    "courseid": "ENVSCI150L",
+    "coursedescription": "Introduction to Climate Change covers the processes involved in Earth's climate and the history of climate up to the present day, with a key goal of gaining insight into ongoing climate change and the future. Students will develop a basic but robust understanding of the major controls on climate, in part as a foundation for considering climate-related issues in various disciplines and areas of human concern. We will also nurture a sense of curiosity and wonder about this amazing planet that we call home.This course is designed to be accessible to students concentrating in the social sciences, humanities, or arts. At the same time, science and engineering-oriented students will find this course to be a usefully broad introduction to climate change, providing context for more specialized courses of study. For all students, our goal is to enrich your intellectual life and help you become an informed citizen.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "First Year Seminar in Environmental Science II",
+    "courseid": "ENVSCI188S",
+    "coursedescription": "This is a two-semester sequence, two credits each semester. Successful completion of the sequence will fulfill the student's First-Year Seminar requirement. Course content will vary with instructor, but will focus on current issues in environmental science. Using this approach, students will become increasingly familiar with and experienced in scientific discourse, the scientific method, and the interplay between the natural and social sciences that comprise the study of the environment. Within this framework, the course will address all the objectives of the UMass Boston First Year Seminar Program.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ecological Economics",
+    "courseid": "ENVSCI214GL",
+    "coursedescription": "This course is an introduction to the field of ecological economics, which examines how the natural environment and human-made economy interact to provide the foundation for human society. This mostly non-mathematical course highlights the differences between mainstream economics and ecological economics, encouraging students to think critically about the assumptions used by each school of thought and the different implications for policy and human wellbeing. Topics include the environmental basis of the economy; the optimal size of the economy and prospects for a non-growing or steady-state economy; personal consumption issues and drivers; social welfare and how this can be measured; and the fair distribution of world resources.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sustainable Seaweed Aquaculture",
+    "courseid": "ENVSCI216",
+    "coursedescription": "In this sustainable aquaculture course, we will examine the general biology of algae. Algae is a comprehensive term that includes both microalgae and macroalgae. The word 'seaweed' is a common term used for marine macroalgae. This course introduces students to the biology of algae (seaweeds) that humans harvest or culture. Algae such as kelp are becoming increasingly important, globally, in aquaculture. Topics include taxonomy, morphology, distribution and habitat, nutrition, significant ecological interactions (such as carbon sequestration), and life cycles. Kelp that exists in the wild and kelp that is cultured have different impacts. The course is organized geographically and by phyla. Topics have been chosen for their biological relevance to aquaculture and algae.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Oceanography",
+    "courseid": "ENVSCI226",
+    "coursedescription": "The world ocean covers approximately 71% of the Earth surface and 99% of its livable volume. This course explains how the ocean works starting from the histories of ocean explorations and early scientific knowledge rot ocean formation, currents and waves, effect of Earth's rotation, coastal and estuarine systems, marine habitats, nutrient-carbon cycle, human impacts and the role of oceans in climate change.",
+    "course-prerequsities": [
+      "ENVSCI 120",
+      "122"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Global Environmental Change",
+    "courseid": "ENVSCI260",
+    "coursedescription": "This course examines the cross-disciplinary (astronomical, geophysical, chemical, and biological) interactions and cycles that cause global environmental change and the impact of human activities on natural earth-ecosystem processes, including global warming, pollution, deforestation, ozone depletion, and biodiversity reduction. Environmental change throughout Earth's history will be explored to better understand the effects of human-induced changes on the Earth System.",
+    "course-prerequsities": [
+      "EEOS 120",
+      "BIOL 111"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course examines the cross-disciplinary (astronomical, geophysical, chemical, and biological) interactions and cycles that cause global environmental change and the impact of human activities on natural earth-ecosystem processes, including global warming, pollution, deforestation, ozone depletion, and biodiversity reduction."
+      ]
+    }
+  },
+  {
+    "coursename": "Statistics for Environmental Science",
+    "courseid": "ENVSCI261",
+    "coursedescription": "This course focuses on fundamental statistical concepts, methods in data analysis and applications to environmental science. Topics include frequency distributions and graphic representations of data, measures of central location and spread, probability distributions, hypothesis testing, correlation and single and multiple variable linear regression. Environmental Sciences majors may only use",
+    "course-prerequsities": [
+      "MATH 115",
+      "MATH 129",
+      "MATH 130",
+      "MATH 140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Cities and the Environment",
+    "courseid": "ENVSCI270",
+    "coursedescription": "This course introduces spatial analyses of cities to provide a broader understanding of their historical and current role. Major topics include the application of different geographical perspectives, why and where cities developed, the evolution of cities, how urban function and culture determines their spatial organization, how the economy and transportation drives the change in land use in urban areas, and urban areas in the 21st century.",
+    "course-prerequsities": [
+      "EEOS 122"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Geographic Information Systems",
+    "courseid": "ENVSCI281",
+    "coursedescription": "This course is concerned with computer handling of spatial data. It covers essential elements of a GIS, hardware requirements, GIS software, data acquisition, data structures, spatial databases, methods of data analysis and spatial modeling, and applications of GIS in solving a variety of environmental and economic problems.",
+    "course-prerequsities": [
+      "ENVSTY 101",
+      "ENVSCI 120",
+      "ENVSCI 121",
+      "ENVSCI 122",
+      "MATH 125",
+      "ENVSCI 261"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Hydrology",
+    "courseid": "ENVSCI305",
+    "coursedescription": "Hydrology is the science of dealing with the waters of the earth, their occurrence, distribution, circulation, and chemistry. This course introduces students to the physical science of hydrology in the context of its application to real world problems. Emphasis is placed on understanding the physical processes that form the water cycle (precipitation, evapotranspiration, runoff, infiltration, and groundwater flow).",
+    "course-prerequsities": [
+      "ENVSCI 281",
+      "MATH 130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Environmental Health",
+    "courseid": "ENVSCI315L",
+    "coursedescription": "Course introduces students to physical, chemical, and biological hazards found in the environmental and health risks associated with workplace and community exposure to them. Risks to special populations and mechanisms of reducing or controlling these risks are discussed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Planning and Land Use Law",
+    "courseid": "ENVSCI340L",
+    "coursedescription": "A study of the law as it has developed and applies to the planning process and the regulation of land use in the United States, with emphasis on Massachusetts.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Economic Approaches to Environmental Problems",
+    "courseid": "ENVSCI349L",
+    "coursedescription": "An introduction to the economist's approach to solving environmental problems. The course examines applicable economic theories, then uses them to develop a framework for analyzing a wide range of environmental issues. Topics include benefit/cost analysis; measurement of environmental damages; and current government approaches to solving air, water, and solid waste pollution problems.",
+    "course-prerequsities": [
+      "ENVSCI 122",
+      "ECON 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Remote Sensing",
+    "courseid": "ENVSCI372",
+    "coursedescription": "This is an introductory course on the principles and techniques of remote sensing. It covers the physical principles of electromagnetic radiation, remote sensing systems, interpretation of aerial photographs, satellite remote sensing data, thermal and radar imagery, and applications of remote sensing.",
+    "course-prerequsities": [
+      "ENVSCI 281",
+      "MATH 125",
+      "ENVSCI 261"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GIS Applications and Spatial Databases",
+    "courseid": "ENVSCI381",
+    "coursedescription": "This course is designed to give students an overview of GIS applications, an understanding of spatial and relational database concepts, and the practical experience of using GIS to solve real works problems. The course will include both lecture and lab components. The lab will use ESRI's ArcGIS software, its extensions, and ArcSDE, as well as the database applications Microsoft Access 2003 and SQL*Plus. Students will complete a final project involving data collection, analysis and display.",
+    "course-prerequsities": [
+      "ENVSCI 281",
+      "380"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Chemistry of Natural Waters",
+    "courseid": "ENVSCI440",
+    "coursedescription": "A basic description of the chemistry of natural and especially marine waters designed to lay the foundation for more advanced course work. Emphasis will be on the chemical composition of natural waters and the identification of the important chemical, physical, and biological processes controlling their composition. A case study, emphasizing the multidisciplinary nature of these processes, will be given at the end of the course.",
+    "course-prerequsities": [
+      "CHEM 115",
+      "CHEM 116",
+      "ENVSCI 210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Environmental Science Capstone",
+    "courseid": "ENVSCI476",
+    "coursedescription": "This course fulfills the capstone requirement and is meant to be the final culminating experience for Environmental Science majors. The main goal of the course is to integrate natural and social science knowledge and approaches to environmental problems, drawing from students' own experiences and the information they obtained over their undergraduate career in order holistically to address one or more current environmental issues or problems. Both the course topics and the approach taken to address these topics will vary depending on the instructor chosen for each semester",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ENVSCI478",
+    "coursedescription": "This course provides an opportunity for a qualified, advanced student to work on a specialized topic or research project under the guidance of a sponsoring faculty member (not necessarily your assigned academic advisor) outside of the traditional lecture/discussion/laboratory course framework.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "ENVSCI480",
+    "coursedescription": "This course offers study of selected topics within this subject. Course content and credits vary according to topic and are announced prior to the registration period.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors in Environmental Science",
+    "courseid": "ENVSCI498",
+    "coursedescription": "This is an honors capstone research course with the ultimate goal being the production of an honors thesis/paper consistent with the field of environmental sciences in which students must have a 3.3 or higher GPA in their Environmental Sciences major. This capstone honors project must be integrative across the natural and social sciences or synthesizing their Environmental Sciences track emphasis demonstrating a high level of competency consistent with the honors designation. Prior to enrolling in this course, students must develop, in consultation with his/her faculty research sponsor, and appropriate integrative across the natural and social sciences or track themed project abstract that is approved by the Undergraduate Program Director.",
+    "course-prerequsities": [
+      "3.3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Coasts and Communities II",
+    "courseid": "ENVSCI604",
+    "coursedescription": "This course explores human system interactions with the environment through the lens of climate change and urbanization. The course uses conceptual modeling and problem solving to explore the role of governance, business, and communities in the development and implementation of sustainable solutions to environmental problems.",
+    "course-prerequsities": [
+      "ENVSCI 603"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Geographic Information Systems",
+    "courseid": "ENVSCI623L",
+    "coursedescription": "This course teaches the concepts, principles, approaches, techniques, and technologies of geographic information systems (GIS)The specific topics include essential elements of a GIS, hardware requirements and system integration, technologies and techniques for acquiring spatial data, spatial data models, data structures, data formats, database models, spatial analysis and modeling, cartographic design, implementation of a GIS, and environmental and socioeconomic applications. Hands-on exercises on ArcView are assigned each week.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Topics in GIScience",
+    "courseid": "ENVSCI629",
+    "coursedescription": "This course is an advanced GIS graduate course focusing on quantitative methods in spatial analysis. It is meant to promote critical thinking and explore current technical advances in GIS. Students will examine GIS applications in detail, and gain \"hands-on\" experience with current spatial modeling software in an applied area. Students will also gain experience in planning and outlining an applied GIS project, learning the specific techniques required for the project, and advancing the project through to completion.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Biological Oceanography",
+    "courseid": "ENVSCI630",
+    "coursedescription": "The course analyzes the processes governing the population dynamics of phytoplankton, zooplankton, and benthos. The course stresses the interaction between marine biology and relevant aspects of physical, chemical and geological oceanography. The course has a special emphasis on applied benthic ecology, especially the effects of pollution on the coastal zone. Other topics include the microphytobenthos, modeling competition, predation & benthic community structure, zooplankton grazing & predation, satellite remote sensing, and the effects of climate change on marine populations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Chemistry of Natural Waters",
+    "courseid": "ENVSCI640",
+    "coursedescription": "A basic description of the chemistry of natural and especially marine waters designed to lay the foundation for more advanced course work. Emphasis will be on the chemical composition of natural waters and the identification of the important chemical, physical, and biological processes controlling their composition. A case study, emphasizing the multidisciplinary nature of these processes, will be given at the end of the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Physical Oceanography",
+    "courseid": "ENVSCI650",
+    "coursedescription": "This course introduces the physical processes active in the ocean environment, including coastal and estuarine regions, and investigates the connection between those processes and observed physical characteristics of the ocean.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Economics of Renewables: Marine and Energy Resources",
+    "courseid": "ENVSCI675L",
+    "coursedescription": "This course introduces students to the use of economic analysis in helping to solve marine and energy related natural resource problems. The first part of the course focuses on the economic theory used to analyze natural resource and energy issues. In the latter half of the course these theoretical tools will be used as a framework to analyze a wide range of issues dealing with marine resources and renewable energy. The purpose of the course is to expose students to sufficiently rigorous economics analysis to enable them to appreciate the usefulness of the economic approach to resource and renewable energy problem solving and to critique economic analyses they may be presented with in future decision-making roles.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Current Literature in Environmental Sciences",
+    "courseid": "ENVSCI691",
+    "coursedescription": "A series of one-credit seminar courses focusing on subfields of environmental science, designed to help students develop the habit of keeping up with recent developments through reading scientific journals. The seminars also provide a forum for discussion of significant new findings in the field as well as discussion and critique of the students' own research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Environmental Sciences",
+    "courseid": "ENVSCI697",
+    "coursedescription": "This course provides an opportunity for presentation of particularly timely lecture/laboratory/field material which does not fall under the purview of any other course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Projects in Environmental Sciences",
+    "courseid": "ENVSCI698",
+    "coursedescription": "A practicum resulting in a substantial written report based on library, laboratory, or field research which involves an original project. Up to 6 credits from this course may be applied to the MS degree, over more than one semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Thesis Research",
+    "courseid": "ENVSCI699",
+    "coursedescription": "Research conducted under faculty supervision which leads to the presentation of a master's thesis. Up to 10 credits from this course may be applied to the MS degree, over more than one semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Seminar in Environmental Sciences",
+    "courseid": "ENVSCI791",
+    "coursedescription": "Presentations and discussions of current topics in environmental sciences by students and visiting lecturers.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study in Environmental Science",
+    "courseid": "ENVSCI796",
+    "coursedescription": "Independent laboratory and/or library studies under the direction of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Environmental Sciences",
+    "courseid": "ENVSCI798",
+    "coursedescription": "Students are placed individually at private-sector or government institutions in order to gain practical training and professional experiences not available on campus. Each placement is jointly supervised by an individual at the host agency or company and by a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Each placement is jointly supervised by an individual at the host agency or company and by a faculty member."
+      ]
+    }
+  },
+  {
+    "coursename": "Dissertation Research",
+    "courseid": "ENVSCI899",
+    "coursedescription": "Research, conducted under faculty supervision, which leads to the presentation of a doctoral dissertation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

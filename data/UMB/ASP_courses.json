@@ -1,0 +1,21 @@
+[
+  {
+    "coursename": "Introduction to Peer Tutoring",
+    "courseid": "ASP120",
+    "coursedescription": "This blended course serves as a formalized professional training course for peer tutors. This course will help tutors develop their own metacognitive abilities as they learn how to practically apply educational theories in their tutoring sessions. Tutors will also learn transferable professional skills such as: communication strategies, leadership skills, conflict management and consultation techniques, and experience working effectively with a diverse population of individuals.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Peer Educator Seminar",
+    "courseid": "ASP301",
+    "coursedescription": "Students will complete the 10 hour-long sessions of training and 25 hours of direct service required to become CRLA-certified peer educators in accordance with the College Reading and Learning Association training program. Students will also consider ways in which they are valuable contributors and advocates to their peers' educational experiences at UMass Boston. Over the semester, students will participate in weekly classes that include discussing their personal strengths, identifying goals and challenges, and practicing strategies for connecting with students and faculty to creating a strong and collaborative learning environment in the classroom.",
+    "course-prerequsities": [
+      "ENGL 101",
+      "ENGL 102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

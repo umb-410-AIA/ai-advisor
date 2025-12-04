@@ -1,0 +1,41 @@
+[
+  {
+    "coursename": "Fundamentals of Business Communication & Critical Analysis",
+    "courseid": "BC230",
+    "coursedescription": "This course provides rigorous instruction in the basics of written and oral communication for managers. Instruction will focus on necessary writing, analytical reading, and critical thinking required in business. This is a writing-intensive course preparing students for the challenges of BC 290. Additionally, the course is devoted to improving students' verbal skills in articulation, presentation skills, and confidence in sharing ideas in class.",
+    "course-prerequsities": [
+      "ENGL 102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Professional Written Communication & Critical Analysis",
+    "courseid": "BC290",
+    "coursedescription": "This course offers instruction and practice in written business communication and critical analysis. The course emphasized clarity and coherence in case analyses, and focuses on professionalism within written business communication. Students work on appropriate delivery of information via a range of business letters, resumes, and cover letters.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "2",
+      "BC 230",
+      "30"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Communication, Negotiation, & Conflict Interactions",
+    "courseid": "BC295",
+    "coursedescription": "An interactive class designed to raise students' confidence in business communication and prepare them for a variety of speaking engagements. They will learn negotiation and conflict resolution strategies and become persuasive, organized, and diplomatic in the delivery of information, even during stressful and challenging situations. The course also addresses the cultural norms, procedures, and customs appropriate for a professional business setting. By the end of the course, students will have a strong grasp of how to present themselves in interviews, meetings, conference, one-on-one interactions, and other relevant business ventures",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Presentation Skills for Business",
+    "courseid": "BC298",
+    "coursedescription": "An introduction to the processes of professional communication with emphasis on oral presentations in the business environment. Students develop skills in oral and physical delivery, organization, persuasion, critical thinking, and use of support media. This course offers students an opportunity to develop their presentation skills in a variety of settings and realistic business tasks.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

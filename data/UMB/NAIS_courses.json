@@ -1,0 +1,22 @@
+[
+  {
+    "coursename": "Modern American Indian Social and Political History: From the American Revolution to Standing Rock",
+    "courseid": "NAIS263L",
+    "coursedescription": "This course will examine the varied historical experiences of American Indians from the time of the American Revolution to the present, with a special focus on the 20th century. American Indians (as well as Native Hawaiians and Alaska Natives) are and were actors in history and not just hapless victims of Euro-American imperialism and power. The course will examine the ways Native peoples in the U.S. adapted and responded to the host of stresses that accompanied the rapid and often violent social, cultural, and environmental transformations of the 19th and 20th centuries.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Working for Native Communities: Internship/Directed Study",
+    "courseid": "NAIS488",
+    "coursedescription": "This course examines the way in which research skills can be applied to concrete problems and their solutions particularly as they apply to various Native American/Indigenous communities in the Boston area. The course will give students the opportunity to develop and practice concrete research/presentation skills such as learning how to listen, how to work with a community, analysis, writing, public speaking, and team-building skills.",
+    "course-prerequsities": [
+      "HIST 278L",
+      "HIST 262",
+      "263"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

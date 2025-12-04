@@ -1,0 +1,181 @@
+[
+  {
+    "coursename": "Principles of Marketing",
+    "courseid": "MKT301",
+    "coursedescription": "Develops students' understanding of marketing principles underlying the selection and assessment of markets, and the development and delivery of products and services.",
+    "course-prerequsities": [
+      "BC 290",
+      "ACM 299"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Data Analysis for Marketing Management",
+    "courseid": "MKT310",
+    "coursedescription": "Familiarizes students with data analysis techniques for marketing decision making. Emphasis is given to secondary data and secondary data processing. The course makes extensive use of computers and commercial software: word processing and graphics programs, spreadsheets, and statistical analysis packages containing data description, bivariate and multivariate models. It also emphasizes report writing and oral presentation skills.",
+    "course-prerequsities": [
+      "MKT 301",
+      "MSIS 111"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Web Page Marketing",
+    "courseid": "MKT405",
+    "coursedescription": "In a short period of time, use of the Internet for marketing communications and commercial transactions has become commonplace among consumer product and service firms, business-to-business marketers, and nonprofit organizations. Use of the Internet for marketing purposes involves all basic marketing disciplines and adds the important elements of interactivity and tractability. It requires a user-level understanding of the technologies that make the Internet a communications medium and a transactional channel. This course provides the fundamental knowledge and marketing perspective required to successfully incorporate the Internet into the marketing activities of organizations of all types and sizes.",
+    "course-prerequsities": [
+      "MKT 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Services Marketing",
+    "courseid": "MKT407",
+    "coursedescription": "Examines what differentiates services marketing from the marketing of products. Special attention is focused on the unusually intricate planning and interaction required among the traditional management functions of marketing, operations, human resources, and finance that characterize the marketing of services.",
+    "course-prerequsities": [
+      "MKT 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Consumer Behavior",
+    "courseid": "MKT408",
+    "coursedescription": "The core of the discipline of Marketing is to understand and satisfy customer/consumer needs and wants. This course demonstrates what drives consumer buying behavior and how consumer psychology and social influences impact people's conduct as buyers and users. It aims at developing skills in analyzing data pertinent to consumer behavior and, consequently, offers perspective on how marketers can better satisfy the consumers. The addition of this course represents an important subject area for students interested in the field of marketing,",
+    "course-prerequsities": [
+      "BC 290"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The addition of this course represents an important subject area for students interested in the field of marketing,"
+      ]
+    }
+  },
+  {
+    "coursename": "Customer Relationship Management",
+    "courseid": "MKT409",
+    "coursedescription": "This course introduces a broad spectrum of Customer Relationship Management (CRM) and concentrates on building and maintaining customer loyalty and lost customer win-back, as a key component of the organization's total marketing effort. Composed of people, technology, and processes, and effective CRM optimizes the selection or identification, acquisition, growth, and retention of desired customers to maximize profit. Students who are interested or responsible for the development of any major aspect of CRM will find this course beneficial. CRM discussions and projects will address both organizational customers and consumers/households. Students will incorporate CRM conceptual frameworks with practical toolsets, including customer information management, CRM functions, leading CRM software/systems/solutions, effective CRM communication, and the ethical and social issues related to CRM.",
+    "course-prerequsities": [
+      "MKT 301"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students who are interested or responsible for the development of any major aspect of CRM will find this course beneficial."
+      ]
+    }
+  },
+  {
+    "coursename": "Sport Marketing & Sponsorship",
+    "courseid": "MKT425",
+    "coursedescription": "This course introduces principles and processes of sport marketing and sponsorship. Topics include sport market research, segmentation, product and fan development, pricing, licensing and merchandising, communication and distribution channels of sport product, sponsor relationship management, fundraising, and sponsorship evaluation.",
+    "course-prerequsities": [
+      "MKT 301",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "International Marketing",
+    "courseid": "MKT430",
+    "coursedescription": "Adapts marketing strategy to fit the special requirements of international market structures, as well as differing cultural, political, and legal environments. The course is recommended for students contemplating careers in international business.",
+    "course-prerequsities": [
+      "BC 290",
+      "MKT 301"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is recommended for students contemplating careers in international business."
+      ]
+    }
+  },
+  {
+    "coursename": "Social Media & E-Services",
+    "courseid": "MKT441",
+    "coursedescription": "Social media platforms like youtube, twitter or facebook have a fundamental impact on the way business and consumers behave, communicate and interact with each other. It is critical for business to understand these new media in order to benefit from them significantly. Social Media provide marketers with several important capabilities not present in most other media including interactivity and measurability. In this course, we will deal with the possibilities that Social Media can offer companies and how new e-services can be used to retain and interact with consumers. In this context, we rely partly on established theoretical models and best practice business cases. In particular, we consider network theory, community research, and studies regarding user-generated content for insight or the management of communities. Special attention will be given to mobile services as well as the special characteristics of social media.",
+    "course-prerequsities": [
+      "BC 290",
+      "MKT 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Marketing Analytics",
+    "courseid": "MKT458",
+    "coursedescription": "This course is an introductory analytics course for students interested in cutting-edge techniques for marketing decision modeling and business research. It focuses on helping students develop quantitative analytical skills valuable for a wide range of business fields, especially on marketing strategies and tactics. It covers a variety of analytical models and focuses on their applications to real-world marketing decision problems. It not only introduces students to a variety of marketing decision models, but also teaches them how lo estimate these models using analytical and statistical software and how to apply them for decision recommendations. Specifically, this course will introduce a variety of quantitative models 1o improve marketing decision making in such areas as market response, customer segmentation, customer targeting, brand positioning, as well as pricing and promotion decisions.",
+    "course-prerequsities": [
+      "MKT 301",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is an introductory analytics course for students interested in cutting-edge techniques for marketing decision modeling and business research."
+      ]
+    }
+  },
+  {
+    "coursename": "Entrepreneurship Sales & Marketing",
+    "courseid": "MKT465",
+    "coursedescription": "Entrepreneurship Sales & Marketing is a course that will prepare you for an entry level sales and marketing position in a startup initiative as well as prepare you to launch your own sales & marketing initiative in your own startup. Live role play scenarios with experienced sales and marketing entrepreneurs will prepare you for the multiple areas of responsibilities and interactions within a startup organization as well as outward facing prospect and customer responsibilities and interactions that are required in a startup. You will be exposed to the overall process and tools that drive a sales/marketing organization in a startup. Students will also be provided preparation assistance and giving priority consideration to the internships offered through UMass Boston's Student Entrepreneurship Program (StEP).",
+    "course-prerequsities": [
+      "BC 290",
+      "MKT 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Marketing",
+    "courseid": "MKT478",
+    "coursedescription": "Addresses a specific topic in marketing. Special topics courses are offered as one-time supplements to the department's curriculum. Descriptions of special topics courses are available during advance registration.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Digital Marketing",
+    "courseid": "MKT479",
+    "coursedescription": "Digital marketing forms the backbone of today's economy and brands are putting more of a focus on digital marketing than ever before. This course will help students gain an understanding of how the digital economy works and develop the critical insights necessary to succeed in e-commerce and digital marketing. This course provides the fundamental knowledge and marketing perspective required to successfully conduct digital marketing activities in organizations of different types and sizes. This class will give students the theoretical understanding of the internet marketplace necessary to adapt to its many changes, while also equipping students with the skills they will need to perform vital daily functions. When students complete the course, they will have a richer understanding of the foundations of the new digital marketing landscape and acquire a new set of skills, concepts, and tools to help them digitally create, distribute, promote and price products and services.",
+    "course-prerequsities": [
+      "MKT 301",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Marketing Internship",
+    "courseid": "MKT480",
+    "coursedescription": "Provides students with opportunities for full- or part-time work experience in a marketing setting. On-site supervisors and faculty sponsors provide guidance and supervision for each intern.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "MKT488",
+    "coursedescription": "A student-initiated research project on a marketing topic, supervised by a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "College of Management Honors Thesis Seminar",
+    "courseid": "MKT499",
+    "coursedescription": "The CM honors research seminar and thesis Program is a two-semester course sequence. In this seminar, students successfully complete a research while working closely with a faculty advisor to define the project, which builds upon work completed in the per-requisite course, CM Honors Research Seminar. The honors thesis project stretches and grows a student's capabilities. Therefore, the program is structured around a series of assignments and milestones during which students will work with guidance from a faculty advisor and program coordinator toward a project that meets course goals.",
+    "course-prerequsities": [
+      "SCSM 498",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

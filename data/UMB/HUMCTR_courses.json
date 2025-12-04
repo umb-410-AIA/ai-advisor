@@ -1,0 +1,92 @@
+[
+  {
+    "coursename": "The Life Cycle and the Environment",
+    "courseid": "HUMCTR220",
+    "coursedescription": "To understand human behavior in real-life situations, you must have a working knowledge of the life-span developmental process and the impact of systems in the environment on those developmental processes. All human behavior, whether it is physical, social, or cognitive, comes into being through the processes of development. Developmental changes result from the interaction of various influences. These influences can range from the heredity prenatal environment to the broadest social and cultural factors. Basic concepts and theories are used to explain these life-long developmental changes. Familiarity and concepts and theories of development are essential tools of an effective human services worker. This course will examine life-span development and the role of the human service worker in helping individuals and families respond to the challenges in productive ways. Students will conduct field observations of a life stage and apply theory to explaining their behavior.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "History of Social Welfare",
+    "courseid": "HUMCTR230",
+    "coursedescription": "This course examines the historical development of social welfare provision in the United States from the colonial era to the present. The social economic, political, and cultural trends of society at large provide the context for both the identification of human service needs and the development of strategies to accommodate these needs throughout various historical periods. Particular attention is given to the interplay between historical context and changes in values, attitudes and policies. Recurring issues such as a private vs. state-based provision, determination of 'the needy', and the impact of gender, class, race/ethnicity and economic change on social welfare ideas and practices will be considered.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intervention with Individuals and Small Groups",
+    "courseid": "HUMCTR320",
+    "coursedescription": "This course will focus on the skills and knowledge which are common to intervening with individuals and small groups, as well as, with organizations and communities. To be an effective human service worker, it is important to be able to apply skills with an understanding of relevant theories and models, and be able to choose appropriate intervention strategies and methods for particular situations. Since there is no substitute for actually working with individuals or groups, an important part of enhancing a worker's intervention sills is obtaining hands-on experience in the field through a practicum covering the length of semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intervention with Large Systems",
+    "courseid": "HUMCTR322",
+    "coursedescription": "Students will learn to effect and improve the lives of individuals, families and groups by working for social justice and social change at the organization and community level. Students will learn how to analyze and engage with communities. We will apply knowledge and skills in organizing, advocacy, collaboration, influencing policy, social and community development, and planning, to address issues facing diverse populations in living communities and connected to organizations across the life span. To be an effective human service worker, it is important to be able to differentially apply knowledge and skills, and to be able to select from a range of strategies and interventions that will best suit particular situations and issues. As part of this course, students will be expected to participate in a practicum in which they can learn for the community, work on community identified issues, and apply theory to practice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Human Service Systems for Contemporary Families",
+    "courseid": "HUMCTR330",
+    "coursedescription": "This course provides an in depth understanding of essential human services. It examines the challenges and needs confronting individuals and families over the course of a lifespan. Students will analyze a broad range of reasons why individuals and families utilize human service programs and the resources available in they provide, nonprofit, and public sectors. The course will examine contemporary relationships and families, theories related to the helping profession, and the differences among available resources. Students will compare human services delivery systems so as to differentially determine appropriate services for client systems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Professional Responsibility and Ethics",
+    "courseid": "HUMCTR345",
+    "coursedescription": "This course will address value conflicts and ethical issues human service professionals encounter in a range of human service settings: It explores ethical issues and practices in direct service work- -focusing on moral values, ethical principles/dilemmas, decision-making frameworks, client confidentiality, informed consent, client safety/autonomy, professional boundaries, conflicts of interests, and mandated reporting. We will critically examine cases of consumers at risk, and seek to construct ethical interventions best matched with these case studies. We will explore unethical human service interventions and their determinants. Students will gain specialized knowledge and skill in applying ethical theory to practice in human services.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course will address value conflicts and ethical issues human service professionals encounter in a range of human service settings: It explores ethical issues and practices in direct service work- -focusing on moral values, ethical principles/dilemmas, decision-making frameworks, client confidentiality, informed consent, client safety/autonomy, professional boundaries, conflicts of interests, and mandated reporting."
+      ]
+    }
+  },
+  {
+    "coursename": "Human Services Directed Study for Credit",
+    "courseid": "HUMCTR372",
+    "coursedescription": "The purpose of a Directed Study is to allow Human Services undergraduates to work in depth with various Human Services faculty on a particular Human Services subject matter of interest. While similar to doing an Independent Study, a Directed Study engages students in formulating a specific Learning Plan which is geared both toward understanding specific Human Services content material as well as demonstrating competence. A Directed Study may also be used when life circumstances may prevent a student from participating in a regular Human Services course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The purpose of a Directed Study is to allow Human Services undergraduates to work in depth with various Human Services faculty on a particular Human Services subject matter of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "Research and Information for Evidence-based Practice",
+    "courseid": "HUMCTR401",
+    "coursedescription": "This course focuses on locating and critically applying data to inform practice in human services. Human service providers frequently encounter service users with challengers reflecting larger social problems. Student will learn how to identify these social problems and turn them into research questions. They will learn to locate and appraise relevant studies, and to understand what constitutes sound evidence as the basis for problem solving in human service practice. In the process, students will become familiar with the scientific method of data collection, enabling them to be critical consumers of information relevant to human services.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Human Service Policy and Practice (Capstone)",
+    "courseid": "HUMCTR421",
+    "coursedescription": "In this Human Services Capstone course students will learn how to understand, analyze, and influence human services policies. Students will take an ecological approach to understand the interplay between policy and practice in governmental and human services organizations at the local, state, and federal levels. Building on cumulative knowledge, skills, and internship experience, students will design and present a capstone project. This project may include issue identification, research, an intervention strategy, and a proposal to bring about positive change in the identified human services area.",
+    "course-prerequsities": [
+      "HUMCTR 420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Case Management",
+    "courseid": "HUMCTR425",
+    "coursedescription": "This course address current practice and policy for human service workers assuming multiple and conflicting roles posed by case management with consumers in human services. Case management functions include client screening, risk assessment; service planning, implementation, monitoring and reassessment of the service plan. Case managers seek to support client self-determination but are also charged with controlling costs and rationing services posing ethical dilemmas for workers. We will examine best practice guidelines for case management and apply theory to practice in the field. We will examine case management from the perspective of the consumer, practitioner, other providers and the service system. A major focus of this class is critical examination of case management practice in a variety of settings. This highly interactive class will involve a combination of lecture, class discussion of anonymous case vignettes drawn from the field, and field interviewing.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "coursename": "University Chorus",
+    "courseid": "MUSIC101",
+    "coursedescription": "The study and performance of choral music including but not limited to music for large choral ensembles composed from the medieval period through the current day. This course is intended for students with some previous musical experience. A placement audition to determine voice type may be required after enrollment, but all students will be accepted.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The study and performance of choral music including but not limited to music for large choral ensembles composed from the medieval period through the current day."
+      ]
+    }
+  },
+  {
+    "coursename": "Chamber Singers",
+    "courseid": "MUSIC102",
+    "coursedescription": "The study and performance of music for the small vocal ensemble. Repertoire ranges from Renaissance madrigals to contemporary music.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Jazz Band",
+    "courseid": "MUSIC104",
+    "coursedescription": "This course focuses on the analysis, improvisation, and performance of jazz. Students work in small ensembles. All performance levels are welcome to audition.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Music of the World",
+    "courseid": "MUSIC105G",
+    "coursedescription": "This course examines the power and function of music in pan-human context. Drawing on a wide variety of sounds and texts, students investigate the relationship between music and intellect, spirit, community, and environment. Special attention is given to how terms, concepts and values from various world musics illuminate and amplify our essential understanding of this human phenomenon.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Chamber Orchestra",
+    "courseid": "MUSIC106",
+    "coursedescription": "This course is a performance class where students work together and form a Chamber Orchestra. Students are exposed to wide array of repertoire ranging from the Baroque to the Romantic eras.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "An Introduction to Music",
+    "courseid": "MUSIC111",
+    "coursedescription": "Basic music materials, principles of design, and the cultural significance of representative works in historical sequence. Designed primarily for non-music majors.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "World Music",
+    "courseid": "MUSIC115",
+    "coursedescription": "An introduction to the musical traditions of countries throughout the world, embracing the role of music in society, ritual, and culture. Traditional vocal and instrumental styles of folk and traditional music are illustrated through audio and visual materials.",
+    "course-prerequsities": [
+      "MUSIC 105G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "History of Country Music in America",
+    "courseid": "MUSIC117",
+    "coursedescription": "This course is an introduction to the stylistic vocabulary and cultural contexts of country music in America from the 1920's to the present through source readings, cultural and musical analysis, and critical listening.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theory II",
+    "courseid": "MUSIC122",
+    "coursedescription": "A continuation of MUSIC 121: realization of bass lines in four-part harmony. Basic counterpoint. Principles of voice-leading.",
+    "course-prerequsities": [
+      "MUSIC 121",
+      "MUSIC 124"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ear Training and Sight Singing II",
+    "courseid": "MUSIC124",
+    "coursedescription": "A continuation of MUSIC 123. Further score reading and rhythmic exercises. Dictation of moderately simple melodies and introduction to part-singing.",
+    "course-prerequsities": [
+      "MUSIC 123"
+    ],
+    "course-corequisites": [
+      "MUSIC 122"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Elements: Keyboard II",
+    "courseid": "MUSIC132",
+    "coursedescription": "A continuation of major scales, introduction to minor scales, harmonization of melodies with expanded chord vocabulary. Further study of piano technique, including coordination of hands in more complex rhythmic patterns.",
+    "course-prerequsities": [
+      "MUSIC 131"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Applied Music Lesson",
+    "courseid": "MUSIC184",
+    "coursedescription": "Private, individualized study of voice and all instruments, for NON-MUSIC MAJORS and MUSIC MINORS, covering both performing techniques and musicianship. Twelve one-hour lessons per semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Applied Music",
+    "courseid": "MUSIC185",
+    "coursedescription": "Private, individualized study of voice and all instruments covering both performing techniques and musicianship. Twelve one-hour lessons per semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Music Production",
+    "courseid": "MUSIC201",
+    "coursedescription": "Introduction to music recording and electronic music production fundamentals, in-depth listening and analysis applied to music creation, songwriting, and performance in hands-on activities to develop skills in using DAWs, recording tools, sample libraries, and MIDI controllers for music production.",
+    "course-prerequsities": [
+      "MUSIC 121"
+    ],
+    "course-corequisites": [
+      "MUSIC 123"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Ethnomusicology",
+    "courseid": "MUSIC205G",
+    "coursedescription": "This course provides an introduction to ethnomusicology, the study of music across culture. The class will sample readings from the field's major figures together with sounds and images from the places they studied. Field methods and topical issues raised in ethnomusicology are discussed in class, then applied to the student's own research through several structured projects.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theory IV",
+    "courseid": "MUSIC222",
+    "coursedescription": "A continuation of MUSIC 221: advanced four-part writing and the introduction of short tonal compositions in imitation of classic models. Further analysis of complex harmonic and melodic structures.",
+    "course-prerequsities": [
+      "MUSIC 121",
+      "122",
+      "221"
+    ],
+    "course-corequisites": [
+      "MUSIC 224"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Ear Training and Sight Singing IV",
+    "courseid": "MUSIC224",
+    "coursedescription": "A continuation of MUSIC 223: emphasis on dictation of harmonic progressions and extended melodies.",
+    "course-prerequsities": [
+      "MUSIC 123",
+      "124",
+      "223"
+    ],
+    "course-corequisites": [
+      "MUSIC 222"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Black American Music",
+    "courseid": "MUSIC253G",
+    "coursedescription": "A study of musical activity of Black Americans and the vital role it has played in the development of musical performance in the United States. The study includes an examination of the genres and styles that characterized the music from its earliest manifestations among a people in slavery to the rap beat of the late twentieth century. Capabilities addressed: Critical reading, critical thinking, clear writing, collaborative learning, information technology, oral presentation.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Classical to Modern",
+    "courseid": "MUSIC303",
+    "coursedescription": "A survey of important stylistic and formal developments in music from the Classical Period through to the present.",
+    "course-prerequsities": [
+      "MUSIC 121",
+      "122"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Woodwind Techniques",
+    "courseid": "MUSIC402",
+    "coursedescription": "Intensive class instruction in the fundamentals of woodwind technique. This course offers preparation for teaching instrumental music at the secondary level.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "MUSIC478",
+    "coursedescription": "Study of a particular area of this subject under the supervision of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "MUSIC479",
+    "coursedescription": "Open to advanced students who wish to do intensive work on a particular topic. A written outline of the project must be submitted to the prospective instructor well in advance of the beginning of the semester in which the project is to be done. An extended written paper is the normal outcome of such a project. While enrollment in Independent Study is encouraged for advanced students, all students enrolling in MUSIC 479 (other than the Chamber Orchestra section) that involves any aspect of performance do so with the understanding that they will continue to perform in the performing ensemble idiomatic to their instrument, whether officially enrolled for credit or not.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Orchestration",
+    "courseid": "MUSIC483",
+    "coursedescription": "A study of the range and timbre of instruments. Practical ways of combining instruments. Discussion of mass, texture, and sound.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Senior Honors",
+    "courseid": "MUSIC498",
+    "coursedescription": "An opportunity for seniors to work with a faculty advisor on an individualized, advanced project. The senior honors project may be either a major creative effort leading to a recital/portfolio of original compositions, a senior recital, or a written research project in music theory or history. While enrollment in Senior Honors is encouraged for advanced students, all students enrolling in MUSIC 498 that involves any aspect of performance do so with the understanding that they will continue to perform in the performing ensemble idiomatic to their instrument, whether officially enrolled for credit or not.",
+    "course-prerequsities": [
+      "3.25",
+      "GPA 3.25"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

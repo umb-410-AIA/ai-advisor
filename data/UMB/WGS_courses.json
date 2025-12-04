@@ -1,0 +1,280 @@
+[
+  {
+    "coursename": "Gender in Global Context",
+    "courseid": "WGS110",
+    "coursedescription": "This course is an introduction to studying women's lives and the gender systems that shape them across cultures and countries, as it examines a variety of global processes and approaches, including patriarchy, colonialism, nationalism, and globalization. Students will consider issues of gender and sexuality by looking at the ways in which people are connected in a network of global flows of capital, ideas, and activism. Topics include: work, poverty, images of the body, violence, faith, and feminism.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Women and Men in Families",
+    "courseid": "WGS120G",
+    "coursedescription": "Has feminism destroyed the traditional family? Would marriages last longer if women and men shared family responsibilities equally? Does society still need to make major changes if we want both women's rights and stable families? Participants read, discuss, debate, and make up their own minds on these issues.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Women, Culture and Identity",
+    "courseid": "WGS150",
+    "coursedescription": "This course explores cultural beliefs about women's \"nature\" and role at different times and places, drawing on materials from literature, including fiction and autobiography, and from history and feminist analysis. Using a thematic rather than a chronological approach, the course will focus on the ways in which intersection of race, class and gender affects the lives and self-concepts of women, in the U.S. and in other societies in the world.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Feminist Literature in the US: An Intersectional Approach",
+    "courseid": "WGS200",
+    "coursedescription": "This course examines the ways American women explore reality in the US through writing. Using a feminist lens, we will study novels, short stories, essays, and memoirs to trace the evolution of women's literature over time, across multicultural backgrounds, and at intersections of social identity.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Gendered Bodies",
+    "courseid": "WGS210G",
+    "coursedescription": "This critical look at human bodies in social context begins with the premise that embodiment itself is a socially constructed phenomenon rather than a fixed biological reality. Topics such as the beauty ideal, physical disabilities, and intersexuality will illustrate how perceptions of our bodies are shaped by social processes and how, in turn, these perceptions shape human experience.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Women and the Media",
+    "courseid": "WGS220",
+    "coursedescription": "This course explores how the historical evolution and commercial orientation of mass communications media have helped shape the depiction of women and gender in advertising, entertainment, and news. Students learn to analyze visual imagery for its conceptual and emotional messages; to distinguish stereotypes from more complex characterizations in TV fictions; and to monitor the representations of women and gender in the print and broadcast news.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Gender & Sexuality in South Asia",
+    "courseid": "WGS227GL",
+    "coursedescription": "This course critically examines the portrayal of gender and sexuality in South Asian cultural texts. It employs literature and film to focus on culture and society in South Asia. It specifically addresses gender, as a form of social and historical inequality in South Asia, which is home to diverse socio-cultural communities, which are further divided from within by languages, class, religious affiliations, and regional differences. By reading the stories of individuals and groups in these contexts, the course explores how socio-cultural notions of gender and sexuality, often deeply embedded among communities; perpetuate inequalities among South Asian subjects. It utilized life history, the novel, film, political critique and other literary genres to examine cultural and material foundations of inequality in contemporary South Asia, especially among women of particular religions, class, caste, and ethnicities.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Rethinking the Family: Cross-Cultural Perspectives",
+    "courseid": "WGS243L",
+    "coursedescription": "This course analyzes the ways in which culture shapes perceptions of family. It explores narratives about how human family structures evolved, examines the increasing medicalization of reproduction and the body, and takes stock of the ways in which race, class, gender, and sexual orientation affect commonly held and frequently subscribed-to beliefs about what constitutes family. It illustrates the diversity of kinship definitions with ethnographic examples from the Iban of Indonesian Borneo, the Nyakyusa of East Africa, and other societies from the Americas, Africa, Asia, and the pacific Islands. Through an exploration of the pressures to which African American families have been subjected in the United States, it probes the ways in which the legacy of slavery shapes the possibilities and perceptions of contemporary families.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Global Bodies: Sex, Families, and Reproductive Rights in Transnational Perspective",
+    "courseid": "WGS268",
+    "coursedescription": "Globalization is drawing increasing numbers of women (and men) into cross-border transactions in which the reproductive and sexual body is the desired object of exchange. These global markets raise important questions about what it means for human dignity when body parts and services are treated as commercially available. Do these transactions commodify women (particularly those from the Global South) by treating them as disposable, fragmentary bodies for the benefit of wealthy customers? Or do they offer new pathways out of poverty, by enabling women to assert control over this productive resource? Using a transnational feminist and human rights lens, this course examines these issues, with a particular focus on sex tourism/trafficking and gestational surrogacy. The course also looks at a very different type of cross-border travel - namely, the flight of persons in conflict zones for the purpose of escaping political violence rather than to seek or sell an intimate service. Specifically, we consider the unique challenges that refugees and internally displaced persons confront when seeking to access reproductive health services, including abortion.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Native American Women in North America",
+    "courseid": "WGS270",
+    "coursedescription": "This course focuses on the lives of native North American women, in traditional societies and in contemporary life, as revealed through their life histories, the recounting of tribal history, legends and myths, art, and contemporary poetry and fiction.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Women's Studies (Intermediate)",
+    "courseid": "WGS280",
+    "coursedescription": "Selected special topics in women's studies at the intermediate level, taught by program faculty and visiting instructors.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Literature and Human Rights",
+    "courseid": "WGS293L",
+    "coursedescription": "This course focuses on literary expressions and representations of the desire for and the crises of human rights. The various literary genres (poetry, fiction, drama, memoir, and essay) evoke the yearning of peoples to be awarded the right to live in safety and with dignity so that they pursue meaningful lives, and these literary genres record the abuses of the basic rights of people as they seek to lead lives of purpose. This course will examine the ways in which the techniques of literature (e.g., narrative, description, point of view, voice, image) compel readers' attention and bring us nearer to turn to human rights abuses and peoples' capacities to survive and surmount these conditions.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Human Rights",
+    "courseid": "WGS295L",
+    "coursedescription": "This is a collaboratively taught interdisciplinary course on a variety of issues related to Human Rights as discourse and practice. It covers the emergence and institutionalization of human rights discourse in the 20th century, and examines its transformations and extensions into various social, economic, political and cultural realms globally. Topics include critique of Western and normative human rights, policies of indigenous people and women's rights, and cognitive and practical implementations of human rights.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Women in African Cultures",
+    "courseid": "WGS300L",
+    "coursedescription": "This course challenges stereotypical constructions of Africa and African woman in mainstream media by considering internal and external historical relationships that have shaped and redefined the cultures, ideas, institutions, politics, and social relations of several specific groups of African women. Through a multi-disciplinary approach, the course addresses issues and challenges of contemporary Africa, and explores many of the themes and concerns that have run throughout Africa's gendered, complex, and changing history. Popular culture sources, as well as scholarly studies and activist writing, will be employed to help illuminate the lived experiences and perspectives of contemporary women living in various African societies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sexual Identities in American Culture",
+    "courseid": "WGS325L",
+    "coursedescription": "This course studies the history of sexual identities in the twentieth-century United States, with a particular emphasis upon the history of lesbian, gay, bisexual, and transgender identities, through the study of cultural texts such as novels, songs, films, and poems. Topics covered in the course include homosexuality in the turn-of-the-century United States, sex in the Harlem Renaissance, sexual politics in the Depression years, purges of gay women and men in federal employment during the cold war and sexual liberation in the 1960s and 1970s.",
+    "course-prerequsities": [
+      "ENGL 102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Gender and Film: Multidisciplinary Perspectives",
+    "courseid": "WGS341L",
+    "coursedescription": "This course is designed to encourage multidisciplinary analysis of gender, cultural representations, and film in the 20th and early 21st century. Among the topics that students will explore are: ethnographic film and gendered practices in ethnographic filmmaking; how ideologies of gender, \"race,\" and class are constructed, disseminated, and normalized through film (documentary as well as \"popular\" film); Indigenous women and filmmaking in North America; femininities, masculinities, and power in the \"horror film\" genre; human rights film and filmmaking as activism. Students will view films made in diverse locations and reflecting multiple historical, political, and cultural perspectives and will explore the intellectual, political and social significance of film in their own lives.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Gender, Religion and Politics in South Asia",
+    "courseid": "WGS345L",
+    "coursedescription": "This course explores the relationship of gender to religious politics in South Asia particularly in the context of liberation movements of the past and current modernization, development and globalization schemes. It examines how ideal images of masculinity, femininity and religious practice are reworked by various actors in the service of anti-colonialist, nationalist, and community struggles. The course highlights the complex ways religious and nationalist politics have created opportunities for women's activism while simultaneously undermining their autonomy.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Gender, Development, &Globalization",
+    "courseid": "WGS355L",
+    "coursedescription": "This interdisciplinary course explores women, gender, globalization and development theories, and their relationship to policy and practice. The politics of representation and the relationship between knowledge production and power will be running themes throughout the course. We will also discuss how gender intersects with race, class, nation, sexuality, (dis)ability, regional location, and other aspects of identity. We will answer questions such as: How do we theorize women, gender, masculinity in development discourse\"? How has development knowledge defined both women and men from the: Third World/Developing Countries/The Global South? How have local and transnational advocacy organizations and movements resisted this impact?",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Gender, Culture, and Power",
+    "courseid": "WGS360",
+    "coursedescription": "Feminist and other critical approaches in anthropology have challenged prevailing Western assumptions about the categories for woman and man. Such studies reveal that power infuses gender identities and gender relations in profound ways. This course provides an overview of anthropological studies of gender, cultural, and power, with special attention to the construction and contestation of gender in varied cultural contexts.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sex and the City: The Politics of Race, Sexuality, and Mobility",
+    "courseid": "WGS373",
+    "coursedescription": "How do race, gender, and sexuality inform, enable or prevent people's relationship to different forms of mobility (migration, embodiment, detention) in urban spaces? This course explores concepts, theories, and histories of race, gender, and sexuality through the lens of mobility. Some of the core questions of this class include: How do constructions of race, gender, and sexuality inform, enable, or prevent people's freedom of movement and mobility in the modern world? While mobility between or within nations (immigration, travel, global trade) is romanticized as positive and liberating, what borders, bans, and walls impact the human rights of marginalized communities (ie refugees, migrant workers, queer and trans communities of color) to move freely? While this course investigates forms of structural oppression that limit mobility (including disability access, gender discrimination, and incarceration), we will also witness how self-narratives created by and for LGBTQ, immigrant, Black, Indigenous, and people of color communities work to transform individual and collective mobilities. Course texts include literature, films, and scholarship from interdisciplinary fields including gender and sexuality studies, cultural studies, geography, and ethnic studies. This course pays special attention to how formations of gender and sexuality intersect with the social categories of race, ability, and national belonging; it also considers how the universal human right to mobility is experienced differently based on one's intersectional identities of race, sexuality, gender, and class.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Women of Color",
+    "courseid": "WGS376L",
+    "coursedescription": "This course offers interdisciplinary and cross-cultural perspectives on a variety of theories, themes, and issues related to the experiences of women of color in both U.S. and global contexts. It examines the genealogies, practices, and agendas of women of color \"feminisms,\" and promotes a dialogue about the interactive impact of race, class, and gender on women's lives.AMST 376L and WGS 376L are the same course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Radical Voices of Resistance: Gender, Race and US Social Movements",
+    "courseid": "WGS394L",
+    "coursedescription": "This class explores activist engagements in several interrelated social movements in the U.S. throughout the 19th, 20th and 21st centuries. Through reading and discussion of primary documents, biography, and historical research, we analyze the motivations and strategies of women activists in tension with gendered and racialized expectations and practices in historical context.",
+    "course-prerequsities": [
+      "ENGL101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Topics in Human Rights",
+    "courseid": "WGS401",
+    "coursedescription": "This seminar aims to provide students with a deeper knowledge of human rights as both an intellectual discourse and a realm of political action. The first part of the course deals with the emergence and institutionalization of human rights in the 20th century. Beginning with an overview of its roots in political theory, moving to the first and second generation of rights, to debates over universality and cultural relativism and ending with exploration of human rights frameworks' applicability and implications across nations and cultures, the course offers an in-depth interdisciplinary understanding of the field and its practices. Topics of study include torture, genocide, race gender and law, visual culture, humanitarian intervention, and protection.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Queer of Color Critique",
+    "courseid": "WGS420",
+    "coursedescription": "This course examines the emergent theoretical field of queer of color critique, a mode of analysis grounded in the struggles and world-making of LGBTQ people of color. Activists, artists, and theorists have mobilized queer of color critique to interrogate the intersections of race, gender, sexuality, class, nation, and diaspora as a response to the inherent whiteness of mainstream queer theory and persistent heterosexism in ethnic studies. Students will gain an understanding of queer of color critique as a humanistic method of inquiry that includes the analysis and interpretation of ideas and symbolic expression. We will examine the development of queer of color critique (primarily in the United States) through both academic and activist domains; consider what queer theory has to say about empire, citizenship, prisons, welfare, neoliberalism, and terrorism; and articulate the role of queer of color analysis in a vision for racial, gender, sexual, and economic justice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "WGS479",
+    "coursedescription": "Study of a particular area of this subject under the supervision of a faculty member. Students wishing to register must do so through the department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Women's Studies",
+    "courseid": "WGS490",
+    "coursedescription": "A seminar which must be taken concurrently with WGS 491. Internship students apply their theoretical understandings in women's studies to practical experiences in supervised volunteer work. Topics include theoretical issues relevant to placements in a human service agency or social change organization; evaluation of basic skills learned in field work; and career development exercises. An oral presentation and two papers are required. Topics are integrated with discussions of students' on-site work.",
+    "course-prerequsities": [
+      "WGS 491"
+    ],
+    "course-corequisites": [
+      "WGS 491"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Internship Placement",
+    "courseid": "WGS491",
+    "coursedescription": "For eight to fifteen hours each week, students participate, usually on a volunteer basis, in a supervised field placement with a women's organization, alternative institution, or an agency offering services to women and the family. Students must secure their placement one month prior to the beginning of the semester in which they plan to enroll in the course.",
+    "course-prerequsities": [
+      "WOST 490"
+    ],
+    "course-corequisites": [
+      "WOST 490"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Honors Paper Tutorial",
+    "courseid": "WGS499",
+    "coursedescription": "A continuation of WGS 498. The honors student works on writing the honors paper under the supervision of a faculty advisor. The student receives a grade for each semester of work, but honors in women's studies will be awarded only to those who have written and presented an extended honors paper of high distinction (as evaluated by the honors committee).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Topics in Human Rights",
+    "courseid": "WGS501",
+    "coursedescription": "This seminar aims to provide students with a deeper knowledge of human rights as both an intellectual discourse and a realm of political action. The first part of the course deals with the emergence and institutionalization of human rights in the 20th century. Beginning with an overview of its roots in political theory, moving to the first and second generation of rights, to debates over universality and cultural relativism and ending with exploration of human rights frameworks' applicability and implications across nations and cultures, the course offers an in-depth interdisciplinary understanding of the field and its practices. Topics of study include torture, genocide, race gender and law, visual culture, humanitarian intervention and protection.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Seminar in Gender, Power, Politics/Graduate Consortium in Women's Studies",
+    "courseid": "WGS581",
+    "coursedescription": "This course investigates theories, methodologies and practices of feminist inquiry in the social sciences. We look at the many ways in which feminist scholarship has sought to understand and theorize power and politics. It is designed as a seminar for students who are motivated to think critically about a range of issues related to gender and politics and relations of power. It introduces students to feminist theoretical frameworks for thinking about power, as well as to empirical explorations of a variety of key topics within the larger field of gender and politics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Seminar in Gender, Culture, Society/Graduate Consortium in Women's Studies",
+    "courseid": "WGS583",
+    "coursedescription": "This course investigates theories, methodologies and practices of feminist inquiry in the humanities. We look at the many ways in which feminist scholarship has sought to understand and theorize society and culture. It is designed as a seminar for students who are motivated to think critically about a range of issues related to gender and socio-cultural norms, institutions and relations of power. It introduces students to interdisciplinary and intersectional perspectives to knowledge, agency, social and structural inequalities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Feminist Inquiry: Strategies for Effective Scholarship/Graduate Consortium in Women's Studies",
+    "courseid": "WGS591",
+    "coursedescription": "This course investigates theories and practices of feminist inquiry across a range of disciplines. Doing feminist research involves rethinking disciplinary assumptions and methodologies, developing new understandings of what counts as knowledge, seeking alternative ways of understanding the origins of problems/issues, formulating new ways of asking questions and redefining the relationship between subjects and objects of study. The course will focus on methodology, i.e., the theory and analysis of how research should proceed. We shall be especially attentive to epistemological issues--pre-suppositions about the nature of knowledge and in their connections to methodologies and research methods. Further, we shall explore how these connections are formed in the traditional disciplines and raise questions about why they are inadequate and / or problematic for feminist inquiry.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

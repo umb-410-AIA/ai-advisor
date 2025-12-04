@@ -1,0 +1,184 @@
+[
+  {
+    "coursename": "Introduction to Theatre",
+    "courseid": "THRART100",
+    "coursedescription": "This course introduces the collaborative art of theatre from the varied perspectives of playwright, director, designer, technician, actor, critic, and informed audience.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theatre Practicum 1",
+    "courseid": "THRART105",
+    "coursedescription": "This course is first in a series of four required courses in the practical study of production, performance, or theatre management. These elements will be studies through hands on work on UMass Boston Theatre productions by the student with theatre professionals (UMass Faculty and Guest Artists) and other students. The laboratory for study is the theatre and its support areas at UMass Boston. A student should think of this course as an applied laboratory in production theatre.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Costume Construction",
+    "courseid": "THRART122",
+    "coursedescription": "Students will study fundamental techniques in the area of costume construction. The course topics covered will include but are not limited to: sewing machine use, maintenance, industrial serger use, and hand sewing techniques. The primary focus of the class is building necessary skills to construct basic garments and understanding the relationship between the designer sketch and the finished project.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course topics covered will include but are not limited to: sewing machine use, maintenance, industrial serger use, and hand sewing techniques."
+      ]
+    }
+  },
+  {
+    "coursename": "Theatre Crafts I",
+    "courseid": "THRART123",
+    "coursedescription": "An introduction to an exploration of stage facilities and skills, emphasizing skill development in the uses and choices of tools, materials, and procedures necessary for scenic and property execution.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Theatrical Design",
+    "courseid": "THRART125",
+    "coursedescription": "This course will introduce students to the design elements used in theatre to present a play visually. Students will learn how to use visual design to create the world of the play and communicate the story to the audience. Students will additionally learn how to explain their designs to other theatre artists, the director, and other designers for implementation onstage.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Acting",
+    "courseid": "THRART136",
+    "coursedescription": "This is an introductory course in the fundamentals of acting for non-theatre arts majors. Students explore storytelling through imagination, character, and a basic approach to text through action. Through exercises, improvisations and scene study, students establish a working vocabulary and acquire the basic skills of the acting process.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theatre History: 1660-Present",
+    "courseid": "THRART202",
+    "coursedescription": "Theatre is endemic to the human condition. Every culture, throughout recorded history, has created forms of performance to satisfy the mimetic instinct. Naturally, the types of performance we find in various places and times demonstrate very different structures and functions, answering the particular needs of the cultures that created them. This course will survey the development of theatre from 1660 to the present. In addition to reading plays, we will consider such issues as the physical form of the stage, various approaches to acting, the changing constitution of audiences, and costume history, all with a mind to exploring the socio-historical forces that influenced the development of the theatre.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theatre Practicum 2",
+    "courseid": "THRART205",
+    "coursedescription": "This course is second in a series of four required courses in the practical study of production, performance, or theatre management. These elements will be studies through hands on work on UMass Boston Theatre productions by the student with theatre professionals (UMass Faculty and Guest Artists) and other students. The laboratory for study is the theatre and its support areas at UMass Boston. A student should think of this course as an applied laboratory in production theatre. This second course allows the student to assume a more responsible role within the theatre production team and gain further understanding of the craft.",
+    "course-prerequsities": [
+      "THRART 105"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Playwriting I",
+    "courseid": "THRART251",
+    "coursedescription": "Writing for the theatre, including examinations of model one-act and three-act plays by major contemporary writers; selected readings on the craft of playwriting; and the completion of an original play begun in class.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Improvisation and the Art of Comedy",
+    "courseid": "THRART260L",
+    "coursedescription": "Improvisation and the Art of Comedy is a theatre arts and cinema studies course that allows students to explore, study and perform popular forms of Improvisation and Comedy in theatre and film. The class provides the physical performance training and academic study necessary to pursue the craft of creating comedy in theatre and film performances and improvisational comedy. Students will find this class helps them in basic life skills and professional skills spanning a wide variety of fields.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Acting for the Camera",
+    "courseid": "THRART265L",
+    "coursedescription": "An exploration and evaluation of techniques of television production, with particular emphasis on common industry practices.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Screen and Television Writing",
+    "courseid": "THRART275L",
+    "coursedescription": "An introduction to the art and the technical aspects of writing scripts for film and television. Involves analyses of screenplays, study of screen writers past and present, the relationship between director and writer, aesthetics of film writing. Project: the completion of a full-length screenplay from first treatment (synopsis) through first and second drafts and final script.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theatre Practicum 3",
+    "courseid": "THRART305",
+    "coursedescription": "This course is third in a series of four required courses in the practical study of production, performance, or theatre management. These elements will be studies through hands on work on UMass Boston Theatre productions by the student with theatre professionals (UMass Faculty and Guest Artists) and other students. The laboratory for study is the theatre and its support areas at UMass Boston. A student should think of this course as an applied laboratory in production theatre. This third course allows a student to focus on a particular element of theatre with assignments at a high level such as crew leader, designer or stage manager, and it may require a declared concentration and course study. The Theatre Production Advisory (TAPA) will vet all leadership positions.",
+    "course-prerequsities": [
+      "THRART 205"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Movement for the Actor",
+    "courseid": "THRART324",
+    "coursedescription": "An introduction to the styles and techniques of movement for the stage, including characterization movement and movement used to develop stage presence.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Acting 2",
+    "courseid": "THRART336",
+    "coursedescription": "This course focuses on intermediate acting training that builds upon Acting 1. Students practice extensive scene study, script analysis, character development and ensemble acting. Students will learn concepts of modern acting theories and apply them to scenework, honing partnering skills and rehearsal techniques. Students continue to practice performance and audition skills and to develop a personal artistic process.",
+    "course-prerequsities": [
+      "THRART 236"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Costume Design",
+    "courseid": "THRART361",
+    "coursedescription": "A theoretical approach to the practice of designing costumes for the theatre; from proper research compilation to creative sketch presentation. The course introduces the relevance of cultural representation, and the use of design elements such as color, scale, silhouette, fabric choices, etc., as they apply to character and story-telling on stage",
+    "course-prerequsities": [
+      "THRART 122"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theatre Practicum 4",
+    "courseid": "THRART405",
+    "coursedescription": "This course is final course in a series of four required courses in the practical study of production, performance, or theatre management. These elements will be studies through hands on work on UMass Boston Theatre productions by the student with theatre professionals (UMass Faculty and Guest Artists) and other students. The laboratory for study is the theatre and its support areas at UMass Boston. A student should think of this course as an applied laboratory in production theatre. Sutdents should use this course as a capstone or portfolio project as they will be given an assignment in their area of theatre. This assignment is to be the culmination of a student's studies in a particular area of theatre over his/her college career. The Theatre Production Advisory (TAPA) will vet all leadership positions.",
+    "course-prerequsities": [
+      "THRART 305"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theatre Arts Internship",
+    "courseid": "THRART435",
+    "coursedescription": "Designed to enable theatre arts majors to earn 3-6 credits for a semester's internship in communication arts or in commercial or other working theatres outside the university.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "THRART478",
+    "coursedescription": "Open only to a limited number of students in any one semester. Research, study and participation in theatre projects outside the classroom involving consultation with a faculty advisor. A written prospectus is required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "THRART479",
+    "coursedescription": "Open only to a limited number of students in any one semester. Research, study and participation in theatre projects outside the classroom involving consultation with a faculty advisor. A written prospectus is required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Selected Topics",
+    "courseid": "THRART481",
+    "coursedescription": "The study of different areas within the field of theatre arts preparation. Courses vary each semester and are announced during pre-registration periods.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "coursename": "Introduction to Computers and Information Systems",
+    "courseid": "MSIS110",
+    "coursedescription": "Introduces systems thinking principles, computers, information systems, and their use in business decision making. Topics include management information systems concepts and components, issues involving information management, productivity software tools. The course offers an extensive hands-on component in the use of state-of-the-art technology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Managerial Statistics",
+    "courseid": "MSIS111L",
+    "coursedescription": "Provides the student with the basic statistical techniques needed for business decision making in areas such as operations management, quality improvement, marketing research, finance, and general management. The course examines collection and presentation of data, frequency distributions, basic probability, statistical inference, and regression. Students use statistical software for data presentation and analysis.",
+    "course-prerequsities": [
+      "MSIS 110"
+    ],
+    "course-corequisites": [
+      "MSIS 110"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Managerial Decision Making",
+    "courseid": "MSIS212",
+    "coursedescription": "Provides the student with knowledge of more advanced decision making tools building upon the skills developed in MSIS 110 and MSIS 111. The emphasis of this course is on using management information systems and quantitative analysis tools to improve the quality of managerial decision making. Topics include decision theory and analysis, optimization, simulation, and forecasting. Students use advanced functions in spreadsheet packages and decision support software for analysis of practically oriented problems in various management setting.",
+    "course-prerequsities": [
+      "MSIS 110",
+      "IT 110",
+      "IT 111L",
+      "MATH 125",
+      "ECON 205",
+      "PSYCH 270",
+      "370",
+      "SOCIOL 350"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Relational Databases",
+    "courseid": "MSIS230L",
+    "coursedescription": "This course provides a thorough review of basic relational database concepts and how to apply these concepts to a variety of application problems. The course focuses on the use and properties of relational database management systems. Topics covered include DBMS architecture levels, data modeling, data definition and manipulation capabilities of Structured Query Language programming, and programming techniques for accessing relational databases.",
+    "course-prerequsities": [
+      "MSIS 110",
+      "IT 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Operations Management",
+    "courseid": "MSIS301",
+    "coursedescription": "Introduces the student to the concepts and techniques used by organizations to support their fundamental task of producing goods and services. This course includes a balanced view of the manufacture of tangible goods and the production of less-tangible services. Topics covered include product and process strategy, quality management, production planning for manufacturing and for service organizations, and inventory management. The course also includes an examination of the interactions of operations management, quantitative decision making techniques, and information technology. Students use management science techniques and software to examine a wide variety of operations management problems.",
+    "course-prerequsities": [
+      "MSIS 110",
+      "IT 110",
+      "MSIS 111",
+      "ECON 205",
+      "MATH 125",
+      "PSYCH 370",
+      "SOCIOL 350",
+      "MSIS 212"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Coding for Business",
+    "courseid": "MSIS310",
+    "coursedescription": "This course introduces students to graphical and procedural coding concepts using modern programming languages. The emphasis is on developing algorithms to solve a wide variety of business problems, and geared to students with no prior exposure to computer science or coding. It teaches students to think logically, and potentially advance on to further programming courses.",
+    "course-prerequsities": [
+      "MSIS 110",
+      "IT 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Coding for Analytics",
+    "courseid": "MSIS415",
+    "coursedescription": "An increasing number of businesses are seeing values in data and seeking talents for data analytics. This course aims to teach how the write codes to implement data pre-processing, machine learning models, predictive analysis, and visualization. Useful packages that are closely related to analytics will be introduced to equip students with necessary toolkits for processing and analyzing data. The course is designed to train students as experts in analytics with sufficient coding skills.",
+    "course-prerequsities": [
+      "MSIS 310",
+      "IT 116",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Project Management",
+    "courseid": "MSIS425L",
+    "coursedescription": "Covers techniques and managerial concepts of project management. This course prepares students to manage either complex physical projects or complex software development projects. Topics presented in this course include project life cycles, economic analysis of projects, work breakdown structure, cost estimation, and the scheduling, staffing, directing, and controlling of projects. The course also covers the use of management science techniques and computer software for project management.",
+    "course-prerequsities": [
+      "MSIS 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Information System Security",
+    "courseid": "MSIS428L",
+    "coursedescription": "This course provides a broad overview of the threats to the security of information systems, the responsibilities and basic tools to ensure information security, and the levels of training and expertise needed in organizations to reach and maintain a state of acceptable security. Students will learn and understand the key issues associated with protecting information assets, determining the levels of protection and response to security incidents, and designing a consistent, reasonable information security system, with appropriate intrusion detection and reporting features.",
+    "course-prerequsities": [
+      "MSIS 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Supply Chain Management",
+    "courseid": "MSIS454L",
+    "coursedescription": "This course teaches the leading-edge tools and techniques that enable the management of an organization to create sustainable profitable growth by managing the entire supply chain. A supply chain consists of suppliers, manufacturing centers, warehouses, distribution centers, and retail outlets. Supply chain management involves the full synchronization of market demand with flows of materials, information, other resources, and finished products through the entire system of raw materials to retail. The goal of supply chain management is to ensure that merchandise is produced and distributed a the right quantities, to the right locations, at the right time, satisfying service-level requirements while minimizing system-wide costs. Use is made of mathematical and information systems modeling techniques for supply chain management.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MSIS 301"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Systems Analysis and Design",
+    "courseid": "MSIS461L",
+    "coursedescription": "Introduces recent approaches to the analysis and design of computer information systems, including the hands-on use of computer aided software engineering (CASE) tools. The changing role of the systems analyst in both operations and systems applications in today's organizations is examined. The course critically analyzes systems development methodologies, including life cycle models and prototyping; reviews user-led developments and current approaches which facilitate user-developer collaboration; discusses effective diagramming and notational techniques now available to define and document functional requirements and operational business processes; and examines current methods used to test and evaluate the accuracy, completeness, and usability of documented requirements and convert them into efficient systems design or re-engineering processes. Topics include CASE tools, module and transaction design, human-computer interfaces, and system configuration. This course includes practical experience in analyzing and designing an organizational application. It discusses the concept of quality as applied to information systems and business process redesign as well as the role of information systems in managing quality within an organization.",
+    "course-prerequsities": [
+      "MSIS 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Management Science and Information Systems Internship",
+    "courseid": "MSIS480",
+    "coursedescription": "Provides students with opportunities for full- or part-time work experience in a management science and information systems setting. On-site supervisors and faculty sponsors provide guidance and supervision for each intern.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "College of Management Honors Thesis Seminar",
+    "courseid": "MSIS499",
+    "coursedescription": "The CM honors research seminar and thesis Program is a two-semester course sequence. In this seminar, students successfully complete a research while working closely with a faculty advisor to define the project, which builds upon work completed in the per-requisite course, CM Honors Research Seminar. The honors thesis project stretches and grows a student's capabilities. Therefore, the program is structured around a series of assignments and milestones during which students will work with guidance from a faculty advisor and program coordinator toward a project that meets course goals.",
+    "course-prerequsities": [
+      "SCSM 498",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Business Data Communications & Computer Networks",
+    "courseid": "MSIS614",
+    "coursedescription": "This course develops a managerial level of technical knowledge and terminology for data, voice, image, and video communications and computer networks to effectively communicate with technical, operational and management personnel in telecommunications. Students are expected to understand the concepts, models, architectures, protocols, standards, and security for the design, implementation, and management of digital networks and apply data communications concepts to situations encountered in industry; learn general concepts and techniques of loc area networks (LAN), wireless local area networks (WLAN), and wide area networks (WAN); and understand the technology of the Internet and the regulatory environment. Other topics introduced include network operating systems, e-commerce and associated web sites and practices, as well as middleware for wireless systems, multimedia, and conferencing.",
+    "course-prerequsities": [
+      "MBAMS 640",
+      "MSIS 640"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Business Programming",
+    "courseid": "MSIS615",
+    "coursedescription": "This course is designed to provide students with essential programming skills in current business and analytical world. It exposes students to selected modern programming topics such as object-oriented programming (OOP), functional programming (FP), database integration, web APIs, and mobile/location based system programming. Students will learn how to program to solve analytical business problems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Management of the Supply Chain",
+    "courseid": "MSIS617",
+    "coursedescription": "This course examines how to create opportunities for revolutionizing manufacturing and logistics, with increased efficiencies in designing, operating, and managing supply chains. This course will present state-of-the-art models and practical tools for supply chain management and multi-plant coordination. Sessions focus on effective logistics strategies for companies operating in several countries and on the integration of supply chain components and their associated information workflows into a coordinated system to increase service levels and to reduce costs. The effective use of the Internet and developments in information systems and communication technologies are presented with real-world case studies that illustrate and analyze important concepts, such as strategic partnering and outsourcing.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Database Management",
+    "courseid": "MSIS618",
+    "coursedescription": "This course introduces the fundamental concepts necessary for the design, use, and implementation of database systems. The course stresses the fundamentals of database modeling and design, the languages and facilities provided by database management systems, and the techniques for implementing relational database systems. Upon completion of the course, the students will be able to use Entity-Relationship Diagrams as a tool to assist in logical database design, be able to design logical databases in third normal form, be able to identify current issues in the uses of database management systems, be able to identify issues in physical database implementation, and gain familiarity with industrial-strength database management systems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Systems Analysis and Design",
+    "courseid": "MSIS619",
+    "coursedescription": "This course introduces the software development life cycle with a specific focus on the analysis and logical design of information systems that support organizations' business and data-processing needs. The course covers object-oriented methods and contemporary software development approaches such as Agile methodology. Particular emphasis is on system feasibility, requirement gathering, and data modeling. Hands-on projects focusing on Unified Modeling Language (UML) and Computer Aided Software Engineering (CASE) tools to design systems solving real-world problems are an integral part of the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Network and Mobile Forensics",
+    "courseid": "MSIS623",
+    "coursedescription": "This course deals with the collection, preservation, and analysis of network generated digital evidence such that this evidence can be successfully presented in a court of law (both civil and criminal). The course provides a comprehensive understanding of network forensic analysis principles as well as an introduction to mobile (i.e. Cell-phone/PDA) forensics. Within the context of forensics security network infrastructures, topologies, and protocols are introduced. Students will understand, learn, and experience the relationship between network forensic analysis and network security technologies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Cybersecurity and Forensics",
+    "courseid": "MSIS629",
+    "coursedescription": "This course provides students with how to conduct forensic investigation of digital devices. Students have hands-on-experience on cyber forensics with a virtual machine. The course introduces EnCase forensic software, which is widely received in cyber security industry and a court of law. Students will be prepared to manage organizational cyber security incidents. This course includes forensics tools, methods, and procedures used for investigation of computers, techniques of data recovery and evidence collection, protection of evidence, and cybercrime investigation techniques. It also includes analysis of forensic data and specialized diagnostic software used to retrieve data.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Project & Change Management",
+    "courseid": "MSIS630",
+    "coursedescription": "This course provides an understanding on how to manage projects in the context of change. The course discusses concepts and techniques in project management such as planning, scheduling and implementation. It also provides students with an understanding of change management as relevant to project management in a dynamic organizational environment. The course also develops an understanding of the software tools employed for project management. It applies the concepts and software to hypothetical and real world cases.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Multivariate Statistics and Regression Analysis",
+    "courseid": "MSIS642",
+    "coursedescription": "The goal of this course is to develop statistical data analysis skills in business analytics applications. This course introduces the fundamental concepts and applications of regression analysis, such simple linear regression, multiple regression, binary dependent variable regressions, panel data regression, logistic regression, time series analysis, and some issues that we might face during those applications such as estimation, inference etc. This course will be the foundation for applied quantitative research for for business analysts, practical business research or graduate level studies. During the semester-long course, students learn how to run regression analysis using statistical packages.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Decision and risk analysis",
+    "courseid": "MSIS643",
+    "coursedescription": "Decision and risk analysis combine elements of probability, economics, logic, psychology and domain knowledge to characterize and analyze complex decision problems. Practitioners in this discipline apply mathematical and computational decision support tools grounded and, methods for populating models. A large number of applied models are available for different real-world problems or problem classes. Students will gain familiarity with the basic theory and methods from classic and recent texts, and will examine some real world applications from recent journal publications. There will be particular focus on connections between the approaches covered and developments in information systems and in analytics. The course will involve portions of problem sets and projects.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Enterprise Business Intelligence",
+    "courseid": "MSIS670",
+    "coursedescription": "Enterprise Business Intelligence (BI) has become critical in all businesses for their intelligent and effective decision-making. The overarching objective of this course is to help students develop both the conceptual understanding and the practical skills of enterprise BI solutions. Through this course, particularly, students will learn how to design and implement organizational capabilities for various BI processes and their related technologies or tools, ranging from enterprise data management to advanced BI technologies (e.g., NLP, machine learning, AI). This course also helps students develop practical BI skills for data visualization. Through intensive hands-on practices and semester project engagement, students will learn how to transform business data into insightful and interactive visuals to solve specific business problems, especially by utilizing one of the most commercially successful BI tools, i.e., Tableau. Overall, the course will benefit students in the short term by helping them get highly marketable skills and in the long term by developing their understanding of data, analytics, and BI practices and solutions, which are critical for building intelligent enterprises.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Enterprise Data Warehousing for Business Intelligence",
+    "courseid": "MSIS671",
+    "coursedescription": "This course provides a comprehensive overview of data warehousing together with an in-depth treatment of planning, design, deployment, and ongoing maintenance issues. Students will gain a clear understanding of techniques for data extraction from source systems, data cleansing, data transformations, data warehouse architecture and infrastructure, and information delivery. Topics include data marts, real-time information delivery, data visualization, requirements gathering methods, multi-tier architectures, OLAP applications, Web clickstream analysis, data warehouse appliances, and data mining techniques. Includes hands-on exercises in commercial data warehousing modeling and implementation tools and perform case analysis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Machine Learning",
+    "courseid": "MSIS672",
+    "coursedescription": "Machine learning has revolutionized how we approach data analysis, decision-making, and problem-solving in today's data-driven world. This course serves as a gateway to essential machine learning concepts and principles. It aims to acquaint students with diverse machine-learning techniques and algorithms, teach the practical application of machine learning in real-world problems, and nurture critical thinking and problem-solving abilities in data-driven decision-making. This is a hands-on course. During the semester-long course, students learn how to solve a business problem using machine learning tools (e.g., Python).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Machine Learning and Artificial Intelligence",
+    "courseid": "MSIS680",
+    "coursedescription": "This advanced course delves deep into the fascinating world of Machine Learning (ML) and Artificial Intelligence (AI). In an era where digital data is proliferating from various sources such as social media, user-generated content, and the financial market, deriving insights from this data extends far beyond basic spreadsheet analysis. This course covers the unique characteristics of different data types and the practical skills you'll need to manipulate and analyze them. Moreover, we will explore principles and practices of advanced machine learning techniques, including ensemble methods, social network analysis/graph mining, natural language processing (NLP), time-series forecasting, deep learning (NN), and Large Language Models (LLM). The goal is to facilitate students' ability to navigate through diverse data types and derive insights from the data using state-of-the-art machine learning techniques.",
+    "course-prerequsities": [
+      "MSIS 615",
+      "MSIS 672"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Big Data Analytics",
+    "courseid": "MSIS685",
+    "coursedescription": "With the surge of the Internet, social networking, and IoT technologies, there's an unprecedented influx of data accessible to individuals and organizations alike. Effectively utilizing this data is vital for businesses aiming to thrive in the contemporary big data domain. However, collecting, storing, and analyzing this data isn’t straightforward and requires specific tools and skills. This course delves into the principles and methods for effective data collection, storage, processing, and analysis, with a specific emphasis on handling large datasets. The goal is to help students acquire practical knowledge of big data technologies while familiarizing them with related tools, applications, and platforms. Through this course, students will gain a deeper understanding of both the challenges and opportunities in the big data realm, and gain hands-on experience on big data analytics.",
+    "course-prerequsities": [
+      "MSIS 615",
+      "MSIS 618"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

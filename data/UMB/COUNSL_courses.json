@@ -1,0 +1,144 @@
+[
+  {
+    "coursename": "Principles of Vocational, Educational, and Psychological Assessment",
+    "courseid": "COUNSL605",
+    "coursedescription": "The course provides a survey of standardized tests used in assessing aptitudes, interests, and personality traits. The course covers technical and methodological principles and social, ethical, and legal implications of psychological testing and assessment.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course provides a survey of standardized tests used in assessing aptitudes, interests, and personality traits."
+      ]
+    }
+  },
+  {
+    "coursename": "Counseling Theory and Practice II",
+    "courseid": "COUNSL615",
+    "coursedescription": "This course is an extension of Counseling Theory and Practice I. Major theoretical approaches (dynamic, humanistic, behavioral) are considered. The course also involves the exploration of some non-traditional approaches and the use of tape recordings, films, written records of interviews, and role playing.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Group Counseling and Group Dynamics",
+    "courseid": "COUNSL616",
+    "coursedescription": "This course provides an introduction to group dynamics that uses the group process of the class to provide experience of group membership and data for interpretation. Participation as a group member is required. Readings and lectures build a cognitive base for evaluating experiential learning.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Child and Adolescent Counseling",
+    "courseid": "COUNSL617",
+    "coursedescription": "This course focuses on facilitating the unique development and emotional growth of children through the counseling process. The course is designed to enhance students' theoretical and practical understanding of the major schools of child psychotherapy. Emphasis is given to a multidimensional view of intervention, with attention to developmental, cognitive, behavioral, educational, multicultural, and environmental issues. Through lectures, videotapes, and structured exercises, students learn a distinct group of interventions, including play and communication skills, as integral components of the therapeutic process.",
+    "course-prerequsities": [
+      "COUNSL 614"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Life Span Human Development",
+    "courseid": "COUNSL620",
+    "coursedescription": "This course provides students with a comprehensive view of lifespan development from childhood through adulthood from several perspectives: 1) the interaction of age with such factors as gender, cultural background, disabilities, and other significant issues encountered at particular stages of life; 2) how individuals at specific stages of cognitive development process information and experience; and 3) a structural approach to ego development.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Collaborative Consultation in Schools",
+    "courseid": "COUNSL632",
+    "coursedescription": "This course provides a theoretical foundation and practical skills in consultation designed to prepare students to apply their professional preparation in education and psychology to solve problems in school settings. Consultation is viewed as a process of collaboration, intervention, and evaluation. An eco-behavioral model of consultation is emphasized. Case studies are used to develop analytical and problem-solving skills. Issues involved in serving diverse student populations are examined. The course is intended to foster an identity as a caring, dedicated, principled, and respectful consultant committed to social justice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Group Counseling for Children and Adolescents",
+    "courseid": "COUNSL650",
+    "coursedescription": "This course studies group counseling and group process with children, adolescents, and their families. Participants acquire knowledge and skills through critical and reflective readings, lecture, discussion, role-plays, interviews, and films. Emphasis is given to theoretical and experiential perspectives, as well as multicultural counseling in competence, to enhance participants' growth and training as thoughtful and responsive practitioners in diverse urban settings. Discussions address such themes as group dynamics, group composition and management, stages of group empowerment, and leadership styles.",
+    "course-prerequsities": [
+      "COUNSL 614"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sociocultural Considerations in Counseling",
+    "courseid": "COUNSL653",
+    "coursedescription": "This course addresses the role of culture in counseling and psychology by looking both at history and at current issues. Discussions use an interdisciplinary framework to approach the question of counseling in a multicultural society. The course seeks to contribute to both the personal and the professional development of its participants.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "College Readiness Counseling",
+    "courseid": "COUNSL660",
+    "coursedescription": "The purpose of this course is to prepare school counselors at all levels of practice to engage in equity-based college readiness counseling. Topics include aspirations and academic planning in elementary and middle school-aged children, the college exploration and selection process, college admissions processes and assessment, financial planning, and resources counselors, students, and parents can use in the process.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Trauma and Crisis Counseling",
+    "courseid": "COUNSL665",
+    "coursedescription": "This course addresses the psychology of trauma in childhood, adolescence, and adulthood, caused by child abuse and neglect, disasters, and complex environmental cultural and socio-political factors. Students learn different approaches to counseling clients who have experienced trauma as well as those in the middle of a crisis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sex and Sexuality in Counseling Practice",
+    "courseid": "COUNSL666",
+    "coursedescription": "Counselors are often unprepared for the kinds of issues that children and adults bring to therapy that focus on sex, sexual identify, and sexual experiences. This course explores various approaches to understanding sex and sexuality in the counseling hour. Students will discuss and analyze historical approaches to issues of sexual function, dysfunction, intimacy, and sexual identity in individuals and couples and families (and to some extent societies). We focus on healthy sexuality but also integrate theory and practice around victimization and sex offending. Students will examine their own sexual histories and understand their own values, biases and assumptions regarding sexuality and sexual functioning, and the potential impact of these issues on their ability to become effective, compassionate therapists.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Substance Abuse in Counseling Practice",
+    "courseid": "COUNSL670",
+    "coursedescription": "This course surveys the broader problems caused by substance abuse in modern society, both presenting and analyzing data. Part of the course is devoted to a study of the physiological consequences of substance abuse. Consideration is also given to the family of the substance abuser, to various treatment modalities, and to the relationship between the criminal justice system and substance abuse rehabilitation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Psychopharmacology for Counselors",
+    "courseid": "COUNSL674",
+    "coursedescription": "This course examines psychopharmacology for counselors and is taught from a social justice perspective. It will provide students with an overview of the medications used for treating mental disorders. The basic principles of pharmacology and the interrelationships between pharmacokinetics and pharmacodynamics will also be addressed. The emphasis is on practical and clinical application. Special topics will include: the nature of alcohol and narcotics and the ways they affect addicts in mind and body before, during, and after treatment as well as psychopharmacological treatment for addictions; informed consent; how to find accurate and balanced information about the efficacy and side effects of psychotropic medications; how to educate my clients about the medications they are taking; how to collaborate with prescribing providers and other mental health professionals. Students will also become conversant with regulatory standards for the approval of new medications. Social justice and bioethical issues will figure predominately in this course with reference to for-profit IRB's, recruitment of marginalized groups such as undocumented immigrants, the homeless, and people living in poverty, and discrepancies in prescription practices.",
+    "course-prerequsities": [
+      "COUNSL 614"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Special topics will include: the nature of alcohol and narcotics and the ways they affect addicts in mind and body before, during, and after treatment as well as psychopharmacological treatment for addictions; informed consent; how to find accurate and balanced information about the efficacy and side effects of psychotropic medications; how to educate my clients about the medications they are taking; how to collaborate with prescribing providers and other mental health professionals."
+      ]
+    }
+  },
+  {
+    "coursename": "Practicum",
+    "courseid": "COUNSL688",
+    "coursedescription": "The purpose of the practicum is to expose the student to his/her particular field in counseling through actual placement in a facility where appropriate supervision is provided. Class discussions include a review onsite observations and experiences and discussions of current issues in the field.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship",
+    "courseid": "COUNSL698",
+    "coursedescription": "Students are placed as apprentice counselors in schools or agencies under the direct supervision of qualified professionals. Students meet weekly for a three-hour seminar.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Practice I and II",
+    "courseid": "COUNSL699",
+    "coursedescription": "This course accompanies a student's Practicum experience (first 7 weeks of first semester) and internship experience (next 7 weeks of first semester through 2nd semester). Students are placed in sites as counselors in training under the direct supervision of licensed and qualified professionals. Students meet weekly for a seminar where they discuss readings, present cases, and are evaluated on their development of counseling skills.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

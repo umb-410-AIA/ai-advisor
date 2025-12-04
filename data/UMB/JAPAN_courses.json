@@ -1,0 +1,76 @@
+[
+  {
+    "coursename": "Intensive Elementary Japanese",
+    "courseid": "JAPAN100",
+    "coursedescription": "An intensive language course that covers the entire elementary level in one semester. Open to all students with no previous academic training in Japanese. Students completing this course satisfactorily will be allowed to enter directly into language courses at the intermediate level.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Elementary Japanese II",
+    "courseid": "JAPAN102",
+    "coursedescription": "This course is a continuation of JAPAN 101, and assumes the knowledge of Japanese covered in it. Students who studied Japanese elsewhere and wish to take the course need to demonstrate a similar level of competency. All four language skills (listening, speaking, reading, and writing) will be covered. In addition to new elements of grammar, students will learn about 50 new kanji.",
+    "course-prerequsities": [
+      "JAPAN 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Japanese II",
+    "courseid": "JAPAN202",
+    "coursedescription": "In addition to new elements of grammar, some real-life Japanese materials such as advertisements, children's stories, and newspaper articles will be occasionally introduced. As in JAPAN 201, we will engage in creative writing and other activities as deemed appropriate.",
+    "course-prerequsities": [
+      "JAPAN 201"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Japanese Theatre",
+    "courseid": "JAPAN260",
+    "coursedescription": "This course is a survey of the rich world of Japanese theatre. We examine such traditional performing arts as No, Kyogen, and Kabuki, as well as more contemporary genres inclusing Takarazuka and Butoh. All readings are in English. All students interested in Japanese culture as well as performance studies are welcome.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "All students interested in Japanese culture as well as performance studies are welcome."
+      ]
+    }
+  },
+  {
+    "coursename": "Advanced Intermediate Japanese II",
+    "courseid": "JAPAN302",
+    "coursedescription": "The elements of grammar covered in this class will focus on causative and causative-passive. Additional general expressions will also be included. Students also further develop the quantity and quality of communicate and writing skills acquired in the previous semesters. When appropriate, authentic material will be used to supplement textbook learning",
+    "course-prerequsities": [
+      "JAPAN 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Food and Culture in Japan: National Identity and Diversity, Past and Present",
+    "courseid": "JAPAN367L",
+    "coursedescription": "This course explores how food and its consumption have been practiced and represented in premodern and modern Japan. Students will learn about the place of food in Japanese society, as well as the less commonly known aspects of Japanese food culture. The preparation, presentation, and consumption of food take place within structures of power. Food is often intimately tied to discourses of nationalism and national identity, yet it can also symbolize the diversity of society, such as regional identity, gendered divisions of labor, or the \"foreign\" and its appropriations. The class will investigate these and other aspects of Japanese food culture through written texts, visual arts, and film, in order to encourage a nuanced, complex, and critical understanding of the place of food in Japan.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "JAPAN379",
+    "coursedescription": "Study of a particular area of this subject under the supervision of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Readings & Research",
+    "courseid": "JAPAN479",
+    "coursedescription": "Primarily for seniors with a GPA of at least 3.0 in their major who wish to pursue a research topic in depth, on ordinarily not available in standard course offerings. A written prospectus detailing the plan of study must be submitted to supervising instructor and department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "coursename": "Introduction to Philosophy",
+    "courseid": "PHIL100",
+    "coursedescription": "An introductory examination of the problems and scope of philosophy.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Moral and Social Problems",
+    "courseid": "PHIL108",
+    "coursedescription": "Important moral and social issues of current concern are examined and debated. The course covers several problems each semester from a list including criminal punishment, war, abortion, racism, violence, the death penalty, private property, sexism, animal rights, the environment, and hunger.",
+    "course-prerequsities": [
+      "PHIL 109G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Moral Debate in Society",
+    "courseid": "PHIL109G",
+    "coursedescription": "This course studies some contemporary problems of social ethics, particularly abortion, the death penalty, affirmative action, and world hunger and global justice. It introduces various positions on these issues, and the justifications that have been offered to support them. This course develops each student's ability to articulate a position clearly and defend it persuasively.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Privacy",
+    "courseid": "PHIL130G",
+    "coursedescription": "This course examines several of the current threats to privacy in the computer age related to drug testing, the assembling of personal information dossiers, genetic screening, privacy on the Internet, medical records, and workplace concerns. It makes use of philosophical, legal, and privacy rights. This course may count toward the major in philosophy.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Philosophy through Film",
+    "courseid": "PHIL140G",
+    "coursedescription": "By using imagery from the medium of film, this course attempts to show how philosophy can interconnect themes and ideas presented by film directors. Film provides the opportunity to consider traditional philosophical problems, but in a manner more reflective of the mode of communication of the age. As an aid to class discussion, students read scholarly papers in conjunction with viewing and examining a film. Central topics include epistemology, moral issues, personal identity, human freedom and the meaning of life.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Critical Thinking",
+    "courseid": "PHIL150",
+    "coursedescription": "This course is an introduction to argumentation and reasoning. It focuses on the kinds of arguments and reasoning one is likely to encounter in public and social debate, scientific and legal settings, as well as in the media. The primary objective of this course is to improve student ability to critically evaluate the arguments of others as well as to construct persuasive arguments of their own. Furthermore, students should leave the course with critical thinking tools that can be applied in nearly every area of study. To this end, the course will explore different forms of arguments, e.g., deductive and inductive arguments, the role of language in arguments and reasoning, numerical and probabilistic reasoning, cognitive and perceptual biases, the scientific method, and social aspects of critical thinking.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "African Philosophy",
+    "courseid": "PHIL200",
+    "coursedescription": "Through a comparison of the concepts of personhood and morality in the United States, the Akan of Ghana and the NSO of Cameroon, this course offers an alternative perspective on such perennial moral, legal and cultural issues as abortion, polygamy and religion.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Meaning of Life",
+    "courseid": "PHIL207G",
+    "coursedescription": "Reading in this course centers around this question: Does life have meaning? If so, what is it? The course considers whether the question is coherent and whether religion, morality or the search for knowledge are possible answers to it. It also considers arguments that life is meaningless. Finally, discussions focus on what the rational attitude toward death should be. This course may count toward the major in philosophy. Capabilities addressed: Critical reading, critical thinking, clear writing.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Modern Philosophy",
+    "courseid": "PHIL212",
+    "coursedescription": "The views of the continental rationalists-Descartes, Spinoza, Leibnitz-and the British Empiricists-Locke, Berkeley, Hume-in relation to general intellectual developments from the Renaissance to the Enlightenment.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Philosophical Foundations of Public Policy",
+    "courseid": "PHIL215",
+    "coursedescription": "This course explores several central philosophical frameworks underlying contemporary public policy debates, including various conceptions of social justice and human rights, utilitarian theory and decision theory. The role of philosophy in public policy will be illustrated through an analysis of such contemporary issues as foreign policy and human rights, tax policy, cost benefit analysis, environmental and health care issues, workfare, world population problems, and the dangerous mentally ill.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The History of Ethics",
+    "courseid": "PHIL216",
+    "coursedescription": "This course focuses on four or five philosophers whose impact on the development of Western thinking about ethics has been substantial, e.g., Plato, Aristotle, Hume, Kant, and Nietzsche. The following are the sorts of questions with which they were preoccupied, and upon which we focus in reading them: Is there a single ideal life which all human beings should strive to live-and if so, what does it consist in? What are the virtues that human beings should exemplify? Why should one live a moral life? Are there objective moral standards-and if so, how does one discover what they are? What roles do reason and the emotions, respectively, play in the moral life? Special attention is given to the role that one's metaphysical views and one's views of human nature play in shaping one's theory of ethics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Major Social and Political Thinkers",
+    "courseid": "PHIL218",
+    "coursedescription": "The primary concern of this course is historical: the elucidation of the political and social theories of some of the major figures of the Western tradition (e.g., Plato, Machiavelli, Hobbes, Rousseau, and Marx). Emphasis is given to the continuing relevance of these philosophers and political scientists.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Philosophy of Religion",
+    "courseid": "PHIL225L",
+    "coursedescription": "This course is an introduction to several fundamental problems and concepts in philosophy of religion. Looking at the major world religions from West to East, the course explores the concepts of God and the Divine, religion and spirituality, mysticism, the role of religious experience and religious language/doctrine, the understandings, forms and aims of religious and spiritual practice, the problem of evil, the relationship of the human being and the divine etc. In the spirit of religious pluralism, this philosophy of religion course is addressed to students of all faiths, as well as agnostics and atheists, who are not afraid to ask challenging questions about what they believe.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Formal Logic",
+    "courseid": "PHIL250",
+    "coursedescription": "The study of valid reasoning using formal methods of proof with truth functions, deductions, and quantifiers. Analysis of the logical structure of language related to philosophical questions of truth, paradox, and reference.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Mystery of Consciousness",
+    "courseid": "PHIL255",
+    "coursedescription": "Consciousness has been described as the last great mystery. In this course students will read philosophers who attempt to clarify why it seems so mysterious, including some who argue that it will never be possible to explain consciousness scientifically. On the positive side, student swill consider philosophical approaches to understanding consciousness in terms of mental representations and will examine how cognitive science has re-conceptualized the role of consciousness in our brains. The course will also look at several interesting scientific discoveries and consciousness and discuss their philosophical significance.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course will also look at several interesting scientific discoveries and consciousness and discuss their philosophical significance."
+      ]
+    }
+  },
+  {
+    "coursename": "Problems of Metaphysics",
+    "courseid": "PHIL347",
+    "coursedescription": "Ideas such as substance, causality, mind and body, and free will, as they appear in several major metaphysical systems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "PHIL381",
+    "coursedescription": "This course offers study of selected topics within this subject.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Marxist Philosophy",
+    "courseid": "PHIL397",
+    "coursedescription": "A philosophical exploration of the thought of Karl Marx, based on a reading of his early and mature works. Topics discussed are idealism and materialism; the relation between theory and practice; dialectic; alienation; ideology; class; the analysis of capitalism; reification; and some contemporary theories, including critical theory and socialist feminism. Other theorists read include Lenin, Engels, Mao Tse Tung, Lukacs, Braverman, EP Thompson, Marcuse, and Gorz.",
+    "course-prerequsities": [
+      "PHIL 100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Rights",
+    "courseid": "PHIL450",
+    "coursedescription": "This course examines a range of contemporary theories, including those of Rawls, Nozick, Feinberg, and Dworkin. It outlines the classical tradition, and introduces the work of legal positivists like Austin and Hart. Emphasis is placed on alternatives to rights based theories and on criticisms of rights systems, such as that put forward by contemporary communitarians, virtue theorists, and feminist theorists.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Hegel and German Idealism",
+    "courseid": "PHIL455",
+    "coursedescription": "This course is an introduction to the philosophy of Hegel and to the Hegelian tradition, through a reading of Hegel's major work, The Phenomenology of Spirit. Other readings for the course include excerpts of The Science of Logic and The Philosophy of Right, as well as important critical sources.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Philosophy Capstone",
+    "courseid": "PHIL475",
+    "coursedescription": "The Philosophy Capstone is an advanced philosophy class offered across various topics which includes a longer writing project (of approximately 20 pages). The longer writing project aims to equip students with skills and habits essential to higher-level scholarly work: formulating and clarifying a philosophical question from scratch, composing and revising cogent philosophical prose, interpreting and analyzing complex texts, engaging with opposing arguments, using appropriate practices of style and documentation, giving and receiving constructive feedback. It requires a level of independence beyond what is expected in typical undergraduate assignments, crucial for developing as a philosopher and an independent thinker.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study I",
+    "courseid": "PHIL478",
+    "coursedescription": "Independent study on approved topics in philosophy.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study II",
+    "courseid": "PHIL479",
+    "coursedescription": "Study of a particular area of this subject under the supervision of a faculty member. Students wishing to register must do so through the department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Legislative Labyrinth",
+    "courseid": "PHILLAW210",
+    "coursedescription": "Legislative Labyrinth",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

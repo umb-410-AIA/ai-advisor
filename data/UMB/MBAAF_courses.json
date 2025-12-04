@@ -1,0 +1,183 @@
+[
+  {
+    "coursename": "Economics for Managers",
+    "courseid": "MBAAF601",
+    "coursedescription": "Introduces the student to economic principles of particular interest to the firm manager. The course is divided roughly into two parts that deal with macroeconomic and microeconomic issues. In the macro section such key aggregates as gross domestic product, unemployment rate, inflation rate, and balance of payments, which are of importance to the firm manager, are discussed. Discussions focus on a critical examination of how these aggregates are measured and determined in various competing theoretical models. The theory discussed here then serves as an analytical tool in understanding and evaluating economic policies related to such current economic issues as unemployment, inflation, and trade imbalances. In the micro section, emphasis is given to a) the theory of markets, how prices and quantities are determined in markets and factors that affect these prices and quantities; and b) how firms compete in different market environments. Besides concentrating on the theory, special attention is given to how the concepts covered are applied to real-world microeconomic problems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Introduces the student to economic principles of particular interest to the firm manager."
+      ]
+    }
+  },
+  {
+    "coursename": "Accounting for Managers",
+    "courseid": "MBAAF610",
+    "coursedescription": "Instructs students in the fundamentals of financial and managerial accounting. The financial accounting component presents techniques used to measure business transactions, preparation of financial statements, recording and valuation of assets, owners' equity, revenue, cost, and expenses. The managerial accounting component deals with techniques for management decision-making, planning, and control.",
+    "course-prerequsities": [
+      "AF 601"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Financial Accounting and Reporting",
+    "courseid": "MBAAF611",
+    "coursedescription": "This course provides knowledge of financial accounting concepts and principles, with particular emphasis on the application of these concepts and principles in practice. It covers in-depth analysis of the application of generally accepted accounting principles to various types of assets, liabilities, and stockholders' equity. This course is intended to familiarize students with the conceptual background and technical skills associated with preparation and interpretation of financial statements, and to improve students' communication skills and analytic abilities. Students will also have opportunities to discuss professional integrity and ethical issues using real-world cases. In addition, this course introduces topics on accounting data analytics within the scope of intermediate financial accounting.",
+    "course-prerequsities": [
+      "AF 610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Managerial Accounting and Analytics",
+    "courseid": "MBAAF612",
+    "coursedescription": "This course covers the principles, techniques and challenges of strategic cost management and analytics. You will learn concepts and techniques that accountants and managers use to make planning and control decisions. This course revisits a few topics from Accounting for Managers (MBA AF 610), and builds upon this foundation to consider a number of traditional and contemporary topics such as job costing, allocation of support department costing, process costing and spoilage issues, cost allocation of joint products and byproducts, cost volume-profit analysis, activity-based costing and management, and performance measurement. The course includes a semester-long project designed to help students get some hands-on experience with managerial and cost accounting data collection and analysis.",
+    "course-prerequsities": [
+      "AF 610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Contemporary Topics in Financial Reporting and Analytics",
+    "courseid": "MBAAF615",
+    "coursedescription": "This course is designed to deepen understanding of complex financial accounting issues relevant to contemporary business environments. It emphasizes applying advanced accounting principles and standards, particularly regarding corporate financial reporting and analytics. The course will cover the consolidation of financial statements, foreign currency transactions and translations, and accounting for not-for-profit organizations and government entities. It will also explore contemporary issues like financial instruments, hedge accounting, and accounting for crypto assets. Students will develop a comprehensive understanding of advanced financial accounting practices applied in real-world scenarios and apply various data analytics techniques to analyze current accounting issues.",
+    "course-prerequsities": [
+      "AF 610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Financial Statement Analysis",
+    "courseid": "MBAAF616",
+    "coursedescription": "This course focuses on the effective analysis of financial statements while integrating the concepts and principles learned in previous accounting courses. It teaches students how to make informed business decisions by reading, analyzing, and interpreting accounting information disclosed in financial reports. Contemporary and engaging business cases are used to highlight the analytical skills used in financial statement analysis with emphasis on the assessment of a company's profitability and risk. We also cover cost of capital estimation and firm valuation by discussing various valuation models. In addition to the data analytics assignments in the textbook, we incorporate data visualization and analytics into our course by utilizing Wharton Research Data Services (WRDS) Classroom tools to help students interact with financial data and analyze/interpret data visualizations. Students are expected to understand the relevant toolsets of data analytics as well as their application in financial statement analysis and firm valuation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Accounting Information Systems",
+    "courseid": "MBAAF618",
+    "coursedescription": "All aspects of accounting have been fundamentally changed by information technology and the Internet. Accountants have a critical role in providing relevant information for planning, decision making, and control. Due to the impact technology has on providing this information; accountants must have a thorough understanding of Accounting Information Systems (AIS) and also be proficient in the use of technology for providing information. In order to ensure the bright future of the accounting profession, we must use technology to its full advantage. In this course students will gain a basic understanding of AIS in the areas of 1) Information Systems, 2) AIS Applications, 3) Database Concepts, 4) Internal Control, 5) Data Analytics and 6) Auditing of AIS. In this course we will supplement lectures with active learning and group work in order to make class fun and interesting while we learn! Students will complete various software assignments to gain exposure to modern technologies. This is not a computer or technology course - it is a business and information course in which you will later apply theoretical concepts learned using computers.",
+    "course-prerequsities": [
+      "AF 610"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In this course we will supplement lectures with active learning and group work in order to make class fun and interesting while we learn!"
+      ]
+    }
+  },
+  {
+    "coursename": "Financial Management",
+    "courseid": "MBAAF620",
+    "coursedescription": "This course is intended to provide the student with a sound understanding and appreciation of the principles of corporate finance. The course covers the theory and practice of financial decision making by managers and describes how financial theory can be used to address practical problems and to illuminate institutional aspects of the financial world. Topics include the time value of money, capital budgeting, financial statement analysis, asset valuation, portfolio theory, capital structure, dividend policy, long-term financing, and issues of corporate control. The course enables students to develop the skills and intellectual framework for addressing a variety of financial problems.",
+    "course-prerequsities": [
+      "AF 610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Financial Modeling",
+    "courseid": "MBAAF623",
+    "coursedescription": "This course introduces the principles and techniques for building financial models, especially in an uncertainty framework. Topics covered include decision support systems, risk analysis, portfolio theory, and capital budgeting under uncertainty. The course integrates financial, accounting, and statistical concepts and techniques to construct financial models and to perform analyses using popular software applications, as well as emphasizing the application of financial modeling techniques in identifying and implementing business solutions. The course is of special interest to students seeking more hands-on experience in constructing financial models and more in-depth knowledge in financial software.",
+    "course-prerequsities": [
+      "AF 620"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is of special interest to students seeking more hands-on experience in constructing financial models and more in-depth knowledge in financial software."
+      ]
+    }
+  },
+  {
+    "coursename": "Options: Theory and Applications",
+    "courseid": "MBAAF625",
+    "coursedescription": "This course introduces students to options and related derivative securities. They have become an essential tool used in both corporate risk management and portfolio management. This course explores the institutional details of trade, theories of option valuation and practical strategies and methods for hedging risks and gaining specified exposures using options and related derivative securities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Portfolio Analysis and Investment Management",
+    "courseid": "MBAAF628",
+    "coursedescription": "This course provides the student with an understanding of capital market securities, operations, valuation, and investment techniques. Specifically, the course covers definitions of various investment vehicles, operation of the NYSE and NASDAQ markets, portfolio theory (CAPM and APT), capital allocation decisions--including discussions of mutual fund selection.",
+    "course-prerequsities": [
+      "AF 620"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sustainable Finance and Impact Investing",
+    "courseid": "MBAAF631",
+    "coursedescription": "This course will introduce ESG (Environmental, Social and Governance) investing, exposing students to ESG data and indicators, ESG impact on financial performance, and sustainable investment strategies. Environmental concerns and climate change are emerging as important business drivers and gaining the attention of accountants, financial managers, and investors. As investors and society require companies to become more socially and environmentally sustainable, the measurement, management, and external reporting of information about environmental risks and performance is of growing importance. Topics covered in the course include corporate environmental disclosure and reporting, environmental management accounting, carbon markets, green project analysis, corporate environmental risk assessment and valuation, socially responsible investing, and green banking.",
+    "course-prerequsities": [
+      "AF 620"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Asset Management Practicum",
+    "courseid": "MBAAF632",
+    "coursedescription": "The course is designed to give the students a hands-on experience at performing investment research, investing money and managing a portfolio prior to entering the work force. Students are expected to generate investment ideas, research investment opportunities and make buy/sell/hold recommendations based on their analysis. The course will also provide an opportunity for students to work closely with money managers from Boston's financial services industry via the Student Manage Fund's advisory board.",
+    "course-prerequsities": [
+      "AF 628"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Financial Engineering and Risk Management",
+    "courseid": "MBAAF634",
+    "coursedescription": "The goal of this course is to provide students the fundamentals of financial engineering and corporate financial risk management. The course focuses on financial engineering using futures, forwards and swaps in developing business and risk management strategy. Specifically how do companies use financial engineering to manage risk caused by factors over which they have little control such as commodity prices, interest and exchange rates? The course covers both theoretical and practical aspects of financial engineering and risk management. Case studies are used to highlight the value of identifying, monitoring and managing financial risks.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Specifically how do companies use financial engineering to manage risk caused by factors over which they have little control such as commodity prices, interest and exchange rates?"
+      ]
+    }
+  },
+  {
+    "coursename": "Financial Reporting Fraud Examination",
+    "courseid": "MBAAF637",
+    "coursedescription": "Financial reporting fraud and earnings manipulation by managements of publicly traded companies are a continuing source of anxiety and concern to investors, creditors, regulators, and others who depend upon financial statements. As a special focus in the broader emerging field of fraud examination, students in this course will gain a thorough understanding of the knowledge of the nature, prevention, and detection of financial reporting fraud, also called financial statement fraud or accounting fraud. This course examines various aspects of financial statement fraud and the role that the 'financial reporting supply chain' plays in creating high quality financial statements. This course also introduces data analytical techniques to assess potential financial statement fraud and earnings management.",
+    "course-prerequsities": [
+      "AF 611",
+      "AF 616"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Accounting Data Analytics",
+    "courseid": "MBAAF640",
+    "coursedescription": "Data has proliferated in business and managers and accountants need to understand the implications for decision-making and tap into the data to provide better insights into a firm/client/customer/supplier, etc. This course is intended to provide students with an understanding of data analytic thinking and terminology as well as hands-on experience with data analytics tools and techniques. Specific topics include but are not limited to data preparation, cleaning and data mining using SAS, data visualization using Tableau, data warehousing for managerial accounting tasks and performing audit forensics with the IDEA application. Students should leave this course with the skills necessary to translate accounting and business problems into actionable proposals that they can competently present to managers and data scientists. While there will be some use of tools in this course, the focus of this class is on concepts, not algorithms or statistical math or programming.",
+    "course-prerequsities": [
+      "AF 610"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Specific topics include but are not limited to data preparation, cleaning and data mining using SAS, data visualization using Tableau, data warehousing for managerial accounting tasks and performing audit forensics with the IDEA application."
+      ]
+    }
+  },
+  {
+    "coursename": "Accounting Theory and Analytics",
+    "courseid": "MBAAF691",
+    "coursedescription": "This course examines the role of accounting information in the capital markets. Financial statements are widely used by bankers, analysts, and investors to evaluate a firm's past and future performance. This course explores a variety of financial reporting contexts, industries and business strategies to provide students with an understanding of accounting information across various corporate environments. This course will help students gain an understanding of theoretical models and sophisticated quantitative models in financial reporting and to integrate the concepts into real big data. Students will learn the required data analytics skills to understand, analyze, and produce solutions to challenges in accounting.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

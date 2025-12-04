@@ -1,0 +1,84 @@
+[
+  {
+    "coursename": "Fundamentals of Latin II",
+    "courseid": "LATIN102",
+    "coursedescription": "Latin 102 continues the reading, writing and speaking exercises of Latin 101. Particular attention will be given to using and understanding complex sentences and to increasing Latin vocabulary. The goals are to enable students (1) to read increasingly complex Latin texts with some ease and fluency, (2) to manipulate the grammar, syntax and vocabulary of Latin, and (3) to deepen their knowledge of English grammar and vocabulary.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ovid-Metamorphoses",
+    "courseid": "LATIN202",
+    "coursedescription": "Continuation of Latin 201. Reading in Ovid's Metamorphoses.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Cicero",
+    "courseid": "LATIN301",
+    "coursedescription": "Reading in Cicero's orations, philosophical, or rhetorical works; background and scholarship.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Roman Novel: Petronius and Apuleius",
+    "courseid": "LATIN311",
+    "coursedescription": "This course explores the genre of Latin prose fiction. Two important works survive to the present day: the Metamorphoses of Apuleius (also known as the Golden Ass) and the Satyrica of Petronius. Apuleius' novel tells the story of Lucius, a man driven by an insatiable curiosity to try to observe a witch perform magic, who, through a magical accident, finds himself turned into a donkey. Petronius' novel tells the story of two young lovers, Encolpius and Giton, and their wild adventures in the Greek cities of southern Italy. Readings will be in Latin; class discussion will be in either English or Latin.",
+    "course-prerequsities": [
+      "LATIN 202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "LATIN479",
+    "coursedescription": "Directed projects in Latin language and literature.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Cicero",
+    "courseid": "LATIN601",
+    "coursedescription": "The focus of this course is on Cicero's orations, with special attention to the Catilinarians and the Pro Caelio. The course will emphasize careful analysis of Cicero's Latin style and the political, legal, and literary issues that arise from these works. Students will be introduced to relevant scholarly literature.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Roman Novel: Petronius and Apuleius",
+    "courseid": "LATIN611",
+    "coursedescription": "This course explores the genre of Latin prose fiction. Two important works survive to the present day: the Metamorphoses of Apuleius (also known as the Golden Ass) and the Satyrica of Petronius. Apuleius' novel tells the story of Lucius, a man driven by an insatiable curiosity to try to observe a witch perform magic, who, through a magical accident, finds himself turned into a donkey. Petronius' novel tells the story of two young lovers, Encolpius and Giton, and their wild adventures in the Greek cities of southern Italy.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Initial Licensure Practicum: Student Teaching",
+    "courseid": "LATIN688",
+    "coursedescription": "The Initial Licensure Practicum provides students with the opportunity to put theory and methodology into practice. Students demonstrate their teaching skills in a school, with supervision by both a certified cooperating teacher and a member of the University faculty. During the semester, students will meet bi-weekly with the latter to discuss their experiences, to try out and critique plans and ideas, to air and solve problems, and to reflect on the process by which they are becoming education professionals.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Master of Arts Final Paper",
+    "courseid": "LATIN690",
+    "coursedescription": "Upon invitation of the faculty, M.A. candidates may complete a three-credit final paper in lieu of one required course. The paper will be of approximately 30 pages and demonstrate extensive original research/scholarship in Latin or Greek literature or culture. A final-paper proposal must be approved by a faculty advisor and the Graduate Program Director in the semester prior to that in which the paper will be completed. The paper will be prepared under the direction of the faculty advisor and defended before a committee of three faculty members. During the semester, drafts of the paper will be critiqued in regular conferences with the faculty advisor.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "LATIN696",
+    "coursedescription": "Independent study in Latin",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

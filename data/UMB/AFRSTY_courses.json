@@ -1,0 +1,118 @@
+[
+  {
+    "coursename": "Introduction to African-American Literature",
+    "courseid": "AFRSTY100",
+    "coursedescription": "This survey course examines the writings of African-Americans who have made unique contributions to the African-American literary tradition. The course explores these writings in terms of their sociohistorical context, making use of analyses of character, plot, and symbolism. It gives particular attention to the writers' roles as social critics. Among the writers whose work may be considered are Frederick Douglass, Jean Toomer, Zora Neale Hurston, Richard Wright, Leroi Jones, Ernest Gaines, George Jackson, Alice Walker, and Toni Morrison.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Africana Studies",
+    "courseid": "AFRSTY101",
+    "coursedescription": "This course presents an overview of the major theories in the field of Africana studies. It seeks to explore the Africana experience in a way that is orderly, systematic, and structurally integrated; and to convey an understanding of the cultural, historical, and political roots of this experience. The course focuses chronologically on major historical episodes through a study of ancient African civilizations, slavery, colonialism, and African liberation movements.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "African-American History II",
+    "courseid": "AFRSTY111",
+    "coursedescription": "An intensive study of the social, economic, and political history of African-Americans from the era of Reconstruction to the present. Topics include the African-American during Reconstruction, racism in America, and a critical examination of the variegated patterns of African-American response to American social conditions in the late nineteenth and twentieth centuries.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Black Consciousness",
+    "courseid": "AFRSTY115G",
+    "coursedescription": "This course examines the social, economic, cultural and political implications of the development of Black consciousness in twentieth-century United States. It considers the role played in these developments by Ida B Wells, WEB DuBois, Marcus Garvey, the Harlem Renaissance, the Civil Rights/Black Power movement, the Nation of Islam, and the Black Arts Movement.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "African Images in Literature",
+    "courseid": "AFRSTY150",
+    "coursedescription": "This course examines the different ways in which African writers have represented the continent of Africa by focusing on their struggle to develop authentic forms and images. Through the reading of selected folk tales, novels, and poems from different African societies, participants consider such issues as the influence of colonialism on creative writing; the politics of African culture; race and class; the images and status of women.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Living While Black: Contemporary Issues in the African Diaspora",
+    "courseid": "AFRSTY200",
+    "coursedescription": "A writing- and research-intensive critical examination of contemporary and long unfolding social, political, cultural, historical, public health, and economic issues within and across the Black Diaspora, including the trans-Atlantic and trans-Pacific spaces of Africa, the U.S., the Caribbean, Latin and South America, Europe, and the Pacific Islands. This course will engage the burgeoning scholarly and theoretical fields of Black Studies, enabling a full and rigorous commitment to a trans-national and trans-disciplinary approach to the problems of black social life within colonial modernity and racial capitalism. This course will closely examine the complex of issues that affect African and African-descended individuals, their families, and their communities within the context and in the aftermath of European colonization.",
+    "course-prerequsities": [
+      "AFRSTY 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Black Image on Stage and Screen",
+    "courseid": "AFRSTY270",
+    "coursedescription": "This course explores the history and development of how Africans and African Americans are depicted on stage, on the movie screen, and in television. Starting in the days of Shakespeare (Othello, Aaron in Titus Andronicus) the course will take a path that includes the days of minstrel shows, Race movies, Magic Negroes, Blacksploitation, The Black Arts Movement, the \"post-racial\" age, and on into the images of tomorrow. By the end of the course, students will not only have the knowledge of how racial identities develop through media such as television and motion pictures, but will also be able to view future depictions of blacks and other persons of color on stage with a critical eye to certain stereotypes.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Africana Studies",
+    "courseid": "AFRSTY280",
+    "coursedescription": "Various specialized topics are offered once or twice under this heading. Topics change from year to year and are announced before the beginning of each semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Women in African Cultures",
+    "courseid": "AFRSTY300L",
+    "coursedescription": "This course challenges stereotypical constructions of Africa and African woman in mainstream media by considering internal and external historical relationships that have shaped and redefined the cultures, ideas, institutions, politics, and social relations of several specific groups of African women. Through a multi-disciplinary approach, the course addresses issues and challenges of contemporary Africa, and explores many of the themes and concerns that have run throughout Africa's gendered, complex, and changing history. Popular culture sources, as well as scholarly studies and activist writing, will be employed to help illuminate the lived experiences and perspectives of contemporary women living in various African societies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "African-American Intellectual Thought",
+    "courseid": "AFRSTY301",
+    "coursedescription": "A survey course of the significant writings of African-Americans from the period of Emancipation to the present, with special reference to issues concerning the educational, political, sociological, and psychological status of African-Americans in the United States.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Problems in Urban Education",
+    "courseid": "AFRSTY320",
+    "coursedescription": "This course looks at the relationship between young people growing up in the cities and the efforts to reform urban schooling. The course examines the cultural, social, economic, and political dimensions of formal \"education\" in the city. Questions posed include: What is education? Why educate? Who is educated in the city? What impact does urban education have upon its recipients and their families, culture, community? What is the relationship between urban education and the American social order?",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Black Popular Culture",
+    "courseid": "AFRSTY355L",
+    "coursedescription": "This course requires students to engage with Black/African diasporic cultural products intended for a mass audience. The macro-contents of American and global consumer capitalism and the micro- categories of ethnicity, gender, and sexualities are used as a framework for the critical analysis of production, consumption, and reception of African American popular culture in the US and abroad.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Post-Colonial Literature: Africa and the Caribbean",
+    "courseid": "AFRSTY440",
+    "coursedescription": "This course examines contemporary African and Caribbean literature in its historical, cultural, and intellectual context. Emphasis is on the ways different writers have attempted to develop new literary forms in order to create authentic images of their cultures and communities. The course also looks at the continuing influence of colonialism on the literary and social life of these communities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "AFRSTY479",
+    "coursedescription": "Students may conduct independent research under the supervision and guidance of members of the faculty.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

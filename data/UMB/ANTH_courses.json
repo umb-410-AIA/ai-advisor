@@ -1,0 +1,363 @@
+[
+  {
+    "coursename": "Introduction to Biological Anthropology",
+    "courseid": "ANTH105",
+    "coursedescription": "The study of human biological evolution and human population variation. This course introduces the history, theory, and methods of research in biological anthropology through lectures and hands-on exercises. Major topics include: geological time, classification, and the place of humans in the animal world; evidence for primate and human evolution; evolutionary theory and genetics; and discussion of the evolutionary forces involved in producing human population variation. This course addresses, in assignments and during class time, the following general education capabilities: critical thinking; using technology to further learning; quantitative reasoning; collaborative work; and effective communication.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Cultural Anthropology",
+    "courseid": "ANTH106",
+    "coursedescription": "An introduction to the anthropological study of cultures, based on ethnographic descriptions and analyses of tribal, developing, and modern state societies. The course explores a variety of concepts and approaches to the study of culture, and participants acquire experience in critical reading, critical thinking, and analytic writing.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intro To Archaeology",
+    "courseid": "ANTH107",
+    "coursedescription": "The study of the past through scientific analysis of the traces left behind by humans. This course introduces the history, theory, and methods of archaeological research through lectures and hands-on projects. Archaeological data are then used to examine such major transformations of human cultural evolution as the domestication of plants and animals and the origins of complex civilizations. Students prepare a paper suitable for the Writing Proficiency Requirement Portfolio.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Food and Society",
+    "courseid": "ANTH113G",
+    "coursedescription": "This course explores how food is related to culture. Discussion topics include the origins of agriculture, food taboos, the social organization of eating, festivals, and feasting.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Labor and Working Class History in the United States",
+    "courseid": "ANTH210L",
+    "coursedescription": "This course examines the history of labor and working people in the United States from the colonial period to the present. It explores the diversity of work and working-class experiences, the history of labor movements, labor conflicts, and the larger processes of social, economic, and political change that have affected work and workers. While work and organized labor receive central attention, the course gives equal consideration to the comparative dimensions of class and cultural identity, race and gender, immigration and ethnicity, family and community, technology, politics, and government policy. We will work to improve our skills in critical reading and writing. Lectures, readings, videos, and discussion explore the actions, opinions, identities, and experiences of diverse women and men. You will work on understanding and interpreting the materials. Short essays, in-class exams, and presentation will provide opportunities to develop your interpretations systematically and polish your writing skills.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Indigenous Peoples and Cultural Change in Amazonia",
+    "courseid": "ANTH220G",
+    "coursedescription": "This course focuses on indigenous peoples of South America's Amazon region, and persistence and change in their cultures and histories, from 1500 to the present- especially in response to European colonizers, missionaries, modern states, and contemporary rain forest development. Participants consider the human rights issues involved, and critique conventional European representations of Amazonians, in ethnography, literature and film. Capabilities addressed: Critical reading, critical thinking, clear writing, academic self assessment, collaborative learning, information technology.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course focuses on indigenous peoples of South America's Amazon region, and persistence and change in their cultures and histories, from 1500 to the present- especially in response to European colonizers, missionaries, modern states, and contemporary rain forest development."
+      ]
+    }
+  },
+  {
+    "coursename": "The Rise and Fall of the Maya",
+    "courseid": "ANTH224G",
+    "coursedescription": "This course focuses on the rise and fall of the Maya civilization in Central America. It considers their origins; political, economic, and social organization; religion and ideology; their eventual collapse; and the contemporary Maya. Discussions include the latest theories and controversies in Maya studies. This course may be counted toward the anthropology major. Capabilities addressed: Critical reading, critical thinking, clear writing, collaborative learning, information technology, oral presentation, academic self assessment.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Archaeological Myth & Mystery",
+    "courseid": "ANTH230",
+    "coursedescription": "This course introduces students to the myths, mysteries, frauds, and fantasies of archaeology and the human past, such as Atlantis, alien visitations, Stonehenge, pyramids, astronomical alignments, pre-Columbian visits to the North American continent, anachronistic artifacts, and outright hoaxes. These claims - some real, some false, some misunderstood, some intriguing - will be examined closely to see how well the explanations use evidence and how valid the assumptions are that uphold them. Students will learn how to critically evaluate these claims in their empirical, political, historical, and cultural contexts as well as try to understand the agendas, personalities, motives, and politics behind some o f the more unsupportable claims.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Rethinking the Family: Cross-Cultural Perspectives",
+    "courseid": "ANTH243L",
+    "coursedescription": "This course analyzes the ways in which culture shapes perceptions of family. It explores narratives about how human family structures evolved, examines the increasing medicalization of reproduction and the body, and takes stock of the ways in which race, class, gender, and sexual orientation affect commonly held and frequently subscribed-to beliefs about what constitutes family. It illustrates the diversity of kinship definitions with ethnographic examples from the Iban of Indonesian Borneo, the Nyakyusa of East Africa, and other societies from the Americas, Africa, Asia, and the pacific Islands. Through an exploration of the pressures to which African American families have been subjected in the United States, it probes the ways in which the legacy of slavery shapes the possibilities and perceptions of contemporary families.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ancient Cities & States",
+    "courseid": "ANTH247",
+    "coursedescription": "This course compares the processes of state formation in major civilizations, including Mesopotamia, Early Dynastic Egypt, Shang China, Aztecs of Mesoamerica, Inca of Peru. Recent archaeological and historical data are used to explore cross-cultural themes such as the provisioning of cities, role of religious ideology, social organization of land and labor, and gendered dimensions of power and social identity.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Anthropology On Film",
+    "courseid": "ANTH260",
+    "coursedescription": "Film has become an important medium for recording and conveying information about human behavior. To what extent do ethnographic films present a complete and accurate record of cultural reality and to what extent do they project a filmmaker's romantic vision of 'message'? Examples of ethnographic film are viewed and discussed in light of these questions.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dreams & Dreaming",
+    "courseid": "ANTH262",
+    "coursedescription": "A cross-cultural exploration of dreams and dreaming across cultures, with general attention to the western Pacific, and the Mekeo people of Papua New Guinea in particular: review of the anthropology of dreams in the context of theoretical works by Freud and Jung, and recent neurobiological studies; and , the relationship of dreams to notions of the self, person, and individual.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Environmental Anthropology",
+    "courseid": "ANTH263",
+    "coursedescription": "This course focuses on people's complex relationships to their environment. It examines different anthropological approaches to analyze human adaptive strategies to diverse ecosystems around the world from a historical and cross-cultural perspective. It will also examine the different strategies and knowledge systems that humans develop for managing their resources. Finally, the course looks at the rise of political ecology as a perspective to analyze the role of power relations, institutions and ideas of nature in environmental change and conservation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Anthropology of the Objects and the Objectified: an Interdisciplinary Approach to Things",
+    "courseid": "ANTH269L",
+    "coursedescription": "We have all heard of, or used the term object to refer to things outside ourselves: the object of one's desires, the objectification of other cultures and peoples, works of art vs. ethnographic objects. In this course we deconstruct familiar discourses about things through an examination of the world of material possessions, places, people, ideas, and space in cross-cultural perspective. Our aim is to gain more nuanced understanding about the apparent human tendency to create our identities through assigning personal and cultural significance to objects around us. Course readings will be drawn primarily from anthropology, art history, art criticism, cultural studies, and curatorial/museum studies. We will also share our observations, experiences, and reflections of particular object worlds through museum site visits, class discussions, and individual projects. Our own milieu of the Western museums will offer valuable case studies about the historical and political implications of particular histories of collecting, classifying, displaying, and interpreting the wider world as a collection of objects.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Native Peoples of North America",
+    "courseid": "ANTH270L",
+    "coursedescription": "An introductory survey of Native American societies and cultures. Emphasis is given to the descriptive comparison of selected Native American societies, on their histories, and on problems in cross-cultural understanding. The course focuses on pre-twentieth century cultures and history.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Peoples and Cultures of Africa",
+    "courseid": "ANTH272",
+    "coursedescription": "An in-depth study of selected African societies, examining traditional institutions, the colonial situation, and modernization.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Peoples and Cultures of Mesoamerica (Mexico and Guatemala)",
+    "courseid": "ANTH273",
+    "coursedescription": "A survey of Mesoamerican ethnology including an introduction to cultural and linguistic regions through comparisons of ethnographic materials. Emphasis is given to acculturation, during the colonial period, among indigenous and Spanish-speaking populations, and, in the contemporary period, on social change among rural and urban sectors.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Peoples and Cultures of the Caribbean",
+    "courseid": "ANTH274",
+    "coursedescription": "An ethnographic and historical overview of the Caribbean, examining the impact of external forces on local economic organization, domestic life, religion, and migration, with attention to the importance of transnational communities and migrations that link the islands with the North American mainland.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "US Immigration: Contemporary Issues and Debates",
+    "courseid": "ANTH277",
+    "coursedescription": "Large-scale post-1965 immigration to the U.S. has significantly reshaped national life. Immigrants from the Caribbean, Latin America, Asia, Africa, and Europe have radically altered the way we think about cities, race, ethnicity, nation, and politics. Key themes covered include history, politics, and processes of immigration; class and race dimensions; transnationalism; immigrants in the economy; and comparative group experiences.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Peoples and Cultures of the Andes: Colombia, Ecuador, Peru, Bolivia, Chile",
+    "courseid": "ANTH279",
+    "coursedescription": "This course is an introduction to the diverse cultures of the Andean region, which comprises the following countries: Colombia, Ecuador, Peru, Bolivia and Chile. Topics considered include the significance of heritage, belief systems and religions, family structures, race relations, social and political institutions, and modes of production -- all considered from an anthropological perspective. The course's timeframe covers the entire modern era, from the 16th century to today.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Human Rights",
+    "courseid": "ANTH295L",
+    "coursedescription": "This is a collaboratively taught interdisciplinary course on a variety of issues related to Human Rights as discourse and practice. It covers the emergence and institutionalization of human rights discourse in the 20th century, and examines its transformations and extensions into various social, economic, political and cultural realms globally. Topics include critique of Western and normative human rights, policies of indigenous people and women's rights, and cognitive and practical implementations of human rights.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Historical Archaeology",
+    "courseid": "ANTH340",
+    "coursedescription": "An introduction to historical archaeology, from its initial development to future directions. Topics include the subfields which comprise historical archaeology and their interrelationships; the contributions, both substantive and methodological, of historical archaeology to the field of archaeology; and industrial and historic sites in North America.",
+    "course-prerequsities": [
+      "ANTH 107",
+      "HIST 265"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theory in Sociocultural Anthropology",
+    "courseid": "ANTH345",
+    "coursedescription": "A selective comparative, historical review of major schools of thought in anthropological theory, with special attention to alternative theories of culture, in relation to society, history, ecology, and political economy; and the application of such theories to the analysis of particular ethnographic cases.",
+    "course-prerequsities": [
+      "ANTH 100",
+      "103",
+      "106"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Social Determinants of Health and Health Disparities",
+    "courseid": "ANTH358",
+    "coursedescription": "The social environment is widely recognized to play a critical role in shaping patterns of health and disease within and across populations. Understanding the processes through which the social environment \"gets under the skin\" to influence health has become an important question across medical and social science fields, including anthropology. This course will explore key social determinants of health being explored by medical and bio-cultural anthropologists, including: socioeconomic status, race/ethnicity, gender, sexuality, neighborhood environments, social relationships, and political economy. Mechanisms through which these factors are hypothesized to influence health, such as stress and access to health resources and constraints, will be discussed, as well as the ways in which these mechanisms operate within communities and across the life-course. An overarching theme of the course will be how social factors that adversely affect health are inequitably distributed, contributing to marked health disparities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Economies and cultures in comparative perspective",
+    "courseid": "ANTH359",
+    "coursedescription": "This course approaches economic behavior, ideas and institutions using two of the hallmarks of anthropology: field-based methods of data collection and cross-cultural comparison. Through ethnographic case studies, anthropological theory and first-hand observation, we will consider the embeddedness of the economy in complex socio-cultural systems, ideological and institutional. A range of systems of production, distribution and consumption in contemporary and past economies will allow students to systematically critique familiar economic ideas and institutions. Topics will include reciprocity and redistribution, traditional markets, notions of scarcity, affluence and fairness, the regulation of economic behavior by formal and informal institutions, the economic division of labor and the interface between modern and traditional economies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Indigenous Film and Critical Visual Studies",
+    "courseid": "ANTH361L",
+    "coursedescription": "This course explores the ways in which filmmakers have engaged with the notion of ingenuousness primarily through feature film and documentary forms over the last 40 years. The course will look at films directed, produced and written by indigenous and non-indigenous film-makers. We will examine films from a number of different geographical areas, concentrating on North America (the United States and Canada), Aotearoa/New Zealand, Australia, and Southern Africa. We will also be looking at a select number of films from other areas in relationship to specific issues, these include Tuvalu, Kazakhstan and Guatemala. As part of the course structure, we will also be engaging with a number of specific issues. These include colonialism, identity, the importance of land, environmental destruction, gender, coming of age, new media platforms, the impact of commercial media, and commodification and appropriation of indigenous peoples. A select number of film-makers will also be joining the course as guest lecturers.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Anthropology of Adolescence: Biocultural Interactions",
+    "courseid": "ANTH364",
+    "coursedescription": "This course takes an anthropological, biological, and phylogenetic approach to questions about adolescence, including: What elements of growth and maturation define adolescence, and is this life stage unique to humans? How do the body's priorities change, and what can we learn about the selective pressures that shaped human evolution when we examine those changes in the context of ecological and cultural variation? How, at the threshold of adulthood, is gender newly constructed, and what commonalities and cultural variations in the gender inculcation process exist across the glove? Texts will include literature on human growth and development; comparative data from non-human primates; anthropological literature on rites of passage viewed cross-culturally; and literary dramatizations of coming of age.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Social and Cultural Perspectives on Witchcraft and Sorcery",
+    "courseid": "ANTH367",
+    "coursedescription": "Beliefs about people with extraordinary powers to cause harm or good are found in societies of different types and in different periods in history. This course examines such beliefs in a number of different cultural, geographical, and historical contexts in order to demonstrate ways in which anthropologists and other social scientists approach the more general problem of understanding the function of belief systems in human society.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Anthropology of Death",
+    "courseid": "ANTH372",
+    "coursedescription": "Although human mortality occurs in all societies, it is understood and defined differently within various settings. This course examines how culture influences the way people respond to the fact of death. Key themes include: the analysis of funeral rituals; religion and art in relation to death; cultural dimensions of mourning; and the relationship between social organization and death.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Language and Culture",
+    "courseid": "ANTH385",
+    "coursedescription": "The study of language and culture as systems of shared symbols and meanings in which verbal and nonverbal social interaction takes place. Special emphasis is given to the relationship of language to culture and on the social role of language in human life. Students are introduced to methods for analyzing social behavior and its underlying cultural principles.",
+    "course-prerequsities": [
+      "ANTH 106"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Issues in Biological Anthropology",
+    "courseid": "ANTH412",
+    "coursedescription": "An in-depth discussion of current research in biological anthropology based on the reading of primary material from the recent literature. The course is oriented toward the study of human populations and focuses on important controversies and major research trends in a variety of areas including skeletal biology, nutrition, genetics, epidemiology, and evolutionary theory.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Contemporary Issues in Anthropology",
+    "courseid": "ANTH425",
+    "coursedescription": "A capstone seminar for anthropology majors, this course uses the lens of anthropological analysis to address a different topical theme each semester concerning the community and the world in which we live. The seminar encourages students to apply their previous classroom experience in the discipline to a multidimensional view of contemporary issues through individual and small group research projects.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LLOP Research Seminar",
+    "courseid": "ANTH477L",
+    "coursedescription": "Instruction in how to develop a comprehensive plan for research on a Latino Studies topic with significant public policy implications. Review of research design procedures, literature assessment, problem definition, use of range of qualitative and quantitative research methods drawn broadly from the social sciences.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Directed Study II",
+    "courseid": "ANTH479",
+    "coursedescription": "Advanced students may conduct independent research under the supervision and guidance of members of the faculty.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Anthropology",
+    "courseid": "ANTH488",
+    "coursedescription": "Part-time work experience (8 hours per week) in an appropriate business, governmental, laboratory, clinical, museum, or non-profit institution, supervised by an on-site supervisor and an Anthropology Department faculty sponsor. Conferences with the course instructor and appropriate written work are required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Research II",
+    "courseid": "ANTH491",
+    "coursedescription": "Independent research in anthropology conducted under the supervision of members of the faculty.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Graduate Seminar in Historical Archaeology",
+    "courseid": "ANTH625",
+    "coursedescription": "This course provides an overview of the field of Historical Archaeology. Since its emergence in the 1960's, historical archaeology has grown to become the most rapidly expanding field of archaeological research. Starting with a focus on North America, historical archaeology is now a global field that concentrates on the study of the emergence of the modern world and other complex societies. Drawing on a rich palette of interdisciplinary approaches, historical archaeology explores complex global processes such as colonization, industrialization, urbanization, and globalization. This course will focus on the methods employed by the field's practitioners, the various contexts in which this work is conducted, and the theoretical underpinnings of the field as a whole.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Historical Landscapes and Geographic Information Systems",
+    "courseid": "ANTH655",
+    "coursedescription": "This course aims to provide a basic understanding of how Geographic Information Systems (GIS) can be used to visualize and analyze spatial data for historical landscape studies. Through readings and discussion we will explore the social construction of space and spatial analytical techniques. Students will learn basic techniques for acquiring, manipulating and creating geospatial data in several forms, from raster-based satellite imagery and digital terrain models to point, line and polygon representation of vector data. Students will create a GIS project for a region of their choice; this may be an area of personal interest or for thesis research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will create a GIS project for a region of their choice; this may be an area of personal interest or for thesis research."
+      ]
+    }
+  },
+  {
+    "coursename": "Culture Contact and Colonialism in the Americas",
+    "courseid": "ANTH672",
+    "coursedescription": "This course explores the multifaceted nature of colonial encounters between Europeans and indigenous people. Using the Americas as the geographical focus, the course devotes special attention to the analytical and theoretical discourse-shaping anthropological approaches to colonialism through the topics of material culture, gender, ideology, ethnicity, race, identity, labor, class, and resistance. Readings and discussions will draw on data and perspectives from ethnohistory, historical archaeology, and cultural anthropology to tackle the simultaneously global and local nature of colonialism.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ANTH696",
+    "coursedescription": "Students may take this course in addition to those required in the program in order to pursue research relevant to the program of study.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum in Archaeology",
+    "courseid": "ANTH698",
+    "coursedescription": "For this course, graduate classroom education is applied in a practical situation, such as field work or a research project for a public archaeology contract agency, a museum, an archaeological laboratory, an historical commission, or a preservation agency. In the practicum students develop a wide range of valuable skills and experience related to possible future employment.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Thesis Research Projects in Historical Archaeology",
+    "courseid": "ANTH699",
+    "coursedescription": "In this course, an MA thesis will be developed from a problem-oriented analysis of documentary and archaeological data. The MA thesis will include a description of the problem in the context of the disciplines of anthropology and history, its application to the data, a description of the analyses undertaken, and their results with reference to the problem. In the conclusion the results of the research project should be discussed in relation to other current research in the field. The MA thesis must be read and approved by an examining committee made up of three faculty readers, one from the History Program, one from the Anthropology Department, and one from a department to be determined.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

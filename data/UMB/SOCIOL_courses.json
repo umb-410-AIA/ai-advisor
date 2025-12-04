@@ -1,0 +1,457 @@
+[
+  {
+    "coursename": "Introduction to Sociology",
+    "courseid": "SOCIOL101",
+    "coursedescription": "This course provides a broad overview of sociology and how it applies to everyday life. Major theoretical perspectives and concepts are presented under the following broad sections: sociological imagination, social inequality, and social institutions. Applying C. Wright Mills; notion of the 'sociological imagination,' this course will seek to find ways to connect an understanding of ourselves with broad dynamics of national and global social structures and forces of social change.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sociology in Boston",
+    "courseid": "SOCIOL102",
+    "coursedescription": "This course is an advanced introduction to sociology majors. In this course we will engage with the neighborhoods, culture, and people of the Boston area through primary data collection such as conducting interviews or participant observation. Using our sociological imaginations, we will draw on sociological theories and concepts to analyze data we have gathered and locate our data in the larger context of local, national, and global social structures. We will learn to use the library to locate scholarly resources as well as participate in activities that seek to improve writing skills in order to successfully complete the written portion of our research projects. These writing activities will include developing a research question or puzzle, constructing a thesis statement or argument, using scholarly research to support your arguments, explaining your methods for data collection, and effectively deploying theory or concepts to answer 'why' questions about your data. Through this engagement with the Boston area, we explore the careers students may pursue with a BA or higher degree in sociology. To this end, we will learn effective paths for completing a BA in sociology and learn about research that sociologists at UMass Boston are currently engaged in. Therefore, this course is designed for and open to declared sociology majors. Non sociology majors must receive instructor approval to join this course. Finally, we will work towards career planning by tackling practical concerns such as cover letter and resume writing.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Systems of Criminal Justice",
+    "courseid": "SOCIOL104",
+    "coursedescription": "This course introduces students to the social scientific study of crime and criminal justice systems through a sociological perspective. Topics covered will include theories of the causes of crime; the structure and function of the police, courts, and correctional systems; and the experiences of people who are processed through the justice system. Special attention will be paid to controversial issues and public policy debates, and students will consider proposals for criminal justice reform. Students will also consider the relationships between criminal justice systems and society.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sociology of Popular Culture",
+    "courseid": "SOCIOL120G",
+    "coursedescription": "This course examines popular culture from a sociological and comparative perspective with emphasis on the influence of media and entertainment in everyday life, the production and consumption of popular culture domestically and globally, and consumer culture and leisure. Specific topics vary and may include Hollywood movies and television, Disney theme parks, popular music, fashion and style, new media technologies, shopping, and sports.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Social Problems",
+    "courseid": "SOCIOL160",
+    "coursedescription": "This course will examine social problems with a focus on the United States through various sociological perspectives. We will apply the analytical insights and theoretical frameworks of sociology to understand which issues are constituted social problems and how social conditions may lead to the development of contemporary social problems. Additionally, we will explore possible strategies and solutions to address social inequality.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sociology of Race & Racism",
+    "courseid": "SOCIOL200",
+    "coursedescription": "This course uses contemporary social problems to introduce students to sociological theories of race and racism and to examine the cause of systemic racial inequalities across many social institutions. Some of the issues the course may address include, mass incarceration, the racial wealth gap, racial disparities and discrimination in health care, education, housing and employment, as well as media discourses and stereotypes of racialized populations.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sociological Theory",
+    "courseid": "SOCIOL201",
+    "coursedescription": "This course is a study of basic sociological works in theory. Students will read and discuss both classical and contemporary theorists. Students will learn to identify different schools of sociological theory, explain the relationship between different schools of sociological theory, and apply sociological theory to contemporary events.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Methods of Sociological Research",
+    "courseid": "SOCIOL202",
+    "coursedescription": "This course covers all aspects of social research design, implementation, and data analysis. Emphasis is placed on the development of research projects and using quantitative and qualitative methods to study contemporary social issues.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Youth & Society",
+    "courseid": "SOCIOL226",
+    "coursedescription": "This course explores the social construction of \"youth\" in the United States at the turn of the 20th/21st century. A central aim of the course is to question the taken-for-granted assumptions of \"youth' and to explore the experiences of youth through an intersectional approach. Possible topics covered include how youth experience sexuality, public spaces, schools, the labor market, violence, and activism.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Race, Incarceration, and Deportation",
+    "courseid": "SOCIOL230",
+    "coursedescription": "Police shootings of black youth have become a lightening rod for debates over race and racism in the US today. Debates over immigration and border control are another barometer of US racial attitudes. Operating behind these highly visible and controversial public issues, there are disparate patterns of privilege and inequality that are connected to the rise of mass incarceration and mass deportations, but which are not as easy to see. The goal of this class is to help students develop a deeper sociological understanding of these issues that is informed by theories of race and racism, stratification, and structural inequality.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sociology of Education",
+    "courseid": "SOCIOL238",
+    "coursedescription": "This course focuses on education as an institution with emphasis on the U.S. We will study the structural features of different American schools and colleges and the relevance of these features to the economy. We will study the structural features of different American schools and colleges and their relevance to the economy as well as to class-based, racialized, and gendered experiences in schools. Possible additional topics include the privatization of education and charter schools, inequality in access to education, and schools as sites for furthering social justice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sociology of Family",
+    "courseid": "SOCIOL242",
+    "coursedescription": "This course focuses on current social changes affecting American families, with particular emphasis on the intersection of families with other social institutions. It considers the social and political implications of these changes at the individual level and for society at large.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Deviance and Social Control",
+    "courseid": "SOCIOL261",
+    "coursedescription": "In this course we look at deviance as a socially constructed phenomenon: how people and activities come to be defined as deviant, why, and to what effect that has on them and the broader society. We use the interactionist perspective to explore various types of deviance, how time, place, and person impact the application of the deviant label, and how these definitions impact our lives. The course may address topics such as researching deviance, moral panics, and policies and politics related to defining and responding to deviance.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Criminology",
+    "courseid": "SOCIOL262",
+    "coursedescription": "This course examines sociological perspectives on why crime occurs, including the causes of crime, who commits crime, why some places have more crime that others, and how we can reduce crime. In this class, we will examine the historical foundations of crime, theoretical explanations for offending, and the measurement of crime. Additional topics may include juvenile delinquency, victimization, media portrayal of crime, and social and criminal justice responses to offending.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Inequality in Cities",
+    "courseid": "SOCIOL311",
+    "coursedescription": "This course will discuss how inequality manifests in cities, including segregation, poverty, and gentrification. The course will also study historical housing policies, such as redlining, to better understand these contemporary issues. This course focuses not just on problems but what we can do to make our cities more equitable places to live. We focus on Boston whenever possible, connecting sociological ideas to our own city.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Family Violence",
+    "courseid": "SOCIOL316",
+    "coursedescription": "This course provides a critical understanding of force and violence within family structures with a focus on the United States. The course focuses on the intersections of race/ethnicity, social class, sexual orientation and gender to explore the long-term impact of family on victims, the social context of perpetrators, and the causes of violence. Topics also include society's reaction to family violence, policies of control and treatment, and the sexual abuse and exploitation of children of women.",
+    "course-prerequsities": [
+      "SOCIOL 101",
+      "SOCIOL 262"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Activism, Protests, and Social Movements",
+    "courseid": "SOCIOL331",
+    "coursedescription": "From phone-banking to rioting and everything in between, this course explores how individuals have attempted to create change. In this course we explore when, why, and how people join together to press for social change. What are the conditions that facilitate or obstruct the emergence of a movement? Why do some movements succeed while other fail? We will examine examples of social movements to help us answer these questions. The social movements might include: Black Lives Matter, the Occupy Movement, the Gay Liberation Movement, the Women's Movement, the Civil Rights and Black Power Movements, and the Labor Movement.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Police in Society",
+    "courseid": "SOCIOL337",
+    "coursedescription": "An examination of police as a system of social control; a survey of major studies of police by sociologists and government commissions. Emphasis placed on police organization, patterns and consequences of police training, historical and cross-cultural perspectives of police systems and studies of police discretion and police-citizen interaction.",
+    "course-prerequsities": [
+      "SOCIOL 101",
+      "SOCIOL 104"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Criminal Courts",
+    "courseid": "SOCIOL338",
+    "coursedescription": "This course considers the organization and functions of criminal courts. The foundations and designs of court systems and issues relevant to American state and federal courts are examined. Special attention is paid to the roles and interactions of courtroom actors, including defendants, victims, prosecutors, defense attorneys, judges, and juries. Pre-trial processes, plea-bargaining, sentencing, and specialized courts are also considered. This course focuses on the design, structures, and processes, of criminal courts rather than on legal theory or on the study of particular laws.",
+    "course-prerequsities": [
+      "SOCIOL 101",
+      "SOCIOL 104"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sociology of Law",
+    "courseid": "SOCIOL339",
+    "coursedescription": "This course provides a general analysis of the social origins and consequences of law and legal process. Special attention will be paid to law as a method of conflict resolution, law as a social control structure, and the law as a medium that both reflects and creates social change.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Aging and Society",
+    "courseid": "SOCIOL342L",
+    "coursedescription": "This course provides and overview of aging across the life course. Topics include the sociological components of aging from birth through childhood, young adulthood, adulthood, old age, and dying. Special emphasis is placed on the impact of gender, race, and social class on the aging process in the United States.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Self in Society: Studies of Autobiographies",
+    "courseid": "SOCIOL346",
+    "coursedescription": "This course uses sociological readings and a wide variety of autobiographical materials to help students make sociological sense of their own and others' lives. The course addresses how the development of identity and the development of personal empowerment are affected by discrimination. Selected readings by Goffman, Gilligan, Erikson, Mills, and others aid in the interpretation of autobiographies. Written and oral reports are used to practice the skills of listening, describing, analyzing, and interpreting.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Social Statistics",
+    "courseid": "SOCIOL350",
+    "coursedescription": "This course examines the fundamentals of social statistics with a special emphasis on probability, tests of significance, and measures of association.",
+    "course-prerequsities": [
+      "SOCIOL 101",
+      "MATH 114Q",
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Criminological Statistics and Data Analysis",
+    "courseid": "SOCIOL352",
+    "coursedescription": "This course introduces students to common sources of data in criminological research and to methods of data analysis. The purpose of the course is to teach student show to analyze social scientific data, using crime and the criminal justice system as the substantive focus. In addition to basic statistical techniques, the course will introduce mapping and qualitative data analysis, and discuss their application to criminological research.",
+    "course-prerequsities": [
+      "SOCIOL 101",
+      "MATH 114Q",
+      "115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Gender, Development, &Globalization",
+    "courseid": "SOCIOL355L",
+    "coursedescription": "This interdisciplinary course explores women, gender, globalization and development theories, and their relationship to policy and practice. The politics of representation and the relationship between knowledge production and power will be running themes throughout the course. We will also discuss how gender intersects with race, class, nation, sexuality, (dis)ability, regional location, and other aspects of identity. We will answer questions such as: How do we theorize women, gender, masculinity in development discourse\"? How has development knowledge defined both women and men from the: Third World/Developing Countries/The Global South? How have local and transnational advocacy organizations and movements resisted this impact?",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Juvenile Delinquency",
+    "courseid": "SOCIOL362",
+    "coursedescription": "This course considers how juvenile delinquency is defined and socially constructed. Students will explore a variety of perspective that help us understand juvenile delinquency, such as social process theories, social structural theories, and critical theories. This course considers the realities and challenges that youth experience in a variety of contexts such as the family, school, peers, and gangs. In addition, consideration is given to how society responds to youth who violate social norms and the historical contexts of juvenile justice policy and practices.",
+    "course-prerequsities": [
+      "SOCIOL 101",
+      "SOCIOL 262"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Punishment and Corrections",
+    "courseid": "SOCIOL363",
+    "coursedescription": "This course provides a general overview of the American correctional system. The course will consider how society responds to crime by looking at approaches to punishment and corrections. The class will explore the history of punishment, the internal dynamics and workings of a prison, the experiences of both corrections officers and the individuals who are incarcerated, and the impact former inmates and our correctional systems have on our communities. Throughout the course, students will examine the issues that challenge corrections today including shifting societal expectations. The course considers a number of issues such as the history of penology; jails, prisons, and community-based supervision; the duties and discretion of correctional employees; and prisoner reentry.",
+    "course-prerequsities": [
+      "SOCIOL 101",
+      "SOCIOL 104"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Victimology",
+    "courseid": "SOCIOL365",
+    "coursedescription": "This course examines criminal victimization including the measurement of victimization, the scope of the problem, and how victimization differs from its portrayal in the media. This class will consider questions such as why victimization occurs, who is most at risk to be victimized, and what factors are associated with fear of crime. We will also examine topics such as the victim's role in the criminal justice process, the role of various occupations in working with victims, the consequences of victimization, how to reduce victimization risk, and strategies to minimize harm resulting from criminal victimization.",
+    "course-prerequsities": [
+      "SOCIOL 101",
+      "SOCIOL 262"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Drugs and Society",
+    "courseid": "SOCIOL367",
+    "coursedescription": "This course considers drug use in a variety of social contexts, comparative approaches to addressing drug use, and the evolution of drug policy it the United States. We will consider the origins and consequences of the use and abuse of consciousness-altering substances, as well as the relationship between substance use and property and violent offending. We will consider how society defines the harms associated with drug use and how social and political constructions of drugs as a social problem shape legislation, policy debates, and drug policy enforcement.",
+    "course-prerequsities": [
+      "SOCIOL 101",
+      "262"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Globalization and Social Change",
+    "courseid": "SOCIOL372",
+    "coursedescription": "Globalization is a controversial issue. Some people believe that globalization offers unlimited positive potential for economic growth, cultural exchange, the expansion of liberal democracy, and advances in technology. Others view globalization as dominated by corporations and wealthy elites, representing the destructive power of capitalism. This course examines the contested meanings and realities of globalization by exploring the development of global capitalism with a focus on changing relationships between markets, states, cultural institutions, and individuals. Questions of power and inequality will be central to our approach. We will also explore the possibilities of transnational activism and global justice movements.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Sociology of Gender",
+    "courseid": "SOCIOL382",
+    "coursedescription": "Gender is often taken-for-granted in everyday life, yet it is one of the most salient dimensions of social inequality. This course will use feminist theory to analyze the social construction of sex and gender. This course will pay attention to how gender intersects with other systems of power such as race, class, and sexual orientation to shape individual interactions, institutions, and larger social forces in both the U.S. and global contexts.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Law and Criminal Justice",
+    "courseid": "SOCIOL461",
+    "coursedescription": "It includes both an internship component and seminar-style classroom meetings. The course meetings will give a complete overview of the criminal justice system. Focusing on core topics such as crime, policy, courts, corrections, probation, parole, reentry, criminal justice proceedings, crime causation, criminal law, sentencing, victims, and the social impacts of crime. Students will apply for an internship the semester prior to taking the course at a criminal justice agency or related organization. Examples include law enforcement agencies, private or public research entities, policy-making bodies, the legislature, the court system, substance abuse treatment facilities, probation, parole, corrections, or human services agencies that are connected to the criminal justice system. The internship, in conjunction with lectures and classroom activities, is designed to allow students to gain practical knowledge of the criminal justice system.",
+    "course-prerequsities": [
+      "SOCIOL 104",
+      "SOCIOL 202",
+      "SOCIOL 262",
+      "SOCIOL 350",
+      "SOCIOL 352",
+      "PSYCH 370",
+      "75"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Senior Seminar in Sociology",
+    "courseid": "SOCIOL470",
+    "coursedescription": "This course fulfills the capstone requirement for Sociology majors. Each course offering takes an in-depth look at one key topic or issue in sociology that varies semester-to-semester.",
+    "course-prerequsities": [
+      "SOCIOL 201",
+      "SOCIOL 202",
+      "SOCIOL 350",
+      "SOCIOL 352",
+      "PSYCH 350",
+      "75"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Senior Seminar in Criminology and Criminal Justice",
+    "courseid": "SOCIOL474",
+    "coursedescription": "This course fulfills the capstone requirement for Criminology and Criminal Justice majors. Each course offering takes an in-depth look at one key topic or issue within criminology and/or criminal justice that varies semester-to-semester. Topics may include, but are not limited to: Offending over the life course, issues in mass incarceration and prisoner reentry, racial and ethnic disparities in criminal justice, victimization, comparative criminal justice, and the politics of crime control.",
+    "course-prerequsities": [
+      "SOCIOL 104",
+      "SOCIOL 202",
+      "SOCIOL 262",
+      "SOCIOL 350",
+      "SOCIOL 352",
+      "PSYCH 370",
+      "75"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics may include, but are not limited to: Offending over the life course, issues in mass incarceration and prisoner reentry, racial and ethnic disparities in criminal justice, victimization, comparative criminal justice, and the politics of crime control."
+      ]
+    }
+  },
+  {
+    "coursename": "Directed Study in Sociology",
+    "courseid": "SOCIOL478",
+    "coursedescription": "Students conduct independent research on a topic of their choosing. Students must first identify a faculty sponsor who agrees to oversee the research project. Students must then submit a research proposal and contract to the Sociology Department’s Director of Undergraduate Studies the semester prior to when the student would begin their project. Students who wish to complete an Honors College thesis must also have approval from their honors college advisor.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Contemporary Sociological Theory",
+    "courseid": "SOCIOL607",
+    "coursedescription": "This course introduces students to contemporary sociological theories. Sociological theory can illuminate and generate questions and research agendas we might not otherwise pursue. Sociological theory can also obscure, closing off research agendas we arguably should pursue. Together we will engage contemporary social theory, considering how it helps us explain data-driven findings, shapes the practice of sociology today, and influences our imaginings about other social worlds and disciplinary forms that might be possible. Particular theorists or traditions will be selected for study according to the interests of the instructor.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Particular theorists or traditions will be selected for study according to the interests of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "Sociology of Race and Racism",
+    "courseid": "SOCIOL647",
+    "coursedescription": "This course introduces students to the major sociological theoretical perspectives and current research on race and racism. The course presents students with a historical and contemporary review of how social theorists have framed and theorized race and racism in US and non-US contexts. We will examine racial formation, racial capitalism, settler colonialism, white supremacy as structure, critical race theory, colorblindness, and the racialized body. At the end of the semester, students should have attained a clear and comprehensive understanding of how race and racism have been formulated in the past and contemporary debates and their relations to other intersecting aspects of identity.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Quantitative Methods",
+    "courseid": "SOCIOL651",
+    "coursedescription": "This class provides introductory training for graduate students in the interpretation, analysis, and presentation of quantitative data for the social sciences. The course covers descriptive statistics, data visualization, cross-tabulation and regression analysis for social data. It also provides introductory training for computer-based statistical analyses; no prior experience with statistical software is required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Graduate Research Seminar",
+    "courseid": "SOCIOL694",
+    "coursedescription": "Among the most important aspects of graduate training is learning how to translate your broader sociological interests into a focused research project that offers contributions to the scientific community. The Graduate Research Seminar is designed to guide MA and PhD students through the process of producing an empirical research paper from beginning to end, including developing a unique research question that is grounded in the existing literature, answering your question through the analysis of quantitative or qualitative data, and communicating your findings to a relevant audience. In this intensive 6.0 credit course, the overarching research project will be scaffolded through assignments that ask you to engage with and build on these steps while integrating feedback from your instructors and peers along the way. The objective is for your final paper to be used for purposes beyond SOCIOL 694 course requirements and to serve as a building block in your larger research agenda. For MA students, the final paper must be accepted by the two instructors to fulfill the capstone requirement for the MA degree. Doctoral students may use the course to prepare for the Empirical Paper Comprehensive Exam. Please note that students need a background in quantitative and/or qualitative research methods prior to enrolling in this course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Among the most important aspects of graduate training is learning how to translate your broader sociological interests into a focused research project that offers contributions to the scientific community."
+      ]
+    }
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "SOCIOL696",
+    "coursedescription": "In-depth study of a particular topic according to the student's interests. Independent study projects are expected to make an important contribution to a student's training in applied sociology. All projects are under the supervision of a faculty advisor, who is responsible for guiding and evaluating the student's work.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In-depth study of a particular topic according to the student's interests."
+      ]
+    }
+  },
+  {
+    "coursename": "Field Work",
+    "courseid": "SOCIOL698",
+    "coursedescription": "Intensive field work and/or internship in a public or private research or practice setting jointly supervised by faculty and agency-based staff. Placements made according to student interest and internship availability.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Intensive field work and/or internship in a public or private research or practice setting jointly supervised by faculty and agency-based staff.",
+        "Placements made according to student interest and internship availability."
+      ]
+    }
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "SOCIOL897",
+    "coursedescription": "Various topics in Sociology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Credits",
+    "courseid": "SOCIOL899",
+    "coursedescription": "This is a course for students working on their dissertations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

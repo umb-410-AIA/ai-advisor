@@ -1,0 +1,46 @@
+[
+  {
+    "coursename": "Intensive Elementary German",
+    "courseid": "GERMAN100",
+    "coursedescription": "An intensive language course that covers the entire elementary level in one semester. Speaking, listening, reading and writing are practiced in situations based on real-life, using authentic texts. Open to all students with no previous academic training in German.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Elementary German II",
+    "courseid": "GERMAN102",
+    "coursedescription": "GERMAN 102 is designed for students with basic knowledge of German (GERMAN 101 or equivalent). Students will broaden their ability to express themselves orally and in writing and expand their strategies for understanding spoken and written German. At the end of this course, students will be able to communicate in German in a simple manner using everyday expressions.",
+    "course-prerequsities": [
+      "GERMAN 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Pacting with the Devil: The Faust Tradition",
+    "courseid": "GERMAN255L",
+    "coursedescription": "A reading and discussion course emphasizing critical interpretation of major texts in the Faust tradition from German folklore, Christopher Marlowe, J.W. von Goethe, Mikhail Bulgakov and others. Attention is given to the evolution of the legend and to other adaptations (in music and film) of Faustian material.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "European Crime Fiction",
+    "courseid": "GERMAN355L",
+    "coursedescription": "This course examines suspects, felons, and detectives in European crime fiction between the 18th century and today (in England, France, Germany, Italy, and Russia). It introduces students to the historical development of crime literature focusing on key authors, genres and movements. Beginning with the popularization of crime narratives in the era of Enlightenment, the course examines the development of genre conventions in subsequent centuries until the post-modern disintegration of narrative patterns. Particular emphasis is placed on the construction of gender roles, social class, national and regional identity through literature as a cultural practice. Taught in English; readings in the original language are available upon request.",
+    "course-prerequsities": [
+      "ENGL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "GERMAN379",
+    "coursedescription": "Independent Study is offered to students to study particular topics that are not provided for by regular curriculum offerings. The course enables a student to pursue a topic that is directly relevant to the student's course of study and to do so with a course instructor's oversight.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

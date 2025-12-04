@@ -1,0 +1,26 @@
+[
+  {
+    "coursename": "Advanced Seminar in Supervision",
+    "courseid": "ADMG655",
+    "coursedescription": "Both traditional and contemporary practices of supervising teachers and related support staff in educational settings are examined in the light of municipal budgets, collective bargaining positions, legal rights, and other such factors generally perceived as playing significant roles in the supervisory process.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship I Ed Adm",
+    "courseid": "ADMG686",
+    "coursedescription": "A laboratory course providing practical experience in educational administration on a part-time basis, with special focus on the role of the principal/assistant principal, the supervisor/director, or the administrator of special education. This course combines field experience in an appropriate setting with a seminar focused on relevant issues and concerns. It is designed for part-time students who are able to devoted ten hours per week over a 15-week span to administrative or supervisor duties and responsibilities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum II in Educational Administration",
+    "courseid": "ADMG687",
+    "coursedescription": "A continuation of ADM G 686, which must be taken within two years of completing ADM G 686.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

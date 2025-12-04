@@ -1,0 +1,45 @@
+[
+  {
+    "coursename": "Statistical Analysis for Managers",
+    "courseid": "MBAMS630",
+    "coursedescription": "Acquaints students with statistical techniques used in management decision-making and develops their ability to characterize management problems that can be solved by such techniques. Topics include descriptive statistics, probability distributions, sampling, estimation, hypothesis testing, simple and multiple regression and correlation, chi square testing, analysis of variance, and decision theory. Students make use of computers and appropriate software to apply what they are learning.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Operations Mgt",
+    "courseid": "MBAMS635",
+    "coursedescription": "This course familiarizes students with the analysis, planning, and control of operations and operating resources in both production and service organizations. Topics covered include product design and process selection, capacity planning, location and layout decisions, and inventory control. Analytical techniques used in system design and operations planning and control problems are also discussed. Students make use of computers and appropriate software to apply what they are learning.",
+    "course-prerequsities": [
+      "MBAMS 630",
+      "MSIS 630"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Management Decision Models",
+    "courseid": "MBAMS638",
+    "coursedescription": "Using the framework of 1) data, 2) models, and 3) decisions, this course familiarizes the student with the systematic use of data and models in decision-making. The student acquires an appreciation of management science approaches to solving problems in business or government, public or private and profit or not-for-profit sectors. Examples of problems from various sectors and from various functional areas are discussed. Students gather data about these problems, develop models, and explore solutions, using computer-based analysis and managerial judgment. In addition, \"what if\" analyses are used to determine the sensitivity of model solutions to uncertainties in data inputs. The course is computer-based, using many of the advanced features on Excel and/or other software packages.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computer & Info Syst",
+    "courseid": "MBAMS640",
+    "coursedescription": "This course examines the roles of information technologies (IS) and information systems (IS) in supporting an organization's operations, strategy, and change efforts. The course offers a comprehensive review of modern IT architectures and trends covering management of computer technologies, telecommunications, data organization, and IS applications. Major emphasis is given to the critical roles of IT and IS in innovating business models and processes, i.e., digital innovations, under different organizational settings. The course makes extensive use of case-based scenarios to describe and understand key issues in the planning, development, and implementation of IT-dependent strategic initiatives for business.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Lean and Six Sigma Management",
+    "courseid": "MBAMS652",
+    "coursedescription": "A revolution in management methods is moving through the global economy at breakneck speed, High performance, Six Sigma, Lean and IS management methods among them. The new methods aim to create competitive advantage which every enterprise needs in order to create sustained growth of its net income. In this course students study how to use the new leading edge methods for creating the required competitive advantages. The course focuses on how a company can create and deliver high value and quality to end-users, how it can design products and services so these will start their lives as growth products when launched, how the companies can manage its value chains so they become capable of operating with a productivity advantage at competitively low costs, how the two - the value and the productivity advantages - drive sustained growth of the \"bottom line\" - a company's net income. The student will study how, in this very competitive world, these new high performance methods will achieve stellar \"bottom line\" business results in an accelerated time frame under dynamically changing circumstances",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

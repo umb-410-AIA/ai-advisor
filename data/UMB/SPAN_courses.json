@@ -1,0 +1,139 @@
+[
+  {
+    "coursename": "Elementary Spanish I",
+    "courseid": "SPAN101",
+    "coursedescription": "Designed for students with little or no background in the Spanish language. SPAN 101 focuses on the acquisition of basic listening, speaking, reading, and writing skills within a cultural framework. Weekly laboratory attendance and assignments required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Elementary Spanish II",
+    "courseid": "SPAN102",
+    "coursedescription": "A continuation of SPAN 101. SPAN 102 focuses on furthering the acquisition of basic listening, speaking, reading, and writing skills within a cultural framework. Weekly laboratory attendance and assignments required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Spanish I",
+    "courseid": "SPAN201",
+    "coursedescription": "This course is designed for students who have completed one year of Spanish at the university level. SPAN 201 is dedicated to developing oral and written proficiency through lectures, conversations, compositions and the practical application of grammar. This course is taught primarily in Spanish.",
+    "course-prerequsities": [
+      "SPAN 102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Spanish II",
+    "courseid": "SPAN202",
+    "coursedescription": "A continuation of SPAN 201. SPAN 202 is dedicated to further developing oral and written proficiency through lectures, conversations, compositions and the practical application of grammar. This course is taught primarily in Spanish.",
+    "course-prerequsities": [
+      "SPAN 201"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Writing for Heritage Speakers of Spanish",
+    "courseid": "SPAN289",
+    "coursedescription": "This course is conducted as a workshop on expository writing for native speakers of Spanish and Spanish-heritage students. The course addresses the particular linguistic difficulties that native speakers encounter. Writing and intermediate research techniques, problems of style and correctness are the main issues.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Adv Rdg,Wrtg &Spkng",
+    "courseid": "SPAN301",
+    "coursedescription": "Course designed to help improve reading, writing and oral skills in Spanish. Individual reports on current events and class discussion of contemporary literature and films are used to develop oral skills. Practice in reading skills includes analysis of short stories, plays poems, novels, and newspaper articles. Written expression is strengthened through writing essays, journal entries, and reviews.",
+    "course-prerequsities": [
+      "SPAN 202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Spanish for Majors and Minors",
+    "courseid": "SPAN304",
+    "coursedescription": "This course prepares students to undertake advanced work in the Spanish major/minor. Its goal is to expand and refine reading comprehension, listening comprehension, and oral and written expression to prepare students to carry out all their academic work in Spanish. This class requires an original research project in Spanish. Open to native and non-native Spanish speakers.",
+    "course-prerequsities": [
+      "SPAN 202",
+      "301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Translation Spanish/English",
+    "courseid": "SPAN333",
+    "coursedescription": "This practice-driven course is a continuation of Span 317: \"Introduction to Translation Studies.\" Span 333 focuses on the use of linguistic and rhetorical analysis in order to produce comprehensible and culturally relevant translation. The course emphasizes critical analysis and creative resolution of translation issues, including style, register, tone, and audience and introduces students to the practice in translation a variety of genres and styles, including commercial, legal, and medical texts at the intermediate level.",
+    "course-prerequsities": [
+      "SPAN 317"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Spanish-American Essay",
+    "courseid": "SPAN364",
+    "coursedescription": "This course examines the essay in Spanish-American literature and the genre's evolution from the nineteenth century to the present. Students will read essays and chronicles to analyze the role of this genre in promoting political and esthetic ideas.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Practice of Translation",
+    "courseid": "SPAN409",
+    "coursedescription": "Practice in translating a variety of genres and styles, both literary and non-literary. Students have the opportunity to analyze critically, and to resolve creatively, the problems involving such issues in translation as context, register, tone, and audience. Emphasis is on translating into the native language (English/Spanish), but considerable practice is given in the non-native language.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Major Writers Hispanic Literature",
+    "courseid": "SPAN450",
+    "coursedescription": "A study of the works of one outstanding Spanish or Spanish-American author, chosen from such writers as Ana Maria Matute, Galdos, Unamuno, Dario, Neruda, Garcia Marquez, Garcia Lorca.",
+    "course-prerequsities": [
+      "360",
+      "SPAN 352",
+      "361"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "SPAN479",
+    "coursedescription": "Under very special circumstances, the department may grant special permission to a major to take a second course of independent study, following the procedures outlined for SPAN 478.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Under very special circumstances, the department may grant special permission to a major to take a second course of independent study, following the procedures outlined for SPAN 478."
+      ]
+    }
+  },
+  {
+    "coursename": "Internship Course in Latin American and Iberian Studies",
+    "courseid": "SPAN490L",
+    "coursedescription": "The Internship Course in Latin American and Iberian Studies is designed to provide students with meaningful, mentored experiential learning while exploring possible careers and making professional connections. Relevant fields include education, media, public agencies, arts, translation, law, health, non-profits, etc.",
+    "course-prerequsities": [
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors Thesis",
+    "courseid": "SPAN491",
+    "coursedescription": "A paper written under the supervision of a member of the Spanish Department and with permission of the department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A paper written under the supervision of a member of the Spanish Department and with permission of the department."
+      ]
+    }
+  }
+]
