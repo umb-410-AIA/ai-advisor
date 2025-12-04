@@ -23,6 +23,7 @@ create table if not exists chats (
   role text check (role in ('user','assistant','system','tool')) not null,
   content text,
   tool_call_id text,
+  tool_calls jsonb,
   created_at timestamptz default now()
 );
 
