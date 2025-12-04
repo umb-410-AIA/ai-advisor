@@ -389,17 +389,8 @@ export async function llm(user_id: string,
 
   // get reply
   let reply = completion.choices[0]?.message;
-  
-  const assistantContent = reply.content ?? "";
-
-  console.log(reply.tool_calls)
-
-  messages.push({
-    role: "assistant",
-    content: assistantContent,
-    tool_calls: reply.tool_calls
-  });
-
+  console.log("LLM REPLY: ", reply)
+  const assistantContent = reply.content ?? "Thinking...";
   await insertChatMessage({
     user_id,
     chat_id,
@@ -409,81 +400,70 @@ export async function llm(user_id: string,
     tool_call_id: null
   });
 
-  // set ui response
-  llmRes.bot = reply.content;
-  console.log("MESSAGES:\n", messages)
-
   // Source ChatGPT:
   // Prompt: Rewrite this code to handle multiple tool calls in a loop until no tool calls are left.
   // Current code only handles one tool call.
   // *-- begin llm tool call loop --*
   // check for tool calls
   if (reply.tool_calls?.length > 0) {
-    for (const toolCall of reply.tool_calls) {
-      console.log("TOOL CALL\n", toolCall.function.name);
-      const args = JSON.parse(toolCall.function.arguments);
-        
-      let result;
-      // Parse tool call
-      const functionName = toolCall.function.name
-      if (functionName == "getMajorByUniversity") {
-        console.log(args.university_id)
+      for (const toolCall of reply.tool_calls) {
+        console.log("TOOL CALL\n", toolCall.function.name);
+        const args = JSON.parse(toolCall.function.arguments);
+          
+        let result;
+        // Parse tool call
+        const functionName = toolCall.function.name
+        if (functionName == "getMajorByUniversity") {
+          console.log(args.university_id)
+            result = {
+            MAJOR_LIST: await getMajorByUniversity(args.university_id)
+          };
+        }
+
+        else if (functionName == "getCoursesByMajor") {
           result = {
-          MAJOR_LIST: await getMajorByUniversity(args.university_id)
-        };
-      }
+            COURSE_LIST: await getCoursesByMajor(args.major, args.university_id)
+          };
+        } 
 
-      else if (functionName == "getCoursesByMajor") {
-        result = {
-          COURSE_LIST: await getCoursesByMajor(args.major, args.university_id)
-        };
-      } 
+        else if (functionName == "updateUserProfile") {
+          await upsertUserData(user_id, args);
+          result = {
+            success: true,
+            reprompt: SAVED_REPROMPT
+          };
+        }
 
-      else if (functionName == "updateUserProfile") {
-        await upsertUserData(user_id, args);
-        result = {
-          success: true,
-          reprompt: SAVED_REPROMPT
-        };
-      }
+        else if (functionName == "visualizeCoursePath") {
+          result = {
+            COURSE_LIST: await getCoursesByMajor(args.major, args.university_id),
+            reprompt: VISUALIZATION_REPROMPT
+          };
+        }
 
-      else if (functionName == "visualizeCoursePath") {
-        result = {
-          COURSE_LIST: await getCoursesByMajor(args.major, args.university_id),
-          reprompt: VISUALIZATION_REPROMPT
-        };
-      }
+        // REPROMPT AFTER TOOL CALL
+        const msg: LLMResponse = {
+          user_id: user_id,
+          chat_id : chat_id,
+          role: "tool",
+          tool_call_id: toolCall.id,
+          content: JSON.stringify(result)
+        }
+        await insertChatMessage(msg);
 
-      // REPROMPT AFTER TOOL CALL
-      const msg: LLMResponse = {
-        user_id: user_id,
-        chat_id : chat_id,
-        role: "tool",
-        tool_call_id: toolCall.id,
-        content: JSON.stringify(result)
-      }
-      messages.push({role: "tool", content: msg.content, tool_call_id: msg.tool_call_id});
-      await insertChatMessage(msg);
-
-      llmRes.tool_id = functionName
+        llmRes.tool_id = functionName
     }
-
-    const completion = await openai.chat.completions.create({
-      model: "gpt-4o-mini",
-      messages: messages
-    });
-    reply = completion.choices[0]?.message;
-    reply.content = reply.content ?? "";
-
-    // process mermaid if present
-    const { cleanedText, mermaid } = extractMermaidFromText(reply.content);
-
-    // update llmRes
-    llmRes.bot = cleanedText;
-    llmRes.mermaid = mermaid;
   }
   // *-- end llm tool call loop --*
 
+  // process mermaid if present
+  const { cleanedText, mermaid } = extractMermaidFromText(assistantContent);
+
+  // update llmRes
+  llmRes.tool_calls = reply.tool_calls
+  llmRes.bot = cleanedText;
+  llmRes.mermaid = mermaid;
+  console.log(llmRes)
   if (!llmRes.bot) {
     throw new Error("No reply from LLM");
   }

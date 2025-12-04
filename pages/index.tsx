@@ -28,7 +28,7 @@ export interface MessageBox {
   };
   mermaid?: string;
   tool_id?: string;
-  tool_calls?: string[];
+  tool_calls?: Object[];
 }
 
 const CHAT_API = "/api/chat"
@@ -80,8 +80,8 @@ export default function Home() {
         // look for old chats
         if (profile.chats) {
           setChat(profile.chats.map(m => ({
-            user: m.role === "user" ? m.message : undefined,
-            bot: m.role === "assistant" ? m.message : ""
+            user: m.role === "user" ? m.content : undefined,
+            bot: m.role === "assistant" ? m.content : ""
           })));
         } else {
           // ONBOARD ROUTING
@@ -135,14 +135,11 @@ export default function Home() {
 
         // get response from llm
         const llmRes = await res.json();
-
-        if (llmRes.tool_id) {
-          setChat((chat) => { return [...chat, llmRes] });
-          message = "tool";
+        setChat((chat) => { return [...chat, llmRes] });
+        if (llmRes.tool_calls) {
+          message = 'tool';
           continue;
         } else {
-          // show llm response
-          setChat((chat) => { return [...chat, llmRes] });
           break;
         }
       }
@@ -359,28 +356,33 @@ export default function Home() {
           ) : (
             chat.map((msg, i) => (
               <div key={i} style={styles.chatMessage}>
-                <div style={{ marginBottom: 8 }}>
-                  <b>You:</b>
-                  <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
-                </div>
-                <div>
-                  <b>Bot:</b>
-                  <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
+                {msg.user && msg.user.trim() !== "" && (
+                  <div style={{ marginBottom: 8 }}>
+                    <b>You:</b>
+                    <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
+                  </div>
+                )}
 
-                  {/* Render mermaid chart if present */}
-                  {msg.mermaid && (
-                    <div style={{ marginTop: 15 }}>
-                      <FlowChart chart={msg.mermaid} />
-                    </div>
-                  )}
+                {msg.bot && msg.bot.trim() !== "" && (
+                  <div>
+                    <b>Bot:</b>
+                    <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
 
-                  {/* Render visualization if available */}
-                  {msg.visualization && (
-                    <div style={{ marginTop: 15 }}>
-                      {renderVisualization(msg.visualization)}
-                    </div>
-                  )}
-                </div>
+                    {/* Render mermaid chart if present */}
+                    {msg.mermaid && (
+                      <div style={{ marginTop: 15 }}>
+                        <FlowChart chart={msg.mermaid} />
+                      </div>
+                    )}
+
+                    {/* Render visualization if available */}
+                    {msg.visualization && (
+                      <div style={{ marginTop: 15 }}>
+                        {renderVisualization(msg.visualization)}
+                      </div>
+                    )}
+                  </div>
+                )}
               </div>
             ))
           )}
