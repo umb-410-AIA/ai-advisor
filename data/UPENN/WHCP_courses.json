@@ -1,0 +1,42 @@
+[
+  {
+    "coursename": "WHCP 6140 Management Communication",
+    "courseid": "WHCP 6140",
+    "coursedescription": "In this required course, students learn tools and strategies to drive organizational change. Students will develop and practice the main communication elements of idea realization – taking an idea, change, or new initiative from the initial proposal through management approval. Communication topics covered include fundamentals of persuasion, presentation structure and organization, data visualization, and delivery techniques. Through practice and individualized feedback from their instructor and peers, students will hone their speaking style and strengthen their confidence in public speaking. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "WHCP 6160 Management Communication",
+    "courseid": "WHCP 6160",
+    "coursedescription": "This course focuses on how to clearly and persuasively articulate, advocate for, and defend your views in various business settings. You will learn the essentials of persuasion, gain confidence in presenting, and receive individualized feedback from instructors and second year TAs (Wharton Communication Fellows). Regardless of your skill level upon entry to the course, you will develop and demonstrate effective, business-oriented communication skills. Students will practice these skills through in-class exercises, discussions, and small-group labs led by the Communication Fellows (TAs).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "WHCP 6180 Entrepreneurial Communication",
+    "courseid": "WHCP 6180",
+    "coursedescription": "Designed for students who are actively working on a business idea while at Wharton, this course focuses on the unique challenges entrepreneurs face when communicating their ideas, vision, and strategy – both externally and internally. Students will analyze a broad spectrum of startup audiences, from investors to employees. Using their own ideas, they will learn frameworks and templates for persuasively communicating their business story from inception to launch, including communicating the founder’s story and the business opportunity. Students will hone their pitch decks and receive coaching from a successful entrepreneur. At the conclusion of the course, students will have the opportunity to pitch their business idea to local investors. Students will practice these skills through in-class exercises, discussions, and small-group labs led by the Communication Fellows (TAs). Enrollment in WHCP 6180 requires pre-approval.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "WHCP 6190 Management Communication: Advanced Persuasion",
+    "courseid": "WHCP 6190",
+    "coursedescription": null,
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units"
+    }
+  }
+]

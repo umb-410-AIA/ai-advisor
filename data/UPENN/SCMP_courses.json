@@ -1,0 +1,33 @@
+[
+  {
+    "coursename": "SCMP 5590 Multiscale Modeling of Chemical and Biological Systems",
+    "courseid": "SCMP 5590",
+    "coursedescription": "This course provides theoretical, conceptual, and hands-on modeling experience on three different length and time scales - (1) electronic structure (A, ps); (2) molecular mechanics (100A, ns); and (3) deterministic and stochastic approaches for microscale systems (um, sec). Students will gain hands-on experience, i.e., running codes on real applications together with the following theoretical formalisms: molecular dynamics, Monte Carlo, free energy methods, deterministic and stochastic modeling, multiscale modeling. Prerequisite: Undergraduate courses in numerical analysis and physical chemistry. Not Offered Every Year Also Offered As: BE 5590 , CBE 5590 1 Course Unit",
+    "course-prerequsities": [
+      "BE 5590",
+      "CBE 5590"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SCMP 5990 Master's Independent Study",
+    "courseid": "SCMP 5990",
+    "coursedescription": "For Scientific Computing master's students. Involves coursework and class presentations. The project will invariably include formally gradable work comparable to that of a CIS 500 level course. Students should discuss with the faculty supervisor the scope of the independent study, expectations, work involved, etc. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  },
+  {
+    "coursename": "SCMP 9990 Master's Thesis",
+    "courseid": "SCMP 9990",
+    "coursedescription": "For students working on an advanced research program leading to the completion of master's thesis requirements.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1,2 Course Units"
+    }
+  }
+]

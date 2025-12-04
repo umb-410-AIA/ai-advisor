@@ -1,0 +1,322 @@
+[
+  {
+    "coursename": "EDEN 5010 Entrepreneurship in Education",
+    "courseid": "EDEN 5010",
+    "coursedescription": "Entrepreneurship in Education provides an understanding of the nature of entrepreneurship related to public/private/for profit and non-profit educational and social organizations. The course focuses on issues of management, strategies and financing of early stage entrepreneurial ventures, and on entrepreneurship in established educational organizations. Students will learn the fundamentals of business plan design and development. This course is only available to students in the Education Entrepreneurship program. Prerequisite: Enrollment in Education Entrepreneurship program. Summer Term 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "TERM 0.5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5010A Entrepreneurship in Education",
+    "courseid": "EDEN 5010A",
+    "coursedescription": "Entrepreneurship in Education provides an understanding of the nature of entrepreneurship related to public/private/for profit and non-profit educational and social organizations. The course focuses on issues of management, strategies and financing of early stage entrepreneurial ventures, and on entrepreneurship in established educational organizations. Students will learn the fundamentals of business plan design and development. This course is only available to students in the Education Entrepreneurship program. Prerequisite: Enrollment in Education Entrepreneurship program. 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5010B Entrepreneurship in Education",
+    "courseid": "EDEN 5010B",
+    "coursedescription": "Entrepreneurship in Education provides an understanding of the nature of entrepreneurship related to public/private/for profit and non-profit educational and social organizations. The course focuses on issues of management, strategies and financing of early stage entrepreneurial ventures, and on entrepreneurship in established educational organizations. Students will learn the fundamentals of business plan design and development. This course is only available to students in the Education Entrepreneurship program. Prerequisite: Enrollment in Education Entrepreneurship program. 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5020 Foundations of Education",
+    "courseid": "EDEN 5020",
+    "coursedescription": "Foundations of Education surveys basic issues in the philosophical and social foundations of education. The course addresses basic questions about the purpose of education, the appropriate treatment for children from different cultural and economic groups and the relationship between rigor and relevance. Intended for advanced Masters and doctoral students. Prerequisite: Enrollment in Education Entrepreneurship program. Summer Term 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "TERM 0.5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5030 Management in Education",
+    "courseid": "EDEN 5030",
+    "coursedescription": "Management in Education introduces the critical management skills involved in planning, structuring, controlling and leading an organization. The course provides a framework for understanding issues involved in both managing and being managed. The class develops a systems view of organizations, examining organizations as part of a context, including but not limited to environment, strategy, structure, culture, tasks, people and outputs. Students consider how managerial decisions made in any one of these domains affect decisions in each of the others. Prerequisite: Enrollment in Education Entrepreneurship program. Summer Term 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "TERM 0.5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The class develops a systems view of organizations, examining organizations as part of a context, including but not limited to environment, strategy, structure, culture, tasks, people and outputs."
+      ]
+    }
+  },
+  {
+    "coursename": "EDEN 5030A Management in Education",
+    "courseid": "EDEN 5030A",
+    "coursedescription": "Management in Education introduces the critical management skills involved in planning, structuring, controlling and leading an organization. The course provides a framework for understanding issues involved in both managing and being managed. The class develops a systems view of organizations, examining organizations as part of a context, including but not limited to environment, strategy, structure, culture, tasks, people and outputs. Students consider how managerial decisions made in any one of these domains affect decisions in each of the others. Prerequisite: Enrollment in Education Entrepreneurship program. 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The class develops a systems view of organizations, examining organizations as part of a context, including but not limited to environment, strategy, structure, culture, tasks, people and outputs."
+      ]
+    }
+  },
+  {
+    "coursename": "EDEN 5030B Management in Education",
+    "courseid": "EDEN 5030B",
+    "coursedescription": "Management in Education introduces the critical management skills involved in planning, structuring, controlling and leading an organization. The course provides a framework for understanding issues involved in both managing and being managed. The class develops a systems view of organizations, examining organizations as part of a context, including but not limited to environment, strategy, structure, culture, tasks, people and outputs. Students consider how managerial decisions made in any one of these domains affect decisions in each of the others. Prerequisite: Enrollment in Education Entrepreneurship program. 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The class develops a systems view of organizations, examining organizations as part of a context, including but not limited to environment, strategy, structure, culture, tasks, people and outputs."
+      ]
+    }
+  },
+  {
+    "coursename": "EDEN 5040A Capstone",
+    "courseid": "EDEN 5040A",
+    "coursedescription": "The Capstone Experience is the culminating project of the EdEnt Program. Students acquire and develop the foundations for the ideation, design and launch of an innovative education venture whether entrepreneurial or intrapreneurial. The process of developing the project is an integrative one that brings together the concepts, tools, approaches and frameworks learned throughout the Program. Students start with an idea, build a business case, and then validate their idea using a series of evaluative methods and tests learned through coursework, independent research, product/service design and development activities. The Capstone Experience concludes with the presentation of a new Venture Pitch and the submission of a pro forma Business Plan suitable for presenting to prospective customers, end users, investors, funders, business partners, staff and other ecosystem stakeholders. The process equips an entrepreneur or an intrapreneur to tackle the next steps of launching their venture - whether that is building a minimally viable product, testing with customers, bringing on team members or seeking funding. Prerequisite: Enrollment Education Entrepreneurship program. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDEN 5040B Capstone",
+    "courseid": "EDEN 5040B",
+    "coursedescription": "The Capstone Experience is the culminating project of the EdEnt Program. Students acquire and develop the foundations for the ideation, design and launch of an innovative education venture whether entrepreneurial or intrapreneurial. The process of developing the project is an integrative one that brings together the concepts, tools, approaches and frameworks learned throughout the Program. Students start with an idea, build a business case, and then validate their idea using a series of evaluative methods and tests learned through coursework, independent research, product/service design and development activities. The Capstone Experience concludes with the presentation of a new Venture Pitch and the submission of a pro forma Business Plan suitable for presenting to prospective customers, end users, investors, funders, business partners, staff and other ecosystem stakeholders. The process equips an entrepreneur or an intrapreneur to tackle the next steps of launching their venture - whether that is building a minimally viable product, testing with customers, bringing on team members or seeking funding. Prerequisite: Enrollment Education Entrepreneurship program. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDEN 5040C Capstone",
+    "courseid": "EDEN 5040C",
+    "coursedescription": "The Capstone Experience is the culminating project of the EdEnt Program. Students acquire and develop the foundations for the ideation, design and launch of an innovative education venture whether entrepreneurial or intrapreneurial. The process of developing the project is an integrative one that brings together the concepts, tools, approaches and frameworks learned throughout the Program. Students start with an idea, build a business case, and then validate their idea using a series of evaluative methods and tests learned through coursework, independent research, product/service design and development activities. The Capstone Experience concludes with the presentation of a new Venture Pitch and the submission of a pro forma Business Plan suitable for presenting to prospective customers, end users, investors, funders, business partners, staff and other ecosystem stakeholders. The process equips an entrepreneur or an intrapreneur to tackle the next steps of launching their venture - whether that is building a minimally viable product, testing with customers, bringing on team members or seeking funding. Prerequisite: Enrollment Education Entrepreneurship program. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDEN 5040D Capstone",
+    "courseid": "EDEN 5040D",
+    "coursedescription": "The Capstone Experience is the culminating project of the EdEnt Program. Students acquire and develop the foundations for the ideation, design and launch of an innovative education venture whether entrepreneurial or intrapreneurial. The process of developing the project is an integrative one that brings together the concepts, tools, approaches and frameworks learned throughout the Program. Students start with an idea, build a business case, and then validate their idea using a series of evaluative methods and tests learned through coursework, independent research, product/service design and development activities. The Capstone Experience concludes with the presentation of a new Venture Pitch and the submission of a pro forma Business Plan suitable for presenting to prospective customers, end users, investors, funders, business partners, staff and other ecosystem stakeholders. The process equips an entrepreneur or an intrapreneur to tackle the next steps of launching their venture - whether that is building a minimally viable product, testing with customers, bringing on team members or seeking funding. Prerequisite: Enrollment Education Entrepreneurship program. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDEN 5041A Capstone I",
+    "courseid": "EDEN 5041A",
+    "coursedescription": "Over the next semester in Capstone, you’ll take what you’ve learned in all your courses in the Education Entrepreneurship Program—and apply that learning to design a venture you can launch in the real world, within your current organization, or as a new organization. As you do the work, you’ll develop your education entrepreneurial/intrapreneurial competencies. Competencies combine the concepts learned in other courses, the skills acquired in different classes and Capstone, and the mindsets developed in other courses and Capstone. Capstone accomplishes the objective of entrepreneurial/intrapreneurial competency development by creating a three-part venture design process: venture discovery, venture development, and venture modeling. 1. Venture discovery is accomplished through the problem-defining and customer discovery processes (roughly August - December). Both these processes are iterative. By the middle of December, you should have clearly defined your problem and ideal customer. To accomplish this, you must begin the discovery process in August, immediately after our first intensive. 2. Venture development occurs between January and March by developing and running a Minimum Viable Experiment (MVE). 3. Venture modeling happens via business modeling (in your Finance course) and pitch development (in your Capstone course). You will develop the components of the venture model beginning in December and continuing and iterating all winter and spring. Through the first half of this year-long process, you will: ● apply the concepts you’re learning in your other EdEnt courses ● practice key entrepreneurial skills ● develop stronger entrepreneurial mindsets ● build powerful and lasting relationships ● build and access influential networks The pedagogy of Capstone is experiential learning, i.e.,’ learning by doing: by doing problem defining, by doing customer discovery, by doing a minimum viable experiment, by doing business modeling, you will learn how to become a better entrepreneur/intrapreneur. In addition, by learning how to tell stories–of your venture, venture journey, and journey– in concise, compelling ways, you will learn how to acquire the resources you need to accomplish your venture goals. You’ll have repeated opportunities over the year to develop, test, and iterate on your venture story and tell it to various audiences in various settings and time scales. This storytelling culminates in your final paper and your final pitch. The Capstone faculty and mentors, a deeply experienced team of academic, business, and design professionals available to mentor and advise you in group and individual settings, will support you in your journey. In addition, the previous eight cohorts of EdEnt are an invaluable asset. Alumni will occasionally return to engage with you to share their entrepreneurial journeys, as will additional speakers via webinars. We will also offer supplemental content webinars, some of which may require viewing. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units"
+    }
+  },
+  {
+    "coursename": "EDEN 5041B Capstone I",
+    "courseid": "EDEN 5041B",
+    "coursedescription": "Over the next year in Capstone, you’ll take what you’ve learned in all your courses in the Education Entrepreneurship Program—and apply that learning to design a venture you can launch in the real world, within your current organization, or as a new organization. As you do the work, you’ll develop your education entrepreneurial/intrapreneurial competencies. Competencies combine the concepts learned in other courses, the skills acquired in different classes and Capstone, and the mindsets developed in other courses and Capstone. Capstone accomplishes the objective of entrepreneurial/intrapreneurial competency development by creating a three-part venture design process: venture discovery, venture development, and venture modeling. 1. Venture discovery is accomplished through the problem-defining and customer discovery processes (roughly August - December). Both these processes are iterative. By the middle of December, you should have clearly defined your problem and ideal customer. To accomplish this, you must begin the discovery process in August, immediately after our first intensive. 2. Venture development occurs between January and March by developing and running a Minimum Viable Experiment (MVE). 3. Venture modeling happens via business modeling (in your Finance course) and pitch development (in your Capstone course). You will develop the components of the venture model beginning in December and continuing and iterating all winter and spring. Through this year-long process, you will: ● apply the concepts you’re learning in your other EdEnt courses ● practice key entrepreneurial skills ● develop stronger entrepreneurial mindsets ● build powerful and lasting relationships ● build and access influential networks The pedagogy of Capstone is experiential learning, i.e.,’ learning by doing: by doing problem defining, by doing customer discovery, by doing a minimum viable experiment, by doing business modeling, you will learn how to become a better entrepreneur/intrapreneur. In addition, by learning how to tell stories–of your venture, venture journey, and journey– in concise, compelling ways, you will learn how to acquire the resources you need to accomplish your venture goals. You’ll have repeated opportunities over the year to develop, test, and iterate on your venture story and tell it to various audiences in various settings and time scales. This storytelling culminates in your final paper and your final pitch. The Capstone faculty and mentors, a deeply experienced team of academic, business, and design professionals available to mentor and advise you in group and individual settings, will support you in your journey. In addition, the previous eight cohorts of EdEnt are an invaluable asset. Alumni will occasionally return to engage with you to share their entrepreneurial journeys, as will additional speakers via webinars. We will also offer supplemental content webinars, some of which may require viewing. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units"
+    }
+  },
+  {
+    "coursename": "EDEN 5042A Capstone II",
+    "courseid": "EDEN 5042A",
+    "coursedescription": "Over the next year in Capstone, you’ll take what you’ve learned in all your courses in the Education Entrepreneurship Program—and apply that learning to design a venture you can launch in the real world, within your current organization, or as a new organization. As you do the work, you’ll develop your education entrepreneurial/intrapreneurial competencies. Competencies combine the concepts learned in other courses, the skills acquired in different classes and Capstone, and the mindsets developed in other courses and Capstone. Capstone accomplishes the objective of entrepreneurial/intrapreneurial competency development by creating a three-part venture design process: venture discovery, venture development, and venture modeling. 1. Venture discovery is accomplished through the problem-defining and customer discovery processes (roughly August - December). Both these processes are iterative. By the middle of December, you should have clearly defined your problem and ideal customer. To accomplish this, you must begin the discovery process in August, immediately after our first intensive. 2. Venture development occurs between January and March by developing and running a Minimum Viable Experiment (MVE). 3. Venture modeling happens via business modeling (in your Finance course) and pitch development (in your Capstone course). You will develop the components of the venture model beginning in December and continuing and iterating all winter and spring. Through this year-long process, you will: ● apply the concepts you’re learning in your other EdEnt courses ● practice key entrepreneurial skills ● develop stronger entrepreneurial mindsets ● build powerful and lasting relationships ● build and access influential networks The pedagogy of Capstone is experiential learning, i.e.,’ learning by doing: by doing problem defining, by doing customer discovery, by doing a minimum viable experiment, by doing business modeling, you will learn how to become a better entrepreneur/intrapreneur. In addition, by learning how to tell stories–of your venture, venture journey, and journey– in concise, compelling ways, you will learn how to acquire the resources you need to accomplish your venture goals. You’ll have repeated opportunities over the year to develop, test, and iterate on your venture story and tell it to various audiences in various settings and time scales. This storytelling culminates in your final paper and your final pitch. The Capstone faculty and mentors, a deeply experienced team of academic, business, and design professionals available to mentor and advise you in group and individual settings, will support you in your journey. In addition, the previous eight cohorts of EdEnt are an invaluable asset. Alumni will occasionally return to engage with you to share their entrepreneurial journeys, as will additional speakers via webinars. We will also offer supplemental content webinars, some of which may require viewing. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units"
+    }
+  },
+  {
+    "coursename": "EDEN 5042B Capstone II",
+    "courseid": "EDEN 5042B",
+    "coursedescription": "Over the next year in Capstone, you’ll take what you’ve learned in all your courses in the Education Entrepreneurship Program—and apply that learning to design a venture you can launch in the real world, within your current organization, or as a new organization. As you do the work, you’ll develop your education entrepreneurial/intrapreneurial competencies. Competencies combine the concepts learned in other courses, the skills acquired in different classes and Capstone, and the mindsets developed in other courses and Capstone. Capstone accomplishes the objective of entrepreneurial/intrapreneurial competency development by creating a three-part venture design process: venture discovery, venture development, and venture modeling. 1. Venture discovery is accomplished through the problem-defining and customer discovery processes (roughly August - December). Both these processes are iterative. By the middle of December, you should have clearly defined your problem and ideal customer. To accomplish this, you must begin the discovery process in August, immediately after our first intensive. 2. Venture development occurs between January and March by developing and running a Minimum Viable Experiment (MVE). 3. Venture modeling happens via business modeling (in your Finance course) and pitch development (in your Capstone course). You will develop the components of the venture model beginning in December and continuing and iterating all winter and spring. Through this year-long process, you will: ● apply the concepts you’re learning in your other EdEnt courses ● practice key entrepreneurial skills ● develop stronger entrepreneurial mindsets ● build powerful and lasting relationships ● build and access influential networks The pedagogy of Capstone is experiential learning, i.e.,’ learning by doing: by doing problem defining, by doing customer discovery, by doing a minimum viable experiment, by doing business modeling, you will learn how to become a better entrepreneur/intrapreneur. In addition, by learning how to tell stories–of your venture, venture journey, and journey– in concise, compelling ways, you will learn how to acquire the resources you need to accomplish your venture goals. You’ll have repeated opportunities over the year to develop, test, and iterate on your venture story and tell it to various audiences in various settings and time scales. This storytelling culminates in your final paper and your final pitch. The Capstone faculty and mentors, a deeply experienced team of academic, business, and design professionals available to mentor and advise you in group and individual settings, will support you in your journey. In addition, the previous eight cohorts of EdEnt are an invaluable asset. Alumni will occasionally return to engage with you to share their entrepreneurial journeys, as will additional speakers via webinars. We will also offer supplemental content webinars, some of which may require viewing. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units"
+    }
+  },
+  {
+    "coursename": "EDEN 5050 Foundations of Teaching, Learning & Curriculum",
+    "courseid": "EDEN 5050",
+    "coursedescription": "Teaching, Learning & Curriculum explores theoretical and empirical perspectives on the questions: What is knowledge and knowing? What is learning? What is teaching? How do contexts influence teaching, knowing, and learning? A central goal of the course is to encourage students to consider these questions and their interconnections, to examine ways scholars and practitioners have answered them, and to develop an analytical framework to use in examining contemporary practices in settings that include formal and informal, urban and international. Prerequisite: Enrollment in Education Entrepreneurship program. Fall 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FALL 0.5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5060 Economics of Education: Intro",
+    "courseid": "EDEN 5060",
+    "coursedescription": "This is a survey course at the introductory level designed to provide an overview of selected theoretical, conceptual and empirical perspectives on topics in the economics of education. We will apply economic principles to analyze a wide range of educational issues. This course assumes that students have no background in economics. Many of the readings will contain technical economic material, but the focus will be on the conceptual, theoretical and empirical findings of economic research within education. It is expected that you reflect on the findings we cover and how these findings may inform and relate to your educational and professional experiences, and how economic theory and empirical evidence might inform your business plan ideas. As we move through the course, you should gain a solid understanding of how economists think about and study education-related issues. Prerequisite: Enrollment Education Entrepreneurship program. Fall 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FALL 0.5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5070 Design of Learning Environments",
+    "courseid": "EDEN 5070",
+    "coursedescription": "Design of Learning Environments examines different theoretical frames and strategies related to the study and design of learning environments in school, community and online contexts. Physical, social and cognitive aspects of learning situations are considered as students evaluate current research and applications in a variety of existing educational learning environments. Prerequisite: Enrollment in Education Entrepreneurship program. Spring 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0.5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5080 Technology Strategy",
+    "courseid": "EDEN 5080",
+    "coursedescription": "Technology Strategy is designed to meet the needs of future managers, entrepreneurs, consultants and investors who must analyze and develop business strategies in technology-based industries. The emphasis is on learning conceptual models and frameworks to help navigate the complexity and dynamism in such industries. This is not a course in new product development or in using technology to improve business processes and offerings. The class will take a perspective of both established and emerging firms competing through technological innovations, and study the key strategic drivers of value creation and appropriation in the context of business ecosystems. Prerequisite: Enrollment in Education Entrepreneurship program. Spring 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0.5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5090 Marketing for Entrepreneurs",
+    "courseid": "EDEN 5090",
+    "coursedescription": "Marketing for Entrepreneurs addresses how to design and implement the best combination of marketing efforts to carry out a firm's strategy in its target markets. Specifically, this course seeks to develop the student's (1) understanding of how the enterprise can benefit by creating and delivering value to its customers and stakeholders, and (2) skills in applying the analytical concepts and tools of marketing to such decisions as segmentation and targeting, branding, pricing, distribution, and promotion. Prerequisite: Enrollment in Education Entrepreneurship program. Fall 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FALL 0.5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5100 Evaluation for Education Innovation",
+    "courseid": "EDEN 5100",
+    "coursedescription": "Evaluation for Education Innovation explores the use of exploratory, dynamic and adaptive frameworks for the evaluation of social sector programs, services and products. The course draws upon core principles and methodologies from business, design, entrepreneurship, engineering and the social sciences to help build, assess and scale education innovations. Students will learn how to assess effectiveness, quality, and value through real-world education cases, and how to use evaluation tools to drive the development of their education ventures. This course is only available to students in the Education Entrepreneurship program. Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5110 Economics of Education: Entrepreneurial Finance",
+    "courseid": "EDEN 5110",
+    "coursedescription": "Entrepreneurial Finance provides a step-by-step introduction to core finance concepts in the context of new venture design and innovation implementation planning. Main areas of course focus are solution pricing, creation of a sustainable business model, and development of a robust financial model. In this course, students will learn to use financial analytical tools and frameworks to enable a venture/innovation launch. Students will build a financial model for the venture one that will assist in making critical choices and assessing the attractiveness of an enterprise to potential stakeholders. Closing the course, we will address issues of funding and fundraising strategy. The emphasis of the course is on assisting students to apply knowledge and concepts towards their personal professional and career aspirations. Prerequisite: Enrollment in Education Entrepreneurship program. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5130 Design of Learning Enivronments 2- Design Thinking",
+    "courseid": "EDEN 5130",
+    "coursedescription": "This course is structured for students to learn design thinking principles principles experientially. Design thinking is a critical tool and problem-solving methodology that is human-centered; values qualitative research merged with quantitative metrics; and applies prototyping to services, processes and experiences. Students will apply design thinking methods to conduct basic qualitative research and work to develop a new model for transformation on a real and relevant education challenge. This course is ideal for working professionals in the education, non-profit and social entrepreneurship sectors, wanting to apply a robust methodology that yields innovative insights and actionable results. This course is only available to students in the Education Entrepreneurship program. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5130A Design of Learning Environments 2- Design Thinking",
+    "courseid": "EDEN 5130A",
+    "coursedescription": "This course is structured for students to learn design thinking principles principles experientially. Design thinking is a critical tool and problem-solving methodology that is human-centered; values qualitative research merged with quantitative metrics; and applies prototyping to services, processes and experiences. Students will apply design thinking methods to conduct basic qualitative research and work to develop a new model for transformation on a real and relevant education challenge. This course is ideal for working professionals in the education, non-profit and social entrepreneurship sectors, wanting to apply a robust methodology that yields innovative insights and actionable results. This course is only available to students in the Education Entrepreneurship program. 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5130B Design of Learning Environments 2- Design Thinking",
+    "courseid": "EDEN 5130B",
+    "coursedescription": "This course is structured for students to learn design thinking principles principles experientially. Design thinking is a critical tool and problem-solving methodology that is human-centered; values qualitative research merged with quantitative metrics; and applies prototyping to services, processes and experiences. Students will apply design thinking methods to conduct basic qualitative research and work to develop a new model for transformation on a real and relevant education challenge. This course is ideal for working professionals in the education, non-profit and social entrepreneurship sectors, wanting to apply a robust methodology that yields innovative insights and actionable results. This course is only available to students in the Education Entrepreneurship program. 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5140 Foundations of Education - Ecosystem",
+    "courseid": "EDEN 5140",
+    "coursedescription": "Through this course, students will examine global trends impacting education and learning; analyze their own enterprise idea in the context of the global EdTech Market Landscape; evaluate one possible scenario for the future of education and generated critical questions about the implications of different scenarios; and assessed the role of different data for decision making at the education market level. Prerequisite: Enrollment in Education Entrepreneurship program. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5140A Foundations of Education - Ecosystem",
+    "courseid": "EDEN 5140A",
+    "coursedescription": "Through this course, students will examine global trends impacting education and learning; analyze their own enterprise idea in the context of the global EdTech Market Landscape; evaluate one possible scenario for the future of education and generated critical questions about the implications of different scenarios; and assessed the role of different data for decision making at the education market level. Prerequisite: Enrollment in Education Entrepreneurship program. Fall 0-1 Course Unit",
+    "course-prerequsities": [
+      "FALL 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5140B Foundations of Education - Ecosystem",
+    "courseid": "EDEN 5140B",
+    "coursedescription": "Through this course, students will examine global trends impacting education and learning; analyze their own enterprise idea in the context of the global EdTech Market Landscape; evaluate one possible scenario for the future of education and generated critical questions about the implications of different scenarios; and assessed the role of different data for decision making at the education market level. Prerequisite: Enrollment in Education Entrepreneurship program. Spring 0-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 5150 Capstone (Part 2)",
+    "courseid": "EDEN 5150",
+    "coursedescription": "The Capstone Experience is the culminating project of the EdEnt Program. Students acquire and develop the foundations for the ideation, design and launch of an innovative education venture whether entrepreneurial or intrapreneurial. The process of developing the project is an integrative one that brings together the concepts, tools, approaches and frameworks learned throughout the Program. Students start with an idea, build a business case, and then validate their idea using a series of evaluative methods and tests learned through coursework, independent research, product/service design and development activities. The Capstone Experience concludes with the presentation of a new Venture Pitch and the submission of a pro forma Business Plan suitable for presenting to prospective customers, end users, investors, funders, business partners, staff and other ecosystem stakeholders. The process equips an entrepreneur or an intrapreneur to tackle the next steps of launching their venture whether that is building a minimally viable product, testing with customers, bringing on team members or seeking funding. Prerequisite: Enrollment in Education Entrepreneurship program. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 6010 Schools as Organizations",
+    "courseid": "EDEN 6010",
+    "coursedescription": "Schools as Organizations focuses on the theory and research concerned with the organizational and occupational side to schools and teaching. The course draws from multiple fields and perspectives, including: organizational theory; the sociology of organizations, occupations and work; educational administration; and school leadership. The objective is to have students understand and evaluate a series of different perspectives from theory, research and policy concerned with the character of the teaching occupation and the organization of schools. Prerequisite: Enrollment in the Education Entrepreneurship program. Summer Term 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "TERM 0.5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 6010A Schools as Organizations",
+    "courseid": "EDEN 6010A",
+    "coursedescription": "Schools as Organizations focuses on the theory and research concerned with the organizational and occupational side to schools and teaching. The course draws from multiple fields and perspectives, including: organizational theory; the sociology of organizations, occupations and work; educational administration; and school leadership. The objective is to have students understand and evaluate a series of different perspectives from theory, research and policy concerned with the character of the teaching occupation and the organization of schools. Prerequisite: Enrollment in the Education Entrepreneurship program. Spring 0-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 6010B Schools as Organizations",
+    "courseid": "EDEN 6010B",
+    "coursedescription": "Schools as Organizations focuses on the theory and research concerned with the organizational and occupational side to schools and teaching. The course draws from multiple fields and perspectives, including: organizational theory; the sociology of organizations, occupations and work; educational administration; and school leadership. The objective is to have students understand and evaluate a series of different perspectives from theory, research and policy concerned with the character of the teaching occupation and the organization of schools. Prerequisite: Enrollment in the Education Entrepreneurship program. Fall or Spring 0-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDEN 6020 Technology Strategy (Part 2)",
+    "courseid": "EDEN 6020",
+    "coursedescription": "Technology Strategy is designed to meet the needs of future managers, entrepreneurs, consultants and investors who must analyze and develop business strategies in technology-based industries. The emphasis is on learning conceptual models and frameworks to help navigate the complexity and dynamism in such industries. This is not a course in new product development or in using technology to improve business processes and offerings. The class will take a perspective of both established and emerging firms competing through technological innovations, and study the key strategic drivers of value creation and appropriation in the context of business ecosystems. Prerequisite: Enrollment in Education Entrepreneurship program. Summer Term 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "TERM 0.5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

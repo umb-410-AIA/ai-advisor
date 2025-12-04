@@ -1,0 +1,1005 @@
+[
+  {
+    "coursename": "OIDD 0001 Prescriptive Analytics: Making Business Decisions using Optimization and Simulation",
+    "courseid": "OIDD 0001",
+    "coursedescription": "In this course, we will explore the subject of quantitative business decision making. Specifically, we will study optimization and simulation tools and provide you with a set of key skills in the area of prescriptive analytics. We will illustrate the use of these tools in a variety of business applications, including manufacturing, logistics, inventory management, capital budgeting, insurance, and revenue management.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 0002 Grit Lab 101: The Psychology of Passion, Perseverance, and Success",
+    "courseid": "OIDD 0002",
+    "coursedescription": "The aims of Grit Lab are two-fold: (1) to equip you with generalizable knowledge about the science of passion and perseverance, and (2) to help you apply these insights to your own life—such as when applying to college. At the heart of this course are cutting-edge scientific discoveries about how to foster passion and perseverance for long-term goals. As in any college undergraduate course, you will have an opportunity to learn from current research. But unlike most courses, Grit Lab encourages you to apply these ideas to your own life and reflect on your experience.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 1010 An Introduction to Operations, Information and Decisions",
+    "courseid": "OIDD 1010",
+    "coursedescription": "OIDD 101 explores a variety of common quantitative modeling problems that arise frequently in business settings, and discusses how they can be formally modeled and solved with a combination of business insight and computer-based tools. The key topics covered include capacity management, service operations, inventory control, structured decision making, constrained optimization and simulation. This course teaches how to model complex business situations and how to master tools to improve business performance. The goal is to provide a set of foundational skills useful for future coursework atWharton as well as providing an overview of problems and techniques that characterize disciplines that comprise Operations and Information Management. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 1050 Analytics in Excel VBA",
+    "courseid": "OIDD 1050",
+    "coursedescription": "This course introduces the construction and use of data analysis tools that are commonly used for business analysis. The course builds on the spreadsheet and analytical skills developed in OIDD1010, providing a much more extensive treatment of spreadsheet application development (using Excel Visual Basic for Applications). In addition, we will cover best practices in programming and analytics generally which can carry over to other tools and languages. Time permitting, we will do an introduction to some advanced analytical methods that show up in complex data analysis tasks and provide a foundation for further study. In prior years, this course was a 1 cu offering combining the content described here with the content of what is now OIDD3150: Databases for Analytics (0.5 cu). Students seeking this experience can take this course along with OIDD3150 either sequentially or concurrently.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 2000 Grit Lab: Fostering Passion and Perseverance in Ourselves and Others (SNF Paideia Program Course)",
+    "courseid": "OIDD 2000",
+    "coursedescription": "At the heart of this course are cutting-edge scientific discoveries about passion and perseverance for long-term goals. As in any other undergraduate course, you will learn things you didn't know before. But unlike most courses, Grit Lab requires you to apply what you've learned in your daily life, to reflect, and then to teach what you've learned to younger students. The ultimate aim of Grit Lab is to empower you to achieve your personal, long-term goals--so that you can help other people achieve the goals that are meaningful to them. LEARN -> EXPERIMENT -> REFLECT -> TEACH. The first half of this course is about passion. During this eight-week period, you'll identify a project that piques your interest and resonates with your values. This can be a new project or, just as likely, a sport, hobby, musical instrument, or academic field you're already pursuing. The second half of this course is about perseverance. During this eight-week period, your aim is to develop resilience, a challenge-seeking orientation, and the habits of practice that improve skill in any domain. By the end of Grit Lab, you will understand and apply, both for your benefit and the benefit of younger students, key findings in the emerging science on grit. Fall Also Offered As: OIDD 0050, PSYC 0405 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "During this eight-week period, you'll identify a project that piques your interest and resonates with your values."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 2200 Operations Management Analytics",
+    "courseid": "OIDD 2200",
+    "coursedescription": "This course introduces basic concepts of operations management and application of the same in business practice today. We will examine the theoretical foundations of operations management and how these principles or models can be employed in both tactical and strategic decision making. Topics covered in detail are forecasting techniques, planning under deterministic and uncertain demand, operations planning and scheduling, queuing theory, service operations management, newsvendor models, risk pooling strategies in firms, capacity and revenue management, and supply chain coordination. We will conclude by discussing how supply chains evolve under technological change. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 2210 Optimization and Analytics",
+    "courseid": "OIDD 2210",
+    "coursedescription": "Understanding how to use data and business analytics can be the key differential for a company's success or failure. This course is designed to introduce fundamental quantitative decision-making tools for a broad range of managerial decision problems. Topics covered include linear, nonlinear, and discrete optimization, dynamic programming, and simulation. Students will apply these quantitative models in applications of portfolio management, electricity auctions, revenue management for airlines, manufacturing, advertising budget allocation, and healthcare scheduling operations. Emphasis in this course is placed on mathematical modeling of real world problems and implementation of decision making tools. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 2220 Internet Law, Privacy, and Cybersecurity",
+    "courseid": "OIDD 2220",
+    "coursedescription": "This course examines the complex and often novel legal issues surrounding the development and current state of the Internet, information privacy, and cybersecurity. Topics include federal- and state-level regulation and enforcement of Internet and privacy legal concepts, data breaches, online privacy protections, how to legally manage a borderless Internet, and the liability of intermediaries such as network operators, social media services, and search engines. Fall or Spring Also Offered As: LGST 2220 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 2340 M&T First Year Seminar",
+    "courseid": "OIDD 2340",
+    "coursedescription": "The objective of this seminar course is to help students understand the intersection of management and technology and how it is being translated in practice. It is designed to lay the foundation for an integrated productive learning program at Penn as students adjust to their new educational environment. The seminar is structured to accomplish this through faculty and alumni speakers from different sectors. Enrollment is limited to the freshman students and the few transfer students admitted to the M&T program only. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Enrollment is limited to the freshman students and the few transfer students admitted to the M&T program only."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 2360 Scaling Operations in Technology Ventures: Linking Strategy and Execution",
+    "courseid": "OIDD 2360",
+    "coursedescription": "This course helps students learn to make strategic scaling decisions that are grounded in operational reality. Students will study how to build and evaluate the \"operation systems\" of the firm to maximize value with the focus on scaling the firm's operations. This involves tailoring the firm's operational competencies, assets, and processes to a specific business strategy. The course will approach the challenge of scaling operations and operations strategy by taking a holistic view that incorporates competitive strategy, financial evaluation, and the customer experience. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 2380 M&T Global Immersive Week",
+    "courseid": "OIDD 2380",
+    "coursedescription": "The M&T Global Immersive week is designed to provide the students in the program with firsthand experience to a global technology hub to further enhance learnings from both Penn Engineering and Wharton. With the number of technology startups in countries like Israel, India, China, especially the unicorns, the world will soon catch up with United States, if it has not already. Hence, the learnings of our future leaders should include a thorough understanding of the driving forces of the technology landscape in countries with a thriving startup culture. Each year M&T students across four years will go on a weeklong trip to a specific country chosen for that year in the first week of January. The global module will incorporate class lectures, workshops, guest lectures and visits to tech focused companies to meet local business founders and executives. Class will comprise of a group of up to 15 students chosen through an application process. The experiential learning provides the students an opportunity to learn from the leaders while immersing themselves in another culture and building relationships with the alumni in that area.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 2450 Analytics and the Digital Economy",
+    "courseid": "OIDD 2450",
+    "coursedescription": "Students who take this course will engage with the world of data science using tools such as Tableau and R that are becoming increasingly popular in industry. The first half of the course is designed for students with limited experience with data projects, and while familiarity with R, via courses such as STAT 4050 or STAT 4700 , will be ideal preparation, students with other programming exposure can pick up the required skills via review sessions and self-instruction. The second half of the course extends students' experience to industry applications of text mining and machine learning and requires students to work with more unstructured data. Each week of the course will be devoted to analysis of a data set from a particular industry (e.g. HR, sports, fashion, real estate, music, education, politics, restaurants, non-profit work), which we will use to answer business questions by applying analytic techniques. The course is very hands-on, and students will be expected to become proficient at applying data to business decisions and at effectively analyzing large data sets to inform decisions about business problems. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "HR, sports, fashion, real estate, music, education, politics, restaurants, non-profit work), which we will use to answer business questions by applying analytic techniques."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 2550 Artificial Intelligence, Business, and Society",
+    "courseid": "OIDD 2550",
+    "coursedescription": "The progression of AI-based technologies promises to transform many aspects of business, labor, and even society. The goal of this course is to provide students with an understanding of the capabilities of modern AI technologies, with an emphasis on being able to critically assess where they can provide business and societal value, and where they may create new challenges. This course is intended to provide a framework for people who may have to confront the legal, ethical, and economic challenges that are likely to arise around AI. A goal of the course is to ensure that students who complete the course are comfortable enough in the inner-workings of these technologies to think critically across many AI contexts as well as different domains ranging from public policy, to criminal justice, to health inspections, HR, and marketing. The course is oriented around hands-on labs, exams, discussions, and presentations. Labs will reinforce your learning of how AI works, and how it is being used to solve business problems. A coding background is not required, but students should be willing to engage with code to a limited degree in order to complete the labs. During labs, students will combine data and algorithms to provide a foundation for understanding the deep challenges that AI brings to organizations. The class is particularly suitable for students who will be searching for jobs in the business of technology, such as product management and business analytics, as well as those interested in the larger social implications of AI technologies. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The class is particularly suitable for students who will be searching for jobs in the business of technology, such as product management and business analytics, as well as those interested in the larger social implications of AI technologies."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 2610 Risk Analysis and Environmental Management",
+    "courseid": "OIDD 2610",
+    "coursedescription": "This course will introduce students to concepts in risk governance. We will delve into the three pillars of risk analysis: risk assessment, risk management, and risk communication. The course will spend time on risk financing, including insurance markets. There will be particular emphasis on climate risks, although the course will also discuss several other examples, including pandemics, biodiversity loss, and systemic risks, among others. The course will cover how people perceive risks and the impact this has on risk communication and management. We will explore public policy surrounding risk management and how the public and private sectors can successfully work together to build resilience, particularly to changing risks. Fall or Spring Also Offered As: BEPP 2610 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 2630 Environmental & Energy Economics and Policy",
+    "courseid": "OIDD 2630",
+    "coursedescription": "This course examines environmental and energy issues from an economist's perspective. Over the last several decades, energy markets have become some of the most dynamic markets of the world economy, as they experienced a shift from heavy regulation to market-driven incentives. First, we look at scarcity pricing and market power in electricity and gasoline markets. We then study oil and gas markets, with an emphasis on optimal extraction and pricing, and geopolitical risks that investors in hydrocarbon resources face. We then shift gears to the sources of environmental problems, and how policy makers can intervene to solve some of these problems. We talk about the economic rationale for a broad range of possible policies: environmental taxes, subsidies, performance standards and cap-and-trade. In doing so, we discuss fundamental concepts in environmental economics, such as externalities, valuation of the environment and the challenge of designing international agreements. At the end of the course, there will be special attention for the economics and finance of renewable energy and policies to foster its growth. Finally, we discuss the transportation sector, and analyze heavily debated policies such as fuel-economy standards and subsidies for green vehicles. Prerequisites: An introductory microeconomics course (ECON1, or another course approved by the instructor) will be sufficient in most cases; BEPP 250 or an equivalent intermediate microeconomics course is recommended. Also Offered As: BEPP 2630 1 Course Unit",
+    "course-prerequsities": [
+      "ECON1",
+      "BEPP 250",
+      "BEPP 2630"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: An introductory microeconomics course (ECON1, or another course approved by the instructor) will be sufficient in most cases; BEPP 250 or an equivalent intermediate microeconomics course is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 2900 Decision Processes",
+    "courseid": "OIDD 2900",
+    "coursedescription": "This course is an intensive introduction to various scientific perspectives on the processes through which people make decisions. Perspectives covered include cognitive psychology of human problem-solving, judgment and choice, theories of rational judgment and decision, and the mathematical theory of games. Much of the material is technically rigorous. Prior or current enrollment in STAT 1010 or the equivalent, although not required, is strongly recommended. Prerequisite: STAT 1010 1 Course Unit",
+    "course-prerequsities": [
+      "STAT 1010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prior or current enrollment in STAT 1010 or the equivalent, although not required, is strongly recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 2910 Negotiations",
+    "courseid": "OIDD 2910",
+    "coursedescription": "This course examines the art and science of negotiation, with additional emphasis on conflict resolution. Students will engage in a number of simulated negotiations ranging from simple one-issue transactions to multi-party joint ventures. Through these exercises and associated readings, students explore the basic theoretical models of bargaining and have an opportunity to test and improve their negotiation skills. Fall or Spring Also Offered As: LGST 2910 , MGMT 2910 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 2920 Advanced Negotiation",
+    "courseid": "OIDD 2920",
+    "coursedescription": "This course is designed to teach negotiation principles and to enable students to develop their negotiation skills. This course assumes familiarity with the basic negotiation concepts covered in the prerequisite for this course: Negotiations. In this course, we extend the study and practice of negotiations and we develop a deeper understanding for how specific aspects of the negotiation process (e.g., emotions, deadlines, trust violations) impact outcomes. Through course lectures, readings, and case exercises, students will develop a rich framework for thinking about the negotiation process and acquire tools for guiding the negotiation process. Fall or Spring Also Offered As: LGST 2920 , MGMT 2920 Prerequisite: LGST 2910 OR OIDD 2910 OR MGMT 2910",
+    "course-prerequsities": [
+      "LGST 2920",
+      "MGMT 2920",
+      "LGST 2910",
+      "OIDD 2910",
+      "MGMT 2910"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 2930 People Analytics",
+    "courseid": "OIDD 2930",
+    "coursedescription": "This course examines the use of data to understand and improve how people are managed in organizations. People really are organizations' most important asset, providing the critical link in converting strategy and capital into value. Yet throughout most of our history, most organizations have relied on long-standing traditions, hear-say, political expedience, prejudice and gut instinct to make decisions about how those people should be managed. Recent years have seen a growing movement to bring more science to how we manage people. In some cases, that means ensuring that whatever practices and approaches we adopt are backed up by solid evidence as to their effectiveness. Often, organizations will seek to go further, analyzing their own data to identify problems and learn what is working and what is not in their own context. This course applies the insights of the people analytics movement to help students become better managers and more critical analysts within their organizations. The course aims to develop students in three specific ways. First, it will provide students with an up-to-the-minute grounding in current evidence about managing people, providing a knowledge base that can ensure that their future management is guided by best practices. Second, we will develop the skills and understanding necessary to be thoughtful, critical consumers of evidence on people management, allowing them to make the most of the analysis available to them as they make people decisions. Third, we will provide guidance and practice in conducting people analytics, preparing students to gather data of their own, and making them more skilled analysts. We will pursue these goals through a mixture of lecture, case discussion, and hands on exploration of a variety of data sets. Spring Also Offered As: MGMT 2930 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 2990 Judgment & Decision Making Research Immersion",
+    "courseid": "OIDD 2990",
+    "coursedescription": "This class provides a high-level introduction to the field of judgment and decision making (JDM) and in-depth exposure to the process of doing research in this area. Throughout the semester you will gain hands-on experience with several different JDM research projects. You will be paired with a PhD student or faculty mentor who is working on a variety of different research studies. Each week you will be given assignments that are central to one or more of these studies, and you will be given detailed descriptions of the research projects you are contributing to and how your assignments relate to the successful completion of these projects. To complement your hands-on research experience, throughout the semester you will be assigned readings from the book Nudge by Thaler and Sunstein, which summarizes key recent ideas in the JDM literature. You will also meet as a group for an hour once every three weeks with the class's faculty supervisor and all of his or her PhD students to discuss the projects you are working on, to discuss the class readings, and to discuss your own research ideas stimulated by getting involved in various projects. Date and time to be mutually agreed upon by supervising faculty and students. the 1CU version of this course will involve approx. 10 hours of research immersion per week and a 10-page paper. The 0.5 CU version of this course will involve approx 5 hours of research immersion per week and a 5-page final paper. Please contact Professor Joseph Simmons if you are interested in enrolling in the course: jsimmo@wharton.upenn.edu Fall 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Please contact Professor Joseph Simmons if you are interested in enrolling in the course: jsimmo@wharton.upenn.edu Fall 0.5-1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 3050 Risk Management",
+    "courseid": "OIDD 3050",
+    "coursedescription": "The last financial crisis and subsequent recession provide ample evidence that failure to properly manage risk can result in disaster. Individuals and firms confront risk in nearly all decisions they make. People face uncertainty in their choice of careers, spending and saving decisions, family choices and many other facets of life. Similarly, the value that firms create by designing and marketing good products is at risk from a variety of sources. The bankruptcy of a key supplier, sharp rise in cost of financing, destruction of an important asset, impact of global warming, or a liability suit can quickly squander the value created by firms. In extreme cases, risky outcomes can bankrupt a firm, as has happened recently to manufacturers of automobile parts and a variety of financial service firms. The events since the Global Financial Crisis also offer stark reminders that risk can impose significant6 costs on individuals, firms, governments, and society as a whole. This course explores how individuals and firms assess and evaluate risk, examines the tolls available to successfuly mange risk and discusses real-world phenomena that limit the desired amount of risk-sharing. Our focus is primarily on explaining the products and institutions that will serve you better when making decisions in your future careers and lives. Fall or Spring Also Offered As: BEPP 3050 Mutually Exclusive: BEPP 8050 Prerequisite: BEPP 2500 AND FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 2500",
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 3140 Enabling Technologies",
+    "courseid": "OIDD 3140",
+    "coursedescription": "Conducting business in a networked economy invariably involves interplay with technology. The purpose of this course is to improve understanding of technology (what it can or cannot enable), the business drivers of technology-related decisions in firms, and to stimulate thought on new applications for commerce (including disruptive technologies). The class provides a comprehensive overview of various emerging technology enablers and culminates in discussion of potential business impact of these technologies in the near future. No prior technical background is assumed and hence every effort is made to build most of the lectures from the basics. However, the Fall semester class will assume basic understanding of statistics and will focus more on big data analytics. Some assignments in the fall will involve data analytics using Python or R. Fall or Spring Mutually Exclusive: OIDD 6620 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 3150 Databases for Analytics",
+    "courseid": "OIDD 3150",
+    "coursedescription": "Relational databases are the primary way in which business data is stored and processed. This course focuses on the analysis of data in databases and the development of databases to support analytical tasks. Over the course of the semester, students will learn the database language SQL and use this language to perform analytical tasks on existing and self-created databases. In addition, we will cover database scripting languages and extensions. The course is intended as students with little or no database background and does not presume prior computer science or coding experience. This course is nearly all hands-on coding. Students interested in more conceptual discussions of technology should consider other OIDD offerings.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Students interested in more conceptual discussions of technology should consider other OIDD offerings."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 3190 Advanced Decision Systems: Evolutionary Computation",
+    "courseid": "OIDD 3190",
+    "coursedescription": "This course is taught with the more descriptive title of \"Agents, Games, and Evolution.\" It explores applications and fundamentals of strategic behavior. Strategic, or game-theoretic, topics arise throughout the social sciences. The topics include--and we discuss--trust, cooperation, market-related phenomena (including price equilibria and distribution of wealth), norms, conventions, commitment, coalition formation, and negotiation. They also include such applied matters as design of logistics systems, auctions, and markets generally (for example, markets for electric power generation). In addressing these topics we focus on the practical problem of finding effective strategies for agents in strategic situations (or games). Our method of exploration will be experimental: we review and discuss experiments, principally computational experiments, on the behavior of boundedly rational agents in strategic (or game-theoretic) situations. Course work includes readings, discussions in class (organized as a seminar), examinations, and a course project on a topic chosen by the participants. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 3800 Operations Analytics Practicum",
+    "courseid": "OIDD 3800",
+    "coursedescription": "OIDD 3800 provides students with the opportunity to solve real-world operations analytics problems. Students will apply the learnings from their prior coursework in the Operations Management / Management Science track to solve problems shared by companies including Amazon, Axle Logistics, Formlabs, Nissan, and Walmart. These anonymized problems are designed for students looking to hone their data processing and analytical problem-solving skills. The kinds of analysis we will conduct in this practicum are consistent with the work conducted by first-year consultants. These consultants could be employed by traditional management-consulting firms or they could be hired into internal analytical roles or leadership development programs at companies. 0.5,1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 3990 Supervised Study",
+    "courseid": "OIDD 3990",
+    "coursedescription": "This course number is currently used for several course types including independent studies, experimental courses and Management & Technology Freshman Seminar. Instructor permission required to enroll in any independent study. Wharton Undergraduate students must also receive approval from the Undergraduate Division to register for independent studies. Section 002 is the Management and Technology Freshman Seminar; instruction permission is not required for this section and is only open to M&T students. For Fall 2020, Section 004 is a new course titled AI, Business, and Society. The course provides a overview of AI and its role in business transformation. The purpose of this course is to improve understanding of AI, discuss the many ways in which AI is being used in the industry, and provide a strategic framework for how to bring AI to the center of digital transformation efforts. In terms of AI overview, we will go over a brief technical overview for students who are not actively immersed in AI (topic covered include Big Data, data warehousing, data-mining, different forms of machine learning, etc). In terms of business applications, we will consider applications of AI in media, Finance, retail, and other industries. Finally, we will consider how AI can be used as a source of competitive advantage. We will conclude with a discussion of ethical challenges and a governance framework for AI. No prior technical background is assumed but some interest in (and exposure to) technology is helpful. Every effort is made to build most of the lectures from the basics. Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Instructor permission required to enroll in any independent study.",
+        "Section 002 is the Management and Technology Freshman Seminar; instruction permission is not required for this section and is only open to M&T students.",
+        "No prior technical background is assumed but some interest in (and exposure to) technology is helpful."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 4110 How to Make Things: Production Prototyping Studio",
+    "courseid": "OIDD 4110",
+    "coursedescription": "The course centers around a sequence of three projects that each culminate in the design and fabrication of functional objects. A 2D Design, 3D Design, and final \"Micro-Manufacturing\" project will introduce students to a wide variety of design, engineering, and fabrication skills made possible by the new Studios @ Tangen Hall. The micro-manufacturing final project will task interdisciplinary student teams to create a \"micro-business\" where they will design and utilize 3D printed molding and casting techniques to create a small-scale run of functional products. These products will then be showcased in an end of semester exposition, where the teams will merchandise and market their products to the Penn community. This exposition will also be a wonderful inaugural use of the student and alumni retail space on the 1st floor of Tangen Hall and serve as a great university-wide event to show case the work of SEAS students. Requires proficiency in solid modeling software (e.g., SolidWorks, Maya, Rhino), practice with design process, and hands-on fabrication experience. Also Offered As: MEAM 4110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 4150 Product Design",
+    "courseid": "OIDD 4150",
+    "coursedescription": "This course provides tools and methods for creating new products. The course is intended for students with a strong career interest in new product development, entrepreneurship, and/or technology development. The course follows an overall product design methodology, including the identification of customer needs, generation of product concepts, prototyping, and design-for-manufacturing. Weekly student assignments are focused on the design of a new product and culminate in the creation of a prototype, which is launched at an end-of-semester public Design Fair. The course project is a physical good - but most of the tools and methods apply to services and software products. The course is open to any Penn sophomore, junior, senior or graduate student. The course follows a studio format, in which students meet for three hours each week with Professor Marcovitz for lectures and hands-on making, and students will complete 90 minutes of asynchronous, self-paced content from Professor Ulrich on their own time each week. Professor Ulrich gives one in-person lecture during the semester and attends the Design Fair, but is not present at the weekly studio sessions. Also Offered As: MEAM 4150 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is intended for students with a strong career interest in new product development, entrepreneurship, and/or technology development."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 4690 Information Strategy and Economics",
+    "courseid": "OIDD 4690",
+    "coursedescription": "This course is devoted to the study of the strategic use of information and the related role of information technology, and designed for students who want to manage and compete in technology-intensive businesses. The topics of the course vary year to year, but generally include current issues in selling digital products, intermediation and disintermediation, competing in online markets, emerging technologies, managing artificial intelligence and data science for business, and technology project management. Heavy emphasis is placed on utilizing information economics to analyze businesses in information-intensive industries. Technology skills are not required, although a background in information technology management, strategic management or managerial economics is helpful. The course is designed to complement OIDD 2100, OIDD 2150, OIDD 2450 , and OIDD 255X. Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 4770 Introduction to Python for Data Science",
+    "courseid": "OIDD 4770",
+    "coursedescription": "The goal of this course is to introduce the Python programming language within the context of the closely related areas of statistics and data science. Students will develop a solid grasp of Python programming basics, as they are exposed to the entire data science workflow, starting from interacting with SQL databases to query and retrieve data, through data wrangling, reshaping, summarizing, analyzing and ultimately reporting their results. Competency in Python is a critical skill for students interested in data science. Prerequisites: No prior programming experience is expected, but statistics, through the level of multiple regression is required. This requirement may be fulfilled with Undergraduate courses such as Stat 1020, Stat 1120. Also Offered As: STAT 4770 Mutually Exclusive: PHYS 1100 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "STAT 1020",
+      "STAT 1120",
+      "STAT 4770",
+      "PHYS 1100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Competency in Python is a critical skill for students interested in data science."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 4810 Convex Optimization for Statistics and Data Science",
+    "courseid": "OIDD 4810",
+    "coursedescription": "Convex optimization has become a real pillar of modern data science and has transformed algorithm designs. A wide spectrum of problems in statistics, machine learning, and engineering can be formulated as optimization tasks that exhibit favorable convexity properties, which admit standardized and efficient solutions. This course aims to introduce the elements of convex optimization, concentrating on modeling aspects and algorithms that are useful in data science applications. Topics include convex sets, convex functions, linear and quadratic programs, semidefinite programming, optimality conditions and duality theory. We will visit important applications in statistics and machine learning to demonstrate the wide applicability of convex optimization. We will also cover effective optimization algorithms like gradient descent and Newton's method. Prerequisites: Basic linear algebra (Math 3120, 3130, 3140 or equivalent), basic calculus (Math 2400 or equivalent), basic probability ( STAT 4300 or equivalent), and knowledge of a programming language like MATLAB or Python to conduct simulation exercises. Also Offered As: STAT 4810 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 3120",
+      "MATH 2400",
+      "STAT 4300",
+      "STAT 4810"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 5110 How to Make Things: Production Prototyping Studio",
+    "courseid": "OIDD 5110",
+    "coursedescription": "The course centers around a sequence of three projects that each culminate in the design and fabrication of functional objects. A 2D Design, 3D Design, and final \"Micro-Manufacturing\" project will introduce students to a wide variety of design, engineering, and fabrication skills made possible by the new Studios @ Tangen Hall. The micro-manufacturing final project will task interdisciplinary student teams to create a \"micro-business\" where they will design and utilize 3D printed molding and casting techniques to create a small-scale run of functional products. These products will then be showcased in an end of semester exposition, where the teams will merchandise and market their products to the Penn community. This exposition will also be a wonderful inaugural use of the student and alumni retail space on the 1st floor of Tangen Hall and serve as a great university-wide event to show case the work of SEAS students. Requires proficiency in solid modeling software (e.g., SolidWorks, Maya, Rhino), practice with design process, and hands-on fabrication experience. Also Offered As: IPD 5110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 5150 Product Design",
+    "courseid": "OIDD 5150",
+    "coursedescription": "This course provides tools and methods for creating new products. The course is intended for students with a strong career interest in new product development, entrepreneurship, and/or technology development. The course follows an overall product design methodology, including the identification of customer needs, generation of product concepts, prototyping, and design-for-manufacturing. Weekly student assignments are focused on the design of a new product and culminate in the creation of a prototype, which is launched at an end-of-semester public Design Fair. The course project is a physical good - but most of the tools and methods apply to services and software products. The course is open to any Penn sophomore, junior, senior or graduate student. The course follows a studio format, in which students meet for three hours each week with Professor Marcovitz for lectures and hands-on making, and students will complete 90 minutes of asynchronous, self-paced content from Professor Ulrich on their own time each week. Professor Ulrich gives one in-person lecture during the semester and attends the Design Fair, but is not present at the weekly studio sessions. Also Offered As: IPD 5150 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is intended for students with a strong career interest in new product development, entrepreneurship, and/or technology development."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 5250 Thinking with Models: Business Analytics for Energy and Sustainability",
+    "courseid": "OIDD 5250",
+    "coursedescription": "Models are lenses. They are instruments with which we view, interpret, and give meaning to data. In this course, students will be exposed to and do work in all phases of the modeling life-cycle, including model design and specification, model construction (including data gathering and testing), extraction of information from models during post-solution analysis, and creation of studies that use modeling results to support conclusions for scientific or decision making purposes. In addition, the course will cover critical assessments of fielded models and studies using them. The course will focus broadly on models pertaining to energy and sustainability. This is not only an inherently interesting and important area, but it is very much a public one. In consequence, models, data, and studies using them are publicly and profusely available, as is excellent journalism, which facilitates introductions to specific topics. The course covers selected topics in energy and sustainability. Essential background will be presented as needed, but the course is not a comprehensive overview of energy and sustainability. Modeling in the area of energy and sustainability analytics is rife with uncertainty, and yet decisions must be made. Uncertainty, and how to deal with it in model-based decision making, is an overarching theme of the course. We will focus on energy and sustainability, but that area is hardly unique in being beset with deep and vexing uncertainties. The lessons we learn will generalize. The overall aim of the course is to teach facility with modeling and to use real-world data, models, and studies in doing so. In addition, students with interests in investment or policy analysis in the energy sphere will find the course's subject area focus useful. OIDD 3250 is not a prerequisite for this course, but it's helpful if you have already taken it. 1 Course Unit",
+    "course-prerequsities": [
+      "IT. 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This is not only an inherently interesting and important area, but it is very much a public one.",
+        "In addition, students with interests in investment or policy analysis in the energy sphere will find the course's subject area focus useful."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 5810 Convex Optimization for Statistics and Data Science",
+    "courseid": "OIDD 5810",
+    "coursedescription": "Convex optimization has become a real pillar of modern data science and has transformed algorithm designs. A wide spectrum of problems in statistics, machine learning, and engineering can be formulated as optimization tasks that exhibit favorable convexity properties, which admit standardized and efficient solutions. This course aims to introduce the elements of convex optimization, concentrating on modeling aspects and algorithms that are useful in data science applications. Topics include convex sets, convex functions, linear and quadratic programs, semidefinite programming, optimality conditions and duality theory. We will visit important applications in statistics and machine learning to demonstrate the wide applicability of convex optimization. We will also cover effective optimization algorithms like gradient descent and Newton's method. Prerequisites: Basic linear algebra, basic calculus, basic probability, and knowledge of a programming language like MATLAB or Python to conduct simulation exercises. Also Offered As: STAT 5810 1 Course Unit",
+    "course-prerequsities": [
+      "STAT 5810"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 6110 Quality and Productivity",
+    "courseid": "OIDD 6110",
+    "coursedescription": "Matching supply with demand is an enormous challenge for firms: excess supply is too costly, inadequate supply irritates customers. In the course, we will explore how firms can better organize their operations so that they more effectively align their supply with the demand for their products and services. Throughout the course, we illustrate mathematical analysis applied to real operational challenges--we seek rigor and relevance. Our aim is to provide both tactical knowledge and high-level insights needed by general managers and management consultants. We will demonstrate that companies can use (and have used) the principles from this course to significantly enhance their competitiveness. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 6120 Business Analytics",
+    "courseid": "OIDD 6120",
+    "coursedescription": "\"Managing the Productive Core: Business Analytics\" is a course on business analytics tools and their application to management problems. Its main topics are optimization, decision making under uncertainty, and simulation. The emphasis is on business analytics tools that are widely used in diverse industries and functional areas, including operations, finance, accounting, and marketing. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 6130 Online Business Models and the Information-Based Firm",
+    "courseid": "OIDD 6130",
+    "coursedescription": "This course is devoted to the study of the strategic use of information and the related role of information technology. It is designed for students who want to manage and compete in technology-intensive businesses. Heavy emphasis is placed on applying information economics principles and theoretical rigor to analyze businesses in information-intensive industries using both qualitative and quantitative techniques. We will study information-based industries like digital media, social networks, financial services, and online retail as well as traditional businesses that are being changed by new digital capabilities. There are four broad themes for the course: the economics of information goods and services, information and consumer behavior, markets and market design, and network economics. Each day we will discuss a core topic in one or more of these themes, with an emphasis on bridging theoretical ideas to real world applications. Application topics might include applying artificial intelligence, platform economics, and cryptocurrencies. Technology skills are not required, although a background in information technology management, strategic management, data science, or managerial economics is helpful. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 6140 Innovation",
+    "courseid": "OIDD 6140",
+    "coursedescription": "The course is first and foremost an intensive, integrative, project course in which student teams create one or more real businesses. Some businesses spun out of the course and now managed by alumni include Terrapass Inc. and Smatchy Inc. The project experience is an exciting context in which to learn key tools and fundamentals useful in innovation, problem solving, and design. Examples of these tools and fundamentals are: problem definition, identification of opportunities, generating alternatives, selecting among alternatives, principles of data graphics, and managing innovation pipelines. The course requires a commitment of at least 10 hours of work outside of class and comfort working on unstructured, interdisciplinary problems. Students with a strong interest in innovation and entrepreneurship are particularly encouraged to enroll. Please read carefully the syllabus posted on-line before registering for this course. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Students with a strong interest in innovation and entrepreneurship are particularly encouraged to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 6150 Operations Strategy",
+    "courseid": "OIDD 6150",
+    "coursedescription": "Operations strategy is about organizing people and resources to gain a competitive advantage in the delivery of products (both goods and services) to customers. This course approaches this challenge primarily from two perspectives: 1) how should a firm design their products so that they can be profitably offered; 2) how can a firm best organize and acquire resources to deliver its portfolio of products to customers. To be able to make intelligent decisions regarding these high-level choices, this course also provides a foundation of analytical methods. These methods give students a conceptual framework for understanding the linkage between how a firm manages its supply and how well that supply matches the firm's resulting demand. Specific course topics include designing service systems, managing inventory and product variety, capacity planning, approaches to sourcing and supplier management, constructing global supply chains, managing sustainability initiatives, and revenue management. This course emphasizes both quantitative tools and qualitative frameworks. Neither is more important than the other. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 6360 Scaling Operations: Linking Strategy and Execution",
+    "courseid": "OIDD 6360",
+    "coursedescription": "The goal of this course is to make strategic scaling decisions that are grounded in operational reality. We study how to build and evaluate the operational business model of the firm to maximize value with the focus on scaling the firm's operations. We will approach the challenge of scaling by taking a holistic view that incorporates competitive strategy, financial evaluation, and the customer experience. We focus on decisions and challenges that many firms that try to scale their operations face with the focus on assessing the readiness of the firm to scale, and the required steps to scale. In particular, we will discuss whether the firm should build competencies in-house (i.e., investing in a portfolio of assets) or buy them (i.e., developing and implementing a global sourcing strategy and integrating external partners) and the risks associated with scaling these. We will also discuss the organizational implications of scaling. There are no formal pre-requisites to the class. Students who have already taken OIDD 611, OIDD 615, and STAT 613 should be equipped for the class. Other students should have a solid understanding of elementary probability and statistics. For questions regarding the specifics of your background, please contact the instructor. 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "OIDD 611",
+      "OIDD 615",
+      "STAT 613"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 6420 Analytics for Services",
+    "courseid": "OIDD 6420",
+    "coursedescription": "This course covers a range of analytical methods that are useful tools for capacity management in services, and it will provide you with insights into the economics of a range of services businesses including (i) High-level planning models that account for multiple dimensions of service capacity, (ii) Low-level models of system congestion that capture the relationship between capacity choices, quality of service and, in some cases, system revenue, (iii) Statistical estimation and forecasting models to characterize key measures of future supply and demand. Students who have already taken OIDD 611, OIDD 612, and STAT 613 should be wellequipped for the class. Other students should have a solid understanding of elementary probability, statistics and linear programming. For questions regarding the specifics of your background, please contact the instructor.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 6430 Analytics for Revenue Management",
+    "courseid": "OIDD 6430",
+    "coursedescription": "This course introduces you to the essential concepts and techniques required to understand and implement revenue management (RM). The need for repeated, rapid and cycles of estimation and optimization has driven the development of a set of analytical tools that are particularly well suited for RM. This course focuses on those tools. Prerequisites: Students who have already taken OIDD 612 and STAT 613 should be well equipped for this class. Other students should have a solid understanding of elementary probability, statistics and constrained optimization. For questions regarding the specifics of your background, please contact the instructor.",
+    "course-prerequsities": [
+      "OIDD 612",
+      "STAT 613"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 6530 Mathematical Modeling and its Application in Finance",
+    "courseid": "OIDD 6530",
+    "coursedescription": "Quantitative methods have become fundamental tools in the analysis and planning of financial operations. There are many reasons for this development: the emergence of a whole range of new complex financial instruments, innovations in securitization, the increased globalization of the financial markets, the proliferation of information technology and the rise of high-frequency traders, etc. In this course, models for hedging, asset allocation, and multi-period portfolio planning are developed, implemented, and tested. In addition, pricing models for options, bonds, mortgage-backed securities, and other derivatives are studied. The models typically require the tools of statistics, optimization, and/or simulation, and they are implemented in spreadsheets or a high-level modeling environment, MATLAB. This course is quantitative and will require extensive computer use. The course is intended for students who have strong interest in finance. The objective is to provide students the necessary practical tools they will require should they choose to join the financial services industry, particularly in roles such as: derivatives, quantitative trading, portfolio management, structuring, financial engineering, risk management, etc. Prospective students should be comfortable with quantitative methods, such as basic statistics and the methodologies (mathematical programming and simulation) taught in OIDD 612 Business Analytics or OIDD 321 Management Science (or equivalent). Students should seek permission from the instructor if the background requirements are not met. Fall or Spring Mutually Exclusive: OIDD 3530 Prerequisite: OIDD 3210 OR OIDD 6120 0.5,1 Course Unit",
+    "course-prerequsities": [
+      "OIDD 3210",
+      "OIDD 6120"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is intended for students who have strong interest in finance.",
+        "Students should seek permission from the instructor if the background requirements are not met."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 6540 Product Management",
+    "courseid": "OIDD 6540",
+    "coursedescription": "The course provides the student with a number of tools and concepts necessary for the contemporary practice of product management. The course is most relevant to those who hope to work as product managers, as well as for entrepreneurs who will typically serve as their venture's initial product managers. General managers and other functional managers may also find the course valuable to better understand the product management function. The key modules in the course comprise (a) creating something from nothing, (b) design and design thinking, (c) performance measurement and the communication of quantitative information, (d) agile development processes, and (e) managing growth. Alumni guest speakers in interesting product management roles will typically be scheduled weekly in the course. Many examples, tools, and methods will come from technology-based industries, but applications will also be drawn from financial services and consumer products. Most assignments will be completed for a focal product selected by each student, which could be an entrepreneurial project, something related to current or prior employment, or simply a product of personal interest. A recent Canvas site for the course is here, and should be viewable by the public. https://canvas.upenn.edu/courses/1575358 Other Information: Pedagogy includes lectures, small-group discussion, current and historical cases, podcasts, documentary films, and application of tools to a focal product. Most assignments are individual. PLEASE NOTE: Only Wharton MBA students may register for OIDD 6540 . Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Alumni guest speakers in interesting product management roles will typically be scheduled weekly in the course.",
+        "Most assignments will be completed for a focal product selected by each student, which could be an entrepreneurial project, something related to current or prior employment, or simply a product of personal interest."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 6590 Advanced Topics: Supply Chain Analytics",
+    "courseid": "OIDD 6590",
+    "coursedescription": "OIDD 6590 enables students to develop modeling skills and a problem-solving toolkit applicable to the design and planning of supply chains. The course is comprised of case studies written by recent MBA students tackling real supply chain analytics problems. Some of the cases covered describe work at Gillette, Google, HP, a franchise fitness studio, and a steel importer. The course covers capacity problems including machine scheduling, strategic sourcing in the presence of tariffs, and network design. The course covers inventory problems including postponement center sizing, multiechelon inventory optimization, and supply chain configuration. Fall or Spring 0.5,1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 6620 Enabling Technologies",
+    "courseid": "OIDD 6620",
+    "coursedescription": "This course is about understanding emerging technology enablers with a goal of stimulating thinking on new applications for commerce. The class is self-contained (mainly lecture-based) and will culminate in a class-driven identification of novel businesses that exploit these enablers. No prerequisite or technical background is assumed. Students with little prior technical background can use the course to become more technologically informed. Those with moderate to advanced technical background may find the course a useful survey of emerging technologies. The course is recommended for students interested in careers in consulting, investment banking and venture capital in the tech sector. OIDD 6620 will be taught in the regular 1 CU format by Prof Lynn Wu. When taught by Prof Hosanagar, OIDD 6620 will be delivered in a 0.5 CU format. The shorter course will focus primarily on Mobile, Data/AI, and Web3. Mutually Exclusive: OIDD 3140 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "OIDD 6620",
+      "WEB3",
+      "OIDD 3140"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is recommended for students interested in careers in consulting, investment banking and venture capital in the tech sector."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 6670 A.I., Business, and Society",
+    "courseid": "OIDD 6670",
+    "coursedescription": "The course provides an overview of AI and its role in business transformation. The purpose of this course is to improve understanding of AI, discuss the many ways in which AI is being used in the industry, and provide a strategic framework for how to bring AI to the center of digital transformation efforts. In terms of AI overview, we will go over a brief technical overview for students who are not actively immersed in AI (topics covered include Big Data, data warehousing, datamining, machine learning, etc). In terms of business applications, we will consider applications of AI in Media, Finance, Healthcare, Retail, and other industries. Finally, we will consider how AI can be used as a source of competitive advantage. We will conclude with a discussion of ethical challenges and a governance framework for AI. No prior technical background is assumed but some interest in (and exposure to) technology is helpful. Every effort is made to build most of the lectures from the basics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "No prior technical background is assumed but some interest in (and exposure to) technology is helpful."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 6730 Global Supply Chain Mgmt.",
+    "courseid": "OIDD 6730",
+    "coursedescription": "Several forces, ranging from technology that has dramatically reduced the cost of communication, to political developments such as the opening up of China, Vietnam, and Eastern Europe, have created an avalanche of outsourcing and offshoring and lead to supply chains that stretch halfway around the world. This course will study the many questions that arise in the management of such global supply chains, including: Which design and production activities to do in-house and which to outsource? Where to locate various activities around the world? How to forecast the many factors that influence these decisions, including inflation in cost factors such as labor and freight, and the likelihood of future government regulation or political instability? How to keep the supply chain flexible so as to adapt to change? How to manage a geographically disbursed supply chain, including what relationships to have with vendors to ensure low cost, high quality, flexibility, safety, humane labor practices and respect for sustainability of the environment? The course is highly interactive, using case discussions in most classes and senior supply chain executives in many sessions. Grades are based one-third each on class participation, individual write-ups of the discussion questions for 3 of the class sessions, and a course paper.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 6800 Operations Strategy Practicum",
+    "courseid": "OIDD 6800",
+    "coursedescription": "This course will focus on the management of operations at manufacturing and service facilities of domestic corporations and foreign multinational companies. Our emphasis will be on the evolving patterns of operations strategies adopted by firms for producing products, sourcing manufacturing, distributing products, delivering services and managing product design as well as on programs for enhancing quality, productivity and flexibility. The course will focus on the formulation and execution of such strategies for a collection of firms in the context of the current dynamics of global competition. The course consists of a set of site visits and in-class sessions which include lectures, case discussions and management speakers who will describe their company's current strategy. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 6900 Managerial Decision Making",
+    "courseid": "OIDD 6900",
+    "coursedescription": "The course is built around lectures reviewing multiple empirical studies, class discussion,and a few cases. Depending on the instructor, grading is determined by some combination of short written assignments, tests, class participation and a final project (see each instructor's syllabus for details). Fall or Spring Also Offered As: MGMT 6900 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 6910 Negotiations",
+    "courseid": "OIDD 6910",
+    "coursedescription": "This course examines the art and science of negotiation, with additional emphasis on conflict resolution. Students will engage in a number of simulated negotiations ranging from simple one-issue transactions to multi-party joint ventures. Through these exercises and associated readings, students explore the basic theoretical models of bargaining and have an opportunity to test and improve their negotiation skills. Cross-listed with MGMT 6910 / OIDD 6910 / LGST 8060 . Format: Lecture, class discussion, simulation/role play, and video demonstrations. Materials: Textbook and course pack. Fall or Spring Also Offered As: LGST 8060 , MGMT 6910 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 6920 Advanced Topics Negotiation",
+    "courseid": "OIDD 6920",
+    "coursedescription": "This is a course the builds on the basic Negotiation course. In this course, we explore a wide range of negotiation topics from crisis and hostage negotiations, to the role of emotions including anxiety, envy and anger in negotiations, to backlash effects for women in negotiations, and the role of alcohol in negotiations. We will survey many aspects of current negotiation research, discuss historic negotiation cases, and students will participate in role-play exercises. Many of the role play exercises will involve multi-party negotiations and afford opportunities to hone skills in team-based negotiations. Fall or Spring Also Offered As: LGST 6920 , MGMT 6920 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 6930 Influence",
+    "courseid": "OIDD 6930",
+    "coursedescription": "Building, protecting and using influence is critical for achieving your goals. This requires good personal decision making as well as understanding others' decision-making, proficiency at the negotiation table as well as with the tacit negotiations before and after sitting at the table. In this course, we focus on building your facility with a wide range of influence tools to help with these efforts. Topics include power and status, informal networks, coalitions and persuasion. Fall or Spring Also Offered As: LGST 6930",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 6950 Semester in San Francisco Regional Seminar",
+    "courseid": "OIDD 6950",
+    "coursedescription": "As part of the Wharton Semester in San Francisco (SSF) program, this course is designed to (i) provide integrative material that emphasizes links between finance, marketing, product design, negotiations, and other themes in the SSF academic curriculum; (ii) link classroom theories and principles to actual practice by reflecting on the academic literature and (iii) highlight the unique characteristics of, and the programs proximity to, the Bay Area economy. All students participating in the SSF are required to register for this Regional Seminar. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 6970 Retail Supply Chain Management",
+    "courseid": "OIDD 6970",
+    "coursedescription": "This course is highly recommended for students with an interest in pursuing careers in: (1) retailing and retail supply chains; (2) businesses like banking, consulting, information technology, that provides services to retail firms; (3) manufacturing companies (e.g. P&G) that sell their products through retail firms. Retailing is a huge industry that has consistently been an incubator for new business concepts. This course will examine how retailers understand their customers' preferences and respond with appropriate products through effective supply chain management. Supply chain management is vitally important for retailers and has been noted as the source of success for many retailers such as Wal-mart and Home Depot, and as an inhibitor of success for e-tailers as they struggle with delivery reliability. See M. L. Fisher, A. Raman and A. McClelland, \"Rocket Science Retailing is Coming - Are You Ready?,\" Harvard Business Review, July/August 2000 for related research. Fall or Spring Mutually Exclusive: OIDD 3970",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "This course is highly recommended for students with an interest in pursuing careers in: (1) retailing and retail supply chains; (2) businesses like banking, consulting, information technology, that provides services to retail firms; (3) manufacturing companies (e.g."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 7050 Leading With Grit: How to Inspire with Passion and Perseverance for Long-Term Goals",
+    "courseid": "OIDD 7050",
+    "coursedescription": "The aims of Leading With Grit are two-fold: (1) to help students apply scientific insights about passion and perseverance for long-term goals to their own career, and (2) to prepare them to lead an organization that encourages grit among its employees. At the heart of this course are cutting-edge scientific insights on the mindsets, strategies, and contextual factors that incline individuals to pursue challenges that take years (or more) to complete. Each week, in addition to a three-hour seminar, students will complete an experiential activity, a brief written reflection, and readings. Most weeks, we will welcome a Grit Guest, an outside speaker who exemplifies grit, for a fireside chat on that week's topic.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 7610 Risk Analysis and Environmental Management",
+    "courseid": "OIDD 7610",
+    "coursedescription": "This course will introduce students to concepts in risk governance. We will delve into the three pillars of risk analysis: risk assessment, risk management, and risk communication. The course will spend time on risk financing, including insurance markets. There will be particular emphasis on climate risk management, including both physical impact risk and transition risk, although the course will also discuss several other examples, including management of environmental risks, terrorism, and cyber-security, among other examples. The course will cover how people perceive risks and the impact this has on risk management. We will explore public policy surrounding risk management and how the public and private sector can successfully work together to build resilience, particularly to changing risks. Fall or Spring Also Offered As: BEPP 7610 , ESE 5670 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 7620 Environmental Sustainability and Value Creation",
+    "courseid": "OIDD 7620",
+    "coursedescription": "This course provides an overview of topics related to corporate sustainability with a focus on how environmentally sustainable approaches can create value for the firm. The course explores trends in corporate practices and students consider specific examples of such practices to examine the interactions between the firm and the environment. This course has three objectives: to increase students' knowledge of sustainability practices and their impact on firm performance; to teach students to think strategically and act entrepreneurially on environmental issues; and to help students design business approaches to improve environmental outcomes, while simultaneously creating value. Fall or Spring Also Offered As: LGST 7620 , LGST 7620",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 7630 Energy Markets & Policy",
+    "courseid": "OIDD 7630",
+    "coursedescription": "Over the last several decades, energy markets have become some of the most dynamic markets of the world economy. Traditional fossil fuel and electricity markets have been seen a partial shift from heavy regulation to market-driven incentives, while rising environmental concerns have led to a wide array of new regulations and \"environmental markets\". The growth of renewable energy could be another source of rapid change, but brings with it a whole new set of technological and policy challenges. This changing energy landscape requires quick adaptation from energy companies, but also offers opportunities to turn regulations into new business. The objective of this course is to provide students with the economist's perspective on a broad range of topics that professionals in the energy industry will encounter. Topics include the effect of competition, market power and scarcity on energy prices, the impact of deregulation on electricity and fossil fuel markets, extraction and pricing of oil and gas, geopolitical uncertainty and risk in hydrocarbon investments, the environmental impact and policies related to the energy sector, environmental cap-and-trade markets, energy efficiency, the economics and finance of renewable energy, and recent developments in the transportation sector. Also Offered As: BEPP 7630 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 7770 Introduction to Python for Data Science",
+    "courseid": "OIDD 7770",
+    "coursedescription": "The goal of this course is to introduce the Python programming language within the context of the closely related areas of statistics and data science. Students will develop a solid grasp of Python programming basics, as they are exposed to the entire data science workflow, starting from interacting with SQL databases to query and retrieve data, through data wrangling, reshaping, summarizing, analyzing and ultimately reporting their results. Competency in Python is a critical skill for students interested in data science. Prerequisites: No prior programming experience is expected, but statistics, through the level of multiple regression is required. This requirement may be fulfilled with MBA courses such as STAT 6130 /6210; or by waiving MBA statistics. Also Offered As: STAT 7770 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "STAT 6130",
+      "STAT 7770"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Competency in Python is a critical skill for students interested in data science."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 7930 People Analytics",
+    "courseid": "OIDD 7930",
+    "coursedescription": "This course examines the use of data to improve how people are managed within organizations. Recent years have seen a growing movement to bring more science to how we manage people. In some cases, that means ensuring that whatever practices and approaches we adopt are backed up by solid evidence as to their effectiveness. Often, organizations will seek to go further, analyzing their own data to identify problems and learn what is working and what is not in their own context. This course applies the insights of the people analytics movement to help students become better managers and more critical analysts within their organizations. The course aims to develop students in three specific ways. First, it provides students with an up-to-the-minute grounding in current evidence about managing people, providing a knowledge base that can ensure that their future management is guided by best practices. Second, it develops the skills and understanding necessary to be thoughtful, critical consumers of evidence on people management, allowing them to make the most of the analysis available to them as they make people decisions. Third, it provides guidance and practice in conducting people analytics, preparing students to gather data of their own, and making them more skilled analysts. The course addresses these topics through a mixture of lecture, case discussion, and hands on exploration of a variety of data sets. Also Offered As: MGMT 7930",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 8050 Risk Management",
+    "courseid": "OIDD 8050",
+    "coursedescription": "The last financial crisis and subsequent recession provide ample evidence that failure to properly manage risk can result in disaster. Individuals and firms confront risk in nearly all decisions they make. People face uncertainty in their choice of careers, spending and saving decisions, family choices, and many other facets of life. Similarly, the value that firms create by designing and marketing good products is at risk from a variety of sources. The bankruptcy of a key supplier, sharp rise in cost of financing, destruction of an important asset, impact of global warming, or a liability suit can quickly squander the value created by firms. In extreme cases, risky outcomes can bankrupt a firm, as has happened recently to manufacturers of automobile parts and a variety of financial service firms. The events since the Global Financial Crisis also offer stark reminders that risk can impose significant costs on individuals, firms, governments, and societ6y as a whole. This course explores how individuals and firms assess and evaluate risk, examines the tools available to successfully manage risk, and discusses real-world phenomena that limit the desired amount of risk-sharing. Our focus is primarily on explaining the products and institutions that will serve you better when making decisisions in your future careers and lives. Fall or Spring Also Offered As: BEPP 8050 Mutually Exclusive: BEPP 3050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 8950 Global Business Week",
+    "courseid": "OIDD 8950",
+    "coursedescription": "In the second year of the program, students embark on a required Global Business Week in a country facing business challenges of interest. During this intensive week of corporate visits and lectures, students engage with senior management to discuss topics relevant to the region. Following the trip, they have the opportunity to reflect on the insights gained from the experience and present their findings.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "In the second year of the program, students embark on a required Global Business Week in a country facing business challenges of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 8970 Global Modular Course",
+    "courseid": "OIDD 8970",
+    "coursedescription": "Global Modular Course (GMC) - MBA Fall or Spring 0.5,1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9000 Foundations of Decision Processes",
+    "courseid": "OIDD 9000",
+    "coursedescription": "The course is an introduction to research on normative, descriptive and prescriptive models of judgement and choice under uncertainty. We will be studying the underlying theory of decision processes as well as applications in individual group and organizational choice. Guest speakers will relate the concepts of decision processes and behavioral economics to applied problems in their area of expertise. As part of the course there will be a theoretical or empirical term paper on the application of decision processes to each student's particular area of interest. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As part of the course there will be a theoretical or empirical term paper on the application of decision processes to each student's particular area of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 9010 Introduction to OID Faculty and Their Research",
+    "courseid": "OIDD 9010",
+    "coursedescription": "This course introduces first-year Operations, Information and Decisions (OID) PhD students to OID Department faculty members and their research. The course is designed to meet once a week, both in the fall and the spring, allowing most (if not all) OID faculty to present to first-year PhD students either classic or current research in their fields of expertise. The course's goals are twofold. First, it seeks to introduce first-year PhD students to OID faculty in a substantive (as opposed to social) manner and to expose students to the breadth of research conducted in the department. Second, through early exposure, the course aims to pique students' interest in the department's foundational courses in decision making, information systems, and operations management. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Second, through early exposure, the course aims to pique students' interest in the department's foundational courses in decision making, information systems, and operations management."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 9040 Experimental Economics",
+    "courseid": "OIDD 9040",
+    "coursedescription": "This course will help prepare you to run your own economics laboratory and field experiments. Experimental methods have been widely adopted by economists to develop new insights, and some economic theories and hypotheses are uniquely well-suited for testing with experimental tools and data. Achieving high internal and external validity requires careful experimental design. Substantive areas of application in the course will include market equilibrium, asset bubbles, learning in games, public good provision, and labor market relationships. Additional topics may include biases in individual decision-making; field experiments in development economics; and happiness, neuroeconomics, and behavioral/experimental welfare economics. Economists' typical interests in strategic and market-based interactions raise particular methodological challenges and opportunities. Not Offered Every Year Also Offered As: BEPP 9040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Economists' typical interests in strategic and market-based interactions raise particular methodological challenges and opportunities."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 9060 Proseminar in Operations and Information Management",
+    "courseid": "OIDD 9060",
+    "coursedescription": "Advanced seminar focusing on topics in Operations,Information and Decisions research Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9100 Linear Optimization",
+    "courseid": "OIDD 9100",
+    "coursedescription": "This course covers the basics of linear optimization. You will learn what linear programs (LPs) are, what they are used for, and how they are solved. During the course, you will also find connections between LPs and some of the basics of microeconomic theory. The mathematical prerequisites for the course are few. You should understand the basics of linear algebra, and we will review matrix operations, linear independence, and matrix inversion. While not strictly necessary, an understanding of partial derivatives will also help you to appreciate certain topics. Fall Also Offered As: ESE 5040",
+    "course-prerequsities": [
+      "ESE 5040"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 9120 Introduction to Optimization",
+    "courseid": "OIDD 9120",
+    "coursedescription": "This course constitutes the second part of a two-part sequence and serves as a continuation of the summer math camp. Mathematical optimization provides a unifying framework for studying issues of rational decision-making, optimal design, effective resource allocation and economic efficiency. It is a central methodology of many business-related disciplines, including operations research, marketing, accounting, economics, game theory and finance. In many of the disciplines, a solid background in optimization theory is essential for doing research. This course provides a rigorous introduction to the fundamental theory of optimization. It examines optimization theory in two primary settings: static optimization and optimization over time (dynamic programming). Applications from problem areas in which optimization plays a key role are also introduced. The goal of the course is to provide students with a foundation sufficient to use basic optimization in their own research work and/or to pursue more specialized studies involving optimization theory. The course is designed for entering doctoral students. The prerequisites are calculus, linear algebra and some familiarity with real analysis, as covered in summer math camp. Other concepts are developed as needed throughout the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 9130 Advanced Linear Programming",
+    "courseid": "OIDD 9130",
+    "coursedescription": "In-depth study of the theory and algorithms related to the solution of linear programming problems. Optimality conditions, duality and sensitivity analysis. Primal and dual simplex methods. Interior point methods. Large-scale optimization. Dantzig-Wolfe decomposition. Not Offered Every Year Prerequisite: OIDD 9100 OR ESE 5040 1 Course Unit",
+    "course-prerequsities": [
+      "OIDD 9100",
+      "ESE 5040"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9140 Advanced Non-Linear Programming",
+    "courseid": "OIDD 9140",
+    "coursedescription": "Convex sets and functions. Tangent cones. Polar cones. Optimality conditions and duality theory. Methods for unconstrained and constrained optimization. Interior and exterior penalty methods. Lagrangean and augmented Lagrangean methods. Not Offered Every Year Prerequisite: OIDD 9100 1 Course Unit",
+    "course-prerequsities": [
+      "OIDD 9100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9150 Advanced Graph Theory",
+    "courseid": "OIDD 9150",
+    "coursedescription": "Deals mainly with algorithmic and computational aspects of graph theory. Topics and problems include reachability and connectivity, setcovering, graph coloring, location of centers, location of medians, trees, shortest path, circuits, traveling salesman problem, network flows, matching, transportation, and assignment problems. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9160 Advanced Integer Programming",
+    "courseid": "OIDD 9160",
+    "coursedescription": "In-depth review of solution methods: Lagrangean relaxation and column generation, Benders partitioning, cross-decomposition, surrogate relaxation, cutting planes and valid inequalities, logical processing, probing, branch-and-bound, branch-and-price. Study of special problems and applications: matching, location, generalized assignment, traveling salesman, forest planning, production scheduling. Prerequisite: OIDD 910/ESE 504 or equivalent. Please email the instructor for any questions regarding the prerequisite. Not Offered Every Year Prerequisite: OIDD 9100 OR ESE 5040 1 Course Unit",
+    "course-prerequsities": [
+      "OIDD 910",
+      "ESE 504",
+      "OIDD 9100",
+      "ESE 5040"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Study of special problems and applications: matching, location, generalized assignment, traveling salesman, forest planning, production scheduling."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 9200 Empirical Research in Operations Management",
+    "courseid": "OIDD 9200",
+    "coursedescription": "Empirical research in Operations Management has been repeatedly called for over the last 10-15 years, including calls made from the academic thought leaders in the field as well as by many of the editors of the top academic journals. Remarkably though, most researchers in the field would be pressed to name even three empirical papers published in such journals like Management Science or Operations Research. But, has there really been so little published related to empirical Operations Management (you might be surprised to learn that all five bullets listed above has been addressed by Management Science papers)? What types of problems in operations are interesting and worthwhile studying from an empirical viewpoint? How can one get started with an empirical research project in Operations Management? These are the questions that are at the heart of this course. Specifically, the objective of this course is to (a) expose doctoral students to the existing empirical literature and (b) to provide them with the training required to engage in an empirical study themselves.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "What types of problems in operations are interesting and worthwhile studying from an empirical viewpoint?"
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 9300 Stochastic Models",
+    "courseid": "OIDD 9300",
+    "coursedescription": "This course introduces mathematical models describing and analyzing the behavior of processes that exhibit random components. The theory of stochastic processes will be developed based on elementary probability theory and calculus. Topics include random walks, Poisson processes, Markov chains in discrete and continuous time, renewal theory, and martingales. Applications from the areas of inventory, production, finance, queueing and communication systems will be presented throughout the course. Fall Prerequisite: STAT 5100 OR STAT 5500",
+    "course-prerequsities": [
+      "STAT 5100",
+      "STAT 5500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 9310 Stochastic Processes ll",
+    "courseid": "OIDD 9310",
+    "coursedescription": "Extension of the material presented in OIDD930 to include renewal theory, martingales, and Brownian motion. Spring Prerequisite: OIDD 9300",
+    "course-prerequsities": [
+      "OIDD 9300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 9320 Queuing Theory",
+    "courseid": "OIDD 9320",
+    "coursedescription": "This course presents the mathematical foundations for the analysis of queueing systems. We will study general results like Little's law and the PASTA property. We will analyze standard queueing systems (Markovian systems and variations thereof) and simple queueing networks, investigate infinite server models and many server approximations, study GI/G/1 queues through random walk approximations, and read papers on applied queueing models. Spring, even numbered years only Prerequisite: OIDD 9300",
+    "course-prerequsities": [
+      "OIDD 9300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 9340 Dynamic Programming and Stochastic Models",
+    "courseid": "OIDD 9340",
+    "coursedescription": "The course goal is to provide a brief but fairly rigorous introduction to the formulation and solution of dynamic programs. Its focus is primarily methodological. We will cover discrete state space problems, over finite or infinite time horizon, with and without discounting. Structured policies and their theoretical foundation will be of particular interest. Computational methods and approximation methods will be addressed. Applications are presented throughout the course, such as inventory policies, production control, financial decisions, and scheduling. Spring Prerequisite: OIDD 9300",
+    "course-prerequsities": [
+      "OIDD 9300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Structured policies and their theoretical foundation will be of particular interest."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 9370 Methods Stumblers: Pragmatic Solutions to Everyday Challenges in Behavioral Research",
+    "courseid": "OIDD 9370",
+    "coursedescription": "This PhD-level course is for students who have already completed at least a year of basic stats/methods training. It assumes students already received a solid theoretical foundation and seeks to pragmatically bridge the gap between standard textbook coverage of methodological and statistical issues and the complexities of everyday behavioral science research. This course focuses on issues that (i) behavioral researchers are likely to encounter as they conduct research, but (ii) may struggle to figure out independently by consulting a textbook or published article. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 9400 Operations Management",
+    "courseid": "OIDD 9400",
+    "coursedescription": "Concepts, models, and theories relevant to the management of the processes required to provide goods or services to consumers in both the public and private sectors. Includes production, inventory and distribution functions, scheduling of service or manufacturing activities, facility capacity planning and design, location analysis, product design and choice of technology. The methodological basis for the course includes management science, economic theory,organization theory, and management information system theory. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9410 Distribution Systems Seminar",
+    "courseid": "OIDD 9410",
+    "coursedescription": "Seminar on distribution systems models and theory. Reviews current research in the development and solution of models of distribution systems. Emphasizes multi-echelon inventory control, logistics management, network design, and competitive models. Spring Prerequisite: OIDD 9400 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "OIDD 9400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9430 Retail Operations",
+    "courseid": "OIDD 9430",
+    "coursedescription": null,
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "OIDD 9500 Perspectives on Information Systems",
+    "courseid": "OIDD 9500",
+    "coursedescription": "Provides doctoral students in Operations and Information Management and other related fields with a perspective on modern information system methodologies, technologies, and practices. State-of-the-art research on frameworks for analysis, design, and inplementation of various types of information systems is presented. Students successfully completing the course should have the skills necessary to specify and implement an information system to support a decision process. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9510 Seminar on Logic Modeling",
+    "courseid": "OIDD 9510",
+    "coursedescription": "Seminar on the elements of formal logic necessary to read and contribute to the Logic modeling literature, as well as the implementation principles for logic models. The primary topics include elements of sentence and predicate logic, elements of modal logics, elements of semantics, mechanical theorem proving, logic and database, nonmonotonic reasoning, planning and the frame problem, logic programming, and metainterpreters. Permission of the instructor and some prior knowledge of logic or Prolog. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of the instructor and some prior knowledge of logic or Prolog."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 9520 Computational Game Theory",
+    "courseid": "OIDD 9520",
+    "coursedescription": "Seminar on principles of knowledge-based systems including expert systems. Topics include basics of expert systems, knowledge representation, meta-level reasoning, causal reasoning, truth maintenance systems, model management, planning systems and other applications. Permission of instructor and knowledge of logic and Prolog or Lisp. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of instructor and knowledge of logic and Prolog or Lisp."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 9530 Explaining Explanation",
+    "courseid": "OIDD 9530",
+    "coursedescription": "In the social sciences we often use the word \"explanation\" as if (a) we know what we mean by it, and (b) we mean the same thing that other people do. In this course we will critically examine these assumptions and their consequences for scientific progress. In part 1 of the course we will examine how, in practice, researchers invoke at least three logically and conceptually distinct meanings of \"explanation:\" identification of causal mechanisms; ability to predict (account for variance in) some outcome; and ability to make subjective sense of something. In part 2 we will examine how and when these different meanings are invoked across a variety of domains, focusing on social science, history, business, and machine learning, and will explore how conflation of these distinct concepts may have created confusion about the goals of science and how we evaluate its progress. Finally , in part 3 we will discuss some related topics such as null hypothesis testing and the replication crisis. We will also discuss specific practices that could help researchers clarify exactly what they mean when they claim to have \"explained\" something, and how adoption of such practices may help social science be more useful and relevant to society. Also Offered As: CIS 7980 , COMM 8980 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9550 Research Seminar in Information Systems",
+    "courseid": "OIDD 9550",
+    "coursedescription": "This course provides an overview of some of the key Information Systems literature from the perspective of Insormation Strategy and Economics (ISE) and Information Decision Technologies (IDT). This course is intended to provide an introduction for first year OIDD doctoral students, as well as other Wharton doctoral students, to important core research topics and methods in ISE and IDT in order for students to do research in the field of Information Systems. While it is intended as a \"first course\" for OPIM doctoral students in ISE and IDT, it may also be useful for students who are engaged in research or plan to perform information technology related research in other disciplines. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9600 Research Seminar in Information Technology - Economic Perspectives",
+    "courseid": "OIDD 9600",
+    "coursedescription": "Explores economic issues related to information technology, with emphasis on research in organizational or strategic settings. The course will follow a seminar format, with dynamically assigned readings and strong student contribution during class sessions (both as participant and, for one class, as moderator.) Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9610 Research Seminar in Information: Strategy, Systems and Economics",
+    "courseid": "OIDD 9610",
+    "coursedescription": "This is the advanced doctoral-level research research in information strategy and economics that builds on the foundations developed in OIDD 9600 . Much of the content will be focused on current research areas in information strategy such as the information and organizational economics, information technology and firm performance, search cost and pricing, information and incentives, coordination costs and the boundary of the firm, and the economics of information goods (including pricing and intellectual property protection). In addition, promising empirical approaches such as the use of intelligent agents for data collection or clickstream data analysis will be discussed. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9890 Topics in Operations and Information Management",
+    "courseid": "OIDD 9890",
+    "coursedescription": "The specific content of this course varies form semester to semester, depending on student and faculty interests. Not Offered Every Year 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The specific content of this course varies form semester to semester, depending on student and faculty interests."
+      ]
+    }
+  },
+  {
+    "coursename": "OIDD 9920 Conflict Mgmt Seminar",
+    "courseid": "OIDD 9920",
+    "coursedescription": "This seminar exposes students to the central issues in conflict management research. This course covers both analytic and behavioral perspectives of conflict management, and describes how the field has developed. Through discussions of theory and empirical research, the course aims to develop a foundation for understanding the extant literature and how common methodological tools have shaped the types of questions conflict management scholars have investigated - and neglected. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "OIDD 9999 Independent Study",
+    "courseid": "OIDD 9999",
+    "coursedescription": "Independent Study 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

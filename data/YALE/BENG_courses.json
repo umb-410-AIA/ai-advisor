@@ -1,0 +1,463 @@
+[
+  {
+    "coursename": "* BENG 2048a / SOCY 2048a, AI, Medicine, and Society Alka Menon and Xenophon Papademetris",
+    "courseid": "BENG 2048a",
+    "coursedescription": "AI has shown tremendous promise to address problems in medicine and science. There is also considerable hype surrounding AI and many concerns (some justified, some not) regarding the use of this type of technology. This discussion-based seminar will 1) provide undergraduate students across disciplines with a broad overview of issues related to AI in medicine at a non-technical level, drawing on perspectives from the interpretive/humanistic social sciences, computing, engineering, and healthcare and 2) model interdisciplinary communication and build a robust framework for collaboration. Overarching topics, grounded in medical case studies, include what it means for computers to “think” and how we understand what they are thinking about; the use and limits of scientific knowledge in making policy decisions; bias, fairness, equity, equality; the challenges of implementation of AI systems; safety and risk; and the human/computer interface. The course also provides a high level overview of machine learning, discussing opportunities, limitations, and tradeoffs. Ultimately, the course offers a grounded look at how AI is being discussed and deployed on the ground in medicine, equipping students with a critical lens for thinking about responsible and practical implementation and innovation when it comes to AI. SO TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 2080a, Sophomore Seminar in Biomedical Engineering Jay Humphrey",
+    "courseid": "BENG 2080a",
+    "coursedescription": "Study of past successes and future needs of the multidisciplinary field of biomedical engineering. Areas of focus include: biomolecular engineering, including drug delivery and regenerative medicine; biomechanics, including mechanobiology and multiscale modeling; biomedical imaging and sensing, including image construction and analysis; and systems biology. ½ Course cr T 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 2800b, Introduction to Biomedical Computation Staff",
+    "courseid": "BENG 2800b",
+    "coursedescription": "The course focuses on the introduction to the computational tools and methods needed for the simulation and analysis of biological and medical systems and data. Programming in Python is the major tool to achieve these goals, and provides the basic knowledge needed for higher- level Biomedical Engineering classes. The course also provides the basics of probability and statistics. Computational applications in Biomedical Engineering complete the course. Prerequisite: MATH 120 or ENAS 151. QR 0 Course cr HTBA",
+    "course-prerequsities": [
+      "MATH 120",
+      "ENAS 151",
+      "QR 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 3100a, Physiological Systems Laboratory Staff",
+    "courseid": "BENG 3100a",
+    "coursedescription": "Introduction to laboratory techniques and tools used in biomedical engineering for physiological measurement. Topics include bioelectric measurement, signal processing, and bone mechanics. Enrollment limited to majors in Biomedical Engineering, except by permission of the director of undergraduate studies. SC 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to majors in Biomedical Engineering, except by permission of the director of undergraduate studies."
+      ]
+    }
+  },
+  {
+    "coursename": "* BENG 3110b, Biomedical Engineering Laboratory Staff",
+    "courseid": "BENG 3110b",
+    "coursedescription": "Continuation of BENG 355L, introducing laboratory techniques and tools used in biomedical engineering. Topics include biomaterials and cell interactions, magnetic resonance spectroscopy and imaging, and image processing and machine learning. Enrollment limited. SC 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 3200a / MCDB 3100a, Physiological Systems Staff",
+    "courseid": "BENG 3200a",
+    "coursedescription": "Regulation and control in biological systems, emphasizing human physiology and principles of feedback. Biomechanical properties of tissues emphasizing the structural basis of physiological control. Conversion of chemical energy into work in light of metabolic control and temperature regulation. Prerequisites: CHEM 165 or 167 (or CHEM 113 or 115), or PHYS 180 and 181; MCDB 120 , or BIOL 101 and 102. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "CHEM 165",
+      "167",
+      "CHEM 113",
+      "115",
+      "PHYS 180",
+      "181",
+      "MCDB 120",
+      "BIOL 101",
+      "102",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 3230a / MB&B 3300a and MB&B 3310a / MB&B 3310a / MCDB 3310a / NSCI 3240a, Modeling Biological Systems I Thierry Emonet and Kathryn Miller-Jensen",
+    "courseid": "BENG 3230a",
+    "coursedescription": "Biological systems make sophisticated decisions at many levels. This course explores the molecular and computational underpinnings of how these decisions are made, with a focus on modeling static and dynamic processes in example biological systems. This course is aimed at biology students and teaches the analytic and computational methods needed to model genetic networks and protein signaling pathways. Students present and discuss original papers in class. They learn to model using MatLab in a series of in-class hackathons that illustrate the biological examples discussed in the lectures. Biological systems and processes that are modeled include: (i) gene expression, including the kinetics of RNA and protein synthesis and degradation; (ii) activators and repressors; (iii) the lysogeny/lysis switch of lambda phage; (iv) network motifs and how they shape response dynamics; (v) cell signaling, MAP kinase networks and cell fate decisions; and (vi) noise in gene expression. Prerequisites: MATH 115 or 116. BIOL 101-104, or with permission of instructors. This course also benefits students who have taken more advanced biology courses (e.g. MCDB 200, MCDB 310, MB&B 300/301). QR , SC 0 Course cr TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 115",
+      "116",
+      "BIOL 101",
+      "MCDB 200",
+      "MCDB 310",
+      "B 300",
+      "SC 0",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "BIOL 101-104, or with permission of instructors."
+      ]
+    }
+  },
+  {
+    "coursename": "BENG 3400b, Biomedical Signals and Images Lawrence Staib and James Duncan",
+    "courseid": "BENG 3400b",
+    "coursedescription": "Principles and methods used to represent, model, and process signals and images arising from biomedical sources. Topics include continuous and discrete linear systems analysis, Fourier analysis and frequency response, metrics for signal similarity, and noise filtering. Biomedical examples range from one-dimensional electrical signals in nerves and muscles to two-dimensional images of organs and cells. Prerequisite: MATH 120 or ENAS 151. BENG 249, 350, and ENAS 194 strongly recommended. QR TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MATH 120",
+      "ENAS 151",
+      "BENG 249",
+      "ENAS 194",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "BENG 249, 350, and ENAS 194 strongly recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "BENG 3500a / PHYS 3530a, Introduction to Biomechanics Michael Murrell",
+    "courseid": "BENG 3500a",
+    "coursedescription": "An introduction to the biomechanics used in biosolid mechanics, biofluid mechanics, biothermomechanics, and biochemomechanics. Diverse aspects of biomedical engineering, from basic mechanobiology to the design of novel biomaterials, medical devices, and surgical interventions. Prerequisites: PHYS 180, PHYS 181, MATH 115, and ENAS 194. QR 0 Course cr TTh 9am-10:15am",
+    "course-prerequsities": [
+      "PHYS 180",
+      "PHYS 181",
+      "MATH 115",
+      "ENAS 194",
+      "QR 0",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 3600b / CENG 351, Biotransport and Kinetics Kathryn Miller-Jensen",
+    "courseid": "BENG 3600b",
+    "coursedescription": "Creation and critical analysis of models of biological transport and reaction processes. Topics include mass and heat transport, biochemical interactions and reactions, and thermodynamics. Examples from diverse applications, including drug delivery, biomedical imaging, and tissue engineering. Prerequisites: MATH 115, ENAS 194; BIOL 101 and 102; CHEM 161, 163, or 167; BENG 249. QR 0 Course cr MW 9am-10:15am",
+    "course-prerequsities": [
+      "MATH 115",
+      "ENAS 194",
+      "BIOL 101",
+      "102",
+      "CHEM 161",
+      "167",
+      "BENG 249",
+      "QR 0",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 4063b / ECON 4463b, The Economics and Science of Medicine Gregory Raskin and Yashodhara Dash",
+    "courseid": "BENG 4063b",
+    "coursedescription": "This multidisciplinary class is an exploration of the background of today’s bestselling medicines, their huge commercial impact, and the companies that created them. It focuses on the most compelling aspects of drug development and company formation in the context of topical issues like cancer treatment, gene editing, stem cell therapy, the opioid epidemic, and drug pricing controversies. Prerequisite: Introductory or intermediate microeconomics, introductory or intermediate Biology, Molecular Biology, Chemistry or Biomedical Engineering. SO Th 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "TH 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 4080a, Seminar in Biomedical Engineering Jay Humphrey",
+    "courseid": "BENG 4080a",
+    "coursedescription": "Oral presentations and written reports by students analyzing papers from scientific journals on topics of interest in biomedical engineering, including discussions and advanced seminars from faculty on selected subjects. (For Class of 2020 and beyond this course is worth .5 credit.) ½ Course cr Th 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Oral presentations and written reports by students analyzing papers from scientific journals on topics of interest in biomedical engineering, including discussions and advanced seminars from faculty on selected subjects."
+      ]
+    }
+  },
+  {
+    "coursename": "BENG 4104b / MENG 4154b, Medical Device Design and Innovation Daniel Wiznia and Steven Tommasini",
+    "courseid": "BENG 4104b",
+    "coursedescription": "The engineering design, project planning, prototype creation, and fabrication processes for medical devices that improve patient conditions, experiences, and outcomes. Students develop viable solutions and professional-level working prototypes to address clinical needs identified by practicing physicians. Some attention to topics such as intellectual property, the history of medical devices, documentation and reporting, and regulatory affairs. 0 Course cr MW 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 4106b, Medical Software Design Xenophon Papademetris",
+    "courseid": "BENG 4106b",
+    "coursedescription": "Software design and implementation for medical applications, with emphasis on how new ideas can be developed within today's healthcare regulatory environment. This is a project-based class. The lectures provide essential material to help the students successfully complete their projects. In particular, the lectures cover material in the following three broad areas: (i) Medical software design based on a clinical need. (ii) Needs identification, verification, validation, and overview of the FDA regulatory process. (iii) Introductory material in experimental design, image analysis, and machine learning as needed by the projects. We also examine the new proposed FDA regulations on the use of machine learning in medical devices and related issues related to the use of these techniques in medical software in general. Prerequisite: Some programming background in at least one programming language. Instructor permission required. MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Instructor permission required."
+      ]
+    }
+  },
+  {
+    "coursename": "* BENG 4350b, Biomaterial-Tissue Interactions Themis Kyriakides",
+    "courseid": "BENG 4350b",
+    "coursedescription": "Study of the interactions between tissues and biomaterials, with an emphasis on the importance of molecular- and cellular-level events in dictating the performance and longevity of clinically relevant devices. Attention to specific areas such as biomaterials for tissue engineering and the importance of stem/progenitor cells, as well as biomaterial-mediated gene and drug delivery. Prerequisites: CHEM 161, 165, or 167 (or CHEM 112, 114, or 118); MCDB 120 , or BIOL 101 and 102; or equivalents. SC TTh 9am-10:15am",
+    "course-prerequsities": [
+      "CHEM 161",
+      "167",
+      "CHEM 112",
+      "118",
+      "MCDB 120",
+      "BIOL 101",
+      "102",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 4410a, Physical and Chemical Basis of Bioimaging and Biosensing Douglas Rothman, Daniel Coman, and Jason Bini",
+    "courseid": "BENG 4410a",
+    "coursedescription": "Basic principles and technologies for sensing the chemical, electrical, and structural properties of living tissues and of biological macromolecules. Topics include magnetic resonance spectroscopy, microelectrodes, fluorescent probes, chip-based biosensors, X-ray and electron tomography, and MRI. Prerequisites: BENG 351 and 352 or permission of instructor. QR , SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "BENG 351",
+      "352",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: BENG 351 and 352 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* BENG 4411a / ENAS 415, Practical Applications of Bioimaging and Biosensing Daniel Coman and Evelyn Lake",
+    "courseid": "BENG 4411a",
+    "coursedescription": "Detecting, measuring, and quantifying the structural and functional properties of tissue is of critical importance in both biomedical research and medicine. This course focuses on the practicalities of generating quantitative results from raw bioimaging and biosensing data to complement other courses focus on the theoretical foundations which enable the collection of these data. Participants in the course work with real, cutting-edge data collected here at Yale. They become familiar with an array of current software tools, denoising and processing techniques, and quantitative analysis methods that are used in the pursuit of extracting meaningful information from imaging data. The subject matter of this course ranges from bioenergetics, metabolic pathways, molecular processes, brain receptor kinetics, protein expression and interactions to wide spread functional networks, long-range connectivity, and organ-level brain organization. The course provides a unique hands-on experience with processing and analyzing in vitro and in vivo bioimaging and biosensing data that is relevant to current research topics. The specific imaging modes which are covered include in vivo magnetic resonance spectroscopy (MRS) and spectroscopic imaging (MRSI), functional, structural, and molecular imaging (MRI), wide-field fluorescent optical imaging, and positron emission tomography (PET). The course provides the necessary background in biochemistry, bioenergetics, and biophysics for students to motivate the image manipulations which they learn to perform. Prerequisites: Math through first order differential equations, PHYS 180/181, CHEM 161, BIOL 101/102, BENG 249 or other experience with scientific software like MATLAB®, BENG 350 and BENG 410 (both of which can be taken at the same time as this course) SC 0 Course cr F 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHYS 180",
+      "CHEM 161",
+      "BIOL 101",
+      "BENG 249",
+      "BENG 350",
+      "BENG 410",
+      "SC 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 4420a, Biophotonics Cristina Rodriguez",
+    "courseid": "BENG 4420a",
+    "coursedescription": "This course provides an introduction to biophotonics, with a strong emphasis on optical microscopy and the fundamental principles governing how light interacts with biological matter. Students learn key optical concepts, including diffraction, interference, Fourier optics, and fluorescence, as well as advanced techniques such as multiphoton microscopy and harmonic generation imaging. The course covers the physics underlying imaging systems, the design and function of modern optical microscopes, and their applications in biomedical research. This course is designed for students in biomedical engineering, physics, biology, and related fields who seek to understand the optical foundations of modern imaging technologies. Prerequisites: MATH 120 or ENAS 151, PHYS 180. SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 120",
+      "ENAS 151",
+      "PHYS 180",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 4440a, Modern Medical Imaging: Lecture and Demonstrations Chi Liu, Dana Peters, and Gigi Galiana",
+    "courseid": "BENG 4440a",
+    "coursedescription": "Survey of engineering and physics foundations of modern medical imaging modalities with an emphasis on immersive and interactive experiences. Traditional lectures are balanced with guest lectures on state-of-the-art techniques and opportunities to observe procedures, acquire imaging data and reconstruct images. Modalities include MRI, X-ray, CT, SPECT, PET, optical and ultrasound methods. Prerequisite: BENG 352 or similar background. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "BENG 352",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 4450a / EENG 445, Biomedical Image Processing and Analysis Lawrence Staib and James Duncan",
+    "courseid": "BENG 4450a",
+    "coursedescription": "This course is an introduction to biomedical image processing and analysis, covering image processing basics and techniques for image enhancement, feature extraction, compression, segmentation, registration and motion analysis including traditional and machine learning techniques. Student learn the fundamentals behind image processing and analysis methods and algorithms with an emphasis on biomedical applications. Prerequisite: BENG 352 or EENG 310 or permission of instructors. Recommended preparation: familiarity with probability theory. TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "BENG 352",
+      "EENG 310",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: BENG 352 or EENG 310 or permission of instructors.",
+        "Recommended preparation: familiarity with probability theory."
+      ]
+    }
+  },
+  {
+    "coursename": "BENG 4475a / CPSC 4750a / ECE 4750, Computational Vision and Biological Perception Steven Zucker",
+    "courseid": "BENG 4475a",
+    "coursedescription": "An overview of computational vision with a biological emphasis. Suitable as an introduction to biological perception for computer science and engineering students, as well as an introduction to computational vision for mathematics, psychology, and physiology students. Prerequisite: CPSC 112 and MATH 120, or with permission of instructor. QR , SC RP MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "CPSC 112",
+      "MATH 120",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: CPSC 112 and MATH 120, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* BENG 4485b, Fundamentals of Neuroimaging Fahmeed Hyder, Elizabeth Goldfarb, and Douglas Rothman",
+    "courseid": "BENG 4485b",
+    "coursedescription": "The neuroenergetic and neurochemical basis of several dominant neuroimaging methods, including fMRI. Technical aspects of different methods, interpretation of results, and controversies or challenges regarding the application of fMRI and related methods in medicine. WR , SC W 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 4550b, Vascular Mechanics Jay Humphrey",
+    "courseid": "BENG 4550b",
+    "coursedescription": "Methods of continuum biomechanics used to study diverse vascular conditions and treatments from an engineering perspective. Topics include hypertension, atherosclerosis, aneurysms, vein grafts, and tissue engineered constructs. Emphasis on mechanics driven by advances in vascular mechanobiology. Prerequisite: BENG 353. QR TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "BENG 353",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 4560b, Molecular and Cellular Biomechanics Michael Murrell",
+    "courseid": "BENG 4560b",
+    "coursedescription": "The basic mechanical principles at the molecular and cellular level that underlie the major physical behaviors of the cell, from cell division to cell migration. Basic cellular physiology, methodology for studying cell mechanical behaviors, models for understanding the cellular response under mechanical stimulation, and the mechanical impact on cell differentiation and proliferation. Prerequisites: MENG 211 and 280 or equivalents, and experience with MATLAB. Recommended preparation: BENG 353 and MCDB 205. QR , SC W 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "MENG 211",
+      "280",
+      "BENG 353",
+      "MCDB 205",
+      "W 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: BENG 353 and MCDB 205."
+      ]
+    }
+  },
+  {
+    "coursename": "BENG 4570b / MENG 4370b, Computational Mechanics Martin Pfaller",
+    "courseid": "BENG 4570b",
+    "coursedescription": "This course integrates fundamental concepts from nonlinear continuum mechanics and finite element methods applied to solid and fluid mechanics, focusing on theoretical understanding and numerical techniques. Topics covered are fundamentals of tensor calculus, kinematics, balance equations, constitutive relationships, geometric and material nonlinearities, nonlinear solution strategies, stability, nonlinear dynamics, errors, convergence, and adaptivity. Applications in biomedical engineering are stressed throughout the course. Fundamentals in calculus, differential equations, and linear algebra. TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 4611b, BioMEMS and Biomedical Microdevices Rong Fan",
+    "courseid": "BENG 4611b",
+    "coursedescription": "Principles and applications of micro- and nanotechnologies for biomedicine. Approaches to fabricating micro- and nanostructures. Fluid mechanics, electrokinetics, and molecular transport in microfluidic systems. Integrated biosensors and microTAS for laboratory medicine and point-of-care uses. High-content technologies, including DNA, protein microarrays, and cell-based assays for differential diagnosis and disease stratification. Emerging nanobiotechnology for systems medicine. Prerequisites: CHEM 161, 165, or 167 (or CHEM 112, 114, or 118), and ENAS 194. SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "CHEM 161",
+      "167",
+      "CHEM 112",
+      "118",
+      "ENAS 194",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 4630a, Immunoengineering Tarek Fahmy",
+    "courseid": "BENG 4630a",
+    "coursedescription": "Immuno-engineering uses engineering and applied sciences to better understand how the immune system works. It also uses immunity to build better models and biomaterials that help fight diseases such as cancer, diabetes, lupus, MS, etc. This is an integrative class. It integrates what we know in ENAS with what we know in Immunity to address critical and urgent concerns in health and disease. Students learn that analytical tools and reagents built by engineers address some extremely significant problems in immunity, such as optimal vaccine design. Students also have the opportunity to apply new understandings towards gaping holes in immunotherapy and immunodiagnostics. Prerequisite: A basic understanding of biochemistry, biophysics, cell biology; calculus and differential equations. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 4680b, Topics in ImmunoEngineering Tarek Fahmy",
+    "courseid": "BENG 4680b",
+    "coursedescription": "This course addresses the intersection of Immunobiology with Engineering and Biophysics. It invokes engineering tools, such as biomaterials, solid-state devices, nanotechnology, biophysical chemistry, and chemical engineering towards developing newer and effective solutions to cancer immunotherapy, autoimmune therapy, vaccine design, transplantation, allergy, asthma, and infections. The central theme is that dysfunctional immunity is responsible for a wide range of disease states and that engineering tools and methods can forge a link between the basic science and clinically translatable solutions that will potentially be \"modern cures\" to disease. This course is a follow-up to BENG 463, Immunoengineering and focuses more on the clinical translation aspect as well as new understandings in immunology and how they can be translated to the clinic and eventually to the market. Prerequisites: BENG 463, Differential Equations, Advanced Calculus. SC MW 4pm-5:15pm",
+    "course-prerequsities": [
+      "BENG 463",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 4690a, Single-Cell Biology, Technologies, and Analysis Rong Fan",
+    "courseid": "BENG 4690a",
+    "coursedescription": "This course is to teach the principles of single-cell heterogeneity in human health and disease as well as computational techniques for single-cell analysis, with a particular focus on the omics-level data. Topics to be covered include single-cell level morphometric analysis, genomic alteration analysis, epigenomic analysis, mRNA transcriptome sequencing, small RNA profiling, surface epitope, intracellular signaling protein, and secreted protein analysis, metabolomics, multi-omics, and spatially resolved single-cell omics mapping. The students are expected to perform computational analysis of single-cell high-dimensional datasets to identify population heterogeneity, identify cell types, states, and differentiation trajectories. Finally, case studies are provided to show the power of single-cell analysis in therapeutic target discovery, biomarker research, clinical diagnostics, and personalized medicine. Lab tours may be provided to show how single-cell omics data are generated and how high-throughput sequencing is conducted. SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 4724b / MENG 4774b, Topics in Computational and Systems Biology Purushottam Dixit",
+    "courseid": "BENG 4724b",
+    "coursedescription": "This course covers topics related to modeling biological networks across time and length scales. Specifically, the course covers models of intracellular signaling networks, transcriptional regulation networks, cellular metabolic networks, and ecological networks in microbial consortia. For each type of network, we cover the biological basics, standard mathematical treatments including deterministic and stochastic modeling, methods to infer model parameters from data, and new machine-learning based inference approaches. The required mathematical methods are briefly covered. The course assignments involve coding in MATLAB. Prerequisite: MATH 120 or ENAS 151. MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 120",
+      "ENAS 151",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 4767b, Systems Biology of Cell Signaling Andre Levchenko",
+    "courseid": "BENG 4767b",
+    "coursedescription": "Approaches from systems biology to the fundamental processes underlying both the sensory capability of individual cells and cell-to-cell communication in health and disease. Prerequisites: BENG 249 and ENAS 194, or equivalents. QR , SC MW 4pm-5:15pm",
+    "course-prerequsities": [
+      "BENG 249",
+      "ENAS 194",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 4849b, Biomedical Data Analysis Cristina Rodriguez and Richard Carson",
+    "courseid": "BENG 4849b",
+    "coursedescription": "Study of biological and medical data analysis associated with applications of biomedical engineering. Provides basics of probability and statistics, as well as analytical approaches for determination of quantitative biological parameters from experimental data. Includes substantial programming in MATLAB. Prerequisite: MATH 120 or ENAS 151. After or concurrently with ENAS 194. QR 0 Course cr TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "MATH 120",
+      "ENAS 151",
+      "ENAS 194",
+      "QR 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 4910b, Effective Fellowship Grant Writing: From Concept to Submission Fadi Akar",
+    "courseid": "BENG 4910b",
+    "coursedescription": "This course is designed to equip participants with the essential skills and strategies needed to prepare successful fellowship grant applications. It covers the entire grant writing process, from understanding funding opportunities and requirements to developing a compelling proposal. Participants learn how to clearly define research goals, align their projects with funding criteria, and craft persuasive narratives that effectively communicate their ideas. The course also emphasizes the importance of strong supporting documents, including CVs, budgets, and letters of recommendation. Through practical exercises, peer reviews, and expert feedback, participants refine their writing techniques, enhance proposal clarity, and increase their chances of securing funding. Course intended for Seniors and Graduate Students in Biomedical Engineering or a related Biomedical Sciences department. WR TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BENG 4971a and BENG 4972b, Special Projects Lawrence Staib",
+    "courseid": "BENG 4971a",
+    "coursedescription": "Faculty-supervised individual or small-group projects with emphasis on research (laboratory or theory), engineering design, or tutorial study. Students are expected to consult the director of undergraduate studies and appropriate faculty members about ideas and suggestions for suitable topics. This course, offered Pass/Fail, can be taken at any time during a student's career, and may be taken more than once. For the Senior Project, see BENG 473, 474. Permission of both the instructor and the director of undergraduate studies is required. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of both the instructor and the director of undergraduate studies is required."
+      ]
+    }
+  },
+  {
+    "coursename": "* BENG 4973a and BENG 4974b, Senior Project Lawrence Staib",
+    "courseid": "BENG 4973a",
+    "coursedescription": "Faculty-supervised biomedical engineering projects focused on research (laboratory or theory) or engineering design. Students should consult with the director of undergraduate studies and appropriate faculty mentors for suitable projects. BENG 473 is taken during the fall term of the senior year and BENG 474 is taken during the spring term of the senior year. Permission of both the faculty mentor and the director of undergraduate studies is required. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of both the faculty mentor and the director of undergraduate studies is required."
+      ]
+    }
+  }
+]

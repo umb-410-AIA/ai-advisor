@@ -1,0 +1,503 @@
+[
+  {
+    "coursename": "JPAN 0100 Beginning Japanese I",
+    "courseid": "JPAN 0100",
+    "coursedescription": "Intended for students who have no Japanese background. All four skills, speaking/listening/writing/reading, are equally emphasized. Hiragana/Katakana (Two sets of Japanese syllabic letters) and some Chinese characters (Kanji) are introduced. Textbooks: Genki I (Lesson 1- Lesson 7). Kanji: reproduction-approx.70/recognitio-approx.110 Fall Mutually Exclusive: JPAN 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0103 Spoken Japanese I",
+    "courseid": "JPAN 0103",
+    "coursedescription": "Intended for students who have no Japanese background. The major emphasis is on oral communication skills, although some reading and writing instructions are given. Japanese pop-culture will also be incorporated. Fall Mutually Exclusive: JPAN 5103 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0105 Spoken Japanese II",
+    "courseid": "JPAN 0105",
+    "coursedescription": "Although some reading/writing instruction is given, the major emphasis is on oral communication skill. Spring Mutually Exclusive: JPAN 5105 Prerequisite: JPAN 0103 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0103"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0200 Beginning Japanese II",
+    "courseid": "JPAN 0200",
+    "coursedescription": "A continuation of Beginning Japanese I, this course continues the introduction of the Japanese language. All four skills, speaking/listening/writing/reading, are equally emphasized. Hiragana/Katakana (Two sets of Japanese syllabic letters) and some Chinese characters (Kanji) are introduced. Textbooks: Genki I (Lesson 8- Lesson 12) and Genki II (Lesson 13- Lesson 14)Kanji: reproduction-approx. 170/recognition-approx.250 Not Offered Every Year Mutually Exclusive: JPAN 5200 Prerequisite: JPAN 0100 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0210 Intensive Beginning Japanese I & II",
+    "courseid": "JPAN 0210",
+    "coursedescription": "Intended for students who have little or no background in Japanese who wish to finish the language requirement in one year. This is equivalent to Beginning Japanese I & II in one semester, 2 CU. Textbooks: Genki I (Lesson 1-Lesson 12) and Genki II (Lesson 13-Lesson 14) Kanji: reproduction-approx.170/recognitio-approx.250 Not Offered Every Year Mutually Exclusive: JPAN 5210",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "JPAN 0300 Intermediate Japanese I",
+    "courseid": "JPAN 0300",
+    "coursedescription": "This course is a continuation of Beginning Japanese II and focuses on the development of the elementary grammatical structures of the Japanese language through aural-oral practices. The course also aims to develop the four basic skills: listening, speaking, reading, and writing. The course also introduces aspects of Japanese culture and customs, knowledge that is necessary for behaving in a socio-culturally appropriate manner. Students will learn and practice skills to communicate in situations they might face in real life. Example topics and functions are travel, part-time job, work, asking for favors, asking permission, stating your intension/opinion, reporting what you heard, and various speech styles including Keigo (respectful speech).Textbooks: Genki II (Lesson 15- Lesson 21) will be covered, and around 100 new Kanji will be introduced. Overall kanji knowledge will be 286. Fall Mutually Exclusive: JPAN 5300 Prerequisite: JPAN 0200 OR JPAN 0210 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0200",
+      "JPAN 0210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Example topics and functions are travel, part-time job, work, asking for favors, asking permission, stating your intension/opinion, reporting what you heard, and various speech styles including Keigo (respectful speech).Textbooks: Genki II (Lesson 15- Lesson 21) will be covered, and around 100 new Kanji will be introduced."
+      ]
+    }
+  },
+  {
+    "coursename": "JPAN 0305 Beginning Spoken Japanese III",
+    "courseid": "JPAN 0305",
+    "coursedescription": "JPAN 0305 : Spoken Japanese III A continuation of Spoken Japanese II, this course continues the introduction to the spoken Japanese language found Spoken Japanese I and II. Romanization is provided for most materials but students should already be able to read Hiragana or commit to learning to read it by the end of the semester. Being able to write hiragana or kanji is not required. Japanese popular culture is incorporated into every class. Textbooks: Kluemper, Beginning Japanese (Chapters 8-10); then a combination of Kleumper, Intermediate Japanese, Genki I and Genki II Fall Prerequisite: JPAN 0105 OR JPAN 5105 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0105",
+      "JPAN 5105"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0400 Intermediate Japanese II",
+    "courseid": "JPAN 0400",
+    "coursedescription": "Prerequisites: Completion of Intermediate Japanese I or the equivalent. This course completes the College language requirement. Textbooks: Genki II (Lesson 22- Lesson 23)and Tobira: Gate way to Advanced Japanese (Unit 1-Unit 3) Kanji: Approximately 140 new Kanji will be introduced. Overall Kanji knowledge will be about approx. 400. Spring Mutually Exclusive: JPAN 5400 Prerequisite: JPAN 0300 1 Course Unit",
+    "course-prerequsities": [
+      "LESSON 22",
+      "LESSON 23",
+      "UNIT 1",
+      "UNIT 3",
+      "APPROX. 400",
+      "JPAN 5400",
+      "JPAN 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0405 Spoken Japanese IV",
+    "courseid": "JPAN 0405",
+    "coursedescription": "JPAN 0405 : Spoken Japanese IV A continuation of Spoken Japanese III, this course continues the introduction to the spoken Japanese language found Spoken Japanese I, II, and III. Romanization for some materials will be provided, but students will be expected to be able to read Hiragana and Katakana. The emphasis is on speaking, listening, and reading. There is only limited instruction in writing. Japanese popular culture is incorporated into every class. Textbooks: Kleumper, Intermediate Japanese and Genki II Spring Prerequisite: JPAN 0305 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0305"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0410 Intensive Intermediate Japanese I & II",
+    "courseid": "JPAN 0410",
+    "coursedescription": "A continuation of Intensive Beginning Japanese, this class is equivalent to JPAN0300 Intermediate Japanese I and JPAN0400 intermediate Japanese II in one semester, 2CU, and completes the College language requirement. Textbooks: Genki II and Tobira: Gateway to Advanced Japanese (Unit 1-Unit 2) Kanji: Approximately 140 new Kanji will be introduced. Overall, Kanji knowledge will be about approx. 400. Spring Mutually Exclusive: JPAN 5410 Prerequisite: JPAN 0200 OR JPAN 0210",
+    "course-prerequsities": [
+      "JPAN 0200",
+      "JPAN 0210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "JPAN 0500 High Intermediate Japanese I",
+    "courseid": "JPAN 0500",
+    "coursedescription": "A continuation of Japanese language beyond the language requirement. Textbooks: Tobira: Gateway to Advanced Japanese (Unit 4-Unit 8) Kanji:reproduction-approx.400/recognitio-approx.550 Fall Mutually Exclusive: JPAN 5500 Prerequisite: JPAN 0400 OR JPAN 0410 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0400",
+      "JPAN 0410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0600 High Intermediate Japanese II",
+    "courseid": "JPAN 0600",
+    "coursedescription": "A continuation of Japanese language at the intermediate level. Textbooks: Tobira: Gateway to Advanced Japanese (Unit 9-Unit 15) Kanji: reproduction-approx.470/recognitio-approx.650 Not Offered Every Year Mutually Exclusive: JPAN 5600 Prerequisite: JPAN 0500 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0700 Advanced Japanese I",
+    "courseid": "JPAN 0700",
+    "coursedescription": "This course is a continuation of Japanese language at the upper intermediate level, and authentic materials and video clips will be used. Not Offered Every Year Mutually Exclusive: JPAN 5700 Prerequisite: JPAN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0760 Japanese for the Professions I",
+    "courseid": "JPAN 0760",
+    "coursedescription": "An intermediate level course of Japanese language focusing on workplace-related topics. Intended for students who will use Japanese in the professions. Textbook: Powering Up Your Japanese Through Case Studies: Intermediate and Advanced Japanese. Fall Mutually Exclusive: JPAN 5760 Prerequisite: JPAN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0800 Advanced Japanese II",
+    "courseid": "JPAN 0800",
+    "coursedescription": "PREREQUISITES Completion of Advanced Japanese I or the equivalent. Authentic materials and video clips will be used. Spring Mutually Exclusive: JPAN 5800 Prerequisite: JPAN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 5800",
+      "JPAN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 0860 Japanese for the Professions II",
+    "courseid": "JPAN 0860",
+    "coursedescription": "An intermediate level course of Japanese language focusing on workplace-related topics. Intended for students who will use Japanese in the professions. Textbook: Powering Up Your Japanese through Case Studies: Intermediate and Advanced Japanese. Spring Mutually Exclusive: JPAN 5860 Prerequisite: JPAN 0760 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0760"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 1040 Advanced Japanese III",
+    "courseid": "JPAN 1040",
+    "coursedescription": "A continuation of Japanese language beyond the intermediate level, and Authentic materials and video clips will be used. Fall Mutually Exclusive: JPAN 6040 Prerequisite: JPAN 0800 OR JPAN 0860 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0800",
+      "JPAN 0860"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 1045 Advanced Japanese IV",
+    "courseid": "JPAN 1045",
+    "coursedescription": "A continuation of Japanese language at the advanced level. Authentic materials and video clips will be used. Spring Mutually Exclusive: JPAN 6045 Prerequisite: JPAN 1040 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 1040"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 1050 Readings in Classical Japanese I",
+    "courseid": "JPAN 1050",
+    "coursedescription": "Readings in classical texts drawn from the Heian, Kamakura, Muromachi, and Edo periods. Introduction to the different styles of classical Japanese, and to classical Japanese as a whole. Fall Also Offered As: EALC 3641 Mutually Exclusive: JPAN 6050 Prerequisite: JPAN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 1080 Advanced Japanese for Proficiency I",
+    "courseid": "JPAN 1080",
+    "coursedescription": "This course is designed for students with an advanced background in Japanese who are interested in taking the N2 or N1 of the Japanese Language Proficiency Test (JLPT). All participants are required to take the JLPT (N1 or N2) administered in December. A strong foundation in grammar, an extensive vocabulary, and knowledge of at least 800-900 kanji characters are required. This course does not continue any existing intermediate or advanced-level Japanese courses; therefore, grades from those courses do not qualify you for enrollment. Eligibility will be determined through an interview and a placement test, which will be administered during the first meeting. All students enrolled in this course must take the JLPT in December. JLPT registration typically begins in early August. Not Offered Every Year Mutually Exclusive: JPAN 6080 Prerequisite: JPAN 0800 OR JPAN 0860 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0800",
+      "JPAN 0860"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students with an advanced background in Japanese who are interested in taking the N2 or N1 of the Japanese Language Proficiency Test (JLPT)."
+      ]
+    }
+  },
+  {
+    "coursename": "JPAN 1085 Advanced Japanese for Proficiency II",
+    "courseid": "JPAN 1085",
+    "coursedescription": "This course is for students with an advanced-low or advanced-mid background in Japanese, aiming to strengthen the four language skills (speaking, reading, writing, and listening) and to deepen their understanding of Japanese culture. The class will use authentic Japanese through media, such as newspapers, television, and articles, regarding Japanese culture and society as well as current news. Students will narrate, describe, and express their opinions with details, examples, and strong reasoning, using sophisticated terms and phrases related such topics. Not Offered Every Year Mutually Exclusive: JPAN 6085 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 1140 Readings in Advanced Japanese",
+    "courseid": "JPAN 1140",
+    "coursedescription": "Readings in advanced literary and journalistic texts written in modern Japanese. Fall Mutually Exclusive: JPAN 6140 Prerequisite: JPAN 1045 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 1045"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 1145 Readings Advanced Japanese II",
+    "courseid": "JPAN 1145",
+    "coursedescription": "Readings in advanced literary and journalistic texts written in modern Japanese. Spring Mutually Exclusive: JPAN 6145 Prerequisite: JPAN 1140 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 1140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 1148 Japanese-English Translation",
+    "courseid": "JPAN 1148",
+    "coursedescription": "In this course, students learn basic techniques and skills in translation through hands-on practices. Depending on the interests of enrolled students, both literary and non-literary texts are drawn from a wide range of fields, including popular culture (e.g. manga, animation, film, game, music, and short story), religion, law, and medicine. As students read papers pertinent to principles and problems of translation from Japanese to English, they acquire practical experience in translation tasks and approaches, learn cultural and communicative differences between Japanese and English, and familiarize themselves with ethics and resources. Not Offered Every Year Mutually Exclusive: JPAN 6148 Prerequisite: JPAN 1045 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 1045"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Depending on the interests of enrolled students, both literary and non-literary texts are drawn from a wide range of fields, including popular culture (e.g."
+      ]
+    }
+  },
+  {
+    "coursename": "JPAN 5100 Beginning Japanese I",
+    "courseid": "JPAN 5100",
+    "coursedescription": "Intended for students who have no Japanese background. All four skills, speaking/listening/writing/reading, are equally emphasized. Hiragana/Katakana (Two sets of Japanese syllabic letters) and some Chinese characters (Kanji) are introduced. Textbooks: Genki I (Lesson 1- Lesson 7). Kanji: reproduction-approx.70/recognitio-approx.110 Fall Mutually Exclusive: JPAN 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 5103 Spoken Japanese I",
+    "courseid": "JPAN 5103",
+    "coursedescription": "Intended for students who have no Japanese background. The major emphasis is on oral communication skills, although some reading and writing instructions are given. Japanese pop-culture will also be incorporated. Fall Mutually Exclusive: JPAN 0103 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 5105 Spoken Japanese II",
+    "courseid": "JPAN 5105",
+    "coursedescription": "Although some reading/writing instruction is given, the major emphasis is on oral communication skill. Spring Mutually Exclusive: JPAN 0105 Prerequisite: JPAN 0103 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0103"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 5200 Beginning Japanese II",
+    "courseid": "JPAN 5200",
+    "coursedescription": "A continuation of Beginning Japanese I, this course continues the introduction of the Japanese language. All four skills, speaking/listening/writing/reading, are equally emphasized. Hiragana/Katakana (Two sets of Japanese syllabic letters) and some Chinese characters (Kanji) are introduced. Textbooks: Genki I (Lesson 8- Lesson 12) and Genki II (Lesson 13- Lesson 14)Kanji: reproduction-approx. 170/recognition-approx.250 Spring Mutually Exclusive: JPAN 0200 Prerequisite: JPAN 0100 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 5210 Intensive Beginning Japanese I & II",
+    "courseid": "JPAN 5210",
+    "coursedescription": "Intended for students who have little or no background in Japanese who wish to finish the language requirement in one year. This is equivalent to Beginning Japanese I & II in one semester, 2 CU. Textbooks: Genki I (Lesson 1-Lesson 12) and Genki II (Lesson 13-Lesson 14) Kanji: reproduction-approx.170/recognitio-approx.250 Not Offered Every Year Mutually Exclusive: JPAN 0210",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "JPAN 5300 Intermediate Japanese I",
+    "courseid": "JPAN 5300",
+    "coursedescription": "This course is a continuation of Beginning Japanese II and focuses on the development of the elementary grammatical structures of the Japanese language through aural-oral practices. The course also aims to develop the four basic skills: listening, speaking, reading, and writing. The course also introduces aspects of Japanese culture and customs, knowledge that is necessary for behaving in a socio-culturally appropriate manner. Students will learn and practice skills to communicate in situations they might face in real life. Example topics and functions are travel, part-time job, work, asking for favors, asking permission, stating your intension/opinion, reporting what you heard, and various speech styles including Keigo (respectful speech).Textbooks: Genki II (Lesson 15- Lesson 21) will be covered, and around 100 new Kanji will be introduced. Overall kanji knowledge will be 286. Fall Mutually Exclusive: JPAN 0300 Prerequisite: JPAN 0200 OR JPAN 0210 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0200",
+      "JPAN 0210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Example topics and functions are travel, part-time job, work, asking for favors, asking permission, stating your intension/opinion, reporting what you heard, and various speech styles including Keigo (respectful speech).Textbooks: Genki II (Lesson 15- Lesson 21) will be covered, and around 100 new Kanji will be introduced."
+      ]
+    }
+  },
+  {
+    "coursename": "JPAN 5400 Intermediate Japanese II",
+    "courseid": "JPAN 5400",
+    "coursedescription": "Prerequisites: Completion of Intermediate Japanese I or the equivalent. This course completes the College language requirement. Textbooks: Genki II (Lesson 22- Lesson 23)and Tobira: Gate way to Advanced Japanese (Unit 1-Unit 3) Kanji: Approximately 140 new Kanji will be introduced. Overall Kanji knowledge will be about approx. 400. Spring Mutually Exclusive: JPAN 0400 Prerequisite: JPAN 0300 1 Course Unit",
+    "course-prerequsities": [
+      "LESSON 22",
+      "LESSON 23",
+      "UNIT 1",
+      "UNIT 3",
+      "APPROX. 400",
+      "JPAN 0400",
+      "JPAN 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 5410 Intensive Intermediate Japanese I & II",
+    "courseid": "JPAN 5410",
+    "coursedescription": "A continuation of Intensive Beginning Japanese, this class is equivalent to JPAN0300 Intermediate Japanese I and JPAN0400 intermediate Japanese II in one semester, 2CU, and completes the College language requirement. Textbooks: Genki II and Tobira: Gateway to Advanced Japanese (Unit 1-Unit 2) Kanji: Approximately 140 new Kanji will be introduced. Overall, Kanji knowledge will be about approx. 400. Spring Mutually Exclusive: JPAN 0410 Prerequisite: JPAN 0200 OR JPAN 0210",
+    "course-prerequsities": [
+      "JPAN 0200",
+      "JPAN 0210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "JPAN 5500 High Intermediate Japanese I",
+    "courseid": "JPAN 5500",
+    "coursedescription": "A continuation of Japanese language beyond the language requirement. Textbooks: Tobira: Gateway to Advanced Japanese (Unit 4-Unit 8) Kanji:reproduction-approx.400/recognitio-approx.550 Fall Mutually Exclusive: JPAN 0500 Prerequisite: JPAN 0400 OR JPAN 0410 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0400",
+      "JPAN 0410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 5600 High Intermediate Japanese II",
+    "courseid": "JPAN 5600",
+    "coursedescription": "A continuation of Japanese language at the intermediate level. Textbooks: Tobira: Gateway to Advanced Japanese (Unit 9-Unit 15) Kanji: reproduction-approx.470/recognitio-approx.650 Not Offered Every Year Mutually Exclusive: JPAN 0600 Prerequisite: JPAN 0500 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 5700 Advanced Japanese I",
+    "courseid": "JPAN 5700",
+    "coursedescription": "This course is a continuation of Japanese language at the upper intermediate level, and authentic materials and video clips will be used. Not Offered Every Year Mutually Exclusive: JPAN 0700 Prerequisite: JPAN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 5760 Japanese for the Professions I",
+    "courseid": "JPAN 5760",
+    "coursedescription": "An intermediate level course of Japanese language focusing on workplace-related topics. Intended for students who will use Japanese in the professions. Textbook: Powering Up Your Japanese Through Case Studies: Intermediate and Advanced Japanese. Fall Mutually Exclusive: JPAN 0760 Prerequisite: JPAN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 5800 Advanced Japanese II",
+    "courseid": "JPAN 5800",
+    "coursedescription": "PREREQUISITES Completion of Advanced Japanese I or the equivalent. Authentic materials and video clips will be used. Not Offered Every Year Mutually Exclusive: JPAN 0800 Prerequisite: JPAN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0800",
+      "JPAN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 5860 Japanese for the Professions II",
+    "courseid": "JPAN 5860",
+    "coursedescription": "An intermediate level course of Japanese language focusing on workplace-related topics. Intended for students who will use Japanese in the professions. Textbook: Powering Up Your Japanese through Case Studies: Intermediate and Advanced Japanese. Spring Mutually Exclusive: JPAN 0860 Prerequisite: JPAN 0760 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0760"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 6040 Advanced Japanese III",
+    "courseid": "JPAN 6040",
+    "coursedescription": "A continuation of Japanese language beyond the intermediate level, and Authentic materials and video clips will be used. Fall Mutually Exclusive: JPAN 1040 Prerequisite: JPAN 0800 OR JPAN 0860 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0800",
+      "JPAN 0860"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 6045 Advanced Japanese IV",
+    "courseid": "JPAN 6045",
+    "coursedescription": "A continuation of Japanese language at the advanced level. Authentic materials and video clips will be used. Spring Mutually Exclusive: JPAN 1045 Prerequisite: JPAN 1040 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 1040"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 6050 Readings in Classical Japanese I",
+    "courseid": "JPAN 6050",
+    "coursedescription": "Readings in classical texts drawn from the Heian, Kamakura, Muromachi, and Edo periods. Introduction to the different styles of classical Japanese, and to classical Japanese as a whole. Fall Mutually Exclusive: JPAN 1050 Prerequisite: JPAN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 6080 Advanced Japanese for Proficiency I",
+    "courseid": "JPAN 6080",
+    "coursedescription": "This course is for students with an advanced background in Japanese, who are interested in taking at least the Level 2 Japanese Proficiency Test. Solid grammar, an extensive vocabulary, and the knowledge of at least 800-900 Chinese characters is required. This course is not continuous with any existing intermediate or advanced-level Japanese course; therefore, your grade from any of those courses does not qualify you to take this class. Eligibility will be determined through an interview and placement test taken in the first meeting. All students who take this course are required to take the Japanese Proficiency Test in December. Since the JLPT is administered in December every year, if you wish to fully prepare for the test, the instructor strongly recommends that you take Advanced Proficiency II in the same calendar year. For example, if you plan to take the test in December, take Advanced Proficiency II the prior spring and take Advanced Proficiency I in the fall. Different from other courses, this full-year course begins in the spring and ends in the fall, because the test is given in December. However, participation in 482 is optional. Fall Mutually Exclusive: JPAN 1080 Prerequisite: JPAN 0800 OR JPAN 0860 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 0800",
+      "JPAN 0860"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is for students with an advanced background in Japanese, who are interested in taking at least the Level 2 Japanese Proficiency Test."
+      ]
+    }
+  },
+  {
+    "coursename": "JPAN 6085 Advanced Japanese for Proficiency II",
+    "courseid": "JPAN 6085",
+    "coursedescription": "This course is for students with an advanced-low or advanced-mid background in Japanese, aiming to strengthen the four language skills (speaking, reading, writing, and listening) and to deepen their understanding of Japanese culture. The class will use authentic Japanese through media, such as newspapers, television, and articles, regarding Japanese culture and society as well as current news. Students will narrate, describe, and express their opinions with details, examples, and strong reasoning, using sophisticated terms and phrases related such topics. Spring Mutually Exclusive: JPAN 1085 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 6140 Readings in Advanced Japanese",
+    "courseid": "JPAN 6140",
+    "coursedescription": "Readings in advanced literary and journalistic texts written in modern Japanese. Spring Mutually Exclusive: JPAN 1140 Prerequisite: JPAN 1045 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 1045"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 6145 Readings Advanced Japanese II",
+    "courseid": "JPAN 6145",
+    "coursedescription": "Readings in advanced literary and journalistic texts written in modern Japanese. Not Offered Every Year Mutually Exclusive: JPAN 1145 Prerequisite: JPAN 1140 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 1140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JPAN 6148 Japanese-English Translation",
+    "courseid": "JPAN 6148",
+    "coursedescription": "In this course, students learn basic techniques and skills in translation through hands-on practices. Depending on the interests of enrolled students, both literary and non-literary texts are drawn from a wide range of fields, including popular culture (e.g. manga, animation, film, game, music, and short story), religion, law, and medicine. As students read papers pertinent to principles and problems of translation from Japanese to English, they acquire practical experience in translation tasks and approaches, learn cultural and communicative differences between Japanese and English, and familiarize themselves with ethics and resources. Not Offered Every Year Mutually Exclusive: JPAN 1148 Prerequisite: JPAN 1045 1 Course Unit",
+    "course-prerequsities": [
+      "JPAN 1045"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Depending on the interests of enrolled students, both literary and non-literary texts are drawn from a wide range of fields, including popular culture (e.g."
+      ]
+    }
+  }
+]

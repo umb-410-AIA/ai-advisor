@@ -1,0 +1,570 @@
+[
+  {
+    "coursename": "* EPS 0300a, Mass Extinctions Lidya Tarhan",
+    "courseid": "EPS 0300a",
+    "coursedescription": "Mass extinctions have repeatedly reshaped life in the oceans and on land over our planet’s history. These extinctions, although all massive, have ranged widely in magnitude, and were followed by different tempos and modes of ecosystem recovery. This course explores historical conceptualization and recent investigations of mass extinctions. We interrogate potential drivers—and the tools used to diagnose them—of some of Earth’s most severe extinctions, including the emergence of new species and new behaviors, meteorite impacts, volcanism, the configuration of tectonic plates, global warming and glaciation. Drawing upon a combination of scientific literature, popular science and works of fiction, we also discuss whether we are in the midst of a sixth mass extinction and explore predicted and imagined post-extinction landscapes. Enrollment limited to first-year students. WR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 0800b / APHY 0800b and APHY 1000b / ENAS 0800b / EVST 0080b and EVST 1000b / PHYS 0800b and PHYS 1000b, Energy, Environment, and Public Policy Daniel Prober",
+    "courseid": "EPS 0800b",
+    "coursedescription": "The technology and use of energy. Impacts on the environment, climate, security, and economy. Application of scientific reasoning and quantitative analysis. Intended for non–science majors with strong backgrounds in math and science. Tours are be conducted of major examples of good energy design at Yale, including the Yale Power Plant and Kroon Hall. Students who take this course are not eligible to take APHY 100. Prerequisites: High school chemistry, physics, and Math. Calculus is not required. Enrollment limited to first-year students. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 1010a, Climate Change Noah Planavsky",
+    "courseid": "EPS 1010a",
+    "coursedescription": "An introductory course that explores the science of global climate change. We analyze processes that regulate the climate on Earth, assess the scientific evidence for global warming, and discuss consequences of climate change. We explore Earth’s climate history as it relates to the present climate as well as future climate projections. Uncertainty in the interpretation of climate observations and future projections are examined. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EPS 1020b, Understanding Climate Change Solutions Staff",
+    "courseid": "EPS 1020b",
+    "coursedescription": "This seminar explores the scientific, technological, economic, and social aspects of potential solutions to global climate change. We briefly survey the full range of possible solutions, including emissions reduction, mitigation, and adaptation, but focus on understanding mitigation approaches such as carbon dioxide removal at a deeper level. We explore the scientific underpinnings, technological and societal challenges, economics, potential risks and co-benefits, and commercialization pathways of various climate change mitigation solutions. In addition, we quantify the enormous scale required to meaningfully address climate change and place this effort into historical context. SC HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EPS 1050b / APHY 1000b / ENAS 1000 / EVST 1000b / PHYS 1000b, Energy, Environment, and Public Policy Daniel Prober",
+    "courseid": "EPS 1050b",
+    "coursedescription": "The technology and use of energy. Impacts on the environment, climate, security, and economy. Application of scientific reasoning and quantitative analysis. Intended for non–science majors with strong backgrounds in math and science. QR , SC RP MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 1100a, Dynamic Earth David Evans",
+    "courseid": "EPS 1100a",
+    "coursedescription": "An introduction to the Earth as a planetary system, from its atmosphere to its core; and how the constantly changing surface environment controls both the foundation and fate of industrial society. Topics include planetary structure; plate tectonics, earthquakes and volcanoes; minerals, rocks and soils; evolution of landscapes; hydrology and floods; coasts and oceans; climate and weather; Earth history and biological evolution; humanity's economic dependence on natural resources; and human influences on the natural environment. SC MWF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 1110Lb, Dynamic Earth Laboratory and Field Methods David Evans",
+    "courseid": "EPS 1110Lb",
+    "coursedescription": "Practical exercises in the laboratory and in the field to complement EPS 110 or 115. Identification of minerals and rocks; construction of geologic maps and cross sections to determine Earth-system processes and histories. Includes a field trip to the northern Appalachians during the October recess. After or concurrently with EPS 1100 . SC ½ Course cr F 1pm-4pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 1260Lb, Laboratory for the History of Life Derek Briggs, Pincelli Hull, and Bhart-Anjan Bhullar",
+    "courseid": "EPS 1260Lb",
+    "coursedescription": "A survey of the diversification of life using suites of fossils and related modern organisms drawn from critical evolutionary stages. Emphasis on direct observation and description of specimens, the solution of problems posed by the instructor, and the generation and testing of hypotheses by the students. To be taken concurrently with or following EPS 1250 . SC ½ Course cr Th 2:30pm-5:30pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 1400b, Atmosphere, Ocean, and Climate Change Juan Lora",
+    "courseid": "EPS 1400b",
+    "coursedescription": "Physical processes that control Earth's atmosphere, ocean, and climate. Quantitative methods for constructing energy and water budgets. Topics include clouds, rain, severe storms, regional climate, the ozone layer, air pollution, ocean currents and productivity, the seasons, El Niño, the history of Earth's climate, global warming, energy, and water resources. QR , SC MW 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EPS 2120b, Global Tectonics Mark Brandon",
+    "courseid": "EPS 2120b",
+    "coursedescription": "The course provides an overview of the theory of plate tectonics, which accounts for the long-term evolution of the rigid exterior of the earth, and the formation and distribution of oceans, continents, mountain belts, volcanoes, and earthquakes at the earth’s surface. The course emphasizes the interdisciplinary approaches used to study the interactions between the mantle, crust, hydrosphere, atmosphere, and biosphere. EPS 110 Dynamic Earth is recommended (but not required) as a prerequisite. SC MWF 10:30am-11:20am",
+    "course-prerequsities": [
+      "MWF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "EPS 110 Dynamic Earth is recommended (but not required) as a prerequisite."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 2160b, Global Warming: Climate Physics Elizabeth Yankovsky and John Wettlaufer",
+    "courseid": "EPS 2160b",
+    "coursedescription": "Lectures on the basics of global warming and presentations and discussions of some of the classic papers that combined have led to our current understanding of global warming. The knowns and the unknowns of global warming; the paper trail of cutting-edge climate science through time, from the late 1800s to the present. Recommended preparation: basic calculus and physics. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: basic calculus and physics."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 2200b, Mineralogy Jay Ague",
+    "courseid": "EPS 2200b",
+    "coursedescription": "Study of the structures, chemistry, and physical properties of minerals, including common rock-forming minerals found in sedimentary, metamorphic, and igneous rocks, as well as rare and valuable minerals such as precious metals and gemstones. Recommended preparation: Introductory chemistry. SC TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: Introductory chemistry."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 2320b, Earth Surface Processes Lidya Tarhan",
+    "courseid": "EPS 2320b",
+    "coursedescription": "Introduction to sedimentary rocks as paleoenvironmental archives. Reconstruction of depositional environments and paleoclimatic and paleoecological conditions using sedimentological tools. Topics include sedimentology and stratigraphy and an introduction to how 'reading' the sedimentary record can be used to infer Earth's environmental, biological, climatic, chemical and tectonic history Prerequisite: EPS 0100 , 1100 or 1250 or permission of the instructor. SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "EPS 0100",
+      "1250",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics include sedimentology and stratigraphy and an introduction to how 'reading' the sedimentary record can be used to infer Earth's environmental, biological, climatic, chemical and tectonic history Prerequisite: EPS 0100 , 1100 or 1250 or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 2400b, Forensic Geoscience Maureen Long",
+    "courseid": "EPS 2400b",
+    "coursedescription": "Approaches and technologies developed for geoscience that have been adapted and applied in criminal, environmental, historical, and archaeological investigations. Methods related to seismology, geophysics, geomorphology, geochemistry, and radiometric dating. Case studies include nuclear treaty verification, detection of unexploded ordnance and clandestine graves, military history, soil and groundwater contamination, archaeological controversies, art and antiquities fraud, and narcotics provenance. SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 2740a, Fossil Fuels and World Energy Michael Oristaglio",
+    "courseid": "EPS 2740a",
+    "coursedescription": "The origins, geologic settings, exploration, distribution, and extraction of coal, oil, and natural gas as finite Earth resources. The role of fossil fuels in the world's energy systems; environmental impacts of fossil fuels, including climate change; the transition to low-carbon energy sources. Prerequisites: high school chemistry, mathematics, and Earth science. Recommended preparation: EPS 1100 or 2050 . SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "EPS 1100",
+      "2050",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: EPS 1100 or 2050 ."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 3100a, Isotope Geochemistry Alan Rooney and Jordan Wostbrock",
+    "courseid": "EPS 3100a",
+    "coursedescription": "An overview of the fundamental principles of stable and radiogenic isotope geochemistry. Emphasis is placed on applications of such systems to the evolution of the planet and life on Earth. Specific topics include marine geochemistry, geochronology, and biogeochemistry. Prerequisites: CHEM1650 or with permission of instructor. QR , SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "CHEM1650",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: CHEM1650 or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 3120a, Structural Geology Staff",
+    "courseid": "EPS 3120a",
+    "coursedescription": "An introduction to the origin and structure of the lithosphere and continental and oceanic crust. Topics include what controls the solid versus fluid behavior of rocks during deformation, and what controls the character and motion of tectonic plates. Laboratory exercises and field trips. QR , SC 0 Course cr MWF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 3220a, Physics of Weather and Climate Juan Lora",
+    "courseid": "EPS 3220a",
+    "coursedescription": "The climatic system; survey of atmospheric behavior and climatic change; meteorological measurements and analysis; formulation of physical principles governing weather and climate with selected applications to small- and large-scale phenomena. After PHYS 1810 and MATH 1200 or equivalents. QR , SC MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 3250a, Vertebrate Paleontology Jacques Gauthier",
+    "courseid": "EPS 3250a",
+    "coursedescription": "Phylogeny and evolution of the major clades of vertebrates from Cambrian to Recent, as inferred mainly from the fossilized remains of the musculoskeletal system (cranial, axial, and appendicular skeletons). Special attention given to the evolution of vertebrate feeding, locomotor, and sensory systems. Prerequisite: E&EB 225, or with permission of instructor. SC 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "EB 225"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: E&EB 225, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 3260a, Introduction to Earth and Planetary Physics Shun-ichiro Karato",
+    "courseid": "EPS 3260a",
+    "coursedescription": "An introduction to the structure and dynamics of Earth and other planets in the context of cosmic evolution. Review of basic physical principles and their applications to geophysics and planetary physics. Star formation and nucleosynthesis; planetary accretion and the birth of the solar system; heat flow, plate tectonics, and mantle dynamics; seismology and geodesy; core dynamics, geomagnetism, and planetary magnetism. Prerequisites: PHYS 1810 and MATH 1200 or equivalents. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHYS 1810",
+      "MATH 1200",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 3350a, Physical Oceanography Alexey Fedorov",
+    "courseid": "EPS 3350a",
+    "coursedescription": "An introduction to ocean dynamics and physical processes controlling large-scale ocean circulation, the Gulf Stream, wind-driven waves, tsunamis, tides, coastal upwelling, and other phenomena. Modern observational, theoretical, and numerical techniques used to study the ocean. The ocean's role in climate and global climate change. After PHYS 1810 and MATH 1200 or equivalents, or with permission of instructor. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "After PHYS 1810 and MATH 1200 or equivalents, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 3360b / ANTH 3136b / ARCG 3136b, Geoarchaeology Ellery Frahm",
+    "courseid": "EPS 3360b",
+    "coursedescription": "A survey of the numerous ways in which theories, approaches, techniques, and data from the earth and environmental sciences are used to address archaeological research questions. A range of interfaces between archaeology and the geological sciences are considered. Topics include stratigraphy, geomorphology, site formation processes, climate reconstruction, site location, and dating techniques. Prior introductory coursework in archaeology or geology (or instructor permission) suggested. SC , SO W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prior introductory coursework in archaeology or geology (or instructor permission) suggested."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 3420a / PHYS 3420a, Introduction to Earth and Environmental Physics John Wettlaufer",
+    "courseid": "EPS 3420a",
+    "coursedescription": "A broad introduction to the processes that affect the past, present, and future features of the Earth. Examples include climate and climate change and anthropogenic activities underlying them, planetary history, and their relation to our understanding of Earth's present dynamics and thermodynamics. Prerequisite: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610, MATH 1200 , 2460 , or ENAS 1940 , or permission of instructor. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 1700",
+      "1800",
+      "2000",
+      "2600",
+      "MATH 1200",
+      "ENAS 1940",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610, MATH 1200 , 2460 , or ENAS 1940 , or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 3450a, Paleoecology Pincelli Hull",
+    "courseid": "EPS 3450a",
+    "coursedescription": "How organisms have interacted with one another and the environment has changed dramatically through the history of life. The species and ecosystems we see today, with their myriad interactions and influences, are in many ways very unusual in a historical context. What’s more, the evolution of ecosystems has profoundly shaped and driven the evolution of species and the earth system over billions of years. For students of (macro)evolution, geobiology, paleontology, and earth system science, a foundation in paleoecology is essential for understanding the dynamics and drivers of these interrelated systems. To this end, this course is designed to provide students with i) a basic literacy in core concepts of paleoecology, ii) deeper insights into a few major topics, and iii) basic analytical methods with which to ask and answer novel questions of the fossil record. Prerequisite: EPS 1250 , BIOL 1040 , or permission of the instructor. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "EPS 1250",
+      "BIOL 1040",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: EPS 1250 , BIOL 1040 , or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 3550a, Extraordinary Glimpses of Past Life Derek Briggs",
+    "courseid": "EPS 3550a",
+    "coursedescription": "Study of exceptionally well-preserved fossil deposits ( lagerstaetten ) that contain nonmineralized animal skeletons and casts of the soft parts of organisms. Examples such as the Burgess Shale and Solnhofen limestones; what they can reveal about the history and evolution of life, ancient lifestyles and environments, and preservational processes. SC MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 4210b, Geophysical Fluid Dynamics Mary-Louise Timmermans",
+    "courseid": "EPS 4210b",
+    "coursedescription": "An examination of the equations governing rotating stratified flows with application to atmospheres and oceans. Mathematical models are used to illustrate the dynamical principles of geophysical fluid phenomena such as waves, boundary layers, flow stability, and large-scale circulations. Concepts are investigated through laboratory experiments in a rotating water tank. Prerequisites: Familiarity with differential equations and introductory fluid mechanics, or permission of the instructor. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: Familiarity with differential equations and introductory fluid mechanics, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 4900a and EPS 4910b, Research and Senior Thesis Pincelli Hull",
+    "courseid": "EPS 4900a",
+    "coursedescription": "Two terms of independent library, laboratory, field, or modeling-based research under faculty supervision. To register for this course, each student must submit a written plan of study, approved by a faculty adviser, to the director of undergraduate studies by the start of the senior year. The plan requires approval of the full EPS faculty. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EPS 4920a or b, The Senior Essay Pincelli Hull",
+    "courseid": "EPS 4920a",
+    "coursedescription": "One term of independent library, laboratory, field, or modeling-based research under faculty supervision. To register for this course, each student must submit a written plan of study, approved by a faculty adviser, to the director of undergraduate studies at the beginning of the term in which the essay is to be written. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 3214a, Classics of Ethics, Politics and Economics Kevin Elliott",
+    "courseid": "EP&E",
+    "coursedescription": "This course is designed to explore the moral and theoretical foundations, critiques, and open questions surrounding the social organization of production and governance in modern societies. A key aim of this class is to better understand the moral and philosophical background of market-based distribution, criticisms of it, and how thinkers have tried to make sense of it. HU , SO W 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 3217a, Classics of EP&E–Intellectual Origins of Liberalism and Conservatism Gregory Collins",
+    "courseid": "EP&E",
+    "coursedescription": "The purpose of this course is to explore the intellectual origins of liberalism and conservatism through an EP&E framework. We discuss the tensions between collective wisdom and individual reason in the early modern period and survey the thought of thinkers in the proto-liberal and proto-conservative traditions, such as Thomas Hobbes and John Locke on sovereignty, individual autonomy, reason, and toleration; and Robert Filmer, Richard Hooker, and David Hume on order, custom, and utility. Our main object of inquiry, however, is the intellectual division that emerged between supporters and critics of the French Revolution, the historical event that prompted the modern political identities of liberalism and conservatism. Accordingly, we examine the political, moral, and economic theories of the Revolution; reactions to the Revolution from Edmund Burke, Joseph de Maistre, and other counterrevolutionaries; critical responses to their reactions, including those from Thomas Paine, Mary Wollstonecraft, and James Mackintosh; and the impact of this debate on the evolution of liberalism and conservatism in the nineteenth and twentieth centuries in Europe and the United States. Class discussions and readings confront liberal and conservative perspectives on human nature; reason; freedom; tradition; individual rights; religion; the Enlightenment; market economies; democratic participation; and equality. SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4224a / ECON 4465a / GLBL 4830a, Debating Globalization Ernesto Zedillo",
+    "courseid": "EP&E",
+    "coursedescription": "Facets of contemporary economic globalization, including trade, investment, and migration. Challenges and threats of globalization: inclusion and inequality, emerging global players, global governance, climate change, and nuclear weapons proliferation. Prerequisite: background in international economics and data analysis. Preference to seniors majoring in Economics or EP&E. SO RP M 9:25am-11:15am",
+    "course-prerequsities": [
+      "M 9",
+      "25AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4234a / PHIL 3314a, Contemporary Moral and Social Controversies: Freedom, Autonomy, Well-Being Max Lewis",
+    "courseid": "EP&E",
+    "coursedescription": "We are living in a time of moral turmoil. Not only have legal rights we took for granted been overturned (e.g., the right to abortion), but we seem more polarized than ever. In this course, we take a careful and sober look at some of the moral and social controversies that constitute this state of turmoil and polarization. At the heart of the course are debates concerning conflicts between the following rights and values that people in liberal democracies see as sacrosanct, e.g., autonomy (e.g., bodily autonomy), freedom (e.g., free speech and freedom of association), harm prevention, the right to life, and well being. We start by exploring the fundamental theories in morality (e.g., Consequentialism, Deontology, and Rights Theory) and well-being (e.g., Hedonism, Desire-satisfaction, and Objective List views). We then use these theories to critically analyze particular moral and social controversies. In particular, we explore how these theories answer the following questions, “Is abortion morally permissible?”, “Is euthanasia morally wrong?”, “Should there be limits on free speech? If so, when?”, “Should there be limits on what can be bought and sold?”, “Can the state be justified in interfering with who gets to parent children?”, “How open should state borders be?”, “What do we owe the global poor?” SO Th 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4235b / PHIL 4457b / PLSC 3346b, Recent Work on Justice Thomas Pogge",
+    "courseid": "EP&E",
+    "coursedescription": "In-depth study of one contemporary book, author, or debate in political philosophy, political theory, or normative economics. Focus varies from year to year based on student interest and may include a ground-breaking new book, the life's work of a prominent author, or an important theme in contemporary political thought. HU W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Focus varies from year to year based on student interest and may include a ground-breaking new book, the life's work of a prominent author, or an important theme in contemporary political thought."
+      ]
+    }
+  },
+  {
+    "coursename": "* EP&E 4246a / PLSC 3339a, Participatory Democracy Amir Fairdosi",
+    "courseid": "EP&E",
+    "coursedescription": "What does democracy look like without elections? In this class, we discuss the theory and practice of “participatory” forms of democracy (i.e. those that allow and encourage citizens to influence policy directly, rather than indirectly through elected representatives). SO T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4250a / PLSC 3462a, The European Union David Cameron",
+    "courseid": "EP&E",
+    "coursedescription": "Origins and development of the European Community and Union over the past fifty years; ways in which the often-conflicting ambitions of its member states have shaped the EU; relations between member states and the EU's supranational institutions and politics; and economic, political, and geopolitical challenges. SO Th 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4255a / PHIL 3208a, Morality and Relationships Max Lewis",
+    "courseid": "EP&E",
+    "coursedescription": "This course explores the nuances of two kinds of relationships: interpersonal relationships and normative relationships. The course starts with foundational work in relational ethics which connects ethics with moral accountability, e.g., moral demands, claims, blame, apology, forgiveness, etc. With a grasp of these views in place, we turn toward the morality of interpersonal relationships. Interpersonal relationships are a central part of our lives. As social creatures, they are essential for our well-being and the meaningfulness of our lives. But they raise important moral questions. For example, do we have special obligations to our friends, family, or co-national? Are we epistemically permitted to ignore evidence if it indicates that our friend or family has done something wrong? Is there a conflict between what morality requires and what is required for being a good friend or family member? What’s wrong or bad about being friends with an immoral person? We also explore psychological and moral aspects of these relationships, e.g., what does loving a person consist of? What reasons do we have to love others? Do we owe our loved ones debts of gratitude? SO M 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4256b / ANTH 3807b, Reparation, Repair, Reconciliation: Reckoning with Slavery and Colonialism in Global Perspective Yukiko Koga",
+    "courseid": "EP&E",
+    "coursedescription": "Imperial reckoning for slavery, imperialism, and colonialism has gained new momentum in recent years, from official apologies for colonial violence to reparations lawsuits filed in Asia, Europe, and the US for slavery, genocide, and massacres, to demands for the return of bodily remains and cultural artifacts from established cultural institutions. This seminar explores how these new attempts for belated imperial reckoning are reshaping relations between former empires and their ex-colonies. It approaches imperial reckoning as a site for redressing not only the original violence but also the transitional injustice incurred in the process of the unmaking of empire, which calls for post-imperial reckoning. Drawing on examples from recent cases, this course explores what it means to belatedly reckon with imperial violence today. What does it mean to reckon with imperial violence through legal means, decades after the dissolution of empires? What is the role of law in belated redress? How is historical responsibility articulated and by whom? Who is responsible for what, then and now? What are the stakes in reckoning with distant, yet still alive, pasts? Why and how does it matter today for those of us who have no direct experience of imperial violence? This course approaches these questions through an anthropological exploration of concepts such as debt, gift, moral economy, structural violence, complicity and implication, and abandonment. Prerequisites: Instructor permission required. HU , SO T 9:25am-11:15am",
+    "course-prerequsities": [
+      "T 9",
+      "25AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: Instructor permission required."
+      ]
+    }
+  },
+  {
+    "coursename": "* EP&E 4259a / ECON 4460a, From Say's Law to the Global Financial Crisis: Thinking about Economic Fluctuations and Instability Robert Dimand",
+    "courseid": "EP&E",
+    "coursedescription": "This course investigates the changing ways in which economic fluctuations and financial and economic instability have been analyzed in the two centuries from the debates at the end of the Napoleonic Wars over Say’s Law of Markets and the possibility of a general glut of commodities through to the Global Financial Crisis and the present state of macroeconomics. Prerequisite: Intermediate Macroeconomics ( ECON 2122 or ECON 2126 ) or permission of the instructor. SO T 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "ECON 2122",
+      "ECON 2126",
+      "T 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Intermediate Macroeconomics ( ECON 2122 or ECON 2126 ) or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EP&E 4264a, Inequality and Polarization in America Sahil Chinoy",
+    "courseid": "EP&E",
+    "coursedescription": "This seminar examines how the profound economic and social inequality in the United States interacts with our polarized political environment, and how these forces ultimately shape democratic processes and government policy. Throughout, we analyze the interplay of economic incentives and realities with political behavior and institutions. We pay special attention not just to what we know, but also to how we know it, highlighting contemporary empirical research from political science and economics. Substantively, we cover a constellation of topics at the intersection of these two fields: the relationship of income inequality and wealth concentration to campaign finance, the role of education polarization in determining who runs for office, the legacy of slavery and its relationship to identity politics, and the links between racial, economic, and political segregation across neighborhoods. Other topics include social media and internet news–which receive much of the blame for polarization in the press–the (in)effectiveness of campaign advertising, the determinants of voter turnout, the impact of social movements, and the shifting alliances among business, labor, and the major political parties. Previous courses in econometrics, statistics, and causal inference are suggested. T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EP&E 4295a / EP&E 295 / PLSC 2600a, Game Theory and Political Science Staff",
+    "courseid": "EP&E",
+    "coursedescription": "Introduction to game theory—a method by which strategic interactions among individuals and groups in society are mathematically modeled—and its applications to political science. Concepts employed by game theorists, such as Nash equilibrium, subgame perfect equilibrium, and perfect Bayesian equilibrium. Problems of cooperation, time-consistency, signaling, and reputation formation. Political applications include candidate competition, policy making, political bargaining, and international conflict. No prerequisites other than high school algebra. Political Science majors who take this course may not count ECON 159 toward the major. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [
+      "ECON 159",
+      "SO 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4306a / PLSC 3221a, First Amendment and Ethics of Law Karen Goodrow",
+    "courseid": "EP&E",
+    "coursedescription": "This course addresses the First Amendment and freedom of speech, focusing on the ethical implications of restrictions on free speech, as well as the exercise of free speech. Course topics and discussions include the “fighting words” doctrine, hate speech, true threats, content regulated speech, freedom of speech and the internet, and the so-called “right to be forgotten.” By the end of the course, students recognize the role free speech plays in society, including its negative and positive impacts on various segments of society. Students also have an understanding of the competing interests arising from the First Amendment’s right to free speech, and can analyze how these competing interests are weighed and measured in the United States as compared with other countries. SO W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course addresses the First Amendment and freedom of speech, focusing on the ethical implications of restrictions on free speech, as well as the exercise of free speech.",
+        "Students also have an understanding of the competing interests arising from the First Amendment’s right to free speech, and can analyze how these competing interests are weighed and measured in the United States as compared with other countries."
+      ]
+    }
+  },
+  {
+    "coursename": "* EP&E 4328a / EP&E 328 / PLSC 2509a / S&DS 1720a, YData: Data Science for Political Campaigns Joshua Kalla",
+    "courseid": "EP&E",
+    "coursedescription": "Political campaigns have become increasingly data driven. Data science is used to inform where campaigns compete, which messages they use, how they deliver them, and among which voters. In this course, we explore how data science is being used to design winning campaigns. Students gain an understanding of what data is available to campaigns, how campaigns use this data to identify supporters, and the use of experiments in campaigns. This course provides students with an introduction to political campaigns, an introduction to data science tools necessary for studying politics, and opportunities to practice the data science skills presented in S&DS 123, YData. QR W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4334b / PHIL 4455b, Normative Ethics Shelly Kagan",
+    "courseid": "EP&E",
+    "coursedescription": "A systematic examination of normative ethics, the part of moral philosophy that attempts to articulate and defend the basic principles of morality. The course surveys and explores some of the main normative factors relevant in determining the moral status of a given act or policy (features that help make a given act right or wrong). Brief consideration of some of the main views about the foundations of normative ethics (the ultimate basis or ground for the various moral principles). Prerequisite: a course in moral philosophy. HU Th 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "TH 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4350a / AFST 3385a / HIST 2391a / HIST 3344a / PLSC 3439a, Pandemics in Africa: From the Spanish Influenza to Covid-19 Jonny Steinberg",
+    "courseid": "EP&E",
+    "coursedescription": "The overarching aim of the course is to understand the unfolding Covid-19 pandemic in Africa in the context of a century of pandemics, their political and administrative management, the responses of ordinary people, and the lasting changes they wrought. The first eight meetings examine some of the best social science-literature on 20th-century African pandemics before Covid-19. From the Spanish Influenza to cholera to AIDS, to the misdiagnosis of yaws as syphilis, and tuberculosis as hereditary, the social-science literature can be assembled to ask a host of vital questions in political theory: on the limits of coercion, on the connection between political power and scientific expertise, between pandemic disease and political legitimacy, and pervasively, across all modern African epidemics, between infection and the politics of race. The remaining four meetings look at Covid-19. We chronicle the evolving responses of policymakers, scholars, religious leaders, opposition figures, and, to the extent that we can, ordinary people. The idea is to assemble sufficient information to facilitate a real-time study of thinking and deciding in times of radical uncertainty and to examine, too, the consequences of decisions on the course of events. There are of course so many moving parts: health systems, international political economy, finance, policing, and more. We also bring guests into the classroom, among them frontline actors in the current pandemic as well as veterans of previous pandemics well placed to share provisional comparative thinking. This last dimension is especially emphasized: the current period, studied in the light of a century of epidemic disease, affording us the opportunity to see path dependencies and novelties, the old and the new. SO W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4356a, Constitutional Law and Business Ethics Gregory Collins",
+    "courseid": "EP&E",
+    "coursedescription": "The purpose of this course is to explore how the U.S. Constitution and Supreme Court case law have had an impact on business and commercial activities throughout U.S. history. We first identify provisions of the Constitution that relate to economics and familiarize ourselves with methods of constitutional interpretation, including originalism and living constitutionalism. We then apply this guiding framework to our analysis of key Supreme Court cases that have addressed the Commerce Clause, the Takings Clause, the First Amendment, the Fourteenth Amendment, and a number of other constitutional provisions that relate to commercial exchange and the legal status of corporations. Additional concepts we discuss include the countermajoritarian difficulty, the rational basis test, strict scrutiny, substantive due process, fundamental rights, disparate impact, public accommodations law, antidiscrimination law, and antitrust law. The guiding question we confront is whether the courts should a.) defer to legislatures in regulating business actors; or b.) overturn democratically enacted laws to protect the economic liberties of individuals. T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4380b / PLSC 3304b, Bioethics, Politics, and Economics Stephen Latham",
+    "courseid": "EP&E",
+    "coursedescription": "Ethical, political, and economic aspects of a number of contemporary issues in biomedical ethics. Topics include abortion, assisted reproduction, end-of-life care, research on human subjects, and stem cell research. SO T 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4390a / EVST 3212a / PLSC 3217a, Democracy and Sustainability Michael Fotos",
+    "courseid": "EP&E",
+    "coursedescription": "Democracy, liberty, and the sustainable use of natural resources. Concepts include institutional analysis, democratic consent, property rights, market failure, and common pool resources. Topics of policy substance are related to human use of the environment and to U.S. and global political institutions. WR , SO Th 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Concepts include institutional analysis, democratic consent, property rights, market failure, and common pool resources."
+      ]
+    }
+  },
+  {
+    "coursename": "* EP&E 4396a / AMST 4469a / PLSC 3238a, American Progressivism and Its Critics Stephen Skowronek",
+    "courseid": "EP&E",
+    "coursedescription": "The progressive reform tradition in American politics. The tradition's conceptual underpinnings, social supports, practical manifestations in policy and in new governmental arrangements, and conservative critics. Emphasis on the origins of progressivism in the early decades of the twentieth century, with attention to latter-day manifestations and to changes in the progressive impulse over time. SO M 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4399a / AMST 3365a / ER&M 3695a / FILM 2680, Platforms and Cultural Production Julian Posada",
+    "courseid": "EP&E",
+    "coursedescription": "Platforms—digital infrastructures that serve as intermediaries between end-users and complementors—have emerged in various cultural and economic settings, from social media (Instagram), and video streaming (YouTube), to digital labor (Uber), and e-commerce (Amazon). This seminar provides a multidisciplinary lens to study platforms as hybrids of firms and multi-sided markets with unique history, governance, and infrastructures. The thematic sessions of this course discuss how platforms have transformed cultural production and connectivity, labor, creativity, and democracy by focusing on comparative cases from the United States and abroad. The seminar provides a space for broader discussions on contemporary capitalism and cultural production around topics such as inequality, surveillance, decentralization, and ethics. Students are encouraged to bring examples and case studies from their personal experiences. HU , SO M 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4471a or b, Directed Reading and Research Jose-Antonio Espin-Sanchez",
+    "courseid": "EP&E",
+    "coursedescription": "For individual reading and research unrelated to the senior essay. Students must obtain the signature of the faculty member supervising their independent work on an Independent Study Form (available from the Ethics, Politics, and Economics registrar's office). This form must be submitted to the director of undergraduate studies at the time the student's class schedule is submitted. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4478b / PHIL 4450b, The Problem of Evil Keith DeRose",
+    "courseid": "EP&E",
+    "coursedescription": "The challenge that evil's existence in the world poses for belief in a perfectly good and omnipotent God. The main formulations of the problem of evil; proposed ways of solving or mitigating the problem and criticism of those solutions. Skeptical theism, the free-will defense, soul-making theodicies, and doctrines of hell. HU T 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4490b / CGSC 4260b / PHIL 4426b / PSYC 4220b, The Cognitive Science of Morality Joshua Knobe",
+    "courseid": "EP&E",
+    "coursedescription": "Introduction to the emerging field of moral cognition. Focus on questions about the philosophical significance of psychological findings. Topics include the role of emotion in moral judgment; the significance of character traits in virtue ethics and personality psychology; the reliability of intuitions and the psychological processes that underlie them. HU W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4491a or b, The Senior Essay Jose-Antonio Espin-Sanchez",
+    "courseid": "EP&E",
+    "coursedescription": "A one-term senior essay. The essay should fall within the student's area of concentration. If no appropriate seminar is offered in which the essay might be written, the student, in consultation with the director of undergraduate studies, should choose an appropriate member of the faculty to supervise the senior essay. Students must obtain the signature of the faculty member supervising their independent work on an Independent Study Form (available from the Ethics, Politics, and Economics registrar's office). This form must be submitted to the director of undergraduate studies at the time the student's class schedule is submitted. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EP&E 4492a or b and EP&E 4493a or b, The Yearlong Senior Essay Jose-Antonio Espin-Sanchez",
+    "courseid": "EP&E",
+    "coursedescription": "A two-term senior essay. The essay should fall within the student's area of concentration. The student, in consultation with the director of undergraduate studies, should choose an appropriate member of the faculty to supervise the senior essay. Students must obtain the signature of the faculty member supervising their independent work on an Independent Study Form (available from the Ethics, Politics, and Economics registrar's office). This form must be submitted to the director of undergraduate studies at the time the student's class schedule is submitted. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "coursename": "GLBL 1204a / CLCV 2691a / HIST 1702a, Global Leadership, 600 BCE–600 CE Staff",
+    "courseid": "GLBL 1204a",
+    "coursedescription": "This course provides students with an accessible and engaging introduction to both the classical world and the problems of political organization and leadership through time and across societies. Students learn to think comparatively between individuals, societies, and systems and to analyze different ideals of leadership. This means considering not only traditional masculine and military conceptions of rule but also the leadership roles and styles of women, slaves, and rebels. We hope to bring into view, in other words, the intersectional challenges to power faced by non-traditional leaders in a world dominated by gender, class, and cultural prejudices, and to show how non-traditional leaders confronted and overcame these. Students draw upon this experience to access the premodern world as an alternative but related historical reality which can productively inform their engagement with the present. HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 1223b / HLTH 2300b, Global Health: Challenges and Responses Laura Bothwell",
+    "courseid": "GLBL 1223b",
+    "coursedescription": "This class is a foundational course in global health. It examines the social, economic, political, and intellectual trends and transformations that have led to contemporary global health problems and introduces students to systemic responses and central approaches in global health. Course topics are thematically driven according to a focus on the roots of global health challenges and the primary social structures that global societies have erected to understand and manage illness and health, with examples ranging from neglected tropical diseases to systems of global health ethics. Particular attention is given to the health of the poor, equity and inequality, and comparative analysis of global health across regions and cultures. SO 0 Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 1433a / HIST 1733a, The Twentieth Century: A World History Staff",
+    "courseid": "GLBL 1433a",
+    "coursedescription": "For most people, almost everywhere, the twentieth century was a time of profound and accelerating change. Someone born in the 1890s could, if they lived a long life, have experienced two world wars, a global depression, collapse of empires, the enfranchisement of women and young people, and the rise of the United States to global power. They could have witnessed the first cars, the first planes, the first radios and TVs, and the first computers. They could have been among the first to swear allegiance to one (or several) of 130 new states, almost twice the number that existed in 1900. They would have been certain to witness massive ecological destruction, as well as unparalleled advances in medicine, science, and the arts. The twentieth century was, as one historian puts it, an age of extremes, and in this class we explore some of these aspects of the age. The class is not intended to be a complete history nor is it one that provides an integrative interpretation of historical events. The aim is rather to enable students to know enough to think for themselves about the origins of today’s world and about how historical change is created. HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 2121a, Applied Quantitative Analysis Staff",
+    "courseid": "GLBL 2121a",
+    "coursedescription": "This course is an introduction to statistics and their application in public policy and global affairs research. Throughout the term we cover issues related to data collection (including surveys, sampling, and weighted data), data description (graphical and numerical techniques for summarizing data), probability and probability distributions, confidence intervals, hypothesis testing, measures of association, and regression analysis. QR 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 2122b, Applied Quantitative Analysis II Staff",
+    "courseid": "GLBL 2122b",
+    "coursedescription": "This course introduces students to multiple regression analysis and other tools of causal inference and program evaluation. The course focuses on applying these tools to real data on various topics in global affairs and public policy. Applications are drawn from a wide range of areas including education, social welfare, unemployment, security, health, immigration, the environment, and economic development. We develop the core analytical tools of single and multi-variable regression and discuss fixed effects, difference-in-difference, natural experiment, instrumental variables, regression discontinuity, event study, and matching approaches. Students are trained to thoughtfully produce their own empirical research and to critically consume empirical research done by others. Prerequisite: GLBL 121 or equivalent. QR 0 Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "GLBL 121",
+      "QR 0",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 2159a or b / ECON 2159a or b, Game Theory Staff",
+    "courseid": "GLBL 2159a",
+    "coursedescription": "An introduction to game theory and strategic thinking. Ideas such as dominance, backward induction, Nash equilibrium, evolutionary stability, commitment, credibility, asymmetric information, adverse selection, and signaling are applied to games played in class and to examples drawn from economics, politics, the movies, and elsewhere. After introductory microeconomics. No prior knowledge of game theory assumed. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 2203a / PLSC 2105a, Globalization and Domestic Politics Staff",
+    "courseid": "GLBL 2203a",
+    "coursedescription": "This course offers students a general introduction to the political consequences of economic globalization (e.g., the rise of populist parties). We identify the winners and losers of tariff policy, foreign aid, and monetary policy (e.g., a strong/weak dollar), and examine how domestic institutions—such as lobbying and electoral systems—reinforce the advantages enjoyed by globalization’s winners, while also creating opportunities for losers to advocate for policy reversal. 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 2234b / ECON 2184b, International Economics Peter Schott",
+    "courseid": "GLBL 2234b",
+    "coursedescription": "Introduction to conceptual tools useful for understanding the strategic choices made by countries, firms, and unions in a globalized world. After two terms of introductory economics. SO MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 2251b / CPLT 2650b / EALL 2560b / EAST 2221b / HUMS 2720b, China in the World Jing Tsu",
+    "courseid": "GLBL 2251b",
+    "coursedescription": "Recent headlines about China in the world, deciphered in both modern and historical contexts. Interpretation of new events and diverse texts through transnational connections. Topics include China's international relations and global footprint, language and script, Chinese America, science and technology, and science fiction. Special topic for AY 2025-2026 with guest speakers: AI, U.S.-China futurism, and tech policy Readings and discussion in English. HU 0 Course cr MW 1:30pm-2:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 2280b / USAF 2014b, The Space Domain and Global Security Lester Oberg",
+    "courseid": "GLBL 2280b",
+    "coursedescription": "The outer space domain is increasingly important to global security and prosperity. Space capabilities enable unprecedented economic opportunities across multiple fields of endeavor, ranging from environment and agriculture to transportation, science, and banking. At the same time, space has become essential to national defense: it underpins the ability of advanced militaries to navigate and track forces, to maintain robust communications, to detect missile launches, and to ensure effective command and control. Yet the evolution in uses of space, and advances in space technology, create novel risks, vulnerabilities, and threats. This course aims to equip students with an understanding of the dynamic, rapidly evolving domain of outer space. After analyzing some of the unique technical and legal features of the space domain, the class explores the strategic significance of space to American national security interests, particularly as space becomes more competitive among nations. The course also focuses on the rise of the commercial space industry, the growing number of space activities undertaken by corporations, and the role of public-private partnerships in ensuring the resilience of national space assets and the global space economy. In collaboration with the U.S. Air Force Academy, students also participate in an intensive space conflict tabletop exercise, assuming the roles of key stakeholders in an engaging simulation. There are no formal prerequisites for this course . However, for those seeking admission—especially undergraduates—prior coursework or work experience in global affairs, law, computer science, physics, astrophysics, and/or astronomy, is helpful. Students will be admitted to the course from a diverse array of backgrounds. Though this is an Aerospace Studies proposal that will be required for second-year cadets enrolled in Yale Air Force ROTC, this course has the full support of the Jackson School. SO RP HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "After analyzing some of the unique technical and legal features of the space domain, the class explores the strategic significance of space to American national security interests, particularly as space becomes more competitive among nations."
+      ]
+    }
+  },
+  {
+    "coursename": "GLBL 2283a / PLSC 2127a, Technology and War Staff",
+    "courseid": "GLBL 2283a",
+    "coursedescription": "The course explores the international security implications of emerging technologies such as artificial intelligence, cyberweapons, hypersonic missiles, and so-called killer robots. The first half of the course offers a deep dive into the transformative military and civilian technologies of the 20th century, examining how doctrine and culture shaped the development, acquisition, and deployment of key systems like submarines, bomber aircraft, and nuclear bombs, and how these technologies, in turn, shaped international security. In the second half of the course, we apply the lessons of the past to make theoretically guided predictions. What norms will guide the use of new technologies, and what weapons should or should not be developed? Are arms races inevitable? What might improve the prospects for arms control of emerging technologies? SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 2357a / HIST 2623a, Palestine and Israel Laura Robson",
+    "courseid": "GLBL 2357a",
+    "coursedescription": "This course traces the history of Palestine and Israel from the mid-nineteenth century to the present, focusing particularly on the genesis of the Arab-Israeli conflict and the construction of two opposing nationalist narratives attached to the same geographical space. In this class, we examine the political, social, economic, and cultural history of the region and trace the concurrent development of Palestinian and Israeli national identities during the nineteenth and twentieth centuries. We also consider the historiography of the conflict and investigate some of the most prominent scholarly debates surrounding the history of the region. HU MW 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 2383b / ECON 2160b, Games and Information Staff",
+    "courseid": "GLBL 2383b",
+    "coursedescription": "This is designed to be a \"second\" game theory course. We build on the learnings from introductory game theory courses like ECON 159/GLBL 159, MGT 822 or the SOM core. The course aims to introduce important ideas and tools from game theory, and use them to answer questions in social sciences, law, and business. For instance, how does information get sold and used to persuade? How do we think about the efficiency and equity of allocations? How do sellers decide the best format for an auction to sell a good? Does requiring unanimous verdicts guarantee that the innocent will not be convicted? What causes bank runs? When do we see price wars? The underlying ideas will include games of incomplete information, mechanism design, common knowledge and high-order reasoning, and repeated games. Prerequisite: Any introductory game theory course, e.g., ECON/GLBL 159, MGT 822 or Game Theory in the SOM Core. SO RP 0 Course cr TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "GLBL 159",
+      "MGT 822",
+      "RP 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 2392a, Intelligence, Espionage, and American Foreign Policy Staff",
+    "courseid": "GLBL 2392a",
+    "coursedescription": "The discipline, theory, and practice of intelligence; the relationship of intelligence to American foreign policy and national security decision-making. Study of the tools available to analyze international affairs and to communicate that analysis to senior policymakers. Case studies of intelligence successes and failures from World War II to the present. 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 2427a / AFST 3381a / PLSC 2427a, Government and Politics in Africa Staff",
+    "courseid": "GLBL 2427a",
+    "coursedescription": "The establishment and use of political power in selected countries of tropical Africa. The political role of ethnic and class cleavages, military coups, and the relation between politics and economic development. SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3095a, Special Operations History and Policy Phil Kaplan and Christopher Fussell",
+    "courseid": "GLBL 3095a",
+    "coursedescription": "For two decades, the world has seen the role, funding, and employment of Special Operations Forces (SOF) increase in ways that would have been unrecognizable to previous generations of military leaders. While this phenomenon has been global to some degree, it has been by far the most pronounced in the United States. Driven by a sustained period of highly kinetic counterterrorism operations, the evolution of SOF has been one of the most significant developments in the military history of the 21st century. With that period of conflict now receding, and a period of sustained competition between near-peers dominating geopolitical dynamics, the role of SOF remains both contested and consequential. The goal of this course is to prepare students to think critically about the proper utilization of SOF—whether as informed citizens, military leaders, or civilian policymakers. Drawing on a diverse set of narrative, historical, legal, and other sources, the course will analyze SOF’s recent expansion and explore what its future utilization might look like, based on the changing landscape of global conflict. F 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 3101b, Challenges in Global Affairs Jennifer Gandhi, Amit Khandelwal, and Alden Young",
+    "courseid": "GLBL 3101b",
+    "coursedescription": "Challenges in Global Affairs is the singular core course for global affairs majors, intended for students in their junior year. The course is led by senior Jackson faculty and co-taught with other experts to delve into key topics in global affairs. The goal is to teach students how to think systematically about a particular challenge through various lenses, especially those used in economics, history, and political science. The course is a mix of lectures and class discussions. We approach key topics from both a theoretical and a practical perspective. Note: Please ensure that you have the course prerequisites below before registering. This course is a requirement for the new global affairs major curriculum and open to global affairs majors only. Students may not enroll in this course without the following two courses (1) introduction to microeconomics (ECON 115 or equivalently ECON 110) or a higher-level microeconomics course; and (2) at least one History or Political Science course that has dealt with post-1945 history, politics, or international relations; or without instructor permission. SO 0 Course cr TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "ECON 115",
+      "ECON 110",
+      "POST-1945",
+      "SO 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is a requirement for the new global affairs major curriculum and open to global affairs majors only.",
+        "Students may not enroll in this course without the following two courses (1) introduction to microeconomics (ECON 115 or equivalently ECON 110) or a higher-level microeconomics course; and (2) at least one History or Political Science course that has dealt with post-1945 history, politics, or international relations; or without instructor permission."
+      ]
+    }
+  },
+  {
+    "coursename": "* GLBL 3102a, Introduction to Human Rights: Human Rights in a Turbulent World Janine di Giovanni",
+    "courseid": "GLBL 3102a",
+    "coursedescription": "This course explores war crimes and crimes against humanity through the lens of modern conflicts. Using investigations, civil society reports, reliable journalism, and firsthand witness testimonies, students analyze the impact of these crimes. The course covers topics such as case studies of current conflicts, including Syria, Israel/Gaza, Ukraine, and Yemen, and then it examines the Balkan and African wars of the 1990s and the lessons learnt (or not learnt) and patterns we see emerging in current conflicts. Students study the evolution of war crimes documentation since the 1990s, including the role of OSINT and DNA analysis of mass graves. An overall theme is accountability and transitional justice: exploring past international justice efforts and the challenges of truth-telling. This course serves as the common requirement for the Certificate in Human Rights and the Intensive Certificate in Human Rights programs. SO 0 Course cr MT 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3191b, Research Design and Survey Analysis Justin Thomas",
+    "courseid": "GLBL 3191b",
+    "coursedescription": "Introduction to research design through the analysis of survey data. Policy and management issues explored using data from the United States as well as from several developing countries. A bridge between the theory of statistics/econometrics and the practice of social science research. Use of the statistical package Stata. Prerequisites: GLBL 121 or equivalent, and an introductory course in statistics or econometrics. SO MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "GLBL 121",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 3211b / ECON 2201b, Introduction to Development Economics Lauren Bergquist",
+    "courseid": "GLBL 3211b",
+    "coursedescription": "This course explores the causes of global poverty and the efficacy of policies designed to alleviate it. Topics to be covered in this course include poverty and inequality, global health, education, agriculture, savings, insurance, credit markets, labor markets, firm productivity, colonialism, slavery, democracy, and corruption. These topics will be approached through the lens of micro-economics, with a focus on the variety of tools available for rigorously measuring the impact of development policies and programs. Econ 117 or GLBL 121 (or the equivalent) . SO MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 3219b / ECON 3375b, Monetary Policy William English",
+    "courseid": "GLBL 3219b",
+    "coursedescription": "Introduction to modern macroeconomic models and how to use the models to examine some of the key issues that have faced monetary policymakers during and after the global financial crisis of 2008–2009. Prerequisites: Intermediate level macroeconomics (ECON 122 or 126) and introductory econometrics. WR , SO 0 Course cr TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "ECON 122",
+      "126",
+      "SO 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3225a, Approaches to International Development Staff",
+    "courseid": "GLBL 3225a",
+    "coursedescription": "Students interested in topics of international development gain practice in the various tools that practitioners, researchers, and policymakers use to answer development questions. Topics include history of development thought, economic growth, poverty, impact evaluations, education, development aid, and institutions. To practice development tools, students work on assignments with real-world data and learn how to create a policy report on a development topic of their choice. Enrollment limited to sophomores, juniors, and seniors. Prerequisite: GLBL 121 and its approved substitutes YC GLBL 121 Alternative Course QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [
+      "GLBL 121",
+      "SO 0"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students interested in topics of international development gain practice in the various tools that practitioners, researchers, and policymakers use to answer development questions.",
+        "Enrollment limited to sophomores, juniors, and seniors."
+      ]
+    }
+  },
+  {
+    "coursename": "* GLBL 3237a / ECON 2185a, Global Economy Aleh Tsyvinski",
+    "courseid": "GLBL 3237a",
+    "coursedescription": "A global view of the world economy and the salient issues in the short and the long run. Economics of crises, fiscal policy, debt, inequality, global imbalances, climate change. The course is based on reading, debating, and applying cutting edge macroeconomic research. SO T 9:15am-11:05am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 3275b, Approaches to International Security Staff",
+    "courseid": "GLBL 3275b",
+    "coursedescription": "Introduction to major approaches and central topics in the field of international security, with primary focus on the principal man-made threats to human security: the use of violence among and within states, both by state and non-state actors. Priority to Global Affairs majors. Non-majors require permission of the instructor. SO 0 Course cr MW 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Non-majors require permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "GLBL 3303a / EAST 2721 / SOCY 1702a, Inequality and Social Change in China Emma Zang",
+    "courseid": "GLBL 3303a",
+    "coursedescription": "This course offers an introduction to major social and economic issues in contemporary China. It provides a survey of the ongoing reforms and the Chinese society in transition with a focus on selected policy issues. In most weeks, the first session is reserved for a lecture by the instructor or a guest lecturer, and the second session is reserved for student-led discussions of pre-circulated questions. SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3315a, Economics of the European Union Marnix Amand",
+    "courseid": "GLBL 3315a",
+    "coursedescription": "The functioning of the economy of the European Union, both from a theoretical perspective (trade theory, monetary union, etc.) and from a practical perspective. Particular emphasis on the recent crises of the last ten years with effort to put these crises in a larger geostrategic context. Prerequisites: ECON 110 or 115 and ECON 111 or 116. SO MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "ECON 110",
+      "115",
+      "ECON 111",
+      "116",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3344a / HIST 3783a / PLSC 3125a, Studies in Grand Strategy II Michael Brenes",
+    "courseid": "GLBL 3344a",
+    "coursedescription": "The study of grand strategy, of how individuals and groups can accomplish large ends with limited means. During the fall term, students put into action the ideas studied in the spring term by applying concepts of grand strategy to present day issues. Admission is by application only; the cycle for the current year is closed. This course does not fulfill the history seminar requirement, but may count toward geographical distributional credit within the History major for any region studied, upon application to the director of undergraduate studies. Prerequisite: PLSC 321 . Previous study courses in political science, history, global affairs, or subjects with broad interdisciplinary relevance encouraged. SO 0 Course cr M 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "PLSC 321",
+      "SO 0",
+      "M 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3358a / PLSC 3104a, The Geopolitics of Peace in Ukraine Lauren Young",
+    "courseid": "GLBL 3358a",
+    "coursedescription": "This seminar examines the war in Ukraine with a geopolitical lens focusing on its broader implications for both regional security and democracy. The outbreak of war in Ukraine in February 2022 quickly became a flashpoint in the region. Over two years later, the stakes are high and tensions are rising among transatlantic allies supporting Ukraine, both with arms and sanctions. This course evaluates the historical roots of the war and the fallout from a potential failure to effectively deter an authoritarian state from invading a sovereign neighbor. Our course of study includes the role of international stakeholders and multi-lateral institutions in the conflict, regional political and security dynamics and economic consequences. The humanitarian aspects of the war and its impact on civilian populations, human rights violations and the role of the media in shaping perceptions of the conflict is analyzed. Ultimately, what are the responsibilities of the international community in mitigating the human cost of conflict and the broader economic and policy implications? The aim of this course is both a comprehensive understanding of the conflict and its role in changing and shaping both security and democracy in region and further afield. WR , SO T 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3363a / AFST 4406a / PLSC 3457a, Sexual Violence and War Elisabeth Wood",
+    "courseid": "GLBL 3363a",
+    "coursedescription": "Analysis of patterns of sexual violence in war. Assessment of how well scholars in various disciplines and policy analysts account for these patterns. SO T 4:15pm-6:05pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3813a, The United Nations on the Ground Jessica Faieta",
+    "courseid": "GLBL 3813a",
+    "coursedescription": "This course explores the role and functioning of the United Nations at the country level from the perspective of the three mandates or pillars of the UN Charter. 1) Peace and Security, and in particular the Peace-keeping operations: how do they work? Who decides to send a UN mission to a country? what do they do in each country? 2) Development: How does the UN helps countries achieve the Sustainable Development Goals? Which are the different UN agencies, funds, and programs and how do they work in reducing poverty, advancing gender equality, preventing violence, fighting climate change and protecting the environment or ensuring food security? and 3) Human rights: How does the UN respond to humanitarian crises, such as natural disasters or refugee crisis? What is its role in protecting vulnerable populations such as children, ethnic minorities or indigenous peoples? How does the Organization monitor human rights compliance or helps avoid human rights violations? SO W 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3822a, Adversaries by Design: Deconstructing the Iran-US Relationship Robert Malley",
+    "courseid": "GLBL 3822a",
+    "coursedescription": "In this course, we take an in-depth look at relations between the United States and Iran from the 1979 Islamic revolution to today. The course does not purport to offer a comprehensive history of the bilateral relationship, but rather to examine the past in order to better appreciate the two governments’ worldviews and the reasons behind a more than 40 year-old antagonism that remains one of the world’s most dangerous. Our goal is to try to put ourselves in the shoes of US and Iranian decision-makers, internalize their respective narratives and assessments of the past, and seek to understand why each sees acts toward the other as they do. We focus in particular on the two nations’ sense of (in)security, Iran’s and the US’s regional roles and ties to Mideast state and non-state actors, the nuclear question and nuclear negotiations, as well as the role and impact of US sanctions. The course will closely follow unfolding events and examine possible future scenarios in light of these historical lessons. Guest lecturers will join to offer Iranian and US perspectives. W 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3828b, Reopening & Reimagining Africa Harry Thomas",
+    "courseid": "GLBL 3828b",
+    "coursedescription": "It is time to “reopen and reimagine Africa.” This course requires students to research and redesign policies that are intended to help African nations emerge economically stronger and with a population that is better educated and healthier by 2050. We examine, analyze, and support and/or criticize the long-term policies of African nations. Students are required to engage up-and-coming African scholars, businesspersons, educators, and policymakers to ensure that the recommendations are not conceived in a vacuum. We examine the obstacles and challenges of Great Power Competition among the U.S., the PRC, Russia, and the EU on Africa and design alternative policies. SO T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3834a, What Role Should the U.S. Play in the World? Leslie Tsou",
+    "courseid": "GLBL 3834a",
+    "coursedescription": "Should the United States intervene in the affairs of other countries to act as the world’s security force, protect its own interests, and promote its liberal democratic values? Should it stay out of world events and focus on problems at home? Or is there a balance between \"Interventionism” and “Isolationism,” and, if so, what factors should the United States government take into account in determining this balance? These questions are as old as the United States itself, and the debate continues to rage today. This course examines these questions through the lens of the United States' recent engagements in the Middle East, focusing on the First Gulf War, the War on Terror, the Second Gulf War, Libya, Syria, Iran, Israel/Palestine, and the Gulf states of Saudi Arabia, and Oman as well as Ukraine/Russia. We consider whether the U.S. approach in each case was effective, not effective, or partly effective, and what factors contributed to that outcome. The factors we examine include but are not limited to U.S. security, business and economic interests, and human rights. Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Should the United States intervene in the affairs of other countries to act as the world’s security force, protect its own interests, and promote its liberal democratic values?",
+        "The factors we examine include but are not limited to U.S.",
+        "security, business and economic interests, and human rights."
+      ]
+    }
+  },
+  {
+    "coursename": "* GLBL 3839a, The Impact of War on Its (Willing and Unwilling) Participants James Hatch",
+    "courseid": "GLBL 3839a",
+    "coursedescription": "This course delves into the intricate relationship between humanity and violence, whether it is state-sponsored or tribal. Students investigate the diverse impacts of armed conflict—covering physical, psychological, spiritual, and collective dimensions—while also considering the potential utilitarian benefits of collective military actions. By adopting an interdisciplinary approach, the course analyzes both historical and contemporary violent conflicts, emphasizing the experiences of civilians and combatants, as well as the often-overlooked long-term consequences of warfare. The goal is to develop a profound understanding of the human cost of war and to promote critical thinking about conflict resolution and peacebuilding. The course material is challenging and profound, addressing difficult topics such as mass violence, death, rape, child abuse, and other human tragedies. The texts highlight the brutality inflicted by political leaders and the experiences of state agents tasked with executing violence. This course is designed to explore the human experience of war with courage and conviction, ultimately guiding students toward a reflective examination of the wide-ranging human experiences associated with conflict. SO TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 3930a, Turning Points in Peace-building Bisa Williams",
+    "courseid": "GLBL 3930a",
+    "coursedescription": "This seminar examines the challenges that must be addressed when the fighting has stopped. Once a peace agreement is signed, real deal-making begins. Former rebels negotiate with their military commanders about relinquishing arms and working for a living; communities look for “peace dividends,” refugees weigh options to return home; Governments try to assert authority despite how weakened they have become or new to the role they are; compatriots who opposed the peace settlement relentlessly try to undermine it. The international community, which often leads warring parties to the table, takes on a new role also, informing and sometimes deforming outcomes. Building a durable peace requires a sensitivity to the changing priorities of the signatories and international community, as well as the constituencies for whom the peace was achieved. Anchored in (but not limited to) the ongoing UN-supported peace agreement implementation process in Mali and the monitoring process of the Final Agreement to End Armed Conflict and Build a Stable and Lasting Peace in Colombia, the seminar considers peace-building processes from the perspectives of formerly warring parties, diplomats, NGOs, and civil society, providing students an opportunity to begin to catalogue strategies for building durable peace following conflict. SO T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Anchored in (but not limited to) the ongoing UN-supported peace agreement implementation process in Mali and the monitoring process of the Final Agreement to End Armed Conflict and Build a Stable and Lasting Peace in Colombia, the seminar considers peace-building processes from the perspectives of formerly warring parties, diplomats, NGOs, and civil society, providing students an opportunity to begin to catalogue strategies for building durable peace following conflict."
+      ]
+    }
+  },
+  {
+    "coursename": "* GLBL 4102b / ECON 3380b, Emerging Markets Mayara Felix",
+    "courseid": "GLBL 4102b",
+    "coursedescription": "Emerging markets are economies transitioning from low- to middle-income status, experiencing rapid urbanization, increasing integration into global trade, and strengthening financial institutions. These countries, which include China, India, Brazil, Indonesia, South Africa, and Mexico, are characterized by stronger state capacity compared to other developing economies. This course exposes students to the challenges and opportunities faced by people and firms in emerging markets, with a special focus on policy reforms aimed at addressing such challenges. We cover contemporary issues in trade policy, taxation, labor markets, and welfare programs. Each theme is explored through empirical research published in leading economics journals, allowing students to derive evidence-based insights into policy effectiveness. Prerequisites: ECON 117 and ECON 121, or permission from the instructor. SO Th 3pm-5pm",
+    "course-prerequsities": [
+      "ECON 117",
+      "ECON 121"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: ECON 117 and ECON 121, or permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* GLBL 4307b / ECON 4467b / ECON 467, Economic Evolution of the Latin American and Caribbean Countries Ernesto Zedillo",
+    "courseid": "GLBL 4307b",
+    "coursedescription": "Economic evolution and prospects of the Latin American and Caribbean (LAC) countries. Topics include the period from independence to the 1930s; import substitution and industrialization to the early 1980s; the debt crisis and the \"lost decade\"; reform and disappointment in the late 1980s and the 1990s; exploration of selected episodes in particular countries; and speculations about the future. Prerequisities: intermediate microeconomics and macroeconomics. SO M 9:25am-11:15am",
+    "course-prerequsities": [
+      "M 9",
+      "25AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GLBL 4308a / ECON 4424a, Central Banking William English",
+    "courseid": "GLBL 4308a",
+    "coursedescription": "Introduction to the different roles and responsibilities of modern central banks, including the operation of payments systems, monetary policy, supervision and regulation, and financial stability. Discussion of different ways to structure central banks to best manage their responsibilities. Prerequisites: Intermediate Microeconomics, Intermediate Macroeconomics, and Introductory Econometrics. SO 0 Course cr MW 1pm-2:20pm",
+    "course-prerequsities": [
+      "SO 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 4310a / ECON 4407a, International Finance Ana Fieler",
+    "courseid": "GLBL 4310a",
+    "coursedescription": "A study of the implications of increasing integration of the world economy, through international trade, multinational production, and financial markets. Topics include foreign exchange markets, capital flows, trade and current account imbalances, coordination of monetary and fiscal policy in a global economy, financial crises and their links to sovereign debt crises and currency devaluations. Prerequisite: intermediate macroeconomics or equivalent. SO 0 Course cr TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "SO 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 4394a / ANTH 4809 / ER&M 3594a / EVST 4422a / F&ES 422, Climate and Society: Perspectives from the Social Sciences and Humanities Michael Dove",
+    "courseid": "GLBL 4394a",
+    "coursedescription": "Discussion of the major currents of thought regarding climate and climate change; focusing on equity, collapse, folk knowledge, historic and contemporary visions, western and non-western perspectives, drawing on the social sciences and humanities. WR , SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 4405a / PLSC 3456a, Self-Determination, Secession & Accommodation Maria Jose Hierro",
+    "courseid": "GLBL 4405a",
+    "coursedescription": "This seminar offers specialized instruction on self-determination and secession, combining insights from scholarly research with in-depth case study analysis to explore the complexity of contemporary secessionist conflicts. We focus on two key multinational states: Spain—an advanced Western democracy—examined through Catalonia’s independence movement, and India—an influential Global South country—through the case of Tamil Nadu. The course also engages with other high-profile cases, such as Greenland, Somaliland, and Republika Srpska, paying particular attention to the role and strategic interests of the United States in shaping international responses and influencing the trajectory of these conflicts. Students should have taken at least one Comparative Politics and/or International Relations introductory course. SO T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course also engages with other high-profile cases, such as Greenland, Somaliland, and Republika Srpska, paying particular attention to the role and strategic interests of the United States in shaping international responses and influencing the trajectory of these conflicts."
+      ]
+    }
+  },
+  {
+    "coursename": "* GLBL 4425a, Atrocity Prevention David Simon",
+    "courseid": "GLBL 4425a",
+    "coursedescription": "Can atrocities be prevented? This course considers the ways in which episodes of genocide, crimes against humanity, and war crimes might be preventable. It looks at ways in which models of atrocities yield corresponding models of prevention, and then what policies those models, in turn, recommend. We consider a broad number of cases of prevention, devoting attention to the different phases and agents of the prevention efforts in question. We analyze the extent to which prevention efforts at different levels have been successful while being mindful of the costs that accompanied them. We aim to draw conclusions about what strategies key actors can deploy to reduce the incidence of mass atrocities throughout the world. SO W 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 4450a, Directed Research Bonnie Weir",
+    "courseid": "GLBL 4450a",
+    "coursedescription": "Independent research under the direction of a faculty member on a special topic in global affairs not covered in other courses. Permission of the director of undergraduate studies and of the instructor directing the research is required. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of the director of undergraduate studies and of the instructor directing the research is required."
+      ]
+    }
+  },
+  {
+    "coursename": "* GLBL 4499a, Senior Capstone Project Staff",
+    "courseid": "GLBL 4499a",
+    "coursedescription": "Students work in small task-force groups and complete a one-term public policy project under the guidance of a faculty member. Clients for the projects are drawn from government agencies, nongovernmental organizations and nonprofit groups, and private sector organizations in the United States and abroad. Projects and clients vary from year to year. Fulfills the capstone project requirement for the Global Affairs major. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GLBL 4830a / ECON 4465a / EP&E 4224a, Debating Globalization Ernesto Zedillo",
+    "courseid": "GLBL 4830a",
+    "coursedescription": "Facets of contemporary economic globalization, including trade, investment, and migration. Challenges and threats of globalization: inclusion and inequality, emerging global players, global governance, climate change, and nuclear weapons proliferation. Prerequisite: background in international economics and data analysis. Preference to seniors majoring in Economics or EP&E. SO RP M 9:25am-11:15am",
+    "course-prerequsities": [
+      "M 9",
+      "25AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

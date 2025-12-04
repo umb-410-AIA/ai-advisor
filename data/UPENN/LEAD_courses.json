@@ -1,0 +1,114 @@
+[
+  {
+    "coursename": "LEAD 1010 Leadership Theory, Practice and Purpose",
+    "courseid": "LEAD 1010",
+    "coursedescription": "This intensive introductory course explores competing concepts and theories of leadership through lectures, readings, class discussion, and reflective writing assignments. Each week features a foundational element of leadership, from problem-solving to self-assessment to crisis communications. Through biographical analysis of effective public leaders, students learn to identify and develop their own distinctive leadership skills and strengths. By the end of the course, each student establishes the groundwork for a five-year leadership and communication career plan that may be further developed through additional certificate courses. You have the option to enroll in this course without committing to the entire Certificate in Leadership and Communication, enjoying the flexibility and expertise offered by Penn LPS Online to suit your schedule and interests. LEAD 1010 is a prerequisite for all other LEAD courses. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "You have the option to enroll in this course without committing to the entire Certificate in Leadership and Communication, enjoying the flexibility and expertise offered by Penn LPS Online to suit your schedule and interests."
+      ]
+    }
+  },
+  {
+    "coursename": "LEAD 1020 Leadership Theory and Practice",
+    "courseid": "LEAD 1020",
+    "coursedescription": "Using an innovative combination of academic theory, empirical research, and self-reflection, this course is an intensive introduction to multiple and competing concepts of leadership. Students will critically analyze texts and related to effective leadership and leaders and, at the same time, develop their own, individualized leadership traits and skills profile. A culminating biographical analysis paper requires students to compare and contrast their own distinctive leadership traits and skills to those of an admired leader. The course concludes with each student crafting a 5-year leadership and communication career plan. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LEAD 1040 Professional Communication and Personal Development",
+    "courseid": "LEAD 1040",
+    "coursedescription": "This writing-intensive course is designed to enhance each student’s ability to communicate effectively in the workplace and other professional settings. Students apply the principles of positive psychology to enhance their personal development, learn best practices for professional writing and crisis communication, and practice organizing and editing their written and spoken communications for maximum impact. Assignments include presentations designed for different audiences, job-seeking and professional documents, and the opportunity to create or revise a five-year leadership and communication career plan. You have the option to enroll in this course without committing to the entire Certificate in Leadership and Communication, enjoying the flexibility and expertise offered by Penn LPS Online to suit your schedule and interests. Prerequisite: LEAD 1010 1 Course Unit",
+    "course-prerequsities": [
+      "LEAD 1010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "You have the option to enroll in this course without committing to the entire Certificate in Leadership and Communication, enjoying the flexibility and expertise offered by Penn LPS Online to suit your schedule and interests."
+      ]
+    }
+  },
+  {
+    "coursename": "LEAD 2020 Leadership Lessons from Social Sciences",
+    "courseid": "LEAD 2020",
+    "coursedescription": "Through lectures, readings, and written assignments, this course provides a survey of the best evidence-based ideas from social science research that impact leadership theory and practice. Readings from fields such as organizational sociology, political science, behavioral economics, game theory, and positive psychology offer perspectives on effective leadership and decision-making based on human behavior and relationships, offering students insight they can incorporate into their leadership plans and apply in a broad range of professional settings. You have the option to enroll in this course without committing to the entire Certificate in Leadership and Communication, enjoying the flexibility and expertise offered by Penn LPS Online to suit your schedule and interests. Prerequisite: LEAD 1010 1 Course Unit",
+    "course-prerequsities": [
+      "LEAD 1010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "You have the option to enroll in this course without committing to the entire Certificate in Leadership and Communication, enjoying the flexibility and expertise offered by Penn LPS Online to suit your schedule and interests."
+      ]
+    }
+  },
+  {
+    "coursename": "LEAD 2030 Leadership Lessons from Humanities",
+    "courseid": "LEAD 2030",
+    "coursedescription": "Learn leadership rhetoric, strategy, and principles from some of the most effective communicators and thinkers in history. Drawing from a range of philosophical and literary texts from Canada, Ireland, Nigeria, Austria, and the United States, , the course explores multiple and competing moral frameworks and ethical perspectives on leadership. Assignments including a capstone essay bring the readings to life and help students articulate relevant ideas they can incorporate into their leadership plans and apply in a broad range of professional settings. You have the option to enroll in this course without committing to the entire Certificate in Leadership and Communication, enjoying the flexibility and expertise offered by Penn LPS Online to suit your schedule and interests. Prerequisite: LEAD 1010 1 Course Unit",
+    "course-prerequsities": [
+      "LEAD 1010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "You have the option to enroll in this course without committing to the entire Certificate in Leadership and Communication, enjoying the flexibility and expertise offered by Penn LPS Online to suit your schedule and interests."
+      ]
+    }
+  },
+  {
+    "coursename": "LEAD 3100 Leadership and Public Administration",
+    "courseid": "LEAD 3100",
+    "coursedescription": "In LEAD 3100 , Leadership and Public Administration, students are introduced to both classic and contemporary studies of how public laws and policies are translated into effective action, how and why government reform efforts succeed or fail, and complete an original case study on the ongoing revolution in public management theory and practice favoring public-private partnerships and “collaborative governance.” Prerequisite: LEAD 1010 1 Course Unit",
+    "course-prerequsities": [
+      "LEAD 1010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LEAD 3200 Leadership and Business Organization",
+    "courseid": "LEAD 3200",
+    "coursedescription": "In LEAD 3200 , Leadership and Business Organization, students interactively and critically study five of the most influential books ever published regarding why for-profit enterprises succeed or fail; do an original “management consulting” report on an actual business firm; and write a final paper on what, if any, particular individual styles or institutional structures predictably and reliably enable one to “succeed in business.” Prerequisite: LEAD 1010 1 Course Unit",
+    "course-prerequsities": [
+      "LEAD 1010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LEAD 3300 Leadership and Nonprofit Management",
+    "courseid": "LEAD 3300",
+    "coursedescription": "In this course, students are immersed in research that profiles America’s vast and varied, large and growing “independent sector.” Students explore what works (and what doesn’t) when it comes to leadership and innovation in the non-governmental, not-for-profit sector. Counting only the about 1.4 million nonprofit organizations that are registered with the U.S. Internal Revenue Service, America’s charities, churches, private colleges, hospitals, and other nonprofit organizations have more than $2 trillion a year in annual revenues, more than $5 trillion in total assets, and more than 14 million full-time employees. The focus case for the course is on the national, nonsectarian, nonprofit organization, Partners for Sacred Places, dedicated to the sound stewardship and active community use of America's older religious properties. Participants in this course are introduced to an evidence-based approach to practicing nonprofit management as creating public value through boundary-spanning leadership. Prerequisite: LEAD 1010 1 Course Unit",
+    "course-prerequsities": [
+      "LEAD 1010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LEAD 4000 Global Leadership and Problem-Solving",
+    "courseid": "LEAD 4000",
+    "coursedescription": "Over the last 200 years, despite wars, famines, and plagues, human beings in virtually every corner of the globe have become more likely to live longer, healthier, wealthier, and better overall. But global progress in human well-being has been neither linear nor universal. For instance, measured at living on just $5.50 a day per person, nearly 3.5 billion people still live in extreme poverty. Moreover, humankind now faces several unprecedented existential threats to human life itself, including nuclear weapons proliferation, global warming, and the persistence or spread of drug-resistant infectious diseases including ones once thought to be nearly eradicated. This course is co-sponsored by Penn’s Fox Leadership International (FLI) program and its College of Liberal and Professional Studies (LPS). Drawing on FLI’s graduate professional curriculum in leadership and public administration, this course is designed to help students explore how diverse governance institutions—families and social networks; neighborhood or community groups; nonprofit or social sector organizations; for-profit firms; and, most importantly, government institutions themselves—can act, either independently or in tandem with each other, and either within or across regional or national borders, to maintain or improve human well-being. Students sample and assess multiple and competing approaches to reforming public administration (also referred to as “public management”) and “creating public value,” including through public-private partnerships and “collaborative governance.” Through directive but wholly independent research, students are guided in optional critical reflections on several global human well-being challenges (elder care with a focus on China; economic development in Latin America; and energy with a focus on India), and required written reflections on several others (public-private partnership initiatives in Ghana, Japan, and New Zealand; education with a focus on Africa; and different governmental responses to the recent global public health crisis). Prerequisite: LEAD 1010 AND LEAD 1040 AND LEAD 3040 AND LEAD 2020 AND LEAD 2030 AND LEAD 3100 AND LEAD 3300 AND ( DATA 1010 OR MTHS 1000 OR MTHS 2000 OR MTHS 2200 ) 1 Course Unit",
+    "course-prerequsities": [
+      "LEAD 1010",
+      "LEAD 1040",
+      "LEAD 3040",
+      "LEAD 2020",
+      "LEAD 2030",
+      "LEAD 3100",
+      "LEAD 3300",
+      "DATA 1010",
+      "MTHS 1000",
+      "MTHS 2000",
+      "MTHS 2200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

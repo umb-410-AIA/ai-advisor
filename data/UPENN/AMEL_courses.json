@@ -1,0 +1,259 @@
+[
+  {
+    "coursename": "AMEL 4000 First Year Akkadian I",
+    "courseid": "AMEL 4000",
+    "coursedescription": "Introduction to the grammar of the Akkadian language with emphasis on developing skills in the cuneiform writing system and reading of selected texts. Not Offered Every Year Mutually Exclusive: AMEL 6000 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 4100 First Year Akkadian II",
+    "courseid": "AMEL 4100",
+    "coursedescription": "A continuation of First Year Akkadian I, this class teaches the grammar of the Akkadian language with emphasis on developing skills in the cuneiform writing system and reading of selected texts. Spring Mutually Exclusive: AMEL 6100 Prerequisite: AMEL 4000 OR AMEL 6000 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 4000",
+      "AMEL 6000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 4200 Beginning Sumerian",
+    "courseid": "AMEL 4200",
+    "coursedescription": "An introduction to the grammar and writing system of the Sumerian language Fall Mutually Exclusive: AMEL 6200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 4250 Akkadian Literary Texts",
+    "courseid": "AMEL 4250",
+    "coursedescription": "Readings in Akkadian literary texts from ancient Mesopotamia. Not Offered Every Year Mutually Exclusive: AMEL 6250 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 4300 Akkadian Historical Texts",
+    "courseid": "AMEL 4300",
+    "coursedescription": "Readings in Akkadian historical texts from ancient Mesopotamia Not Offered Every Year Mutually Exclusive: AMEL 6300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 4420 Sumerian Daily Texts",
+    "courseid": "AMEL 4420",
+    "coursedescription": "Reading administrative and economic texts in the Sumerian Language from ancient Mesopotamia. Not Offered Every Year Mutually Exclusive: AMEL 7300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 4500 Middle Egyptian",
+    "courseid": "AMEL 4500",
+    "coursedescription": "Introduction to the grammar of Middle Egyptian. Not Offered Every Year Mutually Exclusive: AMEL 6202 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 4600 Middle Egyptian Texts",
+    "courseid": "AMEL 4600",
+    "coursedescription": "This course will deal with those texts of the Middle Kingdom that are written in the classical form of the language. It will include both monumental inscriptions, such as autobiographical stela inscriptions (P. Newberry, BENI HASSAN) and stelae (Seth, LESESTUCKE) as well as narratives in prose (DeBuck, READING BOOK). Religious texts (ibid. and COFFIN TEXTS) will also be studied and analyzed. Distinctions between the grammar of the literary and non-literary genres will be discussed. Spring Prerequisite: AMEL 4500 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 4500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6000 First Year Akkadian I",
+    "courseid": "AMEL 6000",
+    "coursedescription": "Introduction to the grammar of the Akkadian language with emphasis on developing skills in the cuneiform writing system and reading of selected texts. Not Offered Every Year Mutually Exclusive: AMEL 4000 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6100 First Year Akkadian II",
+    "courseid": "AMEL 6100",
+    "coursedescription": "A continuation of 1st Year Akkadian I, this class builds on the lessons of that class on the grammar of the Akkadian language with emphasis on developing skills in the cuneiform writing system and reading of selected texts. To take this class without first having taken 1st Year Akkadian I requires permission of the instructor. Fall Mutually Exclusive: AMEL 4100 Prerequisite: AMEL 6000 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "To take this class without first having taken 1st Year Akkadian I requires permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "AMEL 6200 Beginning Sumerian",
+    "courseid": "AMEL 6200",
+    "coursedescription": "An introduction to the grammar and writing system of the Sumerian language Not Offered Every Year Mutually Exclusive: AMEL 4200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6202 Middle Egyptian",
+    "courseid": "AMEL 6202",
+    "coursedescription": "Introduction to the grammar of Middle Egyptian. Not Offered Every Year Mutually Exclusive: AMEL 4500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6250 Akkadian Literary Texts",
+    "courseid": "AMEL 6250",
+    "coursedescription": "Readings in Akkadian literary texts from ancient Mesopotamia. Not Offered Every Year Mutually Exclusive: AMEL 4250 Prerequisite: AMEL 6100 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 6100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6300 Akkadian Historical Texts",
+    "courseid": "AMEL 6300",
+    "coursedescription": "Readings in Akkadian historical texts from ancient Mesopotamia Not Offered Every Year Mutually Exclusive: AMEL 4300 Prerequisite: AMEL 6100 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 6100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6350 Akkadian Letters",
+    "courseid": "AMEL 6350",
+    "coursedescription": "Readings in Akkadian letters from ancient Mesopotamia. Not Offered Every Year Prerequisite: AMEL 6100 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 6100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6400 Intermediate Sumerian",
+    "courseid": "AMEL 6400",
+    "coursedescription": "Reading literary texts in the Sumerian Language from ancient Mesopotamia. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6650 Demotic",
+    "courseid": "AMEL 6650",
+    "coursedescription": "The course will be an introduction to the writing, grammar, and literature of Demotic, the phase of the language in use during the latter periods of Egyptian history. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6700 Late Egyptian",
+    "courseid": "AMEL 6700",
+    "coursedescription": "Introduction to the grammar of Late Egyptian. Not Offered Every Year Prerequisite: AMEL 4500 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 4500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6750 Old Egyptian",
+    "courseid": "AMEL 6750",
+    "coursedescription": "This course is an introduction to the language of the Egyptian Old Kingdom. The grammar of the period will be introduced during the early part of the semester, using Ededl's ALTAGYPTISCHE GRAMMATIK as the basic reference. Other grammatical studies to be utilized will include works by Allen, Baer, Polotsky, Satzinger, Gilula, Doret, and Silverman. The majority of time in the course will be devoted to reading varied textual material: the unpublished inscriptions in the tomb of the Old Kingdom offical Kapure--on view in the collection of the University Museum; several autobiographical inscriptions as recorded by Sethe in URKUNDEN I; and a letter in hieratic (Baer, ZAS 93, 1966, 1-9). Not Offered Every Year Prerequisite: AMEL 4500 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 4500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 6800 Coptic",
+    "courseid": "AMEL 6800",
+    "coursedescription": "The course will be an introduction to the writing, grammar, and literature of Coptic. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 7000 Readings in Akkadian Texts I",
+    "courseid": "AMEL 7000",
+    "coursedescription": "Readings in Akkadian texts on selected topics. Not Offered Every Year Prerequisite: AMEL 6100 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 6100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 7200 Sumerian Religious and Magical Texts",
+    "courseid": "AMEL 7200",
+    "coursedescription": "This self-contained course sets the Sumerian language, writing system and use of writing in their social and historical context. The aim is to provide students of ancient history and culture from diverse disciplines with a good grounding in Sumerian culture, familiarity with the Sumerian language and cuneiform writing system and the requisite knowledge for critical assessment of published translations and of the secondary literature. The course is organized as two threads, culture on the one hand and language on the other. The two threads are united by taking examples in the language exercises, vocabulary assignments, etc., as far as possible from the domain of the week' cultural topics. The net effect is to examine the culture both through contemporary secondary literature and through direct contact with elementary primary texts of relevance to the various topics of discussion. The language component of the course will be carried out in a combination of transliteration and cuneiform, with an expectation that all students will gain familiarity with at least the core 80 syllabic signs, and about 100 additional logographic signs. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 7300 Sumerian Daily Texts",
+    "courseid": "AMEL 7300",
+    "coursedescription": "Reading administrative and economic texts in the Sumerian Language from ancient Mesopotamia. Not Offered Every Year Mutually Exclusive: AMEL 4420 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 7400 Akkadian Religious and Scientific Texts",
+    "courseid": "AMEL 7400",
+    "coursedescription": "Readings in Akkadian of religious and scientific texts from ancient Mesopotamia. Not Offered Every Year Prerequisite: AMEL 6100 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 6100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 7430 Peripheral Akkadian",
+    "courseid": "AMEL 7430",
+    "coursedescription": "Readings in selected texts in Akkadian from the periphery of Mesopotamia, including Alalah, Ugarit, Nuzi, Suza and El-Amarna. Not Offered Every Year Prerequisite: AMEL 6100 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 6100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 7500 Akkadian Legal Texts",
+    "courseid": "AMEL 7500",
+    "coursedescription": "Readings in Akkadian legal texts and law corpora from ancient Mesopotamia. Not Offered Every Year Prerequisite: AMEL 6100 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 6100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 7600 Akkadian Economic Texts",
+    "courseid": "AMEL 7600",
+    "coursedescription": "Readings in Akkadian economic texts from ancient Mesopotamia. Not Offered Every Year Prerequisite: AMEL 6100 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 6100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMEL 7700 Readings in Sumerian Texts",
+    "courseid": "AMEL 7700",
+    "coursedescription": "Selected readings in Sumerian texts. Not Offered Every Year Prerequisite: AMEL 7200 1 Course Unit",
+    "course-prerequsities": [
+      "AMEL 7200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

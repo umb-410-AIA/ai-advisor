@@ -1,0 +1,1323 @@
+[
+  {
+    "coursename": "MATH 0021 First-Year Seminar: Math and Movies",
+    "courseid": "MATH 0021",
+    "coursedescription": "Introduction to the creative processes through which screenwriters and mathematicians conceive and develop ideas, craft dramatic arguments and proofs, and solve narrative and mathematical problems. Using films featuring math and mathematician-based storylines for reference, we’ll develop a common language for evaluating the accuracy, success, and significance of dramatic and mathematical arguments. This is not a course in advanced math, nor is it about the nuts and bolts mechanics of screenwriting. They will learn with an instructor with experience selling screenplays to Hollywood about what the screenplay is, what it aims to accomplish, and how screenwriters approach crafting a narrative. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 0025 Geometry and Art",
+    "courseid": "MATH 0025",
+    "coursedescription": "This class is about incidence geometry and projective geometry: how lines and planes intersect, and how to add points to euclidean spaces (the familiar R^2, R^3, etc.) to obtain a space that include points and lines at infinity. It's also about art, and how classical artists used projective geometry, sometimes without knowling they were doing so, to create perspective drawings that render three-dimensional space on a canvas in a way our eyes intuitively understand. The projective geometry content will be at times pretty mathy. We use axiom systems, figure out what's true about them, prove theorems, and construct abstract spaces that are models for the axioms. The applications to art will be very hands-on. Expect to sketch a lot, to draw lines on existing pieces of art or sample drawings, and to look at physical objects and attempt to capture them in perspective drawings. If you think of yourself as a bad artist (as I do) it shouldn't matter: we're all going to take a major step forward in one technical aspect of art, namely how to get the lines right in perspective drawings. If you have no real math background, or are even a bit math-phobic, that shouldn't matter either. No math background beyond algebra and trigonometry is necessary. All that is required is willingness to try your hand at logic, to learn the structure of mathematical argument, and to harness your geometric intuition. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 0030 Introduction to Calculus Lab",
+    "courseid": "MATH 0030",
+    "coursedescription": "Lab for Math 1300 Corequisite: MATH 1300",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MATH 1300"
+    ],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Lab for Math 1300 Corequisite: MATH 1300"
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 0040 Calculus Lab I",
+    "courseid": "MATH 0040",
+    "coursedescription": "Lab for Math 1400 Corequisite: MATH 1400",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MATH 1400"
+    ],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Lab for Math 1400 Corequisite: MATH 1400"
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 0100 Calculus for Wharton Students Lab",
+    "courseid": "MATH 0100",
+    "coursedescription": "Lab for Math 1100 Fall Corequisite: MATH 1100",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MATH 1100"
+    ],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Lab for Math 1100 Fall Corequisite: MATH 1100"
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 0140 Calculus II Lab",
+    "courseid": "MATH 0140",
+    "coursedescription": "Lab for Math 1410 Corequisite: MATH 1410",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MATH 1410"
+    ],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Lab for Math 1410 Corequisite: MATH 1410"
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 0240 Calculus III Lab",
+    "courseid": "MATH 0240",
+    "coursedescription": "Lab for Math 2400 Corequisite: MATH 2400",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MATH 2400"
+    ],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Lab for Math 2400 Corequisite: MATH 2400"
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 1070 Mathematics of change, Part I",
+    "courseid": "MATH 1070",
+    "coursedescription": "Limits, orders of magnitude, differential and integral calculus; Taylor polynomials; estimating and bounding; probability densities. Mathematical modeling and applications to the social, economic and information sciences. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 1080 Mathematics of change, Part II",
+    "courseid": "MATH 1080",
+    "coursedescription": "Multivariate calculus; optimization; multivariate probability densities. Introduction to linear algebra; introduction to differential equations. Mathematical modeling and applications to the social, economic and information sciences. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 1100 Calculus for Wharton Students",
+    "courseid": "MATH 1100",
+    "coursedescription": "Differential calculus, integral calculus, series, differential equations and elements of multivariable calculus, with an emphasis on applications. Fall or Spring Mutually Exclusive: MATH 1400 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 1234 Community Algebra Initiative",
+    "courseid": "MATH 1234",
+    "coursedescription": "Community Algebra Initiative Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 1248 Community Math Teaching Project",
+    "courseid": "MATH 1248",
+    "coursedescription": "This course allows Penn students to teach a series of hands-on activities to students in math classes at University City High School. The semester starts with an introduction to successful approaches for teaching math in urban high schools. The rest of the semester will be devoted to a series of weekly hands-on activities designed to teach fundamental aspects of geometry. The first class meeting of each week, Penn faculty teach Penn students the relevant mathematical background and techniques for a hands-on activity. During the second session of each week, Penn students will teach the hands-on activity to a small group of UCHS students. The Penn students will also have an opportunity to develop their own activity and to implement it with the UCHS students. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The rest of the semester will be devoted to a series of weekly hands-on activities designed to teach fundamental aspects of geometry."
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 1300 Introduction to Calculus",
+    "courseid": "MATH 1300",
+    "coursedescription": "Introduction to concepts and methods of calculus for students with little or no previous calculus experience. Polynomial and elementary transcendental functions and their applications, derivatives, extremum problems, curve-sketching, approximations; integrals and the fundamental theorem of calculus. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 1400 Calculus, Part I",
+    "courseid": "MATH 1400",
+    "coursedescription": "Brief review of High School calculus, applications of integrals, transcendental functions, methods of integration, infinite series, Taylor's theorem, and first order ordinary differential equations. Use of symbolic manipulation and graphics software in calculus. Fall or Spring Mutually Exclusive: MATH 1100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 1410 Calculus, Part II",
+    "courseid": "MATH 1410",
+    "coursedescription": "Functions of several variables, vector-valued functions, partial derivatives and applications, double and triple integrals, conic sections, polar coordinates, vectors and vector calculus, first order ordinary differential equations. Applications to physical sciences. Use of symbolic manipulation and graphics software in calculus. Fall or Spring Mutually Exclusive: MATH 1510 Prerequisite: MATH 1400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 1510 Calculus, Part II with Probability and Matrices",
+    "courseid": "MATH 1510",
+    "coursedescription": "Functions of several variables, partial derivatives, multiple integrals, differential equations; introduction to linear algebra and matrices with applications to linear programming and Markov processes. Elements of probability and statistics. Applications to social and biological sciences. Use of symbolic manipulation and graphics software in calculus. Fall or Spring Mutually Exclusive: MATH 1410 , MATH 1610 Prerequisite: MATH 1400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 1610 Honors Calculus",
+    "courseid": "MATH 1610",
+    "coursedescription": "Students who are interested in math or science might also want to consider a more challenging Honors version of Calculus II and III, Math 1610 and Math 2600 (the analogues of Math 1410 and Math 2400, respectively). These courses will cover essentially the same material as 1610 and 2400, but more in depth and involve discussion of the underlying theory as well as computations. Fall or Spring Mutually Exclusive: MATH 1510 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students who are interested in math or science might also want to consider a more challenging Honors version of Calculus II and III, Math 1610 and Math 2600 (the analogues of Math 1410 and Math 2400, respectively)."
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 1700 Ideas in Mathematics",
+    "courseid": "MATH 1700",
+    "coursedescription": "Topics from among the following: logic, sets, calculus, probability, history and philosophy of mathematics, game theory, geometry, and their relevance to contemporary science and society. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2020 Proving Things: Analysis",
+    "courseid": "MATH 2020",
+    "coursedescription": "This course focuses on the creative side of mathematics, with an emphasis on discovery, reasoning, proofs and effective communication, while at the same time studying real and complex numbers, sequences, series, continuity, differentiability and integrability. Small class sizes permit an informal, discussion-type atmosphere, and often the entire class works together on a given problem. Homework is intended to be thought-provoking, rather than skill-sharpening. Fall or Spring Prerequisite: MATH 1400 OR MATH 1410 OR MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400",
+      "MATH 1410",
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2030 Proving things: Algebra",
+    "courseid": "MATH 2030",
+    "coursedescription": "This course focuses on the creative side of mathematics, with an emphasis on discovery, reasoning, proofs and effective communication, while at the same time studying arithmetic, algebra, linear algebra, groups, rings and fields. Small class sizes permit an informal, discussion-type atmosphere, and often the entire class works together on a given problem. Homework is intended to be thought-provoking, rather than skill-sharpening. Fall or Spring Prerequisite: MATH 1400 OR MATH 1410 OR MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400",
+      "MATH 1410",
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2100 Mathematics in the Age of Information",
+    "courseid": "MATH 2100",
+    "coursedescription": "This course counts as a regular elective for both the Mathematics Major and Minor. This is a course about mathematical reasoning and the media. Embedded in many stories one finds in the media are mathematical questions as well as implicit mathematical models for how the world behaves. We will discuss ways to recognize such questions and models, and how to think about them from a mathematical perspective. A key part of the course will be about what constitutes a mathematical proof, and what passes for proof in various media contexts. The course will cover a variety of topics in logic, probability and statistics as well as how these subjects can be used and abused. Fall or Spring Prerequisite: MATH 1410 OR MATH 1510 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410",
+      "MATH 1510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2400 Calculus, Part III",
+    "courseid": "MATH 2400",
+    "coursedescription": "Linear algebra: vectors, matrices, systems of linear equations, vector spaces, subspaces, spans, bases, and dimension, eigenvalues, and eigenvectors, maxtrix exponentials. Ordinary differential equations: higher-order homogeneous and inhomogeneous ODEs and linear systems of ODEs, phase plane analysis, non-linear systems. Fall or Spring Mutually Exclusive: ESE 2030 Prerequisite: MATH 1410 Corequisite: MATH 0240 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410"
+    ],
+    "course-corequisites": [
+      "MATH 0240"
+    ],
+    "other": {
+      "notes": [
+        "Fall or Spring Mutually Exclusive: ESE 2030 Prerequisite: MATH 1410 Corequisite: MATH 0240 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 2410 Calculus, Part IV",
+    "courseid": "MATH 2410",
+    "coursedescription": "Partial differential equations and their solutions, including solutions of the wave, heat and Laplace equations, and Sturm-Liouville problems. Introduction to Fourier series and Fourier transforms. Computation of solutions, modeling using PDE's, geometric intuition, and qualitative understanding of the evolution of systems according to the type of partial differential operator. Fall or Spring Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2600 Honors Calculus, Part II",
+    "courseid": "MATH 2600",
+    "coursedescription": "This is an honors version of Math 2400 which explores the same topics but with greater mathematical rigor. Not Offered Every Year Prerequisite: MATH 1410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2800 Entropy Math Evolution",
+    "courseid": "MATH 2800",
+    "coursedescription": "The goal of this is to explore a new theory of evolution developed by L. Demetrius at MIT based on the second law of thermodynamics. The essential idea is that life exists because if increases overall entropy quicker than other process es. The course will include an introduction to thermodynamics as well as to the information theory difinition of entropy. Eventually I want to apply this to other systems. For instance, I think the theory explains why political candidates who create chaos, tweet and require more bits of information to describe each day are favored by the second law. Demetrius makes a distinction between robust high entropy environments and precarious low entropy environments which is a very interesting in many different systems. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Demetrius makes a distinction between robust high entropy environments and precarious low entropy environments which is a very interesting in many different systems."
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 2900 Undergraduate Mathematics Research Course",
+    "courseid": "MATH 2900",
+    "coursedescription": "This is a project-oriented mathematics research course that teaches students tosolve real-world problems by constructing and analyzing mathematical models. Typically the problems considered will come from mathematics, chemistry, biology, and materials science but sometimes they will also come from economics, finance, and social sciences. The research problems in the course vary from year to year. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2989 Study Abroad",
+    "courseid": "MATH 2989",
+    "coursedescription": "Free elective for undergraduate mathematics courses not equivalent to existing courses satisfying math major requirements. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2990 Undergraduate Research in Mathematics",
+    "courseid": "MATH 2990",
+    "coursedescription": "Research conducted with the supervision of a faculty member. Must be approved by the Undergraduate Chair. May be repeated for credit. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2999 Transfer and Credit Away",
+    "courseid": "MATH 2999",
+    "coursedescription": "Free elective for undergraduate mathematics courses not equivalent to existing courses satisfying math major requirements. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3120 Linear Algebra",
+    "courseid": "MATH 3120",
+    "coursedescription": "Linear transformations, Gauss Jordan elimination, eigenvalues and eigenvectors, theory and applications. Mathematics majors are advised that MATH 3120 cannot be taken to satisfy the major requirements. Not Offered Every Year Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3130 Computational Linear Algebra",
+    "courseid": "MATH 3130",
+    "coursedescription": "Many important problems in a wide range of disciplines within computer science and throughout science are solved using techniques from linear algebra. This course will introduce students to some of the most widely used algorithms and illustrate how they are actually used. Some specific topics: the solution of systems of linear equations by Gaussian elimination, dimension of a linear space, inner product, cross product, change of basis, affine and rigid motions, eigenvalues and eigenvectors, diagonalization of both symmetric and non-symmetric matrices, quadratic polynomials, and least squares optimazation. Applications will include the use of matrix computations to computer graphics, use of the discrete Fourier transform and related techniques in digital signal processing, the analysis of systems of linear differential equations, and singular value deompositions with application to a principal component analysis. The ideas and tools provided by this course will be useful to students who intend to tackle higher level courses in digital signal processing, computer vision, robotics, and computer graphics. Mutually Exclusive: MATH 5130 Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3140 Advanced Linear Algebra",
+    "courseid": "MATH 3140",
+    "coursedescription": "Topics will include: Vector spaces, Basis and dimension, quotients; Linear maps and matrices; Determinants, Dual spaces and maps; Invariant subspaces, Cononical forms; Scalar products: Euclidean, unitary and symplectic spaces; Orthogonal and Unitary operators; Tensor products and polylinear maps; Symmetric and skew-symmetric tensors and exterior algebra. Mutually Exclusive: AMCS 5141 , MATH 5140 Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3200 Computer Methods in Mathematical Science I",
+    "courseid": "MATH 3200",
+    "coursedescription": "Students will use symbolic manipulation software and write programs to solve problems in numerical quadrature, equation-solving, linear algebra and differential equations. Theoretical and computational aspects of the methods will be discussed along with error analysis and a critical comparison of methods. Fall Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3400 Discrete Mathematics I",
+    "courseid": "MATH 3400",
+    "coursedescription": "Topics will be drawn from some subjects in combinatorial analysis with applications to many other branches of math and science: graphs and networks, generating functions, permutations, posets, asymptotics. Not Offered Every Year Also Offered As: LGIC 2100 Prerequisite: MATH 1410 OR MATH 1510 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410",
+      "MATH 1510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3410 Discrete Mathematics II",
+    "courseid": "MATH 3410",
+    "coursedescription": "Topics will be drawn from some subjects useful in the analysis of information and computation: logic, set theory, theory of computation, number theory, probability, and basic cryptography. Also Offered As: LGIC 2200 Prerequisite: MATH 3400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 3400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3500 Number Theory",
+    "courseid": "MATH 3500",
+    "coursedescription": "Congruences, Diophantine equations, continued fractions, nonlinear congruences,and quadratic residues. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3600 Advanced Calculus",
+    "courseid": "MATH 3600",
+    "coursedescription": "Syllabus for MATH 3600 -3610: a study of the foundations of the differential and integral calculus, including the real numbers and elementary topology, continuous and differentiable functions, uniform convergence of series of functions, and inverse and implicit function theorems. MATH 5080 -5090 is a masters level version of this course. Fall or Spring Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3610 Advanced Calculus",
+    "courseid": "MATH 3610",
+    "coursedescription": "Continuation of MATH 3600 . Fall or Spring Prerequisite: MATH 3600 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 3600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3700 Algebra",
+    "courseid": "MATH 3700",
+    "coursedescription": "Syllabus for MATH 3700 -3710: an introduction to the basic concepts of modern algebra. Linear algebra, eigenvalues and eigenvectors of matrices, groups, rings and fields. MATH 5020 -5030 is a masters level version of this course. Fall or Spring Prerequisite: MATH 2400 OR MATH 2600 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "MATH 2600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3710 Algebra",
+    "courseid": "MATH 3710",
+    "coursedescription": "Continuation of MATH 3700 . Fall or Spring Prerequisite: MATH 3700 OR MATH 5020 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 3700",
+      "MATH 5020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4100 Complex Analysis",
+    "courseid": "MATH 4100",
+    "coursedescription": "Complex numbers, DeMoivre's theorem, complex valued functions of a complex variable, the derivative, analytic functions, the Cauchy-Riemann equations, complex integration, Cauchy's integral theorem, residues, computation of definite integrals by residues, and elementary conformal mapping. Fall or Spring Mutually Exclusive: AMCS 5100 Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4200 Ordinary Differential Equations",
+    "courseid": "MATH 4200",
+    "coursedescription": "After a rapid review of the basic techniques for solving equations, the course will discuss one or more of the following topics: stability of linear and nonlinear systems, boundary value problems and orthogonal functions, numerical techniques, Laplace transform methods. Fall or Spring Mutually Exclusive: AMCS 5200 Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4250 Partial Differential Equations",
+    "courseid": "MATH 4250",
+    "coursedescription": "Method of separation of variables will be applied to solve the wave, heat, and Laplace equations. In addition, one or more of the following topics will be covered: qualitative properties of solutions of various equations (characteristics, maximum principles, uniqueness theorems), Laplace and Fourier transform methods, and approximation techniques. Fall Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4320 Game Theory",
+    "courseid": "MATH 4320",
+    "coursedescription": "A mathematical approach to game theory, with an emphasis on examples of actual games. Topics will include mathematical models of games, combinatorial games, two person (zero sum and general sum) games, non-cooperating games and equilibria. Fall or Spring Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4600 Topology",
+    "courseid": "MATH 4600",
+    "coursedescription": "Point set topology: metric spaces and topological spaces, compactness, connectedness, continuity, extension theorems, separation axioms, quotient spaces, topologies on function spaces, Tychonoff theorem. Fundamental groups and covering spaces, and related topics. Not Offered Every Year Prerequisite: MATH 2400 AND MATH 2410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "MATH 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4650 Differential Geometry",
+    "courseid": "MATH 4650",
+    "coursedescription": "Differential geometry of curves in the plane and in 3-space;n gauge theories Surfaces in 3-space; The geometry of the Gauss map;ons. The language of Intrinsic geometry of surfaces; Geodesics; Moving frames; of vector bundles, The Gauss-Bonnet Theorem; Assorted additional topics. Not Offered Every Year Mutually Exclusive: MATH 5010 Prerequisite: ( MATH 2400 OR MATH 2600 ) AND ( MATH 3140 OR MATH 5140 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "MATH 2600",
+      "MATH 3140",
+      "MATH 5140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4800 Topics in Modern Math",
+    "courseid": "MATH 4800",
+    "coursedescription": "Mathematics 4800 will open with a review of the basics of real analysis (brief or extended background requires). The review will include: introduction of the real numbers through Dedekind cuts, continuity of real-valued functions on the real line; Cantor nested-interval principle, basic results for continuous functions, Maximum and Intermediate Value theorems, Heine-Borel Theorem, Uniform Continuity on closed intervals; metric spaces, convergence of sequences, Cauchy sequences, completeness, more general uniform continuity and intermediate value theorems; general topology, separation, compactness, product spaces, Tychonoff's Theorem. Special topics in analysis: Weierstrass Polynomial Approximation Theorem, Bernstein polynomials and simultaneous approxfunctions and derivatives, topics from divergent series, summation methods; r measure theory, the Lebesgue integral, Lp spaces, Holder, Minkowski, and and Cauchy-Schwarz inequalities; basics of Functional Analysis, normed spaces, Banach spaces and Hilbert space, with examples (Lp spaces, continuous-functions spaces), Banach spaces and spectral theory, groups and Fourier transforms, Tauberian theorems; approximation theory, again, through the prism of functional analysis; extension of the polynomial approximation theorem (Stone-Weierstrass theorem), Muntz approximation theorem (by polynomials with preassigned powers), compact operators, the Spectral theorem, Stone's theorem (resprsentations of the additive group of real numbers); Peter-Weyl theory (represenations of compact groups). A selection from these topics as time and class preparation allow. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4990 Supervised Study",
+    "courseid": "MATH 4990",
+    "coursedescription": "Study under the direction of a faculty member. Intended for a limited number ofmathematics majors. Fall or Spring 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5000 Topology",
+    "courseid": "MATH 5000",
+    "coursedescription": "Point set topology: metric spaces and topological spaces, compactness, connectedness, continuity, extension theorems, separation axioms, quotient spaces, topologies on function spaces, Tychonoff theorem. Fundamental groups and covering spaces, and related topics. Not Offered Every Year Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5010 Differential Geometry",
+    "courseid": "MATH 5010",
+    "coursedescription": "The course moves from a study of extrinsic geometry (curves and surfaces in n-space) to the intrinsic geometry of manifolds. After a review of vector calculus and a section on tensor algebra, we study manifolds and their intrinsic geometry, including metrics, connections, geodesics, and the Riemann curvature tensor. Topics include Eulerian curvature and Euler's theorems, the Gauss map and first/second fundamental forms, the Theorema Egregium, minimal surfaces in n-space; other topics as time permits. Not Offered Every Year Mutually Exclusive: MATH 4650 Prerequisite: ( MATH 2400 OR MATH 2600 ) AND ( MATH 3140 OR MATH 5140 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "MATH 2600",
+      "MATH 3140",
+      "MATH 5140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5020 Abstract Algebra",
+    "courseid": "MATH 5020",
+    "coursedescription": "An introduction to groups, rings, fields and other abstract algebraic systems, elementary Galois Theory, and linear algebra -- a more theoretical course than Math 3700. Fall Prerequisite: ( MATH 2400 OR MATH 2600 ) AND ( MATH 3140 OR MATH 5140 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "MATH 2600",
+      "MATH 3140",
+      "MATH 5140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5030 Abstract Algebra",
+    "courseid": "MATH 5030",
+    "coursedescription": "Continuation of Math 5020. Spring Prerequisite: MATH 5020 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 5020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5040 Graduate Proseminar in Mathematics",
+    "courseid": "MATH 5040",
+    "coursedescription": "This course focuses on problems from Algebra (especially linear algebra and multilinear algebra) and Analysis (especially multivariable calculus through vector fields, multiple integrals and Stokes theorem). The material is presented through student solving of problems. In addition there will be a selection of advanced topics which will be accessible via this material. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5050 Graduate Proseminar in Mathematics",
+    "courseid": "MATH 5050",
+    "coursedescription": "This course focuses on problems from Algebra (especially linear algebra and multilinear algebra) and Analysis (especially multivariable calculus through vector fields, multiple integrals and Stokes theorem). The material is presented through student solving of problems. In addition there will be a selection of advanced topics which will be accessible via this material. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5080 Advanced Analysis",
+    "courseid": "MATH 5080",
+    "coursedescription": "Construction of real numbers, the topology of the real line and the foundations of single variable calculus. Notions of convergence for sequences of functions. Basic approximation theorems for continuous functions and rigorous treatment of elementary transcendental functions. The course is intended to teach students how to read and construct rigorous formal proofs. A more theoretical course than Math 3600. Fall Prerequisite: MATH 2400 AND MATH 2410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "MATH 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5090 Advanced Analysis",
+    "courseid": "MATH 5090",
+    "coursedescription": "Continuation of Math 5080. The Arzela-Ascoli theorem. Introduction to the topology of metric spaces with an emphasis on higher dimensional Euclidean spaces. The contraction mapping principle. Inverse and implicit function theorems. Rigorous treatment of higher dimensional differential calculus. Introduction to Fourier analysis and asymptotic methods. Spring Prerequisite: MATH 5080 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 5080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5120 Advanced Linear Algebra",
+    "courseid": "MATH 5120",
+    "coursedescription": "Topics will include: Vector spaces, Basis and dimension, quotients; Linear maps and matrices; Determinants, Dual spaces and maps; Invariant subspaces, Cononical forms; Scalar products: Euclidean, unitary and symplectic spaces; Orthogonal and unitary operators; Tensor products and polylinear maps; Symmetric and skew-symmetric tensors and exterior algebra. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5130 Computational Linear Algebra",
+    "courseid": "MATH 5130",
+    "coursedescription": "A number of important and interesting problems in a wide range of disciplines within computer science are solved by recourse to techniques from linear algebra. The goal of this course will be to introduce students to some of the most important and widely used algorithms in matrix computation and to illustrate how they are actually used in various settings. Motivating applications will include: the solution of systems of linear equations, applications matrix computations to modeling geometric transformations in graphics, applications of the Discrete Fourier Transform and related techniques in digital signal processing, the solution of linear least squares optimization problems and the analysis of systems of linear differential equations. The course will cover the theoretical underpinnings of these problems and the numerical algorithms that are used to perform important matrixcomputations such as Gaussian Elimination, LU Decomposition and Singular Value Decomposition. Mutually Exclusive: MATH 3130 Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A number of important and interesting problems in a wide range of disciplines within computer science are solved by recourse to techniques from linear algebra."
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 5140 Advanced Linear Algebra",
+    "courseid": "MATH 5140",
+    "coursedescription": "Topics will include: Vector spaces, Basis and dimension, quotients; Linear maps and matrices; Determinants, Dual spaces and maps; Invariant subspaces, Cononical forms; Scalar products; Euclidean, unitary and symplectic spaces; Orthogonal and Unitary operators; Tensor products and polylinear maps; Symmetric and skew-symmetric tensors and exterior algebra. Also Offered As: AMCS 5141 Mutually Exclusive: MATH 3140 Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5200 Selections from Algebra",
+    "courseid": "MATH 5200",
+    "coursedescription": "Informal introduction to such subjects as homological algebra, number theory, and algebraic geometry. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5300 Mathematics of Finance",
+    "courseid": "MATH 5300",
+    "coursedescription": "This course presents the basic mathematical tools to model financial markets and to make calculations about financial products, especially financial derivatives. Mathematical topics covered: stochastic processes, partial differential equations and their relationship. No background in finance is assumed. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5400 Selections from Classical and Functional Analysis",
+    "courseid": "MATH 5400",
+    "coursedescription": "Informal introduction to such subjects as compact operators and Fredholm theory, Banach algebras, harmonic analysis, differential equations, nonlinear functional analysis, and Riemann surfaces. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5460 Advanced Applied Probability",
+    "courseid": "MATH 5460",
+    "coursedescription": "The required background is (1) enough math background to understand proof techniques in real analysis (closed sets, uniform covergence, fourier series, etc.) and (2) some exposure to probability theory at an intuitive level (a course at the level of Ross's probability text or some exposure to probability in a statistics class). Fall Also Offered As: AMCS 5461 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5600 Selections from Geometry and Topology",
+    "courseid": "MATH 5600",
+    "coursedescription": "Informal introduction to such subjects as homology and homotopy theory, classical differential geometry, dynamical systems, and knot theory. Not Offered Every Year Prerequisite: MATH 5000 Corequisite: MATH 5000 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 5000"
+    ],
+    "course-corequisites": [
+      "MATH 5000"
+    ],
+    "other": {
+      "notes": [
+        "Not Offered Every Year Prerequisite: MATH 5000 Corequisite: MATH 5000 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 5610 Selections from Geometry and Topology",
+    "courseid": "MATH 5610",
+    "coursedescription": "Informal introduction to such subjects as homology and homotopy theory, classical differential geometry, dynamical systems, and knot theory. Not Offered Every Year Prerequisite: MATH 5000 Corequisite: MATH 5000 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 5000"
+    ],
+    "course-corequisites": [
+      "MATH 5000"
+    ],
+    "other": {
+      "notes": [
+        "Not Offered Every Year Prerequisite: MATH 5000 Corequisite: MATH 5000 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 5700 Logic and Computability 1",
+    "courseid": "MATH 5700",
+    "coursedescription": "The course focuses on topics drawn from the central areas of mathematical logic: model theory, proof theory, set theory, and computability theory. Not Offered Every Year Also Offered As: PHIL 6721 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5710 Logic and Computability 2",
+    "courseid": "MATH 5710",
+    "coursedescription": "A continuation of PHIL 6721 . Not Offered Every Year Also Offered As: PHIL 6722 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5800 Combinatorial Analysis",
+    "courseid": "MATH 5800",
+    "coursedescription": "Standard tools of enumerative combinatorics including partitions and compositions of integers, set partitions, generating functions, permutations with restricted positions, inclusion-exclusion, partially ordered sets. Permission of the instructor required to enroll. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Standard tools of enumerative combinatorics including partitions and compositions of integers, set partitions, generating functions, permutations with restricted positions, inclusion-exclusion, partially ordered sets.",
+        "Permission of the instructor required to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 5810 Topics in Combinatorial Theory",
+    "courseid": "MATH 5810",
+    "coursedescription": "Variable topics connected to current research in combinatorial theory. Recent topics include algebraic combinatorics and symmetric functions, analytic combinatorics and discrete probability. Not Offered Every Year Prerequisite: MATH 5800 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 5800"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5840 The Mathematics of Medical Imaging and Measurement",
+    "courseid": "MATH 5840",
+    "coursedescription": "The last several decades have seen major revolutions in both medical and non-medical and imaging technologies. Underlying all of these advances are sophisticated mathematical tools to model the measurement process and reconstruct images. This course begins with an introduction of the mathematical models and then proceeds to discuss the integral transforms that underlie these models: the Fourier transform, the Radon transform and the Laplace transform. We discuss how each of these transforms is inverted, both in theory and in practice. Along the way we study interpolation, sampling, approximation theory, filtering and noise analysis. This course assumes a thorough knowledge of linear algebra and a knowledge of analysis at the undergraduate level ( MATH 3140 and MATH 3600 and MATH 3610 , or MATH 5080 and MATH 5090 ). Not Offered Every Year Also Offered As: AMCS 5840 , BE 5840 Prerequisite: MATH 1410 AND ( MATH 3600 OR MATH 5080 ) AND ( MATH 3610 OR MATH 5090 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410",
+      "MATH 3600",
+      "MATH 5080",
+      "MATH 3610",
+      "MATH 5090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5861 Mathematical Modeling in Biology",
+    "courseid": "MATH 5861",
+    "coursedescription": "This course will cover various mathematical models and tools that are used to study modern biological problems. Mathematical models may be drawn from cell biology, physiology, population genetics, or ecology. Tools in dynamical systems or stochastic processes will be introduced as necessary. No prior knowledge of biology is needed to take this course, but some familiarity with differential equations and probability will be assumed. Fall Also Offered As: BIOL 5860 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5940 Mathematical Methods of Physics",
+    "courseid": "MATH 5940",
+    "coursedescription": "A discussion of those concepts and techniques of classical analysis employed inphysical theories. Topics include complex analysis. Fourier series and transforms, ordinary and partial equations, Hilbert spaces, among others. Fall Also Offered As: PHYS 5500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 5999 Independent Study",
+    "courseid": "MATH 5999",
+    "coursedescription": "Study under the direction of a faculty member. Hours to be arranged. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-4 Course Units"
+    }
+  },
+  {
+    "coursename": "MATH 6000 Topology and Geometric Analysis",
+    "courseid": "MATH 6000",
+    "coursedescription": "Differentiable functions, inverse and implicit function theorems. Theory of manifolds: differentiable manifolds, charts, tangent bundles, transversality, Sard's theorem, vector and tensor fields and differential forms: Frobenius' theorem, integration on manifolds, Stokes' theorem in n dimensions, de Rham cohomology. Introduction to Lie groups and Lie group actions. Fall Prerequisite: MATH 5000 AND MATH 5010 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 5000",
+      "MATH 5010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6010 Topology and Geometric Analysis",
+    "courseid": "MATH 6010",
+    "coursedescription": "Covering spaces and fundamental groups, van Kampen's theorem and classification of surfaces. Basics of homology and cohomology, singular and cellular; isomorphism with de Rham cohomology. Brouwer fixed point theorem, CW complexes, cup and cap products, Poincare duality, Kunneth and universal coefficient theorems, Alexander duality, Lefschetz fixed point theorem. Spring Prerequisite: MATH 6000 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6020 Algebra",
+    "courseid": "MATH 6020",
+    "coursedescription": "Group theory: permutation groups, symmetry groups, linear algebraic groups, Jordan-Holder and Sylow theorems, finite abelian groups, solvable and nilpotent groups, p-groups, group extensions. Ring theory: Prime and maximal ideals, localization, Hilbert basis theorem, integral extensions, Dedekind domains, primary decomposition, rings associated to affine varieties, semisimple rings, Wedderburn's theorem, elementary representation theory. Linear algebra: Diagonalization and canonical form of matrices, elementary representation theory, bilinear forms, quotient spaces, dual spaces, tensor products, exact sequences, exterior and symmetric algebras. Module theory: Tensor products, flat and projective modules, introduction to homological algebra, Nakayama's Lemma. Field theory: separable and normal extensions, cyclic extensions, fundamental theorem of Galois theory, solvability of equations. Fall Prerequisite: ( MATH 3700 AND MATH 3710 ) OR ( MATH 5020 AND MATH 5030 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 3700",
+      "MATH 3710",
+      "MATH 5020",
+      "MATH 5030"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6030 Algebra",
+    "courseid": "MATH 6030",
+    "coursedescription": "Continuation of Math 6020. Spring Prerequisite: MATH 6020 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6040 First Year Seminar in Mathematics",
+    "courseid": "MATH 6040",
+    "coursedescription": "This is a seminar for first year Mathematics graduate students, supervised by faculty. Students give talks on topics from all areas of mathematics at a level appropriate for first year graduate students. Attendance and preparation will be expected by all participants, and learning how to present mathematics effectively is an important part of the seminar. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6080 Analysis",
+    "courseid": "MATH 6080",
+    "coursedescription": "Complex analysis: analyticity, Cauchy theory, meromorphic functions, isolated singularities, analytic continuation, Runge's theorem, d-bar equation, Mittlag-Leffler theorem, harmonic and sub-harmonic functions, Riemann mapping theorem, Fourier transform from the analytic perspective. Introduction to real analysis: Weierstrass approximation, Lebesgue measure in Euclidean spaces, Borel measures and convergence theorems, C0 and the Riesz-Markov theorem, Lp-spaces, Fubini Theorem. Fall or Spring Also Offered As: AMCS 6081 Prerequisite: MATH 5080 AND MATH 5090 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 5080",
+      "MATH 5090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6090 Analysis",
+    "courseid": "MATH 6090",
+    "coursedescription": "Real analysis: general measure theory, outer measures and Cartheodory construction, Hausdorff measures, Radon-Nikodym theorem, Fubini's theorem, Hilbert space and L2-theory of the Fourier transform. Functional analysis: normed linear spaces, convexity, the Hahn-Banach theorem, duality for Banach spaces, weak convergence, bounded linear operators, Baire category theorem, uniform boundedness principle, open mapping theorem, closed graph theorem, compact operators, Fredholm theory, interpolation theorems, Lp-theory for the Fourier transform. Fall or Spring Also Offered As: AMCS 6091 Prerequisite: MATH 6080 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6100 Functional Analysis",
+    "courseid": "MATH 6100",
+    "coursedescription": "Convexity and the Hahn Banach Theorem. Hilbert Spaces, Banach Spaces, and examples: Sobolev spaces, Holder spaces. The uniform bounded principle, Baire category theorem, bounded operators, open mapping theorem, closed graph theorem and applications. The concepts of duality and dual spaces. The Riesz theory of compact operators and Fredholm theory. Functional calculus and elementary Spectral Theory. Interpolation theorems. Applications to partial differential equations and approximation theory. Prerequisite: MATH 6080 OR MATH 6090 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6080",
+      "MATH 6090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6120 Selections from Algebra",
+    "courseid": "MATH 6120",
+    "coursedescription": "Informal introduction to such subjects as homological algebra, number theory, and algebraic geometry. Not Offered Every Year Prerequisite: MATH 6000 AND MATH 6020 Corequisites: MATH 6000 , MATH 6020 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6000",
+      "MATH 6020"
+    ],
+    "course-corequisites": [
+      "MATH 6000",
+      "MATH 6020"
+    ],
+    "other": {
+      "notes": [
+        "Not Offered Every Year Prerequisite: MATH 6000 AND MATH 6020 Corequisites: MATH 6000 , MATH 6020 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 6180 Algebraic Topology, Part I",
+    "courseid": "MATH 6180",
+    "coursedescription": "Homotopy groups, Hurewicz theorem, Whitehead theorem, spectral sequences. Classification of vector bundles and fiber bundles. Characteristic classes and obstruction theory. Fall Prerequisite: MATH 6000 AND MATH 6010 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6000",
+      "MATH 6010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6190 Algebraic Topology, Part I",
+    "courseid": "MATH 6190",
+    "coursedescription": "Rational homotopy theory, cobordism, K-theory, Morse theory and the h-corbodism theorem. Surgery theory. Spring Prerequisite: MATH 6180 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6180"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6200 Algebraic Number Theory",
+    "courseid": "MATH 6200",
+    "coursedescription": "Dedekind domains, local fields, basic ramification theory, product formula, Dirichlet unit theory, finiteness of class numbers, Hensel's Lemma, quadratic and cyclotomic fields, quadratic reciprocity, abelian extensions, zeta and L-functions, functional equations, introduction to local and global class field theory. Other topics may include: Diophantine equations, continued fractions, approximation of irrational numbers by rationals, Poisson summation, Hasse principle for binary quadratic forms, modular functions and forms, theta functions. Not Offered Every Year Prerequisite: MATH 6020 AND MATH 6030 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6020",
+      "MATH 6030"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6210 Algebraic Number Theory",
+    "courseid": "MATH 6210",
+    "coursedescription": "Continuation of Math 6200. Not Offered Every Year Prerequisite: MATH 6200 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6220 Complex Algebraic Geometry",
+    "courseid": "MATH 6220",
+    "coursedescription": "Algebraic geometry over the complex numbers, using ideas from topology, complex variable theory, and differential geometry. Topics include: Complex algebraic varieties, cohomology theories, line bundles, vanishing theorems, Riemann surfaces, Abel's theorem, linear systems, complex tori and abelian varieties, Jacobian varieties, currents, algebraic surfaces, adjunction formula, rational surfaces, residues. Not Offered Every Year Prerequisite: MATH 6020 AND MATH 6030 AND MATH 6090 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6020",
+      "MATH 6030",
+      "MATH 6090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6230 Complex Algebraic Geometry",
+    "courseid": "MATH 6230",
+    "coursedescription": "Continuation of Math 6220. Not Offered Every Year Prerequisite: MATH 6220 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6240 Algebraic Geometry",
+    "courseid": "MATH 6240",
+    "coursedescription": "Algebraic geometry over algebraically closed fields, using ideas from commutative algebra. Topics include: Affine and projective algebraic varieties, morphisms and rational maps, singularities and blowing up, rings of functions, algebraic curves, Riemann Roch theorem, elliptic curves, Jacobian varieties, sheaves, schemes, divisors, line bundles, cohomology of varieties, classification of surfaces. Not Offered Every Year Prerequisite: MATH 6020 AND MATH 6030 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6020",
+      "MATH 6030"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6250 Algebraic Geometry",
+    "courseid": "MATH 6250",
+    "coursedescription": "Continuation of Math 6240. Not Offered Every Year Prerequisite: MATH 6240 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6240"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6260 Commutative Algebra",
+    "courseid": "MATH 6260",
+    "coursedescription": "Topics in commutative algebra taken from the literature. Material will vary from year to year depending upon the instructor's interests. Not Offered Every Year Prerequisite: MATH 6020 AND MATH 6030 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6020",
+      "MATH 6030"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Material will vary from year to year depending upon the instructor's interests."
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 6280 Homological Algebra",
+    "courseid": "MATH 6280",
+    "coursedescription": "Complexes and exact sequences, homology, categories, derived functors (especially Ext and Tor). Homology and cohomology arising from complexes in algebra and geometry, e.g. simplicial and singular theories, Cech cohomology, de Rham cohomology, group cohomology, Hochschild cohomology. Projective resolutions, cohomological dimension, derived categories, spectral sequences. Other topics may include: Lie algebra cohomology, Galois and etale cohomology, cyclic cohomology, l-adic cohomology. Algebraic deformation theory, quantum groups, Brauer groups, descent theory. Not Offered Every Year Prerequisite: MATH 6020 AND MATH 6030 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6020",
+      "MATH 6030"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6290 Homological Algebra",
+    "courseid": "MATH 6290",
+    "coursedescription": "Continuation of Math 6280. Not Offered Every Year Prerequisite: MATH 6280 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6280"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6300 Differential Topology",
+    "courseid": "MATH 6300",
+    "coursedescription": "Fundamentals of smooth manifolds, Sard's theorem, Whitney's embedding theorem, transversality theorem, piecewise linear and topological manifolds, knot theory. The instructor may elect to cover other topics such as Morse Theory, h-cobordism theorem, characteristic classes, cobordism theories. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6340 Arithmetic Geometry",
+    "courseid": "MATH 6340",
+    "coursedescription": "Arithmetic Geometry 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6420 Topics in Partial Differential Equations",
+    "courseid": "MATH 6420",
+    "coursedescription": "Problems in differential geometry, as well as those in physics and engineering, inevitable involve partial derivatives. This course will be an introduction to these problems and techniques. We will use P.D.E. as a tool. Some of the applications will be small, some large. The proof of the Hodge Theorem will be a small application. Discussion of the Yamabe problem and Ricci flow (used to prove the Poincare Conjecture) will be larger. Prerequisite: MATH 6080 AND MATH 6090 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6080",
+      "MATH 6090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6440 Partial Differential Equations",
+    "courseid": "MATH 6440",
+    "coursedescription": "Subject matter varies from year to year. Some topics are: the classical theory of the wave and Laplace equations, general hyperbolic and elliptic equations, theory of equations with constant coefficients, pseudo-differential operators, and non-linear problems. Sobolev spaces and the theory of distributions will bedeveloped as needed. Not Offered Every Year Prerequisite: MATH 6080 AND MATH 6090 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6080",
+      "MATH 6090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6450 Partial Differential Equations",
+    "courseid": "MATH 6450",
+    "coursedescription": "Subject matter varies from year to year. Some topics are: the classical theory of the wave and Laplace equations, general hyperbolic and elliptic equations, theory of equations with constant coefficients, pseudo-differential operators, and nonlinear problems. Sobolev spaces and the theory of distributions will be developed as needed. Not Offered Every Year Prerequisite: MATH 6080 AND MATH 6090 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6080",
+      "MATH 6090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6480 Probability Theory",
+    "courseid": "MATH 6480",
+    "coursedescription": "Measure theoretic foundations, laws of large numbers, large deviations, distributional limit theorems, Poisson processes, random walks, stopping times. Fall Also Offered As: AMCS 6481 , STAT 9300 Prerequisite: STAT 4300 OR STAT 5100 OR MATH 6080 1 Course Unit",
+    "course-prerequsities": [
+      "STAT 4300",
+      "STAT 5100",
+      "MATH 6080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6490 Stochastic Processes",
+    "courseid": "MATH 6490",
+    "coursedescription": "Continuation of MATH 6480 / STAT 9300 , the 2nd part of Probability Theory for PhD students in the math or statistics department. The main topics include Brownian motion, martingales, Ito's formula, and their applications to random walk and PDE. Not Offered Every Year Also Offered As: AMCS 6491 , STAT 9310 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6520 Operator Theory",
+    "courseid": "MATH 6520",
+    "coursedescription": "Subject matter may include spectral theory of operators in Hilbert space, C*-algebras, von Neumann algebras. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6540 Lie Groups",
+    "courseid": "MATH 6540",
+    "coursedescription": "Connection of Lie groups with Lie algebras, Lie subgroups, exponential map. Algebraic Lie groups, compact and complex Lie groups, solvable and nilpotent groups. Other topics may include relations with symplectic geometry, the orbit method, moment map, symplectic reduction, geometric quantization, Poisson-Lie and quantum groups. Not Offered Every Year Prerequisite: MATH 6000 AND MATH 6010 AND MATH 6020 AND MATH 6030 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6000",
+      "MATH 6010",
+      "MATH 6020",
+      "MATH 6030"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6550 Lie Groups",
+    "courseid": "MATH 6550",
+    "coursedescription": "Continuation of Math 6540. Not Offered Every Year Prerequisite: MATH 6540 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6540"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6560 Representation of Continuous Groups",
+    "courseid": "MATH 6560",
+    "coursedescription": "Possible topics: harmonic analysis on locally compact abelian groups; almost periodic functions; direct integral decomposition theory, Types I, II and III: induced representations, representation theory of semisimple groups. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6600 Differential Geometry",
+    "courseid": "MATH 6600",
+    "coursedescription": "Riemannian metrics and connections, geodesics, completeness, Hopf-Rinow theorem, sectional curvature, Ricci curvature, scalar curvature, Jacobi fields, second fundamental form and Gauss equations, manifolds of constant curvature, first and second variation formulas, Bonnet-Myers theorem, comparison theorems, Morse index theorem, Hadamard theorem, Preissmann theorem, and further topics such as sphere theorems, critical points of distance functions, the soul theorem, Gromov-Hausdorff convergence. Not Offered Every Year Prerequisite: MATH 6000 AND MATH 6010 AND MATH 6020 AND MATH 6030 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6000",
+      "MATH 6010",
+      "MATH 6020",
+      "MATH 6030"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6610 Differential Geometry",
+    "courseid": "MATH 6610",
+    "coursedescription": "Continuation of Math 6600. Not Offered Every Year Prerequisite: MATH 6600 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6710 Topics in Logic",
+    "courseid": "MATH 6710",
+    "coursedescription": "Discusses advanced topics in logic. Not Offered Every Year Prerequisite: MATH 5700 AND MATH 5710 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 5700",
+      "MATH 5710"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6770 Topics in Logic",
+    "courseid": "MATH 6770",
+    "coursedescription": "This graduate course focuses on topics drawn from the central areas of mathematical logic: model theory, proof theory, set theory, and computability theory. Not Offered Every Year Also Offered As: PHIL 6720 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6940 Mathematical Foundations of Theoretical Physics",
+    "courseid": "MATH 6940",
+    "coursedescription": "Selected topics in mathematical physics, such as mathematical methods of classical mechanics, electrodynamics, relativity, quantum mechanics and quantum field theory. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6950 Mathematical Foundations of Theoretical Physics",
+    "courseid": "MATH 6950",
+    "coursedescription": "Selected topics in mathematical physics, such as mathematical methods of classical mechanics, electrodynamics, relativity, quantum mechanics and quantum field theory. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 6982 Representation of Continuous Groups",
+    "courseid": "MATH 6982",
+    "coursedescription": "Possible topics: harmonic analysis on locally compact abelian groups; almost periodic functions; direct integral decomposition theory, Types I, II and III: induced representations, representation theory of semisimple groups. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7020 Topics in Algebra",
+    "courseid": "MATH 7020",
+    "coursedescription": "Topics from the literature. The specific subjects will vary from year to year. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7200 Advanced Number Theory",
+    "courseid": "MATH 7200",
+    "coursedescription": "Ramification theory, adeles and ideles, Tate's thesis, group cohomology and Galois cohomology, class field theory in terms of ideles and cohomology, Lubin-Tate formal groups, Artin and Swan conductors, central simple algebras over local and global fields, general Hasse principles. Other topics may include the following: zero-dimensional Arakelov theory, Tate duality, introduction to arithmetic of elliptic curves, local and global epsilon factors in functional equations, p-adic L-functions and Iwasawa theory, modular forms and functions and modular curves. Not Offered Every Year Prerequisite: MATH 6200 AND MATH 6210 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6200",
+      "MATH 6210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7210 Advanced Number Theory",
+    "courseid": "MATH 7210",
+    "coursedescription": "Continuation of Math 7200. Not Offered Every Year Prerequisite: MATH 7200 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 7200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7240 Topics in Algebraic Geometry",
+    "courseid": "MATH 7240",
+    "coursedescription": "Topics from the literature. The specific subjects will vary from year to year. Not Offered Every Year Prerequisite: MATH 6220 AND ( MATH 6230 OR MATH 6240 ) AND MATH 6250 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6220",
+      "MATH 6230",
+      "MATH 6240",
+      "MATH 6250"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7250 Topics in Algebraic Geometry",
+    "courseid": "MATH 7250",
+    "coursedescription": "Topics from the literature. The specific subject will vary from year to year. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7300 Topics in Algebraic and Differential Topology",
+    "courseid": "MATH 7300",
+    "coursedescription": "Topics from the literature. The specific subjects will vary from year to year. Not Offered Every Year Prerequisite: MATH 6180 AND MATH 6190 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6180",
+      "MATH 6190"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7310 Topics in Algebraic and Differential Topology",
+    "courseid": "MATH 7310",
+    "coursedescription": "Topics from the literature. The specific subjects will vary from year to year. Not Offered Every Year Prerequisite: MATH 6180 AND MATH 6190 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6180",
+      "MATH 6190"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7480 Topics in Classical Analysis",
+    "courseid": "MATH 7480",
+    "coursedescription": "Harmonic analysis in Euclidean space, Riemann surfaces, Discontinuous groups and harmonic analysis in hyperbolic space, Pseudodifferential operators and index theorems, Variational methods in non-linear PDE, Hyperbolic equations and conservation laws, Probability and stochastic processes, Geometric measure theory, Applications of analysis to problems in differential geometry. The specific subjects will vary from year to year. Not Offered Every Year Prerequisite: MATH 6080 AND MATH 6090 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6080",
+      "MATH 6090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7520 Topics in Operator theory",
+    "courseid": "MATH 7520",
+    "coursedescription": "Topics from the literature. The specific subjects will vary from year to year. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7530 Topics in Operator Theory",
+    "courseid": "MATH 7530",
+    "coursedescription": "Topics from the literature. The specific subjects will vary from year to year. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7600 Topics in Differential Geometry",
+    "courseid": "MATH 7600",
+    "coursedescription": "Topics from the literature. The specific subjects will vary from year to year. Not Offered Every Year Prerequisite: MATH 6600 AND MATH 6610 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6600",
+      "MATH 6610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 7610 Topics in Differential Geometry",
+    "courseid": "MATH 7610",
+    "coursedescription": "Topics from the literature. The specific subjects will vary from year to year. Not Offered Every Year Prerequisite: MATH 6600 AND MATH 6610 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6600",
+      "MATH 6610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 8200 Algebra Seminar",
+    "courseid": "MATH 8200",
+    "coursedescription": "Seminar on current and recent literature in algebra. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 8300 Geometry-Topology Seminar",
+    "courseid": "MATH 8300",
+    "coursedescription": "Seminar on current and recent literature in geometry-topology Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 8310 Geometry-Topology Seminar",
+    "courseid": "MATH 8310",
+    "coursedescription": "Seminar on current and recent literature in geometry-topology Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 8710 Logic Seminar",
+    "courseid": "MATH 8710",
+    "coursedescription": "Seminar on current and recent literature in logic. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 8780 Probability and Algorithm Seminar",
+    "courseid": "MATH 8780",
+    "coursedescription": "Seminar on current and recent literature in probability and algorithms. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 8810 Combinatorics Seminar",
+    "courseid": "MATH 8810",
+    "coursedescription": "Seminar on current and recent literature in combinatorics. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

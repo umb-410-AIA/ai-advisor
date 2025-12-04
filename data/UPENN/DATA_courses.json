@@ -1,0 +1,57 @@
+[
+  {
+    "coursename": "DATA 1010 Introduction to Data Analytics",
+    "courseid": "DATA 1010",
+    "coursedescription": "In our digital world, data-driven decision-making is becoming more common and more expected. Effective leadership and communication, therefore, often hinges on the ability to acquire, manage, analyze, and display large, quantitative data sets. Even many entry-level jobs assume or require basic knowledge of data analytics. This course introduces students to important concepts in data analytics across a wide range of applications using the programming language R. Students complete the course with a clear understanding of how to utilize quantitative data in real-time problem identification, decision-making, and problem-solving. No prerequisites in statistics or math are required. This course will have required synchronous sessions. Also Offered As: LEAD 3050 1 Course Unit",
+    "course-prerequsities": [
+      "LEAD 3050"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DATA 2100 Intermediate Data Analytics",
+    "courseid": "DATA 2100",
+    "coursedescription": "In Data Analytics 2100: Intermediate Data Analytics students learn the fundamentals of two skills required by many data science jobs: survey and experimental research. The course trains students in all aspects of the survey research process, including designing good survey questionnaires, drawing samples, weighting data, and analyzing survey responses. Students come away from the class with an understanding in how to design, analyze a randomized experiment and build upon the R skills gained in previous courses. Certificate students and individual course takers must complete a prerequisite data analytics course before enrolling in this course. Although courses in the Certificate in Data Analytics must be taken sequentially to build your expertise in data analytics, you have the option to take courses in order without committing to the entire certificate. Students who complete all four courses earn the Certificate in Data Analytics. Please submit a permission request in Path@Penn to register for this class. Prerequisite: DATA 1010 1 Course Unit",
+    "course-prerequsities": [
+      "DATA 1010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Please submit a permission request in Path@Penn to register for this class."
+      ]
+    }
+  },
+  {
+    "coursename": "DATA 3100 Introduction to Statistical Methods",
+    "courseid": "DATA 3100",
+    "coursedescription": "Introduction to Statistical Methods exposes students to the process by which quantitative social science and data science research is conducted. The class revolves around three separate, but related tracks. Track one teaches some basic tools necessary to conduct quantitative social science research. Topics covered include descriptive statistics, sampling, probability, and statistical theory. Track two teaches students how to implement these basic tools using R. The third track teaches students the fundamentals of research design. Topics will include independent and dependent variables, generating testable hypotheses, and issues in causality. Please submit a permission request in Path@Penn to register for this class. Prerequisite: DATA 1010 AND DATA 2100 1 Course Unit",
+    "course-prerequsities": [
+      "DATA 1010",
+      "DATA 2100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Please submit a permission request in Path@Penn to register for this class."
+      ]
+    }
+  },
+  {
+    "coursename": "DATA 4010 Advanced Data Analytics",
+    "courseid": "DATA 4010",
+    "coursedescription": "Data Analytics 4010: Advanced Topics in Data Analytics emphasizes the skills necessary to do predictive modeling of data. This is one of the most commonly sought-after skills in data science jobs, since it can help companies structure future investments, non-profits organize funding drives, or political candidates decide where to focus their get-out-the-vote efforts. The class begins with a comprehensive discussion on basic regression analysis and then moves on to more advanced topics in R like web scraping, mapping, textual analysis, and working with string variables. The course also features content about more advanced data visualization skills, including creating interactive data visualizations in RShiny. Please submit a permission request in Path@Penn to register for this class. Prerequisite: DATA 1010 AND DATA 2100 AND DATA 3100 1 Course Unit",
+    "course-prerequsities": [
+      "DATA 1010",
+      "DATA 2100",
+      "DATA 3100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Please submit a permission request in Path@Penn to register for this class."
+      ]
+    }
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "coursename": "GORT 9001 Research Seminars I",
+    "courseid": "GORT 9001",
+    "coursedescription": "Research Seminars I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9002 Research Seminars II",
+    "courseid": "GORT 9002",
+    "coursedescription": "Research Seminars II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9003 Research Seminars III",
+    "courseid": "GORT 9003",
+    "coursedescription": "Research Seminars III 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9004 Research Seminars IV",
+    "courseid": "GORT 9004",
+    "coursedescription": "Research Seminars IV 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9011 Growth & Development I",
+    "courseid": "GORT 9011",
+    "coursedescription": "Growth & Development I 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9012 Growth & Development II",
+    "courseid": "GORT 9012",
+    "coursedescription": "Growth & Development II 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9021 Biology of Tooth Movement",
+    "courseid": "GORT 9021",
+    "coursedescription": "Biology of Tooth Movement 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9031 Diagnosis and Treatment Planning I",
+    "courseid": "GORT 9031",
+    "coursedescription": "Diagnosis and Treatment Planning I 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9032 Diagnosis and Treatment Planning II",
+    "courseid": "GORT 9032",
+    "coursedescription": "Diagnosis and Treatment Planning II 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9033 Diagnosis and Treatment Planning III",
+    "courseid": "GORT 9033",
+    "coursedescription": "Diagnosis and Treatment Planning III 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9034 Diagnosis and Treatment Planning IV",
+    "courseid": "GORT 9034",
+    "coursedescription": "Diagnosis and Treatment Planning IV 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9041 Biomechanics I",
+    "courseid": "GORT 9041",
+    "coursedescription": "Biomechanics I 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9042 Biomechanics II",
+    "courseid": "GORT 9042",
+    "coursedescription": "Biomechanics II 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9043 Biomechanics III",
+    "courseid": "GORT 9043",
+    "coursedescription": "Biomechanics III 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9044 Biomechanics IV",
+    "courseid": "GORT 9044",
+    "coursedescription": "Biomechanics IV 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9051 Appliance & Lab Technique",
+    "courseid": "GORT 9051",
+    "coursedescription": "Appliance & Lab Technique 0.75-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9061 TMD Diagnosis & Therapy I",
+    "courseid": "GORT 9061",
+    "coursedescription": "TMD Diagnosis & Therapy I 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9062 TMD Diagnosis & Therapy II",
+    "courseid": "GORT 9062",
+    "coursedescription": "TMD Diagnosis & Therapy II 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9071 Ortho/Perio & Adult Orthodontics I",
+    "courseid": "GORT 9071",
+    "coursedescription": "Ortho/Perio & Adult Orthodontics I 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9072 Ortho/Perio & Adult Orthodontics II",
+    "courseid": "GORT 9072",
+    "coursedescription": "Ortho/Perio & Adult Orthodontics II 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9073 Ortho/Perio & Adult Orthodontics III",
+    "courseid": "GORT 9073",
+    "coursedescription": "Ortho/Perio & Adult Orthodontics III 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9074 Ortho/Perio & Adult Orthodontics IV",
+    "courseid": "GORT 9074",
+    "coursedescription": "Ortho/Perio & Adult Orthodontics IV 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9081 Orthodontic Literature Review I",
+    "courseid": "GORT 9081",
+    "coursedescription": "Orthodontic Literature Review I 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9082 Orthodontic Literature Review II",
+    "courseid": "GORT 9082",
+    "coursedescription": "Orthodontic Literature Review II 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9091 Orthognathic Surgery/TMJ Lecture Series I",
+    "courseid": "GORT 9091",
+    "coursedescription": "Orthognathic Surgery/TMJ Lecture Series I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9092 Orthognathic Surgery/TMJ Lecture Series II",
+    "courseid": "GORT 9092",
+    "coursedescription": "Orthognathic Surgery/TMJ Lecture Series II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9093 Orthognathic Surgery/TMJ Lecture Series III",
+    "courseid": "GORT 9093",
+    "coursedescription": "Orthognathic Surgery/TMJ Lecture Series III 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9094 Orthognathic Surgery/TMJ Lecture Series IV",
+    "courseid": "GORT 9094",
+    "coursedescription": "Orthognathic Surgery/TMJ Lecture Series IV 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9101 Case Presentation Seminars I",
+    "courseid": "GORT 9101",
+    "coursedescription": "Case Presentation Seminars I 1.5-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9102 Case Presentation Seminars II",
+    "courseid": "GORT 9102",
+    "coursedescription": "Case Presentation Seminars II 1.5-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9103 Case Presentation Seminars III",
+    "courseid": "GORT 9103",
+    "coursedescription": "Case Presentation Seminars III 1.5-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9104 Case Presentation Seminars IV",
+    "courseid": "GORT 9104",
+    "coursedescription": "Case Presentation Seminars IV 1.5-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9111 Craniofacial Orthodontic Seminars I",
+    "courseid": "GORT 9111",
+    "coursedescription": "Craniofacial Orthodontic Seminars I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9112 Craniofacial Orthodontic Seminars II",
+    "courseid": "GORT 9112",
+    "coursedescription": "Craniofacial Orthodontic Seminars II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9121 Early Treatment I",
+    "courseid": "GORT 9121",
+    "coursedescription": "Early Treatment I 0.5-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9122 Early Treatment II",
+    "courseid": "GORT 9122",
+    "coursedescription": "Early Treatment II 0.5-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9131 Six Elements and Adult Orthodontics I",
+    "courseid": "GORT 9131",
+    "coursedescription": "Six Elements and Adult Orthodontics I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9132 Six Elements and Adult Orthodontics II",
+    "courseid": "GORT 9132",
+    "coursedescription": "Six Elements and Adult Orthodontics II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9141 Clinical Orthodontic Training I",
+    "courseid": "GORT 9141",
+    "coursedescription": "Clinical Orthodontic Training I 17-20 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9142 Clinical Orthodontic Training II",
+    "courseid": "GORT 9142",
+    "coursedescription": "Clinical Orthodontic Training II 32-35 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9143 Clinical Orthodontic Training III",
+    "courseid": "GORT 9143",
+    "coursedescription": "Clinical Orthodontic Training III 25-28 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9144 Clinical Orthodontic Training IV",
+    "courseid": "GORT 9144",
+    "coursedescription": "Clinical Orthodontic Training IV 33-36 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9145 Clinical Orthodontic Training V",
+    "courseid": "GORT 9145",
+    "coursedescription": "Clinical Orthodontic Training V 24-27 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9146 Clinical Orthodontic Training VI",
+    "courseid": "GORT 9146",
+    "coursedescription": "Clinical Orthodontic Training VI 30-34 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9147 Clinical Orthodontic Training VII",
+    "courseid": "GORT 9147",
+    "coursedescription": "Clinical Orthodontic Training VII 24-27 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9148 Clinical Orthodontic Training VIII",
+    "courseid": "GORT 9148",
+    "coursedescription": "Clinical Orthodontic Training VIII 30-34 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9153 Craniofacial Orthodontic Rotations I",
+    "courseid": "GORT 9153",
+    "coursedescription": "Craniofacial Orthodontic Rotations I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9154 Craniofacial Orthodontic Rotations II",
+    "courseid": "GORT 9154",
+    "coursedescription": "Craniofacial Orthodontic Rotations II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9163 Ethics in Orthodontics I",
+    "courseid": "GORT 9163",
+    "coursedescription": "Ethics in Orthodontics I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9164 Ethics in Orthodontics II",
+    "courseid": "GORT 9164",
+    "coursedescription": "Ethics in Orthodontics II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9173 Literature Review/ABO I",
+    "courseid": "GORT 9173",
+    "coursedescription": "Literature Review/ABO I 0.75-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9174 Literature Review/ABO II",
+    "courseid": "GORT 9174",
+    "coursedescription": "Literature Review/ABO II 0.75-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9183 Orthognathic Surgery and Practice Mgmt Workshop I",
+    "courseid": "GORT 9183",
+    "coursedescription": "Orthognathic Surgery and Practice Mgmt Workshop I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9184 Orthognathic Surgery and Practice Mgmt Workshop II",
+    "courseid": "GORT 9184",
+    "coursedescription": "Orthognathic Surgery and Practice Mgmt Workshop II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9193 P & I Clinic Teaching I",
+    "courseid": "GORT 9193",
+    "coursedescription": "P & I Clinic Teaching I 1-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9194 P & I Clinic Teaching II",
+    "courseid": "GORT 9194",
+    "coursedescription": "P & I Clinic Teaching II 1-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9203 Practice Management I",
+    "courseid": "GORT 9203",
+    "coursedescription": "Practice Management I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9204 Practice Management II",
+    "courseid": "GORT 9204",
+    "coursedescription": "Practice Management II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9213 Clear Aligner Treatment & Temporary Anchorage Devices in Clinical Orthodontics",
+    "courseid": "GORT 9213",
+    "coursedescription": "This course is composed of two parts. The first part focuses on i) the basic principles and mechanics of Clear Aligner Treatment (CAT) and ii) clinical cases review. The second part is the use of Temporary Anchorage Devices (TADs) in Clinical Orthodontics. Topics cover from the consideration of TADs placement to clinical application. This course includes lectures and final examinations Fall 0.75 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9214 Clear Aligner Treatment & Temporary Anchorage Devices in Clinical Orthodontics",
+    "courseid": "GORT 9214",
+    "coursedescription": "This course is composed of two parts. The first part focuses on i) the basic principles and mechanics of Clear Aligner Treatment (CAT) and ii) clinical cases review. The second part is the use of Temporary Anchorage Devices (TADs) in Clinical Orthodontics. Topics cover from the consideration of TADs placement to clinical application. This course includes lectures and final examinations Spring 0.75 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9223 Introduction to Lingual Orthodontics",
+    "courseid": "GORT 9223",
+    "coursedescription": "This course is primarily structured by the general introduction to the development and concept of lingual braces, the lingual bracket systems, the mushroom archwire technique, the difference in clinical and mechanics consideration between regular and lingual braces, and modern-day lingual orthodontics 0.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GORT 9224 Introduction to Lingual Orthodontics",
+    "courseid": "GORT 9224",
+    "coursedescription": "This course is primarily structured by the general introduction to the development and concept of lingual braces, the lingual bracket systems, the mushroom archwire technique, the difference in clinical and mechanics consideration between regular and lingual braces, and modern-day lingual orthodontics 0.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

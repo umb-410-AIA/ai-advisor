@@ -1,0 +1,983 @@
+[
+  {
+    "coursename": "CHEM 0240 First-Year Seminar: From Alchemy to Nanoscience",
+    "courseid": "CHEM 0240",
+    "coursedescription": "The imperative to transform matter, find its roots in alchemy and the search for the Philosopher's Stone, which was thought to contain the secret of turning base metals into gold and also the secret of immortality. We will examine the evolution of the way in which people have thought about matter and its transformations; from the manufacturing of explosives to dyestuffs to pharmaceuticals and perfumes. We will do some simple experiments that demonstrate some of these principles. We will follow the development of the chemical sciences from the works of early alchemists to Renaissance (Newton and Boyle) scientists and modern thinkers (Priestly, Lavoisier, Dalton, Mendeleev and others). This class, which is designed for non-science as well as potential science majors, will involve discussions on readings, as well as field trips to some Philadelphia locations that are notable in the history of chemistry. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 0250 Structural Biology",
+    "courseid": "CHEM 0250",
+    "coursedescription": "This course will explore how biological properties are determined by the microscopic chemical properties of proteins and biomacromolecules. We will discuss how research results, especially those of structural biology, are presented to its various audiences. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 1000 Academic Based Community Service-Chemistry Outreach",
+    "courseid": "CHEM 1000",
+    "coursedescription": "Chemistry service-learning course that provides undergraduate students with opportunities to improve their scientific communication abilities and teaching skills. Undergraduate students will work in groups to develop short science experiments and teaching materials, and students in grades 6-12 from urban public schools in West Philadelphia will visit the Penn campus to perform the experiments. There are typically 6 – 8 visits over the course of the semester, and during these visits, the undergraduates will serve as instructors, teaching their experiment to the visiting students. Undergraduate students will also analyze and discuss journal articles and publications to explore pedagogy and best practices in science communication, as well as develop and demonstrate skills in reflecting critically on issues that arise in your service learning experiences through written post-teaching reflections Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 1011 Introduction to General Chemistry I",
+    "courseid": "CHEM 1011",
+    "coursedescription": "CHEM 1011 is an introductory college-level course in chemistry intended for students with less preparation in high school chemistry and mathematics. The course content parallels that of CHEM 1012 , but with emphasis placed on developing problem-solving strategies and developing the underlying chemical principles. The course will take an 'atoms first' approach to introductory chemistry, where topical coverage includes an overview of quantum theory, atomic structure, the periodic table, chemical bonding, elementary chemical reactions, stoichiometry, ideal gases, and intermolecular interactions. Topics from mathematics and physics that are necessary to chemical problem-solving will be included as needed. Prerequisite: Students with credit for CHEM 1012 may not enroll in CHEM 1011 . Credit will not be awarded for both CHEM 1011 and 1012 . Fall Mutually Exclusive: CHEM 1012 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1012",
+      "CHEM 1011",
+      "1012"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 1012 General Chemistry I",
+    "courseid": "CHEM 1012",
+    "coursedescription": "Basic concepts and principles of chemistry and their applications in chemistry and closely-related fields. The first term emphasizes the understanding of chemical reactions through atomic and molecular structure. This is a university level course, treating the material in sufficient depth so that students can solve chemical problems and can understand the principles involved in their solution. It includes an introduction to condensed matter. This course is suitable for majors or non-majors and is recommended to satisfy either major or pre-professional requirements for general chemistry. This course is presented for students with high school chemistry and calculus. Students with a lesser background than this should take CHEM 1011 . Prerequisite: Students with credit for CHEM 1011 may not enroll in CHEM 1012 . Credit is not awarded for both CHEM 1011 and CHEM 1012 . Fall or Spring Mutually Exclusive: CHEM 1011 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1011",
+      "CHEM 1012"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is suitable for majors or non-majors and is recommended to satisfy either major or pre-professional requirements for general chemistry."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 1021 Introduction to General Chemistry II",
+    "courseid": "CHEM 1021",
+    "coursedescription": "CHEM 1021 will be the second course in a two-semester sequence in general chemistry, where an introductory foundation in the energetic and dynamic nature of chemical reactivity will be developed. The course will survey general principles of thermodynamics, phase transitions, equilibrium, acid/base chemistry, and chemical kinetics as applied to elementary chemical reactions. Using this foundation, structure and function of organic compounds and solid-state structure will be surveyed upon which the former fundamental principles will be deployed to predict reactivity/stability. Spring Mutually Exclusive: CHEM 1022 Prerequisite: CHEM 1011 AND MATH 1300 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1011",
+      "MATH 1300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 1022 General Chemistry II",
+    "courseid": "CHEM 1022",
+    "coursedescription": "Continuation of CHEM 1012 : General Chemistry I. The second term stresses the thermodynamic approach to chemical reactions, electrochemical processes, and reaction rates and mechanisms. It includes special topics in chemistry. Fall or Spring Mutually Exclusive: CHEM 1021 Prerequisite: CHEM 1012 AND MATH 1300 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1012",
+      "MATH 1300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 1101 General Chemistry Laboratory I",
+    "courseid": "CHEM 1101",
+    "coursedescription": "A general laboratory course covering aspects of qualitative and quantitative analysis, determination of chemical and physical properties, and chemical synthesis. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 1102 General Chemistry Laboratory II",
+    "courseid": "CHEM 1102",
+    "coursedescription": "Continuation of CHEM 1101 : General Chemistry Laboratory I Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 1151 Honors Chemistry I",
+    "courseid": "CHEM 1151",
+    "coursedescription": "This course will focus on introducing students to the following topics: the nature of the chemical bond (forces, potentials, and quantum mechanics), covalent and non-covalent interactions, properties of gasses, liquids, and solids. Students in section 001 will be introduced to modern computational chemistry methods and section 002 introduces students to modern experimental techniques. Prerequisite: AP Chemistry exam score of 5. Fall Corequisite: MATH 1410 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MATH 1410"
+    ],
+    "other": {
+      "notes": [
+        "Fall Corequisite: MATH 1410 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 1161 Honors Chemistry II",
+    "courseid": "CHEM 1161",
+    "coursedescription": "An advanced course for students who have had very strong background in Chemistry in High School (AP, IB, or equivalent). Advanced material from the general chemistry curriculum will be covered in the context topics selected from current research areas. A continuation of CHEM 1151 : Honors Chemistry I, CHEM 1161 : Honors Chemistry II will focus on topics in biochemistry and biophysical chemistry relating to thermodynamics, equilibrium, kinetics, and electrochemistry. Prerequisite: Advanced High School Chemistry (AP or equivalent). Spring Prerequisite: CHEM 1151 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1151"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 1200 Environmental Chemistry",
+    "courseid": "CHEM 1200",
+    "coursedescription": "The course aims to teach chemical content and principles in the context of significant environmental issues. Topics to be covered include: composition of the atmosphere; protecting the ozone layer; chemistry of global warming; traditional hydrocarbon fuels and energy utilization; water supply, its contaminants, and waste water treatment; acid rain; nuclear energy; and new energy sources. Students will develop critical thinking ability, competence to better assess risks and benefits, and skills that will lead them to be able to make informed decisions about technology-based matters. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2210 Physical Chemistry I",
+    "courseid": "CHEM 2210",
+    "coursedescription": "Introductory quantum mechanics, atomic and molecular structure, chemical bonding, and microscopic understanding of physical and chemical properties of molecules. Fall Prerequisite: CHEM 1021 AND MATH 1410 AND PHYS 0150 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1021",
+      "MATH 1410",
+      "PHYS 0150"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2220 Physical Chemistry II",
+    "courseid": "CHEM 2220",
+    "coursedescription": "Continuation of CHEM 2210 : Physical Chemistry I. Principles and applications of thermodynamics, and a molecular-based understanding of macroscopic properties. Spring Prerequisite: CHEM 2210 AND PHYS 0151 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2210",
+      "PHYS 0151"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2230 Experimental Physical Chemistry I",
+    "courseid": "CHEM 2230",
+    "coursedescription": "Important methods, skills, and apparatus used for the acquisition and interpretation of quantitative information about chemical systems will be discussed in principle and used in the laboratory. Students are required to have completed Chem2210 prior to enrolling in Chem2230. Spring Prerequisite: CHEM 2210 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2410 Principles of Organic Chemistry I",
+    "courseid": "CHEM 2410",
+    "coursedescription": "Fundamental course in organic chemistry based upon the modern concepts of structure and mechanism of reactions. Fall or Spring Prerequisite: CHEM 1021 OR CHEM 1022 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1021",
+      "CHEM 1022"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2411 Principles of Organic Chemistry I with Laboratory",
+    "courseid": "CHEM 2411",
+    "coursedescription": "Fundamental course in organic chemistry based upon the modern concepts of structure and mechanism of reactions. Laboratory included. Prerequisite: CHEM 1021 OR CHEM 1022 OR CHEM 1161 Corequisite: CHEM 2412 1.5 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1021",
+      "CHEM 1022",
+      "CHEM 1161"
+    ],
+    "course-corequisites": [
+      "CHEM 2412"
+    ],
+    "other": {
+      "notes": [
+        "Prerequisite: CHEM 1021 OR CHEM 1022 OR CHEM 1161 Corequisite: CHEM 2412 1.5 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 2412 Principles of Organic Chemistry I Laboratory",
+    "courseid": "CHEM 2412",
+    "coursedescription": "Lab for CHEM 2411 : Principles of Organic Chemistry I with Laboratory Corequisite: CHEM 2411",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "CHEM 2411"
+    ],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Lab for CHEM 2411 : Principles of Organic Chemistry I with Laboratory Corequisite: CHEM 2411"
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 2420 Principles of Organic Chemistry II",
+    "courseid": "CHEM 2420",
+    "coursedescription": "Continuation of CHEM 2410 : Principles of Organic Chemistry I. Fall or Spring Prerequisite: CHEM 2410 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2421 Principles of Organic Chemistry II with Laboratory",
+    "courseid": "CHEM 2421",
+    "coursedescription": "Continuation of CHEM 2411 : Principles of Organic Chemistry I with Laboratory Prerequisite: CHEM 2411 Corequisite: CHEM 2422 1.5 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2411"
+    ],
+    "course-corequisites": [
+      "CHEM 2422"
+    ],
+    "other": {
+      "notes": [
+        "Continuation of CHEM 2411 : Principles of Organic Chemistry I with Laboratory Prerequisite: CHEM 2411 Corequisite: CHEM 2422 1.5 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 2422 Principles of Organic Chemistry II Laboratory",
+    "courseid": "CHEM 2422",
+    "coursedescription": "Lab for CHEM 2421 : Principles of Organic Chemistry II with Laboratory Prerequisite: CHEM 2411 Corequisite: CHEM 2421",
+    "course-prerequsities": [
+      "CHEM 2411"
+    ],
+    "course-corequisites": [
+      "CHEM 2421"
+    ],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Lab for CHEM 2421 : Principles of Organic Chemistry II with Laboratory Prerequisite: CHEM 2411 Corequisite: CHEM 2421"
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 2425 Organic Chemistry II: Principles of Organic Chemistry with applications in Chemical Biology",
+    "courseid": "CHEM 2425",
+    "coursedescription": "This course is functionally equivalent to CHEM 2420 : Principles of Organic Chemistry II as the second term of CHEM 2410 : Principles of Organic Chemistry I, placing the content in the context of biology and medicine. Topics include: 1) alkyl compounds, ethers, epoxides and sulfides in lipids; 2) carboxylic acids and amines in amino acids; 3) aromatic compounds and heterocycles in nucleic acids; and 4) ketones and aldehydes in carbohydrates. The synthesis and mechanism of action of pharmaceuticals that feature these functional groups will also be discussed. Additionally, this course makes use of 3D structure tutorials, recitation sections and visits from biomedical scientists who make use of chemistry in their work. Spring Prerequisite: CHEM 2410 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2451 Experimental Organic Chemistry A",
+    "courseid": "CHEM 2451",
+    "coursedescription": "A basic laboratory course in which both the theoretical and practical aspects of a variety of organic reactions and multistep syntheses are emphasized. Modern chromatographic, instrumental, and spectroscopic techniques are applied to experimental organic chemistry. CHEM 2410 is a required co-requisite for CHEM 2451 for Penn undergraduate students. LPS students may take CHEM 2410 as a pre-requisite or a co-requisite to CHEM 2451 . Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "CHEM 2451",
+      "CHEM 2410"
+    ],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 2452 Experimental Organic Chemistry B",
+    "courseid": "CHEM 2452",
+    "coursedescription": "A basic laboratory course in which both the theoretical and practical aspects of a variety of organic reactions and multistep syntheses are emphasized. Modern chromatographic, instrumental, and spectroscopic techniques are applied to experimental organic chemistry. CHEM 2420 is a required co-requisite for CHEM 2452 for Penn undergraduate students. LPS students may take CHEM 2420 (or equivalent) as a pre-requisite or a co-requisite to CHEM 2452 . Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "CHEM 2452",
+      "CHEM 2420"
+    ],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 2460 Advanced Synthesis and Spectroscopy Laboratory",
+    "courseid": "CHEM 2460",
+    "coursedescription": "Advanced laboratory work on the synthesis, structure, and properties of organic and inorganic compounds. Infrared, ultraviolet, and nuclear magnetic resonance spectroscopy. Lectures cover the theoretical basis and applications of modern spectroscopic methods. Fall Prerequisite: ( CHEM 2420 OR CHEM 2425 ) AND CHEM 2610 Corequisite: CHEM 2610 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2420",
+      "CHEM 2425",
+      "CHEM 2610"
+    ],
+    "course-corequisites": [
+      "CHEM 2610"
+    ],
+    "other": {
+      "notes": [
+        "Fall Prerequisite: ( CHEM 2420 OR CHEM 2425 ) AND CHEM 2610 Corequisite: CHEM 2610 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 2510 Principles of Biological Chemistry",
+    "courseid": "CHEM 2510",
+    "coursedescription": "Fundamentals of biological chemistry, including the structure of biological macromolecules and their mechanism of action, intermediary metabolism, and the chemical basis of information transfer. Course can be taken concurrently with CHEM 2420 or CHEM 2425 . Fall or Spring Prerequisite: CHEM 1021 AND CHEM 2410 AND ( CHEM 2420 OR CHEM 2425 ) 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1021",
+      "CHEM 2410",
+      "CHEM 2420",
+      "CHEM 2425"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2610 Inorganic Chemistry I",
+    "courseid": "CHEM 2610",
+    "coursedescription": "An introductory survey of the bonding, structure, and reactions of important metal and nonmetal compounds. Fall Prerequisite: CHEM 2410 AND ( CHEM 2420 OR CHEM 2425 ) 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2410",
+      "CHEM 2420",
+      "CHEM 2425"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2999 Directed Study and Seminar",
+    "courseid": "CHEM 2999",
+    "coursedescription": "Independent project under the direction of a faculty member conducting chemistry research. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 3999 Independent Research",
+    "courseid": "CHEM 3999",
+    "coursedescription": "Independent project under the direction of a faculty member conducting chemistry research. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 4950 High Throughput Discovery: A Multidisciplinary Approach to Cancer",
+    "courseid": "CHEM 4950",
+    "coursedescription": "The newly developed massively parallel technologies have enabled the simultaneous analysis of many pathways. There are several large scale international efforts to probe the genetics and drug sensitivity of cancer cell lines. However, there are some rare cancers that have not been analyzed in depth. One of these rare cancers is malignant peripheral nerve sheet tumors (MPNST). MPNST, although a rare cancer, are common in patients with neurofibromatosis type. In the course, students will take part in a high throughput discovery effort in two phases. Phase 1 is a training phase, which will consist of quantitative profiling the sensitivity of MPNST cell lines to a library of >120 common and experimental cancer drugs. These will be conducted in the UPenn High Throughput Screening Core. (http://www.med.upenn.edu/cores/High-ThroughputScreeningCore.shtml). While we call this a training phase, the data from this will be subject to rigorous quality control for eventual publication and development of a public database for rare tumors. Phase 2 is an independent research project. Examples of projects include, but are not limited to: Combinatorial screens (synthetic lethal); siRNA screens; novel compound screens; determining mechanisms of cell death; developing tools for data analysis and database development. During phase 2, students will also modify compounds of interest using the Penn Chemistry: Upenn/Merck High Throughput Experimentation Laboratory (https://www.chem.upenn.edu/content/penn-chemistry-upennmerck-high-throughput-experimentation-laboratory), and then retest them for activity to determine structure activity relationships. We will sponsor phase 2 projects relevant to neurofibromatosis. However, in phase two students can also research other areas if they develop sponsorships from professors. We expect the course to be a hypothesis engine that generates ideas for further research. Prerequisites include a strong foundation in biology and chemistry. Students will prepare an abstract proposal by week three on their phase 2 project, and a report, in scientific paper style, due on the last day of the semester. Spring Also Offered As: PHRM 4950 1 Course Unit",
+    "course-prerequsities": [
+      "PHASE 2",
+      "PHRM 4950"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Examples of projects include, but are not limited to: Combinatorial screens (synthetic lethal); siRNA screens; novel compound screens; determining mechanisms of cell death; developing tools for data analysis and database development.",
+        "During phase 2, students will also modify compounds of interest using the Penn Chemistry: Upenn/Merck High Throughput Experimentation Laboratory (https://www.chem.upenn.edu/content/penn-chemistry-upennmerck-high-throughput-experimentation-laboratory), and then retest them for activity to determine structure activity relationships."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 5210 Statistical Mechanics I",
+    "courseid": "CHEM 5210",
+    "coursedescription": "Principles of statistical mechanics with applications to systems of chemical interest. Fall Prerequisite: CHEM 2220 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2220"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Principles of statistical mechanics with applications to systems of chemical interest."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 5220 Statistical Mechanics II",
+    "courseid": "CHEM 5220",
+    "coursedescription": "A continuation of CHEM 5210 . The course will emphasize the statistical mechanical description of systems in condensed phases. Spring Prerequisite: CHEM 5210 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 5210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5230 Quantum Chemistry I",
+    "courseid": "CHEM 5230",
+    "coursedescription": "The principles of quantum theory and applications to atomic systems. Fall Prerequisite: CHEM 2210 AND MATH 1410 AND MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2210",
+      "MATH 1410",
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5240 Quantum Chemistry II",
+    "courseid": "CHEM 5240",
+    "coursedescription": "Approximate methods in quantum theory and applications to molecular systems. Topics may include: electronic structure, configuration interaction, DFT, TD-DFT and response theory, electronic dynamics, semiclassical dynamics, vibrational density of states. Spring Prerequisite: CHEM 5230 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 5230"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5250 Molecular Spectroscopy",
+    "courseid": "CHEM 5250",
+    "coursedescription": "This course is broken into two sections: (1) optics, and (2) theory of spectroscopy including the discussion of techniques and examples. In the first section you will be introduced to both linear and nonlinear optics, through thinkling about how to design optical components in the laboratory setting. the second part of the course is a more traditional spectroscopy course, where different spectroscopies in the visible and infrared spectral region will be discussed. This part of the course will focus on understanding what we can learn from using specroscopy and what sort of dynamical processes can be observed with different spectroscopic techniques. Topics to be covered include, but are not limited to: optics, time-dependent perturbation theory, lineshapes, density matrix, group theory, selection rules. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Topics to be covered include, but are not limited to: optics, time-dependent perturbation theory, lineshapes, density matrix, group theory, selection rules."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 5260 Chemical Dynamics",
+    "courseid": "CHEM 5260",
+    "coursedescription": "Theoretical and experimental aspects of important rate processes in chemistry. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5410 Chemical Kinetics",
+    "courseid": "CHEM 5410",
+    "coursedescription": "This course a high level overview of methods for the study of organic, organometallic, and inorganic reaction mechanism. CHEM 4410 (Mechanisms) or CHEM 5640 (Organometallics) is required. The course will survey thermodynamic and kinetic measurements used in understanding chemical reactions. Topics include kinetic measurements and interpretation, Arrhenius theory, Eyring theory, kinetic isotope effects, Hammett analyses, and electronic structure calculations. Articles discussing these techniques in delineating the reaction mechanisms for problems of current interest will be analyzed. The focus will be on experiments that can be accomplished with readily available analytical tools (NMR, IR, UV, GC, HPLC) and how an understanding of mechanism can be used to optimize reaction yields and selectivities. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Articles discussing these techniques in delineating the reaction mechanisms for problems of current interest will be analyzed."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 5411 Physical Organic Chemistry",
+    "courseid": "CHEM 5411",
+    "coursedescription": "CHEM 5411 is a high level overview of classical physical organic chemistry. Undergraduate organic chemistry is a prerequisite. The course is divided into three parts. The first part will be an overview of organic bonding (basic molecular orbital theory, anomeric effect), structure (bond lengths, bond angles, conformational analysis), and properties (electronegativity, nucleophilicity, electrophilicity, acidity, basicity). The second part will be a brief overview of current computational methods including molecular mechanics, Hartree Fock, and density functional calculations. The focus will be on practical applications rather than the theory behind the calculations; students will be able to assess which calculations are most appropriate for a given task. The last part of the course will survey thermodynamic and kinetic measurements used in understanding organic chemical reactions. Topics include Hammett analyses, kinetic measurements and interpretation, the Hammond postulate, Arrhenius theory, Eyring theory, and kinetic isotope effects. Articles discussing these techniques in delineating the organic reaction mechanisms for problems of current interest will be analyzed. The focus will be on experiments that can be accomplished with readily available analytical tools (NMR, IR, UV, GC, HPLC) and how simple physical organic analyses can be used to optimize reaction yields and selectivities. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Articles discussing these techniques in delineating the organic reaction mechanisms for problems of current interest will be analyzed."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 5412 Physical Organic Chemistry I",
+    "courseid": "CHEM 5412",
+    "coursedescription": "Physical Organic I is an introduction to advanced physical organic chemistry. Mechanism drawing with arrows to denote the movement of an electron density will be a unifying theme. The course will overview organic bonding (basic molecular orbital theory, anomeric effect), structure (bond lengths, bond angles, delocalization and resonance, conformational analysis), and reactivity (electronegativity, nucleophilicity, electrophilicity, acidity, basicity, stereoelectronics).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 5413 Physical Organic 2",
+    "courseid": "CHEM 5413",
+    "coursedescription": "This course a high level overview of methods for the study of organic, organometallic, and inorganic reaction mechanism. The preceding course Chem 5412 or its equivalent must be taken before this course. The course will briefly review basic mechanistic conventions (arrows, radical intermediates, etc.) and then more onto a survey thermodynamic and kinetic measurements used in understanding chemical reactions. Topics include kinetic measurements and interpretation, Arrhenius theory, Eyring theory, kinetic isotope effects, Hammett analyses, and electronic structure calculations. Articles discussing these techniques in delineating the reaction mechanisms for problems of current interest will be analyzed. The focus will be on experiments that can be accomplished with readily available analytical tools (NMR, IR, UV, GC, HPLC) and how an undertanding of mechanism can be used to optimize reaction yields and selectivities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Articles discussing these techniques in delineating the reaction mechanisms for problems of current interest will be analyzed."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 5430 Modern Organic Synthesis",
+    "courseid": "CHEM 5430",
+    "coursedescription": "Introduction to advanced organic synthesis. Study of important synthetic reactions including: oxidations, reductions, and methods for the formation of carbon-carbon bonds, with an emphasis in chemoselectivity, stereoselectivity and asymmetric synthesis. Survey of modern methods for the synthesis of small, medium and large ring systems. Analysis of modern synthetic strategies, with illustrative examples from total synthesis of natural and unnatural products. Fall Prerequisite: CHEM 5440 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 5440"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5431 Advanced Organic Chemistry 1",
+    "courseid": "CHEM 5431",
+    "coursedescription": "This course focuses on organic reactions, reaction mechanisms, and the strategic applications of these reactions in organic synthesis. Topics include symmetry, stereochemistry, stereoselectivity, olefinations, olefin metathesis, transition-metal catalyzed cross couplings, cycloadditions, electrocyclizations, sigmatropic rearrangements, and other pericycylic reactions. The material will be illustrated by applications in multistep chemical synthesis. Based on this course, students should be able to read the modern literature, develop independent research proposals in organic chemistry, and succeed in graduate school. Recommended prerequisites: A basic understanding of Lewis structures, molecular orbitals, hybridization, arrow pushing, stability, and reactivity.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Recommended prerequisites: A basic understanding of Lewis structures, molecular orbitals, hybridization, arrow pushing, stability, and reactivity."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 5432 Advanced Organic Chemistry 2",
+    "courseid": "CHEM 5432",
+    "coursedescription": "This half-semester course continues to emphasize organic reactions, reaction mechanisms, and their strategic applications in complex molecule synthesis. Topics covered include oxidations, reductions, carbon-carbon bond formations, and strategic applications of protecting groups. Prerequisite: CHEM 5412 AND CHEM 5431",
+    "course-prerequsities": [
+      "CHEM 5412",
+      "CHEM 5431"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 5440 Organic Reaction Mechanisms",
+    "courseid": "CHEM 5440",
+    "coursedescription": "Study of important types of reactions and functional groups, with emphasis on synthetic usefulness, mechanisms, and stereoelectronic principles. Fall Prerequisite: CHEM 2420 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5450 Chemical Neuroscience",
+    "courseid": "CHEM 5450",
+    "coursedescription": "Natural products, such as tetrodotoxin, kainic acid and morphine, have played a crucial role in the development of neuroscience. Using selected chemical syntheses as a framework, I will provide an introduction to neuroscience for chemists blended with an intense course in synthetic design (\"Syntheseplanung\"). The structure, function and synthesis of the following molecules will be analyzed: tetrodotoxin, saxitoxin, kainic acid, nicotine, epibatidine, coniine, tubocurarine, histrionicotoxin, ibotenic acid, strychnine, picrotine, chrysanthemic acid, ivermectin, muscarine, morphine, salvinorin A, THC, lysergic acid, forskolin, staurosporin, eglumegad, physostigmine, huperzin A, galanthamine, cocaine, reserpine, thapsigargin, ouabagenin, ryanodine, capsaicin, resiniferatoxin, retinal, carotene, menthol, santalol, camphor, and the prostaglandins. The structure and function of important ion channels, GPCRs, transporters and enzymes and their ligands will be discussed using PyMol files. The goal of this course is to get as many synthetic chemists excited about neuroscience as possible (and a few neuroscientists stoked about synthesis). The importance of structural and pharmacological databases (PDB and IUPHAR, respectively) and the usefulness of the Reaxys database (and SciFinder) for synthetic planning will be demonstrated. Requirements: A familiarity with synthetic organic chemistry and (named) chemical reactions, a mastery of the Nernst equation, and a willingness to learn more about one of the greatest, if not the greatest scientific challenges of our times: to figure out how the human brain work",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 5510 Biological Chemistry I",
+    "courseid": "CHEM 5510",
+    "coursedescription": "Structure, dynamics, and function of biological macromolecules. Properties of macromolecular assemblies, membranes and their compartments. (Formerly, CHEM 450-I). Fall Prerequisite: ( CHEM 2420 OR CHEM 2425 ) AND CHEM 2210 AND CHEM 2510 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2420",
+      "CHEM 2425",
+      "CHEM 2210",
+      "CHEM 2510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5520 Biological Chemistry II",
+    "courseid": "CHEM 5520",
+    "coursedescription": "Physical and chemical description of macromolecular information transfer. Gene organization, replication, recombination, regulation and expression. (Formerly, CHEM 450-II). Spring Prerequisite: ( CHEM 2420 OR CHEM 2425 ) AND CHEM 2220 AND CHEM 2510 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2420",
+      "CHEM 2425",
+      "CHEM 2220",
+      "CHEM 2510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5530 Methods for in vivo biochemical discovery",
+    "courseid": "CHEM 5530",
+    "coursedescription": "The course surveys the chemical machinery of the cell, post-translational modifications of proteins and catalytic machinery of enzymes. Through this survey, students will become familiar with the cellular proteome and its facinating functions and dysfunctions that drive normal physiology and disease states of the cell. Current technologies for in vivo function assignment and unbiased drug-target discovery will be reviewed. Example topics include gene editing, protein profiling, targeted degradation, high-throughput drug screening and quantitative analysis of proteomes/metabolomes from native biological systems. The course couples in-class lecture and discussion with research demonstrations of select methods used for discovery. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 5570 Mechanisms of Biological Catalysis",
+    "courseid": "CHEM 5570",
+    "coursedescription": "Reaction mechanisms in biological (enzymes, abzymes, ribozymes) and biomimetic systems with emphasis on principles of catalysis, role of coenzymes, kinetics, and allosteric control. Fall or Spring Prerequisite: CHEM 2420 AND ( CHEM 2510 OR BIOL 2810 ) 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2420",
+      "CHEM 2510",
+      "BIOL 2810"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5571 Enzyme Structure and Catalysis",
+    "courseid": "CHEM 5571",
+    "coursedescription": "This course will outline the physical chemical basis for enzyme catalysis. The kinetics and thermodynamics of substrate and inhibitor interactions will be discussed prior to an examination of paradigm systems. Topics will include enzymes involved in the regulation of various cellular functions, including proteases, enzymes of natural products biosynthesis, and enzymes of epigenetics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 5580 Biomolecular Spectroscopy and Microscopy",
+    "courseid": "CHEM 5580",
+    "coursedescription": "CHEM 5580 covers basic fluorescence spectroscopy and microscopy, as well as advanced topics such as single molecule spectroscopy and non-linear and super-resolution microscopies. There are weekly homework assignments that include problems based on the lectures as well as journal club style reports on by pairs of students on papers relevant to the course material. Fall Also Offered As: BMB 5580",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 5620 Inorganic Chemistry II",
+    "courseid": "CHEM 5620",
+    "coursedescription": "A detailed treatment of the theory and application of modern physical methods for the elucidation of structure and mechanism in inorganic and organometallic chemistry. An introduction to symmetry and group theory is followed by the application of these concepts to vibrational and electronic spectroscopy of inorganic complexes. Magnetic resonance is discussed in detail, including topics such as EPR, fourier transform methods, dynamic systems, and 2-dimensional NMR. Fall or Spring Prerequisite: CHEM 2610 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 2610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5621 Inorganic Chemistry II-A",
+    "courseid": "CHEM 5621",
+    "coursedescription": "This course provides an introduction to key concepts in inorganic chemistry, including an overview of the origins of periodic trends, an introduction to various bonding theories (crystal field theory, valence bond theory, and molecular orbital theory), and the kinetics of elementary reactions of coordination complexes. Density functional theory calculations will be performed by students (no experience necessary) to support key concepts developed in the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 5622 Inorganic Chemistry II-B",
+    "courseid": "CHEM 5622",
+    "coursedescription": "Material in this course will survey the synthesis, structure, and chemical properties of inorganic complexes from across the periodic table. The content will make use of thermodynamic and kinetic data, in conjunction with molecular orbital theory, to understand trends in bonding. Density functional theory calculations will be performed by students (no experience necessary) to support key concepts developed in the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 5640 Organometallics",
+    "courseid": "CHEM 5640",
+    "coursedescription": "This course is focused on molecular species that contain metal-carbon bonds, and the role of these compounds in catalytic processes and organic synthesis. Aspects of the synthesis, structure and reactivity of important classes of organometallic compounds such as metallo alkyl, aryl, alkene, alkylidene and alkylidyne complexes are surveyed for the d and f block metals. Emphasis is placed on general patterns of reactivity and recurring themes for reaction mechanisms. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5650 Main Group Chemistry",
+    "courseid": "CHEM 5650",
+    "coursedescription": "This course encompasses a comprehensive survey of the chemistry and properties of the p-block elements of the periodic table. Topics include syntheses, structures and reactivities of important compounds. In addition, alternative bonding theories which have been used to explain the unique properties of thesecompounds are critically examined. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 5670 Bio-inorganic Chemistry",
+    "courseid": "CHEM 5670",
+    "coursedescription": "The course covers selected topics in bioinorganic chemistry; special emphasis is placed on dioxygen chemistry and electron transfer processes. Course topics include: (i) oxygen uptake and utilization; (ii) diatomic oxygen trans port; (iii) diatomic and monoatomic oxygen incorporation into substrates; (iv) metalloenzyme-catalyzed C-C bond formation; (v) the metallobiochemistry of DNA; (vi) metal-sulfide proteins; (vii) manganese-containing metalloproteins; (viii) Photosystem II: light-driven electron transfer and the biological water-splitting reaction; (ix) biological electron transfer; (x) electron transfer theory; (xi) mechanisms of energy storage and release; and (xii) long-distance electron transfer reactions. Fall or Spring Also Offered As: BMB 5670 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 6010 Chemical Information",
+    "courseid": "CHEM 6010",
+    "coursedescription": "This course examines the structure and organization of the chemical literature and introduces techniques of searching this literature, focusing on the logic and thought processes necessary for effective information retrieval. Each technique is illustrated using information tools available at the University of Pennsylvania, and we take an \"under the hood\" look at the organization and functionality of each tool introduced. Students should choose a course section based on their preferred area of chemistry research: organic, inorganic, biological, and physical chemistry; all four sections are taught at a level appropriate for graduate students and advanced undergraduates. Topics vary by section, but all students learn the basics of subject, author, structure, and reaction searching, and a unit on ethics in publication and scholarly communication completes the course. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 6011 Chemical Information for Biological Chemists",
+    "courseid": "CHEM 6011",
+    "coursedescription": "This course examines the structure and organization of the chemical literature in the field of biological chemistry and introduces techniques used to search this literature, focusing on the logic and thought processes necessary for effective information retrieval. The course takes an \"under the hood\" look at the organization and functionality of a variety of different databases and search systems, and, while learning information retrieval skills, students gradually become familiar with the structure of the chemical literature, the purposes of each genre, and the steps of the scientific publication process. Search skills are taught using a combination of lecture and laboratory activities, and students learn advanced text-based search techniques, protein and nucleotide sequence and structure similarity search strategies, basic substructure and reaction search strategies, and methods of retrieving property information and profiling substances by their properties. Students will also undertake a detailed examination protein and small molecule crystal structure databases. In addition to search skills, the students are exposed to strategies for choosing a publication venue; the use and limitations of citation information when evaluating authors, institutions, and journals; and the basic principles behind peer review. The semester closes with a brief introduction to personal data management and an in-depth discussion of the ethics surrounding scientific communication. The course is taught at a level appropriate for graduate students and advanced undergraduates and requires permission of the instructor to register. Undergraduate students should have taken two semesters of organic chemistry prior to enrolling. Students should have an interest in biochemistry or molecular biology research. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is taught at a level appropriate for graduate students and advanced undergraduates and requires permission of the instructor to register.",
+        "Students should have an interest in biochemistry or molecular biology research."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 6012 Chemical Information for Inorganic and Materials Chemists",
+    "courseid": "CHEM 6012",
+    "coursedescription": "This course examines the structure and organization of the chemical literature in the field of inorganic and materials chemistry and introduces techniques used to search this literature, focusing on the logic and thought processes necessary for effective information retrieval. The course takes an \"under the hood\" look at the organization and functionality of a variety of different databases and search systems, and, while learning information retrieval skills, students gradually become familiar with the structure of the chemical literature, the purposes of each genre, and the steps of the scientific publication process. Search skills are taught using a combination of lecture and laboratory activities, and students learn advanced text-based search techniques; advanced substructure and composition searches, with an emphasis on organometallic and inorganic substances and crystal structure data; reaction search techniques, focusing on catalyzed reactions; and methods of retrieving property information and profiling substances and materials by their properties. In addition to search skills, the students are exposed to strategies for choosing a publication venue; the use and limitations of citation information when evaluating authors, institutions, and journals; and the basic principles behind peer review. The semester closes with a brief introduction to personal data management and an in-depth discussion of the ethics surrounding scientific communication. The course is taught at a level appropriate for graduate students and advanced undergraduates and requires permission of the instructor to register. Undergraduate students should have taken two semesters of organic chemistry prior to enrolling. Students should have an interest in organometallic, inorganic, or materials chemistry. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is taught at a level appropriate for graduate students and advanced undergraduates and requires permission of the instructor to register.",
+        "Students should have an interest in organometallic, inorganic, or materials chemistry."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 6013 Chemical Information for Organic Chemists",
+    "courseid": "CHEM 6013",
+    "coursedescription": "This course examines the structure and organization of the chemical literature in the field of organic chemistry and introduces techniques used to search this literature, focusing on the logic and thought processes necessary for effective information retrieval. The course takes an \"under the hood\" look at the organization and functionality of a variety of different databases and search systems, and, while learning information retrieval skills, students gradually become familiar with the structure of the chemical literature, the purposes of each genre, and the steps of the scientific publication process. Search skills are taught using a combination of lecture and laboratory activities, and students learn advanced text-based search techniques, complex substructure and reaction search techniques, methods of using the literature for retrosynthetic analysis, and methods of retrieving property information and profiling substances by their properties. In addition to search skills, the students are exposed to strategies for choosing a publication venue; the use and limitations of citation information when evaluating authors, institutions, and journals; and the basic principles behind peer review. The semester closes with a brief introduction to personal data management and an in-depth discussion of the ethics surrounding scientific communication. The course is taught at a level appropriate for graduate students and advanced undergraduates and requires permission of the instructor to register. Undergraduate students should have taken two semesters of organic chemistry prior to enrolling. Students should have an interest in organic chemistry research. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is taught at a level appropriate for graduate students and advanced undergraduates and requires permission of the instructor to register.",
+        "Students should have an interest in organic chemistry research."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 6014 Chemical Information for Physical Chemists",
+    "courseid": "CHEM 6014",
+    "coursedescription": "This course examines the structure and organization of the chemical literature in the fields of physical and theoretical chemistry chemistry and introduces techniques used to search this literature, focusing on the logic and thought processes necessary for effective information retrieval. The course takes an \"under the hood\" look at the organization and functionality of a variety of different databases and search systems, and, while learning information retrieval skills, students gradually become familiar with the structure of the chemical literature, the purposes of each genre, and the steps of the scientific publication process. Because of the diversity of research foci in physical and theoretical chemistry, the course is survey in nature, devoting time to a wide variety of tools and search strategies and demonstrating Penn’s collections in chemistry, mathematics, physics, materials science, and engineering. In addition to teaching search skills, we briefly examine methods of choosing a publication venue and the use and limitations of citation information when evaluating authors, institutions, and journals. The semester closes with a brief introduction to personal data management and a discussion of the ethics surrounding scientific communication. The course is taught at a level appropriate for graduate students and advanced undergraduates and requires permission of the instructor to register. Undergraduate students should have taken two semesters of organic chemistry prior to enrolling. Students should have an interest in physical or theoretical chemistry research. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "The course is taught at a level appropriate for graduate students and advanced undergraduates and requires permission of the instructor to register.",
+        "Students should have an interest in physical or theoretical chemistry research."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 6520 Proposal Writing for Biological and Physical Chemists",
+    "courseid": "CHEM 6520",
+    "coursedescription": "Students will learn the key components in proposal writing and develop the skills needed to prepare a compelling and original graduate research proposal. The course involves significant writing, in-class discussions and presentations. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 6620 Proposal Writing for Inorganic and Organic Chemists",
+    "courseid": "CHEM 6620",
+    "coursedescription": "The ability to communicate original, written research proposals is essential to the modern chemist. This course, for graduate students in the organic and inorganic divisions, will promote development of proposal writing skills. Students will develop original ideas, practice written work, graphic design and peer review. Outcomes of the course will include writing (and submission, when eligible) of an NSF GRFP application and a 'proposed work' section of a candidacy exam report. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7210 Mathematics for Chemistry",
+    "courseid": "CHEM 7210",
+    "coursedescription": "This course examines the basic mathematics needed for physical chemistry, including (but not limited to) a brief review of linear algebra, Fourier transforms, delta functions, optimization, and the residue theorem. Depending on the year, selected other topics will also be included. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "This course examines the basic mathematics needed for physical chemistry, including (but not limited to) a brief review of linear algebra, Fourier transforms, delta functions, optimization, and the residue theorem."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 7230 Dynamics of Polymers",
+    "courseid": "CHEM 7230",
+    "coursedescription": "This course discussed the structure of polymers from a statistical physics point of view as well as dynamical response of polymeric systems such as mechanical response of polymer melts, polymer glass transition, properties of polymers in solutions, and properties of block co-polymers and ionomers. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7240 Special Topics in Physical Chemistry",
+    "courseid": "CHEM 7240",
+    "coursedescription": "will vary based on semester 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 7410 Spectroscopy",
+    "courseid": "CHEM 7410",
+    "coursedescription": "The course will provide a continuation of material covered in CHEM 5440 and CHEM 5410 , as well as spectroscopy of organic compounds focused mainly on NMR. Topics will include advanced organic mechanisms, electronic structure calculations of organic molecules related to their structure, reactivity, and spectroscopic properties, and Organic Spectroscopic methods for the determination of structure using NMR. Spring Prerequisite: CHEM 5440 AND CHEM 5410",
+    "course-prerequsities": [
+      "CHEM 5440",
+      "CHEM 5410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7411 Mass Spectrometry",
+    "courseid": "CHEM 7411",
+    "coursedescription": "A Mass Spectrometry introductory course describing MS history, key ionization methods, mass analyzers, and MS methods for structure elucidation. The successful participant will be able to: Extract key information from stable isotope distribution patterns. Interpret key mass spectral fragment/product ions from a spectrum when acquired. Understand the differences between the major ionization sources. Understand the differences between the major mass analyzers. Determine reasonable ionization methods and analyzers for a sample or project.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7412 NMR Spectroscopy",
+    "courseid": "CHEM 7412",
+    "coursedescription": "The course will focus on Essential Practical NMR for Chemistry. Topics will include structure elucidation with 1D and 2D NMR spectra, how to obtain high quality NMR spectra on spectrometers, data processing with NMR software such as MNova and TOPSPIN, multi-nuclei NMR including 31P, 19F, 11B, 15N and 2H etc., dynamic and kinetic NMR, and some techniques to provide high resolution 2D NMR spectra. Spring Prerequisite: CHEM 5440 AND CHEM 5410",
+    "course-prerequsities": [
+      "CHEM 5440",
+      "CHEM 5410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7420 Medicinal Chemistry and Drug Design I",
+    "courseid": "CHEM 7420",
+    "coursedescription": "This course focuses on concepts and strategies in medicinal chemistry, and how it is applied to modern drug discovery and development. Topics include the drug discovery process, drug targets (GRCR?s, enzymes, channels etc.), physical chemistry of molecular interactions between drug and target, drug design, methods for hit and lead identification, lead optimization, chemical biology, natural products chemistry and combinatorial and diversity oriented synthesis. This course is geared to upper level undergraduate students in chemistry or biochemistry, and first year chemistry graduate students. A strong understanding of organic chemistry is required. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7421 Medicinal Chemistry and Drug Design II",
+    "courseid": "CHEM 7421",
+    "coursedescription": "This course focuses on concepts and strategies in medicinal chemistry, and how it is applied to modern drug discovery and development. Med Chem II builds on the material in Med Chem I and focuses on specific drug targets such as enzyme, G-protein coupled receptors, channels, nucleic acids and protein-protein interactions. Additionally, therapeutics area specific medicinal chemistry and drug discovery applications will be covered including anti-cancer agents, anti-infectives (antibiotics and anti-virals), and therapeutics to treat psychiatric and neurodegenerative disorders. This course is geared to upper level undergraduate students in chemistry or biochemistry and graduate students. Completion of Session I is a prerequisite. Prerequisite: CHEM 7420",
+    "course-prerequsities": [
+      "CHEM 7420"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7430 Heterocyclic Chemistry",
+    "courseid": "CHEM 7430",
+    "coursedescription": "The course deals with topics in Heterocyclic Chemistry. It covers nitrogen-containing monocyclic hetero rings, examining the most recent syntheses, the reactions and their mechanisms. The course will focus on recent variations and improvements of known heterocycles as well as their synthetic utility. Students will be expected to read critically a recent article on heterocyclic chemistry and do a presentation to the class. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7440 Bioinspired Synthesis. Methods, Tactics, and Strategies.",
+    "courseid": "CHEM 7440",
+    "coursedescription": "This class will discuss selected topics related to Bioinspired synthesis, methods, tactics and strategies. Target molecules, methods and strategies are designed by using biological systems as models. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7450 Total Synthesis",
+    "courseid": "CHEM 7450",
+    "coursedescription": "The focus of this course comprise the development of two synthetic strategies to access architecturally complex natural products of biological significance exploiting innovative chemistry. Lectures towards this end are given. As a project, each studnet is given a different complex natural product and expected at the end of the course to deveop two strategies, one based on asymmetric induction to provide the absolute stereochemical structure, the second where the absolute stereochemistry derives from commercially available starting materials. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7451 Chemical Neuroscience, A Synthetic Approach",
+    "courseid": "CHEM 7451",
+    "coursedescription": "Natural products such as tetrodotoxin, kainic acid ,and morphine have played a crucial role in the development of neuroscience. Using selected chemical syntheses as a framework, I will provide an introduction to neuroscience for chemists blended with a course in synthetic design. The structure function and synthesis of the following molecules will be analyzed: tetrodotoxin, saxitoxin, kainic acid, nicotine epibatidine, coniine, histrionicotoxin, strychnine, chrysanthemic acid, morphine, salvinorin A, THC, lysergic acid, huperzin A. galanthamine, cocaine, reserpine, capsaicin. resiniferatoxin, retinal, carotene menthol, camphor and the prostaglandins. The structure and function of important ion channels, GPCRs transporters, and enzymes and their ligands will be discussed using PyMol files. Goals: The goal of this course is to get as many synthetic chemists excited about neuroscience as possible (and a few neuroscientists stoked about synthesis). The importance of structural and pharmacological databases (PDB and IUPHAR, respectively)m and the usefulness of the Reaxys database (and SciFinder) for synthetic planning will be demonstrated. Requirements: A familiarity with synthetic organic chemistry and (named) chemical reactions a mastery of the Nernst equation and a willingness to learn more about one of the greatest if not the greatest scientific challenges of our times: to figure out how the human brain works. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 7460 Intermediate Organic Chemistry",
+    "courseid": "CHEM 7460",
+    "coursedescription": "This course will include a review of basic reaction mechanisms, stereoelectronic effects, functional groups and acid-base chemistry. The course will emphasize the writing of mechanisms using the curved-arrow notation and organic reactions. Bonding and electronic structure theories and more involved mechanisms will be discussed. Students are expected to have a good working knowledge of reactions, functional groups, stereochemistry and mechanisms from undergraduate organic chemistry. Students will be expected to review basic concepts in Organic Chemistry and spectroscopy. The course will include lectures and recitations, and students are expected to attend and participate. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 7470 Bioanalytical Chemistry",
+    "courseid": "CHEM 7470",
+    "coursedescription": "This course will provide an introduction to methods and applications of contemporary biochemical techniques and instrumentation used for analysis of biomolecules, including proteins, DNA/RNA and metabolites. Topics covered will include chromatographic and electrophoresis, mass spectrometry, fluorescence microscopy for the detection, characterization and structural analysis of proteins, antibodies and nucleic acids. The focus of the course will be applications in bioanalysis, biopharmaceuticals and biotechnology. Spring Prerequisite: CHEM 5510 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 5510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 7480 Parallel Microscale Experimentation and Generation of Predictive Models",
+    "courseid": "CHEM 7480",
+    "coursedescription": "This course will cover the theory and experimental implementation of parallel microscale experimentation used in the development of chemical reaction processes with a focus on organic chemistry transformations. Coverage includes the precepts behind design of experiment as well as errors commonly encountered in parallel microscale experimentation. Basic machine learning principles will be covered with the goal of selecting appropriate substrate/catalyst selection and generating predictive models using RDKit and Python. There is a laboratory component which may extend outside of listed class hours. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 7510 Chemical Biology of Drug Discovery",
+    "courseid": "CHEM 7510",
+    "coursedescription": "This course will introduce topics in Chemical Biology and pharmacology and how they are applied for both basic and translational research. The course is focused on how basic science technology can be applied to discover a drug. The main components include: (1) selection of a disease with a focus on rare diseases (2) selection of a drug target, and (3) determining whether or not a small molecule interaction with that target can be expected to produce a therapeutic response. Key concepts of small molecule drug discovery are discussed throughout the course. Key technologies such as chemical proteomics and targeted degradation are covered. The advantages and disadvantages of therapeutic small molecules versus biologics will be discussed. Fall or Spring Also Offered As: BMB 7510 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 7610 Coordination Chemistry",
+    "courseid": "CHEM 7610",
+    "coursedescription": "Ligands have a remarkable ability to alter the properties of metal ions, and the study of this coordination chemistry underlies many modern advances in science, including energy harvesting and storage, chemical catalysis, and sustainability. This course explores the relationships between the identities of ligands and the physical manifestations that result from their binding to metal centers. Topics to be covered include: symmetry and chirality in molecular complexes, variations in coordination number, ligand field effects, recent advanced in bonding theory, and inorganic reaction mechanisms. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7620 X-ray I",
+    "courseid": "CHEM 7620",
+    "coursedescription": "An introduction to the theory and practice of small molecule structure determination by X-ray crystallography. Topics discussed include point group and space group symmetry, structure factor theory, data collection methodology and a survey of solution methods. The course will include case studies of real-world structure determinations and interpreting X-ray structures. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7630 X-ray II",
+    "courseid": "CHEM 7630",
+    "coursedescription": "A continuation of X-ray I. This course will focus on the practical component of X-ray crystallography. Students will use crystallographic software (OLEX2, CrysAlisPRO, ShelX suite) to solve, refine, and finish small molecule crystal structures. These will include case studies and crystallographic problems such as the various types of disorder and twinning. Fall or Spring Prerequisite: CHEM 7620",
+    "course-prerequsities": [
+      "CHEM 7620"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7640 Materials Chemistry",
+    "courseid": "CHEM 7640",
+    "coursedescription": "This course will provide an introduction of structure-property relationships in materials chemistry on length scales from atomic dimension up to the microscale and then draw on examples of Chemical design for \"Energy and Environmental Sustainability.\" We will introduce the \"12 Principles of Green Chemistry\" and \"12 Principles of Green Engineering\" as a guide to modern materials chemistry design and follow a trajectory that proceeds with increasing length scales of ordering in the solid state. We will introduce techniques of x-ray, neutron, electron, and ion beam based scattering, real space imaging and spectroscopies and use these to explore non-crystalline materials (amorphous, glasses, and time permitting quasicrystals and aperiodic systems) and crystalline solids. Studies will proceed from atomic scales through nanoscale, mesoscale, and micro-scale discussing the emergence of band structure and delcocalized electronic and optical properties that emerge due to the finite scale of ordering and influence of the surface. Select examples will be drawn from advances in materials for in solar energy utilization with photochemistry and photoelectrochemistry and materials for photovoltaic and enabling advances electrochemical energy conversion and storage. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 7650 Chemistry of the f-Block Elements",
+    "courseid": "CHEM 7650",
+    "coursedescription": "The course encompasses the descriptive chemistry, and topics related to, the f-block including the rare earth metals and actinides. Coverage includes coordination chemistry and periodic trends, electronic structure and magnetism, and modern applications of f-block chemistry including lanthanide ions as spectroscopic probes, separations chemistry, materials chemistry and applications, organo-f-element chemistry, the chemistry of the actinides and transactinides, and reactivity/catalysis with f-block compounds. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 7660 Electrochemistry: Methods and Chemical Applications",
+    "courseid": "CHEM 7660",
+    "coursedescription": "The goal of this course is for students to gain an understanding of the principles of electrochemistry along with some practical experience. Potentiometric methods will be discussed in the context of electrochemical equilibrium. Amperometric analytical methods -- chronoamperometry, chronocoulometry, stripping voltammetry, cyclic voltammetry, pulse polarography, AC impedance, and hydrodynamic methods -- will be described from the perspective of mathematical models of mass transport and electrode kinetics. As time permits, special topics and applications, such as electrochemical energy conversion, spectroelectrochemistry, photoelectrochemistry, ultramicroelectrodes, microfluidics, corrosion, electrochemical synthesis, and scanning electrochemical microscopy, will be covered. To complement and reinforce the material learned in class, students will fabricate electrodes, perform cyclic voltammetry and other experiments, and analyze electrochemical data. Equipment will be available in the instructor's research laboratory to do these experiments in small groups on students' own time outside of class. The instructor will provide out-of-class assistance to students who are not yet familiar with the use of electrochemical equipment. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 7670 Applications of Group Theory",
+    "courseid": "CHEM 7670",
+    "coursedescription": "This course will provide a fundamental understanding of symmetry, the character tables, how to derive these, and apply them in spectroscopy, and molecular orbital diagrams. The course will require some fundamental understanding of matrix algebra, and apply concepts of symmetry to derive character tables, predict spectroscopic properties of molecules, and derive molecular orbitals diagrams including hydridized orbitals.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CHEM 9997 Independent Study (Submat)",
+    "courseid": "CHEM 9997",
+    "coursedescription": "For students submatriculating in the Chemistry MS. Students carry out mentored research within the groups of individual faculty investigators on or near the Penn campus. Students commit a minimum of 15 hours/week to original research in their host laboratories. In addition to research and assignments, students meet to present and discuss scientific research. Course activities and assignments complement the research effort. Developing effective scientific presentations is an emphasis. Each student must contact the course instructor with information regarding research group (faculty principal investigator) in the spring term prior the fall term of CHEM 9997 . Two Term Class, Student may enter either term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 9999 Independent Study and Research",
+    "courseid": "CHEM 9999",
+    "coursedescription": "(1) Advanced study and research in various branches of chemistry. (2) Seminar in current chemical research. (3) Individual tutorial in advanced selected topics. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-4 Course Units"
+    }
+  }
+]

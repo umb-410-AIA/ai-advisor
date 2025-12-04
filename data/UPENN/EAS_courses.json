@@ -1,0 +1,600 @@
+[
+  {
+    "coursename": "EAS 0010 Pre-First Year Program in WRIT/MATH/BIOL",
+    "courseid": "EAS 0010",
+    "coursedescription": "This course will provide a preview of Engineering Mathematics at Penn, cover classical physics as applied to the kinematics and dynamics of static and moving bodies, provide a four week orientation to the School of Engineering and Applied Science, and give student experience in designing, writing, and debugging basic programs in Java. 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 0091 Chemistry Advanced Placement/International Baccalaureate Credit (Engineering Students Only)",
+    "courseid": "EAS 0091",
+    "coursedescription": "Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 0097 Embed Controlled Gardening",
+    "courseid": "EAS 0097",
+    "coursedescription": "A service course intended to integrate concepts of basic physics, biology and electronics and systems engineering for the benefit of Penn engineering students, teachers and students from two minority centered community public schools. The course will engage the participants in the design and implementation of indoors cultivating systems using photo-voltaic (PV) technology to energize LED emulating the needed solar radiation for plant growth, a liquid nutrient distribution system, sensors / actuators capable of selecting the harvestable plants and keeping track of overall system parameters. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2020 Rivers in a Changing World",
+    "courseid": "EAS 2020",
+    "coursedescription": "Like many cities, Philadelphia was built and developed around rivers. These rivers historically provided drinking water, food, power, trade routes, and recreation. Human development, however, has led to flooding, erosion and pollution; these factors degrade the ability of rivers to provide ecological habitat, and ultimately may turn rivers from a resource into a hazard. Unfortunately, lower income neighborhoods often bear the brunt of these negative impacts. In the face of climate change, extreme floods and erosion are only getting worse. The news, however, is not all bad. With improving understanding of environmental science and engineering, techniques that counteract flooding and clean up waterways are being developed and deployed. Armed with knowledge of science, citizens can become agents of change in their communities. It is in this context that we propose a partnership among Sayre High School, Penn’s Netter Center, and the School of Engineering and Applied Science, to develop an Academically Based Community Service (ABCS) course on “Rivers in a changing world”. We seek to take advantage of the newly refurbished Cobbs Creek Environmental Center, which will host a brand new environmental laboratory space. A Project for Progress award from Penn has provided additional funding for state of the art equipment, including a “stream table”; this is a laboratory river that allows interactive and discovery-driven learning. The unique setting of an environmental river laboratory that is just steps from a natural river (Cobbs Creek), and close to Sayre High School, presents a special opportunity for meaningful hands-on learning of Sayre students in collaboration with Penn undergraduates. Course material will be co-developed between Sayre and Penn participants, so that learning modules in the laboratory and natural river are connected to curriculum objectives. Sayre is a Netter Center university-assisted community school and Mr. Smith has worked with Penn students in his classrooms for many years. He has a desire to bring students to the Cobbs Creek Environmental Education Center for hands-on real world environmental education and problem solving. Therefore, this is an ideal partnership for this ABCS course. Also, there is also a need for more climate-related classes at Penn and this course addresses that need. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2030 Engineering Ethics",
+    "courseid": "EAS 2030",
+    "coursedescription": "In this course, students will study the social, political, environmental and economic context of engineering practice. Students will develop an analytical toolkit to identify and address ethical challenges and opportunities in the engineering profession, including studies of risk and safety, professional responsibility, and global perspectives. The course will begin with a foundation in the history of engineering practice and major Western ethical and philosophical theories. Students will then apply this material to both historical case studies, such as Bhopal, the NASA Shuttle Program, and Three Mile Island, as well as contemporary issues in big data, artificial intelligence, and diversity within the profession. Students will consider how engineers, as well as governments, the media, and other stakeholders, address such issues. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2040 Technical Innovation & Civil Discourse in a Dynamic World",
+    "courseid": "EAS 2040",
+    "coursedescription": "The promises of today's emerging technologies include longer, healthier lives; safer, faster, and more efficient transportation; and immediate, far-reaching communication mechanisms. Recent advances in machine learning, autonomous systems, nanomaterials, and neurotechnologies offer the potential to dramatically change the way our global society lives, works and shares information. With such prolific power, these technologies also pose new challenges and risks such as reduced individual privacy, political repercussions, and inequitable access to the benefits of technology. Rapid technological innovation often outpaces and challenges established legal regulations, cultural norms, and societal frameworks of communications. A robust civil discourse anchored in technical expertise, cultural context, and inclusivity can foster the optimization of the benefits of emerging technologies. This course is aimed in preparing undergraduate students to engage in and lead such discourses. The students will consider a series of engineering innovations from technical, legal and social perspectives and will hone the analytical and communication skills necessary to identify and address opportunities for civil discourse. Undergraduates must have passed the WRIT requirement. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2200 SEAS Global Program - Argentina I",
+    "courseid": "EAS 2200",
+    "coursedescription": "Penn Engineering's global and local service learning courses aim to improve human lives through sustainable engineering in all corners of the world. These courses offer students the opportunity to use their engineering skills to build solar powered heaters for renewable energy, water and sanitation infrastructure, orthotic devices for children, information technology support and meet other critical needs in areas around the world. Students must apply in early Fall semester to take these courses in the following Spring and Fall terms. There is a program fee associated with each course, but financial aid is available to qualified students. Each program is awards 2 CU of credit. For more information please visit: https://servelearn.seas.upenn.edu/about/ Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2210 SEAS Global Program - Argentina II",
+    "courseid": "EAS 2210",
+    "coursedescription": "Penn Engineering's global and local service learning courses aim to improve human lives through sustainable engineering in all corners of the world. These courses offer students the opportunity to use their engineering skills to build solar powered heaters for renewable energy, water and sanitation infrastructure, orthotic devices for children, information technology support, and meet other critical needs in areas around the world. Students must apply in early Fall semester to take these coursSpring. There is a program fee associated with each course, but financial aid is available to qualified students. Each program is awards 2 CU of credit. For more information please visit: https://servelearn.seas.upenn.edu/about/ Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2220 SEAS Global Program - China I",
+    "courseid": "EAS 2220",
+    "coursedescription": "Penn Engineering's global and local service learning courses aim to improve human lives through sustainable engineering in all corners of the world. These courses offer students the opportunity to use their engineering skills to build solar powered heaters for renewable energy, water and sanitation infrastructure, orthotic devices for children, information technology support and meet other critical needs in areas around the world. Students must apply in early Fall semester to take these courses in the following Spring and Fall terms. There is a program fee associated with each course, but financial aid is available to qualified students. Each program is awards 2 CU of credit. For more information please visit: https://servelearn.seas.upenn.edu/about/ Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2230 SEAS Global Program - China II",
+    "courseid": "EAS 2230",
+    "coursedescription": "Penn Engineering's global and local service learning courses aim to improve human lives through sustainable engineering in all corners of the world. These courses offer students the opportunity to use their engineering skills to build solar powered heaters for renewable energy, water and sanitation infrastructure, orthotic devices for children, information technology support and meet other critical needs in areas around the world. Students must apply in early Fall semester to take these courses in the following Spring and Fall terms. There is a program fee associated with each course, but financial aid is available to qualified students. Each program is awards 2 CU of credit. For more information please visit: https://servelearn.seas.upenn.edu/about/ Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2240 SEAS Global Program - Guatemala I",
+    "courseid": "EAS 2240",
+    "coursedescription": "Penn Engineering's global and local service learning courses aim to improve human lives through sustainable engineering in all corners of the world. These courses offer students the opportunity to use their engineering skills to build solar powered heaters for renewable energy, water and sanitation infrastructure, orthotic devices for children, information technology support and meet other critical needs in areas around the world. Students must apply in early Fall semester to take these courses in the following Spring and Fall terms. There is a program fee associated with each course, but financial aid is available to qualified students. Each program is awards 2 CU of credit. For more information please visit: https://servelearn.seas.upenn.edu/about/ Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2250 SEAS Global Program - Guatemala II",
+    "courseid": "EAS 2250",
+    "coursedescription": "Penn Engineering's global and local service learning courses aim to improve human lives through sustainable engineering in all corners of the world. These courses offer students the opportunity to use their engineering skills to build solar powered heaters for renewable energy, water and sanitation infrastructure, orthotic devices for children, information technology support and meet other critical needs in areas around the world. Students must apply in early Fall semester to take these courses in the following Spring and Fall terms. There is a program fee associated with each course, but financial aid is available to qualified students. Each program is awards 2 CU of credit. For more information please visit: https://servelearn.seas.upenn.edu/about/ Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2260 SEAS Global Program - Rwanda I",
+    "courseid": "EAS 2260",
+    "coursedescription": "Penn Engineering's global and local service learning courses aim to improve human lives through sustainable engineering in all corners of the world. These courses offer students the opportunity to use their engineering skills to build solar powered heaters for renewable energy, water and sanitation infrastructure, orthotic devices for children, information technology support and meet other critical needs in areas around the world. Students must apply in early Fall semester to take these courses in the following Spring and Fall terms. There is a program fee associated with each course, but financial aid is available to qualified students. Each program is awards 2 CU of credit. For more information please visit: https://servelearn.seas.upenn.edu/about/ Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2270 SEAS Global Program - Rwanda II",
+    "courseid": "EAS 2270",
+    "coursedescription": "Penn Engineering's global and local service learning courses aim to improve human lives through sustainable engineering in all corners of the world. These courses offer students the opportunity to use their engineering skills to build solar powered heaters for renewable energy, water and sanitation infrastructure, orthotic devices for children, information technology support and meet other critical needs in areas around the world. Students must apply in early Fall semester to take these courses in the following Spring and Fall terms. There is a program fee associated with each course, but financial aid is available to qualified students. Each program is awards 2 CU of credit. For more information please visit: https://servelearn.seas.upenn.edu/about/ Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2280 SEAS Global Program - Ghana I",
+    "courseid": "EAS 2280",
+    "coursedescription": "Penn Engineering's global and local service learning courses aim to improve human lives through sustainable engineering in all corners of the world. These courses offer students the opportunity to use their engineering skills to build solar powered heaters for renewable energy, water and sanitation infrastructure, orthotic devices for children, information technology support and meet other critical needs in areas around the world. Students must apply in early Fall semester to take these courses in the following Spring and Fall terms. There is a program fee associated with each course, but financial aid is available to qualified students. Each program is awards 2 CU of credit. For more information please visit: https://servelearn.seas.upenn.edu/about/ Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2290 SEAS Global Program - Ghana II",
+    "courseid": "EAS 2290",
+    "coursedescription": "Penn Engineering's global and local service learning courses aim to improve human lives through sustainable engineering in all corners of the world. These courses offer students the opportunity to use their engineering skills to build solar powered heaters for renewable energy, water and sanitation infrastructure, orthotic devices for children, information technology support and meet other critical needs in areas around the world. Students must apply in early Fall semester to take these courses in the following Spring and Fall terms. There is a program fee associated with each course, but financial aid is available to qualified students. Each program is awards 2 CU of credit. For more information please visit: https://servelearn.seas.upenn.edu/about/ Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2420 Energy Education in Philadelphia Schools",
+    "courseid": "EAS 2420",
+    "coursedescription": "Students will learn about basic residential energy efficiency measures and practices from an established community based energy organization, the Energy Coordinating Agency of Philadelphia. Identify and understand fundamental core STEM energy concepts. Develop a short \"energy efficiency\" curriculum appropriate for middle or high school students. Teach three (3) sessions in a science class in the School District of Philadelphia. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2440 Curiosity: Ancient and Modern Thinking about Thinking",
+    "courseid": "EAS 2440",
+    "coursedescription": "This course will examine two approaches to the still unanswered question of what happens when we humans come up with new knowledge. How should we describe the impulse, or set of impulses, that leads us to seek it? What is happening when we achieve it? And how do we describe the new state in which we find ourselves after we have it? We will study the work of contemporary physicists and cognitive scientists on these questions along side the approaches developed by the two most powerful thinkers from antiquity on the topic, Plato and Aristotle. Not Offered Every Year Also Offered As: CLST 3803 , INTG 3440 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 2610 Emerging Technologies and the Future of the World",
+    "courseid": "EAS 2610",
+    "coursedescription": "Technological change is always occurring, but the rate of change seems to be accelerating. Advances in robotics, artificial intelligence, cyber, biotechnology, and other arenas generate promise as well as peril for humanity. Will these emerging technologies unleash the innovative capacity of the world, generating new opportunities that help people live meaningful lives? Alternatively, are automation and other technologies chipping away at the labor market in a way that could create severe generational dislocation at best, and national and international turmoil at worst? These questions are important, and have consequences for how we live our lives, how nations interact, and the future of the world writ large. Emerging technologies could shape public policy at the local, national, and international level, and raise questions of fairness, ethics, and transparency. This course takes a unique approach, combining insights from engineering, political science, and law in an interdisciplinary way that will expose students both to the key technologies that could shape the future and ways to think about their potentia politics, and society. Fall or Spring Also Offered As: INTG 2610 , PSCI 2401 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 3010 Climate Policy and Technology",
+    "courseid": "EAS 3010",
+    "coursedescription": "The course will exam Pacala and Socolow's hypothesis that \"Humanity already possesses the fundamental scientific, technical and industrial know-how t solve the carbon and climate problem for the next half-century.\" Fifteen \"climate stabilization wedges\" i.e., strategies that each have the potential to reduce carbon emissions by 1 billion ons per year by 2054, will be examined in detail. Technology and economics will be reviewed. Socio-political barriers to mass-scale implementation will be discussed. Pacala and Socolow note \"Every element in this portfoloio has passed beyond the laboratory bench and demonstration project; many are already implemented somewhere at full industrial scale\". Fall or Spring Mutually Exclusive: EAS 5050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 3060 Electricity and Systems Markets",
+    "courseid": "EAS 3060",
+    "coursedescription": "The course discusses the existing electricity system from technical, economic, and policy perspectives. Basic power system engineering will be reviewed early in the course. Generation, transmission, distribution, and end-use technologies and economics will be discussed. Additional topics will include system operation, industry organization, government regulation, the evolution of power markets, environmental policy, and emerging technologies. Fall or Spring Mutually Exclusive: EAS 5060 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 3220 Immunology for Bioengineers",
+    "courseid": "EAS 3220",
+    "coursedescription": "Immunology is fast growing field that is critical to human health and therapeutic development and engineering. To better prepare bioengineers for a career in immunotherapy and biotech areas, it is essential for them to learn the fundamental knowledge of the immune system and the diseases associated as well as common and emerging technologies used in immunological research. This will not only enable the students to communicate more effectively in a multidisciplinary team, it will also empower them to take advantage of their training in engineering and mathematics to develop tools to analyze the immune system with great depth, solve important questions in immunology, and engineering new therapeutics. Therefore, the goal of this course is to provide the immunology foundation for engineering students and technical background of commonly used tools and emerging technologies in immunological research. The course is open to upper level undergraduate students who have taken courses in biochemistry and/or cell biology. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 4010 Energy and Its Impacts: Technology, Environment, Economics, Sustainability",
+    "courseid": "EAS 4010",
+    "coursedescription": "The objective is to introduce students to one of the most dominating and compelling areas of human existence and endeavor: energy, with its foundations in technology, from a quantitative sustainability viewpoint with its association to economics and impacts on environment and society. This introduction is intended both for general education and awareness and for preparation for careers related to this field, with emphasis on explaining the technological foundation. The course spans from basic principles to applications. A review of energy consumption, use, and resources; environmental impacts, sustainability and design of sustainable energy systems; introductory aspects of energy economics and carbon trading; methods of energy analysis; forecasting; energy storage; electricity generation and distribution systems (steam and gas turbine based power plans, fuel cells), fossil fuel energy (gas, oil, coal) including nonconventional types (shale gas and oil, oil sands, coalbed and tight-sand gas), nuclear energy wastes: brief introduction to renewable energy use: brief introduction to solar, wind, hydroelectric, geothermal, biomass; energy for buildings, energy for transportation (cars, aircraft, and ships); prospects for future energy systems: fusion power, power generation in space. Students interested in specializing in one or two energy topics can do so by choosing them as their course project assignments. Prerequisite: Any University student interested in energy and its impacts, who is a Junior or Senior. Students taking the course EAS 5010 will be given assignments commensurate with graduate standing. Fall Mutually Exclusive: EAS 5010 1 Course Unit",
+    "course-prerequsities": [
+      "EAS 5010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students interested in specializing in one or two energy topics can do so by choosing them as their course project assignments.",
+        "Prerequisite: Any University student interested in energy and its impacts, who is a Junior or Senior."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 4020 Renewable Energy and Its Impacts: Technology, Environment, Economics, Sustainability.",
+    "courseid": "EAS 4020",
+    "coursedescription": "The objective is to introduce students to the major aspects of renewable energy, with its foundations in technology, association to economics, and impacts on ecology and society. This introduction is intended both for general education and awareness and for preparation for careers related to this field. The course spans from basic principles to applications. A review of solar, wind, biomass, hydroelectric, geothermal energy, and prospects for future energy systems such as renewable power generation in space. Prerequisite: Junior standing Not Offered Every Year Mutually Exclusive: EAS 5020 1 Course Unit",
+    "course-prerequsities": [
+      "EAS 5020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 4030 Energy Systems and Policy",
+    "courseid": "EAS 4030",
+    "coursedescription": "This is a survey course that will examine the current U.S. energy industry, from production to consumption, and its impacts on local, regional, and the global environment. The course will seek to provide a fuller understanding of existing energy systems, ranging from technical overviews of each, a review of industry organization, and an exploration of the well-established policy framework each operates within. Near-term demands upon each energy supply system will be discussed, with particular focus on environmental constraints. Policy options facing each energy industry will be reviewed. Fall or Spring Mutually Exclusive: EAS 5030 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 4080 Building Leadership",
+    "courseid": "EAS 4080",
+    "coursedescription": "This course will build students' personal leadership skills by helping them to kick-start a venture that they are passionate about. Ideas could range from a non-profit to help provide tutoring skills to local under-represented youth, to designing a product that could be launched on a crowdsourcing platform to creating a movement to drive more minority representation in books/media. Students must bring their own idea for their project and as we work to build it out, they will develop the leadership skills needed to bring it to life (e.g., networking, harnessing an ecosystem, building out a project plan). Lectures will be a mix lessons on real-world skill building (e.g., for networking - where to start, who to contact) with activities that will be specifically applied to the student's venture. In addition, guest lecturers will be brought in so that students can learn from their leadership journeys. Students will also be paired with mentors to act as a sounding board and there will be weekly in-class discussions on their projects so that students can push each other as well - similar to how CEO roundtables work. At the end of this course, the goal will be to build enough momentum that students can take their project and continue to build it outside of class. Students will also be pushed to \"think big\" so that their ideas from just a passion project to something that will have an impact. Prerequisite: Idea for the Passion Project that you want to build and Permission of the instructor. Summer Term 1 Course Unit",
+    "course-prerequsities": [
+      "TERM 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Idea for the Passion Project that you want to build and Permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 4990 Senior Capstone Project",
+    "courseid": "EAS 4990",
+    "coursedescription": "The Senior Capstone Project is required for all BAS degree students, in lieu of the senior design course. The Capstone Project provides an opportunity for the student to apply the theoretical ideas and tools learned from other courses. The project is usually applied, rather than theoretical, exercise, and should focus on a real world problem related to the career goals of the student. The one-semester project may be completed in either the fall or sprong term of the senior year, and must be done under the supervision of a sponsoring faculty member. To register for this course, the student must submit a detailed proposal, signed by the supervising professor, and the student's faculty advisor, to the Office of Academic Programs two weeks prior to the start of the term. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5010 Energy and its Impacts: Technology, Environment, Economics, Sustainability.",
+    "courseid": "EAS 5010",
+    "coursedescription": "The objective is to introduce students to one of the most dominating and compelling areas of human existence and endeavor: energy, with its foundations in technology, from a quantitative sustainability viewpoint with its association to economics and impacts on environment and society. This introduction is intended both for general education and awareness and for preparation for careers related to this field, with emphasis on explaining the technological foundation. The course spans from basic principles to applications. A review of energy consumption, use, and resources; environmental impacts, sustainability and design of sustainable energy systems; introductory aspects of energy economics and carbon trading; methods of energy analysis; forecasting; energy storage; electricity generation and distribution systems (steam and gas turbine based power plans, fuel cells), fossil fuel energy (gas, oil, coal) including nonconventional types (shale gas and oil, oil sands, coalbed and tight-sand gas), nuclear energy wastes: brief introduction to renewable energy use: brief introduction to solar, wind, hydroelectric, geothermal, biomass; energy for buildings, energy for transportation (cars, aircraft, and ships); prospects for future energy systems: fusion power, power generation in space. Students interested in specializing in one or two energy topics can do so by choosing them as their course project assignments. Fall Mutually Exclusive: EAS 4010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students interested in specializing in one or two energy topics can do so by choosing them as their course project assignments."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 5020 Renewable Energy and Its Impacts: Technology, Environment, Economics, Sustainability",
+    "courseid": "EAS 5020",
+    "coursedescription": "The objective is to introduce students to the major aspects of renewable energy, with its foundations in technology, association to economics, and impacts on ecology and society. This introduction is intended for both general education and awareness, and for preparation for careers related to this field. The course spans from basic principles to applications. A review of solar, wind, biomass, hydroelectric, geothermal energy, and prospects for future energy systems such as renewable power generation in space. Spring Mutually Exclusive: EAS 4020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5030 Energy Systems and Policy",
+    "courseid": "EAS 5030",
+    "coursedescription": "This is a survey course that will examine the current U.S. energy industry, from production to consumption, and its impacts on local, regional, and the global environment. The course will seek to provide a fuller understanding of existing energy systems, ranging from technical overviews of each, a review of industry organization, and an exploration of the well-established policy framework each operates within. Near-term demands upon each energy supply system will be discussed, with particular focus on environmental constraints. Fall or Spring Mutually Exclusive: EAS 4030 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5050 Climate Policy and Technology",
+    "courseid": "EAS 5050",
+    "coursedescription": "The course will exam Pacala and Socolow's hypothesis that \"Humanity already possesses the fundamental scientific, technical and industrial know-how t solve the carbon and climate problem for the next half-century.\" Fifteen \"climate stabilization wedges\" i.e., strategies that each have the potential to reduce carbon emissions by 1 billion ons per year by 2054, will be examined in detail. Technology and economics will be reviewed. Socio-political barriers to mass-scale implementation will be discussed. Pacala and Socolow note \"Every element in this portfoloio has passed beyond the laboratory bench and demonstration project; many are already implemented somewhere at full industrial scale\". Fall or Spring Mutually Exclusive: EAS 3010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5060 Electricity and Systems Markets",
+    "courseid": "EAS 5060",
+    "coursedescription": "The course discusses the existing electricity system from technical, economic, and policy perspectives. Basic power system engineering will be reviewed early in the course. Generation, transmission, distribution, and end-use technologies and economics will be discussed. Additional topics will include system operation, industry organization, government regulation, the evolution of power markets, environmental policy, and emerging technologies. Spring Mutually Exclusive: EAS 3060 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5070 Intellectual Property and Business Law for Engineers",
+    "courseid": "EAS 5070",
+    "coursedescription": "Engineers are often on the front line of innovation. The goal of this course is to introduce engineering students to the basics of Intellectual property (IP) and business laws that they will encounter throughout their careers. Understanding these laws is critical for the protection of IP and for the creation and success of high-tech start-up ventures. Market advantage in large part springs from a company's IP. Without legal protection and correct business formation, proprietary designs, processes, and inventions could be freely used by competitors, ruining market advantage. A basic understanding of IP laws, contractual transactions, employment agreements, business structures, and debt-equity financing will help engineering students to become effective employees or entrepreneurs, to acquire investors, and to achieve success. Though open to students of all disciplines, the course will use case studies particular relevance to students of engineering and applied science. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5100 Technical Communication and Academic Writing for Non-native Speakers of English",
+    "courseid": "EAS 5100",
+    "coursedescription": "EAS 510 is a writing course designed for graduate students at both the master's and Ph.D. levels. The features of academic writing used in American universities will be explored by analyzing sample texts, papers in various academic disciplines, and the students' own writing. A variety of rhetorical patterns will be practiced. Attention will be paid to organization, development of ideas, clarity, coherence, style, grammar, and mechanics. Instructor permission required for undergraduates. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Instructor permission required for undergraduates."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 5110 Energy Grand Challenges at the Interface of Technology and Policy",
+    "courseid": "EAS 5110",
+    "coursedescription": "This collaborative course -- co-taught by instructors from the Kleinman Center for Energy Policy, Weitzman School of Design and School of Engineering and Applied Science -- uses societal grand challenges as scenarios for identifying repeatable, process-oriented best practices for solving complex, systemic problems in the energy transition. This course is intended for graduate students with a background in either the social sciences (economics, political science, law, or policy) or who are in STEM programs (science and engineering). This course will complement the material covered in the Kleinman Center Introduction to Energy Policy course ( ENMG 5020 ) taught in the fall. It will be an opportunity to learn from one another and build a holistic understanding of the technical and policy dimensions of the energy transition and the global response to climate change and environmental degradation. The course will be broken into three chapters. For the first third of the semester, we will focus on basics of policy and engineering literacy, with each student bringing their own expertise to the table. The best way to truly understand a topic is to teach it, and this chapter of the course will focus on learning how to talk across disciplines and approach challenges in new and unfamiliar ways. The middle third of this course will be built around case studies of grand societal challenges; some of which have seen considerable progress towards being solved, others which are still the subject of great uncertainty and disagreement. Among other topics, this course will explore: The impact of sweeping standards on building and appliance efficiency; the rapid development and mutual reinforcement of renewable energy technologies and policy; the ability of policy to facilitate healthy competition between technologies (hydrogen vs batteries, for example); The allocation of scarce CCUS resources to abate difficult to decarbonize products like cement, steel, and plastics; the importance of grid regulation and market design in ensuring future energy reliability and affordability; and the need for transition-ready environmental policies that protect ecosystems and communities without hindering access to critical resources (metals, minerals, land, etc.) The final third of the semester will be structured largely around group projects for which students with diverse expertise will work together to identify a grand societal challenge and isolate the technical and policy barriers to solving this challenge. These groups will give regular updates to the rest of the class and will work towards making a meaningful contribution to solving their challenge through collaborative problem solving, design, and research. This course will deliver content learning outcomes about technical, societal, and policy aspects of focal grand challenges, while providing all participants (including instructors) experience and skills to address community-derived problems in teams composed of members from disciplines that rarely collaborate. Over time, this course will serve as a working, iterative “laboratory” on parameters that affect the success of convergence style research and problem solving. Spring Also Offered As: ENMG 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These groups will give regular updates to the rest of the class and will work towards making a meaningful contribution to solving their challenge through collaborative problem solving, design, and research."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 5120 Engineering Negotiation",
+    "courseid": "EAS 5120",
+    "coursedescription": "The goal of this course is to teach students of engineering and applied science to be effective negotiators. It aims to improve the way these students communicate i virtually any human interaction. The course intends to improve the ability of engineers and other technology disciplines to gain more support more quickly for projects, researc product and services development, and marketing. For those wanting to be entrepreneurs o r intrapreneurs, the course is designed essentially to find the most value possible in starting up and running companies. Based on Professor Diamond's innovative and renowned model of negotiation, it is intended to assist those for whom technical expertise is not enough to persuade others, internally and externally, to provide resources, promotions and project approvals; or to resolve disputes, solve problems and gain more opportunities. Rejecting the 40-year-old notions of power, leverage and logic, the course focuses on persuasion by making better human connections, uncovering perceptions and emotions, and structuring agreements to be both collaborative and fair. This course is entrepreneurial in nature and can provide many times more value than traditional persuasion. The Getting More book has sold more than 1 million copies around the world and is also used by universities, corporations (Google), and U.S. Special Operations (SEALs, Green Berets, Special Forces, Marines) to save lives and reduce conflict. From the first day, students will do interactive cases based their own engineering-related problems and based on current problems in the news. There will be diagnostics enabling every student to assess his/her skill and improvements. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5160 Mathematical Foundations for Machine Learning I: Probability",
+    "courseid": "EAS 5160",
+    "coursedescription": "This course introduces students to the mathematical foundations of the theory of probability. In addition to a host of classical domains, probability is one of the foundational elements of modern data science, machine learning, and artificial intelligence. The course begins with an exploration of combinatorial probabilities in the classical setting of games of chance, proceeds to the development of an axiomatic, fully mathematical theory of probability, and concludes with the discovery of the remarkable limit laws and the eminence grise of the classical theory, the central limit theorem. The topics covered include: discrete and continuous probability space, distributions, mass functions, densities; conditional probability; independence; the Bernoulli schema: the binomial, Poisson, and waiting time distributions; uniform, exponential, normal, and related densities; expectation, variance, moments; conditional expectation; inequalities, tail bounds, and limit laws. This material is presented in its lush and glorious historical context, the mathematical theory buttressed and made vivid by rich and beautiful applications drawn from the world around us. Students are assessed by weekly problem set assignments and a proctored exam. Prerequisite: Understanding of Calculus.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EAS 5240 Technology Ethics and the Legal Landscape",
+    "courseid": "EAS 5240",
+    "coursedescription": "Engineers design and build the world we live in. From algorithms to bridges, cars to drones, every day we entrust our safety and prosperity to the decisions that engineers make. It is unsurprising that ethics is part of the foundation on which the modern engineering profession is built. But sometimes ethical engineering decisions nonetheless harm us more than they help us. Where this happens, engineers may face legal liability. Such liability is a legal question, not an engineering question. This course introduces students both to traditional concepts of engineering ethics as well as to the legal and policy background against which the ethics of engineering decisions are ultimately evaluated. Particular attention is paid to questions that arise in the context of new technologies such as artificial intelligence; case studies involving artificial intelligence and similar technology are considered throughout. This course is organized in three units. It begins with a broad consideration of the role of engineers and ethics in society and the role that the law plays in formalizing a society’s ethical intuitions. It then considers the different ways that engineers and the law understand risk and how those differing understandings of risk affect product design and professional liability. It concludes by surveying legal topics of particular interest to engineering professions such as intellectual property, privacy and security, regulation, and antitrust. Contemporary challenges, such as ethical issues posed by artificial intelligence and the challenges of regulating firms with significant market power, are considered throughout. Students enrolled in this class will be asked to read a range of materials, including excerpts from legal memos and judicial opinions, philosophical texts, and engineering studies. Assessments will include regular short writing assignments. Prerequisite: CIT 5910 AND CIT 5920 1 Course Unit",
+    "course-prerequsities": [
+      "CIT 5910",
+      "CIT 5920"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It concludes by surveying legal topics of particular interest to engineering professions such as intellectual property, privacy and security, regulation, and antitrust."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 5410 Engineering Entrepreneurship Fellows I",
+    "courseid": "EAS 5410",
+    "coursedescription": "This course is the first of a three-part sequence for twelve SEAS students previously selected to the new Engineering Entrepreneurship (EENT) Fellows Program. This 1 CU spring semester course teaches management and leadership skills for technology-intensive startups with specific focus on product and market strategy, venture financing and cash flow management, team recruiting and organizational development, and the challenges of managing growth in emerging ventures. Upon completion of this course, students will be prepared to undertake the second of the three-part EENT Fellows Program in which they will be immersed in an intensive entrepreneurial experience as a summer intern at a substantial high-tech startup company. During the internship students will support strategic initiatives and will have access to the founder(s) and/or key top-level personnel. During the summer, they will each maintain a journal of their intern experience and will also visit other students at their respective startup companies to share and learn from one another’s experiences. The internship is then followed in the fall semester by the third part of the EENT Fellows Program, a 1 CU course in which students prepare and present real-life case studies based on their summer internship experience. Effective verbal presentation skills are a focus of this fall course. Key personnel from the startup companies participate in these case study preparations and presentations. Throughout the year long EENT Fellows Program each student will be mentored by a venture capitalist as well as an EENT alum with startup experience. Throughout the Program a series of events will also be organized to encourage students to connect with each other and create a strong sense of community. Spring Mutually Exclusive: EAS 5450 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5430 Engineering Entrepreneurship Fellows II",
+    "courseid": "EAS 5430",
+    "coursedescription": "This 1 CU course is the third of a three-part sequence exclusively for the Engineering Entrepreneurship (EENT) Fellows Program. Enrollment is limited to 12 previously selected 12 EENT Fellows. Prior to taking this course, EENT Fellows will have completed EAS5410 Engineering Entrepreneurship Fellows I in the spring semester and will have been immersed in a hands-on internship at a high-growth technology startup company in the summer semester. During this summer internship, Fellows will have: (i) supported significant strategic initiatives at their startup; (ii) had one-on-one contact with top-level company leaders; (iii) kept and shared structured journals of their experiences; and (iv) hosted visits, in-person or remotely, of other Fellows to their startup companies to share experiences. Throughout the 12-month Program, the Fellows will benefit from personal one-on-one mentoring by distinguished alumni, venture executives and investors. The summer journal will be a pre-requisite assignment for EAS5430. It will include the Fellows’ observations and analysis of specific assignment topics within their respective companies which will, in turn, be shared and commented on by the other Fellows. Assigned topics will include origins of the startup’s innovative technology, intellectual property considerations, product-market fit, marketing strategy, business model, venture financing, management, handling adversity, scaling, culture, values, and principled leadership. Journals will be maintained online allowing Fellows the opportunity to share and reflect on their own and their classmates’ summer experiences with the objectives of: (a) comparing and discussing internship experiences; (b) exploring the elements of entrepreneurship; (c) compiling information useful for debriefing and case studies in EAS5430 in the fall; and (d) connecting the theory of EAS5410 with the realities of startups. In EAS5430 Fellows will debrief their summer internship experiences with each other and faculty. Drawing from knowledge, skills and frameworks acquired in EAS5410, as well as guidance from their mentors and their summer internship journal entries, each Fellow will prepare and deliver a presentation of their experience. Executive leaders from each startup will be invited as guest speakers to present their perspective on the creation and growth of their respective companies. Each Fellow will also prepare and present a case study focused on their observation and/or involvement in a significant event, problem, or achievement of the company. Throughout EAS5430, the pedagogic approach will involve lectures, case discussions, assigned readings, and individual and guest presentations. Feedback on verbal presentation skills will also be provided as in EAS5410. Intended Learning Outcomes: Upon course completion, students will be equipped with knowledge and skills to: 1) Connect the academic theory of entrepreneurship with the realities of startup ventures. 2) Select an appropriate intellectual property strategy for a technology-based product in a startup environment. 3) Achieve product-market fit by shaping an innovative technology-driven device into a market-driven product. 4) Identify and validate target customer segment(s) and develop effective marketing, sales, and distribution plans. 5) Develop a business model and competitive strategy for establishing a defensible position within an industry. 6) Determine the capital requirements for a startup venture including the amount, timing, and sources of financing, and be knowledgeable of the terms, conditions, and negotiability of venture capital term sheets. 7) Understand a company’s financial statements and assess key metrics of financial health. 8) Understand the regulatory approval process for medical devices and drugs including its phases, timing, costs, and operational implications for an entrepreneurial startup venture. 9) Recruit and lead an effective, principled team of co-workers an Fall Mutually Exclusive: EAS 5460 Prerequisite: EAS 5410 1 Course Unit",
+    "course-prerequsities": [
+      "EAS5430",
+      "EAS5410",
+      "PLANS. 5",
+      "SHEETS. 7",
+      "HEALTH. 8",
+      "EAS 5460",
+      "EAS 5410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment is limited to 12 previously selected 12 EENT Fellows."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 5450 Engineering Entrepreneurship I",
+    "courseid": "EAS 5450",
+    "coursedescription": "Engineers and scientists create and lead great companies, hiring managers when and where needed to help execute their vision. Designed expressly for students having a keen interest in technological innovation, this course investigates the roles of inventors and founders in successful technology ventures. Through case studies and guest speakers, we introduce the knowledge and skills needed to recognize and seize a high-tech entrepreneurial opportunity - be it a product or service - and then successfully launch a startup or spin-off company. The course studies key areas of intellectual property, its protection and strategic value; opportunity analysis and concept testing; shaping technology driven inventions into customer-driven products; constructing defensible competitive strategies; acquiring resources in the form of capital, people and strategic partners; and the founder's leadership role in an emerging high-tech company. Throughout the course emphasis is placed on decisions faced by founders, and on the sequential risks and determinants of success in the early growth phase of a technology venture. The course is designed for, but not restricted to, students of engineering and applied science and assumes no prior business education. Prerequisite: Second, Third, Fourth year, or Graduate standing Fall or Spring Also Offered As: IPD 5450 Mutually Exclusive: EAS 5410 1 Course Unit",
+    "course-prerequsities": [
+      "IPD 5450",
+      "EAS 5410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Designed expressly for students having a keen interest in technological innovation, this course investigates the roles of inventors and founders in successful technology ventures.",
+        "The course is designed for, but not restricted to, students of engineering and applied science and assumes no prior business education."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 5460 Engineering Entrepreneurship II",
+    "courseid": "EAS 5460",
+    "coursedescription": "This course is the sequel to EAS 5450 and focuses on the planning process for a new technology venture. Like its prerequisite, the course is designed expressly for students of engineering and applied science having a keen interest in technological innovation. Whereas EAS 5450 investigates the sequential stages of engineering entrepreneurship from the initial idea through the early growth phase of a startup company, EAS 5460 provides hands-on experience in developing a business plan for such a venture. Working in teams, students prepare and present a comprehensive business plan for a high-tech opportunity. The course expands on topics from EAS 5450 with more in-depth attention to: industry and marketplace analysis; competitive strategies related to high-tech product/service positioning, marketing, development and operations; and preparation of sound financial plans. Effective written and verbal presentation skills are emphasized throughout the course. Ultimately, each team presents its plan to a distinguished panel of recognized entrepreneurs, investors and advisors from the high-tech industry. Fall or Spring Prerequisite: EAS 5450 1 Course Unit",
+    "course-prerequsities": [
+      "EAS 5450",
+      "EAS 5460"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Like its prerequisite, the course is designed expressly for students of engineering and applied science having a keen interest in technological innovation."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 5470 Engineering Product Management from Theory to Practice",
+    "courseid": "EAS 5470",
+    "coursedescription": "This course introduces up to 50 undergraduate and graduate SEAS students to the principles and practice of Product Management. As a 1 CU course, it provides a deep dive into product development for technology-intensive startups and large corporations. Students will explore product and market strategy, apply key Product Management tools and frameworks, and engage in real-world applications. Upon completion, students will gain a thorough understanding of the role of product managers and the ability to develop and launch successful products. This course qualifies for the Engineering Entrepreneurship Minor and Graduate Certificate. Second year students and above are permitted to enroll. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5490 Engineering Entrepreneurship Lab",
+    "courseid": "EAS 5490",
+    "coursedescription": "Engineering Entrepreneurship Lab applies the principles of engineering and engineering entrepreneurship to a real-world problem of your specific field of study or professional interest. You will develop a venture based on a high-tech concept of your choosing (the one that you submitted as part of your application to the course). Like its prerequisite, EAS 5450 Engineering Entrepreneurship I, the course is designed expressly for students of engineering and applied science having a keen interest in technological innovation. Throughout the course you will formulate and test hypotheses using Lean Startup methodologies to develop key aspects of the venture including product development, customer and market development, team building and operations, and financial modeling and planning. The primary objective of the course is to develop a venture characterized by market-driven, high-tech product-service offering with a clear and validated product-market fit, an operational plan to bring your offering to market, and a plan to secure the resources required for execution of your plan. As discussed in EAS 5450 , primary market research is essential to achieving product-market fit and validating all aspects of your business model. The success of your venture and your grade in the course will depend on the results of this research and testing process. Ideally, your work in this course results in pursuit of your high-tech venture outside of class and beyond the hallowed halls of Penn! Prerequisite: EAS 5450 or PhD status. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "EAS 5450",
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Engineering Entrepreneurship Lab applies the principles of engineering and engineering entrepreneurship to a real-world problem of your specific field of study or professional interest.",
+        "Like its prerequisite, EAS 5450 Engineering Entrepreneurship I, the course is designed expressly for students of engineering and applied science having a keen interest in technological innovation."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 5740 How to Use Data",
+    "courseid": "EAS 5740",
+    "coursedescription": "This course is an introduction for those who want to learn about the mechanics of data, performing data analysis to gain insights, applying data science techniques to make predictions, and applying data analytics to answer questions and to address interesting business problems. Students will learn how to interpret and frame business problems to be addressed by analytics. The course will also cover different elements of the data analytics process, including data wrangling and cleaning, data exploration and descriptive analytics, data modeling, machine learning, predictive analytics, data visualization and the presentation of analysis and insights using data storytelling. Prerequisite: CIT 5910",
+    "course-prerequsities": [
+      "CIT 5910"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units",
+      "notes": [
+        "This course is an introduction for those who want to learn about the mechanics of data, performing data analysis to gain insights, applying data science techniques to make predictions, and applying data analytics to answer questions and to address interesting business problems."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 5760 Javascript and Full Stack Application Development",
+    "courseid": "EAS 5760",
+    "coursedescription": "This course will guide students through advanced web development with JavaScript, covering both front-end and back-end frameworks, database integration, API design, and mobile app development fundamentals. By the end of the course, students will have developed a full-stack web application incorporating advanced JavaScript features, React, and Express with a RESTful backend and basic mobile responsiveness. Prerequisite: CIT 5910",
+    "course-prerequsities": [
+      "CIT 5910"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units",
+      "notes": [
+        "By the end of the course, students will have developed a full-stack web application incorporating advanced JavaScript features, React, and Express with a RESTful backend and basic mobile responsiveness."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 5830 Blockchains",
+    "courseid": "EAS 5830",
+    "coursedescription": "This course is an introduction to the technology that powers blockchains like Bitcoin and Ethereum. We will cover the key cryptographic tools that enable blockchains – collision-resistant hash functions and digital signature schemes. We’ll learn about the architecture of different blockchains, their consensus mechanisms, economics and how to interact with them. The assignments in this course are primarily coding-based. We will learn to read and write from the blockchain using Python libraries, and write our own smart contracts in Solidity. At the end of this course, students should understand the power and limitations of blockchain technology and be able to develop software that interacts with current blockchain platforms. Prerequisite: CIT 5910 AND CIT 5920",
+    "course-prerequsities": [
+      "CIT 5910",
+      "CIT 5920"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EAS 5850 Imaging Informatics",
+    "courseid": "EAS 5850",
+    "coursedescription": "This 0.5 CU course provides a comprehensive introduction to the field of imaging informatics, with a focus on radiology as the clinical imaging domain. Students will learn about the importance of informatics to the clinical practice of radiology, the unique types of data encountered, relevant data and transactional standards, the growing role of artificial intelligence in radiology, and the challenges faced by imaging informaticists around the globe. Prerequisite: CIT 5910",
+    "course-prerequsities": [
+      "CIT 5910"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EAS 5860 Medical Image Analysis",
+    "courseid": "EAS 5860",
+    "coursedescription": "This 0.5 CU course provides a comprehensive introduction to medical image analysis. Students will learn the basics of Computer Vision with an emphasis on the special challenges of automated medical image analysis for clinical healthcare and medical research. Students will be required to visually assess the images and work with key Machine Learning technology to interpret data on the actual medical image scans. The course is appropriate for students without prior medical or imaging training. Prerequisite: CIT 5910 AND CIT 5920 AND CIT 5940 AND ( CIS 5210 OR ESE 5410 )",
+    "course-prerequsities": [
+      "CIT 5910",
+      "CIT 5920",
+      "CIT 5940",
+      "CIS 5210",
+      "ESE 5410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EAS 5900 Commercializing Information Technology",
+    "courseid": "EAS 5900",
+    "coursedescription": "EAS 590 provides real world, hands-on learning on what it's like to actually start a high-tech company. We do that by using the Lean LaunchPad framework for Web start-ups. This class is not about how to write a business plan. Instead you will be getting your hands dirty talking to customers, partners, competitors, as you encounter the chaos and uncertainty of how a start-up actually works. EAS 590 provides real world, hands-on learning on what it's like to actually start a high-tech company. We do that by using the Lean LaunchPad framework for Web start-ups. This class is not about how to write a business plan. Instead you will be getting your hands dirty talking to customers, partners, competitors, as you encounter the chaos and uncertainty of how a start-up actually works. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5910 Leading Technology Teams",
+    "courseid": "EAS 5910",
+    "coursedescription": "Engineers routinely work in teams collaborating with experts from multiple fields to address increasingly large complex problems/opportunities. EAS 591, Leading Technology Teams, focuses on the dynamics of innovative, interdisciplinary, cross-functional teams. We examine ways to improve team performance by exploring technology leadership issues from multiple perspectives (i.e., the individual, the team, and the organization). Developing skills to be an effective technology team member, leader, and/or sponsor will provide you with a competitive advantage, not only for getting your first job but also for success throughout your career.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EAS 5920 Service Learning and Leadership",
+    "courseid": "EAS 5920",
+    "coursedescription": "This course is designed to train the student leaders for service learning programs and exposes students to relevant skills, including leadership, risk management, cultural competency, and organizational dynamics. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 5950 Foundations of Leadership",
+    "courseid": "EAS 5950",
+    "coursedescription": "The goal of EAS 595 is to increase your capacity to effectively lead throughout your career and wherever you find yourself in an organization. This involves understanding and learning about yourself and about working effectively with others. The course starts with an identification of values, strengths, preferences and passions. It then proceeds with the personal and interpersonal and moves through the strategic aspects o f leadership by bringing together aspects of management science, social psychology, psychology of personality and behavioral economics. Topics include teamwork and team dynamics, identifying life's goals and dreams , decision making, valuing differences, understanding the dynamics of influence, using power with integrity, giving and receiving feedback, leading change, and discovering where we can make our contribution. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 8940 Master's Curricular Practical Training (CPT), part-time",
+    "courseid": "EAS 8940",
+    "coursedescription": "Part-time international master's student's Curricular Practical Training (CPT) credit. Graduate students in Engineering who meet the USCIS eligibility criteria may apply for academic credit for the purposes of F-1 curricular practical training (CPT) in Fall or Spring at the part-time level. In order to be eligible for CPT, students must have already completed one academic year (September to May) of course work, as a full-time student at Penn, but have not completed all of their degree requirements. Students cannot use part-time CPT in their last semester. https://grad.seas.upenn.edu/student-handbook/academic-options/curricular-practical-training/ Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EAS 8950 Professional Master's Academic Field Studies",
+    "courseid": "EAS 8950",
+    "coursedescription": "1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "This class allow master's students to pursue full-time internship opportunities in the Fall semester to apply what they have learned in practice. The student is required to work 35-40 hours a week, 12-15 week long full-time internships. International students under this academic field study (AFS) track will be eligible for full-time CPT. As part of the application for field studies, students have to attach their coursework plan and receive approval from their program director to make sure they can meet all program requirements in 10 CU's (11 CU's for BIOT). Prerequisites: This class is restricted to SEAS Master's students only. Students can apply after their first two semesters of academic work at Penn. Students must complete at least 6 CU's (course units) between their first two semesters during their first year. Academic field studies can only be done once for the duration of a master's student studies at Penn. For students pursuing a single Master's degree, the field study period is usually the summer and continuing into the Fall semester of the second year. This option is not permitted in the final semester in which the student is graduating. As part of the application for field studies, students have to attach their coursework plan and receive approval from their program director to make sure they can meet all program requirements in 10 CU's (11 CU's for BIOT). Students on a single master's degree have to graduate within 2 years. Dual degree masters students have to graduate within 3 years. Student must be in good academic standing (minimum GPA 3.0) with their program and the University. Those that are not, are unable to apply for the track. Students that receive an offer to extend their Summer internship, should turn in their proposal no later than August 1st. Proposal requires details on internship work, explain relevance to student's field of study, and requires a supervising faculty member. Students are required to turn in a mid-progress report and a final report to their program. Students apply for field study has to have an internship offer from company. It is not the responsibility of Penn to help students find an internship. https://grad.seas.upenn.edu/student-handbook/academic-options/academic-field-study-for-masters-students/"
+    }
+  },
+  {
+    "coursename": "EAS 8960 Professional Master's Career Development",
+    "courseid": "EAS 8960",
+    "coursedescription": "This class on professional career development broadly exposes students to organized workshops and seminar talks related to career development and research development. In career development, workshops will be held by career services staff related to identifying career interests, interview strategies, and career fair preparation. The research seminar talks are geared toward giving students exposure to research activities at Penn. The research seminar talks will be offered by individual departments and research programs, and include invited talks by external or internal faculty members. Students will receive a S/U grade and submit a final report at the end of the semester. Prerequisite: This class is restricted to SEAS Master's student only. Master's students can take the class at any time. However, the recommended time to take this course is Fall semester of the second year. 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR. 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In career development, workshops will be held by career services staff related to identifying career interests, interview strategies, and career fair preparation.",
+        "Prerequisite: This class is restricted to SEAS Master's student only.",
+        "However, the recommended time to take this course is Fall semester of the second year."
+      ]
+    }
+  },
+  {
+    "coursename": "EAS 8970 Master's Curricular Practical Training (CPT)",
+    "courseid": "EAS 8970",
+    "coursedescription": "Master's Student Curricular Practical Training (CPT) credit for Summer terms. Graduate students in Engineering who meet the USCIS eligibility criteria may apply for academic credit for the purposes of F-1 curricular practical training (CPT). In order to be eligible for CPT, students must have already completed one academic year (September to May) of course work, full-time at Penn, but have not completed all of their degree requirements. https://grad.seas.upenn.edu/student-handbook/academic-options/curricular-practical-training/ Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 8980 PhD Curricular Practical Training (CPT)",
+    "courseid": "EAS 8980",
+    "coursedescription": "PhD Student Curricular Practical Training (CPT) credit. Graduate students in Engineering who meet the USCIS eligibility criteria may apply for academic credit for the purposes of F-1 curricular practical training (CPT). In order to be eligible for CPT, students must have already completed one academic year (September to May) of course work, full-time at Penn, but have not completed all of their degree requirements. https://grad.seas.upenn.edu/student-handbook/academic-options/curricular-practical-training/ Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 8990 PhD Curricular Practical Training (CPT)",
+    "courseid": "EAS 8990",
+    "coursedescription": "PhD Student Curricular Practical Training (CPT) credit. Graduate students in Engineering who meet the USCIS eligibility criteria may apply for academic credit for the purposes of F-1 curricular practical training (CPT). In order to be eligible for CPT, students must have already completed one academic year (September to May) of course work, full-time at Penn, but have not completed all of their degree requirements. After successful completion of EAS 8980 , on a case-by-case basis, PhD candidates may request additional enrollments in CPT if required to complete dissertation research. Students will use EAS 8990 . https://grad.seas.upenn.edu/student-handbook/academic-options/curricular-practical-training/ 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EAS 9000 Responsible Conduct for Research (RCR), Engineering",
+    "courseid": "EAS 9000",
+    "coursedescription": "Engineering’s Responsible Conduct of Research (RCR) course is held every Fall for incoming students. The speakers discuss topics on 'Mentor and Mentoring,' 'Diversity, Equity and Inclusion,' 'IP, Patents, Disclosures, Export Regulation and Compliance,' 'Academic Integrity,' 'Publishing and Peer Review,' 'Data Management Strategies,' and a session with the student's home department as well. There are Knowledge Link trainings as well that will be assigned. This course is required for all first year Engineering PhD students. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  }
+]

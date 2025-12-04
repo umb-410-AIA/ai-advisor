@@ -1,0 +1,201 @@
+[
+  {
+    "coursename": "CGSC 216b and CGSC 2160b / LING 1160b / PSYC 116b / PSYC 1316b, Cognitive Science of Language Athulya Aravind",
+    "courseid": "CGSC 216b",
+    "coursedescription": "The study of language from the perspective of cognitive science. Exploration of mental structures that underlie the human ability to learn and process language, drawing on studies of normal and atypical language development and processing, brain imaging, neuropsychology, and computational modeling. Innate linguistic structure vs. determination by experience and culture; the relation between linguistic and nonlinguistic cognition in the domains of decision making, social cognition, and musical cognition; the degree to which language shapes perceptions of color, number, space, and gender. SO TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CGSC 1100a / PSYC 130 / PSYC 1300a, Introduction to Cognitive Science Brian Scholl",
+    "courseid": "CGSC 1100a",
+    "coursedescription": "An introduction to the interdisciplinary study of how the mind works. Discussion of tools, theories, and assumptions from psychology, computer science, neuroscience, linguistics, and philosophy. SO TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CGSC 1390b / PSYC 1390b, Mental Lives of Babies and Animals Nicolò Cesana-Arlotti",
+    "courseid": "CGSC 1390b",
+    "coursedescription": "Interdisciplinary exploration of the cognitive, social, and emotional capacities of creatures lacking language and culture. The extent to which our complex psychology is unique to mature humans; the relative richness of a mental life without language or culture. Some attention to particular human populations such as children with autism and adults with language disorders. SO TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CGSC 1750a, The Mystery of Sleep Meir Kryger and Christine Won",
+    "courseid": "CGSC 1750a",
+    "coursedescription": "The role in which sleep and circadian rhythms affect attention, cognition, and memory through multidisciplinary consideration of neurobiology, epidemiology, and humanities. Psychological aspects of sleep; sleep disorders; sleep deprivation; and the history of sleep in philosophy, literature, and art. This course is not open to students previously enrolled in CSPC 350 , CSMC 370 , or CSYC 390. SC TTh 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CGSC 2740a / CGSC 274 / NSCI 3610a / PSYC 2610a, Algorithms of the Mind Ilker Yildirim",
+    "courseid": "CGSC 2740a",
+    "coursedescription": "This course introduces computational theories of psychological processes, with a pedagogical focus on perception and high-level cognition. Each week students learn about new computational methods grounded in neurocognitive phenomena. Lectures introduce these topics conceptually; lab sections provide hands-on instruction with programming assignments and review of mathematical concepts. Lectures cover a range of computational methods sampling across the fields of computational statistics, artificial intelligence and machine learning, including probabilistic programming, neural networks, and differentiable programming. Students must have a fairly strong programming background, ideally in a high-level programming language such as Julia, Python or C++. (The course will use Julia and Python substantially). Familiarity with bash scripting and HPC use are desirable. College-level calculus is required, in addition to some exposure to probability and Bayesian inference, or more broadly (probabilistic) machine learning. QR , SC , SO 0 Course cr TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CGSC 2750b / LING 2750b / PHIL 2280b, Pragmatics Simon Charlow",
+    "courseid": "CGSC 2750b",
+    "coursedescription": "Speakers often mean things they don’t say, but how does a hearer figure out what the speaker meant? Which sentences are designed to change the world rather than just to represent it? How are sentences used to mean different things in different contexts? Pragmatics explores the relations between what is said and what is meant, focusing on how speech acts and the principles of “street logic”—presuppositions and implicatures—help speakers and hearers shape the landscape of a conversation. No formal prerequisites, but some familiarity with linguistics or philosophy of language will help on some of the readings. SO RP MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CGSC 2770a / AFAM 1398a / EDST 1177a / PHIL 1177a, Propaganda, Ideology, and Democracy Staff",
+    "courseid": "CGSC 2770a",
+    "coursedescription": "Historical, philosophical, psychological, and linguistic introduction to the issues and challenges that propaganda raises for liberal democracy. How propaganda can work to undermine democracy; ways in which schools and the press are implicated; the use of propaganda by social movements to address democracy's deficiencies; the legitimacy of propaganda in cases of political crisis. HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CGSC 2820a / PHIL 1182a / PSYC 1382a, Perspectives on Human Nature Staff",
+    "courseid": "CGSC 2820a",
+    "coursedescription": "Comparison of philosophical and psychological perspectives on human nature. Nietzsche on morality, paired with contemporary work on the psychology of moral judgment; Marx on religion, paired with systematic research on the science of religious belief; Schopenhauer paired with social psychology on happiness. HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CGSC 3130b / CGSC 313 / PHIL 3305b / PSYC 3113b, Philosophy for Psychologists Joshua Knobe",
+    "courseid": "CGSC 3130b",
+    "coursedescription": "Introduction to frameworks developed within philosophy that have applications in psychological research. Principal topics include the self, causation, free will, and morality. Recommended preparation: a course in philosophy or psychology. HU , SO M 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: a course in philosophy or psychology."
+      ]
+    }
+  },
+  {
+    "coursename": "CGSC 3380b / NSCI 3380b / PSYC 3380b, Minds, Brains, and Machines Julian Jara-Ettinger",
+    "courseid": "CGSC 3380b",
+    "coursedescription": "Leibniz compared the brain to a mill, Freud to a hydraulic system, and now we think of it as a computer. Have we gotten it right? If so, what kind of computer is the brain? And what kind of software is the mind? This course explores these questions by integrating classical and cutting-edge findings from artificial intelligence, cognitive science, neuroscience, philosophy, and psychology. In this course you learn how modern artificial intelligence works—including deep neural networks, program synthesis, and neuro-symbolic approaches. You learn how to think about artificial intelligence from the perspectives of cognitive science and neuroscience. And you learn how current advances in AI are helping us understand how the mind and brain works. Conversely, you also learn how advances in psychology and neuroscience have played a key role in the biggest ideas in AI. This course is ideal for a variety of students: Psychology and cognitive science majors that want to learn about AI. CS students that want to know how to think about AI from a cognitive perspective. And anyone who wants to know how to think critically about all the advances in the study of minds, brains, and machines. Students are strongly encouraged to have taken either Introduction to Psychology (PSYC 110), or Introduction to Cognitive Science (CGSC 110). Introduction to Computer Science (CPSC 201) is also ideal. SO MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CGSC 3950a / PHIL 3395a, Junior Colloquium in Cognitive Science Isaac Davis",
+    "courseid": "CGSC 3950a",
+    "coursedescription": "Survey of contemporary issues and current research in cognitive science. By the end of the term, students select a research topic for the senior essay. Enrollment limited to Cognitive Science majors. ½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to Cognitive Science majors."
+      ]
+    }
+  },
+  {
+    "coursename": "* CGSC 4200b / CBIO 4200b / NSCI 4400b / PSYC 4200b, Topics in Clinical Neuroscience Tyrone Cannon",
+    "courseid": "CGSC 4200b",
+    "coursedescription": "An overview and examination of the neuroscience of psychiatric illness. We focus on cutting-edge research in humans and animals aimed at understanding the biological mechanisms that underlie psychiatric illness. Although these questions date back to early philosophical texts, only recently have experimental psychologists and neuroscientists begun to explore this vast and exciting domain of study. We discuss the evolutionary and developmental origins of individual differences in human personality, measurement issues, fundamental dimensions of psychopathology, stability/plasticity, heritability, and implications therapeutic interventions as well as the associated broader implications for public policy. A major focus is on the neurobiology of fear and anxiety, including brain circuits, molecular genetic pathways, and epigenetics. A secondary focus is on differences in behavior and biology that confer risk for the development of depression and addiction, including the biological systems involved in hedonic pleasure, motivated goal pursuit, and the regulation of impulses in the face of everyday temptation. Students should have some background in psychology; PSYC 110 and PSYC 160 preferred. SO W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CGSC 4250b / PSYC 4250b, Social Perception Brian Scholl",
+    "courseid": "CGSC 4250b",
+    "coursedescription": "Connections between visual perception, among the earliest and most basic of human cognitive processes, and social cognition, among the most advanced forms of higher-level cognition. The perception of animacy, agency, and goal-directedness; biological motion; face perception (including the perception of facial attractiveness); gaze processing and social attention; \"thin-slicing\" and \"perceptual stereotypes\"; and social and cultural influences on perception. SO T 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CGSC 4260b / EP&E 4490b / PHIL 4426b / PSYC 4220b, The Cognitive Science of Morality Joshua Knobe",
+    "courseid": "CGSC 4260b",
+    "coursedescription": "Introduction to the emerging field of moral cognition. Focus on questions about the philosophical significance of psychological findings. Topics include the role of emotion in moral judgment; the significance of character traits in virtue ethics and personality psychology; the reliability of intuitions and the psychological processes that underlie them. HU W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CGSC 4710a and CGSC 4720a, Directed Research in Cognitive Science Tyler Brooke-Wilson",
+    "courseid": "CGSC 4710a",
+    "coursedescription": "Research projects for qualified students. The student must be supervised by a member of the Cognitive Science faculty, who sets the requirements and directs the research. To register, a student must submit a written plan of study to the director of undergraduate studies and the faculty supervisor. The normal minimum requirement is a written report of the completed research, but individual faculty members may set alternative equivalent requirements. Only one term may be offered toward the major, with permission of the director of undergraduate studies; two terms may be offered toward the bachelor's degree. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Only one term may be offered toward the major, with permission of the director of undergraduate studies; two terms may be offered toward the bachelor's degree."
+      ]
+    }
+  },
+  {
+    "coursename": "* CGSC 4730a and CGSC 4740a, Directed Reading in Cognitive Science Tyler Brooke-Wilson",
+    "courseid": "CGSC 4730a",
+    "coursedescription": "Individual study for qualified students who wish to investigate an area of cognitive science not covered in regular courses. The student must be supervised by a member of the Cognitive Science faculty, who sets the requirements and meets regularly with the student. To register, a student must submit a written plan of study to the director of undergraduate studies and the faculty supervisor. The normal minimum requirement is a term paper, but individual faculty members may set alternative equivalent requirements. Only one term may be offered toward the major, with permission of the director of undergraduate studies; two terms may be offered toward the bachelor's degree. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Only one term may be offered toward the major, with permission of the director of undergraduate studies; two terms may be offered toward the bachelor's degree."
+      ]
+    }
+  },
+  {
+    "coursename": "CGSC 4800a, Senior Non-Empirical Project I Isaac Davis",
+    "courseid": "CGSC 4800a",
+    "coursedescription": "A research colloquium leading to the selection of a topic for the senior essay. This course is followed by CGSC 4810 to complete the senior requirement. Enrollment is limited to Cognitive Science majors earning the B.A. Degree. ½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment is limited to Cognitive Science majors earning the B.A."
+      ]
+    }
+  },
+  {
+    "coursename": "CGSC 4810a, Senior Non-Empirical Project II Isaac Davis",
+    "courseid": "CGSC 4810a",
+    "coursedescription": "Completion of the senior essay. Prerequisites: CGSC 4800 . Enrollment limited to Cognitive Science majors earning the B.A. Degree. ½ Course cr HTBA",
+    "course-prerequsities": [
+      "CGSC 4800"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to Cognitive Science majors earning the B.A."
+      ]
+    }
+  },
+  {
+    "coursename": "CGSC 4900a, Senior Empirical Project I Isaac Davis",
+    "courseid": "CGSC 4900a",
+    "coursedescription": "A research colloquium leading to the selection of a topic for the senior essay. This course is followed by CGSC 4910 to complete the senior requirement. Enrollment is limited to Cognitive Science majors earning the B.S. Degree. ½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment is limited to Cognitive Science majors earning the B.S."
+      ]
+    }
+  },
+  {
+    "coursename": "* CGSC 4910a, Senior Empirical Project II Isaac Davis",
+    "courseid": "CGSC 4910a",
+    "coursedescription": "Completion of the senior essay. Prerequisite: CGSC 4900 . Enrollment is limited to Cognitive Science majors earning the B.S. Degree. ½ Course cr HTBA",
+    "course-prerequsities": [
+      "CGSC 4900"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment is limited to Cognitive Science majors earning the B.S."
+      ]
+    }
+  }
+]

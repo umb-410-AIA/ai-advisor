@@ -1,0 +1,837 @@
+[
+  {
+    "coursename": "* ECON 0002b, Social Issues in America Rebecca Toseland",
+    "courseid": "ECON 0002b",
+    "coursedescription": "This seminar investigates how data and economics can be used to understand and solve some of the most pressing contemporary social issues in the United States. Topics include equality of opportunity, education, health, climate change, criminal justice, and discrimination. In the context of these topics, the course provides an introduction to some basic economic concepts and data analysis techniques. No prior knowledge of economics or statistics is assumed. Enrollment limited to first-year students. SO TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* ECON 1108a, Quantitative Foundations of Microeconomics Tolga Koker",
+    "courseid": "ECON 1108a",
+    "coursedescription": "Introductory microeconomics with a special emphasis on quantitative methods and examples. Intended for students with limited or no experience with calculus. Enrollment limited. May not be taken after ECON 110 or 115. QR , SO F 9:25am-10:15am, MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 1110a or b, An Introduction to Microeconomic Analysis Staff",
+    "courseid": "ECON 1110a",
+    "coursedescription": "Similar to ECON 115, but taught as a lecture discussion with limited enrollment. Enrollment limited to first-years and sophomores. May not be taken after ECON 108 or 115. QR , SO HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-years and sophomores."
+      ]
+    }
+  },
+  {
+    "coursename": "* ECON 1111a or b, An Introduction to Macroeconomic Analysis Marnix Amand",
+    "courseid": "ECON 1111a",
+    "coursedescription": "Similar to ECON 116, but taught as a lecture discussion with limited enrollment. Enrollment limited to first-years and sophomores. May not be taken after ECON 116. Prerequisite: ECON 108, 110, or 115. SO HTBA",
+    "course-prerequsities": [
+      "ECON 108",
+      "115"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-years and sophomores."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 1115a or b, Introductory Microeconomics Staff",
+    "courseid": "ECON 1115a",
+    "coursedescription": "An introduction to the basic tools of microeconomics to provide a rigorous framework for understanding how individuals, firms, markets, and governments allocate scarce resources. The design and evaluation of public policy. May not be taken after ECON 108 or 110. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 1116a or b, Introductory Macroeconomics Staff",
+    "courseid": "ECON 1116a",
+    "coursedescription": "This course is an introduction to macroeconomics. We begin by asking why some countries produce so much more output than others. We investigate the role of savings and investment, research and development, and the economic institutions that determine them. We then ask what determines output, unemployment, inflation, and interest rates over time, why they fluctuate over time, and how policymakers affect them. May not be taken after ECON 111. Prerequisite: ECON 108, 110, or 115. SO 0 Course cr HTBA",
+    "course-prerequsities": [
+      "ECON 108",
+      "115",
+      "SO 0"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "We then ask what determines output, unemployment, inflation, and interest rates over time, why they fluctuate over time, and how policymakers affect them."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 1117a or b, Introduction to Data Analysis and Econometrics Staff",
+    "courseid": "ECON 1117a",
+    "coursedescription": "Introduction to data analysis from the beginning of the econometrics sequence; exposure to modern empirical economics; and development of credible economic analysis. This course emphasizes working directly and early with data, through such economic examples as studies of environmental/natural resource economics, intergenerational mobility, discrimination, and finance. Topics include: probability, statistics, and sampling; selection, causation and causal inference; regression and model specification; and machine learning and big data. Prerequisites: ECON 108, 110, 115, or equivalent and familiarity with single variable calculus. Students who have taken ECON 131 may not receive major credit for this course. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [
+      "ECON 108",
+      "ECON 131",
+      "SO 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2121a or b, Intermediate Microeconomics Staff",
+    "courseid": "ECON 2121a",
+    "coursedescription": "The theory of resource allocation and its applications. Topics include the theory of choice, consumer and firm behavior, production, price determination in different market structures, welfare, and market failure. After introductory microeconomics and completion of Math 112 or higher. Elementary techniques from multivariate calculus are introduced and applied, but prior knowledge is not assumed. May not be taken after ECON 125. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2122a or b, Intermediate Macroeconomics Staff",
+    "courseid": "ECON 2122a",
+    "coursedescription": "Contemporary theories of employment, finance, money, business fluctuations, and economic growth. Their implications for monetary and fiscal policy. Emphasis on empirical studies, financial and monetary crises, and recent policies and problems. After two terms of introductory economics and completion of the Math 112 or higher. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2123a or b, Intermediate Data Analysis and Econometrics Staff",
+    "courseid": "ECON 2123a",
+    "coursedescription": "Comprehensive and theoretical examination of econometrics, with further exploration of topics covered in ECON 117. A term research project addresses a research question chosen by the student, and involves the application of learned methods to a relevant data set. Prerequisites: ECON 108, 110, 115, or equivalent; ECON 117; and familiarity with single variable calculus. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [
+      "ECON 108",
+      "ECON 117",
+      "SO 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2125a, Microeconomic Theory Mu Zhang",
+    "courseid": "ECON 2125a",
+    "coursedescription": "Similar to ECON 121 but with a more intensive treatment of consumer and producer theory, and covering additional topics including choice under uncertainty, game theory, contracting under hidden actions or hidden information, externalities and public goods, and general equilibrium theory. Recommended for students considering graduate study in economics. After introductory economics, and MATH 118 or 120 or equivalent. May not be taken after ECON 121. QR , SO 0 Course cr TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for students considering graduate study in economics."
+      ]
+    }
+  },
+  {
+    "coursename": "* ECON 2126b, Macroeconomic Theory Joel Flynn",
+    "courseid": "ECON 2126b",
+    "coursedescription": "Similar to ECON 122 but with a more intensive treatment of the mathematical foundations of macroeconomic modeling, and with rigorous study of additional topics. Recommended for students considering graduate study in economics. After two terms of introductory economics, and MATH 118 or 120 or equivalent. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for students considering graduate study in economics."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 2135a, Introduction to Probability and Statistics Yusuke Narita",
+    "courseid": "ECON 2135a",
+    "coursedescription": "Foundations of mathematical statistics: probability theory, distribution theory, parameter estimation, hypothesis testing, regression, and computer programming. Recommended for students considering graduate study in economics. Prerequisites: Introductory microeconomics and MATH 118 or MATH 120 and MATH 222; or MATH 120 and MATH 225. QR , SO 0 Course cr MW 4pm-5:15pm",
+    "course-prerequsities": [
+      "MATH 118",
+      "MATH 120",
+      "MATH 222",
+      "MATH 225",
+      "SO 0",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for students considering graduate study in economics."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 2136b, Econometrics Staff",
+    "courseid": "ECON 2136b",
+    "coursedescription": "Continuation of ECON 135 with a focus on econometric theory and practice: problems that arise from the specification, estimation, and interpretation of models of economic behavior. Topics include classical regression and simultaneous equations models; panel data; and limited dependent variables. Recommended for students considering graduate study in economics. Prerequisites: After ECON 135 or STAT 241 and 242. May not be taken concurrently with STAT 242. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [
+      "ECON 135",
+      "STAT 241",
+      "242",
+      "STAT 242",
+      "SO 0"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for students considering graduate study in economics."
+      ]
+    }
+  },
+  {
+    "coursename": "* ECON 2144a, Economics of Artificial Intelligence and Innovation Evangelia Chalioti",
+    "courseid": "ECON 2144a",
+    "coursedescription": "This course studies the economics of innovation and the effects of artificial intelligence on different industries. Topics include economics of the intellectual property (IP) protection system and prizes; strategic choices in innovation & competition; price discrimination; personalizing pricing and bundling; searching costs; online advertising; economics of data; the sharing and digitized economy; legal and social infrastructure. Prerequisites: Introductory Microeconomics or equivalent: Econ 115 or Econ 110 QR , SO MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "ECON 115",
+      "ECON 110",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2159a or b / GLBL 2159a or b, Game Theory Staff",
+    "courseid": "ECON 2159a",
+    "coursedescription": "An introduction to game theory and strategic thinking. Ideas such as dominance, backward induction, Nash equilibrium, evolutionary stability, commitment, credibility, asymmetric information, adverse selection, and signaling are applied to games played in class and to examples drawn from economics, politics, the movies, and elsewhere. After introductory microeconomics. No prior knowledge of game theory assumed. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2160b / GLBL 2383b, Games and Information Staff",
+    "courseid": "ECON 2160b",
+    "coursedescription": "This is designed to be a \"second\" game theory course. We build on the learnings from introductory game theory courses like ECON 159/GLBL 159, MGT 822 or the SOM core. The course aims to introduce important ideas and tools from game theory, and use them to answer questions in social sciences, law, and business. For instance, how does information get sold and used to persuade? How do we think about the efficiency and equity of allocations? How do sellers decide the best format for an auction to sell a good? Does requiring unanimous verdicts guarantee that the innocent will not be convicted? What causes bank runs? When do we see price wars? The underlying ideas will include games of incomplete information, mechanism design, common knowledge and high-order reasoning, and repeated games. Prerequisite: Any introductory game theory course, e.g., ECON/GLBL 159, MGT 822 or Game Theory in the SOM Core. SO RP 0 Course cr TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "GLBL 159",
+      "MGT 822",
+      "RP 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2170a, Health Economics and Public Policy Howard Forman",
+    "courseid": "ECON 2170a",
+    "coursedescription": "Application of economic principles to the study of the U.S. health care system. Emphasis on basic principles about the structure of the U.S. system, current problems, proposed solutions, and the context of health policy making and politics. After introductory microeconomics. SO TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2171b / AFAM 1946b / EDST 1271b / EDST 271, Urban Inequalities and Educational Inequality Gerald Jaynes",
+    "courseid": "ECON 2171b",
+    "coursedescription": "Analysis of contemporary policy problems related to academic under performance in lower income urban schools and the concomitant achievement gaps among various racial and ethnic groups in United States K-12 education. Historical review of opportunity inequalities and policy solutions proposed to ameliorate differences in achievement and job readiness. Students benefit from practical experience and interdisciplinary methods, including a lab component with time spent in a New Haven high school. Prerequisites: Any course offered by Education Studies, or one course in history or any social science, either: Anthropology, Economics, Political Science, Psychology, Sociology. EDST 110 is preferred, although not required. SO TTh 10:30am-11:20am",
+    "course-prerequsities": [
+      "EDST 110",
+      "TTH 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2184b / GLBL 2234b, International Economics Peter Schott",
+    "courseid": "ECON 2184b",
+    "coursedescription": "Introduction to conceptual tools useful for understanding the strategic choices made by countries, firms, and unions in a globalized world. After two terms of introductory economics. SO MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 2185a / GLBL 3237a, Global Economy Aleh Tsyvinski",
+    "courseid": "ECON 2185a",
+    "coursedescription": "A global view of the world economy and the salient issues in the short and the long run. Economics of crises, fiscal policy, debt, inequality, global imbalances, climate change. The course is based on reading, debating, and applying cutting edge macroeconomic research. SO T 9:15am-11:05am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2201b / GLBL 3211b, Introduction to Development Economics Lauren Bergquist",
+    "courseid": "ECON 2201b",
+    "coursedescription": "This course explores the causes of global poverty and the efficacy of policies designed to alleviate it. Topics to be covered in this course include poverty and inequality, global health, education, agriculture, savings, insurance, credit markets, labor markets, firm productivity, colonialism, slavery, democracy, and corruption. These topics will be approached through the lens of micro-economics, with a focus on the variety of tools available for rigorously measuring the impact of development policies and programs. Econ 117 or GLBL 121 (or the equivalent) . SO MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2210b / EDST 1201b, Economics of Education Daniela Morar",
+    "courseid": "ECON 2210b",
+    "coursedescription": "Application of basic economic concepts and empirical methods to the analysis of education. Topics include the economic return to secondary and postsecondary education, the quality of elementary and secondary education, the market for teachers, inequality in education attainment, and school choice. Prerequisites: ECON 108, 110, or 115 and ECON 117. A prior course in statistics or econometrics is helpful but not required. SO TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "ECON 108",
+      "115",
+      "ECON 117",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2224a, Labor Economics William Hawkins",
+    "courseid": "ECON 2224a",
+    "coursedescription": "What determines wages? Why is there unemployment? How will artificial intelligence affect workers? This course is an introduction to the economics of the labor market. We cover theoretical models and study real-world data. We aim to understand policies (for example, minimum wages) and institutions (for example, labor unions), their effects, and their advantages and disadvantages. Prerequisite: Introductory Microeconomics (ECON 108,110, or 115) For some topics, students will benefit from familiarity with ideas covered in a first course in statistics or econometrics (for example, Econ 117), and in introductory macroeconomics (Econ 111 or 116), but neither of these is required. All necessary material from both will be taught without assuming students are familiar with it in any way. SO MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "ECON 108",
+      "115",
+      "ECON 117",
+      "ECON 111",
+      "116",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2251a, Financial Economics Staff",
+    "courseid": "ECON 2251a",
+    "coursedescription": "Introduction to the economic analysis of investment decisions and financial markets. Topics include time discounting, portfolio choice, equilibrium pricing, arbitrage, market efficiency, equity valuation, fixed-income securities, derivative pricing, and financial intermediation. Prerequisite: Introductory microeconomics. QR , SO 0 Course cr HTBA",
+    "course-prerequsities": [
+      "SO 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2265a / HIST 1766a, History of Economic Thought Robert Dimand",
+    "courseid": "ECON 2265a",
+    "coursedescription": "The objective of this course is to give an overview of how economic analysis has developed, and an introduction to the varied ways in which some of the great economists of the past have gone about studying how the economy functions. We discuss the relevance of their theories to public policy and the role of the state, and consider the roles of pre-analytic vision, improvements in analytical technique, and external events (such as the Great Depression or Global Financial Crisis) in the development of economic analysis. Prerequisites: ECON 115 and ECON 116. SO MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "ECON 115",
+      "ECON 116",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 2276b, Global Economic History Adriana Arroyo Abad",
+    "courseid": "ECON 2276b",
+    "coursedescription": "Before 1820, the pace of economic change over a typical lifetime was zero—after 1820, economic growth revolutionized economic life every few decades. What enabled that growth to continue until today and will it continue into the future? In this course we study economic growth from the Middle Ages until today. In particular, we examine the role played by geography, colonization, technology, migration, and international integration. Prerequisite: ECON 116 or ECON 111. SO MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "ECON 116",
+      "ECON 111",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 3303b, Technology and Society Pascual Restrepo",
+    "courseid": "ECON 3303b",
+    "coursedescription": "This course explores the vast influence of technology on our society and the economy. We discuss how technology originates and evolves and how this process affects our standards of living, trade, the nature of work, the functioning of labor markets, inequality, and social order. Students must be familiar with econometric analysis (ECON 115 or ECON 117) and consumer and producer theory (ECON 110). SO MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 3304a, Law and Economics in the Age of Computers William Macleod",
+    "courseid": "ECON 3304a",
+    "coursedescription": "This course aims to utilize economic tools to elucidate the fundamental aspects of private law and regulation. The rapid advancement of new technologies in the 21st century necessitates new laws and regulations. Therefore, in addition to traditional law and economics topics, the course explores recent developments in the regulation of new technologies and estimates the causal effect of changes in law on economic performance. The study of legal statutes and regulations provides an opportunity to apply microeconomic tools to substantive policy issues. Price theory, game theory, agency theory, and models of trade with asymmetric information are among the tools that are utilized. These tools provide a framework for understanding and predicting the consequences of legal changes. The empirical literature reviewed in the course provides estimates on the magnitude of the effects that legal changes have on economic performance and individual well-being. Prerequisites: ECON 121 or ECON 125 and ECON 123 or ECON 135. These are required courses for economics majors. SO MW 9am-10:15am",
+    "course-prerequsities": [
+      "ECON 121",
+      "ECON 125",
+      "ECON 123",
+      "ECON 135",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 3326b, Fundamentals of Economic Development Kaivan Munshi",
+    "courseid": "ECON 3326b",
+    "coursedescription": "The objective of this course is to examine some of the fundamental forces that shape the process of economic development. This course is divided into three sections: (i) Market Failure: with an analysis of credit, labor, and insurance markets in developing countries. (ii) Social Response: how community networks emerge in response to market failure. We study the positive and negative consequences of this community involvement for growth and development; in the short-run and the long-run. We also provide economic foundations for the emergence of social norms and identity, as well as the dynamic inefficiencies that they can generate with economic development. (iii) Biological Response: how biological adaptation to economic conditions in the pre-modern economy can have negative consequences for nutritional status and health in developing economies. Apart from providing a particular perspective on development, an additional objective of this course demonstrates the use of economic theory in informing empirical research. Prerequisites: Intermediate Microeconomics, Introductory Econometrics and Data Analysis. Students are expected to be familiar with calculus, basic microeconomics, and basic econometrics. SO MW 9am-10:15am",
+    "course-prerequsities": [
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 3333b, Energy and Environmental Economics Nicholas Ryan",
+    "courseid": "ECON 3333b",
+    "coursedescription": "Environmental and energy economics with an emphasis on climate change, energy markets, and the transition to renewable power. The course explores key ideas in environmental regulation and energy markets using both theoretical models and data analysis in R. Prerequisites: ECON 115 and ECON 117. QR , SO HTBA",
+    "course-prerequsities": [
+      "ECON 115",
+      "ECON 117"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 3345a, The Economics of Children & Families Janet Currie",
+    "courseid": "ECON 3345a",
+    "coursedescription": "This course provides an overview of the ways that economic thinking and methods can be and have been applied to understanding people’s lives from the time before birth through the formation of their own families. Specific topics include determinants of fertility, the fetal origins hypothesis, the importance of child health as a form of human capital, early childhood education, child mental health, K-12 education, college choices and returns to education, partnering decisions, determinants of parental investments in children, and returns to public investments in children. We look at these topics through the lens of how they contribute to human capital formation, human capital being the most important form of capital underlying growth and development. Prerequisites: Intermediate Microeconomics, Introductory Econometrics, and Data Analysis. Students are expected to be familiar with calculus, basic microeconomics, and basic econometrics. SO TTh 9am-10:15am",
+    "course-prerequsities": [
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 3350a, Mathematical Economics: General Equilibrium Theory John Geanakoplos",
+    "courseid": "ECON 3350a",
+    "coursedescription": "An introduction to general equilibrium theory and its application to finance and the theory of money. Recommended for students considering graduate study in economics, or a career in quantitative finance. Prerequisites: After MATH 118 or 120, and intermediate microeconomics. QR , SO 0 Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MATH 118",
+      "120",
+      "SO 0",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for students considering graduate study in economics, or a career in quantitative finance."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 3351b, Mathematical Economics: Game Theory Elliot Lipnowski",
+    "courseid": "ECON 3351b",
+    "coursedescription": "Introduction to game theory and choice under uncertainty. Analysis of the role of information and uncertainty for individual choice behavior, as well as application to the decision theory under uncertainty. Analysis of strategic interaction among economic agents, leading to the theory of auctions and mechanism design. Recommended for students considering graduate study in economics. After MATH 118, 120, and intermediate microeconomics. QR , SO 0 Course cr TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for students considering graduate study in economics."
+      ]
+    }
+  },
+  {
+    "coursename": "* ECON 3355b, Quasi-Experiments in Economics Winnie van Dijk",
+    "courseid": "ECON 3355b",
+    "coursedescription": "This course explores how economists use quasi-experiments to study cause-and-effect relationships that help us understand economic phenomena and inform policy. Quasi-experiments take advantage of real-world events—such as policy changes or eligibility rules—that create treatment and comparison groups in ways that can mimic random assignment. These methods are widely used not only when experiments are infeasible, but also when researchers want to answer causal questions that experiments may not be well suited to address. We examine the strengths and limitations of commonly used methods—such as difference-in-differences, instrumental variables, and regression discontinuity—and apply them to policy-relevant topics such as the returns to education, the inner workings of labor markets, the effects of incarceration, and the evaluation of social programs. The course combines mathematical reasoning with creative thinking: students learn the formal assumptions and arguments that justify a method and study examples of how quasi-experiments are used in empirical economic research. This course is well-suited for students planning to write a senior essay in economics. Prerequisite: ECON 123 or ECON 136. Problem sets involve some coding and data analysis that require the use of R; prior experience in a language such as R, Python, Julia, Stata, etc. is valuable. SO TTh 10:30am-11:45am",
+    "course-prerequsities": [
+      "ECON 123",
+      "ECON 136",
+      "TTH 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 3361b, Corporate Finance Christopher Clayton",
+    "courseid": "ECON 3361b",
+    "coursedescription": "Financial management from inside the corporation or operating entity. Topics include capital budgeting and valuation, optimal capital structure, initial public offerings, mergers, and corporate restructuring. Cases and problem sets provide applications. Prerequisites: intermediate microeconomics and econometrics. 0 Course cr MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics include capital budgeting and valuation, optimal capital structure, initial public offerings, mergers, and corporate restructuring."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 3363a, The Global Financial Crisis Andrew Metrick and Timothy Geithner",
+    "courseid": "ECON 3363a",
+    "coursedescription": "Comprehensive survey of the causes, events, policy responses, and aftermath of the global financial crisis of 2007-09. Study of the dynamics of financial crises in a modern economy. Prerequisite: Successful completion of a course in introductory economics. SO TTh 1pm-2:20pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 3365a or b / CPSC 3650a or b, Algorithms James Glenn",
+    "courseid": "ECON 3365a",
+    "coursedescription": "Paradigms for algorithmic problem solving: greedy algorithms, divide and conquer, dynamic programming, and network flow. NP completeness and approximation algorithms for NP-complete problems. Algorithms for problems from economics, scheduling, network design and navigation, geometry, biology, and optimization. Provides algorithmic background essential to further study of computer science. Only one of CPSC 365 or CPSC 366 may be taken for credit. Prerequisites: CPSC 202 or MATH 244, CPSC 223. QR HTBA",
+    "course-prerequsities": [
+      "CPSC 202",
+      "MATH 244",
+      "CPSC 223"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 3366b / AMTH 3660b / CPSC 3660b, Intensive Algorithms Anna Gilbert",
+    "courseid": "ECON 3366b",
+    "coursedescription": "Mathematically sophisticated treatment of the design and analysis of algorithms and the theory of NP completeness. Algorithmic paradigms including greedy algorithms, divide and conquer, dynamic programming, network flow, approximation algorithms, and randomized algorithms. Problems drawn from the social sciences, Data Science, Computer Science, and engineering. For students with a flair for proofs and problem solving. Only one of CPSC 365, CPSC 366, or CPSC 368 may be taken for credit. Prerequisites: MATH 244 and CPSC 223. QR HTBA",
+    "course-prerequsities": [
+      "MATH 244",
+      "CPSC 223"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 3375b / GLBL 3219b, Monetary Policy William English",
+    "courseid": "ECON 3375b",
+    "coursedescription": "Introduction to modern macroeconomic models and how to use the models to examine some of the key issues that have faced monetary policymakers during and after the global financial crisis of 2008–2009. Prerequisites: Intermediate level macroeconomics (ECON 122 or 126) and introductory econometrics. WR , SO 0 Course cr TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "ECON 122",
+      "126",
+      "SO 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 3380b / GLBL 4102b, Emerging Markets Mayara Felix",
+    "courseid": "ECON 3380b",
+    "coursedescription": "Emerging markets are economies transitioning from low- to middle-income status, experiencing rapid urbanization, increasing integration into global trade, and strengthening financial institutions. These countries, which include China, India, Brazil, Indonesia, South Africa, and Mexico, are characterized by stronger state capacity compared to other developing economies. This course exposes students to the challenges and opportunities faced by people and firms in emerging markets, with a special focus on policy reforms aimed at addressing such challenges. We cover contemporary issues in trade policy, taxation, labor markets, and welfare programs. Each theme is explored through empirical research published in leading economics journals, allowing students to derive evidence-based insights into policy effectiveness. Prerequisites: ECON 117 and ECON 121, or permission from the instructor. SO Th 3pm-5pm",
+    "course-prerequsities": [
+      "ECON 117",
+      "ECON 121"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: ECON 117 and ECON 121, or permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 3385b, Measuring Market Power Charles Hodgson",
+    "courseid": "ECON 3385b",
+    "coursedescription": "Theory and methods of Empirical Industrial Organization (IO), with applications to industry data. Students learn the econometric tools used by IO economists to estimate models of demand, pricing, and competition, and apply them to real data in several hands-on assignments. Topics include demand systems, monopoly and oligopoly pricing, merger analysis, productivity, and entry games. Required: ECON 1115 or ECON 1110 and ECON 1117 . Students would also benefit from having taken ECON 4409 , or taking it simultaneously with this course. SO T 9am-10:50am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 3426a, Discrimination in Law, Theory, and Practice Gerald Jaynes",
+    "courseid": "ECON 3426a",
+    "coursedescription": "How law and economic theory define and conceptualize economic discrimination; whether economic models adequately describe behaviors of discriminators as documented in court cases and government hearings; the extent to which economic theory and econometric techniques aid our understanding of actual marketplace discrimination. This course was formerly listed as ECON 475. Prerequisites: introductory microeconomics and at least one additional course in Economics, African American Studies, Ethnicity, Race, and Migration, or Women's, Gender, and Sexuality Studies. TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4407a / GLBL 4310a, International Finance Ana Fieler",
+    "courseid": "ECON 4407a",
+    "coursedescription": "A study of the implications of increasing integration of the world economy, through international trade, multinational production, and financial markets. Topics include foreign exchange markets, capital flows, trade and current account imbalances, coordination of monetary and fiscal policy in a global economy, financial crises and their links to sovereign debt crises and currency devaluations. Prerequisite: intermediate macroeconomics or equivalent. SO 0 Course cr TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "SO 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4409b, Firms, Markets, and Competition Philip Haile",
+    "courseid": "ECON 4409b",
+    "coursedescription": "Analysis of imperfectly competitive markets, focusing on the interactions among firm behavior, market structure, and market outcomes. Topics include oligopoly, collusion, predation, firm entry, advertising, and price discrimination as well as public policy implications of market behavior. After intermediate microeconomics or equivalent. QR , SO MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4411b, Economics of Uncertainty and Information Soenje Reiche",
+    "courseid": "ECON 4411b",
+    "coursedescription": "Individual and collective choice in the presence of uncertainty and asymmetric information. Implications of such decision making for economic phenomena. Basic analytical tools for studying decisions under uncertainty. Asset markets, adverse selection, screening, signaling, moral hazard, incomplete contracts, bilateral trade with asymmetric information, and mechanism design. Prerequisites: intermediate microeconomics and econometrics. SO 0 Course cr TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "SO 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4419b, Financial Time Series Econometrics Xiaohong Chen",
+    "courseid": "ECON 4419b",
+    "coursedescription": "This is an advanced course covers basic univariate and multivariate models and methods used to analyze financial and economic time series data and panel time series data. Topics include: classic linear models; serial dependence, autocorrelation in error variances (ARCH, GARCH); methods that allow for nonlinearity, tail dependence, comovements, conditional value at risk, fat-tails, nonstationarity; vector autoregressive models; factor models; Markov switching, latent factors, measurement errors, stochastic volatility; empirical asset pricing models. The aim of the course is to help students write their senior essays and start their own research in economics and finance. Prerequisites: ECON 117 and 123, or ECON 135 and 136. SO TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "ECON 117",
+      "123",
+      "ECON 135",
+      "136",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4424a / GLBL 4308a, Central Banking William English",
+    "courseid": "ECON 4424a",
+    "coursedescription": "Introduction to the different roles and responsibilities of modern central banks, including the operation of payments systems, monetary policy, supervision and regulation, and financial stability. Discussion of different ways to structure central banks to best manage their responsibilities. Prerequisites: Intermediate Microeconomics, Intermediate Macroeconomics, and Introductory Econometrics. SO 0 Course cr MW 1pm-2:20pm",
+    "course-prerequsities": [
+      "SO 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4425a / CPSC 4550a, Algorithmic Game Theory Manolis Zampetakis",
+    "courseid": "ECON 4425a",
+    "coursedescription": "A mathematically rigorous investigation of the interplay of economic theory and computer science, with an emphasis on the relationship of incentive-compatibility and algorithmic efficiency. Our main focus is on algorithmic tools in mechanism design, algorithms and complexity theory for learning and computing Nash and market equilibria, and the price of anarchy. Case studies in Web search auctions, wireless spectrum auctions, matching markets, and network routing, and social networks. Prerequisite: CPSC 3650 (formerly CPSC 365) or permission of the instructor. Familiarity with basic microeconomic theory is helpful but not required. QR MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "CPSC 3650",
+      "CPSC 365",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: CPSC 3650 (formerly CPSC 365) or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4433a, The Economics of Space Costas Arkolakis",
+    "courseid": "ECON 4433a",
+    "coursedescription": "The aim of this course is to analyze the ways that geography determines economic outcomes. We discuss and analyze data on regional economic activity and how economic shocks propagate in space. We pair those data with simple models where geography plays a crucial role in the determination of economic activity and discuss how changes in this geography lead some regions to grow and economic outcomes to diverge. Various policies that affect the spatial allocation of economic activity, such as infrastructure investment, local taxes, and transfers, are analyzed Prerequisites: MATH 118, 120, or permission of instructor. SO 0 Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MATH 118",
+      "SO 0",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Various policies that affect the spatial allocation of economic activity, such as infrastructure investment, local taxes, and transfers, are analyzed Prerequisites: MATH 118, 120, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* ECON 4434a, Labor Economics: Inequality and Social Mobility Orazio Attanasio",
+    "courseid": "ECON 4434a",
+    "coursedescription": "The objective of this advanced course is to study various aspects of inequality and social mobility and to understand their trends over time and their drivers. Although we briefly study some international comparisons, the focus of the course is inequality in the US and, to a less extent, the UK. We consider inequalities among different countries only tangentially. Prerequisites: ECON 121 and Econometrics. SO HTBA",
+    "course-prerequsities": [
+      "ECON 121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4438a, Applied Econometrics: Politics, Sports, Microeconomics Ray Fair",
+    "courseid": "ECON 4438a",
+    "coursedescription": "This course has an applied econometrics focus. Topics include voting behavior, betting markets, and various issues in sports. The aim of the course is to help students prepare original empirical research using econometric tools and to read empirical papers in economics and other social sciences. Students write three empirical papers. The first can be an extension of an existing article, where some of the results are duplicated and then extended. The second is similar to the first with no example provided. The third is an original paper within the range of topics covered in the course, where data are collected and analyzed using relevant econometric techniques. Prerequisites: Two econometrics or statistics courses, one of which has to be ECON 117. Ideally, ECON 123 should also have been taken, but it is not an absolute requirement. ECON 135 and ECON 136 are substitutes for ECON 117 and ECON 123. Special permission from the instructor is needed if ECON 117 or ECON 136 has not been taken. Also required is introductory microeconomics. SO MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "ECON 117",
+      "ECON 123",
+      "ECON 135",
+      "ECON 136",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Special permission from the instructor is needed if ECON 117 or ECON 136 has not been taken."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4439b, Applied Econometrics: Macroeconomic and Finance Forecasting Ray Fair",
+    "courseid": "ECON 4439b",
+    "coursedescription": "This course has an applied econometrics focus. The focus is on forecasting macroeconomic and financial variables. Macroeconomic forecasting concerns forecasting variables like GDP, components of GDP like consumption, investment, and imports, inflation, the unemployment rate, interest rates, the government deficit, and exchange rates. There are various forecasting methods, some purely statistical time series techniques and some using economic theory. We consider both. Financial forecasting is more problematic, since changes in asset prices may be roughly unpredictable. We also examine topics like momentum forecasting to see if some asset prices are predictable. Prerequisites: Two courses in econometrics or statistics, or one course with special permission from the instructor. SO MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Macroeconomic forecasting concerns forecasting variables like GDP, components of GDP like consumption, investment, and imports, inflation, the unemployment rate, interest rates, the government deficit, and exchange rates.",
+        "Prerequisites: Two courses in econometrics or statistics, or one course with special permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* ECON 4444a, Market Inefficiencies and the Limits of Arbitrage Michael J Pascutti",
+    "courseid": "ECON 4444a",
+    "coursedescription": "The role of hedge funds in the United States financial markets and hedge fund behavior; understanding what hedge funds do, why they exist, and how they are different from other investment vehicles. Study of investment strategies that provide opportunity and risk for investors and study of academic papers analyzing (risky) arbitrage strategies. Prerequisite: intermediate microeconomics and econometrics. SO 0 Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "SO 0",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4445b, The U.S. Banking System Michael J Pascutti",
+    "courseid": "ECON 4445b",
+    "coursedescription": "The special functions of banks in the U.S. economy. The benefits but fragile nature of the banking system. Prerequisites: intermediate macroeconomics, microeconomics, and econometrics. SO MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4446a / APHY 4700a, Statistical Methods with Applications in Science and Finance Sohrab Ismail-Beigi",
+    "courseid": "ECON 4446a",
+    "coursedescription": "Introduction to key methods in statistical physics with examples drawn principally from the sciences (physics, chemistry, astronomy, statistics, biology) as well as added examples from finance. Students learn the fundamentals of Monte Carlo, stochastic random walks, and analysis of covariance analytically as well as via numerical exercises. Prerequisites: ENAS 194, MATH 222, and ENAS 130, or equivalents. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "ENAS 194",
+      "MATH 222",
+      "ENAS 130",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4450b, Investment Analysis Alex Hetherington and Chivetta Amelia",
+    "courseid": "ECON 4450b",
+    "coursedescription": "This seminar seeks to introduce the world of investment management to students, across a range of investment strategies from public stocks to private equity and real estate. The instructors, both senior members of the Yale Investment Office, the department that manages the University's $41 billion endowment, guide class discussion in response to assigned reading and guest speaker visits. The distinguished guest speakers, including world-renowned hedge fund managers, venture capital luminaries and Yale's chief investment manager Matthew Mendelsohn '07 are at the heart of the course. These speakers join the seminar for a discussion of how their firms approach the investment landscape and how they seek to achieve market-beating returns. Students are asked to engage with and analyze the speaker's investment strategy and to think about the strategy from the perspective of an institutional investor like Yale. Registration requires instructor permission. SO T 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Registration requires instructor permission."
+      ]
+    }
+  },
+  {
+    "coursename": "* ECON 4455a, Economic Models of New Technology Evangelia Chalioti",
+    "courseid": "ECON 4455a",
+    "coursedescription": "Analysis of firms’ incentives to innovate, focusing on the effects of market power on the intensity of innovative activity. Topics include strategic investment in innovation, patent races, the diffusion of knowledge, intellectual property (IP) protection systems, IP licensing, research joint ventures, litigation, venture capital, and conflicts between IP rights and antitrust regulation. Prerequisite: Intermediate Microeconomics or equivalent: Econ 121 or Econ 125 SO M 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "ECON 121",
+      "ECON 125",
+      "M 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4456a, Private Equity Investing Michael Schmertzler",
+    "courseid": "ECON 4456a",
+    "coursedescription": "A case-oriented study of principal issues and investment types found in substantial private equity portfolios. Discussion of enterprise valuation, value creation, business economics, negotiation, and legal structure, based on primary source materials and original cases. Prerequisite: ECON 251 or ECON 252 or ECON 255. SO TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "ECON 251",
+      "ECON 252",
+      "ECON 255",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4459a, Experimental Economics Maria Kogelnik",
+    "courseid": "ECON 4459a",
+    "coursedescription": "The goal of this course is to introduce students to the methods of conducting controlled experiments to study economic phenomena. Students learn how to design experimental studies to gain insights into human behavior in economic contexts, and to critically evaluate existing research. The course covers a wide range of economic questions that can be studied using experiments. Experimental methods and their advantages as well as shortcomings are discussed using examples from the recent literature. Furthermore, students are expected to actively participate in incentivized experiments that are administered for learning purposes. SO T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4460a / EP&E 4259a, From Say's Law to the Global Financial Crisis: Thinking about Economic Fluctuations and Instability Robert Dimand",
+    "courseid": "ECON 4460a",
+    "coursedescription": "This course investigates the changing ways in which economic fluctuations and financial and economic instability have been analyzed in the two centuries from the debates at the end of the Napoleonic Wars over Say’s Law of Markets and the possibility of a general glut of commodities through to the Global Financial Crisis and the present state of macroeconomics. Prerequisite: Intermediate Macroeconomics ( ECON 2122 or ECON 2126 ) or permission of the instructor. SO T 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "ECON 2122",
+      "ECON 2126",
+      "T 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Intermediate Macroeconomics ( ECON 2122 or ECON 2126 ) or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* ECON 4463b / BENG 4063b, The Economics and Science of Medicine Gregory Raskin and Yashodhara Dash",
+    "courseid": "ECON 4463b",
+    "coursedescription": "This multidisciplinary class is an exploration of the background of today’s bestselling medicines, their huge commercial impact, and the companies that created them. It focuses on the most compelling aspects of drug development and company formation in the context of topical issues like cancer treatment, gene editing, stem cell therapy, the opioid epidemic, and drug pricing controversies. Prerequisite: Introductory or intermediate microeconomics, introductory or intermediate Biology, Molecular Biology, Chemistry or Biomedical Engineering. SO Th 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "TH 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4465a / EP&E 4224a / GLBL 4830a, Debating Globalization Ernesto Zedillo",
+    "courseid": "ECON 4465a",
+    "coursedescription": "Facets of contemporary economic globalization, including trade, investment, and migration. Challenges and threats of globalization: inclusion and inequality, emerging global players, global governance, climate change, and nuclear weapons proliferation. Prerequisite: background in international economics and data analysis. Preference to seniors majoring in Economics or EP&E. SO RP M 9:25am-11:15am",
+    "course-prerequsities": [
+      "M 9",
+      "25AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4467b / ECON 467 / GLBL 4307b, Economic Evolution of the Latin American and Caribbean Countries Ernesto Zedillo",
+    "courseid": "ECON 4467b",
+    "coursedescription": "Economic evolution and prospects of the Latin American and Caribbean (LAC) countries. Topics include the period from independence to the 1930s; import substitution and industrialization to the early 1980s; the debt crisis and the \"lost decade\"; reform and disappointment in the late 1980s and the 1990s; exploration of selected episodes in particular countries; and speculations about the future. Prerequisities: intermediate microeconomics and macroeconomics. SO M 9:25am-11:15am",
+    "course-prerequsities": [
+      "M 9",
+      "25AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4468b, Institutions and Incentives in Economic Development Mark Rosenzweig",
+    "courseid": "ECON 4468b",
+    "coursedescription": "Assessment of alternative policies and programs designed to promote economic development; examination of fundamental problems of underdeveloped areas and consideration of how and whether such programs resolve them. The roles of indigenous institutions in low-income countries in alleviating problems of underdevelopment. Prerequisites: intermediate microeconomics and econometrics. SO W 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "W 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4470a, Long-term Fiscal Sustainability Teresa Delgado",
+    "courseid": "ECON 4470a",
+    "coursedescription": "The course considers the study of fiscal policy and government finances and its determinants in the long term. We focus on the US and other advanced economies' sustainability position and how that is driven by and related to changes in the demographic structure of these countries, and other age-related expenditures, like health and pensions. The effect of other expenditures, like student loans, and revenues are looked at. We also carry out sovereign debt analysis of some middle-income countries. The pre-requisites are introductory macroeconomics and microeconomics. SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "TH 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4482b, Economics of Cities Cody Cook",
+    "courseid": "ECON 4482b",
+    "coursedescription": "This seminar explores the economic forces shaping cities, their structure, and the lives of their residents. Topics include why cities exist, urban amenities & disamenities, housing markets, segregation, transportation infrastructure, and the political economy of local governments. The course emphasizes both the core theoretical models of urban economics and policy-relevant empirical applications, such as zoning reform, affordable housing programs, congestion pricing, and climate adaptation. Prerequisites: Intermediate micro and econometrics and a working knowledge of calculus and some basic statistics. Problem sets involve some coding and data analysis. SO W 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "W 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4485b / PSYC 3585b, Behavioral Economics Maria Saez Marti",
+    "courseid": "ECON 4485b",
+    "coursedescription": "Study of foundational topics in behavioral economics. Focus on theories of single-agent behavior that aim to incorporate non-standard phenomena into classic economic models, with consideration of intertemporal decision-making, choice under uncertainty, and learning. Prerequisites: ECON 121; some familiarity with game theory and probability theory. SO W 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "ECON 121",
+      "W 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4491a and ECON 4492b, The Senior Essay Staff",
+    "courseid": "ECON 4491a",
+    "coursedescription": "The senior essay is an opportunity for a student to engage in independent economic research. The essay should not be merely a review of the literature, but must contain original research and/or analysis aimed at examining a hypothesis using the tools of economics. The essay can be theoretical, empirical or computational. The senior essays that receive A’s and are awarded prizes are typically those that use economics tools (and, where appropriate, data) to offer fresh insights on questions. The senior essay is optional, but it is required for consideration for Distinction in the Major (for both Economics and Econ&Math). Students enrolling in this one-term course need to find an advisor. There are no page requirements or formatting requirements. 1 credit for Yale College students Two econometrics courses (or ECON 135 plus one econometrics course). The second econometrics course can be taken Cr/D/F, and can be taken in the fall of senior year. The econometrics courses that qualify are only ECON 117, ECON 123 and ECON 136, in addition to 400-level applied econometrics courses (ECON 419, ECON 438 and ECON 439). HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ECON 4498a and ECON 4499b, Directed Reading Giovanni Maggi",
+    "courseid": "ECON 4498a",
+    "coursedescription": "Junior and senior economics majors desiring a directed reading course in special topics in economics not covered in other graduate or undergraduate courses may elect this course, not more than once, with written permission of the director of undergraduate studies and of the instructor. The instructor meets with the student regularly, typically for an hour a week, and the student writes a paper or a series of short essays. Junior and senior majors may take this course for a letter grade, but it does not meet the requirement for a department seminar. The application form may be found here: https://economics.yale.edu/undergraduate/forms-documents HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Junior and senior economics majors desiring a directed reading course in special topics in economics not covered in other graduate or undergraduate courses may elect this course, not more than once, with written permission of the director of undergraduate studies and of the instructor."
+      ]
+    }
+  }
+]

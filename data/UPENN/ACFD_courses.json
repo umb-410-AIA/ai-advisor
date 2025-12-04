@@ -1,0 +1,80 @@
+[
+  {
+    "coursename": "ACFD 6000 Scholarship and Personal Development I",
+    "courseid": "ACFD 6000",
+    "coursedescription": "In this course, faculty participants will develop and expand upon high-level personal competencies foundational to success in faculty appointments. Focus will be on self-assessments, strategic career planning, fostering personal and professional relationships, and scholarly productivity. Prerequisite: Faculty interested in enrolling in ACFD 6000 , Scholarship and Personal Development I, will first need to be admitted to the Academic Foundations Certificate program. Program prerequisites include (but are not limited to) a current, full time faculty appointment at an accredited university. Participation in this program requires prior approval from faculty chair/chief as appropriate.",
+    "course-prerequsities": [
+      "ACFD 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Prerequisite: Faculty interested in enrolling in ACFD 6000 , Scholarship and Personal Development I, will first need to be admitted to the Academic Foundations Certificate program.",
+        "Program prerequisites include (but are not limited to) a current, full time faculty appointment at an accredited university."
+      ]
+    }
+  },
+  {
+    "coursename": "ACFD 6010 Scholarship and Personal Development II",
+    "courseid": "ACFD 6010",
+    "coursedescription": "In this course, faculty participants will develop and expand upon high-level personal competencies foundational to success in faculty appointments. Focus will be on core competencies of advanced time and team management techniques, effective allocation of research resources, and strategies for funding. Prerequisite: Faculty interested in enrolling in ACFD 6010 , Scholarship and Personal Development II, will first need to be admitted to the Academic Foundations Certificate program and complete ACFD 6000 , Scholarship and Personal Development I. Overall program prerequisites include (but are not limited to) a current, full time faculty appointment at an accredited university. Participation in this program requires prior approval from faculty chair/chief as appropriate. Prerequisite: ACFD 6000",
+    "course-prerequsities": [
+      "ACFD 6010",
+      "ACFD 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Prerequisite: Faculty interested in enrolling in ACFD 6010 , Scholarship and Personal Development II, will first need to be admitted to the Academic Foundations Certificate program and complete ACFD 6000 , Scholarship and Personal Development I.",
+        "Overall program prerequisites include (but are not limited to) a current, full time faculty appointment at an accredited university."
+      ]
+    }
+  },
+  {
+    "coursename": "ACFD 6020 Scholarship and Personal Development III",
+    "courseid": "ACFD 6020",
+    "coursedescription": "In this course, faculty participants will develop and expand upon high-level personal competencies foundational to success in faculty appointments. Focus will be on interpersonal skills critical to negotiation and crucial conversations, and strategic career planning. Prerequisite: Faculty interested in enrolling in ACFD 6020 , Scholarship and Personal Development III will first need to be admitted to the Academic Foundations Certificate program, and complete ACFD 6000 , Scholarship and Professional Development I, and ACFD 6010 , Scholarship and Personal Development II. Program prerequisites include (but are not limited to) a current, full time faculty appointment at an accredited university. Participation in this program requires prior approval from faculty chair/chief as appropriate Prerequisite: ACFD 6000 AND ACFD 6010",
+    "course-prerequsities": [
+      "ACFD 6020",
+      "ACFD 6000",
+      "ACFD 6010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Prerequisite: Faculty interested in enrolling in ACFD 6020 , Scholarship and Personal Development III will first need to be admitted to the Academic Foundations Certificate program, and complete ACFD 6000 , Scholarship and Professional Development I, and ACFD 6010 , Scholarship and Personal Development II.",
+        "Program prerequisites include (but are not limited to) a current, full time faculty appointment at an accredited university."
+      ]
+    }
+  },
+  {
+    "coursename": "ACFD 6030 Scholarship and Personal Development IV",
+    "courseid": "ACFD 6030",
+    "coursedescription": "In this course, faculty participants will develop and expand upon high-level personal competencies foundational to success in faculty appointments. Focus will be on communication skills critical for networking, and delivering impactful talks. Prerequisite: Faculty interested in enrolling in ACFD 6030 , Scholarship and Personal Development IV, will first need to be admitted to the Academic Foundations Certificate program and complete ACFD 6000 , Scholarship and Personal Development I; ACFD 6010 , Scholarship and Personal Development II; and ACFD 6020 , Scholarship and Personal Development III. Overall program prerequisites include (but are not limited to) a current, full time faculty appointment at an accredited university. Participation in this program requires prior approval from faculty chair/chief as appropriate. Prerequisite: ACFD 6000 AND ACFD 6010 AND ACFD 6020",
+    "course-prerequsities": [
+      "ACFD 6030",
+      "ACFD 6000",
+      "ACFD 6010",
+      "ACFD 6020"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Prerequisite: Faculty interested in enrolling in ACFD 6030 , Scholarship and Personal Development IV, will first need to be admitted to the Academic Foundations Certificate program and complete ACFD 6000 , Scholarship and Personal Development I; ACFD 6010 , Scholarship and Personal Development II; and ACFD 6020 , Scholarship and Personal Development III.",
+        "Overall program prerequisites include (but are not limited to) a current, full time faculty appointment at an accredited university."
+      ]
+    }
+  },
+  {
+    "coursename": "ACFD 6999 Independent Study in Academic Foundations",
+    "courseid": "ACFD 6999",
+    "coursedescription": "This course is reserved for students in the Academic Foundations Certificate to complete an independent study with a predetermined faculty member. The topics will be determined in coordination with that faculty. Consultation with ACFD program and faculty is required before registration. The option to complete an independent study requires approval from academic advisor and Director of the ACFD program. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

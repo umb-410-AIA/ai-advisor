@@ -1,0 +1,1392 @@
+[
+  {
+    "coursename": "BIOL 0004 Killer Viruses: What threat do they pose in contemporary society?",
+    "courseid": "BIOL 0004",
+    "coursedescription": "The goal of this course is two fold: to provide students with an introductory, practical view of biological systems, and to enable students to evaluate the health threat of viruses as natural or terrorist-driven agents in contemporary society. We are all well aware of the recent emergence of multiple viruses as potential treats to the public health: examples include SARS-CoV-2 and other SARS, HIV, West Nile and Ebola viruses. However, still greater threats may arise by expansion of existing virus, such as smallpox and influenza that we more commonly think of as being either eradicated or harmless. Through this course we will examine the general properties of viruses, our capacity to ward-off common virus infections using the immune response, the general concept of vaccination, the emergence of new virus pathogens, and the capacity of these pathogens to spread within our population based on regional and global culture and finance. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 0010 Ecological Consequences of Climate Change",
+    "courseid": "BIOL 0010",
+    "coursedescription": "Students will read and discuss seminal papers on a number of major topics in the ecology of climate change and the long-term consequences of the effects of climate change on ecological systems. Some of the topics include: effects of climate change on species distributions, disruption of plant pollinator systems and the consequences for ecosystem composition and stability, changes in the distribution and epidemiology of insect-borne infectious diseases, and the consequences of sea level rise and the increased intensity and frequency of severe weather events. Other topics may be covered. Grading will be based on participation in discussions, a paper on an approved topic, and a presentation on the topic of the student's paper. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 0014 Descent with Modification: An introduction to the science of evolution",
+    "courseid": "BIOL 0014",
+    "coursedescription": "Evolution provides the unifying framework for the biological sciences and has been confirmed by a huge and diverse body of evidence. Public opinion polls show, however, that evolution continues to be socially and politically controversial in the United States. In this first-year seminar, we will explore the scientific basis for evolution by reading and discussing historical sources, a current nonspecialist text on evolution, and selected papers and articles from the scientific and popular literature. With our knowledge of evolutionary fact and theory as background, we will also discuss social and political opposition to the teaching of evolution. Grading will be based on participation in class discussions and on performance in several brief writing assignments. There is no course prerequisite, but high school introductory biology would be helpful. Fall, even numbered years only 1 Course Unit",
+    "course-prerequsities": [
+      "ONLY 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 1017 The Biology of Food",
+    "courseid": "BIOL 1017",
+    "coursedescription": "This course will examine the ways in which humans manipulate - and have been manipulated by - the organisms we depend on for food, with particular emphasis on the biological factors that influence this interaction. The first part of the course will cover the biology, genetics, evolution, and breeding of cultivated plants and animals; the second part will concern the ecological, economic, and political factors that influence food production. Spring, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 1101 Introduction to Biology A",
+    "courseid": "BIOL 1101",
+    "coursedescription": "General principles of biology focusing on the basic chemistry of life, cell biology, molecular biology, and genetics in all types of living organisms. Particular emphasis will be given to links between the fundamental processes covered and current challenges of humankind in the areas of energy, food, and health. Fall or Spring Mutually Exclusive: BIOL 1121 , BIOL 1123 , BIOL 1124 1.5 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 1102 Introduction to Biology B",
+    "courseid": "BIOL 1102",
+    "coursedescription": "General principles of biology focusing on evolution, physiology, development, and ecology in all types of living organisms. Fall or Spring Mutually Exclusive: BIOL 1121 , BIOL 1123 , BIOL 1124 Prerequisite: BIOL 1101 1.5 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 1110 Introduction to Brain and Behavior",
+    "courseid": "BIOL 1110",
+    "coursedescription": "Introduction to the structure and function of the vertebrate nervous system. We begin with the cellular basis of neuronal activities, then discuss the physiological bases of motor control, sensory systems, motivated behaviors, and higher mental processes. This course is intended for students interested in the neurobiology of behavior, ranging from animal behaviors to clinical disorders. Fall or Spring Also Offered As: NRSC 1110 , PSYC 1210 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is intended for students interested in the neurobiology of behavior, ranging from animal behaviors to clinical disorders."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 1121 Introduction to Biology - The Molecular Biology of Life",
+    "courseid": "BIOL 1121",
+    "coursedescription": "An intensive introductory lecture course covering the cell, molecular biology, biochemistry, and the genetics of animals, bacteria, and viruses. This course is comparable to Biology 1101, but places greater emphasis on molecular mechanisms and experimental approaches. Particular attention is given to the ways in which modern cell biological and molecular genetic methods contribute to our understanding of evolutionary processes, the mechanistic basis of human disease, and recent biotechnological innovations. Students are encouraged to take BIOL 1121 and BIOL 1123 concurrently. Fall Mutually Exclusive: BIOL 1101 , BIOL 1102 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 1123 Introductory Molecular Biology Laboratory",
+    "courseid": "BIOL 1123",
+    "coursedescription": "An intensive introductory laboratory course emphasizing how molecular biology has revolutionized our understanding of cell and organism functions. BIOL 1121 and BIOL 1123 should be taken concurrently. Fall Mutually Exclusive: BIOL 1101 , BIOL 1102 Prerequisite: BIOL 1121",
+    "course-prerequsities": [
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "BIOL 1124 Introductory Organismal Biology Lab",
+    "courseid": "BIOL 1124",
+    "coursedescription": "An intensive introductory laboratory course in organismal biology. Spring Mutually Exclusive: BIOL 1101 , BIOL 1102 Prerequisite: BIOL 1121 AND BIOL 1123",
+    "course-prerequsities": [
+      "BIOL 1121",
+      "BIOL 1123"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "BIOL 1604 Humans and the Environment",
+    "courseid": "BIOL 1604",
+    "coursedescription": "Intensive exposure to current issues and solutions in contemporary human interactions with the environment. Global in scope, but focused on case histories. Emphasis on providing biological and sociological background for a given major environment-human interaction, and state-of-the-art suggested solutions. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 1821 The Intersection of Biology and Health",
+    "courseid": "BIOL 1821",
+    "coursedescription": "This first year seminar explores the foundational role of biology in various health professions, including careers as physicians, nurses, physician assistants, health policy experts, basic science research, social scientists, and health entrepreneurs. The course delves into the broader factors influencing health outcomes, such as politics, systemic racism, bias, social determinants of health, the COVID-19 pandemic and the effects of underrepresentation in healthcare. Students will engage with a range of materials, including case studies, peer-reviewed articles, current events, medical biographies, and historical and contemporary examples of bias and discrimination. Key discussions include: healthcare as a right or privilege, response to a public health crisis in theory and in practice, and how wealth, home ownership, education, bias, and health outcomes are interconnected to racial injustice. The course will include a visit to a health center in an underserved community, opportunities for volunteer work, and may include guest speakers. Students will be assessed through writing assignments, quizzes, class participation, and group presentations on educational and opposing viewpoints. No prerequisites are required, and the course encourages collaborative learning to better understand the intersection of biology, health, and society. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 1850 Research in Biological Sciences and its Social Impact (SNF Paideia Program Course)",
+    "courseid": "BIOL 1850",
+    "coursedescription": "Working to remove the myths about fundamental and translational research, this course focuses on informing students beyond the public perception of biology and biological research. Striving to develop students' scientific communication skills, personal identity in science, and the intersection between research and community, we will engage students through collaboration with the Philadelphia community in addition to lecture and discussion based learning. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 1999 Clinical & Translational Research",
+    "courseid": "BIOL 1999",
+    "coursedescription": "Independent study for students doing research based on data that is generated in a clinical setting. Projects must be sponsored by standing faculty of the University of Pennsylvania and co-sponsored by a faculty member in the Department of Biology. The project must be of biological interest and must use appropriate quantitative or statistical methods. A final paper is required. Apply at the Academic Office, 102 Leidy Labs. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The project must be of biological interest and must use appropriate quantitative or statistical methods."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 2001 Essentials of Cell Biology",
+    "courseid": "BIOL 2001",
+    "coursedescription": "An intermediate level exploration of cell structure and function including membrane structure, intracellular organelles, membrane trafficking, surface receptors and signal transduction, the cytoskeleton, cell motility and communication, and the cell cycle. This course is open to students in the College of Liberal and Professional Studies only. Fall or Spring Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2010 Cell Biology",
+    "courseid": "BIOL 2010",
+    "coursedescription": "A conceptual view of cell structure and function including membrane structure, intracellular organelles, membrane trafficking, surface receptors and signal transduction, the cytoskeleton, cell motility and communication, and the cell cycle. Cell biology is a dynamic field and recent research discoveries will be included in the lectures. Fall Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2110 Molecular and Cellular Neurobiology",
+    "courseid": "BIOL 2110",
+    "coursedescription": "Cellular physiology of neurons and excitable cells; molecular neurobiology and development. Topics include: action potential generation; synaptic transmission; molecular and physiological studies of ion channels; second messengers; simple neural circuits; synaptic plasticity; learning and memory; and neural development. Fall Also Offered As: NRSC 2110 Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2140 Evolution of Behavior: Animal Behavior",
+    "courseid": "BIOL 2140",
+    "coursedescription": "The evolution of behavior in animals will be explored using basic genetic and evolutionary principles. Lectures will highlight behavioral principles using a wide range of animal species, both vertebrate and invertebrate. Examples of behavior include the complex economic decisions related to foraging, migratory birds using geomagnetic fields to find breeding grounds, and the decision individuals make to live in groups. Group living has led to the evolution of social behavior and much of the course will focus on group formation, cooperation among kin, mating systems, territoriality and communication. Fall Also Offered As: NRSC 2140 , PSYC 2220 Prerequisite: BIOL 1102 OR BIOL 1121 OR PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1102",
+      "BIOL 1121",
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2201 Essentials of Molecular Biology and Genetics",
+    "courseid": "BIOL 2201",
+    "coursedescription": "This course will survey the discipline of molecular genetics. Mendelian and molecular genetics will be discussed as well as the use of genetic analysis to address questions in all areas of biology. The processes of DNA replication, transcription, and translation will be discussed at the molecular level. Other topics include the regulation of gene expression and genomics. This course is open to students in the College of Liberal and Professional Studies only. Fall or Spring Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2210 Molecular Biology and Genetics",
+    "courseid": "BIOL 2210",
+    "coursedescription": "This course will survey the discipline of molecular genetics. Two broad areas will be considered 1) Molecular Biology: DNA replication, transcription, translation, regulation of gene expression in both prokaryotic and eukaryotic systems, and genomics and 2) Genetics: basic Mendelian & molecular genetics. Fall or Spring Mutually Exclusive: BIOL 5210 Prerequisite: BIOL 1101 OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2301 Essentials of Vertebrate Physiology",
+    "courseid": "BIOL 2301",
+    "coursedescription": "A comparative and quantitative approach to the physiological function of vertebrates. Topics include muscles, nervous system, cardiovascular system, respiration, and renal function. This course is open to students in the College of Liberal and Professional Studies only. Fall or Spring Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR ( BIOL 1121 AND BIOL 1124 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121",
+      "BIOL 1124"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2311 Human Physiology",
+    "courseid": "BIOL 2311",
+    "coursedescription": "This course examines the physiological mechanisms underlying homeostasis in humans. Integration from the cellular to organismal level as well as cooperation of multiple organ systems will be explored. Examples of pathophysiology during disease states will be discussed and highlighted. Although the focus will be on humans, we will study comparative aspects from other vertebrate and non-vertebrate organisms. Spring Mutually Exclusive: BIOL 3310 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2410 Evolutionary Biology",
+    "courseid": "BIOL 2410",
+    "coursedescription": "Theories and mechanisms of evolution, with emphasis on the genetic basis of evolutionary change. Spring Mutually Exclusive: BIOL 5410 Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2510 Statistics for Biologists",
+    "courseid": "BIOL 2510",
+    "coursedescription": "Introductory probability theory. Principles of statistical methods. Problems of estimation and hypothesis testing in biology and related areas. Fall Mutually Exclusive: BIOL 5510 , STAT 1110 Prerequisite: MATH 1400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2610 Ecology: From individuals to ecosystems",
+    "courseid": "BIOL 2610",
+    "coursedescription": "The study of living organisms in their natural environment, spanning the ecological physiology of individuals, the structure of populations, and interactions among species, including the organization of communities and ecosystem function. Fall Prerequisite: BIOL 1102 OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2701 Elements of Microbiology",
+    "courseid": "BIOL 2701",
+    "coursedescription": "Microbiology plays a central role in diverse areas of human life such as infectious disease, ecology, and biotechnology. This course will cover aspects of modern microbiology with an emphasis on prokaryotic organisms. The topics will include basic aspects of microbial diversity, genetics, and pathogenesis as well as examples of applied microbiology. This course is open to students in the College of Liberal and Professional Studies only. Fall or Spring Prerequisite: ( BIOL 1101 OR BIOL 1121 ) AND ( BIOL 2201 OR BIOL 2210 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1121",
+      "BIOL 2201",
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2801 Essentials of Biochemistry",
+    "courseid": "BIOL 2801",
+    "coursedescription": "Intermediate level course covering principles of modern biochemistry. Topics include protein structure, protein purification and characterization, proteomics, enzyme kinetics and mechanisms, membrane structure and function, metabolism, and cellular energy transduction. Emphasis will be on biochemical problem solving, experimental design, and application of quantitative methods in a biological and clinical context. This course is open to students in the College of Liberal and Professional Studies only. Fall or Spring Prerequisite: (( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 ) AND CHEM 2410 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121",
+      "CHEM 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 2810 Biochemistry",
+    "courseid": "BIOL 2810",
+    "coursedescription": "BIOL 2810 examines the basic principles of protein structure, protein purification and characterization, proteomics, enzyme kinetics and mechanism, membrane structure and function, metabolism, and cellular energy transduction. The primary objective is to provide life scientists with an appreciation of basic principles of modern biochemistry, and of how the current conceptual and technical framework arose. Emphasis is placed on the experimental approaches and reasoning behind the dissection and reconstitution of these processes in a biological and, in some cases, clinical context. Discussions directed at biochemical problem solving, experimental design and the application of quantitative methods are integral to the course. Spring Mutually Exclusive: BIOL 2801 , CHEM 2510 Prerequisite: (( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 ) AND CHEM 2410 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121",
+      "CHEM 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3004 Infectious Disease Biology",
+    "courseid": "BIOL 3004",
+    "coursedescription": "This course focuses on selected topics concerning infectious agents, the diseases they cause in humans, and the social and scientific challenges they pose. The first section addresses the principles of epidemiology and microbial pathogenesis, as well as pathophysiology of infectious diseases. In the second section, tools and techniques of diagnosis, tracking, and control of infectious diseases will be discussed. To develop a broad understanding of the many different aspects of infectious processes, selected viral, fungal, protozoan, and helminthic pathogens and related infectious diseases will be presented. This course is open to students in the College of Liberal and Professional Studies only. Spring Prerequisite: ( BIOL 2201 OR BIOL 2210 ) AND BIOL 2701 AND BIOL 4004 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2201",
+      "BIOL 2210",
+      "BIOL 2701",
+      "BIOL 4004"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3006 Histology",
+    "courseid": "BIOL 3006",
+    "coursedescription": "This course is designed to introduce the undergraduate student to the structure of tissues at the cellular level and to the way in which those tissues are assembled into organs. This knowledge of structure will be the basis for discussion of tissue and organ function. This course is open to students in the College of Liberal and Professional Studies only. Fall or Spring Prerequisite: (( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 ) AND ( BIOL 2001 OR BIOL 2010 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121",
+      "BIOL 2001",
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3008 Immunology in Action",
+    "courseid": "BIOL 3008",
+    "coursedescription": "A foundational understanding of the immune response is central to our ability to address challenges in treating and preventing disease as scientists and to understand advances as citizens. The study of immunology can be daunting, in part because our response is complex and integrates many systems, and in part because the vocabulary that has developed around this discipline is dense with abbreviations and acronyms. In this class, we will work together to demystify the immune system by considering responses in context - for example, by considering how vaccines exploit the ability of the immune system to generate memories, analyzing the design of a CAR-T cell to understand how it can be used to attack tumors, evaluating the remarkable history and current promise of monoclonal antibodies in treatment of inflammatory diseases, and more. The course, which will consist of a combination of weekly interactive synchronous sessions and asynchronous assignments, should provide you with tools to critically evaluate information about advances - and a foundation that will allow you to contribute to new discoveries in this fascinating, dynamic field. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3054 Developmental Biology",
+    "courseid": "BIOL 3054",
+    "coursedescription": "A view of how an animal embryo is specified to develop and differentiate into a wide spectrum of cell types, and how the spatial patterns and axes of embyros are determined. The course will focus on genetic and molecular approaches, but will also cover the comparative anatomy of developing embryos to the extent necessary to understand the conserved aspects of embryonic patterning. Special emphasis will be placed on organisms with particular advantages for the study of embryonic development: e.g., mouse, frog, zebrafish, and Drosophila. The first half of the course will cover cell fate restrictions, cloning animals using nuclear transfer, stem cell biology, formation of the embryonic axes in vertebrates and Drosophila, and patterning of the neural tube and mesodermal tissues. The second half of the course will focus on emerging ideas and findings in the field, with emphasis on analysis of original literature. Spring Prerequisite: BIOL 2010 OR BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2010",
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The first half of the course will cover cell fate restrictions, cloning animals using nuclear transfer, stem cell biology, formation of the embryonic axes in vertebrates and Drosophila, and patterning of the neural tube and mesodermal tissues."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 3310 Principles of Human Physiology",
+    "courseid": "BIOL 3310",
+    "coursedescription": "Our focus will be on human physiology and we will cover most of the major organ systems in some depth. We seek to understand physiological phenomena using physical and chemical principles where possible. Basic cell and molecular biology, (bio)chemistry, physics and mathematics are prerequisites for the course, although we will quickly review the required background material when needed. Much of the motivation for the study of physiology is to understand disease, which in turn allows us to better appreciate normal physiology. We will discuss disease throughout the class. In physiology, structure often implies function, and we will thus also cover a fair amount of anatomy and histology. Fall Mutually Exclusive: BIOL 2310, BIOL 2311 Prerequisite: BIOL 1102 OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2310",
+      "BIOL 2311",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3313 Essentials of Pathophysiology",
+    "courseid": "BIOL 3313",
+    "coursedescription": "This course is a study of homeostatic changes that occur with disease, and the implications of those changes in the progression and treatment of disease at molecular and cellular levels. Generalized mechanisms of disease as well as diseases of individual organ systems will be examined, with a view to understanding homeostatic compensations that occur as a result of altered function. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3625 Marine Biology",
+    "courseid": "BIOL 3625",
+    "coursedescription": "An introduction to marine biology and oceanography. Topics will include chemical and physical oceanography, a survey of form, function and phylogeny of algae, invertebrates and vertebrates, and an examination of ecological and evolutionary principles as applied to marine organisms and ecosystems. Fall Prerequisite: BIOL 1102 OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3630 Hands on Plants (SNF Paideia Program Course)",
+    "courseid": "BIOL 3630",
+    "coursedescription": "This course will focus on plants and climate change in the urban setting, specifically the city of Philadelphia. We will examine the role of plants in urban food, ancestral traditions, community, health & wellbeing, also the ecosystems benefits of plants. We will explore challenges faced by plants and ecosystems due to environmental changes, land use change, and differential access to green spaces. We will discuss plant biological, genetic, breeding, and ecological solutions for enhancing plant resilience. Students will gain hands-on experience, engage in dialog with farm, garden and ecosystem practitioners, as well as city officials and other support systems, NGOs and small businesses. Dialog will occur both on visits to local gardens, farms, or parks with representatives and stakeholders or on campus with guest speakers and each other. Students will develop project ideas, educational materials, plans, or designs that detail possible solutions to problems identified during their investigations. Activities will intersect with to those of PlantARC https://web.sas.upenn.edu/plantarc/ Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3710 Microbial Diversity and Pathogenesis",
+    "courseid": "BIOL 3710",
+    "coursedescription": "Microbiology plays a central role in diverse areas of human life such as infectious disease, ecology, and biotechnology. This course will cover aspects of modern microbiology with an emphasis on prokaryotic organisms. The topics will include basic aspects of microbial diversity, genetics, virology, and pathogenesis as well as examples of applied microbiology. Spring Mutually Exclusive: BIOL 5710 Prerequisite: (( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 ) AND BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121",
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3711 Microbial Diversity and Pathogenesis Lab",
+    "courseid": "BIOL 3711",
+    "coursedescription": "The importance of microbiology in complex issues, such as the impact of the microbiome in human health or as alternative energy sources, is being appreciated more and more each day. This upper level laboratory course provides students with a robust technical skill set while also giving them an opportunity to participate in an authentic research project that may lead to novel discoveries. Students will generate research questions, formulate hypotheses, design experiments, analyze data, and present their research findings to the class. In each project, students will use the cutting edge approach of metagenomics to evaluate the microbial diversity of their environment via Next Generation Sequencing. Students will also examine the function of microbial species within their communities. Potential projects include the isolation of novel antibiotic producers and the antibiotic they produce, designing and optimizing microbial fuel cells that can be used to generate electricity, or isolating antibiotic resistant bacteria and attempting novel approaches to inhibit or prevent their growth. Spring Mutually Exclusive: BIOL 5711 Prerequisite: BIOL 3710 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 3710"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3851 Biology and Society (SNF Paideia Program Course)",
+    "courseid": "BIOL 3851",
+    "coursedescription": "This course uses a biological foundation to explore general issues at the interface of biology and society. We will use both historical and contemporary reading materials, with an emphasis on the primary scientific literature, to inform discussions on often controversial issues in biology as well as the social responsibility of scientists to respond to these issues. The course will cover how science has shaped social and political opinions on such topics as race, ethnicity, and gender, as well as how society and politics are influenced by and impact science. This course will provide a background and context in which to consider, anticipate, and respond to biology's present and future ethical and social implications. Spring Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 3999 Independent Study",
+    "courseid": "BIOL 3999",
+    "coursedescription": "Laboratory research with a faculty member in the Department of Biology. Research may also be conducted elsewhere on campus but co-sponsored by a faculty member in Biology. A final paper is required. Apply at the Biology Academic Office, 102 Leidy Labs. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4004 Immunobiology",
+    "courseid": "BIOL 4004",
+    "coursedescription": "Early development of microbiology, pathology, and immunobiology; molecular and cellular bases of immune phenomena including: immunity to pathogens, immune diseases, autoimmunity, and hypersensitivity. This course is open to students in the College of Liberal and Professional Studies only. Fall or Spring Prerequisite: ( BIOL 2001 OR BIOL 2010 ) AND ( BIOL 2201 OR BIOL 2210 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2001",
+      "BIOL 2010",
+      "BIOL 2201",
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4007 Cancer Cell Biology",
+    "courseid": "BIOL 4007",
+    "coursedescription": "This course will focus on the molecular mechanisms by which fundamental cellular processes are disrupted in the development of cancer. Fall Prerequisite: BIOL 2010 AND BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2010",
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4010 Advanced Cell Biology",
+    "courseid": "BIOL 4010",
+    "coursedescription": "This course is designed for beginning graduate students and advanced undergraduates with a particular enthusiasm for cell biology. Biology 4010 does not attempt to cover all aspects of cell biology, and is therefore not appropriate for students seeking a lecture course which provides a comprehensive survey of the field. Rather, the primary objective of this course is to teach those students considering a career in the biomedical sciences how to read, discuss, and question original research papers effectively. Intensive classroom discussions focus on the experimental methods used, results obtained, interpretation of these results in the context of cell structure and function, and implications for further studies. Spring Also Offered As: CAMB 4800 Mutually Exclusive: BIOL 5010 Prerequisite: BIOL 2001 OR BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2001",
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4016 Molecular Mechanisms of Infectious Disease Biology",
+    "courseid": "BIOL 4016",
+    "coursedescription": "This course is designed for advanced undergraduates and beginning graduate students with a particular interest in infectious disease biology. Note that this course is not a comprehensive survey of the field and is not appropriate for students seeking a lecture course on disease. The primary objective of this course is to teach students considering a career in the biomedical sciences how to read, discuss, and question research papers effectively. Intensive classroom discussions focus on the experimental methods used, results obtained, interpretation of these results in the context of pathogen interactions with host cells and organisms, and implications for basic research and therapeutic development. Spring Mutually Exclusive: BIOL 5016 Prerequisite: BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for advanced undergraduates and beginning graduate students with a particular interest in infectious disease biology."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 4018 Cell Communication and Disease",
+    "courseid": "BIOL 4018",
+    "coursedescription": "Effective coordination between cells through cell communication and signaling enables multicellular organisms to develop and survive. Conversely, aberrations in these pathways are at the heart of a wide variety of human diseases. In this seminar course, we will discuss the molecular and cellular mechanisms of cell communication using a series of human diseases as a framework. The course will introduce postbac and advanced undergraduate students to the fundamental principles of cell signaling and will explore current questions of interest to the field. The synergistic nature of research directed at understanding basic cell biology, development and physiology with research aimed at elucidation and control of specific human ailments will be emphasized. The course will be comprised of a combination of introductory lectures and extensive discussion of primary literature. Students are expected to have a basic knowledge of cell biology, biochemistry and cell structure. BIOL 2201 and BIOL 2801 are recommended pre-requisites. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course will introduce postbac and advanced undergraduate students to the fundamental principles of cell signaling and will explore current questions of interest to the field.",
+        "BIOL 2201 and BIOL 2801 are recommended pre-requisites."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 4024 Cell Motility and the Cytoskeleton",
+    "courseid": "BIOL 4024",
+    "coursedescription": "Cytoskeleton and cell motility plays a crucial role in many aspects of normal and pathological physiology of individual cells, tissues, and whole organisms, including morphogenesis, immune response, wound healing, oncogenesis, and infection. This course will cover current topics in cell biology with emphasis on cytoskeleton and cell motility and their roles in these processes. Lectures, student presentations, and discussions in the class will be based on primary scientific literature. Fall Mutually Exclusive: BIOL 5024 Prerequisite: BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4026 Chromosomes and the Cell Cycle",
+    "courseid": "BIOL 4026",
+    "coursedescription": "Life depends on the propagation of genetic material from one generation to next through cycles of genome replication and cell division. We will focus on chromosomes as discrete entities, rather than collections of genes, that are inherited between cell cycles and across generations. By reading selected primary literature covering several decades, we will build an understanding based on key experiments and insights, focusing on chromosomes and their associated molecular machinery. Topics may include kinetochores and microtubule dynamics, centromeres, the mitotic checkpoint, chromosomal instability and cancer, genetic conflict, chromosome evolution, and artificial chromosomes. Spring Also Offered As: CAMB 4860 Mutually Exclusive: BIOL 5026 Prerequisite: BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4077 The Science and Art of Biotechnology",
+    "courseid": "BIOL 4077",
+    "coursedescription": "Biotechnology transforms basic biological research into pharmaceutical therapies. This course will examine some explanations for American biotechnology vitality by studying case histories in which fundamental, biological observations were subsequently developed, successfully and unsuccessfully, for therapeutic applications. Along the way, we will also seek to understand the interactions among academic research institutions, biotechnology companies, large pharmaceutical companies, the Food and Drug Administration, financial institutions, venture groups, and the Patent and Trademark Office. Classes will be highly interactive. Students will present case histories in a critical fashion. Ultimately, students will conduct mock negotiations focused on university technology transfers, clinical trial design, financing, and intellectual property. Fall Prerequisite: BIOL 2810 OR BIOL 2010 OR BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2810",
+      "BIOL 2010",
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4110 Neural Systems and Behavior",
+    "courseid": "BIOL 4110",
+    "coursedescription": "This course will investigate neural processing at the systems level. Principles of how brains encode information will be explored in both sensory (e.g. visual, auditory, social, etc.) and motor systems. Neural encoding strategies will be discussed in relation to the specific behavioral needs of the animal. Examples will be drawn from a variety of different model systems. Fall Also Offered As: NRSC 4110 , PSYC 3220 Mutually Exclusive: BIOL 5110 Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4116 Neural Circuits for Survival",
+    "courseid": "BIOL 4116",
+    "coursedescription": "A fundamental goal of neuroscience is to understand how neural circuits in the brain function to influence behavior. The aim of this course is to highlight the neural basis of behavior and discuss modern approaches and novel methods to study the neuronal control of classically studied aspects of behavior. Through a combination of discussions, student presentations, and interactive lectures, we will explore the neural systems that regulate the interactions an animal has with the external world. We will explore sensory systems (such as vision, taste, and olfaction), motor systems, and survival behaviors (such as feeding, drinking, mating, and aggression). The course evaluation will be based largely on written work, participation, and presentations. Spring Mutually Exclusive: BIOL 5116 Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4119 Biological Basis of Animal Diversity",
+    "courseid": "BIOL 4119",
+    "coursedescription": "Animals display extraordinary diversity in their morphology, physiology, and behavior. Traditionally, these topics have been mostly studied from an ecological perspective. This course will focus on recent advances and discoveries that address the underlying biological mechanisms of animal diversity. Specific topics will include the genetic, molecular, and developmental basis of animal morphological diversity, and genetic, molecular, and neural basis of animal behavioral diversity. Students will gain an understanding of how animal diversity is encoded at the different levels of biological organization. The course will be comprised of lectures to introduce topics, discussion of primary literature, and in-class activities. Spring Mutually Exclusive: BIOL 5119 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4142 Neurobiology of Learning and Memory",
+    "courseid": "BIOL 4142",
+    "coursedescription": "This course focuses on the current state of our knowledge about the neurobiological basis of learning and memory. A combination of lectures and student seminars will explore the molecular and cellular basis of learning in invertebrates and vertebrates from a behavioral and neural perspective. Fall Also Offered As: NRSC 4442 , PSYC 3301 Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4210 Molecular Genetics",
+    "courseid": "BIOL 4210",
+    "coursedescription": "A detailed analysis of gene structure and expression in both prokaryotic and eukaryotic organisms. Rapid advances in DNA technology and genomics will be emphasized. The application of these advances to the molecular genetic analysis of development, cell function and disease will be discussed. Fall Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4231 Genome Science and Genomic Medicine",
+    "courseid": "BIOL 4231",
+    "coursedescription": "This course will be a focused study of genomes, genomic techniques, and how these approaches are and will be used in diagnosing and treating human disease. Topics will include genome sequencing, analysis of sequences and microarrays, and new techniques including high-throughput sequencing and reverse genetic analysis with a focus on genome-wide mutant collections. Spring Also Offered As: CAMB 4310 Mutually Exclusive: BIOL 5231 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4233 The Genetics of Adaptation: How sex, conflict, and pathogens shape modern genomes",
+    "courseid": "BIOL 4233",
+    "coursedescription": "This class explores the evolutionary battles that play out between genes within and across genomes. Pathogens evolve their molecular arsenal to manipulate host cells and enhance their own replication. The host genome fights back with molecular defense mechanisms that evade or suppress the invading bacterial and viral pathogens. Such “molecular arms races” also play out between host genomes and genomic parasites called selfish genetic elements. These selfish elements, like transposons, spore killers, and meiotic drivers, similarly evolve to replicate in their host genomes and the host genome evolves to block proliferation and mitigate the collateral damage. Finally, conflicts over access to mates drives genetic innovations. We will learn about these molecular arms races using the primary literature. During our course meetings, we will discuss assigned articles and engage in small groups around multiple writing assignments. Presentation preparation and writing are two skills that we’ll develop over the semester. Spring Mutually Exclusive: BIOL 5233 Prerequisite: BIOL 2210 OR BIOL 2410 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210",
+      "BIOL 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4234 Epigenetics",
+    "courseid": "BIOL 4234",
+    "coursedescription": "This course investigates epigenetic phenomena: heritable alternate states of gene activity that do not result from an alteration in nucleotide composition (mutations). Epigenetic mechanisms regulate genome accessibility and cell differentiation. They play a key role in normal development and in oncogenesis. For example both mammalian X-chromosome inactivation and nuclear transfer (cloning) are subject to epigenetic regulation. Amongst the epigenetic mechanisms we will discuss in this course are chromatin organization, histone modification, DNA methylation and non-coding RNAs. The course is geared toward advanced undergraduate and beginning graduate students and is a combination of lectures, student presentations and research presentations by guest speakers. Students will work with the current scientific literature. Spring Also Offered As: CAMB 4830 Mutually Exclusive: BIOL 5234 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4235 The RNA World: A functional and computational analysis",
+    "courseid": "BIOL 4235",
+    "coursedescription": "A focused study of genomic, biochemical, cellular, and molecular aspects of RNA. Topics of study will include RNA structure, RNA processing and turnover, splicing, ribozymes and riboswitches, RNA editing and modification, RNA interference, endogenous eukaryotic RNA silencing pathways, small RNA biology, computational methodologies for studying RNA biology, and RNA viruses. Lectures, students presentations, and discussions will be based on readings from the primary literature. Spring, even numbered years only Also Offered As: CAMB 4850 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4244 Epigenetics of Human Health and Disease",
+    "courseid": "BIOL 4244",
+    "coursedescription": "Epigenetic alterations encompass heritable, non-genetic changes to chromatin (the polymer of DNA plus histone proteins) that influence cellular and organismal processes. This course will examine epigenetic mechanisms in directing development from the earliest stages of growth, and in maintaining normal cellular homeostasis during life. We will also explore how diverse epigenetic processes are at the heart of numerous human disease states. We will review topics ranging from an historical perspective of the discovery of epigenetic mechanisms to the use of modern technology and drug development to target epigenetic mechanisms to increase healthy lifespan and combat human disease. The course will involve a combination of didactic lectures, primary scientific literature and research lectures, and student-led presentations. Spring, odd numbered years only Also Offered As: CAMB 4930 , GCB 4930 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4250 Molecular Genetics of Development",
+    "courseid": "BIOL 4250",
+    "coursedescription": "Development is the process by which organisms grow and acquire their final shape. This remarkably complex process requires exquisite spatiotemporal control, and principles of developmental biology have implications for nearly all other biological disciplines. This course is a deep dive into these general biological principles, using plants as a model system. Students will prepare presentations on primary literature and engage in vigorous discussions in a \"journal club\" format. Our goal is to learn how developmentally significant genes and cellular interactions control differentiation and pattern formation. Spring Mutually Exclusive: BIOL 5250 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4266 Molecular Genetics of Neurological Disease",
+    "courseid": "BIOL 4266",
+    "coursedescription": "This course will focus on the molecular basis of neurological diseases, exploring in detail key papers that cover topics including defining the disease genes, development of animal models that provide mechanistic insight, and seminal findings that reveal molecular understanding. Diseases covered will include neurological diseases of great focus today such as Alzheimer's, Fragile-X and autism, dementia, motor neuron degeneration, and microsatellite repeat expansion disorders. The course will provide a perspective from initial molecular determination through current status. Students will gain an understanding of how the molecular basis of a disease is discovered (from classical genetics to modern genomics) and how such diseases can be modeled in simple genetic systems for mechanistic insight. The course will be comprised of lectures with detailed analysis of primary literature and in-class activities. Grading will be based on class participation, exams, and written papers. Biology 2210 is a pre-requisite. Seniors are prioritized for the course Fall Also Offered As: NRSC 4266 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 4266",
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4310 Molecular Physiology",
+    "courseid": "BIOL 4310",
+    "coursedescription": "This course is designed for advanced undergraduate and graduate students who are interested in molecular physiology of sensory signal transduction. The major topics to cover will be signal transduction mechanisms used by membrane ion channels and receptors that detect the sensory stimuli (light, sound, temperature, smell and taste, for example) and transmit the signals to the nervous system. Modern molecular, genetic and structural techniques (electrophysiology, protein structural determination/analysis, animal genetics, and human disease, for example) will be introduced along with each topic. References will be primary research articles. Students will critically evaluate research discoveries through analysis of research papers. Each student will deliver two presentations and write a 10-page research proposal. Fall Mutually Exclusive: BIOL 5310 Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for advanced undergraduate and graduate students who are interested in molecular physiology of sensory signal transduction."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 4313 Energy Transformations and Living off-the-Grid",
+    "courseid": "BIOL 4313",
+    "coursedescription": "The course will examine major sources of energy on earth: sunlight, mechanical, chemical and biological, and how this energy is transformed into useful energy for humans -- typically electrical energy, heat, mechanical power or food. Considerable emphasis will be on forms of regenerative energy that can be used when living off-the-grid. As a case study, we will examine some approaches taken by the US military to provide energy capability for dismounted Marines operating on foot in austere environments. Faculty lectures will be supplemented by guest lectures from leaders in various areas of science. A major goal of the course is for students to develop an awareness of the amounts of energy they use in their daily lives, and how they might reduce them. As an exercise, students will measure how much energy their smart phones and laptops use in a day and try to generate a comparable amount of energy through physical effort. The course will include lectures, discussion, guest expert lectures, and laboratory measurements. Spring, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4314 Molecular Evolution of Physiological Functions",
+    "courseid": "BIOL 4314",
+    "coursedescription": "This course is designed for students who are interested in understanding how physiological functions are achieved. Taking advantage of the recent explosion in genetic data and high-resolution protein structure analysis across organisms, the course focuses on the evolution of physiological functions at the genetic, structural, circuit and organismal levels. Examples include the co-evolution of toxins and toxin resistance between hunter and prey, the evolution of substance transport across cell membranes, intracellular signaling cascades, intercellular communication, distributed and centralized nervous systems, neural circuits controlling physiological functions such as feeding, locomotion and visual information processing. Students are expected to learn 1) basic physiological processes, their origin and adaptation, 2) modern genetic, structural and physiological techniques, 3) to critically evaluate research findings, 4) to present scientific papers, and 5) to write a research report. Spring Mutually Exclusive: BIOL 5314 Prerequisite: NRSC 1110 OR BIOL 2310 OR BIOL 2210 OR BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110",
+      "BIOL 2310",
+      "BIOL 2210",
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students who are interested in understanding how physiological functions are achieved."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 4318 Systems Biology: Integrative physiology and biomechanics of the muscular system",
+    "courseid": "BIOL 4318",
+    "coursedescription": "The course will focus on muscle function from the level of molecules to whole animal locomotion. At each level of organization, muscle function will be explored from mechanical and energetic viewpoints. The course will include lectures, demonstrations, and several guest expert lectures. Students will also be introduced to realistic musculo-skeletal modelling and forward dynamic simulations to explore integrated function. Spring Mutually Exclusive: BIOL 5318 Prerequisite: BIOL 2310 OR BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2310",
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4410 Advanced Evolution",
+    "courseid": "BIOL 4410",
+    "coursedescription": "Mechanisms of evolution at the genetic and populational levels. Empirical and theoretical approaches to natural selection, population structure, gene flow, and quantitative genetics will be emphasized. Fall, odd numbered years only Prerequisite: BIOL 2410 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4411 Evolutionary Ecology",
+    "courseid": "BIOL 4411",
+    "coursedescription": "This course will focus on topics at the intersection of evolutionary biology and ecology, including the evolution of cooperation and conflict from genes to societies to ecological communities, life history evolution, and the evolution of interspecific interactions and ecological communities. The course will use a combination of lectures and discussion of readings from the primary literature. Spring Prerequisite: BIOL 2410 OR BIOL 2140 OR BIOL 2610 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2410",
+      "BIOL 2140",
+      "BIOL 2610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4430 Evolution and Ecology of Infectious Diseases",
+    "courseid": "BIOL 4430",
+    "coursedescription": "This course will focus on fundamental topics related to the ecological and evolutionary processes driving the transmission of pathogenic microbes among hosts including life-history strategies; evolution of pathogenic traits; the impacts of temporal, spatial and host-trait heterogeneity; and factors causing the emergence of an infectious pathogen. Examples will be drawn from human, wildlife, and plant pathogens to illustrate these ecological and evolutionary topics. Students will learn to develop and apply current ecological and evolutionary theory to infectious microbe research and gain practical experience accessing, interpreting and synthesizing the peer-reviewed scientific literature through a combination of popular and scientific readings, discussion, and lecture. Fall Mutually Exclusive: BIOL 5430 Prerequisite: BIOL 2410 OR BIOL 2610 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2410",
+      "BIOL 2610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4450 Macroevolution",
+    "courseid": "BIOL 4450",
+    "coursedescription": "Macroevolution, or evolution above the population level and on long timescales,as a field addresses fundamental questions about the origins of life, past and present.These include but are not limited to: How are highly dissimilar speciesrelated? Why are animals on distant continents so similar? How and when did major groups, like birds or mammals, originate? What drives evolutionary arms races? Why are there so many more species of beetle than crocodile? Why are there more species in the tropics than the arctic? Did dinosaursprevent the diversification of mammals? Why do some animals survive mass extinction? How can invasive species spread so rapidly? Students will learn importantconcepts underlying our understanding of modern biodiversity and the fossil record, as well as how to use different methods and lines of evidence, including evolutionary trees (phylogeny), fossil databases, past climate and global events,mathematical modeling, and even modern genomics, to answer fundamental questions about the evolution of life. Spring, even numbered years only Also Offered As: EESC 4550 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Macroevolution, or evolution above the population level and on long timescales,as a field addresses fundamental questions about the origins of life, past and present.These include but are not limited to: How are highly dissimilar speciesrelated?"
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 4511 Biological Data Analysis",
+    "courseid": "BIOL 4511",
+    "coursedescription": "This course focuses on the underlying principles, implementation, and interpretation of statistical methods commonly used in biology. Lectures will incorporate exercises that implement these analyses in the open source software R, as well as exercises in data visualization. We will draw on examples from ecology, evolution, genetics, and genomics. Spring Mutually Exclusive: BIOL 5511 Prerequisite: BIOL 2510 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4517 Theoretical Population Biology",
+    "courseid": "BIOL 4517",
+    "coursedescription": "Introduction to basic theoretical tools to study the evolutionary and ecological dynamics of populations. Topics to be discussed include: basic population dynamics and population genetics theory, evolutionary game theory/adaptive dynamics, social evolution (kin selection/multilevel selection), life-history evolution, and stochastic models. Other topics may be added based on the specific interests of students in the class. Spring Mutually Exclusive: BIOL 5517 Prerequisite: BIOL 2410 AND MATH 1400 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2410",
+      "MATH 1400"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Other topics may be added based on the specific interests of students in the class."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 4536 Introduction to Computational Biology & Biological Modeling",
+    "courseid": "BIOL 4536",
+    "coursedescription": "The goal of this course is to develop a deeper understanding of techniques and concepts used in Computational Biology. Both theoretical and practical aspects of a range of methods will be covered. Theoretical aspects will include statistical analysis, modeling, and algorithm design. This course cannot provide a comprehensive survey of the field but focuses on a select core set of topics and data types. We will discuss the genome browser, alignment algorithms, classical and non-parametric statistics, pathway analysis, dimensionality reduction, GWAS, multiple testing and machine learning, with primary focus on biomedical data. UNIX, R and Python will be utilized to learn to execute big data analysis pipelines, including RNA-Seq and DNA-Seq. UNIX and R will be taught from first principles but programming experience in Python is expected. Students without prior experience with Python should consider taking PHYS 1100 before taking this class. You will be provided with a computational (cloud based) platform on which to do all programming and assignments. Fall Also Offered As: CIS 4360 Mutually Exclusive: BIOL 5535 Prerequisite: MATH 1400 AND ( BIOL 2510 OR BIOL 5510 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400",
+      "BIOL 2510",
+      "BIOL 5510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4600 Field Botany",
+    "courseid": "BIOL 4600",
+    "coursedescription": "This course focuses on teaching students the Pennsylvania flora, both native and naturalized. Through weekly field trips, students will gain an appreciation for the diversity of plant species and plant communities in PA, and observe and discuss ecological and historical forces that influence plant species occurrences and plant communities. The ability to quickly and accurately identify plants in the field, through both sight identification and the use of a dichotomous key, is the major thrust of this course. Students will also learn how to appropriately collect plant materials for further study/identification in the laboratory and for archiving in an herbarium collection. Fall Mutually Exclusive: BIOL 5600 Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1124 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1124"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4606 Urban Botany",
+    "courseid": "BIOL 4606",
+    "coursedescription": "Urban environments present unique challenges and opportunities for plant species. After a review of plant taxonomy and anatomy, this course will examine the ecological impacts of plants in urban settings. We will explore landscapes in and around Penn’s campus to understand how plant communities contribute to ecosystem services in these environments. The applied uses of plants in agriculture, medicine, bioremediation, and other aspects of community health will also be explored. Fall Mutually Exclusive: BIOL 5606 Prerequisite: BIOL 1101 AND ( BIOL 1102 OR BIOL 1121 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4615 Freshwater Ecology",
+    "courseid": "BIOL 4615",
+    "coursedescription": "Survey of the physical, chemical and biological properties of freshwater ecosystems, both riverine and lentic, natural and polluted. Spring Also Offered As: ENVS 2390 Mutually Exclusive: BIOL 5615 Prerequisite: BIOL 1101 OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4623 Plant Ecology",
+    "courseid": "BIOL 4623",
+    "coursedescription": "The course consists of both lecture material and hands on research involving questions in plant population or community ecology. Quantitative information from published studies will be discussed and students, working in teams, will summarize and analyze data from class experiments. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4669 Plant Physiology Through Space and Time",
+    "courseid": "BIOL 4669",
+    "coursedescription": "This course is a lab/lecture/seminar hybrid that will meet once per week for three hours. Each session will consist of mini-lecture/lab, paper discussions/lab, or solely lab efforts. All reading assignments will be available on Canvas (no textbook fees). We will exam various aspects of photosynthesis, water relations and nutrient acquisition in the context of the evolutionary progression of higher plants. With each subject, we will consider, measure, and in some cases model whole-plant physiology while examining sub-cellular-level controls and ecosystem-to-global-level consequences. This course is designed to give molecular biologists through earth-system scientists the tools to measure and understand whole-plant physiological responses to molecular manipulation and environmental variability. All students will learn to appreciate the context of their work on both micro and macro scales. Spring Mutually Exclusive: BIOL 5669 Prerequisite: BIOL 2610 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4701 Prokaryotic Microbiology: A Pragmatic View",
+    "courseid": "BIOL 4701",
+    "coursedescription": "This interactive course is intended for a small group of students aspiring to pursue research in microbiology, preferably using prokaryotes. Students will study selected papers and will attend the Prokaryotic Microbiology Seminars on Fridays. Specific problems of importance to a given field at a particular time will be critically analyzed and discussed: How were cutting edge techniques of the time used to address these problems? How would the same problems be approached using current techniques? The emphasis of the course will be on learning to become a thoughtful experimentalist rather than acquiring the hottest emerging knowledge. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4710 Topics in Prokaryotic Biology: From Molecules to Microbiomes",
+    "courseid": "BIOL 4710",
+    "coursedescription": "This course will cover research articles from both the classic and contemporary literature on the genetics, cell biology, and physiology of prokaryotes. The material will focus on a small number of subjects in depth, with an emphasis on how the field has arrived at its current state of knowledge and on exciting new research directions. Possible topics include: stress responses, cell signaling, subcellular organization, bacteriophages, microbial communities, and host-microbe interactions. Spring, even numbered years only Mutually Exclusive: BIOL 5720 Prerequisite: BIOL 2210 OR BIOL 3710 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210",
+      "BIOL 3710"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4810 Drug Discovery and Development",
+    "courseid": "BIOL 4810",
+    "coursedescription": "This course provides a thorough interdisciplinary overview of the modern drug discovery and development process. Building on foundational life sciences and molecular science courses, this course demonstrates how basic scientific concepts are applied to real-world challenges in drug discovery and development. The course begins with a history of medicines in society and the evolution of the modern pharmaceutical and biotech industry. It then covers a wide range of topics, including the identification of novel therapeutic targets, the molecular design of safe and effective drugs, considerations related to the final clinical formulations, clinical trial design and execution, regulatory pathways for drug approval, and post-market safety and efficacy monitoring. The curriculum is led by experienced researchers, biotech innovators, and professionals from both academia and the biopharmaceutical industry. It covers essential disciplines that are vital to drug discovery and development. In addition to core subjects such as physiology, cell biology, molecular biology, and biochemistry, the course also explores related fields, including organic chemistry, medicinal chemistry, pharmacology, pharmacokinetics, toxicology, materials science, and biotechnology. Students will also investigate in silico methodologies, explore applications of AI in drug discovery and development, and learn about advanced biomanufacturing processes. By the course's end, students will understand the various challenges, opportunities, and career paths available within drug discovery, the pharmaceutical sector, and the broader biotechnology industry. Fall Mutually Exclusive: BIOL 5810 Prerequisite: ( BIOL 1101 OR BIOL 1121 ) AND ( BIOL 2810 OR CHEM 2510 ) AND CHEM 2411 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1121",
+      "BIOL 2810",
+      "CHEM 2510",
+      "CHEM 2411"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 4825 Biochemistry and Molecular Genetics Superlab",
+    "courseid": "BIOL 4825",
+    "coursedescription": "Intensive laboratory class where open-ended, interesting biological problems are explored using modern lab techniques. Topics may include protein structure/function studies; genetic screens, genomics and gene expression studies; proteomics and protein purification techniques; and molecular cloning and DNA manipulation. The course emphasizes developing scientific communication and independent research skills. Course topics reflect the interests of individual Biology faculty members. This course is recommended for students considering independent research. Fall or Spring Mutually Exclusive: BIOL 5825 Prerequisite: BIOL 2810 OR BIOL 2010 OR BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2810",
+      "BIOL 2010",
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Intensive laboratory class where open-ended, interesting biological problems are explored using modern lab techniques.",
+        "Course topics reflect the interests of individual Biology faculty members.",
+        "This course is recommended for students considering independent research."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 4999 Advanced Independent Study",
+    "courseid": "BIOL 4999",
+    "coursedescription": "A second semester of independent study, in most cases extending the research undertaken for the BIOL 3999 . Apply at the Biology Academic Office, 102 Leidy Labs. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5010 Advanced Cell Biology",
+    "courseid": "BIOL 5010",
+    "coursedescription": "This course is designed for beginning graduate students and advanced undergraduates with a particular enthusiasm for cell biology. Biology 4010/5010 does not attempt to cover all aspects of cell biology, and is therefore not appropriate for students seeking a lecture course which provides a comprehensive survey of the field. Rather, the primary objective of this course is to teach those students considering a career in the biomedical sciences how to read, discuss, and question original research papers effectively. Intensive classroom discussions focus on the experimental methods used, results obtained, interpretation of these results in the context of cell structure and function, and implications for further studies. Spring Mutually Exclusive: BIOL 4010 , CAMB 4800 Prerequisite: BIOL 2001 OR BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2001",
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5016 Molecular Mechanisms of Infectious Disease Biology",
+    "courseid": "BIOL 5016",
+    "coursedescription": "This course is designed for advanced undergraduates and beginning graduate students with a particular interest in infectious disease biology. Note that this course is not a comprehensive survey of the field and is not appropriate for students seeking a lecture course on disease. The primary objective of this course is to teach students considering a career in the biomedical sciences how to read, discuss, and question research papers effectively. Intensive classroom discussions focus on the experimental methods used, results obtained, interpretation of these results in the context of pathogen interactions with host cells and organisms, and implications for basic research and therapeutic development. Spring Mutually Exclusive: BIOL 4016 Prerequisite: BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for advanced undergraduates and beginning graduate students with a particular interest in infectious disease biology."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 5022 Cell Signaling",
+    "courseid": "BIOL 5022",
+    "coursedescription": "The evolution of multicellularity required that cells be able to both send and receive signals from their neighbors. The development of organs and differentiation of cells and tissues requires reliable and continuous communication between cells. Consequences of inappropriate or anomalous signaling include development abnormalities and cancer. This class will examine mechanisms of cell-to-cell signaling between cells in plants and animals with an emphasis on the cell biology of development. Fall Prerequisite: BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5024 Cell Motility and the Cytoskeleton",
+    "courseid": "BIOL 5024",
+    "coursedescription": "Cytoskeleton and cell motility plays a crucial role in many aspects of normal and pathological physiology of individual cells, tissues, and whole organisms, including morphogenesis, immune response, wound healing, oncogenesis, and infection. This course will cover current topics in cell biology with emphasis on cytoskeleton and cell motility and their roles in these processes. Lectures, student presentations, and discussions in the class will be based on primary scientific literature. Fall Mutually Exclusive: BIOL 4024 Prerequisite: BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5026 Chromosomes and the Cell Cycle",
+    "courseid": "BIOL 5026",
+    "coursedescription": "Life depends on the propagation of genetic material from one generation to next through cycles of genome replication and cell division. We will focus on chromosomes as discrete entities, rather than collections of genes, that are inherited between cell cycles and across generations. By reading selected primary literature covering several decades, we will build an understanding based on key experiments and insights, focusing on chromosomes and their associated molecular machinery. Topics may include kinetochores and microtubule dynamics, centromeres, the mitotic checkpoint, chromosomal instability and cancer, genetic conflict, chromosome evolution, and artificial chromosomes. Spring Mutually Exclusive: BIOL 4026 Prerequisite: BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5062 Biological Foundations for Bioengineering and Biotechnology: Cellular and Molecular Biology",
+    "courseid": "BIOL 5062",
+    "coursedescription": "This course is designed for students in graduate level degree programs with an interest in developing a strong understanding of core concepts in cellular and molecular biology. It is assumed that students either have familiarity with undergraduate level biology topics, or can quickly catch up to keep pace with the course. We will primarily explore areas of cell and molecular biology ranging from protein synthesis to cell signaling to immunology. This fast-paced course will provide both an overview of foundational principles, as well as modern applications and developments through literature review. Students will be expected to engage deeply with the material, and will have the opportunity to develop scientific skills in critical thinking, reading, and communication, culminating in a final group presentation at the end of the semester. Upon completing the course, students should feel empowered to enroll in any advanced molecular and cellular-based biology course at Penn. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students in graduate level degree programs with an interest in developing a strong understanding of core concepts in cellular and molecular biology."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 5110 Neural Systems and Behavior",
+    "courseid": "BIOL 5110",
+    "coursedescription": "This course will investigate neural processing at the systems level. Principles of how brains encode information will be explored in both sensory (e.g. visual, auditory, social, etc.) and motor systems. Neural encoding strategies will be discussed in relation to the specific behavioral needs of the animal. Examples will be drawn from a variety of different model systems. Fall Mutually Exclusive: BIOL 4110 Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5116 Neural Circuits for Survival",
+    "courseid": "BIOL 5116",
+    "coursedescription": "A fundamental goal of neuroscience is to understand how neural circuits in the brain function to influence behavior. The aim of this course is to highlight the neural basis of behavior and discuss modern approaches and novel methods to study the neuronal control of classically studied aspects of behavior. Through a combination of discussions, student presentations, and interactive lectures, we will explore the neural systems that regulate the interactions an animal has with the external world. We will explore sensory systems (such as vision, taste, and olfaction), motor systems, and survival behaviors (such as feeding, drinking, mating, and aggression). The course evaluation will be based largely on written work, participation, and presentations. Spring Mutually Exclusive: BIOL 4116 Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5119 Biological Basis of Animal Diversity",
+    "courseid": "BIOL 5119",
+    "coursedescription": "Animals display extraordinary diversity in their morphology, physiology, and behavior. Traditionally, these topics have been mostly studied from an ecological perspective. This course will focus on recent advances and discoveries that address the underlying biological mechanisms of animal diversity. Specific topics will include the genetic, molecular, and developmental basis of animal morphological diversity, and genetic, molecular, and neural basis of animal behavioral diversity. Students will gain an understanding of how animal diversity is encoded at the different levels of biological organization. The course will be comprised of lectures to introduce topics, discussion of primary literature, and in-class activities. Spring Mutually Exclusive: BIOL 4119 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5210 Molecular Biology and Genetics",
+    "courseid": "BIOL 5210",
+    "coursedescription": "This course will survey the discipline of molecular genetics. Two broad areas will be considered 1) Molecular Biology: DNA replication, transcription, translation, regulation of gene expression in both prokaryotic and eukaryotic systems, and genomics and 2) Genetics: basic Mendelian & molecular genetics. Fall or Spring Mutually Exclusive: BIOL 2210 Prerequisite: BIOL 1101 OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5220 Human Evolutionary Genomics",
+    "courseid": "BIOL 5220",
+    "coursedescription": "Advanced seminar on current topics in human genomics and human evolution. Topics include the methods used for mapping and sequencing genomes; phylogenetic and population genetic analysis; and detecting variation in the human genome. This course is designed for graduate students but advanced undergraduates with a strong background in genetics are also welcome. Spring, even numbered years only Also Offered As: CAMB 5220 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5231 Genome Science and Genomic Medicine",
+    "courseid": "BIOL 5231",
+    "coursedescription": "This course will be a focused study of genomes, genomic techniques, and how these approaches are and will be used in diagnosing and treating human disease. Topics will include genome sequencing, analysis of sequences and microarrays, and new techniques including high-throughput sequencing and reverse genetic analysis with a focus on genome-wide mutant collections. Spring Mutually Exclusive: BIOL 4231 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5233 The Genetics of Adaptation: How sex, conflict, and pathogens shape modern genomes",
+    "courseid": "BIOL 5233",
+    "coursedescription": "This class explores the evolutionary battles that play out between genes within and across genomes. Pathogens evolve their molecular arsenal to manipulate host cells and enhance their own replication. The host genome fights back with molecular defense mechanisms that evade or suppress the invading bacterial and viral pathogens. Such “molecular arms races” also play out between host genomes and genomic parasites called selfish genetic elements. These selfish elements, like transposons, spore killers, and meiotic drivers, similarly evolve to replicate in their host genomes and the host genome evolves to block proliferation and mitigate the collateral damage. Finally, conflicts over access to mates drives genetic innovations. We will learn about these molecular arms races using the primary literature. During our course meetings, we will discuss assigned articles and engage in small groups around multiple writing assignments. Presentation preparation and writing are two skills that we’ll develop over the semester. Spring Mutually Exclusive: BIOL 4233 Prerequisite: BIOL 2210 OR BIOL 2410 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210",
+      "BIOL 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5234 Epigenetics",
+    "courseid": "BIOL 5234",
+    "coursedescription": "This course investigates epigenetic phenomena: heritable alternate states of gene activity that do not result from an alteration in nucleotide composition (mutations). Epigenetic mechanisms regulate genome accessibility and cell differentiation. They play a key role in normal development and in oncogenesis. For example both mammalian X-chromosome inactivation and nuclear transfer (cloning) are subject to epigenetic regulation. Amongst the epigenetic mechanisms we will discuss in this course are chromatin organization, histone modification, DNA methylation and non-coding RNAs. The course is geared toward advanced undergraduate and beginning graduate students and is a combination of lectures, student presentations and research presentations by guest speakers. Students will work with the current scientific literature. Spring Mutually Exclusive: BIOL 4234 , CAMB 4830 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5240 Genetic Analysis",
+    "courseid": "BIOL 5240",
+    "coursedescription": "The logic and methodology of genetic analysis in plants and animals. This lecture course will focus on the use of mutations to study gene function and higher order biological processes, methods for reporting and manipulating gene expression, and analysis of the genetic basis of natural variation. Not Offered Every Year Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5250 Molecular Genetics of Development",
+    "courseid": "BIOL 5250",
+    "coursedescription": "Development is the process by which organisms grow and acquire their final shape. This remarkably complex process requires exquisite spatiotemporal control, and principles of developmental biology have implications for nearly all other biological disciplines. This course is a deep dive into these general biological principles, using plants as a model system. Students will prepare presentations on primary literature and engage in vigorous discussions in a \"journal club\" format. Our goal is to learn how developmentally significant genes and cellular interactions control differentiation and pattern formation. Spring Mutually Exclusive: BIOL 4250 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5262 Biological Foundations for Bioengineering and Biotechnology: Genomics and Omics Technologies",
+    "courseid": "BIOL 5262",
+    "coursedescription": "This course is designed for students in graduate level degree programs with an interest in developing a strong understanding of core concepts in genetics and omics technologies. It is assumed that students either have familiarity with undergraduate level biology topics, or can quickly catch up to keep pace with the course. We will focus on genetics, genomics, and bioinformatics topics ranging from transcriptomics to transgenic organisms to epigenetics. This fast-paced course will cover both foundational principles, as well as modern applications and developments, offering hands-on active learning opportunities where possible. Students will be expected to engage deeply with the material, and will have the opportunity to develop scientific skills in critical thinking, reading, and communication, culminating in a final group presentation at the end of the semester. Upon completion of the course, students should feel empowered to enroll in any advanced genetics/genomics-based biology course at Penn. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students in graduate level degree programs with an interest in developing a strong understanding of core concepts in genetics and omics technologies."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 5310 Molecular Physiology",
+    "courseid": "BIOL 5310",
+    "coursedescription": "This course is designed for advanced undergraduate and graduate students who are interested in molecular physiology of sensory signal transduction. The major topics to cover will be signal transduction mechanisms used by membrane ion channels and receptors that detect the sensory stimuli (light, sound, temperature, smell and taste, for example) and transmit the signals to the nervous system. Modern molecular, genetic and structural techniques (electrophysiology, protein structural determination/analysis, animal genetics, and human disease, for example) will be introduced along with each topic. References will be primary research articles. Students will critically evaluate research discoveries through analysis of research papers. Each student will deliver two presentations and write a 10-page research proposal. Fall Mutually Exclusive: BIOL 4310 Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for advanced undergraduate and graduate students who are interested in molecular physiology of sensory signal transduction."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 5314 Molecular Evolution of Physiological Functions",
+    "courseid": "BIOL 5314",
+    "coursedescription": "This course is designed for students who are interested in understanding how physiological functions are achieved. Taking advantage of the recent explosion in genetic data and high-resolution protein structure analysis across organisms, the course focuses on the evolution of physiological functions at the genetic, structural, circuit and organismal levels. Examples include the co-evolution of toxins and toxin resistance between hunter and prey, the evolution of substance transport across cell membranes, intracellular signaling cascades, intercellular communication, distributed and centralized nervous systems, neural circuits controlling physiological functions such as feeding, locomotion and visual information processing. Students are expected to learn 1) basic physiological processes, their origin and adaptation, 2) modern genetic, structural and physiological techniques, 3) to critically evaluate research findings, 4) to present scientific papers, and 5) to write a research report. Spring, odd numbered years only Mutually Exclusive: BIOL 4314 Prerequisite: NRSC 1110 OR BIOL 2310 OR BIOL 2210 OR BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110",
+      "BIOL 2310",
+      "BIOL 2210",
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students who are interested in understanding how physiological functions are achieved."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 5318 Systems Biology: Integrative physiology and biomechanics of the muscular system",
+    "courseid": "BIOL 5318",
+    "coursedescription": "The course will focus on muscle function from the level of molecules to whole animal locomotion. At each level of organization, muscle function will be explored from mechanical and energetic viewpoints. The course will include lectures, demonstrations, and several guest expert lectures. Students will also be introduced to realistic musculo-skeletal modelling and forward dynamic simulations to explore integrated function. Spring Mutually Exclusive: BIOL 4318 Prerequisite: BIOL 2310 OR BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2310",
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5410 Evolutionary Biology",
+    "courseid": "BIOL 5410",
+    "coursedescription": "Theories and mechanisms of evolution, with emphasis on the genetic basis of evolutionary change. Spring Mutually Exclusive: BIOL 2410 Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5430 Evolution and Ecology of Infectious Diseases",
+    "courseid": "BIOL 5430",
+    "coursedescription": "This course will focus on fundamental topics related to the ecological and evolutionary processes driving the transmission of pathogenic microbes among hosts including life-history strategies; evolution of pathogenic traits; the impacts of temporal, spatial and host-trait heterogeneity; and factors causing the emergence of an infectious pathogen. Examples will be drawn from human, wildlife, and plant pathogens to illustrate these ecological and evolutionary topics. Students will learn to develop and apply current ecological and evolutionary theory to infectious microbe research and gain practical experience accessing, interpreting and synthesizing the peer-reviewed scientific literature through a combination of popular and scientific readings, discussion, and lecture. Fall Mutually Exclusive: BIOL 4430 Prerequisite: BIOL 2410 OR BIOL 2610 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2410",
+      "BIOL 2610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5510 Statistics for Biologists",
+    "courseid": "BIOL 5510",
+    "coursedescription": "Introductory probability theory. Principles of statistical methods. Problems of estimation and hypothesis testing in biology and related areas. Fall Mutually Exclusive: BIOL 2510 , STAT 1110 Prerequisite: MATH 1400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5511 Biological Data Analysis",
+    "courseid": "BIOL 5511",
+    "coursedescription": "This course focuses on the underlying principles, implementation, and interpretation of statistical methods commonly used in biology. Lectures will incorporate exercises that implement these analyses in the open source software R, as well as exercises in data visualization. We will draw on examples from ecology, evolution, genetics, and genomics. Spring Mutually Exclusive: BIOL 4511 Prerequisite: BIOL 2510 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5517 Theoretical Population Biology",
+    "courseid": "BIOL 5517",
+    "coursedescription": "Introduction to basic theoretical tools to study the evolutionary and ecological dynamics of populations. Topics to be discussed include: basic population dynamics and population genetics theory, evolutionary game theory/adaptive dynamics, social evolution (kin selection/multilevel selection), life-history evolution, and stochastic models. Other topics may be added based on the specific interests of students in the class. Spring Mutually Exclusive: BIOL 4517 Prerequisite: BIOL 2410 AND MATH 1400 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2410",
+      "MATH 1400"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Other topics may be added based on the specific interests of students in the class."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 5535 Introduction to Computational Biology & Biological Modeling",
+    "courseid": "BIOL 5535",
+    "coursedescription": "The goal of this course is to develop a deeper understanding of techniques and concepts used in Computational Biology. Both theoretical and practical aspects of a range of methods will be covered. Theoretical aspects will include statistical analysis, modeling, and algorithm design. This course cannot provide a comprehensive survey of the field but focuses on a select core set of topics and data types. We will discuss the genome browser, alignment algorithms, classical and non-parametric statistics, pathway analysis, dimensionality reduction, GWAS, multiple testing and machine learning, with primary focus on biomedical data. UNIX, R and Python will be utilized to learn to execute big data analysis pipelines, including RNA-Seq and DNA-Seq. UNIX and R will be taught from first principles but prior experience in Python will be assumed. You will be provided with a computational (cloud based) platform on which to do all programming and assignments. Prerequisite: Programming experience in Python required. Fall Mutually Exclusive: BIOL 4536 Prerequisite: MATH 1400 AND ( BIOL 2510 OR BIOL 5510 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 4536",
+      "MATH 1400",
+      "BIOL 2510",
+      "BIOL 5510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5536 Fundamentals of Computational Biology",
+    "courseid": "BIOL 5536",
+    "coursedescription": "Introductory computational biology course designed for both biology students and computer science, engineering students. The course will cover fundamentals of algorithms, statistics, and mathematics as applied to biological problems. In particular, emphasis will be given to biological problem modeling and understanding the algorithms and mathematical procedures at the \"pencil and paper\" level. That is, practical implementation of the algorithms is not taught but principles of the algorithms are covered using small sized examples. Topics to be covered are: genome annotation and string algorithms, pattern search and statistical learning, molecular evolution and phylogenetics, functional genomics and systems level analysis. Fall Also Offered As: CIS 5360 , GCB 5360 Prerequisite: (( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 ) AND STAT 111 AND STAT 112 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121",
+      "STAT 111",
+      "STAT 112"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5566 Machine Learning Methods in Natural Science Modeling",
+    "courseid": "BIOL 5566",
+    "coursedescription": "This is a course for PhD students in natural sciences with interests in applying latest machine learning and AI approaches to their problem domains. The course will consist of directed readings and covering available tutorials with weekly discussions. The goal is to motivate mutual self-learning through guided discussions. Weekly participation and completion of readings or other assigned materials is essential and lack of attendance will be graded. Topics to be covered will be decided after the first meeting. Prerequisites: multivariate calculus, linear algebra, statistics, and probability. Not Offered Every Year Also Offered As: PHYS 5566 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 5566"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This is a course for PhD students in natural sciences with interests in applying latest machine learning and AI approaches to their problem domains."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 5568 Mathematical Modeling in Physiology and Cell Biology",
+    "courseid": "BIOL 5568",
+    "coursedescription": "Mathematical modeling is increasingly becoming a standard technique in physiology and cell biology. In this class, we will cover some classical models in physiology and cell biology. Half of the course will be devoted to electrophysiology (Hodgkin-Huxley model, action potential propagation and related topics), which has arguably been the most successful area of application of mathematical techniques to biology. We will then consider models of molecular motors and muscle mechanics, of pattern formation and cell polarization. Not Offered Every Year Also Offered As: AMCS 5681 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5571 Topics in Computational Biology",
+    "courseid": "BIOL 5571",
+    "coursedescription": "Course for graduate students planning research in computational biology and genomics. Assigned readings will cover algorithms and data analysis techniques in computational biology. The course will include presentations and discussion of research problems involving computational analysis. Active group participation is required. Topics could include string algorithms, probability theory, multivariate statistics, molecular evolution, Markov Models, phylogenetic trees, and machine learning. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5600 Field Botany",
+    "courseid": "BIOL 5600",
+    "coursedescription": "This course focuses on teaching students the Pennsylvania flora, both native and naturalized. Through weekly field trips, students will gain an appreciation for the diversity of plant species and plant communities in PA, and observe and discuss ecological and historical forces that influence plant species occurrences and plant communities. The ability to quickly and accurately identify plants in the field, through both sight identification and the use of a dichotomous key, is the major thrust of this course. Students will also learn how to appropriately collect plant materials for further study/identification in the laboratory and for archiving in an herbarium collection. Mutually Exclusive: BIOL 4600 Prerequisite: (( BIOL 1101 AND BIOL 1102 ) OR BIOL 1124 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1124"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5606 Urban Botany",
+    "courseid": "BIOL 5606",
+    "coursedescription": "Urban environments present unique challenges and opportunities for plant species. After a review of plant taxonomy and anatomy, this course will examine the ecological impacts of plants in urban settings. We will explore landscapes in and around Penn’s campus to understand how plant communities contribute to ecosystem services in these environments. The applied uses of plants in agriculture, medicine, bioremediation, and other aspects of community health will also be explored. Fall Mutually Exclusive: BIOL 4606 Prerequisite: BIOL 1101 AND ( BIOL 1102 OR BIOL 1121 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5615 Freshwater Ecology",
+    "courseid": "BIOL 5615",
+    "coursedescription": "Survey of the physical, chemical and biological properties of freshwater ecosystems, both riverine and lentic, natural and polluted. Spring Mutually Exclusive: BIOL 4615 Prerequisite: BIOL 1101 OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5669 Plant Physiology Through Space and Time",
+    "courseid": "BIOL 5669",
+    "coursedescription": "This course is a lab/lecture/seminar hybrid that will meet once per week for three hours. Each session will consist of mini-lecture/lab, paper discussions/lab, or solely lab efforts. All reading assignments will be available on Canvas (no textbook fees). We will exam various aspects of photosynthesis, water relations and nutrient acquisition in the context of the evolutionary progression of higher plants. With each subject, we will consider, measure, and in some cases model whole-plant physiology while examining sub-cellular-level controls and ecosystem-to-global-level consequences. This course is designed to give molecular biologists through earth-system scientists the tools to measure and understand whole-plant physiological responses to molecular manipulation and environmental variability. All students will learn to appreciate the context of their work on both micro and macro scales. Spring Mutually Exclusive: BIOL 4669 Prerequisite: BIOL 2610 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5710 Microbial Diversity and Pathogenesis",
+    "courseid": "BIOL 5710",
+    "coursedescription": "Microbiology plays a central role in diverse areas of human life such as infectious disease, ecology, and biotechnology. This course will cover aspects of modern microbiology with an emphasis on prokaryotic organisms. The topics will include basic aspects of microbial diversity, genetics, virology, and pathogenesis as well as examples of applied microbiology. Spring Mutually Exclusive: BIOL 3710 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5711 Microbial Diversity and Pathogenesis Lab",
+    "courseid": "BIOL 5711",
+    "coursedescription": "The importance of microbiology in complex issues, such as the impact of the microbiome in human health or as alternative energy sources, is being appreciated more and more each day. This upper level laboratory course provides students with a robust technical skill set while also giving them an opportunity to participate in an authentic research project that may lead to novel discoveries. Students will generate research questions, formulate hypotheses, design experiments, analyze data, and present their research findings to the class. In each project, students will use the cutting edge approach of metagenomics to evaluate the microbial diversity of their environment via Next Generation Sequencing. Students will also examine the function of microbial species within their communities. Potential projects include the isolation of novel antibiotic producers and the antibiotic they produce, designing and optimizing microbial fuel cells that can be used to generate electricity, or isolating antibiotic resistant bacteria and attempting novel approaches to inhibit or prevent their growth. Spring Mutually Exclusive: BIOL 3711 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5720 Topics in Prokaryotic Biology: From Molecules to Microbiomes",
+    "courseid": "BIOL 5720",
+    "coursedescription": "This course will cover research articles from both the classic and contemporary literature on the genetics, cell biology, and physiology of prokaryotes. The material will focus on a small number of subjects in depth, with an emphasis on how the field has arrived at its current state of knowledge and on exciting new research directions. Possible topics include: stress responses, cell signaling, subcellular organization, bacteriophages, microbial communities, and host-microbe interactions. Spring, even numbered years only Mutually Exclusive: BIOL 4710 Prerequisite: BIOL 2210 OR BIOL 3710 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210",
+      "BIOL 3710"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5810 Drug Discovery and Development",
+    "courseid": "BIOL 5810",
+    "coursedescription": "This course provides a thorough interdisciplinary overview of the modern drug discovery and development process. Building on foundational life sciences and molecular science courses, this course demonstrates how basic scientific concepts are applied to real-world challenges in drug discovery and development. The course begins with a history of medicines in society and the evolution of the modern pharmaceutical and biotech industry. It then covers a wide range of topics, including the identification of novel therapeutic targets, the molecular design of safe and effective drugs, considerations related to the final clinical formulations, clinical trial design and execution, regulatory pathways for drug approval, and post-market safety and efficacy monitoring. The curriculum is led by experienced researchers, biotech innovators, and professionals from both academia and the biopharmaceutical industry. It covers essential disciplines that are vital to drug discovery and development. In addition to core subjects such as physiology, cell biology, molecular biology, and biochemistry, the course also explores related fields, including organic chemistry, medicinal chemistry, pharmacology, pharmacokinetics, toxicology, materials science, and biotechnology. Students will also investigate in silico methodologies, explore applications of AI in drug discovery and development, and learn about advanced biomanufacturing processes. By the course's end, students will understand the various challenges, opportunities, and career paths available within drug discovery, the pharmaceutical sector, and the broader biotechnology industry. Prerequisite: Undergraduate courses in biology, biochemistry, and organic chemistry. Fall Mutually Exclusive: BIOL 4810 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 4810"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5820 Biological Foundations: Exploring Groundbreaking Research",
+    "courseid": "BIOL 5820",
+    "coursedescription": "Designed for graduate students with an interest in exploring important discoveries in the biological sciences through the lens of literature discussion. We will emphasize work that has won the Nobel Prize in Physiology or Medicine, and its relevance to modern research. It is assumed that students have familiarity with undergraduate biology topics, or can catch up, to keep pace with discussions. In addition to instructor-guided exploration of course material, students will be expected to lead journal club-style discussions on papers of their choosing. Upon successful completion of this course, students will have both a greater appreciation for major discoveries in the biological sciences, and a greater ability to discuss and apply these discoveries to their own scientific questions. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Designed for graduate students with an interest in exploring important discoveries in the biological sciences through the lens of literature discussion."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 5825 Biochemistry and Molecular Genetics Superlab",
+    "courseid": "BIOL 5825",
+    "coursedescription": "Intensive laboratory class where open-ended, interesting biological problems are explored using modern lab techniques. Topics may include protein structure/function studies; genetic screens, genomics and gene expression studies; proteomics and protein purification techniques; and molecular cloning and DNA manipulation. The course emphasizes developing scientific communication and independent research skills. Course topics reflect the interests of individual Biology faculty members. This course is recommended for students considering independent research. Mutually Exclusive: BIOL 4825 Prerequisite: BIOL 2810 OR BIOL 2010 OR BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2810",
+      "BIOL 2010",
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Intensive laboratory class where open-ended, interesting biological problems are explored using modern lab techniques.",
+        "Course topics reflect the interests of individual Biology faculty members.",
+        "This course is recommended for students considering independent research."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOL 5860 Mathematical Modeling in Biology",
+    "courseid": "BIOL 5860",
+    "coursedescription": "This course will cover various mathematical models and tools that are used to study modern biological problems. Mathematical models may be drawn from cell biology, physiology, population genetics, or ecology. Tools in dynamical systems or stochastic processes will be introduced as necessary. No prior knowledge of biology is needed to take this course, but some familiarity with differential equations and probability will be assumed. Fall Also Offered As: MATH 5861 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 5999 Master's Independent Study",
+    "courseid": "BIOL 5999",
+    "coursedescription": "Laboratory research for the Master's of Science in Biology submatriculation program. Apply at the Academic Office, 102 Leidy Labs. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-3 Course Units"
+    }
+  },
+  {
+    "coursename": "BIOL 6010 Communication for Biologists",
+    "courseid": "BIOL 6010",
+    "coursedescription": "Basic science writing and presentation skills for PhD students in Biology. Designed for second year graduate students preparing for qualifying exams. In the first half of the course, students will produce weekly writing assignments and critique writing submitted by others. In the second half, students will learn techniques for effective research presentations in both seminar style environments and chalk-talk settings. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 7000 Advanced Topics in Current Biological Research",
+    "courseid": "BIOL 7000",
+    "coursedescription": "Integrative seminar on current biological research for first-year PhD students. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 9999 Independent Study and Research",
+    "courseid": "BIOL 9999",
+    "coursedescription": "Advanced laboratory reserach with a member of the Biology Graduate Group. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-4 Course Units"
+    }
+  }
+]

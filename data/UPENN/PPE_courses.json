@@ -1,0 +1,280 @@
+[
+  {
+    "coursename": "PPE 0999 Transfer Credit",
+    "courseid": "PPE 0999",
+    "coursedescription": "Transfer credit for course that we do not have a direct equivalent in our published curriculum but which meets the spirit of the major. For the PPE major. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PPE 1001 Introduction to PPE: Ethics and Economics of Wealth Creation",
+    "courseid": "PPE 1001",
+    "coursedescription": "This interdisciplinary course provides an overview of how markets work, and under what conditions they create wealth and prosperity. We will also consider when markets fail to create wealth or function well. Along the way, we will think about the role of political institutions in structuring market exchange and allocating resources. (For Penn PPE majors, this class will satisfy the philosophy foundation, or a thematic concentration class for Choice and Behavior or Distributive Justice). Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PPE 2355 Introduction to Political Psychology",
+    "courseid": "PPE 2355",
+    "coursedescription": "This course will explore psychological approaches to understanding political beliefs, attitudes, and actions at the levels of both individual citizens and national leaders. It will also explore the possibility that psychological science itself is not immune to the political debates swirling around it. Specific topics will include: the workings of belief systems (and their power to shape what we \"see\"), cognitive biases (and their power to cause miscalculations), sacred values and their role in stabilizing belief systems and social interaction, personality and ideology (the linkages between the personal and the political), and clashing conceptions of morality and distributive and corrective justice (striking variations among people in what they consider to be fair). We shall also explore some topics that have sparked controversy in the psychological research literature and that tend to polarize opinion along political lines, including work on intelligence and unconscious bias. Fall or Spring Also Offered As: PSYC 2355 Prerequisite: PSYC 0001 OR COGS 1001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001",
+      "COGS 1001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PPE 3001 Strategic Reasoning",
+    "courseid": "PPE 3001",
+    "coursedescription": "This course is about strategically interdependent decisions. In such situations, the outcome of your actions depends also on the actions of others. When making your choice, you have to think what the others will choose, who in turn are thinking what you will be choosing, and so on. Game Theory offers several concepts and insights for understanding such situations, and for making better strategic choices. This course will introduce and develop some basic ideas from game theory, using illustrations, applications, and cases drawn from business, economics, politics, sports, and even fiction and movies. Some interactive games will be played in class. There will be little formal theory, and the only pre-requisites are some high-school algebra and having taken Econ 1. However, general numeracy (facility interpreting and doing numerical graphs, tables, and arithmetic calculations) is very important. This course will also be accepted by the Economics department as an Econ course, to be counted toward the minor in Economics (or as an Econ elective). Fall Also Offered As: ECON 0120 Prerequisite: ECON 0100 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 1",
+      "ECON 0120",
+      "ECON 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PPE 3002 Public Policy Process",
+    "courseid": "PPE 3002",
+    "coursedescription": "This course introduces students to the theories and practice of the policy-making process. There are four primary learning objectives. First, understanding how the structure of political institutions matter for the policies that they produce. Second, recognizing the constraints that policy makers face when making decisions on behalf of the public. Third, identifying the strategies that can be used to overcome these constraints. Fourth, knowing the toolbox that is available to participants in the policy-making process to help get their preferred strategies implemented. While our focus will primarily be on American political institutions, many of the ideas and topics discussed in the class apply broadly to other democratic systems of government. Spring Also Offered As: PSCI 1200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PPE 3003 Behavioral Economics and Psychology",
+    "courseid": "PPE 3003",
+    "coursedescription": "Our understanding of markets, governments, and societies rests on our understanding of choice behavior, and the psychological forces that govern it. This course will introduce you to the study of choice, and will examine in detail what we know about how people make choices, and how we can influence these choices. It will utilize insights from psychology and economics, and will apply these insights to domains including risky decision making, intertemporal decision making, and social decision making. Fall Also Offered As: PSYC 2750 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Our understanding of markets, governments, and societies rests on our understanding of choice behavior, and the psychological forces that govern it."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 3004 Choice",
+    "courseid": "PPE 3004",
+    "coursedescription": "The choices that people make determine their lived experiences, their social, economic, and political realities, and their overall well-being. For this reason, the study of choice is of special interest across both the sciences and the humanities, and is a central focus of academic disciplines like psychology, economics, cognitive science, neuroscience, computer science, and philosophy. This course will introduce you to the interdisciplinary study of human choice behavior, and will examine in detail what we know about how people make choices, how observed choice patterns and mechanisms relate to those in animals and artificially intelligent machines, and how we can accurately predict and influence people’s choices and choice outcomes. The primary objective of this course is to build students' understanding and appreciation of the diverse perspectives on human choice behavior. Moreover, by exploring the mechanisms and nuances of decision-making, students will gain insight into their personal choice patterns and acquire strategies to improve their own choice outcomes. Spring Also Offered As: PSYC 2740 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For this reason, the study of choice is of special interest across both the sciences and the humanities, and is a central focus of academic disciplines like psychology, economics, cognitive science, neuroscience, computer science, and philosophy."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 3950 Center for Social Norms & Behavioral Dynamics Research Seminar",
+    "courseid": "PPE 3950",
+    "coursedescription": "This “research seminar” takes its model from the Penn Independent Study and pairs interested students with researchers at the Center for Social Norms & Behavioral Dynamics sited here at Penn. SNOBED fellows work with organizations across the world to identify, measure, and influence norms and behaviors at scale. PPE majors will be paired with SNOBED-affiliated researchers and faculty and work as junior research fellows, learning fundamental approaches and the basics of research methods in the day-to-day environment of an active research center with mentors working on cutting edge research. Examples of current projects include: research on poverty in the US funded by the Templeton Foundation; on toilet use and sanitation in India funded by the Gates Foundation; and on corruption in Nigeria and Colombia funded by Chatham House and USAID. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units",
+      "notes": [
+        "This “research seminar” takes its model from the Penn Independent Study and pairs interested students with researchers at the Center for Social Norms & Behavioral Dynamics sited here at Penn."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 3951 Netter Center/PPE Partnership Seminar",
+    "courseid": "PPE 3951",
+    "coursedescription": "This seminar is intended for students engaged in PPE-Netter Center partnership opportunities. This seminar serves as an Academically Based Community Service (ABCS) course, which are at the core of the Netter Center’s work. ABCS students and faculty work with West Philadelphia public schools, communities of faith, and community organizations to help solve critical campus and community problems in a variety of areas such as the environment, health, arts, and education. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  },
+  {
+    "coursename": "PPE 3999 Independent Study",
+    "courseid": "PPE 3999",
+    "coursedescription": "Student arranges with a faculty member to pursue a research project on a suitable topic. For more information about research and setting up independent studies, visit: https://ppe.sas.upenn.edu/study/curriculum/independent-studies Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PPE 4000 Research in Philosophy, Politics & Economics",
+    "courseid": "PPE 4000",
+    "coursedescription": "Led by fellows in the Philosophy, Politics and Economics program, this course teaches students how to conduct research in PPE with an emphasis on creating a well-formed research question, determining what kinds of data or scholarly research bears on that question, and how to carry out an interdisciplinary, research-driven project on that question. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PPE 4500 Advanced Seminar in Philosophy",
+    "courseid": "PPE 4500",
+    "coursedescription": "An advanced seminar in PPE offered by faculty in Philosophy. As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission). For a detailed course description visit: https://ppe.sas.upenn.edu/study/curriculum/advanced-interdisciplinary-courses Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission)."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4600 Advanced Seminar in Political Science",
+    "courseid": "PPE 4600",
+    "coursedescription": "An advanced seminar in PPE offered by faculty in Political Science. As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission). For a detailed course description visit: https://ppe.sas.upenn.edu/study/curriculum/advanced-interdisciplinary-courses Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission)."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4601 Advanced Seminar in Social Policy",
+    "courseid": "PPE 4601",
+    "coursedescription": "Social policy is the study of human well-being and is concerned with the effects in areas of health care, criminal justice, inequality, and education, among others. An advanced seminar in PPE offered by faculty in Political Science. As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission). For a detailed course description visit: https://ppe.sas.upenn.edu/study/curriculum/advanced-interdisciplinary-courses Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission)."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4650 Advanced Seminar in Political Science: The Politics of Climate Change",
+    "courseid": "PPE 4650",
+    "coursedescription": "The purpose of this course is to explore the political dynamics that shape the debate, enactment, and implementation of policies to address climate change. By reading the latest research on the political determinants of climate policy, the course will help students develop a nuanced understanding of the ideas, institutions, and behaviors that structure the climate policy process. We will focus primarily on climate policy and politics in the United States, while occasionally incorporating comparative perspectives to provide insight into the US case. Throughout the course, we will discuss why climate policies are designed in particular ways; when and why policies pass or fail to pass; how various institutional, organizational, and public interests influence the climate policy process; and what questions remain unanswered about how to address the problem of climate change. Spring Also Offered As: PSCI 4210 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Throughout the course, we will discuss why climate policies are designed in particular ways; when and why policies pass or fail to pass; how various institutional, organizational, and public interests influence the climate policy process; and what questions remain unanswered about how to address the problem of climate change."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4700 Advanced Seminar in Economics",
+    "courseid": "PPE 4700",
+    "coursedescription": "An advanced seminar in PPE offered by faculty in Economics. As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission). For a detailed course description visit: https://ppe.sas.upenn.edu/study/curriculum/advanced-interdisciplinary-courses Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission)."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4701 Advanced Seminar in Political Economy",
+    "courseid": "PPE 4701",
+    "coursedescription": "Political Economy studies the relationships between individuals and society and between markets and the state. An advanced seminar in PPE offered by faculty in Economics. As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission). For a detailed course description visit: https://ppe.sas.upenn.edu/study/curriculum/advanced-interdisciplinary-courses Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission)."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4800 Advanced Seminar in Psychology",
+    "courseid": "PPE 4800",
+    "coursedescription": "An advanced seminar in PPE offered by faculty in Psychology. As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission). For a detailed course description visit: https://ppe.sas.upenn.edu/study/curriculum/advanced-interdisciplinary-courses Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission)."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4802 Advanced Seminar in Psychology: Obedience",
+    "courseid": "PPE 4802",
+    "coursedescription": "Though almost half a century old, Milgram’s 1961-1962 studies of “destructive obedience” continue to puzzle, fascinate, and alarm. The main reason for their continued grip on the field’s attention (other than the boldness of the idea and elegance of execution) may be simply that they leave us with a portrait of human character that is radically different from the one that we personally wish to endorse or that the wider culture teaches us to accept. In this seminar, we will take an in-depth look at these famous studies (along with the more recent replications) and explore their various psychological, political and philosophical ramifications. Not Offered Every Year Also Offered As: PSYC 3780 , PSYC 4780 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PPE 4803 Advanced Seminar in Psychology: Modeling Choice Behavior",
+    "courseid": "PPE 4803",
+    "coursedescription": "How do people decide and how can we study decision processes using formal mathematical and computational models? This course will address this question. It will examine popular quantitative modeling techniques in psychology, economics, cognitive science, and neuroscience, and will apply these techniques to study choice behavior. Students will learn how to test the predictions of choice models, fit the models on behavioral data, and quantitatively examine the goodness-of-fit. They will also get practice formulating their own models for describing human behavior. This class will have a major programming component, however no prior programming experience is required. Fall Also Offered As: PSYC 3803 , PSYC 4803 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PPE 4804 Advanced Seminar in Psychology: Origins of Cooperation and Conflict",
+    "courseid": "PPE 4804",
+    "coursedescription": "In this seminar, students will take an interdisciplinary approach to understanding the origins of cooperation and conflict. This course will foster integrated learning by drawing on perspectives and bodies of research spanning evolutionary biology, game theory, anthropology, and experimental psychology. In the first part of the course, we will examine the evolutionary roots of cooperation and conflict, including the role of natural selection in shaping human behavior, and explore how game theory can help us understand when individuals are likely to cooperate or compete in strategic interactions. In the second part of the course, we will examine cooperation and conflict from a more psychological lens, reading a diverse range of primary research encompassing social, developmental, political and comparative psychology. Readings in this section will cover topics such as collective action, social emotions, morality, theory of mind, punishment, intergroup conflict, and social norms. Lastly, in the third part of the course, students will apply the knowledge acquired in the first two parts of the class to contemporary social issues broadly related to cooperation and conflict, including polarization, politics, immigration, and misinformation. Students will be encouraged to make connections between course material and their interests in other academic disciplines (e.g., how psychology can inform theories of international relations). The class will culminate in an independent research project broadly related to cooperation and conflict, allowing students to conduct independent research in a topic that interests them and gain hands-on experience with the research process. By the end of the course, students will have a deep understanding of the key concepts related to the origins of cooperation and conflict and the ability to use this knowledge to generate scientifically informed interventions to promote cooperation across a variety of contexts. While the course has no prerequisites, students may find it useful to have taken a course in psychology or anthropology. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will be encouraged to make connections between course material and their interests in other academic disciplines (e.g., how psychology can inform theories of international relations).",
+        "The class will culminate in an independent research project broadly related to cooperation and conflict, allowing students to conduct independent research in a topic that interests them and gain hands-on experience with the research process."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4900 Advanced Seminar in PPE (SNF Paideia Course)",
+    "courseid": "PPE 4900",
+    "coursedescription": "An advanced seminar in PPE offered by Paideia-affiliated faculty. As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission). For a detailed course description visit: https://ppe.sas.upenn.edu/study/curriculum/advanced-interdisciplinary-courses Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As an advanced interdisciplinary seminar, this course is open to juniors and seniors with a declared PPE major (open to others by departmental permission)."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4903 Advanced Seminar in PPE: Policy Task Force on US-China Relations (SNF Paideia Program Course)",
+    "courseid": "PPE 4903",
+    "coursedescription": "More than forty years after the normalization of relations between the United States and China, the relationship faces new and fundamental challenges with global implications. Designed as a policy task force, taught in coordination with a similar course to be taught at Tsinghua University in Beijing, this course will introduce students to the most pressing issues in U.S.-China relations –– including security, trade, climate, tech competition, and human rights –– and invite them to deliberate on and formulate recommendations for U.S. policy towards China. Each student will be required to complete a policy paper on some aspect of U.S.-China relations. At the end of the course, students will travel to China to meet in-person with their Chinese counterparts at Tsinghua University, and to present their policy papers and recommendations to relevant interested Chinese audiences in Beijing and Shanghai. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "At the end of the course, students will travel to China to meet in-person with their Chinese counterparts at Tsinghua University, and to present their policy papers and recommendations to relevant interested Chinese audiences in Beijing and Shanghai."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4950 Advanced Seminar in Research Methods",
+    "courseid": "PPE 4950",
+    "coursedescription": "This course is aimed at understanding how to do research in the interdisciplinary methods of PPE. Whether it is a scientific paper, a thesis proposal, a research statement for grant or fellowship applications, or a report for a public or private employer engaged in any type of research, it is essential to know all the steps and the elements to make the final manuscript captivating and exhaustive. In this course, among other things, you will be learning (i) how to choose a topic of your interest, (ii) how to formulate specific research questions, and (iii) what methods, frameworks, and theories you can use to answer your research questions, and turn your initial idea into a well-structured written production. This course is strongly encouraged for juniors intending to pursue the Senior Honors Thesis track in PPE and upperclassmen in PPE with serious research aspirations here at Penn and beyond. While the final project in this course will depend on the individual student's purpose for taking this methods seminar, this course will fulfill the capstone requirement in the PPE major. Interested students must apply . Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In this course, among other things, you will be learning (i) how to choose a topic of your interest, (ii) how to formulate specific research questions, and (iii) what methods, frameworks, and theories you can use to answer your research questions, and turn your initial idea into a well-structured written production.",
+        "Interested students must apply ."
+      ]
+    }
+  },
+  {
+    "coursename": "PPE 4998 Directed Honors Research",
+    "courseid": "PPE 4998",
+    "coursedescription": "Student arranges with a Penn faculty member to do research and write a thesis on a suitable topic. For more information on honors visit: https://ppe.sas.upenn.edu/study/curriculum/honors-theses Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PPE 4999 Advanced Research",
+    "courseid": "PPE 4999",
+    "coursedescription": "This course may be taken by a PPE student for advanced research. Enrollment by permit only. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "coursename": "HPR 5010 Economics of Health Care Delivery",
+    "courseid": "HPR 5010",
+    "coursedescription": "This course examines how medical care is produced and financed in private and public sectors, economic models of consumer and producer behavior, applications of economic theory to health care. Prerequisite: Course only open to Masters of Science in Heath Policy Research students unless by special request. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HPR 5030 Qualitative Methods in Health Research",
+    "courseid": "HPR 5030",
+    "coursedescription": "The purpose of this course is to expose students to a variety of qualitative approaches/methodologies that may be used in health services/policy research. In didactics we will discuss the pros and cons of a range of qualitative Methods, how the method is actually implemented (with multiple experts presenting approaches), and pair the presentation with a broader discussion in which students compare and contrast health oriented articles in which the method was used. Students will have the opportunity to apply the theoretical approaches to their own research interests with direct input from the faculty and their peers. Prerequisite: Permission needed from Instructor. Summer Term 1 Course Unit",
+    "course-prerequsities": [
+      "TERM 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will have the opportunity to apply the theoretical approaches to their own research interests with direct input from the faculty and their peers.",
+        "Prerequisite: Permission needed from Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 5500 Clinical Economics and Decision Making",
+    "courseid": "HPR 5500",
+    "coursedescription": "This course focuses on the application of decision analysis and economic analysis to clinical and policy research. It provides an introduction to the general tools for decision analysis, including decision trees and Markov models, assessment of costs and patient preferences, and assessment of cost-effectiveness. Special emphasis is placed on second-order Monte Carlo analysis and its use in the construction of measures of sampling uncertainty for cost-effectiveness analysis. Seminars will include didactic material, practical exercises that include problem solving, critically analyzing published articles and learning to use computer software that facilitates decision and economic analyses. Spring Also Offered As: EPID 5500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HPR 5800 Outcomes Research",
+    "courseid": "HPR 5800",
+    "coursedescription": "This course is divided into two main parts. The first part addresses issues related to the measurement of quality in health care. Included is a review of the classical structure-process-outcome quality paradigm. The paradigm’s strengths and limitations are addressed. This part especially focuses on outcome measures of quality, and examines the validity of alternative measures. The second part deals with observational, or quasi-experimental, research studies. It addresses the advantages and limitations of alternative designs, and covers the role of clinical risk adjustment in observational studies of medical interventions. It focuses on the problem of selection bias, and reviews recent methods for dealing with this bias, such as instrumental variables. Prerequisite: Introductory course in statistics including regression methods. Permission of instructor if prerequisite is not met. Fall Also Offered As: EPID 5800 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5800"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of instructor if prerequisite is not met."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 5840 Health Disparities Research",
+    "courseid": "HPR 5840",
+    "coursedescription": "This course will provide an overview of research in health disparities. It will cover the historical aspects, concepts, policy, economic, genomic and social perspectives of health disparities. It will provide students with methodological tools for health disparities research and introduce students to ongoing health disparities research by current Penn and affiliated faculty members.The course is composed of a series of weekly small group lectures and discussion, including critical appraisal of published papers, guest faculty presentations, and student presentations. Students will be expected to attend weekly meetings and participate in class discussions, prepare and lead discussions of assigned papers, review assigned readings, and draft and present a scientific protocol of their choosing related to health disparities. Summer Term Also Offered As: EPID 5840 Prerequisite: EPID 5100 AND EPID 5260 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HPR 5940 Critical Multimodal Qualitative Research Across the Professions",
+    "courseid": "HPR 5940",
+    "coursedescription": "Created in collaboration with Schools of Design and Law, this course is designed to introduce professional school students to critical, multimodal and experimental ethnographic qualitative research methods. The coverage of the course includes both theoretical and applied components. The course is divided into five modules. The first module explores the theory of critical ethnographic qualitative research and the ethical issues that arise when undertaking collaborative research around the \"everyday culture\" of communities and institutions with which practitioners in the students' chosen areas of study typically interact. The second module allows students to analyze qualitative research in professional fields of study and engage in dialogue with Penn faculty whose qualitative research addresses significant issues of importance to practitioners in law, business, medicine and planning. This module will also begin a discussion of the tasks of formulating critical qualitative research projects and analyzing data. The third module is devoted to qualitative data collection methods (participant observation, oral histories and in-depth interviews) and the modes and tools used in collecting qualitative data and reporting results (traditional or text-based, multimodal, and experimental). The final module considers in greater depth the role of aesthetics, advocacy and activism in utilizing multimodal approaches for sharing research findings with audiences consisting of academics, collaborators, fellow professionals, and the general population. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HPR 6000 Health Services Research and Innovation Science",
+    "courseid": "HPR 6000",
+    "coursedescription": "This course will provide students with an introduction to health services and health policy research. First, faculty representing various departments and and schools at the University of Pennsylvania will introduce students to a number of \"hot topics,\" including health disparities, medical decision making, neighborhoods and health, quality of care, access to care, behavioral incentives, and cost effectiveness research. Second, the course will offer an introduction to various career paths in the research and policy domains. Third, the course will provide a brief overview of practical issues such as grant opportunities, data options, publishing, and dissemination. Prerequisite: This course is only open to Masters of Science in Health Policy Research students. Summer Term 1 Course Unit",
+    "course-prerequsities": [
+      "TERM 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HPR 6030 Health Services and Policy Research Methods I: Primary Data Design and Collection",
+    "courseid": "HPR 6030",
+    "coursedescription": "This course will introduce students to commonly used primary data collection methods and provide multiple examples of how they have been used in health services research. Through the course students will define a primary data collection research project and develop the methods necessary to conduct the project. To get the full benefit of this course, students should use this course to develop the methods they plan to employ in their primary data collection project. Prerequisite: Permission needed from Instructor. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission needed from Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 6040 Introduction to Statistics for Health Policy",
+    "courseid": "HPR 6040",
+    "coursedescription": "This is the first semester of a two-semester sequence. It is an introductory statistics course covering descriptive statistics, probability, random variables, estimation, hypothesis testing, and confidence intervals for normally distributed and binary data. The second semester stresses regression models. Permission needed from instructor to enroll. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission needed from instructor to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 6060 Fundamentals of Health Policy",
+    "courseid": "HPR 6060",
+    "coursedescription": "While academic researchers often think of health policy in terms of research evidence and outcomes, politics and political processes also pla y important roles. The purpose of this course is to provide those pursuing careers in health services research and health policy with an understanding of the political context from which U.S. health policy emerges. This understanding is important for researchers who hope to ask and answer questions relevant to health policy and position their findings for policy translation. This understanding is important as well to policy leaders seeking to use evidence to create change. The class provides an overview of the U.S. health care system and then moves on to more comprehensive understanding of politics and government, including the economics of the public sector, the nature of persuasion, and techniques and formats for communication. The course emphasizes reading, discussion and applied policy analysis skills in both wirtten and oral forms. Concepts will be reinforced with case studies, written assignments and a final policy simulation exercise where students will be placed in the position of political advisors and policy researchers. Prerequisite: Permission needed from Instructor. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission needed from Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 6070 Health Services and Policy Research Methods II: Causal Inference Using Secondary Data",
+    "courseid": "HPR 6070",
+    "coursedescription": "Empirical research for health care policy frequently involves the analysis of observational data--information that is not primarily collected for research purposes. With the rapid increase in U.S. health information technology capacity, future opportunities for research using these \"secondary data\" appear promising. The objective of this course is to teach the skills necessary to conduct quality health policy research using secondary data. These skills include formulating research aims and applying appropriate study designs for achieving these aims. The course will also include a survey of the content and structure of several commonly used administrative and public databases available to researchers and workshops to develop the skills to access and manipulate these valuable resources. Prerequisite: Permission needed from Instructor. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission needed from Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 6080 Applied Regression Analysis for Health Policy Research",
+    "courseid": "HPR 6080",
+    "coursedescription": "This course deals with the work-horse of quantitative research in health policy research--the single outcome, multiple predictor regression model. Students will learn how to 1) select an appropriate regression model for a given set of research questions/hypotheses, 2) assess how adequately a given model fits a particular set of observed data, and 3) how to correctly interpret the results from the model fitting procedure. After a brief review of fundamental statistical concepts, we will cover analysis of variance, ordinary least squares, and regression models for categorical outcomes, time to event data, longitudinal and clustered data. We will also introduce the concepts of mediation, interaction, confounding and causal inference. Prerequisite: Permission needed from Instructor. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission needed from Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 6110 Implementation Science Institute",
+    "courseid": "HPR 6110",
+    "coursedescription": "The Penn Implementation Science Institute is a virtual 4-day intensive course that introduces learners to the fundamentals of implementation science, including theories, models, frameworks, strategies, and outcomes. Course content is delivered synchronously through didactic presentations and small group work, with course faculty available for consultation during office hours before and after each day. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HPR 6200 Implementation Science in Health and Health Care",
+    "courseid": "HPR 6200",
+    "coursedescription": "This course presents a survey of the field of implementation science in health. The structure of the course will include two parts. In the first part, we will introduce the field of implementation science, with an emphasis on theory, design and measurement. In the second part, we will focus on applied implementation science which will include examples of research programs in implementation science as well as applying insights of implementation science to practical implementation. An emphasis on qualitative and mixed methods approaches is included. Prerequisite: permission needed from Instructor. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: permission needed from Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 6210 Advanced Topics in Implementation Science in Health",
+    "courseid": "HPR 6210",
+    "coursedescription": "This seminar course offers an opportunity for students to advance their understanding of the thorniest methodological challenges in implementation science. Broadly, topics include study design, study execution, and tensions in the field. The intention will be for attendees to directly apply their learnings to their ongoing or proposed implementation research. This half credit course is intended for those who have already been exposed to the foundational content of implementation science. This can be achieved via HPR 611, the Penn Implementation Science Institute, or other training opportunities such as the NIH TIDIRH/TIDIRC or mentored K awards. Instructor permission is required for enrollment. Additional prerequisites: the Penn Implementation Science Institute, or other training opportunities such as the NIH TIDIRH/TIDIRC or mentored K awards. Summer Term Prerequisite: HPR 6110 AND HPR 6200",
+    "course-prerequsities": [
+      "HPR 6110",
+      "HPR 6200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Instructor permission is required for enrollment."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 6250 Pragmatic Clinical Trials in Healthcare",
+    "courseid": "HPR 6250",
+    "coursedescription": "This seminar course offers an opportunity for students to understand what a pragmatic randomized controlled trial (RCT) is, how it differs from explanatory RCTs, why it is relevant, and key methodological and analytic issues that arise in the conduct of pragmatic trials. The student will also learn about ethical issues in pragmatic trials, nesting relevant studies within a trial, and trial reporting requirements. The intention will be for attendees to be able to directly apply their learnings to their ongoing or future clinical research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HPR 6260 Pragmatic Clinical Research Institute",
+    "courseid": "HPR 6260",
+    "coursedescription": "This virtual, interactive and synchronous institute offers an intensive glimpse into the design and conduct of pragmatic observational studies and clinical trials in the health care setting. The course is designed to offer foundational understanding, resources, and skills relevant to learners at all career stages with interests in clinical research, learning health system science, and health system quality improvement. Attendees will learn the unique value and challenges of pragmatic research studies within the hierarchy of evidence-based medicine. Attendees will understand the basic tenets of design, methodology, and analysis; key considerations of ethics and equity; and opportunities for synergy across behavioral, predictive, and implementation sciences in the conduct of pragmatic research studies. Through synchronous didactic and small group sessions and complementary asynchronous reading and online discussions, attendees will have the opportunity to discuss with experts and peers how these learnings can directly inform and apply to their own areas of research and intervention development.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "The course is designed to offer foundational understanding, resources, and skills relevant to learners at all career stages with interests in clinical research, learning health system science, and health system quality improvement."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 6600 Applied Predictive Modeling for Health Services Research",
+    "courseid": "HPR 6600",
+    "coursedescription": "The course offers an introduction to the principles and applications of predictive modeling. It is geared toward health services researchers with an emphasis on clinical and policy scenarios and the use of electronic health record and administrative claims data. The primary goals of this course are to help each student understand (1) the fundamental concepts of predictive modeling and what distinguishes it from traditional causal inference approaches in statistics, (2) the different evaluation metrics for model performance and their appropriate use and (3) the role of domain knowledge in developing a statistical plan for model development with the end-user in mind. Students will be building their own predictive models by the end of the course and may elect to use R, STATA or Python for coding exercises. No prior programming experience is required. A background in basic statistical principles would be helpful. Prerequisite: Permission needed from Instructor. Summer Term 1 Course Unit",
+    "course-prerequsities": [
+      "TERM 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission needed from Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 6610 Clinical Artificial Intelligence and Machine Learning Institute",
+    "courseid": "HPR 6610",
+    "coursedescription": "Artificial intelligence (AI) and machine learning (ML) technologies are promising tools to improve clinical care, alleviate clinician burnout, and promote health equity and access. But little high-quality evidence exists to support their use in practice to achieve these aims. Furthermore, the current federal regulatory agencies charged with ensuring effectiveness, safety, and equity are still evolving to keep pace with technological developments. Generative AI models, such as large language models (LLMs), and those that generate images and video, also offer considerable opportunities for advances in medicine but with significant uncertainty in the optimal approaches for balancing oversight and innovation. This Institute provides a broad and basic overview to these emerging themes in clinical AI/ML with an introductory emphasis. Students will leave the Institute with i) an understanding of key AI/ML concepts as they are applied in a clinical and health policy domain, ii) a critical lens to evaluate AI/ML systems, iii) basic knowledge of the evolving regulatory environment around clinical AI/ML systems, and iv) a foundation to support ongoing learning and/or pursue further work in implementing AI/ML methods. There is no coding required for this course although additional materials will be provided for those wishing to study relevant approaches in R or Python in parallel outside of the required coursework.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HPR 6700 Health Care Strategic Leadership and Business Acumen",
+    "courseid": "HPR 6700",
+    "coursedescription": "The weeklong intensive course aims at developing essential business acumen and leadership skills required to thrive in a constantly changing health care ecosystem. Taught by invited faculty who have experience working with health care leaders, this course will focus on actionable knowledge in financial acumen, strategic decision making, innovation and building high-performance teams. Through interactive mixed-mode delivery methods, faculty will share tools and frameworks, always with a focus on how to apply them, both personally and within an organizational context. Prerequisite: Permission needed from Instructor. Summer Term 1 Course Unit",
+    "course-prerequsities": [
+      "TERM 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission needed from Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 7140 Grant Writing/Review",
+    "courseid": "HPR 7140",
+    "coursedescription": "This course is designed to provide background and guidance on writing and submitting NIH grants. Students will submit a mini-protocol proposal at the beginning of the term. Each protocol will be reviewed by a group of 3 students from the class and scores will be given. The final project will be a full NIH protocol proposal ready for submission. Summer Term Also Offered As: EPID 7140 Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5600 AND EPID 5700",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5600",
+      "EPID 5700"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HPR 7990 Independent Study",
+    "courseid": "HPR 7990",
+    "coursedescription": "This course is designed to provide the student with an opportunity to gain or enhance knowledge and to explore an area of interest related to health policy research under the guidance of a faculty member. Prerequisite: Permission of Program Director and Faculty Member. Fall, Spring, and Summer Terms 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "TERMS 0.5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed to provide the student with an opportunity to gain or enhance knowledge and to explore an area of interest related to health policy research under the guidance of a faculty member.",
+        "Prerequisite: Permission of Program Director and Faculty Member."
+      ]
+    }
+  },
+  {
+    "coursename": "HPR 9900 Health Policy Research Thesis I",
+    "courseid": "HPR 9900",
+    "coursedescription": "Each student completes a mentored research project that includes a thesis proposal and a thesis committee and results in a publishable scholarly product. Prerequisite: Course only open to Masters of Science in Health Policy Research students. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HPR 9901 Health Policy Research Thesis II",
+    "courseid": "HPR 9901",
+    "coursedescription": "Each student completes a mentored research project that includes a thesis proposal and a thesis committee and results in a publishable scholarly product. Prerequisite: Course only open to Masters of Science in Health Policy Research students. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

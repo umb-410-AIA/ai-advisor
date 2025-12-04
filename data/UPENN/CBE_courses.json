@@ -1,0 +1,737 @@
+[
+  {
+    "coursename": "CBE 0099 Undergraduate Research and Independent Study",
+    "courseid": "CBE 0099",
+    "coursedescription": "An opportunity for the student to work closely with a professor in a project to develop skills and technique in research and development. To register for this course, the student writes a one-page proposal that is approved by the professor supervising the research and submitted to the undergraduate curriculum chairman during the first week of the term. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  },
+  {
+    "coursename": "CBE 1500 Introduction to Biotechnology",
+    "courseid": "CBE 1500",
+    "coursedescription": "The goal of this course is to teach you the fundamentals and excitement of biotechnology from a quantitative and engineering perspective. Concepts that will be covered include DNA, RNA, the Central Dogma, protein structure and function, recombinant DNA technology, enzymatic activity, RNA silencing, CRISPR gene editing, electrophoresis, chromatography, polymerase chain reaction, hybridization & array technology, basic immunology, viruses, principle of vaccination, DNA machines, synthetic biology, DNA materials, traditional and next generation DNA sequencing, DNA computation, and DNA forensics. Quantitative concepts will be introduced as necessary. The course is reserved for Freshmen but is open to students in all disciplines of engineering. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 1600 Introduction to Chemical Engineering",
+    "courseid": "CBE 1600",
+    "coursedescription": "Chemical Engineering integrates basic science, mathematics, and engineering principles in a coherent manner that equips Chemical Engineers to tackle a remarkable variety of challenges, “from quantum mechanics to techno-economics”. This course introduces students to the subject through a multifaceted lens that emphasizes the generality of conservation laws, physico-chemical phenomena and engineering design principles, in several different settings. These include but are not limited to chemical transformations at scale, energy and environmental science, design and formulation of drugs, food science, materials processing, and biomaterials. Students will develop familiarity with process flow diagrams, computational tools used in Chemical Engineering, foundational concepts pertaining to thermodynamics and transport, and the methods of engineering design. The class also surveys seminal Chemical Engineering contributions that have altered the course of human history. This course is well suited to students entering the major, or any student who is simply curious about how all the pieces come together to design and manufacture the molecules, materials, products and processes that shape everyday life. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These include but are not limited to chemical transformations at scale, energy and environmental science, design and formulation of drugs, food science, materials processing, and biomaterials."
+      ]
+    }
+  },
+  {
+    "coursename": "CBE 2300 Material and Energy Balances of Chemical Processes",
+    "courseid": "CBE 2300",
+    "coursedescription": "This course introduces the principles of material and energy balances and their applications to the analysis of single- and multiple-phase processes used in the chemical, pharmaceutical, and environmental industries. The course focuses on the conceptual understanding of properties of pure fluids, equations of state, and heat effects accompanying phase changes and chemical reactions, and problem-solving skills needed to solve a wide range of realistic, process-related problems. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 2310 Thermodynamics of Fluids",
+    "courseid": "CBE 2310",
+    "coursedescription": "Students will understand, evaluate, and apply different equations of state relating pressure, temperature, and volume for both ideal and non-ideal systems. The course will focus on calculating and applying residual properties and departure functions for thermodynamic analysis of non-ideal gases. Students will apply and describe simple models of vapor-liquid equilibrium in multi-component systems (e.g. Raoult's Law, modified Raoult's Law, Henry's Law). Additionally, the class will analyze and describe properties of non-ideal mixtures and their component species. We will also model and predict reaction equilibria (including non-ideal fluid systems), as well as solve problems related to complex phase equilibria of multi-component systems (find equilibrium compositions for non-ideal phases). Prerequisite required: CBE 2300 Material and Energy Balances of Chemical Processes. Spring Prerequisite: CBE 2300 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 2970 Study Abroad",
+    "courseid": "CBE 2970",
+    "coursedescription": "Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 3000 Special Topics in Chemical and Biomolecular Engineering",
+    "courseid": "CBE 3000",
+    "coursedescription": "This course will be offered when necessitated by demand and permitted by schedule. The topics covered by the course will vary depending on the particular interests and expertise of the instructor(s). Topics are generally subjects of contemporary concern in the discipline. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The topics covered by the course will vary depending on the particular interests and expertise of the instructor(s)."
+      ]
+    }
+  },
+  {
+    "coursename": "CBE 3200 Basic Chemical Process Safety",
+    "courseid": "CBE 3200",
+    "coursedescription": "Process safety is an important but often overlooked aspect of a chemical engineer's education. When working in chemical engineering, it's simply not possible to learn by trial and error when the error can have catastrophic or dangerous implications. Students will learn the important technical fundamentals to allow them to contribute to a safer future. Chemical process safety is a scientific discipline as important as chemical production. What the students learn here could literally save their life. At the conclusion of the course, the expectation is that students should be able to identify hazards, safety risks and perform inherently safer design for chemical processes. By the end of the course, students will achieve Level I certification from SAChE (Safety and Chemical Engineering Education), a division of AIChE. Prerequisite: CBE 2310 AND CBE 3500 . Spring Prerequisite: CBE 2310 AND CBE 3500 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2310",
+      "CBE 3500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 3250 Renewable Energy",
+    "courseid": "CBE 3250",
+    "coursedescription": "This course covers engineering concepts for renewable energy processes. Fundamental engineering calculations for solar, wind, biofuel, geothermal, and hydroelectric energy production in comparison to oil and gas will be covered. Electric vehicles and energy storage will be discussed. Students will consider the specific needs of public health, safety and welfare in addition to global , cultural, social, environmental and economic factors will be in a particular country for a group project. Spring Prerequisite: CHEM 1011 AND PHYS 0141 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1011",
+      "PHYS 0141"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 3300A Discover, Design, Build and Test: A Hands-On Introduction to Product and Device Design",
+    "courseid": "CBE 3300A",
+    "coursedescription": "Part one of a two semester lab and classroom-based design sequence. Engineers design molecules, medicines, materials, products and processes. This course introduces students to the practical elements of such design. It offers a hands-on introduction to the design and realization of practical products and devices that leverage chemical engineering principles for their operation. Students work in small teams to realize a specific design objective - a working device that meets cost and performance-based design specifications. The first part of the course is centered on lab safety, exploring the physical and chemical principles associated with the design objective, conducting basic market research, surveying intellectual property, and developing the required maker space skills in instrumentation and fabrication that are required to build the design target. The second part of the course entails the fabrication and evaluation of prototypes, and iterative refinement of designs. Two Term Class, Student must enter first term; credit given after both terms are complete Also Offered As: ENGR 3300A Prerequisites: Two semesters of Math/Calculus. One semester of introductory Chemistry, Physics, or Biology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CBE 3300B Discover, Design, Build and Test: A Hands-On Introduction to Product and Device Design",
+    "courseid": "CBE 3300B",
+    "coursedescription": "Part two of a two semester lab and classroom-based design sequence. Engineers design molecules, medicines, materials, products and processes. This course introduces students to the practical elements of such design. It offers a hands-on introduction to the design and realization of practical products and devices that leverage chemical engineering principles for their operation. Students work in small teams to realize a specific design objective - a working device that meets cost and performance-based design specifications. The first part of the course is centered on lab safety, exploring the physical and chemical principles associated with the design objective, conducting basic market research, surveying intellectual property, and developing the required maker space skills in instrumentation and fabrication that are required to build the design target. The second part of the course entails the fabrication and evaluation of prototypes, and iterative refinement of designs. Prerequisites: . Two semesters of Math/Calculus. One semester of introductory Chemistry, Physics, or Biology. Two Term Class, Student must enter first term; credit given after both terms are complete Also Offered As: ENGR 3300B Prerequisite: CBE 3300A OR ENGR 3300A",
+    "course-prerequsities": [
+      "ENGR 3300B",
+      "CBE 3300A",
+      "ENGR 3300A"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CBE 3500 Fluid Mechanics",
+    "courseid": "CBE 3500",
+    "coursedescription": "This course is designed for students to understand the fundamental characteristics of fluids. We will develop, starting from first principles, the basic equations for fluid statics, and use them to assess buoyancy forces and determine the pressure variations in fluids with rigid body rotation. Students will understand in detail the basic types of fluid flow line patterns (eg. streamlines and streamtubes) and the different types of interchangeable energy forms (eg. kinetic, potential, and pressure). It is also important to develop, starting from first principles, the formulations for inviscid and viscous flow problems. These include the discussion of a control system and system boundaries, the detailed construction of conservations equations of mass, energy, and momentum for Newtonian fluids, the derivation of the Navier-Stokes equations, and the determination of appropriate initial and boundary conditions. A final objective of the course is to solve various fluid mechanics problems using control systems, dimensional analysis, and developed equations. Such problems include, but are not limited to, the terminal velocity of a falling sphere, Stokes flow, the relation between the friction factor and the Reynolds number, and flow profiles in numerous geometries. Prerequisite required: CBE 2310 Thermodynamics of Fluids. Fall Prerequisite: CBE 2300 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2310",
+      "CBE 2300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Such problems include, but are not limited to, the terminal velocity of a falling sphere, Stokes flow, the relation between the friction factor and the Reynolds number, and flow profiles in numerous geometries."
+      ]
+    }
+  },
+  {
+    "coursename": "CBE 3510 Heat and Mass Transport",
+    "courseid": "CBE 3510",
+    "coursedescription": "Steady-state heat conduction. The energy equation. Fourier's law. Unsteady-state conduction. Convective heat transfer. Radiation. Design of heat transfer equipment. Diffusion, fluxes, and component conservation equations. Convective mass transfer. Interphase mass transport coefficients. Prerequisite required: CBE 3500 Fluid Mechanics. Spring Prerequisite: CBE 3500 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 3500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 3530 Molecular Thermodynamics and Chemical Kinetics",
+    "courseid": "CBE 3530",
+    "coursedescription": "Applications of physical chemistry to chemical engineering systems. Equilibrium statistical mechanics of ideal gases, dense fluids and interfacial phases. Chemical reaction rates. Collision and transition state theories. Heterogeneous catalysis. Electronic structure and properties of solids. Fall Prerequisite: CBE 2310 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 3600 Chemical Process Control",
+    "courseid": "CBE 3600",
+    "coursedescription": "Dynamics and control of linear single-input, single output (SISO) systems in chemical processes. Laplace transforms. Dynamic responses of linear systems to various inputs. Frequency domain analysis. Feedback control strategies. Stability. Controller tuning. Advanced control, including cascade and feed forward control. Introduction to multiple-input, multiple-output (MIMO) control. Inverse response. Spring Prerequisite: CBE 2300 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 3710 Separation Processes",
+    "courseid": "CBE 3710",
+    "coursedescription": "The design of industrial methods for separating mixtures. Distillation; liquid-liquid extraction; membranes; absorption. Computer simulations of the processes. Spring Prerequisite: CBE 2310 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 3750 Engineering and the Environment",
+    "courseid": "CBE 3750",
+    "coursedescription": "The course will introduce emerging environmental issues, relevant engineering solutions, and problem-solving techniques to students. The case study approach will be used to assist students to develop and apply the fundamental engineering skills and scientific insights needed to recognize a variety of environmental problems that have profound impacts on all aspects of modern society. Sophomore standing required to enroll. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 3990 Engineering Independent Study",
+    "courseid": "CBE 3990",
+    "coursedescription": "An opportunity for the student to work closely with a professor in a project to develop skills and technique in engineering research and development. To register for this course, the student writes a one-page proposal that is approved by the professor supervising the research and submitted to the undergraduate curriculum chairman during the first week of the term. This course is distinct from CBE 0099 in its emphasis on the engineering aspects of the research topic, and as such it can be used as a CBE elective. In the Project Proposal described on the Application for Independent Study form, the proposal should highlight the engineering aspects of the work. A final report is required to be submitted to the supervising professor and the undergraduate curriculum chair, who will work together to assign a grade. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 4000 Introduction to Product and Process Design",
+    "courseid": "CBE 4000",
+    "coursedescription": "Introduction to product design, process synthesis, steady-state and batch process simulation, synthesis of separation trains, second-law analysis, heat integration, heat-exchanger design, equipment sizing, and capital cost estimation. Fall Prerequisite: CBE 3510 AND CBE 3710 AND CBE 4510 (can be taken concurrently) 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 3510",
+      "CBE 3710",
+      "CBE 4510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 4100 Chemical Engineering Laboratory",
+    "courseid": "CBE 4100",
+    "coursedescription": "Experimental studies in heat and mass transfer, separations and chemical reactors to verify theoretical concepts and learn laboratory techniques. Methods for analyzing and presenting data. Report preparation and the presentation of an oral technical report. Prerequisite required: CBE 3510 Heat and Mass Transport AND CBE 3710 Separation Processes. Fall Prerequisite: CBE 3510 AND CBE 3710 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 3510",
+      "CBE 3710"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 4215 Energy and Sustainability: Science, Engineering and Technology",
+    "courseid": "CBE 4215",
+    "coursedescription": "Engineers will play an essential role in redesigning systems across scales to meet energy and sustainability goals in mitigating the global climate crisis. This is a foundational course that establishes and applies broad science and engineering principles to connect microscopic and macroscopic aspects of “energy” from fundamental considerations of heat capacity and electrochemistry to limiting conversion efficiencies of thermal engines and solar cells and planetary energy balances. We will explore technical aspects of device engineering, policy requirements for technology implementation, and societal implications of such implementations. Finally, we will analyze local systems and design and justify possible changes to improve their sustainability. Prerequisites: CBE 2300 Material and Energy Balances of Chemical Processes OR MEAM 2030 Thermodynamics OR MSE 2600 Energetics of Macro and Nano-scale Materials OR equivalent. Fall Also Offered As: ENGR 4215 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2300",
+      "MEAM 2030",
+      "MSE 2600",
+      "ENGR 4215"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 4300 Introduction to Polymers",
+    "courseid": "CBE 4300",
+    "coursedescription": "Polymer is one of the most widely used materials in our daily life, from the rubber tires to clothes, from photoresists in chip manufacturing to flexible electronics and smart sensors, from Scotch tapes to artificial tissues. This course teaches entry-level knowledge in polymer synthesis, characterization, thermodynamics, and structure-property relationship. Emphasis will be on understanding both chemical and physical aspects of polymers, polymer chain size and molecular interactions that drive the microscopic and macroscopic structures and the resulting physical properties. We will discuss how to apply polymer designs to advance nanotechnology, electronics, energy and biotechnology. Case studies include thermodynamics of block copolymer thin films and their applications in nanolithography, shape memory polymers, hydrogels, and elastomeric deformation and applications. Fall Also Offered As: MSE 4300 Prerequisite: ( MSE 2600 OR CBE 2310 ) AND CHEM 2210 AND MEAM 2030 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2600",
+      "CBE 2310",
+      "CHEM 2210",
+      "MEAM 2030"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 4470 Societally Significant Soft Matter Solutions",
+    "courseid": "CBE 4470",
+    "coursedescription": "In this course, students will work on case studies for soft matter solutions to problems of societal significance. Examples will be drawn from the pharmaceuticals industry, emerging concepts in carbon capture, process intensification, clean energy, personal care and other fields that exploit our ability to design soft matter systems. The course will take the form of discussions to set societal context, lectures (including guest lecturers who are technical innovators in the field) to provide fundamental underpinnings, and student-led case studies of current approaches in which students critique current solutions and propose competing approaches. This course is designed with students in the junior or senior year in mind. The course is designed to be co-requisite with transport phenomena ( CBE 3510 or equivalent), separations ( CBE 3710 or equivalent), and thermodynamics ( CBE 2310 or equivalent). Fall Mutually Exclusive: CBE 5470 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "CBE 3510",
+      "CBE 3710",
+      "CBE 2310",
+      "CBE 5470"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "CBE 4510 Chemical Reactor Design",
+    "courseid": "CBE 4510",
+    "coursedescription": "Design of reactors for the production of chemical products. Continuous and batch reactors. Isothermal and non-isothermal operation of reactors. Effects of back-mixing and non-ideal flow in tubular reactors. Mass transfer in heterogeneous reactions. Prerequisites required: CBE 2310 Thermodynamics of Fluids AND CBE 3510 Heat and Mass Transport. Fall Prerequisite: CBE 2310 AND CBE 3510 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2310",
+      "CBE 3510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 4590 Product and Process Design Projects",
+    "courseid": "CBE 4590",
+    "coursedescription": "Design of chemical, biochemical, and materials products and processes based on recent advances in chemical and bioengineering technology. Design group weekly meetings with faculty advisor and industrial consultants. Comprehensive design report and formal oral presentation. Heat exchanger design and profitability analysis. Prerequisite required: CBE 4000 Intro to Product and Process Design. Spring Prerequisite: CBE 4000 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 4000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 4790 Biotechnology and Biochemical Engineering",
+    "courseid": "CBE 4790",
+    "coursedescription": "This course introduces the rapidly growing field of biotechnology in the context of chemical engineering. The primary objective of this course is to provide a framework for understanding how the fundamental chemical engineering techniques will apply to the biological systems, with a specific focus on designing processes for biotech industries such as pharmaceuticals and biomaterials. Additionally, students will work in groups on a current biotechnology topic related to chemical engineering that will be presented to the class and written as a final report. Emphasis will be given to key skills like problem-solving, using models, handling open-ended challenges, improving technical communication, and working effectively in a team. This course will prepare students for a successful biotechnology lab experience in CBE 4800 . Fall Prerequisite: CBE 2310 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 4800 Laboratory in Biotechnology and Biochemical Engineering",
+    "courseid": "CBE 4800",
+    "coursedescription": "This laboratory course is designed to offer hands-on training to students across a diverse array of biotechnology topics. The experiments encompass techniques such as CRISPR/Cas9, Western blotting, protein production from cells, protein purification by chromatography, immobilized enzyme reactions and operation of a fed-batch bioreactor with yeast. Throughout the course, students engage in writing several individual technical memos and submitting weekly data analysis assignments. The culmination of the lab involves a group presentation and report on a new biotechnology technique. Emphasis is placed on enhancing both oral and written communication skills to improve overall technical communication proficiency. This course aims to equip students with practical skills and knowledge essential for success in the dynamic field of biotechnology. Spring Mutually Exclusive: CBE 5801 Prerequisite: CBE 4790 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 4790"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5000 Special Topics in Chemical and Biomolecular Engineering",
+    "courseid": "CBE 5000",
+    "coursedescription": "This course will be offered when necessitated by demand and permitted by schedule. The topics covered by the course will vary depending on the particular interests and expertise of the instructor(s). Topics are generally subjects of contemporary concern in the discipline. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The topics covered by the course will vary depending on the particular interests and expertise of the instructor(s)."
+      ]
+    }
+  },
+  {
+    "coursename": "CBE 5020 Sustainability of Materials",
+    "courseid": "CBE 5020",
+    "coursedescription": "This discussion-based course will introduce strategies to improve materials sustainability, particularly with respect to reduced energy consumption and greenhouse gas emissions during the extraction, synthesis and fabrication of materials. Innovative solutions will be described that include alternative feedstocks, materials substitutions, and materials waste reduction. This course will primarily focus on metals and polymers. The course will present overarching concepts and illustrative examples that capture the global nature of materials supply chains. Students will explore issues through the framework of the materials lifecycle, including resource availability, manufacturing choices, and disposal options for materials appropriate for the application. The intention is for students to be able to make more informed material selection decisions and to identify critical needs for future material development to improve materials sustainability. Spring Also Offered As: MSE 5020 Prerequisite: CBE 2310 OR MEAM 2030 OR MSE 2600 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2310",
+      "MEAM 2030",
+      "MSE 2600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5050 Carbon Capture",
+    "courseid": "CBE 5050",
+    "coursedescription": "Carbon dioxide capture and sequestration has recently emerged as one of the key technologies needed to meeting growing worldwide energy demand while simultaneously reducing carbon dioxide emissions into the atmosphere. The objective of this course is to provide a quantitative introduction into the science and technology of carbon dioxide capture and sequestration. The following topics will be covered. General CO2 chemistry as it applies to capture and sequestration. Applied thermodynamics including minimal work and efficiency calculations for separation. CO2 separation from syngas and flue gas for gasification and combustion processes and the potential for direct air capture. Transportation of CO2 in pipelines and sequestration in deep underground geological formations. Pipeline specifications, monitoring, safety engineering, and costs for long distance transport of CO2. Comparison of options for geological sequestration in oil and gas reservoirs, saline aquifers, and mineral formations. Environmental risk assessment and management. Life cycle analysis Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5060 Introduction to High-Performance Scientific Computing",
+    "courseid": "CBE 5060",
+    "coursedescription": "Research problems in the domain of physical, biological and biomedical sciences and engineering often span multiple time and length-scales from the molecular to the organ/organism, owing to the complexity of information transfer underlying biological mechanisms. Multiscale modeling (MSM) and high-performance scientific computing (HPC) have emerged as indispensable tools for tackling such complex problems. However, a paradigm shift in training is now necessary to leverage the rapid advances, and emerging paradigms in HPC --- GPU, cloud, exascale supercomputing, quantum computing --- that will define the 21st century. This course is a collaboration between Penn, UC Berkeley, and the Extreme Science and Engineering Discovery Environment (XSEDE) which administers several of the federally funded research purpose supercomputing centers in the US. It will be taught as a regular 1 CU course at Penn by adopting a flip-classroom/active learning format. The course is designed to teach students how to program parallel architectures to efficiently solve challenging problems in science and engineering, where very fast computers are required either to perform complex simulations or to analyze enormous datasets. The course is intended to be useful for students from many departments and with different backgrounds, e.g., scholar of Penn Institute for Computational Science, although we will assume reasonable programming skills in a conventional (non-parallel) language, as well as enough mathematical skills to understand the problems and algorithmic solutions presented. Fall or Spring Also Offered As: BE 5160 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5080 Probability and Statistics for Biotechnology",
+    "courseid": "CBE 5080",
+    "coursedescription": "The course covers topics in probability theories and statistical techniques, with emphases placed on the practical problems relevant to the subject areas of biotechnology. The course provides a rigorous introduction to such topics as elements of probability, random variables and probability functions, random samples, parameter estimations, hypothesis testing, regression, analysis of variance, lifetime testing, and nonparametric tests. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5100 Introduction to Polymers",
+    "courseid": "CBE 5100",
+    "coursedescription": "Polymer is one of the most widely used materials in our daily life, from the rubber tires to clothes, from photoresists in chip manufacturing to flexible electronics and smart sensors, from Scotch tapes to artificial tissues. This course teaches entry-level knowledge in polymer synthesis, characterization, thermodynamics, and structure-property relationship. Emphasis will be on understanding both chemical and physical aspects of polymers, polymer chain size and molecular interactions that drive the microscopic and macroscopic structures and the resulting physical properties. We will discuss how to apply polymer designs to advance nanotechnology, electronics, energy and biotechnology. Case studies include thermodynamics of block copolymer thin films and their applications in nanolithography, shape memory polymers, hydrogels, and elastomeric deformation and applications. Fall Also Offered As: MSE 5800 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5110 Physical Chemistry of Polymers and Amphiphiles",
+    "courseid": "CBE 5110",
+    "coursedescription": "This course deals with static and dynamic properties of two important classes of soft materials: polymers and amphiphiles. Examples of these materials include DNA, proteins, diblock copolymers, surfactants and phospholipids. The fundamental theories of these materials are critical of understanding ploymer processing, nanotechnology, biomembranes and biophysics. Special emphasis will be placedon understanding the chain conformation of polymer chains, thermodynamics of polymer chains, thermodynamics of polymer solutions and melts, dynamics of polymer and statistical thermodynamic principles of self-assembly. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5140 Data Science and Machine Learning in Chemical Engineering",
+    "courseid": "CBE 5140",
+    "coursedescription": "The main objective of this course is to teach concepts and implementation of deep learning techniques for scientific and engineering problems to advanced undergraduate and graduate students. This course entails various methods, including theory and implementation of deep leaning techniques to solve a broad range of computational problems frequently encountered in solid mechanics, fluid mechanics, non destructive evaluation of materials, systems biology, chemistry, and non-linear dynamics. At the end of the course participants will be able to: (1) Understand the underlying theory and mathematics of deep learning; (2) Analyze and synthesize data in order to model physical, chemical, biological, and engineering systems; (3) Apply physics-informed neural networks (PINNs) to model and simulate multiphysics systems. Students should have prior coursework in advanced calculus, linear algebra, probability, and computer programming in Python. Spring Prerequisite: MATH 2400 AND MATH 2410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "MATH 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5150 Chemical Product Design",
+    "courseid": "CBE 5150",
+    "coursedescription": "Introduction to product design, molecular and mixture design, functional and formulated product design, design of device products, pharmaceutical product and process design, optimal batch process design strategies, batch process simulation, six-sigma design 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5170 Principles of Genome Engineering",
+    "courseid": "CBE 5170",
+    "coursedescription": "This course provides a comprehensive overview of modern genomics and genome engineering techniques and their applications in basic research and translational medicine. Both classical DNA recombination techniques and CRISPR-mediated genome editing will be discussed. The genomics section will explore next- and third- generation sequencing methods and their applications like RNA-seq and ChIP-seq. Additionally, students will gain hands-on experience with commonly used tools for designing genome editing experiments and analyzing genomics data. Key concepts in genomics and gene regulation will be introduced, with practical examples from development, stem cells, disease models, and synthetic biology, highlighting how engineering techniques transform and advance these fields. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5215 Energy and Sustainability: Science, Engineering and Technology",
+    "courseid": "CBE 5215",
+    "coursedescription": "Engineers will play an essential role in redesigning systems across scales to meet energy and sustainability goals in mitigating the global climate crisis. This is a foundational course that establishes and applies broad science and engineering principles to connect microscopic and macroscopic aspects of “energy” from fundamental considerations of heat capacity and electrochemistry to limiting conversion efficiencies of thermal engines and solar cells and planetary energy balances. We will explore technical aspects of device engineering, policy requirements for technology implementation, and societal implications of such implementations. Finally, we will analyze local systems and design and justify possible changes to improve their sustainability. Prerequisites: CBE 2300 Material and Energy Balances of Chemical Processes OR MEAM 2030 Thermodynamics OR MSE 2600 Energetics of Macro and Nano-scale Materials OR equivalent. Fall Also Offered As: ENGR 5215 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2300",
+      "MEAM 2030",
+      "MSE 2600",
+      "ENGR 5215"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5220 Polymer Rheology and Processing",
+    "courseid": "CBE 5220",
+    "coursedescription": "This course focuses on applications of rheology to polymer process technologies. It includes a general review of rheological concepts, including viscoelasticity and the influence of shear rate, temperature and pressure on polymer flow properties. The course covers the elementary processing steps common in various types of polymer manufacturing operations including handling of particulate solids, melting, pressurizing and pumping, mixing and devolatilization. Specific polymer processing operations including extrusion, injection molding, compression molding, fiber spinning and wire coating are covered. Emerging polymer processing applications in microelectronics, biomedical devices and recycling are also discussed. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5250 Molecular Modeling and Simulations",
+    "courseid": "CBE 5250",
+    "coursedescription": "Students will explore current topics in thermodynamics through molecular simulations and molecular modeling. The requisite statistical mechanics will be conveyed as well as the essential simulation techniques (molecular dynamics, Monte Carlo, etc.). Various approaches for calculating experimentally measurable properties will be presented and used in student projects. Students should have basic familiarity with statistical mechanics. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5270 Advancements and Applications in Genome Editing and Engineering",
+    "courseid": "CBE 5270",
+    "coursedescription": "Lectures and presentation/discussion sections will comprehensively explore the historical and contemporary phases of genome-editing technologies. The curriculum will delve into the fundamental mechanisms underlying various classes of genome-editing nucleases, along with avant-garde strategies for crafting innovative genome-editing agents and their therapeutic applications. The weekly schedule will include one lecture and one project presentation section. Students will actively engage in presenting and discussing pertinent literature aligned with the thematic focus of each week's lectures. Given the dynamic nature of genome engineering, the literature selected for discussion sections will be meticulously curated to reflect the latest and most significant advancements in the field. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5300 Electrochemistry Fundamentals, Practices, and Analysis",
+    "courseid": "CBE 5300",
+    "coursedescription": "This course is aimed at acquiring the necessary knowledge and skills to become an electrochemistry researcher. Basic principles of electrochemistry will be covered that include electrochemical thermodynamics and kinetics, mass transfer, and electric double layer. Those will be accompanied by experimental methods commonly used in electrochemistry such as linear sweep voltammetry, cyclic voltammetry, chronoamperometry, chronopotentiometry, rotating disk electrodes, and electrochemical impedance spectroscopy. The application of such knowledge in the existing and emerging areas of electrochemistry research will be looked at with real examples from the literature. This course is intended to provide students with a learning experience to help them become electrochemists and electrochemical engineers. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5310 Nano-Transport",
+    "courseid": "CBE 5310",
+    "coursedescription": "This course aims to teach fundamental CBE concepts such as transport and statistical mechanics from a nanoscopic point of view, with an emphasis on utility in CBE laboratory and simulation settings. The focus will be on microscopic dynamics and transport in soft systems such as nanoparticles and polymers, relevant to biological and biomolecular systems. We will use a combination of both analytic and numerical methods to facilitate understanding of key concepts. Physical topics will include stochastic, single-molecule, non-ideal, hard sphere and frustrated systems, phase transitions, non-equilibrium statistical mechanics and optics. Concepts will include stochastic calculus (Gaussian and non-Gaussian statistics, correlation functions and power spectra), Fourier methods, convolution, the Central Limit theorem, anomalous diffusion, percolation, and the Fluctuation/Dissipation theorem. Computational methods will concentrate on Monte Carlo simulations of a variety of soft matter \"toy\" models. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5350 Interfacial Phenomena",
+    "courseid": "CBE 5350",
+    "coursedescription": "This course provides an overview of fundamental concepts in colloid and interface science. Topics include the thermodynamics of interfaces, interfacial interactions (e.g. van der Waal's interactions, electrostatics, steric interactions), adsorption, the hydrodynamics and stability of interfacial systems, self assembly, etc. Connections to self-assembly and directed assembly of nanomaterials and emerging topics are explored. Pre-requisites: undergraduate thermodynamics, some familiarity with concepts of transport phenomena (including fluid flow and mass transfer) and differential equations Fall or Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5400 Principles of Molecular and Cellular Bioengineering",
+    "courseid": "CBE 5400",
+    "coursedescription": "This course aims to provide theoretical and conceptual principles underlying biomolecular and biological systems. The course will start with basic and advanced concepts in physical chemistry and thermodynamics and introduce statistical mechanics as a tool to understand molecular interactions. The applications will be of relevance to bioengineering and biology disciplines. The course will not shy away from mathematical formulations and will stress the molecular perspective. This course explores physical biology of the cell across several length and timescales, while simultaneously emphasizing molecular specificity and clinical implications such as disease outcome or biomedical applications. The course emphasizes how the basic tools and insights of engineering, physics, chemistry, and mathematics can illuminate the study of molecular and cell biology to make predictive biomedical models and subject them to clinical validation. Drawing on key examples and seminal experiments from the current bioengineering literature, the course demonstrates how quantitative models can help refine our understanding of existing biological data and also be used to make useful clinical predictions. The course blends traditional models in cell biology with the quantitative approach typical in engineering, in order to introduce the student to both the possibilities and boundaries of the emerging field of physical systems biology. While teaching physical model building in cell biology through a practical, case-study approach, the course explores how quantitative modeling based on engineering principles can be used to build a more profound, intuitive understanding of cell biology. Worksheets will be integral to this course. Recitation will comprise of biweekly illustrations of problems and concepts from the worksheets and biweekly quizzes Fall or Spring Also Offered As: BE 5400 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5440 Computational Science of Energy and Chemical Transformations",
+    "courseid": "CBE 5440",
+    "coursedescription": "Our theoretical and computational capabilities have reached a point where we can do predictions of materials on the computer. This course will introduce students to fundamenta l concepts and techniques of atomic scale computational modeling. The material will cover electronic structure theory and chemical kinetics. Several well-chosen applications in energy and chemical transformations including study and prediction of properties of chemical systems (heterogeneous, molecular, and biological catalysts) and physical properties of materials will be considered. This course will have modules that will include hands-on computer lab experience and teach the student how to perform electronic structure calculations of energetics which form the basis for the development of a kinetic model for a particular problem, which will be part of a project at the end of the course. Thermodynamics, Kinetics, Physical Chemistry, Quantum Mechanics. Undergraduates should consult and be given permission by the instructor. Fall or Spring Also Offered As: BE 5440 , MSE 5440 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Undergraduates should consult and be given permission by the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "CBE 5450 Electrochemical Energy Conversion and Storage",
+    "courseid": "CBE 5450",
+    "coursedescription": "Fuel cells, electrolysis cells, and batteries are all electrochemical devices for the interconversion between chemical and electrical energy. These devices have inherently high efficiencies and are playing increasingly important roles in both large and small scale electrical power generation, transportation (e.g. hybrid and electric vehicles), and energy storage (e.g. production of H2 via electrolysis). This course will cover the basic electrochemistry and materials science that is needed in order to understand the operation of these devices, their principles of operation, and how they are used in modern applications. Prerequisite: Introductory chemistry and an undergraduate course in thermodynamics (e.g. CBE 2310 , MEAM 2030 ) Fall or Spring 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2310",
+      "MEAM 2030",
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5460 Fundamentals of Industrial Catalytic Processes",
+    "courseid": "CBE 5460",
+    "coursedescription": "A survey of heterogeneous catalysis as applied to some of the most important industrial processes. The tools used to synthesize and characterize practical catalysts will be discussed, along with the industrial processes that use them. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5470 Societally Significant Soft Matter Solutions",
+    "courseid": "CBE 5470",
+    "coursedescription": "In this course, students will work on case studies for soft matter solutions to problems of societal significance. Examples will be drawn from the pharmaceuticals industry, emerging concepts in carbon capture, process intensification, clean energy, personal care and other fields that exploit our ability to design soft matter systems. The course will take the form of discussions to set societal context, lectures (including guest lecturers who are technical innovators in the field) to provide fundamental underpinnings, and student-led case studies of current approaches in which students critique current solutions and propose competing approaches. This course is designed with students in the junior or senior year in mind. The course is designed to be co-requisite with transport phenomena ( CBE 3510 or equivalent), separations ( CBE 3710 or equivalent), and thermodynamics ( CBE 2310 or equivalent). Fall Mutually Exclusive: CBE 4470 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "CBE 3510",
+      "CBE 3710",
+      "CBE 2310",
+      "CBE 4470"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5520 Protein Engineering & Practical Applications",
+    "courseid": "CBE 5520",
+    "coursedescription": "This course offers an understanding of protein engineering using advanced tools and its applications in the biotechnology field. Throughout the semester, students will delve into the principles of protein structure, folding, and the various techniques used in protein engineering. Emphasis will be placed on the application of directed evolution, rational design, and computer-aided methods to optimize and develop proteins with novel functionalities in the biotechnology field. The course also integrates the latest computational tools such as PDB, Chimera, SPRITE, Dali, and AlphaFold, which are essential for modern protein engineering. Students will engage in journal club presentations to critically analyze current research and its applications in protein engineering. The course will culminate in student-led projects, where participants will apply their knowledge to design and present innovative solutions to real-world biotechnological challenges. Prerequisite: A basic knowledge of the proteins. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5540 Engineering Biotechnology",
+    "courseid": "CBE 5540",
+    "coursedescription": "Advanced study of re DNA techniques; bioreactor design for bacteria, mammalian and insect culture; separation methods; chromatography; drug and cell delivery systems; gene therapy; and diagnostics. Spring Also Offered As: BE 5540 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5550 Nanoscale Systems Biology",
+    "courseid": "CBE 5550",
+    "coursedescription": "Nano-science and engineering approaches to systems in biology are of growing importance. They extend from novel methods, especially microscopies that invite innovation to mathematical and/or computational modeling which incorporates the physics and chemistry of small scale biology. Proteins and DNA, for example, are highly specialized polymers that interact, catalyze, stretch and bend, move, and/or store information. Membranes are also used extensively by cells to isolate, adhere, deform, and regulate reactions. In this course, students will become familiar with cell & molecular biology and nano-biotechnology through an emphasis on nano-methods, membranes, molecular machines, and 'polymers' - from the quantitative perspectives of thermodynamics, statistical physics, and mechanics. We specifically elaborate ideas of energetics, fluctuations and noise, force, kinetics, diffusion, etc. on the nano- thru micro- scale, drawing from very recent examples in the literature. Laboratory experiments will provide hands-on exposure to microscopies in a biological context (eg. fluorescence down to nano-scale, AFM), physical methods (eg. micromanipulation, tracking virus-scale particles or quantum dots), and numerical problems in applied biophysics, chemistry, and engineering. A key goal of the course is to familiarize students with the concepts and technology (plus their limitations) as being employed in current research problems in nanoscale systems biology, extending to nanobiotechnology. Prerequisite: Background in Biology, Physics, Chemistry or Engineering with coursework in Thermodynamics or permission of the instructor. Fall Also Offered As: BE 5550 , MEAM 5550 1 Course Unit",
+    "course-prerequsities": [
+      "BE 5550",
+      "MEAM 5550"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Background in Biology, Physics, Chemistry or Engineering with coursework in Thermodynamics or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "CBE 5560 The Biochemical Engineering of Wine",
+    "courseid": "CBE 5560",
+    "coursedescription": "This course surveys the biochemistry and biochemical unit operations involved in the commercial production of modern wines. Topics will include grape growing, pressing, fermentation , filtration, and packaging/aging. Emphasis will also be placed on yeast microbiology and wine biochemistry. Lectures will be supported by wine tasting sessions to highlight the important characteristics of different wine types. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5570 Stem Cells, Proteomics and Drug Delivery - Soft Matter Fundamentals",
+    "courseid": "CBE 5570",
+    "coursedescription": "Lectures on modern topics and methods in cell and molecular biology and biomedicine from the perspective of soft matter science and engineering. Discussions and homeworks will cover soft matter related tools and concepts used to 1) isolate, grow, and physically characterize stem cells, 2) quantify biomolecular profiles, 3) deliver drugs to these cells and other sites (such as tumors with cancer stem cells) will be discussed. Skills in analytical and professiona presentations, papers and laboratory work will be developed. Background in Biology, Physics, Chemistry or Engineering. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5590 Multiscale Modeling of Chemical and Biological Systems",
+    "courseid": "CBE 5590",
+    "coursedescription": "This course provides theoretical, conceptual, and hands-on modeling experience on three different length and time scales - (1) electronic structure (A, ps); (2) molecular mechanics (100A, ns); and (3) deterministic and stochastic approaches for microscale systems (um, sec). Students will gain hands-on experience, i.e., running codes on real applications together with the following theoretical formalisms: molecular dynamics, Monte Carlo, free energy methods, deterministic and stochastic modeling, multiscale modeling. Prerequisite: Undergraduate courses in numerical analysis and physical chemistry. Not Offered Every Year Also Offered As: BE 5590 , SCMP 5590 1 Course Unit",
+    "course-prerequsities": [
+      "BE 5590",
+      "SCMP 5590"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5600 Water Treatment Engineering",
+    "courseid": "CBE 5600",
+    "coursedescription": "Globally, 2 billion people lack access to clean, safe water that is vital for drinking, sanitation, and agriculture. Climate change coupled with contamination of existing water supplies have exacerbated water scarcity, making technologies to remediate, reuse, and desalinate water more critical than ever. This course will cover the fundamental principles of water treatment engineering and examine how it can be applied to ensure access to safe and clean water, mitigate waterborne diseases, protect the environment, and support sustainable development. Water treatment engineering is the application of scientific and engineering principles to design, develop, and implement processes and technologies to purify and manage water resources for specific quality and safety standards. We will explore a wide range of water engineering technologies used in drinking water treatment, wastewater remediation, resource recovery, and desalination. Fundamental principles and advanced concepts governing water treatment systems will be introduced with a particular focus on the application of fundamental engineering sciences including thermodynamics, mass transport, and fluid dynamics to examine the efficiency of treatment and utilization of energy/emissions required for treatment. In addition to the engineering and scientific aspects of water treatment, this course will also place emphasis on the important humanitarian and economic aspects of water engineering and discuss global issues on water quality, scarcity, and environmental justice. Course content includes: (1) an overview of water engineering and its significance in environmental, societal, industrial, and municipal contexts, (2) a review of key concepts from fluid mechanics, mass transfer, and thermodynamics, (3) a brief introduction to water chemistry and contaminants of importance for human health and ecosystem protection, (4) the key physio-chemical and thermodynamic principles underlying all water treatment processes, (5) analysis of specific unit operations used in municipal water treatment, wastewater treatment, and desalination including membrane processes; and (6) an overview of advanced treatment operations for specific industrial and emerging applications. Also Offered As: MEAM 5620 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5620 Drug Discovery and Development",
+    "courseid": "CBE 5620",
+    "coursedescription": "Intro to Drug Discovery; Overview of Pharmaceutical Industry and Drug Development Costs, Timelines; High Throughput Screening (HTS): Assay Design and Sensitivity Solid Phase Synthesis and Combinatorial Chemistry; Enzyme Kinetics; Fluorescence, Linearity, Inner-filter effect, quenching; Time dynamics of a Michaelis-Menton Reaction; Competitive Inhibitor; FLINT, FRET, TRF, FP, SPA, alpha-screen; Enzyme HTS (protease); Cell based screening; Fura-2 ratio, loading signaling; Gfpcalmodulin-gfp integrated calcium response; Estrogen/ERE-Luc HTS; Problems with cell based screening (toxicity, permeability, nonspecificity); Instrumentation, Robotics/Automation; Z-factor; SAR, Positioning Scanning; Microarray HTS; IC50, % Conversion in HTS and IC50, Assay Optimization. Fall Also Offered As: BE 5620 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5640 Drug Delivery Systems: Targeted Therapeutics and Translational Nanomedicine",
+    "courseid": "CBE 5640",
+    "coursedescription": "The topics include the need for new drug delivery systems (DDS), advantages and applications of biotherapeutic drugs, routes for drug transport in the body, pharmacokinetics and biodistribution, nanocarriers as DDS, targeted drug delivery, challenges with developing new DDS, and translational aspects of new DDS. Directors of the course are Miriam Wattenbarger and Vladimir Muzykantov (Pharmacology). In addition to lectures from the course directors, faculty from engineering and medicine will give guest lectures related to their research interests. The students read current journal articles on DDS. The major group assignment for the course is a written and oral group proposal on a new drug delivery system. Technical communication skills and working with students from different disciplines are an important aspects of the course. Spring Also Offered As: PHRM 5640 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to lectures from the course directors, faculty from engineering and medicine will give guest lectures related to their research interests."
+      ]
+    }
+  },
+  {
+    "coursename": "CBE 5700 Experimental Methods and Autonomous Experimentation in Soft Materials Research -Theory and Practice",
+    "courseid": "CBE 5700",
+    "coursedescription": "This course covers the relevant theory and practical application of experimental methods used to study the structure, dynamics and physico-chemical properties of soft matter and macromolecular materials. Machine learning and autonomous experimentation in soft materials research are also addressed as important topics of contemporary concern. Systems of interest include self-assembled polymers and (macro)molecular materials, liquid crystals, colloidal suspensions, biological materials, gels, and other complex fluids. Particular emphasis is placed on the development of kinematic theory for X-ray scattering, methods of structure determination by (x-ray/electron) diffraction, microscopy (optical; atomic force; electron), dynamic scattering (light/optical; x-ray; neutron) and rheology (bulk and microrheology). Thermo-mechanical, electronic and optical property characterization are also addressed. Lectures are complemented by lab exercises and projects. The subject matter is relevant for students conducting experimental research on macromolecular materials, soft matter and complex fluids, including those seeking to use tools of data science to advance such work. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Systems of interest include self-assembled polymers and (macro)molecular materials, liquid crystals, colloidal suspensions, biological materials, gels, and other complex fluids."
+      ]
+    }
+  },
+  {
+    "coursename": "CBE 5800 Masters Biotechnology Lab",
+    "courseid": "CBE 5800",
+    "coursedescription": "This lab is an introduction to lab techniques in biochemical engineering and biotechnology for graduate students in SEAS. Students are assumed to have a background in cell and molecular biology or to be co-registered for CBE 5540 . Labs will include E. coli gene editing with CRISPR, production of eGFP in E. coli cells and isolation by chromatography, a fed-batch bioreactor to grow yeast cells and determine the growth and yield parameters, analysis of immobilized and soluble enzyme kinetics in a stirred reactor. Each lab will include a data analysis assignment. Three individual technical memos will be assigned, and a group report and presentation will be due at the end of the semester. Oral and written communication skills are emphasized to improve technical communication skills. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5801 Laboratory in Biotechnology and Biochemical Engineering",
+    "courseid": "CBE 5801",
+    "coursedescription": "This laboratory course--only for Accelerated Masters in Biotechnology students--is designed to offer hands-on training to students across a diverse array of biotechnology topics. The experiments encompass techniques such as CRISPR/Cas9, Western blotting, protein production from cells, protein purification by chromatography, immobilized enzyme reactions and operation of a fed-batch bioreactor with yeast. Throughout the course, students engage in writing several individual technical memos and submitting weekly data analysis assignments. The culmination of the lab involves a group presentation and report on a new biotechnology technique. Emphasis is placed on enhancing both oral and written communication skills to improve overall technical communication proficiency. This course aims to equip students with practical skills and knowledge essential for success in the dynamic field of biotechnology. Spring Mutually Exclusive: CBE 4800 Prerequisite: CBE 4790 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 4790"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 5990 Master's Indep Study",
+    "courseid": "CBE 5990",
+    "coursedescription": "Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-4 Course Units"
+    }
+  },
+  {
+    "coursename": "CBE 6010 Deep Learning for Scientists and Engineers",
+    "courseid": "CBE 6010",
+    "coursedescription": "The main objective of this course is to teach concepts and implementation of deep learning techniques for scientific and engineering problems to advanced undergraduate and graduate students. This course entails various methods, including theory and implementation of deep leaning techniques to solve a broad range of computational problems frequently encountered in solid mechanics, fluid mechanics, non destructive evaluation of materials, systems biology, chemistry, and non-linear dynamics. At the end of the course participants will be able to: (1) Understand the underlying theory and mathematics of deep learning; (2) Analyze and synthesize data in order to model physical, chemical, biological, and engineering systems; (3) Apply physics-informed learning to model and simulate multiphysics systems. Recommended prerequisites (not mandatory): - Linear algebra: MATH 3120 -Probability: MATH 1510 / CIS 2610 / ESE 3010 / ENM 5030 / STAT 5100 -Experience with computer programming of Python Spring Prerequisite: MATH 2410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 3120",
+      "MATH 1510",
+      "CIS 2610",
+      "ESE 3010",
+      "ENM 5030",
+      "STAT 5100",
+      "MATH 2410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended prerequisites (not mandatory): - Linear algebra: MATH 3120 -Probability: MATH 1510 / CIS 2610 / ESE 3010 / ENM 5030 / STAT 5100 -Experience with computer programming of Python Spring Prerequisite: MATH 2410 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "CBE 6020 Statistical Mechanics of Liquids",
+    "courseid": "CBE 6020",
+    "coursedescription": "The course will focus on advanced concepts and methods in statistical mechanics with a particular emphasis on the liquid state, e.g. aqueous solutions, capillarity, polymers, colloids, glasses, amphiphilic self-assembly, etc. Principles of both equilibrium and non-equilibrium statistical mechanics will be discussed and connections to experimentally measurable quantities will be made wherever possible. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 6180 Advanced Molecular Thermodynamics",
+    "courseid": "CBE 6180",
+    "coursedescription": "This course begins with a brief review of classical thermodynamics, including the development of Maxwell relationships and stability analysis. The remainder of the course develops the fundamental framework of statistical mechanics, then reviews various related topics including ideal and interacting gases, Einstein and Debye models of crystals, lattice models of liquids, and the basis of distribution function theory. Fall Also Offered As: BE 6620 , MEAM 6620 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 6210 Advanced Chemical Kinetics and Reactor Design",
+    "courseid": "CBE 6210",
+    "coursedescription": "Mechanisms of chemical reactions. Transition state theory. Langmuir-Hinshelwood Kenetics. Absorption and cataysis. Simple and complex reaction schemes. Design of idealized reactors. Fluidized reactors. Solid-gas reactions. Residence time distributions. Reaction and diffusion in solid catalysts. Reactor stability and control. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 6400 Transport Processes I",
+    "courseid": "CBE 6400",
+    "coursedescription": "This course provides a unified introduction to momentum, energy (heat), and mass transport processes. The basic mechanisms and constitutive laws for the various transport processes will be delineated , and the conservation equations will be derived and applied to internal and external flows. Examples from mechanical, chemical, and biological systems will be used to illustrate fundamental concepts and mathematical methods. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CBE 6990 Chemical and Biomolecular Engineering Seminar",
+    "courseid": "CBE 6990",
+    "coursedescription": "This is a departmental seminar course for CBE PhD candidates and covers topics related to Chemical and Biomolecular Engineering (CBE) and the PhD level graduate studies. The goal is to expose students to a breadth of CBE topics beyond their specific dissertation work. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CBE 8950 Teaching Practicum",
+    "courseid": "CBE 8950",
+    "coursedescription": "This course provides training in the practical aspects of teaching. The students will work with a faculty member to learn and develop teaching and communication skills. As part of the course, students will participate in a range of activities that may include: giving lectures, leading recitations, supervising laboratory experiments, developing instructional laboratories, developing instructional material, preparing and grading homework assignments and solution sets, and preparing examinations. Feedback on the recitations will be provided to the student by the faculty responsible for the course. The course is graded on a Satisfactory/Unsatisfactory basis. The evaluation will be based on comments of the students taking the course and the impressions of the faculty. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CBE 9000 Chemical and Biomolecular Fourth Year Seminar",
+    "courseid": "CBE 9000",
+    "coursedescription": "This is a required course for CBE PhD candidates in their fourth year and covers topics related to chemical and biomolecular engineering and the PhD level graduate studies. The goal is to present to the committee and their peers in advance of the fifth year dissertation defense. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CBE 9950 Dissertation",
+    "courseid": "CBE 9950",
+    "coursedescription": "Dissertation Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CBE 9990 Master's Thesis",
+    "courseid": "CBE 9990",
+    "coursedescription": "For students working on an advanced research program leading to the completion of master's thesis. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1,2 Course Units"
+    }
+  },
+  {
+    "coursename": "CBE 9999 Independent Study Research",
+    "courseid": "CBE 9999",
+    "coursedescription": "For Chemical and Biomolecular Engineering doctoral students studying a specific advanced subject area. Students should discuss with the faculty supervisor the scope of the independent study/research and know the expectations and work involved. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-3 Course Units"
+    }
+  }
+]

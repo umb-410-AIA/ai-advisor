@@ -1,0 +1,102 @@
+[
+  {
+    "coursename": "SWED 0100 Elementary Swedish I",
+    "courseid": "SWED 0100",
+    "coursedescription": "Elementary Swedish I Mutually Exclusive: SWED 5010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWED 0200 Elementary Swedish II",
+    "courseid": "SWED 0200",
+    "coursedescription": "Part two of the elementary level Swedish course. Authentic texts and media will be introduced, as well as opportunities to communicate with native speakers. By the end of the spring semester you will be able to handle a range of practical situations, such as ordering in restaurants and cafes, shopping, talking about family, holidays, plans, daily routines, health, sports/hobbies, jobs and studies. You will work on expressing your opinions and intentions, likes and dislikes, and understanding basic authentic source media, spoken language, etc. You will also learn about Sweden in an international context. Spring, even numbered years only Mutually Exclusive: SWED 5020 Prerequisite: SWED 0100 1 Course Unit",
+    "course-prerequsities": [
+      "SWED 0100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "By the end of the spring semester you will be able to handle a range of practical situations, such as ordering in restaurants and cafes, shopping, talking about family, holidays, plans, daily routines, health, sports/hobbies, jobs and studies."
+      ]
+    }
+  },
+  {
+    "coursename": "SWED 0300 Intermediate Swedish I",
+    "courseid": "SWED 0300",
+    "coursedescription": "In part one of the intermediate year, students will research and explore a broad range of topics using authentic sources and course materials to gain greater fluency and familiarity with language and culture. You will meet native Swedish speakers and visit Swedish organizations in the Philadelphia area. Projects and assignments will give you ample opportunity to explore areas that are of special interest to you from academic, professional, and personal perspectives. We will learn about Swedish innovation, business, socio-economic and political structures, geography, tourism, migration, history, and about what it is like to live in Sweden today. Fall, even numbered years only Mutually Exclusive: SWED 5030 Prerequisite: SWED 0200 1 Course Unit",
+    "course-prerequsities": [
+      "SWED 0200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Projects and assignments will give you ample opportunity to explore areas that are of special interest to you from academic, professional, and personal perspectives."
+      ]
+    }
+  },
+  {
+    "coursename": "SWED 0400 Intermediate Swedish II",
+    "courseid": "SWED 0400",
+    "coursedescription": "Part two of the intermediate level Swedish course. Through in- and our-of-class interactions, you will continue to engage with your peers and native or fluent Swedish speakers. We will look at Swedish products, practices and perspectives, and we will discuss how Swedish culture and society ar adapting to a rapidly changing world. We will complement the course literature with relevant authentic sources, such as online media, films, newspapers, etc. With a small class size, we have the flexibility to adapt the content to individual interests, and you will have plenty of opportunity to contribute to the total learning experience while elevating your Swedish vocabulary, grammar and communication skills. Spring, odd numbered years only Mutually Exclusive: SWED 5040 Prerequisite: SWED 0300 1 Course Unit",
+    "course-prerequsities": [
+      "SWED 0300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "With a small class size, we have the flexibility to adapt the content to individual interests, and you will have plenty of opportunity to contribute to the total learning experience while elevating your Swedish vocabulary, grammar and communication skills."
+      ]
+    }
+  },
+  {
+    "coursename": "SWED 5010 Elementary Swedish I",
+    "courseid": "SWED 5010",
+    "coursedescription": "Elementary Swedish I Mutually Exclusive: SWED 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWED 5020 Elementary Swedish II",
+    "courseid": "SWED 5020",
+    "coursedescription": "Part two of the elementary level Swedish course. Authentic texts and media will be introduced, as well as opportunities to communicate with native speakers. By the end of the spring semester you will be able to handle a range of practical situations, such as ordering in restaurants and cafes, shopping, talking about family, holidays, plans, daily routines, health, sports/hobbies, jobs and studies. You will work on expressing your opinions and intentions, likes and dislikes, and understanding basic authentic source media, spoken language, etc. You will also learn about Sweden in an international context. Spring, even numbered years only Mutually Exclusive: SWED 0200 Prerequisite: SWED 5010 1 Course Unit",
+    "course-prerequsities": [
+      "SWED 5010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "By the end of the spring semester you will be able to handle a range of practical situations, such as ordering in restaurants and cafes, shopping, talking about family, holidays, plans, daily routines, health, sports/hobbies, jobs and studies."
+      ]
+    }
+  },
+  {
+    "coursename": "SWED 5030 Intermediate Swedish I",
+    "courseid": "SWED 5030",
+    "coursedescription": "In part one of the intermediate year, students will research and explore a broad range of topics using authentic sources and course materials to gain greater fluency and familiarity with language and culture. You will meet native Swedish speakers and visit Swedish organizations in the Philadelphia area. Projects and assignments will give you ample opportunity to explore areas that are of special interest to you from academic, professional, and personal perspectives. We will learn about Swedish innovation, business, socio-economic and political structures, geography, tourism, migration, history, and about what it is like to live in Sweden today. Fall, even numbered years only Mutually Exclusive: SWED 0300 Prerequisite: SWED 5020 1 Course Unit",
+    "course-prerequsities": [
+      "SWED 5020"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Projects and assignments will give you ample opportunity to explore areas that are of special interest to you from academic, professional, and personal perspectives."
+      ]
+    }
+  },
+  {
+    "coursename": "SWED 5040 Intermediate Swedish II",
+    "courseid": "SWED 5040",
+    "coursedescription": "Part two of the intermediate level Swedish course. Through in- and our-of-class interactions, you will continue to engage with your peers and native or fluent Swedish speakers. We will look at Swedish products, practices and perspectives, and we will discuss how Swedish culture and society ar adapting to a rapidly changing world. We will complement the course literature with relevant authentic sources, such as online media, films, newspapers, etc. With a small class size, we have the flexibility to adapt the content to individual interests, and you will have plenty of opportunity to contribute to the total learning experience while elevating your Swedish vocabulary, grammar and communication skills. Spring, odd numbered years only Mutually Exclusive: SWED 0400 Prerequisite: SWED 5030 1 Course Unit",
+    "course-prerequsities": [
+      "SWED 5030"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "With a small class size, we have the flexibility to adapt the content to individual interests, and you will have plenty of opportunity to contribute to the total learning experience while elevating your Swedish vocabulary, grammar and communication skills."
+      ]
+    }
+  }
+]

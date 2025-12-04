@@ -1,0 +1,1334 @@
+[
+  {
+    "coursename": "ESE 0099 Undergraduate Research and/or Independent Study",
+    "courseid": "ESE 0099",
+    "coursedescription": "An opportunity for the student to become closely associated with a professor in (1) a research effort to develop research skills and technique and/or (2) to develop a program of independent in-depth study in a subject area in which the professor and student have a common interest. The challenge of the task undertaken must be consistent with the student's academic level. To register for this course, the student and professor jointly submit a detailed proposal to the undergraduate curriculum chairman no later than the end of the first week of the term. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-2 Course Units",
+      "notes": [
+        "An opportunity for the student to become closely associated with a professor in (1) a research effort to develop research skills and technique and/or (2) to develop a program of independent in-depth study in a subject area in which the professor and student have a common interest.",
+        "To register for this course, the student and professor jointly submit a detailed proposal to the undergraduate curriculum chairman no later than the end of the first week of the term."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 1110 Atoms, Bits, Circuits and Systems",
+    "courseid": "ESE 1110",
+    "coursedescription": "Introduction to the principles underlying electrical and systems engineering. Concepts used in designing circuits, processing signals on analog and digital devices, implementing computation on embedded systems, analyzing communication networks, and understanding complex systems will be discussed in lectures and illustrated in the laboratory. This course provides an overview of the challenges and tools that Electrical Engineers and Systems Engineers address and some of the necessary foundations for students interested in more advanced courses in ESE. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course provides an overview of the challenges and tools that Electrical Engineers and Systems Engineers address and some of the necessary foundations for students interested in more advanced courses in ESE."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 1120 Engineering Electromagnetics",
+    "courseid": "ESE 1120",
+    "coursedescription": "This course covers basic topics in electromagnetics, namely, electric charge, electric field, electric energy, conductors, insulators, dielectric materials, capacitors, electric current, magnetic field, inductors, Faraday's law of induction, alternating current (AC), impedance, Maxwell's equations, electromagnetic and optical wave propagation, with emphasis on engineering issues. Relevant topics are emphasized in our lectures in order to prepare students for other courses in ESE that rely on the contents on this course. Several laboratory experiments accompany the course to provide hands-on experience on some of the topics in the lecture and prepare students for the capstone project. Pre-requisites MATH 1400 and PHYS 0150 / PHYS 0140 / PHYS 0170 / MEAM 1100 or with permission of the instructor. It is recommended but not required that MATH 1410 be taken concurrently. Spring Prerequisite: MATH 1400 AND ( PHYS 0150 OR PHYS 0140 OR PHYS 0170 OR MEAM 1100 ) 1.5 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400",
+      "PHYS 0150",
+      "PHYS 0140",
+      "PHYS 0170",
+      "MEAM 1100",
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Pre-requisites MATH 1400 and PHYS 0150 / PHYS 0140 / PHYS 0170 / MEAM 1100 or with permission of the instructor.",
+        "It is recommended but not required that MATH 1410 be taken concurrently."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 1500 Digital Audio Basics",
+    "courseid": "ESE 1500",
+    "coursedescription": "Primer on digital audio. Overview of signal processing, sampling, compression, human psychoacoustics, MP3, intellectual property, hardware and software platform components, and networking (i.e., the basic technical underpinnings of modern MP3 players and cell phones). Spring Prerequisite: CIS 1100 OR ENGR 1050 1 Course Unit",
+    "course-prerequsities": [
+      "CIS 1100",
+      "ENGR 1050"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 1900 Silicon Garage: Introduction to Open Source Hardware and Software Platforms",
+    "courseid": "ESE 1900",
+    "coursedescription": "Project-centric learning course for non-ESE majors on microprocessor control of physical systems using open-source hardware and software platforms. Students will work in teams to develop software controlled systems based on the Arduino and Raspberry-Pi that interface with the real world (sensors, actuators, motors) and each other (networking). Prerequisite: High School Physics and Math Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "ESE 2000 Artificial Intelligence Lab: Data, Systems, and Decisions",
+    "courseid": "ESE 2000",
+    "coursedescription": "The purpose of this course is to introduce students to the basic concepts of systems engineering, data sciences, and machine learning. The course will cover the engineering cycle and expose students to the notions of data, systems, models, decisions, and requirements. The course empowers students to use statistical analysis, signal processing, and optimization techniques to process data in decision making systems. It also empowers students to use machine learning techniques for the same purpose. The relative strengths of each approach are discussed. Students are exposed to techniques to process data with temporal, spatial, and network structure as well as to deterministic and Markov dynamical system models. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 2030 Linear Algebra with Applications to Engineering and AI",
+    "courseid": "ESE 2030",
+    "coursedescription": "This first course in Linear Algebra will introduce students to key concepts of the field, including but not limited to vectors, vector norms and inner products, matrices, matrix-vector and matrix-matrix multiplication, matrix inverses, solving systems of linear equations, vector spaces, orthogonality, least-squares, eigenvalues and eigenvectors, singular value decompositions, and principal component analysis. These theoretical tools will be grounded in exciting problems from the sciences, engineering, machine learning, data science, logistics, and economics. Through application-based case studies, you will be shown how to model problems using linear algebra and how to solve the resulting problem using standard Python scientific computing modules. Enrollment in this course assumes students have comfort with programming at the level of CIS 1100 (Python). Spring Mutually Exclusive: MATH 2400 Prerequisite: MATH 1410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This first course in Linear Algebra will introduce students to key concepts of the field, including but not limited to vectors, vector norms and inner products, matrices, matrix-vector and matrix-matrix multiplication, matrix inverses, solving systems of linear equations, vector spaces, orthogonality, least-squares, eigenvalues and eigenvectors, singular value decompositions, and principal component analysis."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 2040 Decision Models",
+    "courseid": "ESE 2040",
+    "coursedescription": "This first course in decision making will introduce you to quantitative models for decision and design in the sciences, engineering, machine learning, data science, logistics, and economics. Through application-based case studies, you will be shown how to (i) formalize a decision problem as a mathematical optimization problem, and (ii) solve the resulting optimization problem using Python scientific computing modules. You will also be given a brief introduction to the optimization algorithms and programming tools underpinning contemporary deep learning and shown how to apply them to decision and design problems. Not Offered Every Year Prerequisite: MATH 1400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 2100 Introduction to Dynamic Systems",
+    "courseid": "ESE 2100",
+    "coursedescription": "This first course in systems modeling covers linear and nonlinear systems in both continuous and discrete time. Topics covered include linearization and stability analysis, elementary bifurcations, and an introduction to chaotic dynamics. Extensive applications to mechanical, electrical, biological, social, and economic/financial systems are included. The course will use both analytical and numerical/symbolic tools. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 2150 Electrical Circuits and Systems",
+    "courseid": "ESE 2150",
+    "coursedescription": "This course gives an introduction of modern electric and electronic circuits and systems. Designing, building and experimenting with electrical and electronic circuits are challenging and fun. It starts with basic electric circuit analysis techniques of linear circuits. Today mathematical analysis is used to gain insight that supports design; and more detailed and accurate representations of circuit performance are obtained using computer simulation. It continues with 1st order and 2nd order circuits in both the time and frequency domains. It discusses the frequency behavior of circuits and the use of transfer functions. It continues with introduction of non-linear elements such as diodes and MOSFET (MOS) transistors. Applications include analog and digital circuits, such as single stage amplifiers and simple logic gates. A weekly lab accompanies the course where concepts discussed in class will be illustrated by hands-on projects; students will be exposed to state-of-the-art test equipment and software tools (LabView, Spice). ESE 1120 is a prerequisite for this course, but students passing the ESE E&M review module may substitute an ESE approved E&M course. Fall Prerequisite: ESE 1120 1.5 Course Unit",
+    "course-prerequsities": [
+      "ESE 1120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 2180 Electronic, Photonic, and Electromechanical Devices",
+    "courseid": "ESE 2180",
+    "coursedescription": "This first course in electronic, photonic and electromechanical devices introduces students to the design, physics and operation of physical devices found in today's applications. The course describes semiconductor electronic and optoelectronic devices, including light-emitting diodes, photodetectors, photovoltaics, transistors and memory; optical and electromagnetic devices, such as waveguides, fibers, transmission lines, antennas, gratings, and imaging devices; and electromechanical actuators, sensors, transducers, machines and systems. ESE 1120 is a prerequisite for this course, but students passing the ESE E&M review module may substitute an ESE approved E&M course. Fall Prerequisite: ESE 1120 1.5 Course Unit",
+    "course-prerequsities": [
+      "ESE 1120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 2240 Signal and Information Processing",
+    "courseid": "ESE 2240",
+    "coursedescription": "Introduction to signal and information processing (SIP). In SIP we discern patterns in data and extract the patterns from noise. Foundations of deterministic SIP in the form of frequency domain analysis, sampling, and linear filtering. Random signals and the modifications of deterministic tools that are necessary to deal with them. Multidimensional SIP where the goal is to analyze signals that are indexed by more than one parameter. Includes a hands-on lab component that implements SIP as standalone applications on modern mobile platforms. Spring Prerequisite: MATH 1400 1.5 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 2900 Introduction to Electrical and Systems Engineering Research Methodology",
+    "courseid": "ESE 2900",
+    "coursedescription": "Introduction to the nature and process of engineering research as represented by ongoing ESE faculty (and collaborating colleagues' and industrial partners') research projects. Joint class exercises in how to pursue effective background technical reading, pitch a proposal, and aim for the discovery of new human knowledge to complement the individually mentored topic specific project work. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "ESE 2910 Introduction to Electrical and Systems Engineering Research and Design",
+    "courseid": "ESE 2910",
+    "coursedescription": "Students contract with a faculty mentor to conduct scaffolded original research in a topic of mutual interest. Prepare project report on research findings. Not Offered Every Year Prerequisite: ESE 2900 OR Permission of Instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 2900"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students contract with a faculty mentor to conduct scaffolded original research in a topic of mutual interest.",
+        "Not Offered Every Year Prerequisite: ESE 2900 OR Permission of Instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 2920 Invention Studio",
+    "courseid": "ESE 2920",
+    "coursedescription": "This is a project-centric course for ESE majors to engage in circuit layout and prototype design skills. Students will work in teams to develop printed circuit boards using industry standard tools like Altium and learn mechanical prototyping skills using Solidworks . Emphasis will be on developing sound printed circuit board layout practices using circuitry knowledge that they acquire in ESE 2150 and ESE 3700 . A module on using Cypress PSoC will introduce students to recent developments in analog/digital co-design. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "ESE 2960 Study Abroad",
+    "courseid": "ESE 2960",
+    "coursedescription": "1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 3010 Engineering Probability",
+    "courseid": "ESE 3010",
+    "coursedescription": "This course introduces students to the mathematical foundations of the theory of probability and its rich applications. The course begins with an exploration of combinatorial probabilities in the classical setting of games of chance, proceeds to the development of an axiomatic, fully mathematical theory of probability, and concludes with the discovery of the remarkable limit laws and the eminence grise of the classical theory, the central limit theorem. The topics covered include: discrete and continuous probability spaces , distributions, mass functions, densities; conditional probability; independence; the Bernoulli schema: the binomial, Poisson, and waiting time distributions; uniform, exponential, normal, and related densities; expectation, variance, moments; conditional expectation; generating functions, characteristic functions; inequalities, tail bounds, and limit laws. But a bald listing of topics does not do justice to the subject: the material is presented in its lush and glorious historical context, the mathematical theory buttressed and made vivid by rich and beautiful applications drawn from the world around us. The student will see surprises in election-day counting of ballots, a historical wager the sun will rise tomorrow, the folly of gambling, the sad news about lethal genes, the curiously persistent illusion of the hot hand in sports, the unreasonable efficacy of polls and its implications to medical testing, and a host of other beguiling settings. Spring Prerequisite: MATH 1410 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Spring Prerequisite: MATH 1410 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 3030 Stochastic Systems Analysis and Simulation",
+    "courseid": "ESE 3030",
+    "coursedescription": "This analysis is usually complemented with numerical analysis of experimental outcomes.This class covers topics in probability and random processes, Markov chains, Poisson processes, stationary and Gaussian processes. Besides the theoretical toolbox that we build, we explore applications in communication networks, search engines, deciphering algorithms, molecular biology and more. Fall Prerequisite: ESE 3010 or STAT 4300 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 3010",
+      "STAT 4300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Fall Prerequisite: ESE 3010 or STAT 4300 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 3040 Introduction to Optimization",
+    "courseid": "ESE 3040",
+    "coursedescription": "This course is an introduction to linear optimization and its extensions emphasizing the underlying mathematical structures, geometrical ideas, algorithms and solutions of practical problems. The topics covered include: formulations, the geometry of linear optimization, duality theory, the simplex method, sensitivity analysis, robust optimization, large scale optimization network flows, solving problems with an exponential number of constraints and the ellipsoid method, interior point methods, semidefinite optimization, solving real world problems problems with computer software, discrete optimization formulations and algorithms. Fall Mutually Exclusive: ESE 2040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 3050 Foundations of Data Science",
+    "courseid": "ESE 3050",
+    "coursedescription": "Introduction to a broad range of tools to analyze large volumes of data in order to transform them into actionable decisions. Using case studies and hands-on exercises, the student will have the opportunity to practice and increase their data analysis skills. Not Offered Every Year Prerequisite: ESE 3010 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 3010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Not Offered Every Year Prerequisite: ESE 3010 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 3060 Deep Learning: A Hands-on Introduction",
+    "courseid": "ESE 3060",
+    "coursedescription": "This course will serve as an introductory and hands-on dive into the area of deep learning. The main goal is to to educate the students on (i) the commonly-used neural network architectures and proficiency in training them, (ii) Some of the main problems that deep learning systems have successfully addressed (formulation, architecture, data sets, etc). There will be no theory in this course. After finishing this course, the students should be very comfortable with pytorch programming as well as training deep learning models. Fall Prerequisite: ESE 2000 OR CIS 4210 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 2000",
+      "CIS 4210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 3190 Fundamentals of Solid-State Circuits",
+    "courseid": "ESE 3190",
+    "coursedescription": "Analysis and design of basic active circuits involving semiconductor devices including diodes and bipolar transistors. Single stage, differential, multi-stage, and operational amplifiers will be discussed including their high frequency response. Wave shaping circuits, filters, feedback, stability, and power amplifiers will also be covered. A weekly three-hour laboratory will illustrate concepts and circuits discussed in the class. Spring Prerequisite: ESE 2150 or permission of instructor 1.5 Course Unit",
+    "course-prerequsities": [
+      "ESE 2150"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Spring Prerequisite: ESE 2150 or permission of instructor 1.5 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 3200 Qubit Lab – A Hands on Introduction to Quantum Devices",
+    "courseid": "ESE 3200",
+    "coursedescription": "Quantum technologies are rapidly evolving and there are many competing physical systems being used to construct the fundamental unit of quantum information – the qubit. In this course we will discuss several of the key technologies used to build quantum processors. Students will also be exposed to applications for quantum devices beyond computing including environmental sensing. Students will participate in a weekly lab including an introduction to instrumentation and the subsequent programming and control of a single qubit register based on a tabletop NMR spectrometer. Students will also gain access to a cloud-based superconducting quantum computer, which will be used to perform pulse-level experiments on few qubit systems. Spring Prerequisite: ESE 2180 AND MATH 2400 1.5 Course Unit",
+    "course-prerequsities": [
+      "ESE 2180",
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 3250 Fourier Analysis and Applications in Engineering, Mathematics, and the Sciences",
+    "courseid": "ESE 3250",
+    "coursedescription": "This course focuses on the mathematics behind Fourier theory and a wide variety of its applicationsin diverse problems in mathematics, engineering, and the sciences. The course is very mathematical in content and students signing up for it should have junior or senior standing. The topics covered are chosen from: functions and signals; systems of differential equations; superposition,memory, and non-linearity; resonance,eigenfunctions; the Fourier series and transform, spectra; convergence theorems; inner product spaces; mean-square approximation; interpolation and prediction, sampling; random processes, stationarity; wavelets, Brownian motion; stability and control, Laplace transforms. Prerequisite: Junior or Senior standing The applications of the mathematical theory that will be presented vary from year to year but a representative sample include: polynomial approximation, Weierstrass's theorem; efficient computation via Monte Carlo; linear and non-linear oscillators;the isoperimetric problem; the heat equation, underwater communication; the wave equation, tides; testing for randomness, fraud; nowhere differentiable continuous functions; does Brownian motion exist?; error-correction; phase conjugate optics and four-wave mixing; cryptography and secure communications; how fast can we compute?; X-ray crystallography; cosmology; and what the diffusion equation has to say about mathematical finance and arbitrage opportunities. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 3300 Principles of Optics and Photonics",
+    "courseid": "ESE 3300",
+    "coursedescription": "This course introduces the fundamental principles of optics, photonics, and antennas alongside a range of applications. Specific topics include: Maxwell's equations and the wave equation; light propagation and interaction with materials; geometric/ray optics and polarization; wave optics, diffraction and gratings; waveguides and fiber optics; optical cavities; lasers and light sources; antennas and applications to wireless communication. Prerequisite: ESE 2150 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 2150"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: ESE 2150 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 3360 Nanofabrication of Electrical Devices",
+    "courseid": "ESE 3360",
+    "coursedescription": "This course is an intermediate undergraduate course in the understanding, fabrication, and characterization of electrical, optical, electromagnetic, and/or electromechanical nanodevices; i.e., micro- and nanoscale devices which have significant relevance to electrical engineering. Example devices of interest include transistors, microelectromechanical systems (MEMS), and optical and optoelectronic devices (including photovoltaic devices). Weekly laboratory sessions will enable the fabrication and characterization of a subset of electrical nanodevices. Students will learn basic physics and modeling of electrical nanodevices as well as acquire hands-on skill in their fabrication and characterization. Prerequisite: If course requirements not met, permission of instructor required. Spring Prerequisite: ESE 2180 or permission of instructor 1.5 Course Unit",
+    "course-prerequsities": [
+      "ESE 2180"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Example devices of interest include transistors, microelectromechanical systems (MEMS), and optical and optoelectronic devices (including photovoltaic devices).",
+        "Prerequisite: If course requirements not met, permission of instructor required.",
+        "Spring Prerequisite: ESE 2180 or permission of instructor 1.5 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 3400 Medical Devices Laboratory",
+    "courseid": "ESE 3400",
+    "coursedescription": "With the demand for personalized medicine and health care, the need for consumer medical devices has risen. Traditionally devices have been designed from the ground up, but with more standardized components and software tools devices can be built to fulfill this need. This course will introduce design of medical devices. Students will learn the basics of sensors, signal conditioning, data acquisition and analysis, biopotential, biopotential electrodes, biomedical instrumentation, examples of biological signal measurement and electronics safety. This will be a lab based inquiry into medical device design. Prerequisites: Some exposure to circuit/electronics; Calculus and familiarity with signals 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 3500 Embedded Systems/Microcontroller Laboratory",
+    "courseid": "ESE 3500",
+    "coursedescription": "An introduction to interfacing real-world sensors and actuators to embedded microprocessor systems. Concepts needed for building electronic systems for real-time operation and user interaction, such as digital input/outputs, interrupt service routines, serial communications, and analog-to-digital conversion will be covered. The course will conclude with a final project where student-designed projects are featured in presentations and demonstrations. Prerequisite: Prior programming experience in any language Spring Prerequisite: ESE 2150 AND CIS 1200 (or permission of instructor) 1.5 Course Unit",
+    "course-prerequsities": [
+      "ESE 2150",
+      "CIS 1200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Prior programming experience in any language Spring Prerequisite: ESE 2150 AND CIS 1200 (or permission of instructor) 1.5 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 3600 TinyML: Tiny Machine Learning for Embedded Systems",
+    "courseid": "ESE 3600",
+    "coursedescription": "Tiny Machine Learning for Embedded Systems is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance-constrained and power-constrained domain of embedded systems to develop useful and exciting Internet of Things solutions. This is an introductory course at the intersection of Machine Learning (ML) and Embedded Internet of Things (IoT) Devices which covers machine learning applications and algorithms using embedded hardware, sensors, actuators and software. Embedding machine learning in a device at the extreme end point - right at the data source - is fundamentally different from general data-center style machine learning. Embedded ML is all about real-time processing of time-series data that comes directly from sensors. By the end of this course, students will collect and preprocess data to build a dataset, design a model, train a model, evaluate and optimize the pipeline, convert the model to run on hardware, deploy the model on a microcontroller, make inference and roll out applications. This will enable future applications development across medical devices, home appliances, industrial automation, wild-life conservation, smart agriculture and many more. Prerequisites: Basic knowledge of programming (CIS1100 or equivalent) and basic knowledge of Python and basic knowledge of electronics and circuits. We provide the background, tools and assignments for machine learning and embedded systems using TensorFlow, Google Colab, and ARM Cortex32 hardware platforms. Prerequisite: CIS 1200 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "CIS1100",
+      "CORTEX32",
+      "CIS 1200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: CIS 1200 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 3700 Circuit-Level Modeling, Design, and Optimization for Digital Systems",
+    "courseid": "ESE 3700",
+    "coursedescription": "Circuit-level design and modeling of gates, storage, and interconnect. Emphasis on understanding physical aspects which drive energy, delay, area, and noise in digital circuits. Impact of physical effects on design and achievable performance. Spring Prerequisite: ESE 2150 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 2150"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Spring Prerequisite: ESE 2150 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 3990 Special Topics",
+    "courseid": "ESE 3990",
+    "coursedescription": "Visit the ESE department website for descriptions of available Special Topics classes. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 4000 Engineering Economics",
+    "courseid": "ESE 4000",
+    "coursedescription": "This course investigates methods of economic analysis for decision making among alternative courses of action in engineering applications. Topics include: cost-driven design economics, break-even analysis, money-time relationships, rates of return, cost estimation, depreciation and taxes, foreign exchange rates, life cycle analysis, benefit-cost ratios, risk analysis, capital financing and allocation, and financial statement analysis. Case studies apply these topics to actual engineering problems. Prerequisite: Knowledge of Differential Calculus Fall Mutually Exclusive: ESE 5400 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 4010 Complex Networks",
+    "courseid": "ESE 4010",
+    "coursedescription": "The course covers the methodological foundations of network formation and utilization. It introduces various mathematical models for random and strategic, static and dynamic formation of networks. The models for random static formation span, Erdos Renyi Graphs and Power law topologies. Threshold properties underlying these formations will be rigorously proved. The dynamic formations will introduce mean field based deterministic models for network evolution. Techniques for approximately analyzing various key network features such as component sizes will be introduced. These analyses will culminate in tools for approximate analysis of efficacy of various immunization strategies considering epidemic disease spread over networks. A solid background in undergraduate probability is required (e.g. ESE 3010 , STAT 4300 , ENM 3210, CIS 2610 or equivalent). Spring Mutually Exclusive: ESE 5010 Prerequisite: ESE 3010 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 3010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Spring Mutually Exclusive: ESE 5010 Prerequisite: ESE 3010 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4020 Statistics for Data Science",
+    "courseid": "ESE 4020",
+    "coursedescription": "The course covers the methodological foundations of data science, emphasizing basic concepts in statistics and learning theory, but also modern methodologies. Learning of distributions and their parameters. Testing of multiple hypotheses. Linear and nonlinear regression and prediction. Classification. Uncertainty quantification. Model validation. Clustering. Dimensionality reduction. Probably approximately correct (PAC) learning. Such theoretical concepts are further complemented by exempla r applications, case studies (datasets), and programming exercises (in Python) drawn from electrical engineering, computer science, the life sciences, finance, and social networks. Fall Mutually Exclusive: ESE 5420 Prerequisite: ESE 3010 or STAT 4300 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 3010",
+      "STAT 4300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Fall Mutually Exclusive: ESE 5420 Prerequisite: ESE 3010 or STAT 4300 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4040 Engineering Markets",
+    "courseid": "ESE 4040",
+    "coursedescription": "ESE 4040 is concerned with the design of intelligent infrastructure to support distributed decision making by self-interested agents. Examples will be drawn, for example, from transportation, cloud services and markets for data. The course integrates principles from distinct disciplines. Principles of inference (Statistics), algorithmic principles (Computer Science and Operations Research) and Incentives (Economics). Not Offered Every Year Prerequisite: ESE 2040 AND ESE 3010 AND ECON 2100 AND CIS 1600 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 2040",
+      "ESE 3010",
+      "ECON 2100",
+      "CIS 1600"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "ESE 4040 is concerned with the design of intelligent infrastructure to support distributed decision making by self-interested agents."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4070 Introduction to Networks and Protocols",
+    "courseid": "ESE 4070",
+    "coursedescription": "This is an introductory course on packet networks and associated protocols, with a particular emphasis on IP-based networks such as the Internet. The course introduces design and implementation choices that underlie the development of modern networks, and emphasizes basic analytical understanding of the concepts. Topics are covered in a mostly \"top down\" approach starting with web HTTP protocol followed by transport layer protocols such as TCP and UDP. Congestion control of TCP is extensively covered. Network layer solutions, including IP addressing and routing are covered next, before exploring link layer solutions including multiple access strategies, local area networks (Ethernet and 802.11). The objectives of the course include basic understanding of the network protocol stack and hands-on experience analyzing protocol behavior using wireshark. Fall Mutually Exclusive: ESE 5070 Prerequisite: ESE 3010 or STAT 4300 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 3010",
+      "STAT 4300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Fall Mutually Exclusive: ESE 5070 Prerequisite: ESE 3010 or STAT 4300 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4190 Analog Integrated Circuits",
+    "courseid": "ESE 4190",
+    "coursedescription": "Design of analog circuits and subsystems using primarily MOS technologies at the transistor and higher levels. Transistor level design of building block circuits such as op amps, comparators, sample and hold circuits, voltage and current references, capacitors and resistor and class AB output stages. The Cadence Design System will be used to capture schematics and run simulations using Spectre for some homework problems and for the course project. Topics of stability, noise, device matching through good layout practice will also be covered. Students who take ESE 4190 will not be able to take ESE 5720 later. More will be expected of ESE 5720 students in the design project. Prerequisite: If course requirement not met, permission of instructor required. Fall Mutually Exclusive: ESE 5720 Prerequisite: ESE 3190 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5720",
+      "ESE 3190"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required.",
+        "Fall Mutually Exclusive: ESE 5720 Prerequisite: ESE 3190 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4210 Control For Autonomous Robots",
+    "courseid": "ESE 4210",
+    "coursedescription": "This course introduces the hardware, software and control technology used in autonomous ground vehicles, commonly called \"self-driving cars.\" The weekly laboratory sessions focus on development of a small-scale autonomous car, incrementally enhancing the sensors, software, and control algorithms to culminate in a demonstration in a realistic outdoor operating environment. Students will learn basic physics and modeling; controls design and analysis in Matlab and Simulink; software implementation in C and Python; sensor systems and filtering methods for IMUs, GPS, and computer vision systems; and path planning from fixed map data. Prerequisite: If course requirement not met, permission of instructor required. Fall Also Offered As: MEAM 4210 Prerequisite: ESE 2240 OR MEAM 2110 or permission of instructor 1.5 Course Unit",
+    "course-prerequsities": [
+      "MEAM 4210",
+      "ESE 2240",
+      "MEAM 2110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required.",
+        "Fall Also Offered As: MEAM 4210 Prerequisite: ESE 2240 OR MEAM 2110 or permission of instructor 1.5 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4230 Quantum Engineering",
+    "courseid": "ESE 4230",
+    "coursedescription": "Quantum engineering - the design, fabrication, and control of quantum coherent devices - has emerged as a multidisciplinary field spanning physics, electrical engineering, materials science, chemistry, and biology, with the potential for transformational advances in computation, secure communication, and nanoscale sensing. This course surveys the state of the art in quantum hardware, beginning with an overview of the physical implementation requirements for a quantum computer and proceeding to a synopsis of the leading contenders for quantum building blocks, including spins in semiconductors, superconducting circuits, photons, and atoms. The course combines background material on the fundamental physics and engineering principles required to build and control these devices with readings drawn from the current literature, including promising architectures for scaling physical qubits into larger devices and secure communication networks, and for nanoscale sensing applications impacting biology, chemistry, and materials Prerequisite: If course requirement not met, permission of instructor required. Not Offered Every Year Mutually Exclusive: ESE 5230 Prerequisite: ESE 5130 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5230",
+      "ESE 5130"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course combines background material on the fundamental physics and engineering principles required to build and control these devices with readings drawn from the current literature, including promising architectures for scaling physical qubits into larger devices and secure communication networks, and for nanoscale sensing applications impacting biology, chemistry, and materials Prerequisite: If course requirement not met, permission of instructor required.",
+        "Not Offered Every Year Mutually Exclusive: ESE 5230 Prerequisite: ESE 5130 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4380 Machine Learning for Time-Series Data",
+    "courseid": "ESE 4380",
+    "coursedescription": "This course is designed to equip students with tools for analyzing and forecasting time-series data. The course starts with the fundamental principles of time-series analysis, including classical models like ARIMA, state-space models, and frequency domain analysis (Fourier and Wavelets). Students will then delve into machine learning methods, starting with random forests and gradient boosting for time- series, following with learning techniques such as RNNs, LSTMs, and GRUs. Recent techniques, such as attention mechanisms and transformers will be covered at the end of the course. The course emphasizes both theoretical understanding and practical application, offering hands-on experience with real-world datasets and tools like Python and TensorFlow. This curriculum is tailored for students with a background in engineering, computer science, or finance, preparing them for advanced research and professional roles in time-series analysis. Fall Prerequisite: ESE 2240 AND ( ESE 4020 OR ESE 5420 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 2240",
+      "ESE 4020",
+      "ESE 5420"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will then delve into machine learning methods, starting with random forests and gradient boosting for time- series, following with learning techniques such as RNNs, LSTMs, and GRUs."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4500 Senior Design Project I - EE and SSE",
+    "courseid": "ESE 4500",
+    "coursedescription": "This is the first of a two-semester sequence in electrical and systems engineering senior design. Student work will focus on project/team definition, systems analysis, identification alternative design strategies and determination (experimental or by simulation) or specifications necessary for a detailed design. Project definition is focused on defining a product prototype that provides specific value to a least one identified user group. Students will receive guidance on preparing professional written and oral presentations. Each project team will submit a project proposal and two written project reports that include coherent technical presentations, block diagrams and other illustrations appropriate to the project. Each student will deliver two formal Powerpoint presentations to an audience comprised of peers, instructors and project advisors. During the semester there will be periodic individual-team project reviews. Prerequisite: Senior Standing or permission of the instructor Fall Prerequisite: Senior Standing 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Senior Standing or permission of the instructor Fall Prerequisite: Senior Standing 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4510 Senior Design Project II - EE and SSE",
+    "courseid": "ESE 4510",
+    "coursedescription": "This is the second of a two term sequence in electrical and systems engineering senior design. Student work will focus on completing the product prototype design undertaken in ESE 450 and successfully implementing the said product prototype. Success will be verified using experimental and/or simulation methods appropriate to the project that test the degree to which the project objectives are achieved. Each project team will prepare a poster to support a final project presentation and demonstration to peers, faculty and external judges. The course will conclude with the submission of a final project written team report. During the semester there will be periodic project reviews with individual teams. Spring Prerequisite: ESE 4500 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 4500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Spring Prerequisite: ESE 4500 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4730 Chips-design",
+    "courseid": "ESE 4730",
+    "coursedescription": "This hands-on course covers advanced topics in semiconductor industry, design and tape-out of electronic chips, including the design process, layout process, and DRC and LVS procedures. Teams of students (each team consists of two students) design analog/digital/mixed mode circuits (either from the list of pre-defined systems or their proposed system), simulate the schematic, layout the circuit, extract the layout parasitics, perform full post-layout chip simulations, prepare the design for tape- out, and tape-out the chip. Chips are fabricated during the summer and packaged. Students will measure their chips in the follow up course, Chips-measurements, ESE 5750 /4750. Students are welcome to use this course to design a chip towards their senior design project or master’s thesis (in coordination with their advisor). Recommended prerequisite: ESE 3700 OR ESE 5700 Spring Mutually Exclusive: ESE 5730 Prerequisite: ESE 3190 OR ESE 4190 OR ESE 5720 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 3700",
+      "ESE 5700",
+      "ESE 5730",
+      "ESE 3190",
+      "ESE 4190",
+      "ESE 5720"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended prerequisite: ESE 3700 OR ESE 5700 Spring Mutually Exclusive: ESE 5730 Prerequisite: ESE 3190 OR ESE 4190 OR ESE 5720 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 4750 Chips-measurements",
+    "courseid": "ESE 4750",
+    "coursedescription": "This hands-on course covers advanced topics in chip packaging, characterization, and measurements, including DC characterization, time domain measurements, frequency domain measurements, and small and large signal measurements as needed. This is a follow up course to ESE 5740/4740 where students designed and taped-out a chip. In this course, students will design PCBs and mount their packaged chip on the designed PCB and conduct characterization and measurements. The proposed chip systems will be demonstrated at the end of the course and the final report will be submitted.Students are welcome to use this course to design a chip towards their senior design project or master’s thesis (in coordination with their advisor). Fall Mutually Exclusive: ESE 5750 Prerequisite: ESE 4730 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 4730"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5000 Linear Systems Theory",
+    "courseid": "ESE 5000",
+    "coursedescription": "This graduate-level course focuses on continuous and discrete n-dimensional linear systems with m inputs and p outputs in a time domain based on linear operators. The course covers general discussions of linear systems such as, linearization of non-linear systems, existence and uniqueness of state-equation solutions, transition matrices and their properties, methods for computing functions of matrices and transition matrices and state-variable changes. It also includes z-transform and Laplace transform methods for time-invariant systems and Floquet decomposition methods for periodic systems. The course then moves to stability analysis, including: uniform stability, uniform exponential stability, asymptotic stability, uniform asymptotic stability, Lyapunov transformations, Lyapunov stability criteria, eigenvalues conditions and input-output stability analysis. Applications involving the topics of controllability, observability, realizability, minimal realization, controller and observer forms, linear feedback, and state feedback stabilization are included, as time permits. Open to graduates and undergraduates who have taken undergraduate courses in linear algebra and differential equations. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5010 Networking - Theory and Fundamentals",
+    "courseid": "ESE 5010",
+    "coursedescription": "Networks constitute an important component of modern technology and society. Networks have traditionally dominated communication technology in form of communication networks, distribution of energy in form of power grid networks, and have more recently emerged as a tool for social connectivity in form of social networks. In this course, we will study mathematical techniques that are key to the design and analysis of different kinds of networks. First, we will investigate techniques for modeling evolution of networks. Specifically, we will consider random graphs (all or none connectivity, size of components, diameters under random connectivity), small world problem, network formation and the role of topology in the evolution of networks. Next, we will investigate different kinds of stochastic processes that model the flow of information in networks. Specifically, we will develop the theory of markov processes, renewal processes, and basic queueing, diffusion models, epidemics and rumor spreading in networks. Spring Mutually Exclusive: ESE 4010 Prerequisite: ESE 5300 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5030 Simulation Modeling and Analysis",
+    "courseid": "ESE 5030",
+    "coursedescription": "This course provides a study of discrete-event systems simulation in the areas of queuing, inventory and reliability systems as well as Markov Chains, Random-Walks and Monte-Carlo systems. The course examines many probability distributions used in simulation studies as well as the Poisson process. Fundamental to most simulation studies is the ability to generate reliable random numbers and so the course investigates the basic properties of random numbers and techniques used for the generation and testing of pseudo-random numbers. Random numbers are then used to generate other random variable using the methods of inverse-transform, convolution, composition and acceptance/rejection. Finally, since most inputs to simulation are probabilistic instead of deterministic in nature, the course examines some techniques used for identifying the probabilistic nature of input data. These include identifying distributional families with sample data, using maximum-likelihood methods for parameter estimating within a given family and testing the final choice of distribution using chi-squared goodness-of-fit. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5050 Feedback Control Design and Analysis",
+    "courseid": "ESE 5050",
+    "coursedescription": "Basic methods for analysis and design of feedback control in systems. Applications to practical systems. Methods presented include time response analysis, frequency response analysis, root locus, Nyquist and Bode plots, and the state-space approach. Spring Also Offered As: MEAM 5130 Prerequisite: MEAM 3210 OR ESE 2100 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 3210",
+      "ESE 2100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5060 Introduction to Optimization Theory",
+    "courseid": "ESE 5060",
+    "coursedescription": "Introduction to mathematical optimization for graduate students who would like to be intelligent and sophisticated users of mathematical programming but do not necessarily plan to specialize in this area. Linear, integer and nonlinear programming are covered, including the fundamentals of each topic together with a sense of the state-of-the-art and expected directions of future progress. Homework and projects emphasize modeling and solution analysis, and introduce the students to a large variety of application areas. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5070 Introduction to Networks and Protocols",
+    "courseid": "ESE 5070",
+    "coursedescription": "This is an introductory course on packet networks and associated protocols, with a particular emphasis on IP-based networks such as the Internet. The course introduces design and implementation choices that underlie the development of modern networks, and emphasizes basic analytical understanding of the concepts. Topics are covered in a mostly \"bottom-up\" approach starting with a brief review of physical layer issues such as digital transmission, error correction and error recovery strategies. This is followed by a discussion of link layer aspects, including multiple access strategies, local area networks (Ethernet and 802.11 wireless LANs), and general store-and-forward packet switching. Network layer solutions, including IP addressing, naming, and routing are covered next, before exploring transport layer and congestion control protocols (UDP and TCP). Finally, basic approaches for quality-of-service and network security are examined. Specific applications and aspects of data compression and streaming may also be covered. Fall Mutually Exclusive: ESE 4070 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5090 Quantum Circuits and Systems",
+    "courseid": "ESE 5090",
+    "coursedescription": "Quantum information processing promises new paradigms in secure communication, powerful new simulation techniques, and exponential speedups over classical techniques for a select range of problems. This course will cover the basics of quantum mechanics and introduce students to a circuit-based model for quantum computing. In the course, several of the key algorithms that have motivated the pursuit of large-scale universal quantum computers will be explored. The scalability of quantum computers from a circuits perspective will be covered including error correction techniques. Students will also gain hands-on experience in programming cloud-based quantum computers. Students should have previously taken an undergraduate course in linear algebra such as MATH 2400 or ESE 2240 . Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5100 Electromagnetic and Optics",
+    "courseid": "ESE 5100",
+    "coursedescription": "This course reviews electrostatics, magnetostatics, electric and magnetic materials, induction, Maxwell's equations, potentials and boundary-value problems. Topics selected from the areas of wave propagation, wave guidance, antennas, and diffraction will be explored with the goal of equipping students to read current research literature in electromagnetics, microwaves, and optics. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5120 Dynamical Systems for Engineering and Biological Applications",
+    "courseid": "ESE 5120",
+    "coursedescription": "This midlevel course in nonlinear dynamics focuses on the analysis of low dimensional, continuous time models for describing and understanding complex behavior in physical, biological and engineered systems. We assume some background knowledge of ordinary differential equations, and develop at an engineering applications level the concepts and tools of qualitative dynamical systems theory with major focus on analysis and some on synthesis. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5130 Prin of Quantum Tech",
+    "courseid": "ESE 5130",
+    "coursedescription": "Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5140 Graph Neural Networks",
+    "courseid": "ESE 5140",
+    "coursedescription": "Graph Neural Networks (GNNs) are information processing architectures for signals supported on graphs. They have been developed and are presented in this course as generalizations of the convolutional neural networks (CNNs) that are used to process signals in time and space. The focus of this course is in large scale problems involving high dimensional signals. In these settings fully connected neural networks fail to scale. CNNs are the tool for enabling scalable learning for signals in time and space. GNNS are the tool for enabling scalable learning for signals supported on graphs. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5150 Internet of Things Sensors and Systems",
+    "courseid": "ESE 5150",
+    "coursedescription": "The course is designed to introduce sensors and their networks and systems that are increasingly pervasive and form the physical device layer of the Internet of Things. Sensors transduce input signals into measured outputs within and between chemical, thermal, mechanical, optical, electrical, and magnetic domains. The course will describe the physical principles of operation, the characteristics, and the figures of merit of different sensors and their integration in networks and systems, highlighting common electronic interfaces that are used. The sensors and systems will be described as case studies to show how these devices are used to monitor and regulate processes in applications in agriculture, the environment, the home, manufacturing, health, transportation, and human activity. The course is structured with a combination of lectures, in-class and at-home labs, and research paper reading/in-class discussion. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5160 IoT Edge Computing",
+    "courseid": "ESE 5160",
+    "coursedescription": "This course was developed to bring lessons learned from the product design industry into the classroom - specifically focusing on Internet of Things (IoT) device development and deployment. To achieve the highest level of knowledge transfer, the course will incorporate device design theory with discussions of real-world product failures and successes - as well as a heavy hands-on component to build a device from end to end. Students will learn to use industry standard tools, such as Altium, Atmel Studio, and IBM Watson - allowing them the same level of power and customization at the disposable of startups and Fortune 500 companies alike. Prerequisite: If course requirement not met, permission of instructor required. Spring Prerequisite: ESE 5190 or ESE 3500 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5190",
+      "ESE 3500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 5180 IoT Wireless, Security, & Scaling",
+    "courseid": "ESE 5180",
+    "coursedescription": "ESE 5180 answers the questions engineers have about scaling from a single prototype up to thousands of devices in the field. This class will cover automating build systems with Continuous Integration (CI), investigating various wireless protocols, integrating IoT security, and device fleet management. A final project will show the intersection of technical design with business planning in order to launch a device. Fall Prerequisite: ESE 3500 OR ESE 5190 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 3500",
+      "ESE 5190"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5190 Smart Devices",
+    "courseid": "ESE 5190",
+    "coursedescription": "An embedded system is the product of a marriage between hardware and software. Embedded systems have grown to be ubiquitous in the modern world - from simple temperature controlled kettles to intricate smart watches with a plethora of functions squeezed into one small package to complex rovers for space exploration. This course introduces the theory and practice of developing embedded systems through exploration of modern microcontroller architectures and culminates in a final project where students have the opportunity to synthesize and apply their knowledge in a project of their own design. Previous programming experience (Preferably C); Some exposure to circuit/electronics; Undergraduates who have taken ESE 3500 are not permitted to take this course. Fall Also Offered As: IPD 5190 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5210 The Physics of Solid State Energy Devices",
+    "courseid": "ESE 5210",
+    "coursedescription": "An advanced undergraduate course or graduate level course on the fundamental physical principles underlying the operation of traditional semiconducting electronic and optoelectronic devices and extends these concepts to novel nanoscale electronic and optoelectronic devices. The course assumes an undergraduate level understanding of semiconductors physics, as found in ESE 2180 or PHYS 1240 . The course builds on the physics of solid state semiconductor devices to develop the operation and application of semiconductors and their devices in energy conversion devices such as solar photovoltaics, thermophotovoltaics, and thermoelectrics, to supply energy. The course also considers the importance of the design of modern semiconductor transistor technology to operate at low-power in CMOS. Prerequisite: If course requirement not met, permission of instructor required. Spring Prerequisite: ESE 2180 OR PHYS 1240 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 2180",
+      "PHYS 1240"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 5230 Quantum Engineering",
+    "courseid": "ESE 5230",
+    "coursedescription": "Quantum engineering - the design, fabrication, and control of quantum coherent devices - has emerged as a multidisciplinary field spanning physics, electrical engineering, materials science, chemistry, and biology, with the potential for transformational advances in computation, secure communication, and nanoscale sensing. This course surveys the state of the art in quantum hardware, beginning with an overview of the physical implementation requirements for a quantum computer and proceeding to a synopsis of the leading contenders for quantum building blocks, including spins in semiconductors, superconducting circuits, photons, and atoms. The course combines background material on the fundamental physics and engineering principles required to build and control these devices with readings drawn from the current literature, including promising architectures for scaling physical qubits into larger devices and secure communication networks, and for nanoscale sensing applications impacting biology, chemistry, and materials science. Spring Mutually Exclusive: ESE 4230 Prerequisite: PHYS 4411 OR ESE 5130 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 4411",
+      "ESE 5130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5250 Nanoscale Science and Engineering",
+    "courseid": "ESE 5250",
+    "coursedescription": "Overview of existing device and manufacturing technologies in microelectronics, optoelectronics, magnetic storage, Microsystems, and biotechnology. Overview of near- and long-term challenges facing those fields. Near- and long-term prospects of nanoscience and related technologies for the evolutionary sustension of current approaches, and for the development of revolutionary designs and applications. Prerequisite: If course requirement not met, permission of instructor required. Fall Also Offered As: MSE 5250 Prerequisite: ESE 2180 OR PHYS 1240 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 5250",
+      "ESE 2180",
+      "PHYS 1240"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 5280 Estimation and Detection Theory",
+    "courseid": "ESE 5280",
+    "coursedescription": "Statistical decision making constitutes the core of multiple engineering systems like communication, networking, signal processing, control, market dynamics, biological systems, data processing, etc. We strive to introduce mathematical theories that formulate statistical decision and obtain decision making algorithms with application to one or more of the above domains. This course will be offered every other year. Fall or Spring Prerequisite: ESE 5300 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5290 Introduction to Micro- and Nano-electromechanical Technologies",
+    "courseid": "ESE 5290",
+    "coursedescription": "Introduction to MEMS and NEMS technologies: MEMS/NEMS applications and key commercial success stories (accelerometers, gyroscopes, digital light projectors, resonators). Review of micromachining techniques and MEMS/NEMS fabrication approaches. Actuation methods in MEMS and NEMS, MEMS/NEMS design and modeling. Examples of MEMS/NEMS components from industry and academia. Case studies: MEMS inertial sensors, microscale mirrors, micro and nano resonators, micro and nano switches, MEMS/NEMS chem/bio sensors, MEMS gyroscopes, MEMS microphones. Spring Also Offered As: MEAM 5290 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5300 Elements of Probability Theory",
+    "courseid": "ESE 5300",
+    "coursedescription": "This rapidly moving course provides a rigorous development of fundamental ideas in probability theory and random processes. The course is suitable for students seeking a rigorous graduate level exposure to probabilistic ideas and principles with applications in diverse settings. The topics covered are drawn from: abstract probability spaces; combinatorial probabilities; conditional probability; Bayes's rule and the theorem of total probability; independence; connections with the theory of numbers, Borel's normal law; rare events, Poisson laws, and the Lovasz local lemma; arithmetic and lattice distributions arising from the Bernoulli scheme; limit laws and characterizations of the binomial and Poisson distributions; continuous distributions in one and more dimensions; the uniform, exponential, normal, and related distributions; random variables, distribution functions; orthogonal and stationary random processes; the Gaussian process, Brownian motion; random number generation and statistical tests of randomness; mathematical expectation and the Lebesgue theory; expectations of functions, moments, convolutions; operator methods and distributional convergence, the central limit theorem, selection principles; conditional expectation; tail inequalities, concentration convergence in probability and almost surely, the law of large numbers, the law of the iterated logarithm; Poisson approximation, Janson's inequality, the Stein- Chen method; moment generating functions, renewal theory; characteristic functions. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5310 Digital Signal Processing",
+    "courseid": "ESE 5310",
+    "coursedescription": "This course covers the fundamentals of discrete-time signals and systems and digital filters. Specific topics covered include: review of discrete-time signal and linear system representations in the time and frequency domain, and convolution; discrete-time Fourier transform (DTFT); Z-transforms; frequency response of linear discrete-time systems; sampling of continuous-time signals, analog to digital conversion, sampling-rate conversion; basic discrete-time filter structures and types; finite implulse response (FIR) and infinite impulse response (IIR) filters; design of FIR and IIR filters; discrete Fourier transform (DFT), the fast Fourier transform (FFT) algorithm and its applications in filtering and spectrum estimation. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5320 System-on-a-Chip Architecture",
+    "courseid": "ESE 5320",
+    "coursedescription": "Motivation, design, programming, optimization, and use of modern System-on-a-Chip (SoC) architectures. Hands-on coverage of the breadth of computer engineering within the context of SoC platforms from gates to application software, including on-chip memories and communication networks, I/O interfacing, RTL design of accelerators, processors, concurrency, firmware and OS/infrastructure software. Formulating parallel decompositions, hardware and software solutions, hardware/software tradeoffs, and hardware/software codesign. Attention to real-time requirements. Undergraduates: CIS 240, ESE 350; Graduate: Working knowledge of C. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5330 Stochastic Processes",
+    "courseid": "ESE 5330",
+    "coursedescription": "Stochastic modelling and analysis is key in understanding physical phenomena as well as designing new systems and quantifying various trade-offs and aspects of those designs. The course develops the foundations of stochastic processes and aims to provide engineering students with a mathematical, yet intuitive, toolbox to work with random processes. Topics covered include random walks, counting processes, renewal processes, Markov models and Markov decision processes, and martingales. Tools and techniques studied in this class are at the core of various fields ranging from engineering to social sciences and biology. Solid background in probability, preferably advanced probability, is required (e.g. ESE 3010 or equivalent). Some calculus and linear algebra will be needed (e.g. MATH 1040 and MATH 2400 ) Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5350 Electronic Design Automation",
+    "courseid": "ESE 5350",
+    "coursedescription": "Formulation, automation, and analysis of design mapping problems with emphasis on VLSI and computational realizations. Major themes include: formulating and abstracting problems, figures of merit (e.g. Energy, Delay, Throughput, Area, Mapping Time), representation, traditional decomposition of flow (logic optimization, covering, scheduling, retiming, assignment, partitioning, placement, routing), and techniques for solving problems (e.g., greedy, dynamic programming, search, (integer) linear programming, graph algorithms, randomization, satisfiability). Digital logic, Programming (need to be Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5360 Nanofabrication and Nanocharacterization",
+    "courseid": "ESE 5360",
+    "coursedescription": "This course is intended for first year graduate students interested in the experimental practice of nanotechnology. In the context of a hands-on laboratory experience, students will gain familiarity with both top-down and bottom-up fabrication and characterization technologies. This will be achieved through the realization of a variety of micro- and nanoscale structures and devices that can exhibit either classical or quantum effects at the small scale. Although concepts relevant to the laboratories will be emphasized in lecture, it is expected that students will already have been exposed to many of the underlying theoretical concepts of nanotechnology in previous courses. Prerequisite: If course requirement not met, permission instructor required. Spring Prerequisite: ESE 5250 OR MSE 5250 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5250",
+      "MSE 5250"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is intended for first year graduate students interested in the experimental practice of nanotechnology.",
+        "Prerequisite: If course requirement not met, permission instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 5370 Hardware Security",
+    "courseid": "ESE 5370",
+    "coursedescription": "Modern computing devices and infrastructure manage and mediate critical systems and important information. How do we assure that these systems are available when we need them, are used only as intended, and only allow changes and disclosure of data as intended? Security is a cross-layer issue spanning the hardware-software stack for both attacks and protection. The root of many security vulnerabilities, as well as many potential solutions to address them, lie in the design of the hardware that supports the systems. This course reviews attacks and vulnerabilities and techniques to address them. It lays the groundwork to systematically address security from the hardware up. It reviews traditional challenges (e.g. buffer overflow, control flow hijacking), information leakage (e.g. timing, power consumption, RF emissions), emerging side-channel leakage (e.g. SPECTRE/Meltdown), and physical attacks (e.g., RowHammer, power, cryogenic) as well as well as various approaches to address them (e.g., Virtual Memory, Virtual Machines, capabilities, tagging, obfuscation, encryption). Concerns and solutions will include processor design, as well as custom hardware, networking, systems, and SoCs. Recommended prerequisites: CIS 4480 /5480 and CIS 4710 /5710 Spring Prerequisite: ESE 5190 OR ESE 5320 OR CIS 4710 OR CIS 5710 OR CIS 4480 1 Course Unit",
+    "course-prerequsities": [
+      "CIS 4480",
+      "CIS 4710",
+      "ESE 5190",
+      "ESE 5320",
+      "CIS 5710"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended prerequisites: CIS 4480 /5480 and CIS 4710 /5710 Spring Prerequisite: ESE 5190 OR ESE 5320 OR CIS 4710 OR CIS 5710 OR CIS 4480 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 5380 Machine Learning for Time-Series Data",
+    "courseid": "ESE 5380",
+    "coursedescription": "This course is designed to equip students with tools for analyzing and forecasting time-series data. The course starts with the fundamental principles of time-series analysis, including classical models like ARIMA, state-space models, and frequency domain analysis (Fourier and Wavelets). Students will then delve into machine learning methods, starting with random forests and gradient boosting for time- series, following with learning techniques such as RNNs, LSTMs, and GRUs. Recent techniques, such as attention mechanisms and transformers will be covered at the end of the course. The course emphasizes both theoretical understanding and practical application, offering hands-on experience with real-world datasets and tools like Python and TensorFlow. This curriculum is tailored for students with a background in engineering, computer science, or finance, preparing them for advanced research and professional roles in time-series analysis. Fall Prerequisite: ESE 4020 or ESE 5420 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 4020",
+      "ESE 5420"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will then delve into machine learning methods, starting with random forests and gradient boosting for time- series, following with learning techniques such as RNNs, LSTMs, and GRUs."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 5390 Hardware/Software Co-Design for Machine Learning",
+    "courseid": "ESE 5390",
+    "coursedescription": "The course is designed to introduce an engineering discipline at the intersection of machine learning and hardware systems to fill the gap. The covered topics include basics of deep learning, deep learning frameworks, deep learning on contemporary computing platforms (CPU, GPU, FPGA) and programmable accelerators (TPU), performance measures, numerical representation and customized data types for deep learning, co-optimization of deep learning algorithms, software and hardware, training for deep learning and complex deep learning models. The course is structured with a combination of lectures, labs, research paper reading/in-class discussion, a final project and guest lectures with state-of-the-art industry practices. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5400 Engineering Economics",
+    "courseid": "ESE 5400",
+    "coursedescription": "This course is cross-listed with an advanced-level undergraduate course ( ESE 4000 ). Topics include: money-time relationships, discrete and continuous compounding, equivalence of cash flows, internal and external rate of return, design and production economics, life cycle cost analysis, depreciation, after-tax cash flow analysis, cost of capital, capital financing and allocation, parametric cost estimating models, pricing, foreign exchange rates, stochastic risk analysis, replacement analysis, benefit-cost analysis, and analysis of financial statements. Case studies apply these topics to engineering systems. Students are not required to do additional work compared to ESE 4000 students. The work-load is identical. Fall Mutually Exclusive: ESE 4000 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5410 Machine Learning for Data Science",
+    "courseid": "ESE 5410",
+    "coursedescription": "Machine Learning for Data Science is a foundational course designed to equip students with the essential theoretical and practical Python skills necessary for a career in data science and machine learning. This comprehensive course delves into the fundamentals of statistical learning, addressing key concepts such as the curse of dimensionality, the bias-variance tradeoff, model selection, regularization, bootstrap and uncertainty quantification. Students will gain hands-on experience with a variety of machine learning models including regression and classification trees, ensemble learning, boosting, support vector machines, neural networks, hierarchical clustering and K-means. The curriculum is structured to provide practical Python programming skills from scratch, which are crucial for succeeding in subsequent courses. By applying these techniques to real-world scenarios in finance, business and industry, the course ensures that students not only understand the theory behind machine learning but also how to apply it effectively in professional settings. This course is an indispensable part of the educational journey for aspiring data scientists, laying the groundwork for advanced studies and applications in the field. Fall or Spring Prerequisite: CIT 5920 1 Course Unit",
+    "course-prerequsities": [
+      "CIT 5920"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5420 Statistics for Data Science",
+    "courseid": "ESE 5420",
+    "coursedescription": "The course covers the methodological foundations of data science, emphasizing basic concepts in statistics and learning theory, but also modern methodologies. Learning of distributions and their parameters. Testing of multiple hypotheses. Linear and nonlinear regression and prediction. Classification. Uncertainty quantification. Model validation. Clustering. Dimensionality reduction. Probably approximately correct (PAC) learning. Such theoretical concepts are further complemented by exempla r applications, case studies (datasets), and programming exercises (in Python) drawn from electrical engineering, computer science, the life sciences, finance, and social networks. Fall Mutually Exclusive: ESE 4020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5430 Human Systems Engineering",
+    "courseid": "ESE 5430",
+    "coursedescription": "This course is an introduction to human systems engineering, examining the various human factors that influence the spectrum of human performance and human systems integration. We will examine both theoretical and practical applications, emphasizing fundamental human cognitive and performance issues. Specific topics include: human performance characteristics related to perception, attention, comprehension, memory, decision making, and the role of automation in human systems integration. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5450 Data Mining: Learning from Massive Datasets",
+    "courseid": "ESE 5450",
+    "coursedescription": "Many scientific and commercial applications require us to obtain insights from massive, high-dimensional data sets. In this graduate-level course, students will learn to apply, analyze and evaluate principled, state-of-the-art technique s from statistics, algorithms and discrete and convex optimization for learning from such large data sets. The course both covers theoretical foundations and practical applications. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5460 Principles of Deep Learning",
+    "courseid": "ESE 5460",
+    "coursedescription": "Introductory class in machine learning and optimization. CIS 5190 , CIS 5200 , ESE 5450 , ESE 3040 , ESE 5040, ESE 6050 recommended or permission of the instructor. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "CIS 5190 , CIS 5200 , ESE 5450 , ESE 3040 , ESE 5040, ESE 6050 recommended or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 5470 Introduction to Legged Locomotion",
+    "courseid": "ESE 5470",
+    "coursedescription": "This course reviews three decades' development of agile legged machines, treating past and recent advances as well as remaining formidable challenges in the materials selection, design, and programming of robots that can run, leap and climb through complicated, unstructured terrain. Emphasis is on developing understanding of and facility using key dynamical primitives whose composition allows more complicated behaviors to emerge from simpler constituents. Several historical case studies will be used to illustrate how advances have rewarded interdisciplinary thinking about animals, materials, mathematics and mechatronics. Course credit will be based on problem sets and coding exercises. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5480 Transportation Planning Methods",
+    "courseid": "ESE 5480",
+    "coursedescription": "This course introduces students to the development and uses of the 4-step urban transportation model (trip generation-trip distribution-mode choice-traffic assignment) for community and metropolitan mobility planning. Using the VISUM transportation desktop planning package, students will learn how to build and test their own models, apply them to real projects, and critique the results. Prerequisite: CPLN 5050 or other planning statistics course. Spring Also Offered As: CPLN 6500 Prerequisite: CPLN 5050 1 Course Unit",
+    "course-prerequsities": [
+      "CPLN 5050",
+      "CPLN 6500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5500 Advanced Transportation Seminar",
+    "courseid": "ESE 5500",
+    "coursedescription": "This course will cover advanced topics in transportation planning and systems analysis. Through the lens of air transportation, rail transportation, logistics, and safety, students will learn and engage in concepts in economics and behavioral modeling, operations research, statistics, environmental planning, and human factors that are used in transportation systems. Topics will include airport and intercity multimodal planning, transportation-environmental planning, network design and reliability, disaster recovery and recovery from irregular operations, scheduled transportation operations, economics, fuel, transportation sustainability, and land use issues related to transportation systems. The course will emphasize learning through lessons, guest lecturers, case studies and an individual group and research project. Spring Also Offered As: CPLN 7500 Prerequisite: CPLN 5500 1 Course Unit",
+    "course-prerequsities": [
+      "CPLN 5500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5660 Networked Neuroscience",
+    "courseid": "ESE 5660",
+    "coursedescription": "The human brain produces complex functions using a range of system components over varying temporal and spatial scales. These components are couples together by heterogeneous interactions, forming an intricate information-processing network. In this course, we will cover the use of network science in understanding such large-scale and neuronal-level brain circuitry. Prerequisite: Graduate standing or permission of the instructor. Experience with Linear Algebra and MATLAB. Spring Also Offered As: BE 5660 1 Course Unit",
+    "course-prerequsities": [
+      "BE 5660"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Graduate standing or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 5670 Risk Analysis and Environmental Management",
+    "courseid": "ESE 5670",
+    "coursedescription": "This course will introduce students to concepts in risk governance. We will delve into the three pillars of risk analysis: risk assessment, risk management, and risk communication. The course will spend time on risk financing, including insurance markets. There will be particular emphasis on climate risk management, including both physical impact risk and transition risk, although the course will also discuss several other examples, including management of environmental risks, terrorism, and cyber-security, among other examples. The course will cover how people perceive risks and the impact this has on risk management. We will explore public policy surrounding risk management and how the public and private sector can successfully work together to build resilience, particularly to changing risks. Fall or Spring Also Offered As: BEPP 7610 , OIDD 7610 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5700 Digital Integrated Circuits and VLSI-Fundamentals",
+    "courseid": "ESE 5700",
+    "coursedescription": "Explores the design aspects involved in the realization of an integrated circuit from device up to the register/subsystem level. It addresses major design methodologies with emphasis placed on the structured design. The course includes the study of MOS device characteristics, the critical interconnect and gate characteristics which determine the performance of VLSI circuits, and NMOS and CMOS logic design. Students will use state-of-the-art CAD tools to verify designs and develop efficient circuit layouts. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5720 Analog Integrated Circuits",
+    "courseid": "ESE 5720",
+    "coursedescription": "Design of analog circuits and subsystems using bipolar and MOS technologies at the transistor and higher levels. Transistor level design of building block circuits such as op amps, comparators, sample and hold circuits, voltage and current references, capacitors and resistor arrays, and class AB output stages. The course will include a design project of an analog circuit. The course will use the Cadence Design System for schematic capture and simulation with Spectre circuit simulator. This course is similar to ESE 5700 , except that it will not require the use of the physical layout tools associated with VLSI design and implementation. Fall Mutually Exclusive: ESE 4190 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5730 Chips-design",
+    "courseid": "ESE 5730",
+    "coursedescription": "This hands-on course covers advanced topics in semiconductor industry, design and tape-out of electronic chips, including the design process, layout process, and DRC and LVS procedures. Teams of students (each team consists of two students) design analog/digital/mixed mode circuits (either from the list of pre-defined systems or their proposed system), simulate the schematic, layout the circuit, extract the layout parasitics, perform full post-layout chip simulations, prepare the design for tape-out, and tape-out the chip. Chips are fabricated during the summer and packaged. Students will measure their chips in the follow up course, Chips-measurements, ESE 5750 /4750. Students are welcome to use this course to design a chip towards their senior design project or master’s thesis (in coordination with their advisor). Recommended prerequisites: ESE 3700 OR ESE 5700 Spring Mutually Exclusive: ESE 4730 Prerequisite: ESE 3190 OR ESE 4190 OR ESE 5720 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 3700",
+      "ESE 5700",
+      "ESE 4730",
+      "ESE 3190",
+      "ESE 4190",
+      "ESE 5720"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended prerequisites: ESE 3700 OR ESE 5700 Spring Mutually Exclusive: ESE 4730 Prerequisite: ESE 3190 OR ESE 4190 OR ESE 5720 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 5750 Chips-measurements",
+    "courseid": "ESE 5750",
+    "coursedescription": "This hands-on course covers advanced topics in chip packaging, characterization, and measurements, including DC characterization, time domain measurements, frequency domain measurements, and small and large signal measurements as needed. This is a follow up course to ESE 5740/4740 where students designed and taped-out a chip. In this course, students will design PCBs and mount their packaged chip on the designed PCB and conduct characterization and measurements. The proposed chip systems will be demonstrated at the end of the course and the final report will be submitted. Students are welcome to use this course to design a chip towards their senior design project or master’s thesis (in coordination with their advisor). Fall Mutually Exclusive: ESE 4750 Prerequisite: ESE 5730 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5730"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5780 RFIC (Radio Frequency Integrated Circuit) Design",
+    "courseid": "ESE 5780",
+    "coursedescription": "Introduction to RF (Radio Frequency) and Microwave Theory, Components, and Systems. The course aims at providing knowledge in RF transceiver design at both microwave and millimeter-wave frequencies. Both system and circuit level perspective will be addressed, supported by modeling and simulation using professional tools (including Agilent ADS, Sonnet, and Cadence Design Systems). Topics include: Transmission Line Theory, S-parameters, Smith Chart for matching network design, stability, noise, and mixed signal design. RF devices covered will include: hybrid/Wilkinson/Lange 3dB couplers, Small Signal Amplifiers (SSA), Low Noise Amps (LNA), and Power Amps (PA). CMOS technology will be largely used to design the devices mentioned. Spring Prerequisite: ESE 5720 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5720"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5800 Power Electronics",
+    "courseid": "ESE 5800",
+    "coursedescription": "Addressing today's energy and environmental challenges requires efficient energy conversion techniques. This course will discuss the circuits that efficiently convert ac power to dc power, dc power from one voltage level to another, and dc power to ac power. The lecture will discuss the components used in these circuits (e.g., transistors, diodes, capacitors, inductors) in detail to highlight their behavior in a practical implementation. In addition, the class will have lab sessions where students will obtain hands-on experience with power electronic circuits. Students should have taken an introductory circuits course like ESE 2150 or equivalent. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 5990 Independent Study for Master's credit",
+    "courseid": "ESE 5990",
+    "coursedescription": "Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-4 Course Units"
+    }
+  },
+  {
+    "coursename": "ESE 6050 Modern Convex Optimization",
+    "courseid": "ESE 6050",
+    "coursedescription": "This course concentrates on recognizing and solving convex optimization problems that arise in engineering. Topics include: convex sets, functions, and optimization problems. Basis of convex analysis. Linear, quadratic, geometric, and semidefinite programming. Optimality conditions, duality theory, theorems of alternative, and applications. Interior-point methods, ellipsoid algorithm and barrier methods, self-concordance. Applications to signal processing, control, digital and analog circuit design, computation geometry, statistics, and mechanical engineering. Knowledge of linear algebra and willingness to do programming. Exposure to numerical computing, optimization, and application fields is helpful but not required. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6060 Combinatorial Optimization",
+    "courseid": "ESE 6060",
+    "coursedescription": "The course will cover polyhedral theory, structural results and their applications to designing algorithms. Specific topics to be covered include: matchings and their applications, connectivity properties of graphs, matroids and optimization including matroid intersection and union, submodular set functions and applications, arborescences and branchings. Prerequisite: ESE 5060 OR ESE 6050 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5060",
+      "ESE 6050"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6110 Nanophotonics: Light at the Nanoscale",
+    "courseid": "ESE 6110",
+    "coursedescription": "This course is intended for first and second year graduate students interested in nanoscale optics and photonics. Building on prior coursework in electromagnetism, this course provides a theoretical foundation and up-to-date survey of the key principles and phenomena relevant to the field of nanophotonics. Topics discussed include light-matter interaction through Maxwell's equations, photonic band theory and photonic crystals, plasmonic structures and devices, metamaterials and metasurfaces, PT-symmetric & topological photonic systems. Applications of nanophotonic devices and principles to a wide range of scenarios will also be explored in depth, including for renewable energy, information processing, imaging and sensing. Experimental techniques used in nanophotonics will be concurrently introduced and discussed. Prerequisite: Permisson of instructor Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is intended for first and second year graduate students interested in nanoscale optics and photonics."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 6150 F1/10 Autonomous Racing Cars",
+    "courseid": "ESE 6150",
+    "coursedescription": "This hands-on, lab-centered course is for senior undergraduates and graduate students interested in the fields of artificial perception, motion planning, control theory, and applied machine learning. It is also for students interested in the burgeoning field of autonomous driving. This course introduces the students to the hardware, software and algorithms involved in building and racing an autonomous race car. Every week, students take two lectures and complete an extensive hands-on lab. By Week 6, the students will have built, programmed and driven a 1/10th scale autonomous race car. By Week 10, the students will have learned fundamental principles in perception, planning and control and will race using map-based approaches. In the last 6 weeks, they develop and implement advanced racing strategies, computer vision and machine learning algorithms that will give their team the edge in the race that concludes the course. Prerequisites: C++ and Python programming, Matrix algebra, Differential equations, Signals and Systems Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This hands-on, lab-centered course is for senior undergraduates and graduate students interested in the fields of artificial perception, motion planning, control theory, and applied machine learning.",
+        "It is also for students interested in the burgeoning field of autonomous driving."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 6170 Non-Linear Control Theory",
+    "courseid": "ESE 6170",
+    "coursedescription": "The course provides a basic understanding of nonlinear systems phenomena and studies analysis and control design problems of nonlinear systems. The main analysis tools that will be presented are Lyapunov theory for stability, including the well known LaSalle's invariance principle, and barrier function theory for safety of both autonomous and non-autonomous systems. Further topics include input-output stability, passivity, and the center manifold theorem. The main control tools that will be presented are feedback linearization, backstepping, as well as recent results on learning control Lyapunov and control barrier functions from data. Examples will be taken from mechanical and robotic systems. Not Offered Every Year Also Offered As: MEAM 6130 Prerequisite: ESE 5000 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6180 Learning for Dynamics and Control",
+    "courseid": "ESE 6180",
+    "coursedescription": "This course will provide students an introduction to the emerging area at the intersection of machine learning, dynamics, and control. We will investigate machine learning and data-driven algorithms that interact with the physical world, with an emphasis on a holistic understanding of the interplay between concepts from control theory (e.g., feedback, stability, robustness) and machine learning (e.g., generalization, sample-complexity). Topics of study will include learning models of dynamical systems, using these models to robustly meet performance objectives, optimally refining models to improve performance, and verifying the safety of machine learning enabled control systems. The course will also expose students to the ethical considerations that need to be considered when designing learning algorithms that interact with and are placed in feedback with the world. The course will consist of lectures, and students will be evaluated based on traditional and programming assignments, as well as a final project. Not Offered Every Year Prerequisite: ESE 5000 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6190 Model Predictive Control",
+    "courseid": "ESE 6190",
+    "coursedescription": "Increased system complexity and more demanding performance requirements have rendered traditional control laws inadequate regardless if simple PID loops are considered or robust feedback controllers designed according to some H2/infinity criterion. Applications ranging from the process industries to the automotive and the communications sector are making increased use of Model Predictive Control (MPC) where a fixed control law is replaced by on-line optimization performed over a receding horizon. The advantage is that MPC can deal with almost any time-varying process and specifications, limited only by the availability of real-time computer power. In the last few years we have seen tremendous progress in this interdisciplinary area where fundamentals of systems theory, computation and optimization interact. For example, methods have emerged to handle hybrid systems, i.e. systems comprising both continuous and discrete components. Also, it is now possible to perform most of the computations off-line thus reducing the control law to a simple look-up table. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6210 Nanoelectronics",
+    "courseid": "ESE 6210",
+    "coursedescription": "This is a graduate level course on fundamental operating principles and physics of semiconductor devices in reduced or highly scaled dimensions. The course will include topics and concepts covering basic quantum mechanics and solid state physics of nanostructures as well as device transport and characterization, materials and fabrication. A basic knowledge of semiconductor physics and devices is assumed. The course will build upon basic quantum mechanics and solid state physics concepts to understand the operation of nanoscale semiconductor devices and physics of electrons in confined dimensions . The course will also provide a historical perspective on micro and nanoelectronics, discuss the future of semiconductor computing technologies, cutting edge research in nanomaterials, device fabrication as well as provide a perspective on materials and technology challenges. Prerequisite: If course requirement not met, permission of instructor required. Not Offered Every Year Prerequisite: ESE 5210 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 6250 Nanorobotics",
+    "courseid": "ESE 6250",
+    "coursedescription": "Nanorobotics is a field at the forefront of nano-science and engineering that seeks to create synthetic systems that sense and respond to their environment at dimensions comparable to biological microorganisms. This course explores the topic of small machines: What materials should we use to make these devices? How should they be powered or locomote? What capacities can they have for memory or information processing? How can they be made to interface safely with biological systems? This course covers the major frameworks for building small machines, including self-assembled systems (DNA nanotechnology, biohacking) and those fabricated by top-down lithography (self-folding systems, synthetic micro-swimmers, smart-dust). Particular emphasis is given to exploring physical principles that can be used to analyze the strengths and limitations of current robot designs at the micro and nanoscale. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6350 Distributed Systems",
+    "courseid": "ESE 6350",
+    "coursedescription": "This research seminar deals with tools, methods, and algorithms for analysis and design of distributed dynamical systems. These are large collections of dynamical systems that are spatially interconnected to form a collective task or achieve a global behavior using local interactions. Over the past decade such systems have been studied in disciplines as diverse as statistical physics, computer graphics, robotics, and control theory. The purpose of this course is to build a mathematical foundation for study of such systems by exploring the interplay of control theory, distributed optimization, dynamical systems, graph theory, and algebraic topology. Assignments will consist of reading and researching the recent literature in this area. Topics covered in distributed coordination and consensus algorithms over networks, coverage problems, effects of delay in large scale networks. Power law graphs, gossip and consensus algorithms, synchronization phenomena in natural and engineered systems, etc. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6450 Deep Generative Models",
+    "courseid": "ESE 6450",
+    "coursedescription": "Generative models have found widespread applications in science and engineering. Recent progress in deep learning has enabled the application of generative models to complex high-dimensional data such as images, videos, text and speech. This course will cover state-of-the-art deep generative models, including variational autoencoders (VAEs), auto-regressive models, diffusion models, and generative adversarial networks (GANs). The course will also illustrate various applications of deep generative models to image and video generation, text and speech generation, image captioning, text-to-image generation, and inverse problems. Fall Prerequisite: ESE 4020 OR ESE 5420 OR CIS 5200 OR CIS 5190 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 4020",
+      "ESE 5420",
+      "CIS 5200",
+      "CIS 5190"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6500 Learning in Robotics",
+    "courseid": "ESE 6500",
+    "coursedescription": "This course will cover the mathematical fundamentals and applications of machine learning algorithms to mobile robotics. Possible topics that will be discussed include probalistic generative models for sensory feature learning. Bayesian filtering for localization and mapping, dimensionality reduction techniques for motor control, and reinforcement learning of behaviors. Students are expected to have a solid mathematical background in machine learning and signal processing, and will be expected to implement algorithms on a mobile robot platform for their course projects. Grading will be based upon course project assignments as well as class participation. Students will need permission from the instructor. They will be expected to have a good mathematical background with knowledge of machine learning techniques at the level of CIS 5200 , signal processing techniques at the level of ESE 5310 , as well as have some robotics experience. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will need permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 6510 Physical Intelligence: Science and Systems",
+    "courseid": "ESE 6510",
+    "coursedescription": "This course provides an in-depth exploration of advanced topics in robot learning, an area of artificial intelligence that focuses on the agentic aspects of real-world decision making. Students will learn what are the challenges in applying foundational concepts in imitation and reinforcement learning, including policy optimization, value-based methods, model-based RL, and exploration-exploitation trade-offs, when applied to real robots. In the final part of the course, we will cover recent advancements in the field, with a particular focus on learning from high-dimensional sensory observations, e.g., vision, sound, or touch. Alongside a theoretical understanding of the foundations, students will gain experience with practical implementations of robot learning algorithms via assignments and a final project. Recommended prerequisite: ESE 6500 Fall Prerequisite: CIS 5200 AND ESE 5460 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 6500",
+      "CIS 5200",
+      "ESE 5460"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended prerequisite: ESE 6500 Fall Prerequisite: CIS 5200 AND ESE 5460 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 6650 Datacenter Architecture",
+    "courseid": "ESE 6650",
+    "coursedescription": "This course covers advanced topics in data centers with an emphasis on computer architecture and systems. This course surveys recent advances in processor, memory, network, and storage. And it surveys modern software systems in computing clouds. Discussion-oriented classes focus on in-depth analysis of readings. Students will learn to reason about datacenter performance and energy efficiency. Students will complete a collaborative research project. Final project and paper required. Appropriate for graduate and advanced undergraduate students. After completing this course, students should be able to • Understand design, management of datacenter architectures and system software. • Read architecture and systems papers critically. • Write constructive paper reviews • Identify open research problems in datacenter architecture • Design and execute a research project to address an open research problem There are no required prerequisites, but coursework that includes one or more of the following courses is strongly recommended: ESE 4070 / ESE 5070 , ESE 5190 , ESE 5320 , ESE 5390 , CIS 3800, CIS 4550 / CIS 5550 , or CIS 4710 / CIS 5710 . Fall or Spring 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 4070",
+      "ESE 5070",
+      "ESE 5190",
+      "ESE 5320",
+      "ESE 5390",
+      "CIS 3800",
+      "CIS 4550",
+      "CIS 5550",
+      "CIS 4710",
+      "CIS 5710",
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "• Write constructive paper reviews • Identify open research problems in datacenter architecture • Design and execute a research project to address an open research problem There are no required prerequisites, but coursework that includes one or more of the following courses is strongly recommended: ESE 4070 / ESE 5070 , ESE 5190 , ESE 5320 , ESE 5390 , CIS 3800, CIS 4550 / CIS 5550 , or CIS 4710 / CIS 5710 ."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 6680 Mixed Signal Circuit Design and Modeling",
+    "courseid": "ESE 6680",
+    "coursedescription": "This course will introduce design and analysis of mixed-signal integrated circuits. Topics include: Sampling and quantization, Sampling circuits, Switched capacitor circuits and filters, Comparators, Offset compensation, DACs/ADCs (flash, delta-sigma, pipeline, SAR), Oversampling, INL/DNL, FOM. The course will end with a final design project using analysis and design techniques learned in the course. Students must provide a written report with explanations to their design choices either with equations or simulation analysis/insight along with performance results. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6710 High Frequency Power Electronics",
+    "courseid": "ESE 6710",
+    "coursedescription": "Miniaturization remains a challenge in power electronic systems for energy applications, whose overall goal is to increase energy efficiency and reduce waste. In this course, we will study the design of resonant converters that can operate at higher frequencies than their hard-switched counterparts and achieve higher control bandwidth and power density. We will explore practical design issues and trade-offs in selecting converter topologies in high-performance applications. We will also discuss the design and modeling of high-frequency magnetic elements, gate drives, and resonant snubbers. Students should have taken a power electronics class like ESE 5800 or equivalent. Fall Prerequisite: ESE 5800 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5800"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6720 Integrated Communication Systems",
+    "courseid": "ESE 6720",
+    "coursedescription": "This is an advanced radio frequency (RF) circuit design course that includes analysis and design of high-frequency and high-speed integrated communication circuits at both transistor and system levels. Students gradually design and simulate different blocks of an RF receiver and combine these blocks to form the receiver as their final project. We assume some background knowledge of device physics, electromagnetics, circuit theory, control theory, and stochastic processes. Not Offered Every Year Prerequisite: ESE 4190 OR ESE 5720 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 4190",
+      "ESE 5720"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6730 Integrated Photonic Systems",
+    "courseid": "ESE 6730",
+    "coursedescription": "Analysis and design of photonic integrated systems at both device and system levels including architectures, photonic integrated circuit technologies, passive components (nano-waveguides, resonators, couplers, and Y-junctions) and active components (lasers, modulators, and photodiodes) are studied. The emphasis is on silicon photonics. Prerequisite: If course requirement not met, permission of instructor required. Not Offered Every Year Prerequisite: ESE 5100 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 6740 Information Theory",
+    "courseid": "ESE 6740",
+    "coursedescription": "Deterministic and probabilistic information. The pigeon-hole principle. Entropy, relative entropy, and mutual information. Random processes and entropy rate. The asymptotic equipartition property. Optimal codes and data compression. Channel capacity. Source channel coding. The ubiquitous nature of the theory will be illustrated with a selection of applications drawn from among: universal source coding, vector quantization, network communication, the stock market, hypothesis testing, algorithmic computation and kolmogorov complexity, and thermodynamics. Not Offered Every Year Prerequisite: ESE 5300 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6760 Coding Theory",
+    "courseid": "ESE 6760",
+    "coursedescription": "Coding theory for telecommunications with emphasis on the algebraic theory of cyclic codes using finite field arithmetic, decoding of BCH and Reed-Solomon codes, finite field Fourier transform and algebraic geometry codes, convolutional codes and trellis decoding algorithms, graph based codes, Berrou codes and Gallager codes, turbo decoding, iterative decoding. And belief propagation. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 6800 Special Topics in Electrical and Systems Engineering",
+    "courseid": "ESE 6800",
+    "coursedescription": "Advanced and specialized topics in both theory and application areas. Students should check Graduate Group office for offerings during each registration period. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ESE 8950 Teaching Practicum",
+    "courseid": "ESE 8950",
+    "coursedescription": "Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "Participation of graduate students in the teaching mission of the department will help to develop teaching, presentation, leadership, and interpersonal skills while assisting the department in discharging its teaching responsibilities. All doctoral students are required to participate under faculty guidance in the teaching mission of the department. This requirement will be satisfied by completing two 0.5 course units of teaching practicum (ESE 895). Each 0.5 course unit of teaching practicum will consist of the equivalent of 10 hours of effort per week for one semester. As a part of the preparation for and fulfillment of the teaching practicum requirement, the student will attend seminars emphasizing teaching and communication skills, lead recitations, lead tutorials, supervise laborato experiments, develop instructional laboratories, develop instructional materiaand grade homeworks, laboratory reports, and exams. A teacher training seminar will be conducted the day before the first day of classes of the Fall semester. Attendance is mandatory for all second-year students. As much as possible, the grading aspect of the teaching practicum course will be such as not to exceed 50% of the usual teaching assistant commitment time. Some of the recitations will b supervised and feedback and comments will be provided to the student by the faresponsible for the course. At the completion of every 0.5 course unit of teach, the student will receive a Satisfactory/Unsatisfactory grade and a written evsigned by the faculty member responsible for the course. The evaluation will beon comments of the students taking the course and the impressions of the facult"
+    }
+  },
+  {
+    "coursename": "ESE 8990 Independent Study: Special Research",
+    "courseid": "ESE 8990",
+    "coursedescription": "For students who are studying a specific advanced subject area in electrical engineering. Students must submit a proposal outlining and detailing the study area, along with the faculty supervisor's consent, to the graduate group chair for approval. A maximum of 1 c.u. of ESE 8990 may be applied toward the MSE degree requirements. A maximum of 2 c.u.'s of ESE 8990 may be applied toward the Ph.D. degree requirements. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-4 Course Units",
+      "notes": [
+        "Students must submit a proposal outlining and detailing the study area, along with the faculty supervisor's consent, to the graduate group chair for approval."
+      ]
+    }
+  },
+  {
+    "coursename": "ESE 9000 Dissertation Committee",
+    "courseid": "ESE 9000",
+    "coursedescription": "For students working on an advanced research program leading to the completion of Ph.D. dissertation requirements. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "ESE 9950 Dissertation",
+    "courseid": "ESE 9950",
+    "coursedescription": "Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "Register for this after completing four years of full-time study including two course units each Summer Session (and usually equal to 40 course units). 0 Course Units"
+    }
+  },
+  {
+    "coursename": "ESE 9990 Master's Thesis",
+    "courseid": "ESE 9990",
+    "coursedescription": "For students working on an advanced research program leading to the completion of master's thesis. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1,2 Course Units"
+    }
+  },
+  {
+    "coursename": "ESE 9999 Independent Study Research",
+    "courseid": "ESE 9999",
+    "coursedescription": "For Electrical and Systems Engineering doctoral students studying a specific advanced subject area. Students should discuss with the faculty supervisor the scope of the independent study/research and know the expectations and work involved. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-3 Course Units"
+    }
+  }
+]

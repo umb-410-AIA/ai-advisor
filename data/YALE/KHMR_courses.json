@@ -1,0 +1,58 @@
+[
+  {
+    "coursename": "* KHMR 1100a, Elementary Khmer I Staff",
+    "courseid": "KHMR 1100a",
+    "coursedescription": "Basic structures of modern standard Cambodian introduced through the integration of communicative practice, reading, writing, and listening comprehension. Introduction to Khmer society and culture. Course taught through distance learning using videoconferencing technology from Cornell University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* KHMR 1200b, Elementary Khmer II Staff",
+    "courseid": "KHMR 1200b",
+    "coursedescription": "Basic structures of modern standard Cambodian introduced through the integration of communicative practice, reading, writing, and listening comprehension. Introduction to Khmer society and culture. Prerequisite: KHMR 110. Course taught through distance learning using videoconferencing technology from Cornell University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L2 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "KHMR 110",
+      "L2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "KHMR 1300a, Intermediate Khmer I Staff",
+    "courseid": "KHMR 1300a",
+    "coursedescription": "This course focuses on learning Khmer (the national language of Cambodia). Students communicate in day-to-day conversation using complex questions and answers. The course focuses on reading, writing, speaking, and listening to Khmer words, long sentences, and texts. The course also emphasizes grammar, sentence structure and using words correctly. Course taught through distance learning using videoconferencing technology from Cornell University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. Prerequisite: KHMR 120 or equivalent. L3 RP 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "KHMR 120",
+      "L3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "KHMR 1400b, Intermediate Khmer II Staff",
+    "courseid": "KHMR 1400b",
+    "coursedescription": "This course focuses on learning Khmer (the national language of Cambodia). Students communicate in every day conversation using complex questions/answers. The course focuses on reading, writing, speaking, and listening to Khmer words, long sentences, and texts. The course also emphasizes grammar, sentence structure and using words correctly. Course taught through distance learning using videoconferencing technology from Cornell University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. Prerequisite: KHMR 1300or equivalent. L4 RP 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "L4"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  }
+]

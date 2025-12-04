@@ -1,0 +1,137 @@
+[
+  {
+    "coursename": "ASLD 0100 American Sign Language I",
+    "courseid": "ASLD 0100",
+    "coursedescription": "Introduction to American Sign Language ( ASL ). Introduces ASL in a contextualized and conversational manner. Course includes receptive and expressive readiness activities, sign vocabulary and grammar, and an introduction to important topics and people within Deaf communities and Deaf culture. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASLD 0200 American Sign Language II",
+    "courseid": "ASLD 0200",
+    "coursedescription": "Increased communication skill in American Sign Language (ASL). Expressive and receptive abilities are expanded upon via a contextualized and conversational manner Important topics to Deaf communities and Deaf culture are continued within online and in-class discussion. Fall or Spring Prerequisite: ASLD 0100 1 Course Unit",
+    "course-prerequsities": [
+      "ASLD 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASLD 0300 American Sign Language III",
+    "courseid": "ASLD 0300",
+    "coursedescription": "American Sign Language (ASL) at the Intermediate I level. Expressive and receptive abilities are expanded upon via a contextualized and conversational manner, including, but not limited to, narrative production. Important topics to Deaf communities and Deaf culture are continued within online and in-class discussion. Fall or Spring Prerequisite: ASLD 0200 1 Course Unit",
+    "course-prerequsities": [
+      "ASLD 0200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Expressive and receptive abilities are expanded upon via a contextualized and conversational manner, including, but not limited to, narrative production."
+      ]
+    }
+  },
+  {
+    "coursename": "ASLD 0340 American Sign Language III/IV",
+    "courseid": "ASLD 0340",
+    "coursedescription": "Expanded instruction of American Sign Language (ASL) on the Intermediate I and II levels. Includes receptive and expressive readiness activities, sign vocabulary and grammar growth, fingerspelling practice and narrative skills. Topics on Deaf cultural are also included in the course readings and discussions. Increases the emphasis on more abstract and challenging conversational and narrative range. Not Offered Every Year Prerequisite: ASLD 0200",
+    "course-prerequsities": [
+      "ASLD 0200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "ASLD 0400 American Sign Language IV",
+    "courseid": "ASLD 0400",
+    "coursedescription": "American Sign Language (ASL) at the Intermediate II level. Expressive and receptive abilities are expanded upon via a contextualized and conversational manner, including, but not limited to, narrative production. Important topics to Deaf communities and Deaf culture are continued within online and in-class discussion. Fall or Spring Prerequisite: ASLD 0300 1 Course Unit",
+    "course-prerequsities": [
+      "ASLD 0300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Expressive and receptive abilities are expanded upon via a contextualized and conversational manner, including, but not limited to, narrative production."
+      ]
+    }
+  },
+  {
+    "coursename": "ASLD 1030 Advanced ASL and Deaf History",
+    "courseid": "ASLD 1030",
+    "coursedescription": "This is an advanced ASL course in which students expand their conversational and narrative range. While receptive readiness activities continue to be an important part of the class, the emphasis moves toward honing expressive sign skills through narrative presentation and ASL-only class discussions. The first half of the course centers on fact-sharing strategies and describing cultural norms while the second half focuses on American Deaf history and the forces that shape its culture. Topics covered in the second half of the course use textual readings, films, class lectures and discussions, and other outside resources to understand the past, present, and possible future trajectories of American Deaf people. Fall, odd numbered years only Prerequisite: ASLD 0400 1 Course Unit",
+    "course-prerequsities": [
+      "ASLD 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASLD 1031 Deaf Literature, Performance, Art, and Film",
+    "courseid": "ASLD 1031",
+    "coursedescription": "This course is an advanced/conversational ASL course that explores several key topics related to Deaf culture and the Deaf experience s influence on literature (both written and signed), theatre, fine and visual arts, and film -both Deaf and hearing directed and acted. Using only ASL in class, students learn about various perspectives and approaches to each of the themes and topics of the course. Some questions to explore and answer in this course will be: What is Deaf Literature? The Deaf Lens: What is it? How is it different from a hearing perspective on film? How is Deafness expressed differently in each of the arts discussed in this course? Analysis and discussion will come from readings as well as viewings of various types of Deaf arts. Spring Prerequisite: ASLD 0400 1 Course Unit",
+    "course-prerequsities": [
+      "ASLD 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASLD 1032 Deaf Culture",
+    "courseid": "ASLD 1032",
+    "coursedescription": "This course is an advanced/conversational ASL course that explores several key topics related to Deaf Culture. Using only ASL in class, students will read and discuss books, articles, and films related to the following topics: What is Deaf Culture?; The History of the Deaf American; Deaf Identit(ies); Communication Debates and Language Deprivation; Technology and Deaf Culture; Deaf Art; Deaf-Space; and Deaf Families, Deaf-Hearing Families. Ultimately, students will work collaboratively on a final project that benefits local Deaf community members. Completion of at least the fourth semester of ASL (or the equivalent ASL experience with permission from the instructor) is required to take this course. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Completion of at least the fourth semester of ASL (or the equivalent ASL experience with permission from the instructor) is required to take this course."
+      ]
+    }
+  },
+  {
+    "coursename": "ASLD 1033 ASL/Deaf Studies - ABCS",
+    "courseid": "ASLD 1033",
+    "coursedescription": "This Academically Based Community Service course is intended to be the final course in the ASL/Deaf Studies course sequence. Students will work with a Deaf community partner to learn about the organization and work on a mutually agreed on research project. Students will also have course meetings on a weekly basis with discussions and activities centering on reflection of community experiences through linguistic as well as cultural lenses. Ongoing reflections and discussions—formal and informal—on Deaf cultural/theoretical topics drawing from readings as well as community experiences will be integral to the course experience. Fall Prerequisite: ASLD 1032 1 Course Unit",
+    "course-prerequsities": [
+      "ASLD 1032"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASLD 1039 Disability Rights and Oppression: Experiences within Global Deaf Communities",
+    "courseid": "ASLD 1039",
+    "coursedescription": "This course explores the linguistic and social statuses of global Deaf communities as a framework for understanding the Italian Deaf community’s quest for national recognition of their sign language (LIS) and their continued efforts toward parity with hearing people. Topics to be explored include the following: an overview of the cultural model of being deaf; the social and historical underpinnings of deaf people’s oppression and marginalization by hearing people; social construction of deafness as disability and Deaf-as-asset (Deaf-Gain); sign language as a human right; and language policy and practice as it relates to deaf people’s access to or restriction from learning a sign language as a first language. We will use first-hand accounts via text and film to elucidate a variety of global deaf perspectives. Travel to Italy will bring the theoretical topics discussed in the semester to life via the following experiential activities: academic and social interactions with Italian Deaf community members; visits to sites important to Italian Deaf people and their history; intensive beginner LIS instruction to facilitate direct conversation with Italian Deaf community members. No previous sign language experience is required to take this course. This course is a Penn Global Seminar, which includes a travel component. An application is required. For more information and to apply, visit: https://global.upenn.edu/pennabroad/pgs. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics to be explored include the following: an overview of the cultural model of being deaf; the social and historical underpinnings of deaf people’s oppression and marginalization by hearing people; social construction of deafness as disability and Deaf-as-asset (Deaf-Gain); sign language as a human right; and language policy and practice as it relates to deaf people’s access to or restriction from learning a sign language as a first language."
+      ]
+    }
+  },
+  {
+    "coursename": "ASLD 2047 Structure of American Sign Language",
+    "courseid": "ASLD 2047",
+    "coursedescription": "This course covers the linguistic structure of American Sign Language (ASL), including its phonology (articulatory features, phonological constraints, nonmanuals), morphology (morphological constraints, compounds, incorporation, borrowing), and syntax (syntactic categories, basic phrase structure, common sentence types), Also discussed are the topics of classifiers and deixis. In keeping with the comparative perspective of linguistic theory, parallels and differences between ASL and other (primarily spoken) languages are pointed out where appropriate. Historical and sociolinguistic issues are addressed where they are relevant to elucidating linguistic structure. Though the course focuses on ASL, it necessarily touches on issues concerning sign languages more generally, notably the possible effects of modality (sign vs. speech) on linguistic structure and the implications of the signed modality for general linguistics. Although the course does not presuppose knowledge of ASL, it does require acquaintance with basic concepts of linguistics. Not Offered Every Year Also Offered As: LING 2047 Prerequisite: LING 0001 1 Course Unit",
+    "course-prerequsities": [
+      "LING 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASLD 5999 Independent study in ASL/Studies for Special Purposes",
+    "courseid": "ASLD 5999",
+    "coursedescription": "This independent study is designed for students pursuing a practical inquiry into ASL/Deaf Studies. Prior consultation with and permission from the department is required. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Prior consultation with and permission from the department is required."
+      ]
+    }
+  }
+]

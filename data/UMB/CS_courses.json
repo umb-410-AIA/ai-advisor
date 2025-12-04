@@ -522,5 +522,79 @@
     "course-prerequsities": [],
     "course-corequisites": [],
     "other": null
+  },
+  {
+    "coursename": "Cognitive and Affective Foundations",
+    "courseid": "CSP641",
+    "coursedescription": "This graduate course is designed to introduce you to human cognitive and affective processes. topics cross the lifespan and include contemporary issues in cognitive psychology and cognitive neuroscience, including vision, attention, memory, language, emotions, social cognition, and cognitive development. These topics will be explored within the context of neuroscientific and developmental aspects of these fields. This course also surveys affective aspects of psychological science and how basic psychological science is related to applied research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Physiological Bases of Behavior",
+    "courseid": "CSP660",
+    "coursedescription": "This course will give graduate students foundational knowledge of the biological bases of human behavior. Course content covers systems and structures of the nervous system, neuronal communication, genetics, hormonal, and environmental influences on the brain and nervous system. The course includes exploration of physiological processes such as perception, memory, language, and emotion. Activities designed to increase understanding of neurodevelopment, problems that cause pathology, and interventions are included.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research in Counseling and School Psychology",
+    "courseid": "CSP703",
+    "coursedescription": "This course involves participation in a research team with a core faculty member within either the Counseling or School Psychology track of the CSP doctoral program. The specific area of research will vary and be specific to each faculty member's team.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Statistics in CSP",
+    "courseid": "CSP708",
+    "coursedescription": "This course instructs students in intermediate data analysis techniques in their application to psychological research. The course emphasizes modern statistical methods for social and behavioral sciences, including hypothesis testing, as well as one-way, factorial, and repeated measures analysis of variance, simple analysis of covariance, and advanced correlational methods, bivariate regression and an introduction to multiple regression, selected nonparametric methods, and introduction to multivariate analysis of variance. Students will learn how to perform these procedures using a SPSS statistical software package.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Statistics in Counseling and School Psychology",
+    "courseid": "CSP770",
+    "coursedescription": "This course is designed for students who have had a previous course covering up to simple ANOVA and multiple regression. Students will learn to conduct further variations of the GLM including two-way and higher ANOVAs, analysis of covariance (ANCOVA), multivariate analysis of variance (MANOVA), advanced multiple regression models, and exploratory and confirmatory factor analysis. Students will also be introduced to structural equation modeling (SEM), hierarchical linear modeling/multilevel modeling (HLM/MLM), and generalized linear models, although deeper understanding of these models will be outside the scope of this course. The course will be hands-on, meaning that students will be required to conduct the above analyses using appropriate statistical software.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum in Counseling Psychology II: Evidence-Based Practice",
+    "courseid": "CSP784",
+    "coursedescription": "Counseling psychology doctoral training includes systematic, intensive supervised experiences in the application of psychological principles and skills to human problems. Practica are intended to provide the psychologist-in-training experiences with a diversity of client populations and prepare the learner for the predoctoral internship. This supervised clinical experience will include exploration of theoretical perspectives, a scientific approach to clinical work, treatment planning, and case conceptualization. Students will also explore their own clinical work with clients and the therapy process. It is designed to be taken congruently with a field placement in counseling psychology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum in School Psychology II: Evidence-Based Practice",
+    "courseid": "CSP786",
+    "coursedescription": "The purpose of this course is to provide doctoral students in school psychology a field-based school psychology practicum experience. Activities will focus on individual and systemic factors as well as policies and practices while engaging in the implementation of prevention, assessment, consultation, and intervention activities. Each student is matched with a licensed or certified school psychologist two days per week in order to apply the skills in an urban setting with students of diverse backgrounds. Formal and informal needs assessments will also be a continuous aspect of this practicum with services determined by the needs identified by the field site.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Practicum III in Counseling and School Psychology",
+    "courseid": "CSP787",
+    "coursedescription": "This course focuses on the application of theory-guided and evidence-based advanced counseling and school psychology practice to complement field experience. Critical analysis of qualitative and quantitative research methods and design, and strategies to improve dissemination and application of counseling and school psychology research findings, as well as efforts toward systems and policy change, and social justice, are emphasized.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Research",
+    "courseid": "CSP899",
+    "coursedescription": "This course centers on original research conducted under the supervision of a dissertation faculty advisor and the dissertation committee, and leads to the proposal and defense of a doctoral dissertation.",
+    "course-prerequsities": [
+      "CSP 891"
+    ],
+    "course-corequisites": [],
+    "other": null
   }
 ]

@@ -1,0 +1,737 @@
+[
+  {
+    "coursename": "EDHE 5010 Introduction to Doctoral Studies",
+    "courseid": "EDHE 5010",
+    "coursedescription": "Introduction to Doctoral Studies provides an introduction and orientation to the Executive Doctorate in Higher Education Management. This course highlights resources, strategies, and expectations for earning the Doctor of Education degree at Penn through GSE's Executive Doctorate program. Discussions center on students' background and goals, program curriculum and milestones, library resources and academic writing. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5020 Contemporary Issues",
+    "courseid": "EDHE 5020",
+    "coursedescription": "By introducing the key issues confronting (primarily American) higher education, this course will encourage students to develop the capacity to identify, summarize and critique arguments and perspectives on these issues. Students will think concretely about the key research questions that need to be asked and answered to move these issues forward, and will begin to develop an appreciation for the kinds of data that are available to describe and analyze these issues. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Summer Term 1 Course Unit",
+    "course-prerequsities": [
+      "TERM 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5030 Why History Matters",
+    "courseid": "EDHE 5030",
+    "coursedescription": "How an institution remembers its history, what use it makes of its important historical moments, and how the interpretation of those events divide or coalesce an institutions stakeholders shape our understanding of the past and, often quite powerfully, shape the present. The task in Why History Matters is to use contemporary writing and original documents to sort through historical events as historians understand them and simultaneously to ask how those events shape our current views of higher education. The module argues that historical moments are rarely simply events that once happened. They matter because interpretations of the events - some of which occurred over long periods of time- are both controversial and become part of the institutional culture at an institution. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5040 Proseminar I",
+    "courseid": "EDHE 5040",
+    "coursedescription": "The purpose of Proseminar is to introduce students to the fundamentals of doctoral study: how to read scholarly materials critically, how to systematically review literature relevant to an area of inquiry, and how to formulate a focused research question (or set of interrelated questions). This course will help students conceptualize their research projects for their dissertations and assist them in formulating rough drafts of dissertation proposals. During monthly meetings, students spend much of their time developing literature reviews on their topics of interest and preparing for their dissertation proposal hearings. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "During monthly meetings, students spend much of their time developing literature reviews on their topics of interest and preparing for their dissertation proposal hearings."
+      ]
+    }
+  },
+  {
+    "coursename": "EDHE 5050 Proseminar II",
+    "courseid": "EDHE 5050",
+    "coursedescription": "This module builds upon Proseminar I and continues to explore the fundamentals of doctoral study: how to read scholarly materials critically, how to systematically review literature relevant to an area of inquiry, and how to formulate a focused research question (or set of interrelated questions). This course will help students conceptualize their research projects for their dissertations and assist them in formulating rough drafts of dissertation proposals. During monthly meetings, students spend much of their time developing literature reviews on their topics of interest and preparing for their dissertation proposal hearings. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.67 Course Units",
+      "notes": [
+        "During monthly meetings, students spend much of their time developing literature reviews on their topics of interest and preparing for their dissertation proposal hearings."
+      ]
+    }
+  },
+  {
+    "coursename": "EDHE 5060 Strategic Management Research I",
+    "courseid": "EDHE 5060",
+    "coursedescription": "Through exploring key issues related to strategic management, students will come to an understanding of the types of possible research questions that might be pursued to enhance decision-making. This module will cover a set of topics at the heart of strategic management including management, governance, leadership, and strategic planning while maintaining focus on how the changing context of higher education influences these topics. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5070 Quantitative Methods I",
+    "courseid": "EDHE 5070",
+    "coursedescription": "This course provides an overview of basic quantitative methods applicable to applied research in higher education. Students will develop the ability to recognize good data and good evidence, including the distinctions between data and evidence within the context of institutional decision- making. The course includes attention to basic approaches to quantitative research, methods of collecting and analyzing data, and usefulness of data and analyses for decision-making, and will draw on the real problems students in the class are facing in their current jobs. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5070A Quantitative Methods",
+    "courseid": "EDHE 5070A",
+    "coursedescription": "This course provides an overview of basic quantitative methods applicable to applied research in higher education. Students will develop the ability to recognize good data and good evidence, including the distinctions between data and evidence within the context of institutional decision- making. The course includes attention to basic approaches to quantitative research, methods of collecting and analyzing data, and usefulness of data and analyses for decision-making, and will draw on the real problems students in the class are facing in their current jobs. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall 0-1 Course Unit",
+    "course-prerequsities": [
+      "FALL 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5070B Quantitative Methods",
+    "courseid": "EDHE 5070B",
+    "coursedescription": "This course provides an overview of basic quantitative methods applicable to applied research in higher education. Students will develop the ability to recognize good data and good evidence, including the distinctions between data and evidence within the context of institutional decision- making. The course includes attention to basic approaches to quantitative research, methods of collecting and analyzing data, and usefulness of data and analyses for decision-making, and will draw on the real problems students in the class are facing in their current jobs. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring 0-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5080 Qualitative Methods I",
+    "courseid": "EDHE 5080",
+    "coursedescription": "Intended to provide a survey of the field of qualitative research, this course focuses on foundational philosophies of qualitative inquiry and develops tools needed to conduct qualitative research. The course is designed to support students in developing a critical understanding of the various stages of qualitative research including the development of researchable questions, theoretical and conceptual frameworks, methodological stances and approaches, data collection and analysis plans as well as instrument design and implementation. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.67 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5080A Qualitative Methods",
+    "courseid": "EDHE 5080A",
+    "coursedescription": "Intended to provide a survey of the field of qualitative research, this course focuses on foundational philosophies of qualitative inquiry and develops tools needed to conduct qualitative research. The course is designed to support students in developing a critical understanding of the various stages of qualitative research including the development of researchable questions, theoretical and conceptual frameworks, methodological stances and approaches, data collection and analysis plans as well as instrument design and implementation. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall 0-1 Course Unit",
+    "course-prerequsities": [
+      "FALL 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5080B Qualitative Methods",
+    "courseid": "EDHE 5080B",
+    "coursedescription": "Intended to provide a survey of the field of qualitative research, this course focuses on foundational philosophies of qualitative inquiry and develops tools needed to conduct qualitative research. The course is designed to support students in developing a critical understanding of the various stages of qualitative research including the development of researchable questions, theoretical and conceptual frameworks, methodological stances and approaches, data collection and analysis plans as well as instrument design and implementation. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring 0-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5090 Public Policy",
+    "courseid": "EDHE 5090",
+    "coursedescription": "This module is designed to help students embrace a better understanding of the broad economic/political pressures facing colleges/universities today, the role of the state and federal governments and how these roles have changed over time, the public institutional tradeoffs related changing policy environments at the state/federal level, and the political context of higher education and emerging issues related to public accountability. Through coursework, students examining one or more states in-depth, in terms of demographic, economic, and policy contexts as it relates to higher education. Course meets in Boulder, CO. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5090A Public Policy",
+    "courseid": "EDHE 5090A",
+    "coursedescription": "This module is designed to help students embrace a better understanding of the broad economic/political pressures facing colleges/universities today, the role of the state and federal governments and how these roles have changed over time, the public institutional tradeoffs related changing policy environments at the state/federal level, and the political context of higher education and emerging issues related to public accountability. Through coursework, students examining one or more states in-depth, in terms of demographic, economic, and policy contexts as it relates to higher education. Course meets in Boulder, CO. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.34 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5090B Public Policy",
+    "courseid": "EDHE 5090B",
+    "coursedescription": "This module is designed to help students embrace a better understanding of the broad economic/political pressures facing colleges/universities today, the role of the state and federal governments and how these roles have changed over time, the public institutional tradeoffs related changing policy environments at the state/federal level, and the political context of higher education and emerging issues related to public accountability. Through coursework, students examining one or more states in-depth, in terms of demographic, economic, and policy contexts as it relates to higher education. Course meets in Boulder, CO. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5090C Public Policy",
+    "courseid": "EDHE 5090C",
+    "coursedescription": "This module is designed to help students embrace a better understanding of the broad economic/political pressures facing colleges/universities today, the role of the state and federal governments and how these roles have changed over time, the public institutional tradeoffs related changing policy environments at the state/federal level, and the political context of higher education and emerging issues related to public accountability. Through coursework, students examining one or more states in-depth, in terms of demographic, economic, and policy contexts as it relates to higher education. Course meets in Boulder, CO. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5100 Leadership and Change",
+    "courseid": "EDHE 5100",
+    "coursedescription": "The module on Leadership explores how executives and senior managers in higher education can think strategically and communicate persuasively, act decisively, and build leadership and teamwork in their organizations. Students apply theory and models to real world cases, both contemporary and historical, from multiple industries. Students focus on building leadership and teamwork to anticipate challenges ahead of serving long-term organizational interests, executing decisions and policies with integrity, and identifying an mentoring those whose leadership will be needed in the future. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units",
+      "notes": [
+        "Students focus on building leadership and teamwork to anticipate challenges ahead of serving long-term organizational interests, executing decisions and policies with integrity, and identifying an mentoring those whose leadership will be needed in the future."
+      ]
+    }
+  },
+  {
+    "coursename": "EDHE 5110 Leading Small Colleges",
+    "courseid": "EDHE 5110",
+    "coursedescription": "This module focuses on strategies for the sustainability and growth of small colleges, asking what is required to improve competitive standing, particularly among top colleges. Students analyze real data from an institution to develop an action plan to address this question, with the assumptions made and questions asked to arrive at this plan carefully scrutinized during class discussion. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5120 Proseminar III",
+    "courseid": "EDHE 5120",
+    "coursedescription": "This module builds upon Proseminar II and continues to explore the fundamentals of doctoral study: how to read scholarly materials critically, how to systematically review literature relevant to an area of inquiry, and how to formulate a focused research question (or set of interrelated questions). This course will help students conceptualize their research projects for their dissertations and assist them in formulating rough drafts of dissertation proposals. During monthly meetings, students spend much of their time developing literature reviews on their topics of interest and preparing for their dissertation proposal hearings. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "During monthly meetings, students spend much of their time developing literature reviews on their topics of interest and preparing for their dissertation proposal hearings."
+      ]
+    }
+  },
+  {
+    "coursename": "EDHE 5130 Strategic Management Research II",
+    "courseid": "EDHE 5130",
+    "coursedescription": "The purpose of this module is to build on and explore additional topics presented in Strategic Management Research I. Through exploring key issues related to strategic management, students will come to an understanding of the types of possible research questions that might be pursued to enhance decision-making. This module will cover a set of topics at the heart of strategic management including management, governance, leadership, and strategic planning while maintaining focus on how the changing context of higher education influences these topics. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5140 Quantitative Methods II",
+    "courseid": "EDHE 5140",
+    "coursedescription": "The purpose of this module is to build on and explore additional topics presented in Quantitative Methods I. This course provides an overview of basic quantitative methods applicable to applied research in higher education. Students will develop the ability to recognize good data and good evidence, including the distinctions between data and evidence within the context of institutional decision- making. The course includes attention to basic approaches to quantitative research, methods of collecting and analyzing data, and usefulness of data and analyses for decision-making, and will draw on the real problems students in the class are facing in their current jobs. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.67 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5150 Qualitative Methods II",
+    "courseid": "EDHE 5150",
+    "coursedescription": "The purpose of this module is to build on and explore additional topics presented in Qualitative Methods I. Intended to provide a survey of the field of qualitative research, this course focuses on foundational philosophies of qualitative inquiry and develops tools needed to conduct qualitative research. The course is designed to support students in developing a critical understanding of the various stages of qualitative research including the development of researchable questions, theoretical and conceptual frameworks, methodological stances and approaches, data collection and analysis plans as well as instrument design and implementation. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5160 Higher Education Finance",
+    "courseid": "EDHE 5160",
+    "coursedescription": "This module focuses on strategies for the sustainability and growth of small colleges, asking what is required to improve competitive standing, particularly among top colleges. Students analyze real data from an institution to develop an action plan to address this question, with the assumptions made and questions asked to arrive at this plan carefully scrutinized during class discussion. Prerequisite: Enrollment in Executive Doctorate in Higher Education. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5160A Higher Education Finance II",
+    "courseid": "EDHE 5160A",
+    "coursedescription": "The purpose of this module is to build on and explore additional topics in higher education finance presented earlier. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5160B Higher Education Finance II",
+    "courseid": "EDHE 5160B",
+    "coursedescription": "The purpose of this module is to build on and explore additional topics in higher education finance presented earlier. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5170 Equity & Diversity",
+    "courseid": "EDHE 5170",
+    "coursedescription": "The goal for this course is to provide students with a critical understanding of issues of diversity in American higher education. The module is designed around functions of higher education and its success is dependent on open and mature conversations about sometimes difficult and sensitive issues that ultimately inform students' research and practice. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5170A Equity And Diversity",
+    "courseid": "EDHE 5170A",
+    "coursedescription": "The goal for this course is to provide students with a critical understanding of issues of diversity in American higher education. The module is designed around functions of higher education and its success is dependent on open and mature conversations about sometimes difficult and sensitive issues that ultimately inform students' research and practice. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring 0-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5170B Equity And Diversity",
+    "courseid": "EDHE 5170B",
+    "coursedescription": "The goal for this course is to provide students with a critical understanding of issues of diversity in American higher education. The module is designed around functions of higher education and its success is dependent on open and mature conversations about sometimes difficult and sensitive issues that ultimately inform students' research and practice. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring 0-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5180 Managing Intercollegiate Athletics",
+    "courseid": "EDHE 5180",
+    "coursedescription": "Students will review a number of issues that resonate in higher education such as athletic department right-sizing (dropping or adding sports), leading through a PR crisis involving athletics, and strategizing whether the investment a campus is making in athletics is appropriate. Students will also clarify their understanding of the philosophical arguments surrounding an institutions organizational and Divisional classification, the roles and responsibilities of the governing bodies, the expectations and challenges that confront todays student athletes, and the market forces that drive big time college sports. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5190 The University and its Community",
+    "courseid": "EDHE 5190",
+    "coursedescription": "This course will focus on the past, present, and likely future of university-community relationships. It will provide an overview of university-community conflict, cooperation and collaboration from the colonial college to the present. Particular emphasis will be placed on developments since the early 1990s and the birth of what might be termed the engaged, democratic, civic university responsibility movement. Various approaches to university- community partnerships in the US and abroad will be discussed. Through readings, discussion, and written assignments students will develop strategies for developing effective democratic partnerships that would positively impact the community and the university and powerfully contribute to student learning and development. Prerequisite: Enrollment in Executive Doctorate in Higher Education. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5190A University And Community",
+    "courseid": "EDHE 5190A",
+    "coursedescription": "This course will focus on the past, present, and likely future of university-community relationships. It will provide an overview of university-community conflict, cooperation and collaboration from the colonial college to the present. Particular emphasis will be placed on developments since the early 1990s and the birth of what might be termed the engaged, democratic, civic university responsibility movement. Various approaches to university- community partnerships in the US and abroad will be discussed. Through readings, discussion, and written assignments students will develop strategies for developing effective democratic partnerships that would positively impact the community and the university and powerfully contribute to student learning and development. Prerequisite: Enrollment in Executive Doctorate in Higher Education. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5190B University And Community",
+    "courseid": "EDHE 5190B",
+    "coursedescription": "This course will focus on the past, present, and likely future of university-community relationships. It will provide an overview of university-community conflict, cooperation and collaboration from the colonial college to the present. Particular emphasis will be placed on developments since the early 1990s and the birth of what might be termed the engaged, democratic, civic university responsibility movement. Various approaches to university- community partnerships in the US and abroad will be discussed. Through readings, discussion, and written assignments students will develop strategies for developing effective democratic partnerships that would positively impact the community and the university and powerfully contribute to student learning and development. Prerequisite: Enrollment in Executive Doctorate in Higher Education. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5200 Managing Human Resources",
+    "courseid": "EDHE 5200",
+    "coursedescription": "This module addresses the most important tasks in managing people, from hiring to supervising to development. Our focus is first on what research tells us about the factors that drive success in these areas and second on the practice of using those principles to enhance individual and organizational performance. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5210 Leadership, Governance, and Strategy",
+    "courseid": "EDHE 5210",
+    "coursedescription": "The purpose of this module is to explore key issues related to these topics and the types of possible research questions and methods that might be pursued to understand these topics more deeply. The content is intended to link practice and theory. The course has a strong tilt toward non-profit four-year colleges and universities in the U.S. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5210A Leadership, Governance, and Strategy",
+    "courseid": "EDHE 5210A",
+    "coursedescription": "The purpose of this module is to explore key issues related to these topics and the types of possible research questions and methods that might be pursued to understand these topics more deeply. The content is intended to link practice and theory. The course has a strong tilt toward non-profit four-year colleges and universities in the U.S. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall 0-1 Course Unit",
+    "course-prerequsities": [
+      "FALL 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5210B Leadership, Governance, and Strategy",
+    "courseid": "EDHE 5210B",
+    "coursedescription": "The purpose of this module is to explore key issues related to these topics and the types of possible research questions and methods that might be pursued to understand these topics more deeply. The content is intended to link practice and theory. The course has a strong tilt toward non-profit four-year colleges and universities in the U.S. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring 0-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5220 Higher Education Finance II",
+    "courseid": "EDHE 5220",
+    "coursedescription": "The purpose of this module is to build on and explore additional topics in higher education finance presented earlier. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5230A Globalization",
+    "courseid": "EDHE 5230A",
+    "coursedescription": "Following a field research project outside the United States, students reflect on the continuing globalization of higher education and institutional implications. By exploring current issues higher education faces outside the United States, students develop a more informed understanding of domestic challenges and how these challenges might be addressed. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5230B Globalization",
+    "courseid": "EDHE 5230B",
+    "coursedescription": "Following a field research project outside the United States, students reflect on the continuing globalization of higher education and institutional implications. By exploring current issues higher education faces outside the United States, students develop a more informed understanding of domestic challenges and how these challenges might be addressed. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5240 Innovation",
+    "courseid": "EDHE 5240",
+    "coursedescription": "Globally, higher education institutions are struggling with the effects of an increasingly digital world. This course provides an overview of how digitization impacts the economics, administration, teaching and learning, and research practices of universities and colleges. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5250 Geography of Opportunity",
+    "courseid": "EDHE 5250",
+    "coursedescription": "This seminar course is designed to explore geographic approaches to higher education in the urban context. Readings will introduce main issues around urban education, and the relation between of higher education institutions and their local context. At the end of this course, it is expected that students will be able to: 1) Become familiar with education literature that uses spatial theories. 2) Understand basic concepts of geographic theories. 3) Engage in intellectual inquiry surrounding social theory broadly. 4) Apply spatial analysis to a higher education institution in a geography of interest. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units",
+      "notes": [
+        "4) Apply spatial analysis to a higher education institution in a geography of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "EDHE 5260 Managing Change in Higher Education I",
+    "courseid": "EDHE 5260",
+    "coursedescription": "The social context, the expectations, and the consumers of post-secondary learning and credentials have evolved significantly over the history of higher education in the US. They continue to evolve in ways that must shape the operation of our colleges and universities, the student experience, and the outcomes that result. Change is essential for healthy survival, so why are institutions designed to teach evolving knowledge, nurture curiosity, and model continuous improvement so hard to change? What management and leadership skills are needed to manage the facilitation of change despite institutional inertia? How can we identify and prioritize necessary changes, especially when resources are limited? This course explores research and theory on how higher education leaders, at all levels, in all types of institutions, can manage the change process, with close attention to practical, proven strategies from within and outside of higher education. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5260A Leading Change in Higher Education I",
+    "courseid": "EDHE 5260A",
+    "coursedescription": "The social and political context, the expectations for higher education, and the consumers of post-secondary learning and credentials have evolved significantly over the history of higher education in the US. Further, they have changed dramatically in recent decades, and they continue to do so in ways that deeply impact the operation of our colleges and universities, the student experience, and the outcomes that result. Perhaps the only constant is that ongoing change is necessary for colleges and universities to remain healthy. Why are learning institutions – ostensibly designed to teach evolving knowledge, nurture open-minded curiosity, and model continuous improvement-- so hard to change, even in small ways? What are the leadership skills needed to facilitate change despite institutional inertia? How can we identify and prioritize the changes that are necessary, especially when resources are limited? This course is grounded in research and theory on how higher education leaders, at all levels and in all types of institutions, can lead the change process and overcome stakeholder resistance, with close attention to practical, proven strategies from within and outside of higher education. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5260B Leading Change in Higher Education I",
+    "courseid": "EDHE 5260B",
+    "coursedescription": "The social and political context, the expectations for higher education, and the consumers of post-secondary learning and credentials have evolved significantly over the history of higher education in the US. Further, they have changed dramatically in recent decades, and they continue to do so in ways that deeply impact the operation of our colleges and universities, the student experience, and the outcomes that result. Perhaps the only constant is that ongoing change is necessary for colleges and universities to remain healthy. Why are learning institutions – ostensibly designed to teach evolving knowledge, nurture open-minded curiosity, and model continuous improvement-- so hard to change, even in small ways? What are the leadership skills needed to facilitate change despite institutional inertia? How can we identify and prioritize the changes that are necessary, especially when resources are limited? This course is grounded in research and theory on how higher education leaders, at all levels and in all types of institutions, can lead the change process and overcome stakeholder resistance, with close attention to practical, proven strategies from within and outside of higher education. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5270 Managing Change in Higher Education II",
+    "courseid": "EDHE 5270",
+    "coursedescription": "This course is grounded in research and theory on how higher education leaders, at all levels and in all types of institutions, can manage the change process, with close attention to practical, proven strategies from within and outside of higher education. Learning Objectives • Explore and develop knowledge of: o why change is imperative; o how to understand and overcome resistance in an institutional culture that is averse to change; o how to successfully build teams and trust; o how to use influence to develop support by persuading a wide range of constituents to embrace changes, both small and more significant, allowing them to enact necessary and desirable changes for the future success of their institutions; o ethics in the change process; o institutional exemplars of change. • Develop tools to lead and manage change in various types of higher education institutions. • Apply course concepts and tools to develop a plan for managing a specific change. • Consider change management and leading change as research topics. Spring 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 5900 Introduction to Causality",
+    "courseid": "EDHE 5900",
+    "coursedescription": "This course is designed to introduce students to the basics of causal inference, including topics such as potential outcomes, counterfactuals and selection bias. We will explore methods for determining the causal effects of various treatments, programs, and interventions in higher education using randomization as well as quasi-experimental techniques.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 5910 The Academic Deanship: Leading from the Middle",
+    "courseid": "EDHE 5910",
+    "coursedescription": "This module will explore the role of an academic dean with a specific focus on how deans lead change and manage crises. Deans play a critically important role at universities by leading the work of schools and colleges. They report to the provost but must lead faculty members whose expertise and engagement is needed to address crises or make meaningful and substantive change. Part of the challenge of many academic leadership roles relates to the need to negotiate between the needs and demands of the larger university and the needs and demands of faculty, staff, and students within a particular school. Deans, by definition, sit at the intersection of this tension, which becomes intensified during times of change or crisis. In this module, we will discuss what it means to “lead from the middle” and how deans balance sometimes competing demands from above and below as they lead their schools. Given these tumultuous times in higher education, we will also delve into how deans manage crises, particularly crisis in the midst of uncertainty. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6010 International Context",
+    "courseid": "EDHE 6010",
+    "coursedescription": "The Higher Education in International Contexts course provides students with exposure to issues facing international higher education and uses this exposure to reflect on higher education in the United States. The course will be centered on an experiential field research project. Students will travel to another country to meet and collaborate with higher education leaders there to learn firsthand about the challenges and opportunities associated with developing and transforming higher education. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6010A International Context",
+    "courseid": "EDHE 6010A",
+    "coursedescription": "The Higher Education in International Contexts course provides students with exposure to issues facing international higher education and uses this exposure to reflect on higher education in the United States. The course will be centered on an experiential field research project. Students will travel to another country to meet and collaborate with higher education leaders there to learn firsthand about the challenges and opportunities associated with developing and transforming higher education. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-2 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6010B International Context",
+    "courseid": "EDHE 6010B",
+    "coursedescription": "The Higher Education in International Contexts course provides students with exposure to issues facing international higher education and uses this exposure to reflect on higher education in the United States. The course will be centered on an experiential field research project. Students will travel to another country to meet and collaborate with higher education leaders there to learn firsthand about the challenges and opportunities associated with developing and transforming higher education. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-2 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6015 Research Perspectives Focusing on Successful Research Projects",
+    "courseid": "EDHE 6015",
+    "coursedescription": "This Module comprises five conversations about research. The Module’s central premise, simply stated, is that truly influential research focuses on a puzzle a researcher wants to solve as elegantly and completely as possible. The module’s goals include developing a capacity to identify the specific puzzle a researcher has set out to solve, to judge whether the proposed solution is satisfactory or not, whether the puzzle can or should lead to additional research, and whether the research represents a significant methodological advancement. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6020 Student and Campus Services",
+    "courseid": "EDHE 6020",
+    "coursedescription": "A scan of most any American college or university will reveal a wide variety of services, functions and activities offered in support of student learning, student expectations and student life. Such functions include robust athletic and recreation programs, comprehensive health care and comprehensive arts, culture, diversity and community service programs. Many argue the essential nature of these functions; other decry the excessive hand-holding of students and the substantial expense of these services and functions. In this module, students will review the complex landscape of campus services intended predominantly for student support and engagement. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6030 Technology",
+    "courseid": "EDHE 6030",
+    "coursedescription": "In this module we will discuss a range of Information Technology goals (and challenges) shared by most colleges and universities, and they may be pursued through local IT infrastructure or services contracted with external entities. We will discuss IT challenges and opportunities especially relevant to the higher education sector, making the practice of IT at a college or university different from IT in most small and large corporations. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6040 Higher Education Law",
+    "courseid": "EDHE 6040",
+    "coursedescription": "This module explores topics such as contract law, employment law, Constitutional law (freedom of speech, due process, equal protection), tort law (liability for negligence), anti-discrimination laws, and administrative law. The premise of this module is that a successful higher education executive has an understanding of the legal environment in which colleges and universities must function today. The objective of the module is to provide this understanding. From a pragmatic perspective, this knowledge enables a higher education administrator to employ preventive legal strategies in institutional decision-making. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6050 Enrollment Management",
+    "courseid": "EDHE 6050",
+    "coursedescription": "Enrollment management is an organizational concept with a varying set of associated strategies for achieving institutional goals. Based on institutional type and mission, these goals can range from increasing and diversifying enrollment to optimizing tuition revenue. The impact of enrollment management over the last several decades has caused institutional leaders and the public to recast their strategic foci and reexamine their values regarding higher education. This course will provide an overview of multiple enrollment management models. Students will be asked to consider the evolution and maturation of these models, the related implications of these organizational structures and strategies, and the benefits and drawbacks of enrollment management on institutions and the marketplace. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6060 Dissertation Workshop I",
+    "courseid": "EDHE 6060",
+    "coursedescription": "Designed to support students through the dissertation process, this course will cover topics such as: submitting to the IRB; selecting an analytic strategy; data collection and management; coding and data analysis; and structuring dissertation chapters. Students will us a structured timeline in order to successfully defend their dissertations in the spring of their second year of the program. Prerequisite: Enrolllment in Executive Doctorate in Higher Education Management. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 6070 Higher Ed Entrepreneurship",
+    "courseid": "EDHE 6070",
+    "coursedescription": "The purpose of this module is to focus on an emerging future in light of today's demands, particularly balancing entrepreneurial demands with public purpose objectives. This module asks, 1) what is the future going to hold? and 2) how must college and university leaders respond? Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6080 New Models for Post-Secondary Education",
+    "courseid": "EDHE 6080",
+    "coursedescription": "This course will create a foundation to understand the push for reform in higher education, examine in depth several new approaches to post-secondary education in the United States, and develop frameworks for assessing new models of post-secondary education. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6090 Capstone Seminar",
+    "courseid": "EDHE 6090",
+    "coursedescription": "The Capstone module offers a culminating experience for students to share and discuss their intellectual and professional experiences in the program and how this has prepared them for the future. It is also an opportunity for students to provide feedback on the curriculum, pedagogy, and other program elements. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6100 Advancement",
+    "courseid": "EDHE 6100",
+    "coursedescription": "In this course, students will develop an in-depth understanding of institutional advancement and an ability to relate it to the broader management of colleges and universities. The course focuses primarily on how colleges and universities attract voluntary support, and will begin with an overview of advancement and external relations before moving on to fundraising specific issues. The history of fundraising, fundraising theory, fundraising ethics, fundraising tactics and other related topics will be discussed. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6110 Teaching and Learning",
+    "courseid": "EDHE 6110",
+    "coursedescription": "Through this course, students will be able to articulate the importance of student learning from a variety of perspectives; explain the role of organizational culture and how it interfaces with student learning; understand how issues of diversity and inclusive excellence support student learning; clarify what responsibilities administrators have as campus leaders to ensure student learning; identify existing barriers to student learning; and develop strategies to overcome those barriers. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6115 Current Issues in the Leadership of Change",
+    "courseid": "EDHE 6115",
+    "coursedescription": "In addition to access to robust data and a grasp of the core principles for managing change in higher education, senior campus administrators need the skills to make sound judgments in actual situations when data sources are slim and time is short. This course will focus on decision-making when new and emerging changes require quick action—that is, those developments that have little history, past analysis, or experience available to guide the immediate application of core principles to emerging challenges and opportunities. The course will begin by examining key decision points during the COVID 19 period (beginning in February 2020) for better understanding of the many leadership decisions that were made during that period under great pressure. Then the course will examine additional recent issues that continue to require attention by campus leaders but without the advantage of long periods of study. These include the Great Resignation; challenges of hiring faculty in competitive fields such as nursing; reductions in operating budgets, including termination of personnel and cuts in benefits; the effects of volatile interest rates on borrowing, endowment earnings, and prices of fuel and food; unpredictable international enrollment; and decline in alumni donations. Finally, the course will explore several trends with lengthier histories of how higher education leaders have addressed them. Possible topics include demographic changes; curriculum changes in foreign languages and in general education; libraries and technology. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units",
+      "notes": [
+        "These include the Great Resignation; challenges of hiring faculty in competitive fields such as nursing; reductions in operating budgets, including termination of personnel and cuts in benefits; the effects of volatile interest rates on borrowing, endowment earnings, and prices of fuel and food; unpredictable international enrollment; and decline in alumni donations."
+      ]
+    }
+  },
+  {
+    "coursename": "EDHE 6120 Negotiating & Bargaining",
+    "courseid": "EDHE 6120",
+    "coursedescription": "Through role-plays and exercises in class, the module addresses conflict management and negotiations through focusing on behavioral skills rather than substantive knowledge, putting relatively straightforward conceptual material to use in the context of real situations. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6130 Dissertation Workshop II",
+    "courseid": "EDHE 6130",
+    "coursedescription": "The purpose of this module is to build on and explore additional topics presented in Dissertation Workshop I. Designed to support students through the dissertation process, this course will cover topics such as: submitting to the IRB; selecting an analytic strategy; data collection and management; coding and data analysis; and structuring dissertation chapters. Students will use a structured timeline in order to successfully defend their dissertations in the spring of their second year of the program. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDHE 6140 Ethics and Leadership",
+    "courseid": "EDHE 6140",
+    "coursedescription": "This module introduces some models of organizational and leadership ethics and uses case discussions and personal experiences to explore and better understand the ethical dilemmas that face leaders in higher education. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6150 Leadership and Change for Higher Education's Future",
+    "courseid": "EDHE 6150",
+    "coursedescription": "Most discussions of higher education's future focus on key and familiar trends- demographics, technology, funding, new organizational models, etc. While each trend will affect higher education, the reality is that leaders will face a multitude of challenges simultaneously and those trends will interact with each other. How can higher education leaders explore those trends and issues sufficiently and begin to prepare for how, as a set, they may impact higher education? Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6160 Advanced Topics in Higher Education Management III",
+    "courseid": "EDHE 6160",
+    "coursedescription": "Seminar on special topics on higher education. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6170 Community Colleges",
+    "courseid": "EDHE 6170",
+    "coursedescription": "This module examines the historical origins, evolving mission, programmatic similarities and differences, demographics, performance, finances, governance, and presidential leadership of U.S. community colleges. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6170A Community Colleges",
+    "courseid": "EDHE 6170A",
+    "coursedescription": "This module examines the historical origins, evolving mission, programmatic similarities and differences, demographics, performance, finances, governance, and presidential leadership of U.S. community colleges. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6170B Community Colleges",
+    "courseid": "EDHE 6170B",
+    "coursedescription": "This module examines the historical origins, evolving mission, programmatic similarities and differences, demographics, performance, finances, governance, and presidential leadership of U.S. community colleges. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6180 Virtual Distance Learning",
+    "courseid": "EDHE 6180",
+    "coursedescription": "In this course, you will experience Virtual Distance Analytics by participating in the Virtual Distance Index Assessment, receive your own Virtual Distance Management Report, detailing where Virtual Distance is most likely impacting you and your organization as well as content to master Virtual Distance in order to reduce and manage it over time for better educational outcomes. You will learn new leadership skills and core competencies to enhance your effectiveness in the Digital Age and help your students maximize their educational potential during this process of digital transformation. Prerequisite: Enrollment in Excecutive Doctorate in Higher Education Management.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  },
+  {
+    "coursename": "EDHE 6190 Quality/Risk Management",
+    "courseid": "EDHE 6190",
+    "coursedescription": "This module will focus on what leaders can do to induce a culture of quality within an academic environment. This course is only for students enrolled in the Higher Education Management executive program. Prerequisite: Enrollment in Executive Doctorate in Higher Education Management. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.33 Course Units"
+    }
+  }
+]

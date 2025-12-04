@@ -1,0 +1,527 @@
+[
+  {
+    "coursename": "NRSC 0045 A Neuroscience Perspective on Brain Aging",
+    "courseid": "NRSC 0045",
+    "coursedescription": "A recent Netflix documentary, Don’t Die chronicles the life of an individual obsessed with turning back the hands of time- a reflection of our growing cultural and scientific fascination with extending both lifespan and health span. But what is truth and what is myth when evaluating the anti-aging literature? This course will spotlight aging though the lens of neuroscience. We will explore the complexities of brain aging, and in doing so highlight how both lifestyle and genetics can impact the trajectory of neuronal changes with age. Through an inter-disciplinary approach, we will examine societal views of aging, discuss the distinction between ‘normal’ brain aging and neurodegenerative disorders observed in older individuals, and consider how societies can impact the trajectory of an aging population by addressing existing inequities. Through interactive, small group discussions, readings, and guest lectures, students will build on their knowledge of foundational concepts in neuroscience and develop skills in reading and communicating scientific literature. In a world with a rapidly growing population of older individuals, this course will highlight how basic research in neuroscience can inform our lifestyle choices, elder care initiatives and societal approaches to care for an aging society. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 0050 Forensic Neuroscience",
+    "courseid": "NRSC 0050",
+    "coursedescription": "Progress in behavioral neuroscience and brain imaging techniques, such as functional and structural Magnetic Resonance Imaging (MRI) and Positron Emission Tomography (PET) has forced the courts to reconsider the role of behavioral sciences in courtroom decision-making. The goal of this course is to enable students to understand and interpret the use of behaviorial neuro evidence in the justice system. The course will introduce the students to the relevant behavioral neuroscience constructs, principles of brain imaging and rules of scientific evidence. Students will be asked to use this introductory knowledge to critically evaluate the use of brain imaging and other behavioral neuroscience techniques as evidence in representative legal cases. For each case, students will serve as neuroscience experts for the defense or prosecution and prepare, present and defend their testimony against the opposing team. Through this course, students will develop the ability to critically evaluate brain imaging and other neuroscience data in forensic and legal settings. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 0060 Music and the Brain",
+    "courseid": "NRSC 0060",
+    "coursedescription": "Every human culture that has ever been described makes some form of music. The musics of different cultures cover a wide range of styles, but also display fascinating similarities, and a number of features are shared by even the most disparate musical traditions. Within our own culture, music is inescapable-there are very few individuals who do not listen to some form of music every day and far more who listen to music virtually all day long. Appreciation of music comes very early: newborns prefer music to normal speech and mothers all over the world sing to their babies in a fundamentally similar way. And yet, despite this seeming ubiquity, the real origin and purpose of music remains unknown. Music is obviously related to language, but how? Why do so many cultures make music in such fundamentally similar ways? What goes into the formation of music \"taste\" and preferences? Does music have survival value, or is it merely \"auditory cheesecake\", a superfluous byproduct of evolution as some critics have maintained? What is the nature of musical ability and how do musicians differ from non-musicians? In this course, we will look for answers by looking at the brain. Almost 200 years of scientific research into brain mechanisms underlying the production and appreciation of music is beginning to shed light on these and other questions. Although the sciences and the arts are often seen as entirely separate or even in opposition, studying the brain is actually telling us a lot about music, and studying music is telling us just as much about the brain. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 1110 Introduction to Brain and Behavior",
+    "courseid": "NRSC 1110",
+    "coursedescription": "Introduction to the structure and function of the vertebrate nervous system. We begin with the cellular basis of neuronal activities, then discuss the physiological bases of motor control, sensory systems, motivated behaviors, and higher mental processes. This course is intended for students interested in the neurobiology of behavior, ranging from animal behaviors to clinical disorders. Fall or Spring Also Offered As: BIOL 1110 , PSYC 1210 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is intended for students interested in the neurobiology of behavior, ranging from animal behaviors to clinical disorders."
+      ]
+    }
+  },
+  {
+    "coursename": "NRSC 1159 Memory",
+    "courseid": "NRSC 1159",
+    "coursedescription": "This course presents an integrative treatment of the cognitive and neural processes involved in learning and memory, primarily in humans. We will survey the major findings and theories on how the brain gives rise to different kinds of memory, considering evidence from behavioral experiments, neuroscientific experiments, and computational models. Also Offered As: PSYC 1530 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 1160 ABCS of Everyday Neuroscience",
+    "courseid": "NRSC 1160",
+    "coursedescription": "This course is an opportunity for undergraduates to share their interest and enthusiasm for neuroscience with students in grades 9-12 attending urban public schools in West Philadelphia. The course will allow Penn students to develop their science communication and teaching skills. Students will prepare neuroscience demonstrations, hands-on activities, and assessment tools. In parallel, the course aims to engage local high school students, increasing their interest and knowledge in science, and ultimately promoting lifelong science literacy. Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is an opportunity for undergraduates to share their interest and enthusiasm for neuroscience with students in grades 9-12 attending urban public schools in West Philadelphia.",
+        "In parallel, the course aims to engage local high school students, increasing their interest and knowledge in science, and ultimately promoting lifelong science literacy."
+      ]
+    }
+  },
+  {
+    "coursename": "NRSC 2110 Molecular and Cellular Neurobiology",
+    "courseid": "NRSC 2110",
+    "coursedescription": "Cellular physiology of neurons and excitable cells; molecular neurobiology and development. Topics include: action potential generation; synaptic transmission; molecular and physiological studies of ion channels; second messengers; simple neural circuits; synaptic plasticity; learning and memory; and neural development. Fall Also Offered As: BIOL 2110 Prerequisite: ( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2140 Evolution of Behavior: Animal Behavior",
+    "courseid": "NRSC 2140",
+    "coursedescription": "The evolution of behavior in animals will be explored using basic genetic and evolutionary principles. Lectures will highlight behavioral principles using a wide range of animal species, both vertebrate and invertebrate. Examples of behavior include the complex economic decisions related to foraging, migratory birds using geomagnetic fields to find breeding grounds, and the decision individuals make to live in groups. Group living has led to the evolution of social behavior and much of the course will focus on group formation, cooperation among kin, mating systems, territoriality and communication. Fall Also Offered As: BIOL 2140 , PSYC 2220 Prerequisite: BIOL 1102 OR BIOL 1121 OR PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1102",
+      "BIOL 1121",
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2205 Cellular Basis of Learning and Memory",
+    "courseid": "NRSC 2205",
+    "coursedescription": "This course will introduce students to the molecular, cellular, and systems-level mechanisms that underlie how experiences are acquired, stored and retrieved in the central nervous system. The interdisciplinary nature of this topic reflects the diverse, historical approaches used to understand how organisms, from aplysia to humans, learn and remember. To scaffold our discussions, we will explore how key methodological advances in the field of neuroscience, produced a paradigm-shift in our understanding of the neurobiology of learning and memory. The course is primarily lecture-based with opportunities for students to engage actively with course material. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2217 Visual Neuroscience",
+    "courseid": "NRSC 2217",
+    "coursedescription": "An introduction to the scientific study of vision, with an emphasis on the biological substrate and its relation to behavior. Topics will typically include physiological optics, transduction of light, visual thresholds, color vision, anatomy and physiology of the visual pathways, and the cognitive neuroscience of vision. Spring Also Offered As: PSYC 2240 , VLST 2170 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2227 Physiology of Motivated Behavior",
+    "courseid": "NRSC 2227",
+    "coursedescription": "This course focuses on evaluating the experiments that have sought to establish links between brain structure (the activity of specific brain circuits) and behavioral function (the control of particular motivated and emotional behaviors). Students are exposed to concepts from regulatory physiology, systems neuroscience, pharmacology, and endocrinology and read textbook as well as original source materials. The course focuses on the following behaviors: feeding, sex, fear, anxiety, the appetite for salt, and food aversion. The course also considers the neurochemical control of responses with an eye towards evaluating the development of drug treatments for: obesity, anorexia/cachexia, vomiting, sexual dysfunction, anxiety disorders, and depression. Fall or Spring Also Offered As: PSYC 1212 Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2233 Neuroethology",
+    "courseid": "NRSC 2233",
+    "coursedescription": "In course, students will learn how neurobiologists study the relationship between neural circuitry and behavior. Behaviors such as bat echolocation, birdsong, insect olfaction, spatial navigation, eye movement and others will be used to explore fundamental principles of brain function that include brain oscillations, population codes, efference copy, sensorimotor maps and sleep replay. The course will also discuss the various methodologies that are used to address these questions. The reading material will be derived mostly from the primary literature. Spring Also Offered As: PSYC 2233 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2240 Chronobiology and Sleep",
+    "courseid": "NRSC 2240",
+    "coursedescription": "Topics to be covered include basic principles of chronobiology; neuroscience mechanisms of circadian rhythms and sleep; phylogeny and ontongeny of sleep; human sleep and sleep disorders; circadian dysfunction; circadian and sleep homeostatic influences in human health and safety. Spring Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2249 Cognitive Neuroscience",
+    "courseid": "NRSC 2249",
+    "coursedescription": "The study of the neural systems that underlie human perception, memory and language; and of the pathological syndromes that result from damage to these systems. Fall or Spring Also Offered As: PSYC 1230 Prerequisite: PSYC 0001 OR COGS 1001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001",
+      "COGS 1001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2260 Neuroendocrinology",
+    "courseid": "NRSC 2260",
+    "coursedescription": "This course is designed to examine the various roles played by the nervous and endocrine systems in controlling both physiological processes and behavior. First, the course will build a foundation in the concepts of neural and endocrine system function. Then, we will discuss how these mechanisms form the biological underpinnings of various behaviors and their relevant physiological correlates. We will focus on sexual and parental behaviors, stress, metabolism, neuroendocrine-immune interactions, and mental health. Fall or Spring Also Offered As: PSYC 2260 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2269 Autonomic Physiology",
+    "courseid": "NRSC 2269",
+    "coursedescription": "This course will introduce the student to the functioning of the autonomic nervous system (ANS), which is critically involved in the maintenance of body homeostasis through regulation of behavior and physiology. The course will begin with a review of the basic anatomy and physiology of the ANS including the sympathetic, parasympathetic and enteric divisions. The mechanisms by which the ANS regulates peripheral tissues will be discussed, including reflex and regulatory functions, as will the effect of drugs which modulate ANS activity. The role of the ANS in regulating behavior will be addressed in the context of thirst, salt appetite and food intake. Spring Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2270 Drugs, Brain and Mind",
+    "courseid": "NRSC 2270",
+    "coursedescription": "The course will begin with a review of basic concepts in pharmacology including: routes of drug administration, drug metabolism, the dose response curve, tolerance and sensitization. Following a brief overview of cellular foundations of neuropharmacology (neuronal biology, synaptic and receptor function), the course will focus on several neurotransmitter systems and the molecular and behavioral mechanisms mediating the mind-altering, additive and neuropsychiatric disorders, including depression, schizophrenia and anxiety with an emphasis on their underlying neurobiological causes, as well as the pharmacological approaches for treatment. Spring Also Offered As: PSYC 2250 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2273 Neuroeconomics",
+    "courseid": "NRSC 2273",
+    "coursedescription": "This course will introduce students to neuroeconomics, a field of research that combines economic, psychological, and neuroscientific approaches to study decision-making. The course will focus on our current understanding of how our brains give rise to decisions, and how this knowledge might be used to constrain or advance economic and psychological theories of decision-making. Topics covered will include how individuals make decisions under conditions of uncertainty, how groups of individuals decide to cooperate or compete, and how decisions are shaped by social context, memories, and past experience. Also Offered As: PSYC 2555 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 2350 Developmental Neurobiology",
+    "courseid": "NRSC 2350",
+    "coursedescription": "This course will focus on cellular and molecular mechanisms of the organogenesis of the central nervous system. A goal of the course will be to understand the form, function and pathology of the adult nervous system in terms of antecedent developmental processes. Fall or Spring Prerequisite: NRSC 1110 AND BIOL 1101 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110",
+      "BIOL 1101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 3310 Functional Neuroanatomy",
+    "courseid": "NRSC 3310",
+    "coursedescription": "A laboratory course designed to familiarize the student with the fundamental gross and histological organization of the brain. The mammalian brain will be dissected and its microscopic anatomy examined using standard slide sets. Comparative brain material will be introduced, where appropriate, to demonstrate basic structural-functional correlations. Fall Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 3334 Computational Neuroscience Lab",
+    "courseid": "NRSC 3334",
+    "coursedescription": "This course will focus on computational neuroscience from the combined perspective of data collection, data analysis, and computational modeling. These issues will be explored through lectures as well as Matlab-based tutorials and exercises. The course requires no prior knowledge of computer programming and a limited math background, but familiarity with some basic statistical concepts will be assumed. The course is an ideal preparation for students interested in participating in a more independent research experience in one of the labs on campus. Fall Also Offered As: PSYC 3281, PSYC 4281 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is an ideal preparation for students interested in participating in a more independent research experience in one of the labs on campus."
+      ]
+    }
+  },
+  {
+    "coursename": "NRSC 3375 Laboratory in Animal Behavior",
+    "courseid": "NRSC 3375",
+    "coursedescription": "This course will allow students to understand the variety, function, and evolution of complex behaviors in simple animals and how the genes governing these behaviors can be used to provide insight into human behavior and brain disease. The course is structured to allow students to experience what it is like to work in a neuroscience research laboratory. We will use the fruit fly (Drosophila melanogaster) as our model organism (with one class dedicated to song birds). Over the course of the semester, we will examine the underlying neurobiology, physiology, and genetics of a variety of fly behaviors to understand aggression, taste, learning and memory, courtship, neurodegenerative diseases, and circadian rhythms. We will review both current and historical research advances in detail by focusing on primary literature. Students will be expected to design, analyze and interpret the behavioral experiments that are employed. Students will learn how to conduct animal behavior research, enhance their ability to critically read scientific literature, and improve their written and oral communication skills through paper presentations and written reports. Spring Prerequisite: NRSC 1110 AND (( BIOL 1101 OR BIOL 1102 ) OR ( BIOL 1123 OR BIOL 1124 )) 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110",
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1123",
+      "BIOL 1124"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 3492 Experimental Methods in Synaptic Physiology",
+    "courseid": "NRSC 3492",
+    "coursedescription": "In this lab course, a small number of students meet once per week to discuss topics in synaptic physiology and to become proficient at sharp electrode techniques for intracellular recording, using isolated ganglia from the snail Heliosoma. The first part of each class will consist of discussion of weekly reading from the primary literature, with the remainder of the class devoted to hands-on experiments. After learning to record from and characterize single neurons, students will study synaptic transmission by stimulating incoming nerve trunks or by recording from pairs of interconnected neurons. As a midterm assignment, students will prepare and present a short research proposal using this model system, to be evaluated by the class. For the last half of the course, the class will work together on one or two of these proposals, meeting at the end of each class to pool our data, analyze the results and discuss their significance. Fall or Spring Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 3999 Independent Research",
+    "courseid": "NRSC 3999",
+    "coursedescription": "Individual research of an experimental nature with a member of the standing faculty leading to a written paper. The grade is based primarily on a serious term paper describing original research carried out by the student. Students must submit a proposal prior to registering. During the semester, students must attend two seminars to discuss planning and independent research project, ethical concerns in research and writing a scientific paper. Attendance at the meetings is mandatory. Students doing more than one credit of independent study will be required to present a poster at the annual Student Research Symposium. Fall or Spring Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4110 Neural Systems and Behavior",
+    "courseid": "NRSC 4110",
+    "coursedescription": "This course will investigate neural processing at the systems level. Principles of how brains encode information will be explored in both sensory (e.g. visual, auditory, social, etc.) and motor systems. Neural encoding strategies will be discussed in relation to the specific behavioral needs of the animal. Examples will be drawn from a variety of different model systems. Fall Also Offered As: BIOL 4110 , PSYC 3220 Mutually Exclusive: BIOL 5110 Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4233 Seminar in Cognitive Neuroscience: Brain Development",
+    "courseid": "NRSC 4233",
+    "coursedescription": "This discussion-based seminar will focus on the neural bases of cognitive development. Each week the class will discuss a selection of papers that consider the roles of genes and environment on topics including the development of perceptual abilities, language, and cognition. The course will cover several aspects of pre- and postnatal brain and behavioral development with particular emphasis on animal models. This course is intended for students interested in neurobiology, cognitive psychology, evolutionary psychology and development. Fall Also Offered As: PSYC 3233 Prerequisite: PSYC 1230 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1230"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is intended for students interested in neurobiology, cognitive psychology, evolutionary psychology and development."
+      ]
+    }
+  },
+  {
+    "coursename": "NRSC 4266 Molecular Genetics of Neurological Disease",
+    "courseid": "NRSC 4266",
+    "coursedescription": "This course will focus on the molecular basis of neurological diseases, exploring in detail key papers that cover topics including defining the disease genes, development of animal models that provide mechanistic insight, and seminal findings that reveal molecular understanding. Diseases covered will include neurological diseases of great focus today such as Alzheimer's, Fragile-X and autism, dementia, motor neuron degeneration, and microsatellite repeat expansion disorders. The course will provide a perspective from initial molecular determination through current status. Students will gain an understanding of how the molecular basis of a disease is discovered (from classical genetics to modern genomics) and how such diseases can be modeled in simple genetic systems for mechanistic insight. The course will be comprised of lectures with detailed analysis of primary literature and in-class activities. Grading will be based on class participation, exams, and written papers. Biology 2210 is a pre-requisite. Seniors are prioritized for the course Fall Also Offered As: BIOL 4266 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 4266",
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4413 Cellular Structure and Neurological Disorders",
+    "courseid": "NRSC 4413",
+    "coursedescription": "Microtubules are dynamic cytoskeletal filaments that are crucial to the structure and function of neurons. From providing the scaffolding for the unique architecture of neurons, to guiding intracellular trafficking, to supporting neuronal migration and connectivity, microtubules are important for a variety of neuronal roles. Consequentially, the dysfunction of microtubules and microtubule-associated-proteins is associated with a number of nervous system disorders. This seminar will explore the role of microtubules in a number of neurobiological diseases and disorders including Neurodevelopmental disorders (ex. Fragile X, Lissencephaly), Neurodegenerative Disorders (ex. Alzheimer's and the Tauopathies, Hereditary Spastic Paraplegia), Psychiatric Disorders (Ex. Schizophrenia and Mood disorders), and also in Traumatic Brain Injury. We will use readings from the primary literature as a basis for lectures, student presentations, and papers. Fall Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4422 Neuroimmunology",
+    "courseid": "NRSC 4422",
+    "coursedescription": "This seminar will focus on how immune and central nervous systems communicate and influence each other. We begin with the anatomical and cellular basis of the thymus, gut, and brain, then discuss the connection between these organs and how these connections can influence neurological disorders. The class includes lectures, analysis of scientific literature, class discussions, and journal presentations. The course requires no prior knowledge of neuroimmunology, but understanding of basic neuroscience and immunology principles will be assumed. Spring Prerequisite: NRSC 1110 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Spring Prerequisite: NRSC 1110 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "NRSC 4425 Neurotechnology: From Concept to Clinic",
+    "courseid": "NRSC 4425",
+    "coursedescription": "The nervous system, and in particular the brain, remains the least understood part of the human body and is also the site of devastating, irreversible injury and disease. This course reviews wearable and implantable medical devices and surgical techniques that have been developed to treat conditions of the nervous system. The course will begin with a review of human neuroanatomy and neurophysiology and proceed to establish benchmarks and context for evaluating device efficacy. Contrasts with pharmaceuticals and the emergence of \"electroceuticals\" will be discussed. An overview of the bench-to-bedside process will be provided and then we will cycle through a series of major neuro-related medical devices (cochlear implants, deep brain stimulators, epiretinal arrays, responsive neurostimulators, spinal cord stimulators, functional electrical stimulation), and surgical approaches (nerve grafts, tendon transfers). The course will conclude with a focus on brain-computer interfaces and autologous engineered neural constructs and explore the ethical and medical implications of implanting such devices in able-bodied people, bottlenecks in enhancement and critical evaluation of the idea of superintelligence. This course may be of interest to students interested in pursuing careers in medicine, surgery, artificial intelligence, software development, medical device design, electrical engineering, and business. Fall Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course may be of interest to students interested in pursuing careers in medicine, surgery, artificial intelligence, software development, medical device design, electrical engineering, and business."
+      ]
+    }
+  },
+  {
+    "coursename": "NRSC 4429 Seminar in Sleep and Memory",
+    "courseid": "NRSC 4429",
+    "coursedescription": "Why do we sleep? This question has puzzled scientists for centuries, but one reason emerging from research in the area is that sleep is critical for forming, retaining, and transforming our memories. This seminar explores human and animal research in psychology and neuroscience that has shed light on how sleep carries out these functions. Topics will include the different stages of sleep and their roles in memory consolidation, its neural systems involved in representing memory at different timescales, and the role of dreams in processing memories. Spring Also Offered As: PSYC 3300 Prerequisite: CIS 1210 1 Course Unit",
+    "course-prerequsities": [
+      "CIS 1210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4430 The Cognitive Neuroscience of Autism",
+    "courseid": "NRSC 4430",
+    "coursedescription": "This course examines neurobiological mechanisms of autism spectrum disorder (ASD). The cognitive neuroscience literature on autism will be roughly categorized around major theoretical models and their relation to autism, focusing on cognitive neuroscience and functional brain imaging, along with some structural imaging and EEG. Spring Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4433 Neural Basis of Auditory Perception and Cognition",
+    "courseid": "NRSC 4433",
+    "coursedescription": "This seminar will focus on the neural basis of auditory perception and cognition. We will examine auditory processing in animal ‘specialists’ to understand how sounds are processed in parallel pathways for identification and localization. We will also examine auditory cortical mechanisms for cognitive functions including attention, decision making, speech comprehension, and working memory. Emphasis will be placed on the analysis of primary literature. Students will be required to orally present journal articles from the primary literature, participate in the article discussions, write peer-reviews, and write a final “News and Views”-style paper. Fall Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4440 The Neuroscience behind the addiction to chocolate, wine, coffee and tobacco",
+    "courseid": "NRSC 4440",
+    "coursedescription": "Both clinical observations and popular culture support the idea that food might have addictive properties. Similar to the narrative for addictive drugs,individuals and the media use terms like \"food addict\" and \"chocoholic\", and refer to cravings, symptoms of withdrawal, and escalating patterns of eating that might be viewed as evidence of tolerance. The class will discuss chocolate and coffee as examples of so-called \"addictive\" food and compare their effects and mechanisms with those of alcohol and nicotine, two substances with well-characterzed addictive properties. Furthermore, we will discuss why some forms of overeating are thought to reflect an addictive behavior. Considering the social dimension of alcohol,coffee, and tobacco consumption and the fact that large numbers of the population consume them together, we will also discuss the possible interactive effects of combinationsof these psychoactive substances on mood and disease state. At the end of the course the student will become familiar with the diagnostic criteria for substance dependence, the anatomy and physiology of the brain circuits involvedin reward processing and drug depencence, and the neurotransmitter systems involved. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4442 Neurobiology of Learning and Memory",
+    "courseid": "NRSC 4442",
+    "coursedescription": "This course focuses on the current state of our knowledge about the neurobiological basis of learning and memory. A combination of lectures and student seminars will explore the molecular and cellular basis of learning in invertebrates and vertebrates from a behavioral and neural perspective. Fall Also Offered As: BIOL 4142 , PSYC 3301 Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4450 Music and the brain: the new and old science of music",
+    "courseid": "NRSC 4450",
+    "coursedescription": "In a world where humans can't seem to agree on much of anything, there is one thing that still unites us: we love music. Why should abstract sequences of sounds give us such strong emotional reactions? Why indeed should they give us any emotional reaction at all? On every continent, today and throughout history, there is not a single human culture that has ever been described that does not make music. Within cultures, music is so ubiquitous that we actually have clinical terms (amusia and musical anhedonia) to describe people who don't understand or don't enjoy music. And yet, despite this ubiquity, the evolutionary origin and purpose of music remains unknown. Not only do people everywhere make music - they do so in fundamentally similar ways. All over the world people divide rhythm into twos and threes; all over the world people divide the frequency spectrum logarithmically, in octaves; with a very few exceptions, we divide octaves into no more than 12 steps, and we use subsets of 5-7 of these tones at a time. Not only that, but many cultures seem to have independently arrived at the same sets of 5-7 notes. These are probably not coincidences. If not coincidence, then what? In this course we look for explanations to these and other questions about music by looking at something that humans all over the globe have in common: the brain. Using readings from the primary literature and classic texts, supplemented with software exercises and analysis, we will see how many of the age-old mysteries and questions of music can be either answered or in some cases amplified by a consideration of brain mechanisms. Thinking about music in the context of brain function also provides a biological and evolutionary rationale not just for why music is the way it is, but why it should exist at all. More broadly, this course is an example of what can (and cannot) be accomplished by addressing aesthetic and philosophical questions as scientific and empirical ones. Prerequisite: NRSC 1110 and prior musical instruction, any instrument. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110",
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4455 Neuronal identity: practical and conceptual implications",
+    "courseid": "NRSC 4455",
+    "coursedescription": "What does it mean to be a cell with a specific role in the nervous system? This question has long intrigued developmental and theoretical neuroscientists and will be the intellectual point of departure for this course. As -omics technologies (such as transcriptomics, proteomics, and genomics) continue to rapidly evolve at both single-cell and population levels, our understanding of neuronal taxonomies has deepened significantly. In this course, students will identify and reflect on the limitations, advantages, and inconsistencies precipitated by such insights. Additionally, as our ability to more precisely define cell types grows, so do the possibilities for targeted therapies. Discussions will encompass the implications of neuronal identity in neurological diseases, examining how disruptions in specific cell types can lead to various pathologies, and how this knowledge is driving the development of targeted therapies. Students will engage and draw understanding from a broad range of fields, such as developmental neuroscience, evolutionary neuroscience, and cell biology. Students will write several short reflection papers, facilitate weekly journal club sessions, and engage in a group debate. Previous background in developmental neuroscience and/or biology is recommended. Spring Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Previous background in developmental neuroscience and/or biology is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "NRSC 4460 Neuroendocrinology Seminar",
+    "courseid": "NRSC 4460",
+    "coursedescription": "This course is an upper-level seminar, designed to examine the various roles played by the nervous and endocrine systems in controlling both physiological processes and behavior. We will focus on sexual and parental behaviors, stress, metabolism, neuroendocrine-immune interactions, and mental health. The format will be a mixture of lectures and journal club discussions based on recent primary literature in the field of neuroendocrinology. Students will also write several short papers based on the clinical neuroendocrinology. Fall or Spring Also Offered As: PSYC 3260 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4467 A Neural Systems Approach to Brain Disorders",
+    "courseid": "NRSC 4467",
+    "coursedescription": "Throughout this course we will survey several disorders of the central nervous system, providing students with both a clinical perspective on the disease as well as a mechanistic understanding of underlying pathologies. The relationship between advances in basic science and advances in understanding these neurological disease states will be highlighted. The course will be organized into two main modules. The first disorders to be discussed are epilepsy, head injury, and cerebrovascular disease). The latter part of our semester will explore neurodegenerative disorders; including Alzheimer’s, Parkinson’s disease and Huntington’s disease. In each of these modules we will discuss normal function of an affected circuit and, if appropriate, how or why these brain structures are susceptible to a particular inherited genetic susceptibility or an acquired disease state. We will discuss the importance of appropriate animal models to our understanding of these disorders and how state-of the art advances in all facets of neuroscience are leading to novel therapeutic approaches to treating these diseases. The course will involve both formal (interactive) lectures, as disorders are introduced and potential mechanisms discussed, as well as a seminar style classes highlighting promising research via primary research papers to be presented by students Spring, even numbered years only Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4469 Stress Neuroscience",
+    "courseid": "NRSC 4469",
+    "coursedescription": "Stress can be caused by a variety of conditions, ranging from low-level noise in the workplace to life-threatening situations and these stressors can cause changes in the physiology and behavior of individuals. This course will examine the neural mechanisms underlying physiological and emotional responses to stress in a journal club format. Topics to be covered include anxiety disorders, depression and other mood disorders, the differential effects of stress on males and females, the physiological effects of stress on the immune system and feeding behavior, the effects of maternal stress on offspring as well as strategies to mitigate the effects of stress. Fall or Spring Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4470 Animal Models of Neuropsychiatric Disorders",
+    "courseid": "NRSC 4470",
+    "coursedescription": "This seminar will focus on the significant role of animal models in the investigation of the pathophysiology of a variety of human neuropsychiatric disorders as well as in the development of treatments for these disorders. The course will focus on the use of genetically modified mice in the investigation of Autistic Spectrum Disorders (ASD), anxiety and affective disorders, schizophrenia and obsessive-compulsive disorder (OCD), with an emphasis on the limitations of such models. Class time will consist of short lectures and open discussions via student-led presentations. Emphasis will be placed on the critical analysis of primary literature. Not Offered Every Year Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4473 Neuroeconomics Seminar",
+    "courseid": "NRSC 4473",
+    "coursedescription": "This seminar will review recent research that combines psychological, economic, and neuroscientific approaches to study human and animal decision-making. The course will focus on our current state of knowledge regarding the neuroscience of decision-making, and how evidence concerning the neural processes associated with choices might be used to constrain or advance economic and psychological theories of decision-making. Topics covered will include decisions involving risk and uncertainty, decisions that involve learning from experience, decisions in strategic interactions and games, and social preferences. Prerequisite: Psychology 149, 153, or 165, or permission of the instructor. Fall or Spring Also Offered As: PSYC 3790 Prerequisite: PSYC 1230 OR PSYC 2737 OR PPE 3003 1 Course Unit",
+    "course-prerequsities": [
+      "165",
+      "PSYC 3790",
+      "PSYC 1230",
+      "PSYC 2737",
+      "PPE 3003"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Psychology 149, 153, or 165, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "NRSC 4475 Neurodegenerative Disease",
+    "courseid": "NRSC 4475",
+    "coursedescription": "This course will familiarize students with advances in our understanding of the clinical features and pathogenesis of a wide range of neurodegenerative diseases, including Alzheimer's disease and other dementias, prion diseases, Parkinson's disease and atypical parkinsonisms, neurodegenerative ataxias, motoneuron diseases, degenerative diseases with chorea, iron and copper disorders, and mitochondrial diseases. Students will analyze original research reports on a range of proposed pathological cellular processes that may represent steps in cell dealth pathways leading to neuron loss seen in these diseases. Significant emphasis will be placed on the fast-expanding fieldexploring genetic contributions to neurodegenerative disease, as identification of genetic mutations pathogenenic for familial neurodegenerative diseases has been a major driving force in neurodegenerative research and pointed researchers towards essential molecular process that may underlie these disorders. Strategies for therapeutic intervention in the management, prevention, and cure of neurodegenerative disease will be addressed. Spring Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4477 Gut Feelings and Racing Hearts",
+    "courseid": "NRSC 4477",
+    "coursedescription": "Why does your stomach twist before a big exam? How can a racing heart make you feel anxious—or how can anxiety make your heart race? This seminar investigates the brain- body communication that gives rise to “gut feelings”, focusing on interoception (perception of internal bodily state) and autonomic control (regulation of those states). We will explore how the nervous system senses, integrates, and regulates signals from the body, how bodily states influence the mind, and what happens when this communication goes awry. We will also explore how to hack interoception to improve mental and physical health. Class sessions will center on lectures and discussions of primary and current research. Students will be required to orally present journal articles and participate in discussions. Fall Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4480 Biological Basis of Psychiatric Disorders",
+    "courseid": "NRSC 4480",
+    "coursedescription": "The contributions of basic sciences (neuroanatomy, neurophysiology, neurochemistry, and neuropharmacology) to an understanding of behavior and behavioral disorders will be covered and important psychiatric disorders will be discussed, primarily from the viewpoint of their biological aspects. Emphasis will be placed on critical evaluation of research strategies and hypotheses. Fall or Spring Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4482 Clinical Psychopharmacology",
+    "courseid": "NRSC 4482",
+    "coursedescription": "This course examines the history, rationale and putative mechanism of action of drugs used in the treatment of psychiatric disorders. Emphasis is placed on neurobiological processes underlying psychopathology and pharmacological intervention. Drugs currently in use as well as new drugs in development will be covered. Strategies, techniques, issues and challenges of clinical psychopharmacological research will be addressed and new approaches to drug discovery, including the use of pharmacogenomics and proteomics to understand variability in drug response and identify new molecular drug targets, will be covered in depth. Specific drug classes to be considered include antidepressants, anxiolytics, typical and atypical antipsychotics, narcotic analgesics, sedative hypnotics, and antiepileptic medications. A contrasting theme throughout the course will be the use of drugs as probes to identify neural substrates of behavior. Not Offered Every Year Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4485 Nerve and Muscle in Health and Disease",
+    "courseid": "NRSC 4485",
+    "coursedescription": "In this seminar course, we will deepen our understanding about excitability in the nervous system and in skeletal and cardiac muscle. A particular focus of the course will be the roles which calcium ions play as second messengers in nerve, muscle and synapse. We will study disease processes involving excitability and calcium handling, such as Long QT syndrome and hyperkalemic periodic paralysis. The later part of the course will have a journal club format, based on the reading and presentation of original papers, including papers about non-opioid analgesia and malignant hyperthermia. We will learn about the techniques used to study intracellular calcium and about how calcium is handled in nerve and muscle. Classical, physiological experiments will be interpreted in terms of modern molecular knowledge. Spring Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 4999 Advanced Independent Research",
+    "courseid": "NRSC 4999",
+    "coursedescription": "Continuation of NRSC 3999 research. Students will be required to attend weekly Honors Seminar meetings and give an oral presentation of their research at the annual Student Research Symposium. Fall or Spring Prerequisite: NRSC 3999 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 3999"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NRSC 5585 Theoretical and Computational Neuroscience",
+    "courseid": "NRSC 5585",
+    "coursedescription": "This course will develop theoretical and computational approaches to structural and functional organization in the brain. The course will cover: (i) the basic biophysics of neural responses, (ii) neural coding and decoding with an emphasis on sensory systems, (iii) approaches to the study of networks of neurons, (iv) models of adaptation, learning and memory, (v) models of decision making, and (vi) ideas that address why the brain is organized the way that it is. The course will be appropriate for advanced undergraduates and beginning graduate students. A knowledge of multi-variable calculus, linear algebra and differential equations is required (except by permission of the instructor). Prior exposure to neuroscience and/or Matlab programming will be helpful. Spring Also Offered As: BE 5300 , NGG 5940 , PHYS 5585 , PSYC 5390 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A knowledge of multi-variable calculus, linear algebra and differential equations is required (except by permission of the instructor)."
+      ]
+    }
+  }
+]

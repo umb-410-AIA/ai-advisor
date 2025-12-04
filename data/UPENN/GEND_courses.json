@@ -1,0 +1,242 @@
+[
+  {
+    "coursename": "GEND 9001 Introduction to Advanced Endodontics Textbook Review",
+    "courseid": "GEND 9001",
+    "coursedescription": "Introduction to Advanced Endodontics Textbook Review 2.5-3.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9011 Introduction to Advanced Endodontics Lab",
+    "courseid": "GEND 9011",
+    "coursedescription": "Introduction to Advanced Endodontics Lab 2.5-3.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9021 Topic Presentation I",
+    "courseid": "GEND 9021",
+    "coursedescription": "Topic Presentation I 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9022 Topic Presentation II",
+    "courseid": "GEND 9022",
+    "coursedescription": "Topic Presentation II 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9023 Topic Presentation III",
+    "courseid": "GEND 9023",
+    "coursedescription": "Topic Presentation III 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9024 Topic Presentation IV",
+    "courseid": "GEND 9024",
+    "coursedescription": "Topic Presentation IV 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9031 Clinical Conference I",
+    "courseid": "GEND 9031",
+    "coursedescription": "Clinical Conference I 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9032 Clinical Conference II",
+    "courseid": "GEND 9032",
+    "coursedescription": "Clinical Conference II 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9033 Clinical Conference III",
+    "courseid": "GEND 9033",
+    "coursedescription": "Clinical Conference III 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9034 Clinical Conference IV",
+    "courseid": "GEND 9034",
+    "coursedescription": "Clinical Conference IV 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9041 Literature Review I",
+    "courseid": "GEND 9041",
+    "coursedescription": "Literature Review I 1-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9042 Literature Review II",
+    "courseid": "GEND 9042",
+    "coursedescription": "Literature Review II 1-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9043 Literature Review III",
+    "courseid": "GEND 9043",
+    "coursedescription": "Literature Review III 1-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9044 Literature Review IV",
+    "courseid": "GEND 9044",
+    "coursedescription": "Literature Review IV 1-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9051 Guest Lecture Series I",
+    "courseid": "GEND 9051",
+    "coursedescription": "Guest Lecture Series I 2-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9052 Guest Lecture Series II",
+    "courseid": "GEND 9052",
+    "coursedescription": "Guest Lecture Series II 2-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9053 Guest Lecture Series III",
+    "courseid": "GEND 9053",
+    "coursedescription": "Guest Lecture Series III 2-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9054 Guest Lecture Series IV",
+    "courseid": "GEND 9054",
+    "coursedescription": "Guest Lecture Series IV 2-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9071 Pulp Biology Fall",
+    "courseid": "GEND 9071",
+    "coursedescription": "Pulp Biology Fall 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9072 Pulp Biology Spring",
+    "courseid": "GEND 9072",
+    "coursedescription": "Pulp Biology Spring 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9081 Dental Trauma Fall",
+    "courseid": "GEND 9081",
+    "coursedescription": "Dental Trauma Fall 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9082 Dental Trauma Spring",
+    "courseid": "GEND 9082",
+    "coursedescription": "Dental Trauma Spring 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9091 Clinical Endodontics I",
+    "courseid": "GEND 9091",
+    "coursedescription": "Clinical Endodontics I 14-16 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9092 Clinical Endodontics II",
+    "courseid": "GEND 9092",
+    "coursedescription": "Clinical Endodontics II 21-24 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9093 Clinical Endodontics III",
+    "courseid": "GEND 9093",
+    "coursedescription": "Clinical Endodontics III 21-24 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9094 Clinical Endodontics IV",
+    "courseid": "GEND 9094",
+    "coursedescription": "Clinical Endodontics IV 21-24 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9101 Endodontic Research I",
+    "courseid": "GEND 9101",
+    "coursedescription": "Endodontic Research I 17-20 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9102 Endodontic Research II",
+    "courseid": "GEND 9102",
+    "coursedescription": "Endodontic Research II 17-20 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9103 Endodontic Research III",
+    "courseid": "GEND 9103",
+    "coursedescription": "Endodontic Research III 17-20 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GEND 9104 Endodontic Research IV",
+    "courseid": "GEND 9104",
+    "coursedescription": "Endodontic Research IV 17-20 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

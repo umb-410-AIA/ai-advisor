@@ -1,0 +1,970 @@
+[
+  {
+    "coursename": "MKTG 0001 Viral Marketing",
+    "courseid": "MKTG 0001",
+    "coursedescription": "Why do some products catch on and become popular while others fail? Why do apps and services take off while others languish? And why do certain ads, messages, or ideas stick in memory while others disappear the minute you hear them? Diffusion, social media, word of mouth, and viral marketing have become important topics for companies, brands, and organizations. Marketers want their product to be popular, organizations want their social change initiative to catch on, and entrepreneurs want their ideas to stick. This course investigates these and other topics as it explains how things catch on and become popular. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 0002 Consumer Behavior",
+    "courseid": "MKTG 0002",
+    "coursedescription": "The purpose of this course is to provide students with working knowledge of the major theories and research findings in the area of consumer behavior. The goal of this course is for students to gain a deeper understanding of the psychologies behind behaviors, judgments, and decision-making, and to gain insight into how to apply them to influence behavior in the marketplace. By the end of this course, students should not only be familiar with a large body of consumer behavior literature, but should also be able to identify theories as they play out in the real world, and be able to apply behavioral principles to a variety of marketing problems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 0003 The Art and Science of Influence",
+    "courseid": "MKTG 0003",
+    "coursedescription": "Persuasion is part of the fabric of our everyday life. Governments, commercial entities, political leaders, corporations and institutions, social and public health groups, and even intimates engage in persuasive efforts. This course provides a comprehensive overview of influence techniques, emphasizing contemporary theories and ways to present your ideas in a persuasive way. Beginning with fundamentals of negotiations, the course progresses to explore the intricate relationships between attitudes and behaviors. The journey encompasses cognitive as well as emotional biases and will equip students with a toolbox of science-based persuasion techniques. In particular, students will learn some hands-on tactics in the domains of data visualization, communication of numbers, and persuasive writing. \"The Art and Science of Influence\" is not just a course, it is a transformative exploration of the mechanisms that shape our choices, beliefs, and actions in a world full of persuasive forces. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 0004 Principles of Advertising",
+    "courseid": "MKTG 0004",
+    "coursedescription": "The purpose of this course is to provide students with an opportunity to learn and apply the major frameworks, principles, and practices of effective advertising management as part of an Integrated Marketing Communications (IMC) program. By the end of this course, students should have a deep understanding of advertising, and the ability to think strategically across the functional areas of marketing communication. This class will focus on: 1) developing effective advertising and communications strategies; 2) crafting creative campaigns and advertisements; 3) making efficient selections and use of media more maximal impact; and 4) considering ethical questions related to advertising practices. The course will incorporate presentations of key concepts, in-class exercises, analysis of advertisements and IMC activities, and case discussions.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 1010 Introduction to Marketing",
+    "courseid": "MKTG 1010",
+    "coursedescription": "The objective of this course is to introduce students to the concepts, analyses, and activities that comprise marketing management, and to provide practice in assessing and solving marketing problems. The course is also a foundation for advanced electives in Marketing as well as other business/social disciplines. Topics include marketing strategy, customer behavior, segmentation, customer lifetime value, branding, market research, product lifecycle strategies, pricing, go-to-market strategies, promotion, and marketing ethics. Fall or Spring Mutually Exclusive: MKTG 1018 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 1018 Introduction to Marketing",
+    "courseid": "MKTG 1018",
+    "coursedescription": "The objective of this course is to introduce students to the concepts, analyses, and activities that comprise marketing management, and to provide practice in assessing and solving marketing problems. The course is also a foundation for advanced electives in Marketing as well as other business/social disciplines. Topics include marketing strategy, customer behavior, segmentation, customer lifetime value, branding, market research, product lifecycle strategies, pricing, go-to-market strategies, promotion, and marketing ethics. (This is the honors section of MKTG 1010 open only to Joseph Wharton Scholars). Mutually Exclusive: MKTG 1010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 2110 Consumer Behavior",
+    "courseid": "MKTG 2110",
+    "coursedescription": "This course is concerned with how and why people behave as consumers. Its goals are to: (1) provide conceptual understanding of consumer behavior, (2) provide experience in the application of buyer behavior concepts to marketing management decisions and social policy decision-making; and (3) to develop analytical capability in using behavioral research. Fall or Spring Mutually Exclusive: MKTG 7110 Prerequisite: MKTG 1010 or MKTG 1018 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 2120 Data and Analysis for Marketing Decisions",
+    "courseid": "MKTG 2120",
+    "coursedescription": "This course introduces students to the fundamentals of data-driven marketing, including topics from marketing research and analytics. It examines the many different sources of data available to marketers, including data from customer transactions, surveys, pricing, advertising, and A/B testing, and how to use those data to guide decision-making. Through real-world applications from various industries, including hands-on analyses using modern data analysis tools, students will learn how to formulate marketing problems as testable hypotheses, systematically gather data, and apply statistical tools to yield actionable marketing insights. Fall or Spring Mutually Exclusive: MKTG 7120 Prerequisite: ( MKTG 1010 OR MKTG 1018 ) AND ( STAT 1010 OR STAT 1110 OR STAT 4300 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018",
+      "STAT 1010",
+      "STAT 1110",
+      "STAT 4300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 2250 Principles of Retailing",
+    "courseid": "MKTG 2250",
+    "coursedescription": "This course is a cross-functional overview of retailing – from types of retailers to current trends and strategies. The objective is to familiarize students with the retail business model in its various forms – from pure store-based retailers, to digital natives, and everything in-between. Topics will include structures & organizational models, channels & formats, real estate & locations, marketing & customer relationship management, the full merchandising cycle (planning & buying to display & pricing), and operations & technology. This knowledge will be fundamental to careers working for retailers themselves (e-commerce or omnichannel), but also in consulting to retailers, in banking or investing in the retail sector, or even starting a brand or retail concept. Those seeking more depth in product design & development, buying, planning, pricing, and visual merchandising should consider taking Retail Merchandising ( MKTG 3060 ). Those seeking more depth in sourcing, distribution, fulfillment, and store/site operations should consider taking Retail Supply Chain Management (OIDD 3970) Fall Mutually Exclusive: MKTG 7250 Prerequisite: MKTG 1010 OR MKTG 1018",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 2270 Analytics and AI in Digital Marketing and Social Media",
+    "courseid": "MKTG 2270",
+    "coursedescription": "Digital marketing plays a key role in shaping the modern economy, fueling modern business, affecting public policy, and enabling new forms of social communication. The field is also unique in its reliance on data analytics, consumer behavior and behavioral economics theories and advanced experimental technologies. Recently, generative AI and LLMs make it easier to create an abundance of content easily but also make it harder to garner online attention. MKTG 2270 provides a framework-driven and applied approach to understanding digital marketing and electronic commerce. The course is organized into two sections and utilizes relevant theory, empirical analysis, and practical examples, to develop the key learning points. Guest speakers will participate as well, as appropriate to augment class learning. Spring Mutually Exclusive: MKTG 2700, MKTG 7270 , MKTG 7700 Prerequisites: Using a spreadsheet, and basic statistics (linear regression)",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 2340 Idea Generation & the Systematic Approach for Creativity",
+    "courseid": "MKTG 2340",
+    "coursedescription": "The ability to solve problems creatively and generate change is a recognized standard of success and plays an important role in gaining a competitive advantage in many areas of business management. This course is designed to teach students several creative problem solving methodologies that complement other managerial tools acquired in undergraduate and graduate studies. The course offers students the opportunity to learn how to solve problems, identify opportunities, and generate those elusive ideas that potentially generate enormous benefits to organizations. The objectives of this course are to enhance the students' (a) creativity, (b) ability to innovate and (c) ability to identify, recruit, develop, manage, retain, and collaborate with creative people. The course includes: 1. A review of the literature on creativity, creative people, innovation, and design as well as the leadership and management of creative people and innovation. 2. Hands on learning of approaches for generating creative ideas. Students will have the opportunity of implementing the techniques studied in class. 3. Applications of creativity to selected management domains - Approaches to the generation of creative options are not limited to the development of products and services or businesses, but can be applied to all areas of management, business, and life. The purpose of these sessions is to explore the applications of creative approaches to marketing, advertising, organizational design, negotiations, and other management challenges. 4. Integration - Both via individual assignments and a group project in which interdisciplinary teams of students generate a creative product/service/customer. Fall Mutually Exclusive: MKTG 7340",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Applications of creativity to selected management domains - Approaches to the generation of creative options are not limited to the development of products and services or businesses, but can be applied to all areas of management, business, and life."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 2370 Applied Neuroscience for Business Decisions",
+    "courseid": "MKTG 2370",
+    "coursedescription": "This course provides an overview of contemporary brain science and its applications to business. Students are first rapidly introduced to the basic anatomy and physiology of the brain and become familiar with important techniques for measuring and manipulating brain function. The course then surveys major findings in neuroscience with applications to business, including vision, attention and advertising; valuation and marketing; decision making; learning, innovation and creativity; social influence, team-building, and leadership; and discussion of the ethical, legal, and societal implications of applying neuroscience to business. Applications to business, education, sports, law, and policy are discussed throughout. Fall Mutually Exclusive: MKTG 7370",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 2380 Consumer Neuroscience",
+    "courseid": "MKTG 2380",
+    "coursedescription": "How can studying the brain improve our understanding of consumer behavior? While neuroscience made tremendous strides throughout the past few decades, rarely were meaningful applications developed outside of medicine. Recently, however, breakthroughs in measurement and computation have accelerated brain science, and created an array of opportunities in business and technology. Currently, applications to marketing research and product development are experiencing explosive growth that has been met with both excitement and skepticism. This mini course provides an overview of the neuroscience behind and the potential for these developments. Topics will range from well-known and widely used applications, from eye-tracking measures in the lab and the field, to emerging methods and measures such as mobile technologies, face-reading, and neural predictors of market response. This course is self-contained and has no prerequisites. However, students with some background in business, economics, psychology, and/or neuroscience are likely to find some of the material covered in this course complementary to their existing knowledge. Much of the foundational work in consumer neuroscience and neuroeconomics involves laboratory experiments. Accordingly, we will read and discuss several experimental papers and the craft of designing an experiment will occasionally be discussed. However, we will not dedicate significant time to the methodology of experimental design and analysis. As will become clear as the course progresses, “consumer neuroscience\" can be used to study almost any aspect of consumer behavior. Fall Mutually Exclusive: MKTG 3500 , MKTG 7380 , MKTG 8500",
+    "course-prerequsities": [
+      "MKTG 3500",
+      "MKTG 7380",
+      "MKTG 8500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 2390 Visual Marketing",
+    "courseid": "MKTG 2390",
+    "coursedescription": "As consumers, we are constantly exposed to advertisements and experience visual messages from product packages in stores, retail displays, and products already owned. In essence, visual marketing collateral is omnipresent and is an essential part of corporate visual identity, strategy, branding, and communication. Some of this falls to creative graphic design, but advertising, design, and marketing can also be significantly enhanced by knowledge of how visual information and its presentation context can be optimized to deliver desirable and advantageous messages and experiences. This course will emphasize how to measure, interpret, and optimize visual marketing. This course will use lectures, discussions, exercises and a group project, to help students understand the underlying processes that influence our visual perception and visual cognition. Students will learn about the theoretical processes and models that influence, attention and visual fluency. Students will also be exposed to eye-tracking instruments that help measure eye movement. Finally, we will explore how visual stimuli can influence consumer memory, persuasion, and choice. We will examine practical applications in marketing, advertising, packaging, retail, and design contexts. Spring Mutually Exclusive: MKTG 7390 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 2470 Marketing Strategy for Technology Platforms",
+    "courseid": "MKTG 2470",
+    "coursedescription": "This course focuses on the unique aspects of creating effective marketing and management strategies for technology-intensive on-line and off-line businesses. It addresses the effective competitive marketing strategies for winning in markets which are powered by technology: specifically, how firms create value for customers and how they can integrate technology in delivering a better consumer experience. While competitive marketing strategy is important for all managers, this course will be particularly useful to students who are planning to accept a position in leading technology companies, and marketing firms in which technology is likely to play an important role. In addition, the course will provide value to those who expect to work in consulting or investing in technology industries, and must analyze firm strategies. Course open to sophomores, juniors and seniors. Spring Mutually Exclusive: MKTG 7470 Prerequisite: MKTG 1010 or MKTG 1018",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 2520 Marketing Analytics",
+    "courseid": "MKTG 2520",
+    "coursedescription": "Companies are currently spending millions of dollars on data-gathering initiatives, but few are successfully capitalizing on all this data to generate revenue and increase profit. Converting data into increased business performance requires the ability to extract insights from data through analytics. This course covers the three pillars of analytics – descriptive, predictive and prescriptive – within the marketing context. Descriptive Analytics examines different types of data and how they can be visualized, ultimately helping you communicate your findings and strengthen your team’s or organization’s decision making. Predictive Analytics explores the use of data for forecasting. You will learn to utilize various tools, including regression analysis, to estimate relationships among variables and predict future behavior. Prescriptive Analytics takes you through the final step — formulating concrete recommendations. These recommendations can be directed toward a variety of marketing actions, including pricing and social-platform outreach. Students will be exposed to several methods such as linear regression, logistic regression, multinomial regression, machine learning methods (e.g., neural networks and random forests). We will learn how to employ these methods for such managerial decisions as demand forecasting, pricing, and valuing customers. Overall, you will develop a data analytics mindset, learn new tools, and understand how to convert numbers into actionable insights. Spring Mutually Exclusive: MKTG 3520 Prerequisite: ( MKTG 1010 OR MKTG 1018 ) AND ( STAT 1010 OR STAT 1018 )",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018",
+      "STAT 1010",
+      "STAT 1018"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Students will be exposed to several methods such as linear regression, logistic regression, multinomial regression, machine learning methods (e.g., neural networks and random forests)."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 2540 Pricing Policy",
+    "courseid": "MKTG 2540",
+    "coursedescription": "The pricing decision process including economic, marketing, and behavioral phenomena which constitute the environment for pricing decisions and the information and analytic tools useful to the decision maker. Spring Mutually Exclusive: MKTG 2880 , MKTG 7540 Prerequisite: MKTG 1010 or MKTG 1018",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 2600 Antitrust and Big Tech",
+    "courseid": "MKTG 2600",
+    "coursedescription": "This course considers the role of antitrust law in facilitating and policing the business strategies of dominant firms and joint enterprises. We will examine technology-driven firms such as Amazon, Apple, Facebook, Google, Uber, and Microsoft, as well as disrupted industries such as the digital music industry. In each case, we will consider how firms adapted their strategies to rapidly changing technological environments and ask whether antitrust law served to promote or to hinder innovation and competitive development. Course coverage will range over all portions of the business economy in which competition and innovation are important, but emphasizing markets that have a significant technological component. We will also study a series of classic business cases in technology rich markets, including the American Can Company, Standard Oil, and DuPont. We will pay special attention to the role of intellectual property rights in fostering both individual and collaborative innovation. Fall or Spring Also Offered As: LGST 2050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 2650 Principles of Advertising",
+    "courseid": "MKTG 2650",
+    "coursedescription": "This course focuses on advertising via all media - print, digital, video, TV, Internet, etc. Emphasis is placed on understanding the communication development process and consumer behavior (psychology), the measurement and evaluation of advertising effects, and developing appropriate media plans. Fall Mutually Exclusive: MKTG 2240 Prerequisite: MKTG 1010 OR MKTG 1018 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 2680 Contagious: How Things Catch On",
+    "courseid": "MKTG 2680",
+    "coursedescription": "Why do some things catch on? Products become popular, apps take off, and videos go viral. Why? What makes some things succeed while others fail, and how, by understanding the behavioral science behind social epidemics, can we make our own stuff more successful? This course looks at these and related questions as it examines why things become popular. Building on research from psychology, sociology, marketing, and economics, the course explores characteristics of products, services, and ideas that lead them to catch on, what makes ideas stick, and how social dynamics shape success. We’ll talk about viral marketing, growth strategies, the role of social media, and influencers. Whether you have a product, service, or idea you want to catch on, or just want to better understand social epidemics, this course will shed light on what drives success. Spring Mutually Exclusive: MKTG 7680",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 2710 Models for Marketing Strategy",
+    "courseid": "MKTG 2710",
+    "coursedescription": "The course develops students’ skills in using analytics to make better marketing decisions. Compared to other courses in marketing analytics, the focus is less on ‘what is happening?’ or ‘what will happen?’ and more on ‘what should we do?’ I.e., the course moves beyond descriptive and predictive analytics into prescriptive analytics. It covers a variety of topics, models and tools: (1) Marketing mix modeling & optimization, (2) Choice modeling, choice-based conjoint analysis & market simulators, (3) Modeling churn & maximizing customer lifetime value, and (4) Quantifying causal effects in marketing. The course requires familiarity with Excel and linear regression from the very first day, but is otherwise self-contained. Lectures are organized around a mini-case or illustrate the model/technique at hand through one or more real-life applications. Fall Mutually Exclusive: MKTG 7710 Prerequisite: ( MKTG 1010 OR MKTG 1018 ) AND ( STAT 1010 OR STAT 1018 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018",
+      "STAT 1010",
+      "STAT 1018"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 2770 Marketing Strategy",
+    "courseid": "MKTG 2770",
+    "coursedescription": "This course views marketing as both a general management responsibility and an orientation of an organization that helps one to create, capture and sustain customer value. The focus is on the business unit and its network of channels, customer relationships, and alliances. Specifically, the course attempts to help develop knowledge and skills in the application of advanced marketing frameworks, concepts, and methods for making strategic choices at the business level. Fall Mutually Exclusive: MKTG 7770 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 2780 Strategic Brand Management",
+    "courseid": "MKTG 2780",
+    "coursedescription": "Which brands make you happy? Apple? Amazon? Starbucks? Everlane? Soulcycle? Sweetgreen? What draws you into these brands? How do companies create compelling brand experiences? How could you cultivate a well-loved brand? This course explores such questions with the goal of identifying the ingredients for building an inspired brand. The course is created for students interested in building a brand and/or immersing themselves in the enhancement of an existing brand, and it is comprised of lectures, cases, guest speakers, discussions, in and out of class exercises, and a final project. Broadly, the course will be divided into four parts: 1) Understanding Brand, 2) Crafting Brand, 3) Measuring Brand, and 4) Managing Brand. The course will provide students with an appreciation of the role of branding and (taking a consumer-centric approach) will augment students' ability to think creatively and critically about the strategies and tactics involved in building, leveraging, defending, and sustaining inspired brands. Spring Mutually Exclusive: MKTG 7780 Prerequisite: MKTG 1010 OR MKTG 1018 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is created for students interested in building a brand and/or immersing themselves in the enhancement of an existing brand, and it is comprised of lectures, cases, guest speakers, discussions, in and out of class exercises, and a final project."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 2790 AI in Our Lives: The Behavioral Science of Autonomous Technology",
+    "courseid": "MKTG 2790",
+    "coursedescription": "This course takes a behavioral perspective on the topic of autonomous technology, such as Artificial Intelligence. It reviews new insights to help companies thrive in the dawning age of smart machines. The emerging behavioral science of autonomous technology helps us understand barriers to consumer adoption and how to design captivating AI experiences. Moreover, we discuss how to improve managerial decision-making with data and algorithms. This is a non-technical course. No coding or data science skills are required. The course uses a blend of pedagogical approaches, including interactive lectures, workshops, guest lectures, and case discussions, to bridge two perspectives. On one side, we acknowledge the tremendous value that autonomous technology can provide to firms and individual consumers. In many ways, automation defines progress. On the other side, we examine emerging risks for consumers in an AI-driven economy. The main theoretical lens will be offered by psychology, but we will also examine ideas from economics, management, history, statistics, computer science, art, sociology, and philosophy. The application contexts will focus on marketing. While also relevant to other disciplines (e.g., operations, innovation), the course is therefore especially suitable for students interested in a career in marketing (e.g., product management, customer experience management). Spring Mutually Exclusive: MKTG 3550 , MKTG 7790 , MKTG 8550 Prerequisite: MKTG 1010 or MKTG 1018",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "While also relevant to other disciplines (e.g., operations, innovation), the course is therefore especially suitable for students interested in a career in marketing (e.g., product management, customer experience management)."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 2880 Pricing Strategies",
+    "courseid": "MKTG 2880",
+    "coursedescription": "This course is designed to equip students with the concepts, techniques, and latest thinking on pricing issues, with an emphasis on ways in which to help a firm improve its pricing. The orientation of the course is about practice of pricing, not theory. We will focus on how firms can improve profitability through pricing, look at how firms set their prices and how to improve current practices to increase profitability. The first part of the course focuses on how to analyze costs, customers, and competitors in order to formulate proactive pricing strategies. The second part focuses on price promotions, price bundling, price discrimination, versioning, nonlinear pricing, pricing through a distribution channel, dynamic pricing, etc. Spring Mutually Exclusive: MKTG 2540 , MKTG 7540 Prerequisite: MKTG 1010 or MKTG 1018 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 3060 Retail Merchandising (Center Special Topic)",
+    "courseid": "MKTG 3060",
+    "coursedescription": "As a follow-on to Principles of Retailing ( MKTG 2250 ), this course delves more deeply into both the fundamentals and recent trends in the end-to-end retail merchandising process. The objective is to familiarize students with both the theory and practice of planning, buying, designing, pricing, and displaying merchandise to consumers. This knowledge will be fundamental to careers working for retailers themselves (e-commerce or omnichannel), but also in consulting to retailers, in banking or investing in the retail sector, or even starting a brand or retail concept. Those seeking more depth in sourcing, distribution, fulfillment, and store/site operations should consider taking Retail Supply Chain Management (OIDD 3970). Spring Mutually Exclusive: MKTG 8060 Prerequisite: MKTG 1010 OR MKTG 1018 OR MKTG 2250",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018",
+      "MKTG 2250"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 3090 Experiments for Business Decision Making (Center Special Topic)",
+    "courseid": "MKTG 3090",
+    "coursedescription": "EXPERIMENTS FOR BUSINESS DECISION MAKING: In the past decade, massive shifts in how companies interact with their customers have suddenly made field experiments an economically feasible way to learn about a variety of business questions such as what types of promotions are most effective, what products should be stocked at a store, how e-mail promotions should be designed, how sales staff should be compensated, etc. Many marketers engaged in online retailing, direct-marketing, online advertising, media management, etc. are rapidly embracing a \"test and learn\" philosophy and a number of platforms such as Google Website Optimizer, have been developed to facilitate rigorous field experiments in the online environment. Just as with the quality revolution in manufacturing during the 1980s and 1990s, the rapid rise of the \"test and learn\" philosophy in marketing has created a huge demand for those who can design, field, and analyze marketing experiments. Through this course, you will learn and practice a wide range of critical skills, from the statistical methods used to design and analyze experiments to the management and strategy required to execute an experiment and act on the results. Although the cases and examples will focus on marketing problems, the material covered can be applied in a number of other domains particularly operations management and product design. Not Offered Every Year Mutually Exclusive: MKTG 8090 Prerequisite: MKTG 1010 or MKTG 1018 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 3500 Special Topics - Consumer Neuroscience",
+    "courseid": "MKTG 3500",
+    "coursedescription": "CONSUMER NEUROSCIENCE: How can studying the brain improve our understanding of consumer behavior? While neuroscience made tremendous strides throughout the 20th century, rarely were meaningful applications developed outside of medicine. Recently, however, breakthroughs in measurement and computation have accelerated brain science and created a dizzying array of opportunities in business and technology. Currently, applications to marketing research and product development are experiencing explosive growth that has been met with both excitement and skepticism. This mini-course provides an overview of the neuroscience behind and the potential for these developments. Topics will range from well-known and widely used applications, such as eye-tracking measures in the lab and field, to emerging methods and measures, such as mobile technologies, face-reading algorithms, and neural predictors of marketing response. The course will also discuss applications in branding and product development, including wearable physiological devices and apps, sensory branding for foods and fragrances, pharmaceuticals and medical devices, and neuroscience-based products designed to enhance cognitive functions. These applications stem from many subfields of cognitive neuroscience, including attention, emotion, memory, and decision making. This course is self-contained and has no prerequisites. However, students with some background in business, economics, psychology, and/or neuroscience are likely to find the material covered in this course complementary to their existing knowledge. Spring Mutually Exclusive: MKTG 2380 , MKTG 7380 , MKTG 8500",
+    "course-prerequsities": [
+      "MKTG 2380",
+      "MKTG 7380",
+      "MKTG 8500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 3530 Special Topics: The Business of Wellness: Marketing and Consumption",
+    "courseid": "MKTG 3530",
+    "coursedescription": "Wellness relates to the active pursuit of activities, choices, and lifestyles that lead to a state of holistic health. The global wellness industry represents a rapidly expanding, multi-trillion-dollar market. The purpose of this course is to provide a better understanding of the marketing of wellness brands, services, and products and the consumer behavior of wellness. Throughout the course, we will explore: 1) The evolution of the wellness industry and its various sub-industries (e.g., fitness, beauty, mindfulness, mental health, food/drink, tourism, etc.); 2) How organizations “sell wellness” through marketing strategies and tactics; and 3) “Consuming wellness,” or the consumer psychology and behaviors that contribute to or detract from one’s personal wellness. We will also consider significant ethical and moral issues in the wellness industry, and how consumers can be more discerning of wellness offerings. These topics will be explored through the specific lenses of marketing, consumer culture, and consumer psychology. By the end of the semester, students should have a better understanding of the wellness industry, including its various stakeholders, evolution, the business opportunities and challenges, and consumer behaviors. Spring Prerequisite: MKTG 1010 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 1010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 3540 Special Topics",
+    "courseid": "MKTG 3540",
+    "coursedescription": "Course titles and descriptions for Special Topics courses can be found in Path@Penn for the term in which they are offered. See \"SECTION DETAILS\" in Path@Penn for the course description and use the Syllabi@Wharton app to see the course syllabus. Spring Mutually Exclusive: MKTG 8540 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 3550 Special Topics - AI in Our Lives",
+    "courseid": "MKTG 3550",
+    "coursedescription": "“AI in Our Lives: The Behavioral Science of Autonomous Technology” (or “AI in Our Lives” for short) takes a behavioral perspective on the topic of autonomous technology, such as Artificial Intelligence. It reviews new behavioral insights to help companies thrive in the dawning age of smart machines. We focus on both the behavior of consumers and how managers should make decisions about consumers. Related to the former, the emerging behavioral science of autonomous technology helps us understand barriers to consumer adoption and how to design captivating AI experiences. Related to the latter, we discuss how to improve decision-making with data and algorithms. This is a non-technical course. No coding or data science skills are required. The course uses interdisciplinary materials and a blend of pedagogical approaches, including interactive lectures, workshops, guest lectures, and case discussions. In addition to its many substantive insights, the course offers moments of reflection to help you understand how technology is changing our lives, and how each of us can help effect positive change in the world. The course bridges two perspectives. On one side, we acknowledge the tremendous value that autonomous technology can provide to firms and individual consumers. In many ways, automation defines progress. On the other side, we examine emerging risks for consumers in an AI-driven economy. The main theoretical lens will be offered by psychology, but we will also examine ideas from economics, management, history, statistics, computer science, art, sociology, and philosophy. The application contexts will be focused on marketing. While also relevant to other disciplines (e.g., operations, IT, innovation, or general management), this course is therefore especially suitable for students interested in a career in marketing (e.g., product management, brand management, service design, and customer experience management). The ultimate goal of the course is to help ensure that the amazing technologies currently being developed bring about positive change. The course will strive to achieve that by tackling the following UN Sustainable Development Goals: SDG9 (Innovation), SDG8 (Economic growth), SDG3 (Health and wellbeing), SDG10 (Reduced inequality), and SDG12 (Responsible consumption and production). The course complements the research activities of the new Wharton Human-Centered Technology Initiative. Spring Mutually Exclusive: MKTG 2790 , MKTG 7790 , MKTG 8550 Prerequisite: MKTG 1010 OR MKTG 1018 0-1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "While also relevant to other disciplines (e.g., operations, IT, innovation, or general management), this course is therefore especially suitable for students interested in a career in marketing (e.g., product management, brand management, service design, and customer experience management)."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 3990 Independent Study",
+    "courseid": "MKTG 3990",
+    "coursedescription": "Fall or Spring Mutually Exclusive: MKTG 8990 Prerequisite: MKTG 2120 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 2120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 4010 Marketing Analytics Capstone: Learning by Doing",
+    "courseid": "MKTG 4010",
+    "coursedescription": "Companies spend enormous amounts of money on data-gathering initiatives in order to increase profits. In order to go “from data to profit”, we must extract meaningful information from data and then translate the data-based insights into recommendations that are linked to business performance. This course uses marketing as an application area in which to practice these skills. In this course, you will: (1) Apply analytics knowledge to a complex “real world” case, with a focus on the synthesis of knowledge acquired across the curriculum; (2) Practice analytical thinking skills (analyzing and framing business problems and problem-solving techniques), including consideration of ethical issues; (3) Practice written and oral communication skills in a team environment, leveraging the experience you have developed in earlier years of the leadership Journey, and (4) Reflect on your own social and intellectual development over your time at Wharton and Penn. Overall, you will develop a data analytics mindset, learn new tools, and practice generating actionable insights from data. Spring Prerequisite: ( MKTG 1010 OR MKTG 1018 ) AND WH 1010 AND WH 2010 AND MGMT 3010",
+    "course-prerequsities": [
+      "MKTG 1010",
+      "MKTG 1018",
+      "WH 1010",
+      "WH 2010",
+      "MGMT 3010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 4760 Applied Probability Models in Marketing",
+    "courseid": "MKTG 4760",
+    "coursedescription": "This course will expose students to the theoretical and empirical \"building blocks\" that will allow them to construct, estimate, and interpret powerful models of consumer behavior. Over the years, researchers and practitioners have used these models for a wide variety of applications, such as new product sales, forecasting, analyses of media usage, and targeted marketing programs. Other disciplines have seen equally broad utilization of these techniques. The course will be entirely lecture-based with a strong emphasis on real-time problem solving. Most sessions will feature sophisticated numerical investigations using Microsoft Excel. Much of the material is highly technical. Spring Also Offered As: STAT 4760 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 6110 Marketing Management",
+    "courseid": "MKTG 6110",
+    "coursedescription": "This course addresses how to design and implement the best combination of marketing efforts to carry out a firm's strategy in its target markets. Specifically, this course seeks to develop the student's (1) understanding of how the firm can benefit by creating and delivering value to its customers, and stakeholders, and (2) skills in applying the analytical concepts and tools of marketing to such decisions as segmentation and targeting, branding, pricing, distribution, and promotion. The course uses lectures and case discussions, case write-ups, student presentations, and a comprehensive final examination to achieve these objectives. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 6120 Dynamic Marketing Strategy",
+    "courseid": "MKTG 6120",
+    "coursedescription": "Building upon Marketing 611, the goal of this course is to develop skills in formulating and implementing marketing strategies for brands and businesses. The course will focus on issues such as the selection of which businesses and segments to compete in, how to allocate resources across businesses, segments, and elements of the marketing mix, as well as other significant strategic issues facing today's managers in a dynamic competitive environment. A central theme of the course is that the answer to these strategic problems varies over time depending on the stage of the product life cycle at which marketing decisions are being made. As such, the PLC serves as the central organizing vehicle of the course. We will explore such issues as how to design optimal strategies for the launch of new products and services that arise during the introductory phase, how to maximize the acceleration of revenue during the growth phase, how to sustain and extend profitability during the mature phase, and how to manage a business during the inevitable decline phase. Fall or Spring Prerequisite: MKTG 6110",
+    "course-prerequsities": [
+      "MKTG 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 6130 Strategic Marketing Simulation",
+    "courseid": "MKTG 6130",
+    "coursedescription": "Building upon Marketing 611, Marketing 613 is an intensive immersion course designed to develop skills in formulating and implementing marketing strategies for brands and businesses. The central activity will be participation in a realistic integrative product management simulation named SABRE. In SABRE, students will form management teams that oversee all critical aspects of modern product management: the design and marketing of new products, advertising budgeting and design, sales force sizing and allocation, and production planning. As in the real world, teams will compete for profitability, and the success that each team has in achieving this goal will be a major driver of the class assessment. The SABRE simulation is used to convey the two foci of learning in the course: the changing nature of strategic problems and their optimal solutions as industries progress through the product life cycle, and exposure to the latest analytic tools for solving these problems. Specifically, SABRE management teams will receive training in both how to make optimal use of marketing research information to reduce uncertainty in product design and positioning, as well as decision support models to guide resource allocation. Spring Prerequisite: MKTG 6110",
+    "course-prerequsities": [
+      "MKTG 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 7110 Consumer Behavior",
+    "courseid": "MKTG 7110",
+    "coursedescription": "Marketing begins and ends with the customer, from determining customers' needs and wants to providing customer satisfaction and maintaining customer relationships. This course examines the basic concepts and principles in customer behavior with the goal of understanding how these ideas can be used in marketing decision making. The class will consist of a mix of lectures, discussions, cases, assignments, project work and exams. Topics covered include customer psychological processes (e.g., motivation, perception, attitudes, decision-making) and their impact on marketing (e.g., segmentation, branding, and customer satisfaction). The goal is to provide you with a set of approaches and concepts to consider when faced with a decision involving understanding customer responses to marketing actions. Fall or Spring Mutually Exclusive: MKTG 2110 Prerequisite: MKTG 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 7120 Data and Analysis for Marketing Decisions",
+    "courseid": "MKTG 7120",
+    "coursedescription": "This course introduces students to the fundamentals of data-driven marketing, including topics from marketing research and analytics. It examines the many different sources of data available to marketers, including data from customer transactions, surveys, pricing, advertising, and A/B testing, and how to use those data to guide decision-making. Through real-world applications from various industries, including hands-on analyses using modern data analysis tools, students will learn how to formulate marketing problems as testable hypotheses, systematically gather data, and apply statistical tools to yield actionable marketing insights. Fall or Spring Mutually Exclusive: MKTG 2120 Prerequisite: MKTG 6110 AND STAT 6130 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "STAT 6130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 7250 Principles of Retailing",
+    "courseid": "MKTG 7250",
+    "coursedescription": "This course is a cross-functional overview of retailing – from types of retailers to current trends and strategies. The objective is to familiarize students with the retail business model in its various forms – from pure store-based retailers, to digital natives, and everything in-between. Topics will include structures & organizational models, channels & formats, real estate & locations, marketing & customer relationship management, the full merchandising cycle (planning & buying to display & pricing), and operations & technology. This knowledge will be fundamental to careers working for retailers themselves (e-commerce or omnichannel), but also in consulting to retailers, in banking or investing in the retail sector, or even starting a brand or retail concept. Those seeking more depth in product design & development, buying, planning, pricing, and visual merchandising should consider taking Retail Merchandising ( MKTG 8060 ). Those seeking more depth in sourcing, distribution, fulfillment, and store/site operations should consider taking Retail Supply Chain Management ( OIDD 6970 ). Fall Mutually Exclusive: MKTG 2250 Prerequisite: MKTG 6110 AND ( MKTG 6120 OR MKTG 6130 )",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "MKTG 6120",
+      "MKTG 6130"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 7270 Analytics and AI in Digital Marketing and Social Media",
+    "courseid": "MKTG 7270",
+    "coursedescription": "Digital marketing plays a key role in shaping the modern economy, fueling modern business, affecting public policy, and enabling new forms of social communication. The field is also unique in its reliance on data analytics, consumer behavior and behavioral economics theories and advanced experimental technologies. Recently, generative AI and LLMs make it easier to create an abundance of content easily but also make it harder to garner online attention. MKTG 7270 provides a framework-driven and applied approach to understanding digital marketing and electronic commerce. The course is organized into two sections and utilizes relevant theory, empirical analysis, and practical examples, to develop the key learning points. Guest speakers will participate as well, as appropriate to augment class learning. Spring Mutually Exclusive: MKTG 2270 , MKTG 2700, MKTG 7700 Prerequisite: MKTG 6110",
+    "course-prerequsities": [
+      "MKTG 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 7340 Idea Generation and the Systematic Approach for Creativity",
+    "courseid": "MKTG 7340",
+    "coursedescription": "The ability to solve problems creatively and generate change is a recognized standard of success and plays an important role in gaining a competitive advantage in many areas of business management. This course is designed to teach students several creative problem solving methodologies that complement other managerial tools acquired in undergraduate and graduate studies. The course offers students the opportunity to learn how to solve problems, identify opportunities, and generate those elusive ideas that potentially generate enormous benefits to organizations. The objectives of this course are to enhance the students' (a) creativity, (b) ability to innovate and (c) ability to identify, recruit, develop, manage, retain, and collaborate with creative people. The course includes: 1. A review of the literature on creativity, creative people, innovation, and design as well as the leadership and management of creative people and innovation. 2. Hands on learning of approaches for generating creative ideas. Students will have the opportunity of implementing the techniques studied in class. 3. Applications of creativity to selected management domains - Approaches to the generation of creative options are not limited to the development of products and services or businesses, but can be applied to all areas of management, business, and life. The purpose of these sessions is to explore the applications of creative approaches to marketing, advertising, organizational design, negotiations, and other management challenges. 4. Integration - Both via individual assignments and a group project in which interdisciplinary teams of students generate a creative product/service/customer Fall Mutually Exclusive: MKTG 2340",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Applications of creativity to selected management domains - Approaches to the generation of creative options are not limited to the development of products and services or businesses, but can be applied to all areas of management, business, and life."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 7370 Applied Neuroscience for Business Decisions",
+    "courseid": "MKTG 7370",
+    "coursedescription": "This course provides an overview of contemporary brain science and its applications to business. Students are first rapidly introduced to the basic anatomy and physiology of the brain and become familiar with important techniques for measuring and manipulating brain function. The course then surveys major findings in neuroscience with applications to business, including vision, attention and advertising; valuation and marketing; decision making; learning, innovation and creativity; social influence, team-building, and leadership; and discussion of the ethical, legal, and societal implications of applying neuroscience to business. Applications to business, education, sports, law, and policy are discussed throughout. Fall Mutually Exclusive: MKTG 2370",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 7380 Consumer Neuroscience",
+    "courseid": "MKTG 7380",
+    "coursedescription": "How can studying the brain improve our understanding of consumer behavior? While neuroscience made tremendous strides throughout the past few decades, rarely were meaningful applications developed outside of medicine. Recently, however, breakthroughs in measurement and computation have accelerated brain science, and created an array of opportunities in business and technology. Currently, applications to marketing research and product development are experiencing explosive growth that has been met with both excitement and skepticism. This mini course provides an overview of the neuroscience behind and the potential for these developments. Topics will range from well-known and widely used applications, from eye-tracking measures in the lab and the field, to emerging methods and measures such as mobile technologies, face-reading, and neural predictors of market response. This course is self-contained and has no prerequisites. However, students with some background in business, economics, psychology, and/or neuroscience are likely to find some of the material covered in this course complementary to their existing knowledge. Much of the foundational work in consumer neuroscience and neuroeconomics involves laboratory experiments. Accordingly, we will read and discuss several experimental papers and the craft of designing an experiment will occasionally be discussed. However, we will not dedicate significant time to the methodology of experimental design and analysis. As will become clear as the course progresses, “consumer neuroscience\" can be used to study almost any aspect of consumer behavior. Fall Mutually Exclusive: MKTG 2380 , MKTG 3500 , MKTG 8500",
+    "course-prerequsities": [
+      "MKTG 2380",
+      "MKTG 3500",
+      "MKTG 8500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 7390 Visual Marketing",
+    "courseid": "MKTG 7390",
+    "coursedescription": "As consumers, we are constantly exposed to advertisements and experience visual messages from product packages in stores, retail displays, and products already owned. In essence, visual marketing collateral is omnipresent and is an essential part of corporate visual identity, strategy, branding, and communication. Some of this falls to creative graphic design, but advertising, design, and marketing can also be significantly enhanced by knowledge of how visual information and its presentation context can be optimized to deliver desirable and advantageous messages and experiences. This course will emphasize how to measure, interpret, and optimize visual marketing. This course will use lectures, discussions, exercises and a group project, to help students understand the underlying processes that influence our visual perception and visual cognition. Students will learn about the theoretical processes and models that influence, attention and visual fluency. Students will also be exposed to eye-tracking instruments that help measure eye movement. Finally, we will explore how visual stimuli can influence consumer memory, persuasion, and choice. We will examine practical applications in marketing, advertising, packaging, retail, and design contexts. Spring Mutually Exclusive: MKTG 2390 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 7470 Marketing Strategy for Technology Platforms",
+    "courseid": "MKTG 7470",
+    "coursedescription": "This course focuses on the unique aspects of creating effective marketing and management strategies for technology-intensive on-line and off-line businesses. It addresses the effective competitive marketing strategies for winning in markets which are powered by technology: specifically, how firms create value for customers and how they can integrate technology in delivering a better consumer experience. While competitive marketing strategy is important for all managers, this course will be particularly useful to students who are planning to accept a position in leading technology companies, and marketing firms in which technology is likely to play an important role. In addition, the course will provide value to those who expect to work in consulting or investing in technology industries, and must analyze firm strategies. Spring Mutually Exclusive: MKTG 2470 Prerequisite: MKTG 6110",
+    "course-prerequsities": [
+      "MKTG 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 7520 Marketing Analytics",
+    "courseid": "MKTG 7520",
+    "coursedescription": "Companies are currently spending millions of dollars on data-gathering initiatives, but few are successfully capitalizing on all this data to generate revenue and increase profit. Converting data into increased business performance requires the ability to extract insights from data through analytics. This course covers the three pillars of analytics – descriptive, predictive and prescriptive – within the marketing context. Descriptive Analytics examines different types of data and how they can be visualized, ultimately helping you communicate your findings and strengthen your team’s or organization’s decision making. Predictive Analytics explores the use of data for forecasting. You will learn to utilize various tools, including regression analysis, to estimate relationships among variables and predict future behavior. Prescriptive Analytics takes you through the final step — formulating concrete recommendations. These recommendations can be directed toward a variety of marketing actions, including pricing and social-platform outreach. Students will be exposed to several methods such as linear regression, logistic regression, multinomial regression, machine learning methods (e.g., neural networks and random forests). We will learn how to employ these methods for such managerial decisions as demand forecasting, pricing, and valuing customers. Overall, you will develop a data analytics mindset, learn new tools, and understand how to convert numbers into actionable insights. Spring Mutually Exclusive: MKTG 2520 , MKTG 3520, MKTG 8520 Prerequisite: MKTG 6110 AND ( MKTG 6120 OR MKTG 6130 ) AND STAT 6130",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "MKTG 6120",
+      "MKTG 6130",
+      "STAT 6130"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Students will be exposed to several methods such as linear regression, logistic regression, multinomial regression, machine learning methods (e.g., neural networks and random forests)."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 7540 Pricing Policy",
+    "courseid": "MKTG 7540",
+    "coursedescription": "The course provides a systematic presentation of the factors to be considered when setting price, and shows how pricing alternatives are developed. Analytical methods are developed and new approaches are explored for solving pricing decisions. Spring Mutually Exclusive: MKTG 2540 , MKTG 2880 Prerequisite: MKTG 6110 AND ( MKTG 6120 OR MKTG 6130 )",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "MKTG 6120",
+      "MKTG 6130"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 7600 Antitrust and Big Tech",
+    "courseid": "MKTG 7600",
+    "coursedescription": "This course considers the role of antitrust law in facilitating and policing the business strategies of dominant firms and joint enterprises. We will examine technology-driven firms such as Amazon, Apple, Facebook, Google, Uber, and Microsoft, as well as disrupted industries such as the digital music industry. In each case, we will consider how firms adapted their strategies to rapidly changing technological environments and ask whether antitrust law served to promote or to hinder innovation and competitive development. Course coverage will range over all portions of the business economy in which competition and innovation are important, but emphasizing markets that have a significant technological component. We will also study a series of classic business cases in technology rich markets, including the American Can Company, Standard Oil, and DuPont. We will pay special attention to the role of intellectual property rights in fostering both individual and collaborative innovation. Fall or Spring Also Offered As: LGST 8050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 7680 Contagious: How Things Catch On",
+    "courseid": "MKTG 7680",
+    "coursedescription": "Why do some products catch on and achieve huge popularity while others fail? Why do some services and apps spread like wildfire while others languish? And what makes certain ideas stick while others fail? This course looks at these and other topics as it examines why things catch on. Marketers want their product to be popular, organizations want their initiatives to catch on, and entrepreneurs want their ideas to stick. Building on research from psychology, sociology, marketing, and economics, the course explores characteristics of products, services, and ideas that lead them to catch on, what makes ideas stick, and how social dynamics shape success. We’ll talk about viral marketing, growth strategies, the role of social media, and influencers. Whether you have a product, service, or idea you want to catch on, or just want to better understand social epidemics, this course will shed light on what drives success. Spring Mutually Exclusive: MKTG 2680",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 7710 Models for Marketing Strategy",
+    "courseid": "MKTG 7710",
+    "coursedescription": "The course develops students’ skills in using analytics to make better marketing decisions. Compared to other courses in marketing analytics, the focus is less on ‘what is happening?’ or ‘what will happen?’ and more on ‘what should we do?’ I.e., the course moves beyond descriptive and predictive analytics into prescriptive analytics. It covers a variety of topics, models and tools: (1) Marketing mix modeling & optimization, (2) Choice modeling, choice-based conjoint analysis & market simulators, (3) Modeling churn & maximizing customer lifetime value, and (4) Quantifying causal effects in marketing. The course requires familiarity with Excel and linear regression from the very first day, but is otherwise self-contained. Lectures are organized around a mini-case or illustrate the model/technique at hand through one or more real-life applications. Fall Mutually Exclusive: MKTG 2710 Prerequisite: MKTG 6110 AND ( MKTG 6120 OR MKTG 6130 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "MKTG 6120",
+      "MKTG 6130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 7760 Applied Probability Models in Marketing",
+    "courseid": "MKTG 7760",
+    "coursedescription": "This course will expose students to the theoretical and empirical \"building blocks\" that will allow them to construct, estimate, and interpret powerful models of consumer behavior. Over the years, researchers and practitioners have used these models for a wide variety of applications, such as new product sales, forecasting, analyses of media usage, and targeted marketing programs. Other disciplines have seen equally broad utilization of these techniques. The course will be entirely lecture-based with a strong emphasis on real-time problem solving. Most sessions will feature sophisticated numerical investigations using Microsoft Excel. Much of the material is highly technical. Spring Also Offered As: STAT 7760 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 7770 Marketing Strategy",
+    "courseid": "MKTG 7770",
+    "coursedescription": "This course views marketing as both a general management responsibility and an orientation of an organization that helps one to create, capture and sustain customer value. The focus is on the business unit and its network of channels, customer relationships, and alliances. Specifically, the course attempts to help develop knowledge and skills in the application of advanced marketing frameworks, concepts, and methods for making strategic choices at the business level. Not Offered Every Year Mutually Exclusive: MKTG 2770 Prerequisite: MKTG 6110 AND ( MKTG 6120 OR MKTG 6130 ) 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "MKTG 6120",
+      "MKTG 6130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 7780 Strategic Brand Management",
+    "courseid": "MKTG 7780",
+    "coursedescription": "Which brands make you happy? Apple? Amazon? Starbucks? Everlane? Soulcycle? Sweetgreen? What draws you into these brands? How do companies create compelling brand experiences? How could you cultivate a well-loved brand? This course explores such questions with the goal of identifying the ingredients for building an inspired brand. The course is created for students interested in building a brand and/or immersing themselves in the enhancement of an existing brand, and it is comprised of lectures, cases, guest speakers, discussions, in and out of class exercises, and a final project. Broadly, the course will be divided into four parts: 1) Understanding Brand, 2) Crafting Brand, 3) Measuring Brand, and 4) Managing Brand. The course will provide students with an appreciation of the role of branding and (taking a consumer-centric approach) will augment students' ability to think creatively and critically about the strategies and tactics involved in building, leveraging, defending, and sustaining inspired brands. Spring Mutually Exclusive: MKTG 2780 Prerequisite: MKTG 6110 AND ( MKTG 6120 OR MKTG 6130 ) 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "MKTG 6120",
+      "MKTG 6130"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is created for students interested in building a brand and/or immersing themselves in the enhancement of an existing brand, and it is comprised of lectures, cases, guest speakers, discussions, in and out of class exercises, and a final project."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 7790 AI in Our Lives: The Behavioral Science of Autonomous Technology",
+    "courseid": "MKTG 7790",
+    "coursedescription": "This course takes a behavioral perspective on the topic of autonomous technology, such as Artificial Intelligence. It reviews new insights to help companies thrive in the dawning age of smart machines. The emerging behavioral science of autonomous technology helps us understand barriers to consumer adoption and how to design captivating AI experiences. Moreover, we discuss how to improve managerial decision-making with data and algorithms. This is a non-technical course. No coding or data science skills are required. The course uses a blend of pedagogical approaches, including interactive lectures, workshops, guest lectures, and case discussions, to bridge two perspectives. On one side, we acknowledge the tremendous value that autonomous technology can provide to firms and individual consumers. In many ways, automation defines progress. On the other side, we examine emerging risks for consumers in an AI-driven economy. The main theoretical lens will be offered by psychology, but we will also examine ideas from economics, management, history, statistics, computer science, art, sociology, and philosophy. The application contexts will focus on marketing. While also relevant to other disciplines (e.g., operations, innovation), the course is therefore especially suitable for students interested in a career in marketing (e.g., product management, customer experience management). Spring Mutually Exclusive: MKTG 2790 , MKTG 3550 , MKTG 8550 Prerequisite: MKTG 6110 AND ( MKTG 6120 OR MKTG 6130 )",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "MKTG 6120",
+      "MKTG 6130"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "While also relevant to other disciplines (e.g., operations, innovation), the course is therefore especially suitable for students interested in a career in marketing (e.g., product management, customer experience management)."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 8060 Retail Merchandising (Center Special Topic)",
+    "courseid": "MKTG 8060",
+    "coursedescription": "As a follow-on to Principles of Retailing ( MKTG 7250 ), this course delves more deeply into both the fundamentals and recent trends in the end-to-end retail merchandising process. The objective is to familiarize students with both the theory and practice of planning, buying, designing, pricing, and displaying merchandise to consumers. This knowledge will be fundamental to careers working for retailers themselves (e-commerce or omnichannel), but also in consulting to retailers, in banking or investing in the retail sector, or even starting their a brand or retail concept. Those seeking more depth in sourcing, distribution, fulfillment, and store/site operations should consider taking Retail Supply Chain Management ( OIDD 6970 ). Spring Mutually Exclusive: MKTG 3060 Prerequisite: MKTG 6110 OR MKTG 7250",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "MKTG 7250"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 8090 Experiments for Business Decision Making (Center Special Topic)",
+    "courseid": "MKTG 8090",
+    "coursedescription": "In the past decade, massive shifts in how companies interact with their customers have suddenly made field experiments an economically feasible way to learn about a variety of business questions such as what types of promotions are most effective, what products should be stocked at a store, how e-mail promotions should be designed, how sales staff should be compensated, etc. Many marketers engaged in online retailing, direct-marketing, online advertising, media management, etc. are rapidly embracing a \"test and learn\" philosophy and a number of platforms such as Google Website Optimizer, have been developed to facilitate rigorous field experiments in the online environment. Just as with the quality revolution in manufacturing during the 1980s and 1990s, the rapid rise of the \"test and learn\" philosophy in marketing has created a huge demand for those who can design, field, and analyze marketing experiments. Through this course, you will learn and practice a wide range of critical skills, from the statistical methods used to design and analyze experiments to the management and strategy required to execute an experiment and act on the results. Although the cases and examples will focus on marketing problems, the material covered can be applied in a number of other domains particularly operations management and product design. Not Offered Every Year Mutually Exclusive: MKTG 3090 Prerequisite: MKTG 6110 1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 8500 Special Topics - Consumer Neuroscience",
+    "courseid": "MKTG 8500",
+    "coursedescription": "CONSUMER NEUROSCIENCE: How can studying the brain improve our understanding of consumer behavior? While neuroscience made tremendous strides throughout the 20th century, rarely were meaningful applications developed outside of medicine. Recently, however, breakthroughs in measurement and computation have accelerated brain science and created a dizzying array of opportunities in business and technology. Currently, applications to marketing research and product development are experiencing explosive growth that has been met with both excitement and skepticism. This mini-course provides an overview of the neuroscience behind and the potential for these developments. Topics will range from well-known and widely used applications, such as eye-tracking measures in the lab and field, to emerging methods and measures, such as mobile technologies, face-reading algorithms, and neural predictors of marketing response. The course will also discuss applications in branding and product development, including wearable physiological devices and apps, sensory branding for foods and fragrances, pharmaceuticals and medical devices, and neuroscience-based products designed to enhance cognitive functions. These applications stem from many subfields of cognitive neuroscience, including attention, emotion, memory, and decision making. This course is self-contained and has no prerequisites. However, students with some background in business, economics, psychology, and/or neuroscience are likely to find the material covered in this course complementary to their existing knowledge. Spring Mutually Exclusive: MKTG 2380 , MKTG 3500 , MKTG 7380",
+    "course-prerequsities": [
+      "MKTG 2380",
+      "MKTG 3500",
+      "MKTG 7380"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 8520 Special Topics - Marketing Analytics",
+    "courseid": "MKTG 8520",
+    "coursedescription": "MARKETING ANALYTICS: Companies are currently spending millions of dollars on data-gathering initiatives - but few are sucessfully capitalizing on all this data to generate revenue and increase profit. Moving from collecting data to analysis to profitable results requires the ability to forecast and develop a business rationale based on identified data patterns. Marketing Analytics will cover the three pillars of analytics - descriptive, predictive and prescriptive. Descriptive Analytics examines different types of data and how they can be visualized, ultimately helping you leverage your findings and strengthen your decision making. Predictive Analytics explores the potential uses of data once collected and interpreted. You will learn to utilize different tools, such as regression analysis, and estimate relationships among variables to predict future behavior. Prescriptive Analytics takes you through the final step - formulating concrete recommendations. These recommendations can be directed toward a variety of efforts including pricing and social-platform outreach. Spring Mutually Exclusive: MKTG 2520 , MKTG 3520, MKTG 7520 Prerequisite: MKTG 6110 AND STAT 6130",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "STAT 6130"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 8550 Special Topics - AI in Our Lives",
+    "courseid": "MKTG 8550",
+    "coursedescription": "“AI in Our Lives: The Behavioral Science of Autonomous Technology” (or “AI in Our Lives” for short) takes a behavioral perspective on the topic of autonomous technology, such as Artificial Intelligence. It reviews new behavioral insights to help companies thrive in the dawning age of smart machines. We focus on both the behavior of consumers and how managers should make decisions about consumers. Related to the former, the emerging behavioral science of autonomous technology helps us understand barriers to consumer adoption and how to design captivating AI experiences. Related to the latter, we discuss how to improve decision-making with data and algorithms. This is a non-technical course. No coding or data science skills are required. The course uses interdisciplinary materials and a blend of pedagogical approaches, including interactive lectures, workshops, guest lectures, and case discussions. In addition to its many substantive insights, the course offers moments of reflection to help you understand how technology is changing our lives, and how each of us can help effect positive change in the world. The course bridges two perspectives. On one side, we acknowledge the tremendous value that autonomous technology can provide to firms and individual consumers. In many ways, automation defines progress. On the other side, we examine emerging risks for consumers in an AI-driven economy. The main theoretical lens will be offered by psychology, but we will also examine ideas from economics, management, history, statistics, computer science, art, sociology, and philosophy. The application contexts will be focused on marketing. While also relevant to other disciplines (e.g., operations, IT, innovation, or general management), this course is therefore especially suitable for students interested in a career in marketing (e.g., product management, brand management, service design, and customer experience management). The ultimate goal of the course is to help ensure that the amazing technologies currently being developed bring about positive change. The course will strive to achieve that by tackling the following UN Sustainable Development Goals: SDG9 (Innovation), SDG8 (Economic growth), SDG3 (Health and wellbeing), SDG10 (Reduced inequality), and SDG12 (Responsible consumption and production). The course complements the research activities of the new Wharton Human-Centered Technology Initiative. Spring Mutually Exclusive: MKTG 2790 , MKTG 3550 , MKTG 7790 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "While also relevant to other disciplines (e.g., operations, IT, innovation, or general management), this course is therefore especially suitable for students interested in a career in marketing (e.g., product management, brand management, service design, and customer experience management)."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 8900 Advanced Study Project (ASP)",
+    "courseid": "MKTG 8900",
+    "coursedescription": "ADVANCED STUDY PROJECT (GENERAL): The principal objectives of this course are to provide opportunities for undertaking an in-depth study of a marketing problem and to develop the students' skills in evaluating research and designing marketing strategies for a variety of management situations. Selected projects can touch on any aspect of marketing as long as this entails the elements of problem structuring, data collection, data analysis, and report preparation. The course entails a considerable amount of independent work. (Strict library-type research is not appropriate) Class sessions are used to monitor progress on the project and provide suggestions for the research design and data analysis. The last portion of the course often includes an oral presentation by each group to the rest of the class and project sponsors. Along with marketing, the projects integrate other elements of management such as finance, production, research and development, and human resources. Fall or Spring Prerequisite: MKTG 6110 AND MKTG 7250 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "MKTG 7250"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The last portion of the course often includes an oral presentation by each group to the rest of the class and project sponsors."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 8950 Global Business Week",
+    "courseid": "MKTG 8950",
+    "coursedescription": "GLOBAL BUSINESS WEEK: MKTG 895 is one in an array of Global Business Week (GBW) study tour courses offered by various departments across Wharton. Each of the GBW courses offered in a term, will entail travel to a different part of the world and address a different element of economic driver for a country or industry. A faculty member will drive the topic and curriculum associated with a study tour to a region of the world where the study of a topic will provide insights and clarity available only by being in country. In country lectures from the lead faculty and area experts in industry, academia and government will form much of the basis of class time. In addition, students will experience relevant company and cultural settings where they will again hear from industry experts. Each course will require an individual student paper, a participation component, and a pre-travel or in-country set of assignments. See course syllabus for details. CUSTOMER CENTRICITY AT THE LEADING EDGE OF ANALYTICS AND TECHNOLOGY: LEARNING FROM SCANDINAVIA. Instructor: Peter Fader. The concept of \"customer centricity,\" i.e., that not all customers are created equal, is gaining credibility and traction. More and more firms are coming to the realization that understanding and leveraging the behavioral differences across customers can potentially be more sustainably profitable than more conventional product- centric thinking that continues to dominate today's business landscape. At the heart of this transformation are three critical ingredients data, analytics, and technology. Using customer data at a granular level allows firms greater visibility into customer interactions, their use of social media, biometrics, and geolocation as tools to enhance business models and even create new ones. It allows a firm to be deliberate about which customers to go after and what kinds of services to provide them. For many, the key to profitable growth lies in successfully harnessing and developing the tools, organizational structures, and corporate cultures that create and enhance these capabilities. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 8960 Global Modular Course",
+    "courseid": "MKTG 8960",
+    "coursedescription": "Open to MBA, Executive MBA and, in some instances, Undergraduate students, these modular courses are intended to provide unique educational experiences to students in a regional context that has particular resonance with the topic. Taught around the globe, the modular courses help us enrich the curriculum and research on our own campuses in Philadelphia and San Francisco. Not Offered Every Year 0.25-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 8970 Advanced Study: Luxury Branding and Retailing - Bringing it into the 21st Century",
+    "courseid": "MKTG 8970",
+    "coursedescription": "The luxury industry has been heavily impacted by the Covid-19 pandemic, with some estimates suggesting a contraction of over 20%. Some of the changes in consumer behavior directly affected luxury in the short-term, but these changes in behavior may eventually revert to past history when the pandemic is over. Examples of these include the drop in tourism travel, work from home trends, reduced traffic to physical retail and malls, and the reduction of festive social activities (e.g., weddings). Other trends affected many industries and are likely to fundamentally change consumer behavior long-term: (1) net zero retail now, (2) digital by design, (3) thoughtful experience, (4) re-localization and (5) lead with purpose. This course explores the special challenges that are faced by luxury brands as they try to navigate rapidly evolving shopping behaviors in both the online and offline environments. In this course we will articulate the key principles for successful luxury branding & experiences and focus on the challenges and opportunities that luxury brands face. Although we will have some traditional lecture/discussion classes, the course is primarily experiential. We will explore luxury broadly across many product categories. We will learn from what we see on location, but we will also critically assess how companies are coping with the challenges of the post-covid retailing environment. Not Offered Every Year Mutually Exclusive: WH 2180",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 8990 Independent Study",
+    "courseid": "MKTG 8990",
+    "coursedescription": "A student contemplating an independent study project must first find a faculty member who agrees to supervise and approve the student's written proposal as an independent study (MKTG 899). If a student wishes the proposed work to be used to meet the ASP requirement, he/she should then submit the approved proposal to the MBA adviser who will determine if it is an appropriate substitute. Such substitutions will only be approved prior to the beginning of the semester. Fall or Spring Mutually Exclusive: MKTG 3990 Prerequisite: MKTG 6110 AND ( MKTG 6120 OR MKTG 6130 ) 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "MKTG 6110",
+      "MKTG 6120",
+      "MKTG 6130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MKTG 9400 Measurement and Data Analysis in Marketing - Part A",
+    "courseid": "MKTG 9400",
+    "coursedescription": "MKTG 9400 and MKTG 9410 provide an understanding and working knowledge of statistical data analysis for assessing how one variable is predicted (and possibly caused) by other variables. The courses focus on \"funny Y's and messy X's\" and extend the students' tool kit beyond classic linear regression and ANOVA in two directions. (1) Analyzing binary data, ordered response data, choice data, count data, truncated or censored data, and duration data; (2) Identifying and tackling causal identification challenges when analyzing non-experimental data. All assignments can be completed using R, SAS, or Stata. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 9410 Measurement and Data Analysis in Marketing - Part B",
+    "courseid": "MKTG 9410",
+    "coursedescription": "MKTG 9400 and MKTG 9410 provide an understanding and working knowledge of statistical data analysis for assessing how one variable is predicted (and possibly caused) by other variables. The courses focus on \"funny Y's and messy X's\" and extend the students' tool kit beyond classic linear regression and ANOVA in two directions. (1) Analyzing binary data, ordered response data, choice data, count data, truncated or censored data, and duration data; (2) Identifying and tackling causal identification challenges when analyzing non-experimental data. All assignments can be completed using R, SAS, or Stata. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 9420 Research Methods in Marketing - Part A",
+    "courseid": "MKTG 9420",
+    "coursedescription": "This course provides an introduction to the fundamental methodological issues that arise in experimental and quasi-experimental research. Illustrative examples are drawn from the behavioral sciences with a focus on the behavior of consumers and managers. Topics that are covered include: the development of research ideas; data collection and reliable measurement procedures; threats to validity; control procedures and experimental designs; and data analysis. Emphasis is placed on attaining a working knowledge of the use of regression methods for non-experimental and quasi-experimental data and analysis of variance methods for experimental data. The primary deliverable for this course is a meta-analysis of a research problem of the students choosing that investigates the effects of research methods on empirical results. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 9430 Research Methods in Marketing - Part B",
+    "courseid": "MKTG 9430",
+    "coursedescription": "This course provides an introduction to the fundamental methodological issues that arise in experimental and quasi-experimental research. Illustrative examples are drawn from the behavioral sciences with a focus on the behavior of consumers and managers. Topics that are covered include: the development of research ideas; data collection and reliable measurement procedures; threats to validity; control procedures and experimental designs; and data analysis. Emphasis is placed on attaining a working knowledge of the use of regression methods for non-experimental and quasi-experimental data and analysis of variance methods for experimental data. The primary deliverable for this course is a meta-analysis of a research problem of the students choosing that investigates the effects of research methods on empirical results. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 9500 Judgment and Decision Making Perspectives on Consumer Behavior - Part A",
+    "courseid": "MKTG 9500",
+    "coursedescription": "The purpose of this course is to provide a solid foundation for critical thinking and research on the judgment, decision-making and choice aspects of consumer behavior. There is a focus on how people process information when making judgments and choices and how the processes of judgment and choice might be improved. Topics of discussion include rationality, judgment under uncertainty, judgment heuristics and biases, risk taking, dealing with conflicting values, framing effects, prospect theory, inter-temporal choice, preference formation, and the psychology of utility. The focus will be on the individual decision-maker, although the topics will also have some applicability to group and organizational decision-making and behavioral research methodologies. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 9510 Judgment and Decision Making Perspectives on Consumer Behavior - Part B",
+    "courseid": "MKTG 9510",
+    "coursedescription": "The purpose of this course is to build off MKTG 950, \"Judgment and Decision Making Perspectives on Consumer Behavior - Part A\" with a more specialized focus that will vary from year to year. This course is intended for those interested in deepening their study of Judgment and Decision Making beyond the basics. Fall, odd numbered years only",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "This course is intended for those interested in deepening their study of Judgment and Decision Making beyond the basics."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 9520 Contemporary Topics in Consumer Research - Part A",
+    "courseid": "MKTG 9520",
+    "coursedescription": "The purpose of this seminar is to provide graduate students with an overview of contemporary topics in consumer research. Depending on faculty, areas addressed may include basic research on consumer knowledge (learning and memory), goals, persuasion, and emotions, with applications to branding. consumer finance, human-technology interaction, and social influence. The course draws from the literature in marketing, psychology and economics. The course will enable students to conceptualize, operationalize, and develop research ideas. Therefore, the focus is on understanding theoretical and methodological approaches to various aspects of consumer behavior, as well as advancing this knowledge by developing testable hypotheses and theoretical perspectives that build on the current knowledge base. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 9530 Contemporary Topics in Consumer Research - Part B",
+    "courseid": "MKTG 9530",
+    "coursedescription": "The purpose of this seminar is to provide graduate students with an overview of contemporary topics in consumer research. Depending on faculty, areas addressed may include basic research on consumer knowledge (learning and memory), goals, persuasion, and emotions, with applications to branding. consumer finance, human-technology interaction, and social influence. The course draws from the literature in marketing, psychology and economics. The course will enable students to conceptualize, operationalize, and develop research ideas. Therefore, the focus is on understanding theoretical and methodological approaches to various aspects of consumer behavior, as well as advancing this knowledge by developing testable hypotheses and theoretical perspectives that build on the current knowledge base. Spring, odd numbered years only",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 9540 Economic/OR Models of Marketing - Part A",
+    "courseid": "MKTG 9540",
+    "coursedescription": "This doctoral seminar reviews analytical models relevant to improving various aspects of marketing decisions such as new product launch, product line design, pricing strategy, advertising decisions, sales force organization and compensation, distribution channel design and promotion decisions. The primary focus will be on analytical models. The seminar will introduce the students to various types of analytical models used in research in marketing, including game theory models for competitive analysis, agency theory models for improving organization design and incentives within organizations, and optimization methods to improve decision making and resource allocation. The course will enable students to become familiar with applications of these techniques in the marketing literature and prepare the students to apply these and other analytical approaches to research problems that are of interest to the students. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "The course will enable students to become familiar with applications of these techniques in the marketing literature and prepare the students to apply these and other analytical approaches to research problems that are of interest to the students."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 9550 Economic/OR Models of Marketing - Part B",
+    "courseid": "MKTG 9550",
+    "coursedescription": "This is a continuation of MKTG 954. This doctoral seminar reviews analytical models relevant to improving various aspects of marketing decisions such as new product launch, product line design, pricing strategy, advertising decisions, sales force organization and compensation, distribution channel design and promotion decisions. The primary focus will be on analytical models. The seminar will introduce the students to various types of analytical models used in research in marketing, including game theory models for competitive analysis, agency theory models for improving organization design and incentives within organizations, and optimization methods to improve decision making and resource allocation. The course will enable students to become familiar with applications of these techniques in the marketing literature and prepare the students to apply these and other analytical approaches to research problems that are of interest to the students. Spring, even numbered years only",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "The course will enable students to become familiar with applications of these techniques in the marketing literature and prepare the students to apply these and other analytical approaches to research problems that are of interest to the students."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 9560 Empirical Models in Marketing - Part A",
+    "courseid": "MKTG 9560",
+    "coursedescription": "This course is designed to generate knowledge of the use of quantitative statistical, econometric, and Machine Learning methods and their application to Marketing problems. A strong emphasis is also placed on the applied nature of applying these methods in terms of data requirements, exogenous versus endogenous variation, and computational challenges when using complex models. Students outside of Marketing are welcome, and we discuss how these models can be applied to other disciplines. By the end of the course, students should be familiar with the key issues and approaches in empirical marketing modeling. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 9570 Empirical Models in Marketing - Part B",
+    "courseid": "MKTG 9570",
+    "coursedescription": "This course is designed to generate awareness and appreciation of the way several substantive topics in marketing have been studied empirically using quantitative models. This seminar reviews empirical models of marketing phenomena including consumer choice, adoption of new products, sales response to marketing mix elements, and competitive interaction. Applies methods and concepts developed in econometrics and statistics but focuses on substantive issues of model structure and interpretation, rather than on estimation techniques. Ultimately, the goals are a) to prepare students to read and understand the literature and b) to stimulate new research interests. By the end of the course, students should be familiar with the key issues and approaches in empirical marketing modeling. Spring, odd numbered years only",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Ultimately, the goals are a) to prepare students to read and understand the literature and b) to stimulate new research interests."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 9710 Advanced Topics in Marketing - Part A",
+    "courseid": "MKTG 9710",
+    "coursedescription": "Taught collectively by the faculty members from the Marketing Department, this course investigates advanced topics in marketing. It is organized in a way that allows students to 1) gain depth in important areas of research identified by faculty; 2) gain exposure to various faculty in marketing and their research values and styles; and 3) develop and advance their own research interests. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "It is organized in a way that allows students to 1) gain depth in important areas of research identified by faculty; 2) gain exposure to various faculty in marketing and their research values and styles; and 3) develop and advance their own research interests."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 9720 Advanced Topics in Marketing - Part B",
+    "courseid": "MKTG 9720",
+    "coursedescription": "Taught collectively by the faculty members from the Marketing Department, this course investigates advanced topics in marketing. It is organized in a way that allows students to 1) gain depth in important areas of research identified by faculty; 2) gain exposure to various faculty in marketing and their research values and styles; and 3) develop and advance their own research interests. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "It is organized in a way that allows students to 1) gain depth in important areas of research identified by faculty; 2) gain exposure to various faculty in marketing and their research values and styles; and 3) develop and advance their own research interests."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 9730 Research Seminar in Marketing - Part A",
+    "courseid": "MKTG 9730",
+    "coursedescription": "This course is taught collectively by the faculty members from the Marketing Department. It is designed to expose Doctoral students to the cutting-edge research in marketing models in order to help them to define and advance their research interests. This course will offer: in-depth discussions on some important topics in marketing by experts in respective areas; tools, and methodologies required for conducting research in those areas; broad exposure to our faculty members and their proven research styles. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "It is designed to expose Doctoral students to the cutting-edge research in marketing models in order to help them to define and advance their research interests."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 9740 Research Seminar in Marketing - Part B",
+    "courseid": "MKTG 9740",
+    "coursedescription": "This course is taught collectively by the faculty members from the Marketing Department. It is designed to expose Doctoral students to the cutting-edge research in marketing models in order to help them to define and advance their research interests. This course will offer: in-depth discussions on some important topics in marketing by experts in respective areas; tools, and methodologies required for conducting research in those areas; broad exposure to our faculty members and their proven research styles. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "It is designed to expose Doctoral students to the cutting-edge research in marketing models in order to help them to define and advance their research interests."
+      ]
+    }
+  },
+  {
+    "coursename": "MKTG 9950 Dissertation",
+    "courseid": "MKTG 9950",
+    "coursedescription": "Dissertation Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "MKTG 9999 Supervised Independent Study",
+    "courseid": "MKTG 9999",
+    "coursedescription": "Requires written permission of instructor and the department graduate adviser. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-2 Course Units",
+      "notes": [
+        "Requires written permission of instructor and the department graduate adviser."
+      ]
+    }
+  }
+]

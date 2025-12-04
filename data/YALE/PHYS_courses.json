@@ -1,0 +1,564 @@
+[
+  {
+    "coursename": "* PHYS 123Lb / MB&B 1230Lb / PHYS 1230Lb and PHYS 123Lb, Introduction to Physics in Living Systems III: Mechanics Andrew Miranker",
+    "courseid": "PHYS 123Lb",
+    "coursedescription": "A hands-on introduction to the physics that enables life and human measurement of living things. The course focuses on the principles of mechanics at work in the biological sciences. This lab builds student knowledge, centering diffusion as an emergent phenomenon from elastic collisions, from which statistical mechanics is introduced. For students choosing to major in MB&B, this course may be used to fulfill the MB&B requirement for Practical Skills in physics. Priority for this 1/2 credit course is given to first-year students looking to fulfill medical school application requirements. It is helpful to take this course in the same semester as MB&B 124L. ½ Course cr MW 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 0400a / ASTR 0400a, Expanding Ideas of Time and Space Meg Urry",
+    "courseid": "PHYS 0400a",
+    "coursedescription": "Discussions on astronomy, and the nature of time and space. Topics include the shape and contents of the universe, special and general relativity, dark and light matter, and dark energy. Observations and ideas fundamental to astronomers' current model of an expanding and accelerating four-dimensional universe. Enrollment limited to first-year students. SC TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHYS 0500a / APHY 0500a / ENAS 0500a, Science of Modern Technology and Public Policy Daniel Prober",
+    "courseid": "PHYS 0500a",
+    "coursedescription": "Examination of the science behind selected advances in modern technology and implications for public policy, with focus on the scientific and contextual basis of each advance. Topics are developed by the participants with the instructor and with guest lecturers, and may include nanotechnology, quantum computation and cryptography, renewable energy technologies, optical systems for communication and medical diagnostics, transistors, satellite imaging and global positioning systems, large-scale immunization, and DNA made to order. Enrollment limited to first-year students. SC MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHYS 0600a, What's the Universe made of? From Quarks to the Cosmos Charles Baltay",
+    "courseid": "PHYS 0600a",
+    "coursedescription": "A phenomenological tour through the land of physics. A general overview of physics primarily for non-science students. No other such course is offered in the department. Enrollment limited to first-year students. SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHYS 0700a, Nuclear Physics: The Good, The Bad, and the Misunderstood Helen Caines",
+    "courseid": "PHYS 0700a",
+    "coursedescription": "This course aims to introduce students to the basics of nuclear radiation and its uses. What exactly is radiation? How do we detect it? How come a little exposure can be good for us but too much deadly? Is nuclear energy a viable option? Is my cell phone dangerous? Should I get that dental x-ray? By the end of the course students are armed with necessary physics insights to answer the above questions and more. No prerequisites are required but completion of a high school physics course, or similar subject is preferred. Enrollment limited to first-year students. SC TTh 9am-10:15am",
+    "course-prerequsities": [
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHYS 0800b and PHYS 1000b / APHY 0800b and APHY 1000b / ENAS 0800b / EPS 0800b / EVST 0080b and EVST 1000b, Energy, Environment, and Public Policy Daniel Prober",
+    "courseid": "PHYS 0800b",
+    "coursedescription": "The technology and use of energy. Impacts on the environment, climate, security, and economy. Application of scientific reasoning and quantitative analysis. Intended for non–science majors with strong backgrounds in math and science. Tours are be conducted of major examples of good energy design at Yale, including the Yale Power Plant and Kroon Hall. Students who take this course are not eligible to take APHY 100. Prerequisites: High school chemistry, physics, and Math. Calculus is not required. Enrollment limited to first-year students. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHYS 1070b / EDST 107 / EDST 3107b / MB&B 1070b, Being Human in STEM Staff",
+    "courseid": "PHYS 1070b",
+    "coursedescription": "A collaboratively designed, project-oriented course that seeks to examine, understand, and disseminate how diversity of gender, race, religion, sexuality, economic circumstances, etc. shape the STEM experience at Yale and nationally, and that seeks to formulate and implement solutions to issues that are identified. Study of relevant peer-reviewed literature and popular-press articles. OpEd writing project and design and implementation of an intervention project focusing on improving belonging in Yale STEM communities. SO MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 1200b, Quantum Physics and Beyond Staff",
+    "courseid": "PHYS 1200b",
+    "coursedescription": "Current topics in modern physics, beginning with quantum physics and continuing through subatomic physics, special and general relativity, cosmology, astrophysics, and string theory. SC MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 1210La / MB&B 1210La, Introduction to Physics in Living Systems I: Observation and Analysis Staff",
+    "courseid": "PHYS 1210La",
+    "coursedescription": "A hands-on introduction to the physics that enables life and human measurement of living things. This lab builds student knowledge of scientific experimental design and practice. Topics include detection of light, basic circuit building, sterile technique in biology and physics, data collection with student-built instrumentation, and quantitative assessment. For students choosing to major in MB&B, this course may be used to fulfill the MB&B requirement for Practical Skills in physics. There are no prerequisites to this ½ credit class and it is helpful to take it in the same semester as MB&B 122L. Priority is given to first-year students looking to fulfill medical school application requirements and students seeking to join research labs at Yale. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "B 122L",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 1220La / MB&B 1220La, Introduction to Physics in Living Systems: Observation and Analysis II Staff",
+    "courseid": "PHYS 1220La",
+    "coursedescription": "A hands-on introduction to the physics that enables life and human measurement of living things. This lab builds student knowledge of scientific experimental design and practice, focusing on building models from experimental data. Topics included electrical circuits, magnetism, data collection with student-built instrumentation, and quantitative assessment. For students choosing to major in MB&B, this course may be used to fulfill the MB&B requirement for Practical Skills in physics. Previously MB&B 122L. Taking MB&B/ PHYS 1210L before this class is required, as the material builds on itself. Priority is given to first-year students looking to fulfill medical school application. 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 1230Lb and PHYS 123Lb / MB&B 1230Lb, Introduction to Physics in Living Systems III: Mechanics Andrew Miranker",
+    "courseid": "PHYS 1230Lb",
+    "coursedescription": "A hands-on introduction to the physics that enables life and human measurement of living things. The course focuses on the principles of mechanics at work in the biological sciences. This lab builds student knowledge, centering diffusion as an emergent phenomenon from elastic collisions, from which statistical mechanics is introduced. For students choosing to major in MB&B, this course may be used to fulfill the MB&B requirement for Practical Skills in physics. Priority for this 1/2 credit course is given to first-year students looking to fulfill medical school application requirements. It is helpful to take this course in the same semester as MB&B 124L. ½ Course cr per term MW 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 1240Lb / MB&B 1240Lb, Introduction to Physics in Living Systems Laboratory IV: Electricity, Magnetism, and Radiation Andrew Miranker",
+    "courseid": "PHYS 1240Lb",
+    "coursedescription": "Introduction to the physics that enables life and human measurement of living things. This lab introduces principles of electricity, magnetism, light and optics at work in the biological sciences. The syllabus emphasizes electric dipoles as a model for biomolecules, electric fields such as those across cell membranes, electric current, and magnetic fields. Light is developed in terms of electromagnetic radiation, ray optics and photons. The interaction of light with biomolecules to understand basic biological research and medical diagnostics are also covered. For students choosing to major in MB&B, this course may be used to fulfill the MB&B requirement for Practical Skills in physics. There are no prerequisites to this ½ credit class and it is helpful to take it in the same semester as MB&B 123L. May not be taken after PHYS 166L. Priority is given to first-year students looking to fulfill medical school application requirements and students seeking to join research labs at Yale. SC 0 Course cr MW 4pm-5:15pm",
+    "course-prerequsities": [
+      "B 123L",
+      "PHYS 166L",
+      "SC 0",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 1510a or b / APHY 1510a or b / ENAS 1510a or b, Multivariable Calculus for Engineers Staff",
+    "courseid": "PHYS 1510a",
+    "coursedescription": "An introduction to multivariable calculus focusing on applications to engineering problems. Topics include vector-valued functions, vector analysis, partial differentiation, multiple integrals, vector calculus, and the theorems of Green, Stokes, and Gauss. Prerequisite: MATH 115 or equivalent. QR HTBA",
+    "course-prerequsities": [
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 1650La and PHYS 1660Lb, General Physics Laboratory Staff",
+    "courseid": "PHYS 1650La",
+    "coursedescription": "A variety of individually self-contained experiments are roughly coordinated with the lectures in PHYS 1700 , 1710 , and 1800, 1810 and illustrate and develop physical principles covered in those lectures. SC 0 Course cr per term HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 1700a and PHYS 1710b, University Physics for the Life Sciences Staff",
+    "courseid": "PHYS 1700a",
+    "coursedescription": "An introduction to classical physics with special emphasis on applications drawn from the life sciences and medicine. Fall-term topics include vectors and kinematics, Newton's laws, momentum, energy, random walks, diffusion, fluid mechanics, mathematical modeling, and statistical mechanics. Spring-term topics include oscillations, waves, sound, electrostatics, circuits, Maxwell's equations, electromagnetic waves, gene circuits, and quantum mechanics. Essential mathematics are introduced and explained as needed. Completion of MATH 1120 or equivalent is prerequisite for PHYS 1700 . Completion of PHYS 1700 is a prerequisite for PHYS 1710 . MATH 1160 (or MATH 1150 ) is recommended prior to or concurrently with PHYS 1710 . QR , SC 0 Course cr per term MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 1700",
+      "PHYS 1710",
+      "MATH 1160",
+      "MATH 1150",
+      "SC 0",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "MATH 1160 (or MATH 1150 ) is recommended prior to or concurrently with PHYS 1710 ."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 1800a and PHYS 1810b, University Physics Staff",
+    "courseid": "PHYS 1800a",
+    "coursedescription": "A broad introduction to classical and modern physics for students who have some previous preparation in physics and mathematics. Fall-term topics include Newtonian mechanics, gravitation, waves, and thermodynamics. Spring-term topics include electromagnetism, special relativity, and quantum physics. Concurrently with MATH 1150 and 1200 or equivalents. See comparison of introductory sequences and laboratories in the YCPS. May not be taken for credit after PHYS 1700 , 1710 . QR , SC HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 2000a and PHYS 2010b, Fundamentals of Physics Staff",
+    "courseid": "PHYS 2000a",
+    "coursedescription": "A thorough introduction to the principles and methods of physics for students who have good preparation in physics and mathematics. Emphasis on problem solving and quantitative reasoning. Fall-term topics include Newtonian mechanics, special relativity, gravitation, thermodynamics, and waves. Spring-term topics include electromagnetism, geometrical and physical optics, and elements of quantum mechanics. Prerequisite: MATH 1150 or equivalent. MATH 1200 and either MATH 2250 or MATH 2220 , are generally taken concurrently. See comparison of introductory sequences and laboratories in the YCPS. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MATH 1150",
+      "MATH 1200",
+      "MATH 2250",
+      "MATH 2220",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 2050La or b and PHYS 2060La or b, Modern Physical Measurement Staff",
+    "courseid": "PHYS 2050La",
+    "coursedescription": "A two-term sequence of experiments in classical and modern physics for students who plan to major in Physics. In the first term, the basic principles of mechanics, electricity, and magnetism are illustrated in experiments designed to make use of computer data handling and teach error analysis. In the second term, students plan and carry out experiments illustrating aspects of wave and quantum phenomena and of atomic, solid state, and nuclear physics using modern instrumentation. May be begun in either term. SC 0 Course cr per term HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 2600a and PHYS 2610b, Intensive Introductory Physics Staff",
+    "courseid": "PHYS 2600a",
+    "coursedescription": "An introduction to major branches of physics—classical and relativistic mechanics; gravitation; electricity and magnetism; and quantum physics,information, and computation—at a sophisticated level. For students majoring in the physical sciences, mathematics, and philosophy whose high school training included both mechanics and electricity and magnetism at the typical college/AP level and have excellent training in, and a flair for, mathematical methods and quantitative analysis. Concurrently with MATH 1200 , ENAS 1510 , PHYS 1510 , or PHYS 4000 , or equivalent. Students considering an alternative MATH course should check with the DUS in Physics. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 2710a, Independent Research in Physics David Poland",
+    "courseid": "PHYS 2710a",
+    "coursedescription": "Each student works on an independent project under the supervision of a member of the faculty or research staff. Students participate in a series of seminar meetings in which they present a talk on their project or research related to it. A written report is also required. For students with a strong background in physics coursework. This course may be taken multiple times for pass/fail credit. Suggested for first years and sophomores. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3200a, Physics and Public Policy Barbara Cruvinel Santiago",
+    "courseid": "PHYS 3200a",
+    "coursedescription": "Case studies in the science and technology enterprise in the United States and selected foreign countries focused on topics in the physical sciences; how science and technology affect public policy and in turn are affected by it; how research is planned, supported, evaluated, and utilized; how criteria for selection of research areas are developed and used in the executive and legislative branches of government. No detailed background in physical science or mathematics required, but some basic understanding might be helpful. Physics concepts will be introduced as needed.” WR , SO TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3410b, Biological Physics Staff",
+    "courseid": "PHYS 3410b",
+    "coursedescription": "An introduction to the physics of biological structures and life processes, and to the burgeoning field of biological physics. Related concepts from probability theory and statistical physics are developed as needed. Prerequisite: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610, or permission of instructor. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHYS 1700",
+      "1800",
+      "2000",
+      "2600",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 3420a / EPS 3420a, Introduction to Earth and Environmental Physics John Wettlaufer",
+    "courseid": "PHYS 3420a",
+    "coursedescription": "A broad introduction to the processes that affect the past, present, and future features of the Earth. Examples include climate and climate change and anthropogenic activities underlying them, planetary history, and their relation to our understanding of Earth's present dynamics and thermodynamics. Prerequisite: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610, MATH 1200 , 2460 , or ENAS 1940 , or permission of instructor. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 1700",
+      "1800",
+      "2000",
+      "2600",
+      "MATH 1200",
+      "ENAS 1940",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610, MATH 1200 , 2460 , or ENAS 1940 , or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 3450b, Introduction to Quantum Information Processing and Communication Staff",
+    "courseid": "PHYS 3450b",
+    "coursedescription": "This course is intended for undergraduate physics, chemistry, engineering, computer science, statistics and data science, and mathematics majors seeking an introduction to quantum information science. There is now a second quantum revolution underway and a world-wide race to build powerful new types of computers based on quantum principles, and to develop new techniques for encrypted communication whose security is guaranteed by the laws of quantum mechanics. The approach of this course to these topics will strip away much of the traditional physics details to focus on the information content of quantum systems, the nature of measurement, and why the true randomness of certain measurement results can be a feature rather than a bug. We learn what it means for a quantum bit (‘qubit’) to be simultaneously 0 and 1 (in some sense). We learn about quantum entanglement and the associated ‘spooky action at a distance’ that convinced Einstein that the quantum theory must be wrong. Ironically, this bizarre effect is now used on a daily basis to prove that quantum mechanics is indeed correct and used as a routine engineering test to make sure that quantum computers are working properly and are truly quantum. Specific topics include: the mathematical representation of quantum states as complex vectors, the superposition principle, entanglement and Bell inequalities, quantum gates and algorithms for quantum computers, quantum error correction, dense coding, teleportation, and secure quantum communication. Students learn to do problem sets based on programming and operating publicly-accessible cloud-based quantum computers. See for example: https://www.ibm.com/quantum-computing/. Familiarity with complex numbers and the basics of linear algebra (matrices, determinants, eigenvectors and eigenvalues) is assumed. Prior exposure to basic probability and statistics. as well as a course in quantum mechanics are useful but not required. SC MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3530a / BENG 3500a, Introduction to Biomechanics Michael Murrell",
+    "courseid": "PHYS 3530a",
+    "coursedescription": "An introduction to the biomechanics used in biosolid mechanics, biofluid mechanics, biothermomechanics, and biochemomechanics. Diverse aspects of biomedical engineering, from basic mechanobiology to the design of novel biomaterials, medical devices, and surgical interventions. Prerequisites: PHYS 180, PHYS 181, MATH 115, and ENAS 194. QR 0 Course cr TTh 9am-10:15am",
+    "course-prerequsities": [
+      "PHYS 180",
+      "PHYS 181",
+      "MATH 115",
+      "ENAS 194",
+      "QR 0",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 3560a / ASTR 3560a / ASTR 5560a, Astrostatistics and Data Mining Earl Bellinger",
+    "courseid": "PHYS 3560a",
+    "coursedescription": "This course is intended to give students majoring in astronomy, physics, or any other physical science the necessary background to be able to conduct research with large and complex datasets. The course provides an introduction to the tools needed for analyzing large volumes of data and gives students more experience in building codes to analyze to them. The course starts with a review of basic probability and statistics. Students then learn the basics of classical statistical inference, regression and model fitting, Bayesian statistical inference, as well as different data-mining techniques. Coding with the Python programming language. Prerequisite: ASTR 255 or equivalent. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "ASTR 255",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 3780a, Introduction to Scientific Computing & Data Science Daisuke Nagai",
+    "courseid": "PHYS 3780a",
+    "coursedescription": "This course introduces students to essential computational and data analysis methods and tools and their problem-solving applications. These are skills and knowledge essential for beginning research in the sciences, and are not typically taught in an introductory physics curriculum. The goal here is not completeness across any of these areas, but instead the introduction of the most important and useful skills, concepts, methods, techniques, tools and relevant knowledge for getting started in research in physics. Key learning goals include basic programming in Python, data analysis, modeling, simulations and machine learning, and their applications to problems in physics and beyond. Prerequisites: Introductory physics and familiarity with single variable calculus (basic integration, differentiation, Taylor series, etc). Previous experience in Python programming is not required. Contact instructor if you are unsure about your preparation. SC F 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "F 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3930a / APHY 3930a, Einstein and the Birth of Modern Physics A Douglas Stone",
+    "courseid": "PHYS 3930a",
+    "coursedescription": "The first twenty-five years of the 20th century represent a turning point in human civilization as for the first time mankind achieved a systematic and predictive understanding of the atomic level constituents of matter and energy, and the mathematical laws which describe the interaction of these constituents. In addition, the General Theory of Relativity opened up for the first time a quantitative study of cosmology, of the history of the universe as a whole. Albert Einstein was at the center of these breakthroughs, and also became an iconic figure beyond physics, representing scientist genius engaged in pure research into the fundamental laws of nature. This course addresses the nature of the transition to modern physics, underpinned by quantum and relativity theory, through study of Einstein’s science, biography, and historical context. It also presents the basic concepts in electromagnetic theory, thermodynamics and statistical mechanics, special theory of relativity, and quantum mechanics which were central to this revolutionary epoch in science. Prerequisites: Two terms of PHYS 170, 171, or PHYS 180, 181, or PHYS 200, 201, or PHYS 260, 261, or one term of any of these course with permission of instructor. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHYS 170",
+      "PHYS 180",
+      "PHYS 200",
+      "PHYS 260",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: Two terms of PHYS 170, 171, or PHYS 180, 181, or PHYS 200, 201, or PHYS 260, 261, or one term of any of these course with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 3950a / ASTR 2550a, Research Methods in Astrophysics Marla Geha",
+    "courseid": "PHYS 3950a",
+    "coursedescription": "An introduction to research methods in astronomy and astrophysics. The acquisition and analysis of astrophysical data, including the design and use of ground- and space-based telescopes, computational manipulation of digitized images and spectra, and confrontation of data with theoretical models. Examples taken from current research at Yale and elsewhere. Use of the Python programming language. Prerequisite: background in high school calculus and physics. No previous programming experience required. QR , SC RP MWF 10:30am-11:20am",
+    "course-prerequsities": [
+      "MWF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 3960b, The Impact of the Atom Staff",
+    "courseid": "PHYS 3960b",
+    "coursedescription": "Born in secrecy, the power of the atom was revealed to the world over Hiroshima in 1945. Since then, the atom has touched every facet of our lives. This seminar explores issues on how the atom has impacted the world using a multidisciplinary approach. These topics may include the impact of the atom on history, infrastructure, budget, arts and culture, peace and activism, healthcare, energy and climate change, policy, national security, international relations, science, and the future. Weekly assignments are supplemented with movie screenings and guest speakers. Prerequisites: One term of PHYS 1700, 1710 , or PHYS 1800, 1810 , or PHYS 2000, 2010 , or PHYS 2600, 2610 , or permission of instructor. SO W 7pm-8:50pm",
+    "course-prerequsities": [
+      "PHYS 1700",
+      "PHYS 1800",
+      "PHYS 2000",
+      "PHYS 2600",
+      "7PM-8"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: One term of PHYS 1700, 1710 , or PHYS 1800, 1810 , or PHYS 2000, 2010 , or PHYS 2600, 2610 , or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 4000a, Introduction to Mathematical Methods of Physics Christopher Lynn",
+    "courseid": "PHYS 4000a",
+    "coursedescription": "An introduction to the mathematical tools and concepts needed to study and model physical phenomena. Topics include linear algebra, differential equations, and dynamical systems. Designed to give accelerated access to 4000-level courses. Recommended to be taken concurrently with PHYS 4010 or 4100 . Prerequisites: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610, or permission of instructor. QR TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 1700",
+      "1800",
+      "2000",
+      "2600",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended to be taken concurrently with PHYS 4010 or 4100 .",
+        "Prerequisites: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 4010a and PHYS 4020b, Advanced Classical Physics from Newton to Einstein Staff",
+    "courseid": "PHYS 4010a",
+    "coursedescription": "Advanced physics as the field developed from the time of Newton to the age of Einstein. Topics include mechanics, electricity and magnetism, statistical physics, and thermodynamics. The development of classical physics into a \"mature\" scientific discipline, an idea that was subsequently shaken to the core by the revolutionary discoveries of quantum physics and relativity. Prerequisite: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610. Concurrently with PHYS 4000 or other advanced mathematics course. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 1700",
+      "1800",
+      "2000",
+      "2600",
+      "PHYS 4000",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4100a, Classical Mechanics Nikhil Padmanabhan",
+    "courseid": "PHYS 4100a",
+    "coursedescription": "An advanced treatment of mechanics, with a focus on the methods of Lagrange and Hamilton. Lectures and problems address the mechanics of particles, systems of particles, and rigid bodies, as well as free and forced oscillations. Introduction to chaos and special relativity. Prerequisite: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610. Concurrently with PHYS 4000 or other advanced mathematics course. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 1700",
+      "1800",
+      "2000",
+      "2600",
+      "PHYS 4000",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4120b, Relativity Staff",
+    "courseid": "PHYS 4120b",
+    "coursedescription": "This course covers special relativity and an introduction to general relativity. A thorough treatment of special relativity, stressing equally conceptual understanding and certain formal aspects. Introduction to general relativity covers curved spaces, Einstein's equations, and some of their solutions. Prerequisite: PHYS 4010 or PHYS 4100 . QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHYS 4010",
+      "PHYS 4100",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4300b, Electromagnetic Fields and Optics Staff",
+    "courseid": "PHYS 4300b",
+    "coursedescription": "Electrostatics, magnetic fields of steady currents, electromagnetic waves, and relativistic dynamics. Provides a working knowledge of electrodynamics. Prerequisites: PHYS 4000 and 4100 or equivalents. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 4000",
+      "4100",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4390a / APHY 4390a, Basic Quantum Mechanics John Sous",
+    "courseid": "PHYS 4390a",
+    "coursedescription": "The basic concepts and techniques of quantum mechanics essential for solid-state physics and quantum electronics. Topics include the Schrödinger treatment of the harmonic oscillator, atoms and molecules and tunneling, matrix methods, and perturbation theory. Prerequisites: PHYS 181 or 201, PHYS 301, or equivalents, or permission of instructor. QR , SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "PHYS 181",
+      "201",
+      "PHYS 301",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: PHYS 181 or 201, PHYS 301, or equivalents, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 4400a, Quantum Mechanics and Natural Phenomena I Ramamurti Shankar",
+    "courseid": "PHYS 4400a",
+    "coursedescription": "The first term of a two-term sequence covering principles of quantum mechanics with examples of applications to atomic physics. The solution of bound-state eigenvalue problems, free scattering states, barrier penetration, the hydrogen-atom problem, perturbation theory, transition amplitudes, scattering, and approximation techniques. Prerequisite: PHYS 4100 or 4010 . QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 4100",
+      "4010",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4410b, Quantum Mechanics and Natural Phenomena II Staff",
+    "courseid": "PHYS 4410b",
+    "coursedescription": "Continuation of PHYS 4400 . Prerequisite: PHYS 4400 and either PHYS 4300 or permission of the instructor. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 4400",
+      "PHYS 4300",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PHYS 4400 and either PHYS 4300 or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 4420a, Introduction to Nuclear and Elementary Particle Physics Ian Moult",
+    "courseid": "PHYS 4420a",
+    "coursedescription": "Fundamental concepts in nuclear and particle physics, including the discovery of radioactivity, the Dirac equation, antimatter, Feynman diagrams, hadron resonances, quarks and gluons, fundamental symmetries, the weak interaction, beta decay, quantum chromodynamics, neutrino oscillation, unification, and particle theories for dark matter. Prerequisite: two term courses in quantum mechanics. QR , SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 4450Lb, Advanced Physics Laboratory Matthew Ennis",
+    "courseid": "PHYS 4450Lb",
+    "coursedescription": "Laboratory experiments with some discussion of theory and techniques. An advanced course focusing on modern experimental methods and concepts in atomic, optical, nuclear, and condensed matter physics. Intended to prepare students for independent research. For majors in the physical sciences. After or concurrently with PHYS 4390 or 4400 , or with permission of instructor. PHYS 2060L WR , SC HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "After or concurrently with PHYS 4390 or 4400 , or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 4480a / APHY 4480a, Solid State Physics I Yu He",
+    "courseid": "PHYS 4480a",
+    "coursedescription": "The first term of a two-term sequence covering the principles underlying the electrical, thermal, magnetic, and optical properties of solids, including crystal structure, phonons, energy bands, semiconductors, Fermi surfaces, magnetic resonances, phase transitions, dielectrics, magnetic materials, and superconductors. Prerequisites: APHY 322, 439, PHYS 420. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "APHY 322",
+      "PHYS 420",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4490b / APHY 4490b, Solid State Physics II Vidvuds Ozolins",
+    "courseid": "PHYS 4490b",
+    "coursedescription": "The second term of the sequence described under APHY 448. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 4500a / APHY 4200a, Thermodynamics and Statistical Mechanics Nir Navon",
+    "courseid": "PHYS 4500a",
+    "coursedescription": "This course is subdivided into two topics. We study thermodynamics from a purely macroscopic point of view and then we devote time to the study of statistical mechanics, the microscopic foundation of thermodynamics. Prerequisites: PHYS 4000 , 4100 , and 4400 or permission of instructor. QR , SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHYS 4000",
+      "4400",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: PHYS 4000 , 4100 , and 4400 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 4580a / APHY 4580a, Principles of Optics with Applications Hui Cao",
+    "courseid": "PHYS 4580a",
+    "coursedescription": "Introduction to the principles of optics and electromagnetic wave phenomena with applications to microscopy, optical fibers, laser spectroscopy, and nanostructure physics. Topics include propagation of light, reflection and refraction, guiding light, polarization, interference, diffraction, scattering, Fourier optics, and optical coherence. Prerequisite: PHYS 430. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 430",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHYS 4710a, Independent Projects in Physics David Poland",
+    "courseid": "PHYS 4710a",
+    "coursedescription": "Each student works on an independent project under the supervision of a member of the faculty or research staff. Students participate in a series of seminar meetings in which they present a talk on their project or research related to it. A written report is also required. Registration is limited to junior and senior physics majors. This course may be taken up to four times for a letter grade. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Registration is limited to junior and senior physics majors."
+      ]
+    }
+  }
+]

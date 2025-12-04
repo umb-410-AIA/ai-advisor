@@ -1,0 +1,808 @@
+[
+  {
+    "coursename": "JWST 0012 Jews and China: Views from Two Perspectives",
+    "courseid": "JWST 0012",
+    "coursedescription": "Jews in China??? Who knew??? The history of the Jews in China, both modern and medieval, is an unexpected and fascinating case of cultural exchange. Even earlier than the 10th century. Jewish trader from India or Persia on the Silk Road, settled in Kaifeng, the capital of the Northern Song Dynasty, and established a Jewish community that lasted through the nineteenth century. In the mid-nineteenth century, Jewish merchants, mainly from Iraq, often via India, arrived in China and played a major role in the building of modern Shanghei. After 1898, Jews from Russia settled in the northern Chinese city of Harbin, first as traders and later as refugees from the Bolshevik Revolution and Russian Civil War. In the first decades of the twentieth century, a few Jews from Poland and Russia visited China as tourists, drawn by a combination of curiosity about the cultural exoticism of a truly foreign culture and an affinity that Polish Jewish socialists and communists felt as these political movements began to emerge in China. During World War II, Shanghai served as a port of refuge for Jews from Central Europe. In this freshman seminar, we will explore how these Jewish traders, travelers, and refugees responded to and represented China in their writings. We will also read works by their Chinese contemporaries and others to see the responses to and perceptions of these Jews. We will ask questions about cultural translation: How do exchanges between languages, religions, and cultures affect the identities of individuals and communities? What commonalities and differences between these people emerge? Not Offered Every Year Also Offered As: GRMN 0012 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0014 Jerusalem: Holy City",
+    "courseid": "JWST 0014",
+    "coursedescription": "This course will survey the cultural history of Jerusalem over three millennia with a special focus on its configuration as contested, sacred space in multiple traditions (including Judaism, Christianity, Islam, and others). The course will address how Jerusalem acquired its “holy” status on both a micro-level (via sacred spaces within the city) and macro-level (as a target for pilgrimage in competition with other cities in the region). These aspects of the city will be analyzed both as they are depicted in texts and as they are attested in the art and architecture found in Jerusalem and in similar cities in the broader Mediterranean/Middle East. The course will examine how sacred space and sacred urbanism are produced through interactions with texts, artifacts, and built environments. Not Offered Every Year Also Offered As: MELC 0014 , NELC 0014, RELS 0250 Mutually Exclusive: MELC 6414 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0020 Religions of the West",
+    "courseid": "JWST 0020",
+    "coursedescription": "This course surveys the intertwined histories of Judaism, Christianity, and Islam. We will focus on the shared stories which connect these three traditions, and the ways in which communities distinguished themselves in such shared spaces. We will mostly survey literature, but will also address material culture and ritual practice, to seek answers to the following questions: How do myths emerge? What do stories do? What is the relationship between religion and myth-making? What is scripture, and what is its function in creating religious communities? How do communities remember and forget the past? Through which lenses and with which tools do we define \"the West\"? Fall or Spring Also Offered As: RELS 0020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0100 Elementary Modern Hebrew I",
+    "courseid": "JWST 0100",
+    "coursedescription": "An introduction to the skills of reading, writing, and conversing in modern Hebrew. This course assumes no previous knowledge of Hebrew. A grade of B- or higher is needed to continue in the language. Fall or Spring Also Offered As: HEBR 0100 Mutually Exclusive: HEBR 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0111 Archaeology & The Bible",
+    "courseid": "JWST 0111",
+    "coursedescription": "In this introductory course, students will learn how archaeology illuminates the material and social world behind the texts of the Hebrew Bible and contributes to debates about the history and culture of these societies. We will study the sites, artifacts, and art of the lands of Israel, Judah, Phoenicia, Philistia, Ammon, Moab, and Edom during the period framing the rise and fall of these kingdoms, ca. 1200 to 330 BCE. We will see how biblical archaeology arose in the nineteenth and early twentieth centuries, how the complex relationship between archaeology and the biblical text has evolved to the present day, and how new discoveries continue to challenge preconceptions about this period. We will learn a broad range of methods in both current archaeology and biblical studies and how they can be used to answer questions about ancient societies, their practices and beliefs, and the material and textual remains they left behind. Not Offered Every Year Also Offered As: ANTH 0111 , MELC 0100 , NELC 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0160 Beginning Yiddish I",
+    "courseid": "JWST 0160",
+    "coursedescription": "The goal of this course is to help beginning students develop skills in Yiddish conversation, reading and writing. Yiddish is the medium of a millennium of Jewish life. We will frequently have reason to refer to the history and culture of Ashkenazie Jewry in studying the language. Fall Also Offered As: YDSH 0100 Mutually Exclusive: SWED 5010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0170 Elementary Biblical Hebrew I",
+    "courseid": "JWST 0170",
+    "coursedescription": "This course is an introduction to Biblical Hebrew. It assumes no prior knowledge, but students who can begin to acquire a reading knowledge of the Hebrew alphabet before class starts will find it extremely helpful. The course is the 1st of a 4-semester sequence whose purpose is to prepare students to take courses in Bible that demand a familiarity with the original language of the text. Fall Also Offered As: MELC 0301 , NELC 0301 Mutually Exclusive: MELC 5211 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0200 Elementary Modern Hebrew II",
+    "courseid": "JWST 0200",
+    "coursedescription": "A continuation of first semester Elementary Modern Hebrew, which assumes basic skills of reading and speaking and the use of the present tense. Open to all students who have completed one semester of Hebrew at Penn with a grade of B- or above and new students with equivalent competency. Fall or Spring Also Offered As: HEBR 0200 Mutually Exclusive: HEBR 5200 Prerequisite: HEBR 0100 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0260 Beginning Yiddish II",
+    "courseid": "JWST 0260",
+    "coursedescription": "In this course, you can continue to develop basic reading, writing and speaking skills. Discover treasures of Yiddish culture: songs, literature, folklore, and films. Spring Also Offered As: YDSH 0200 Prerequisite: YDSH 0100 1 Course Unit",
+    "course-prerequsities": [
+      "YDSH 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0270 Elementary Biblical Hebrew II",
+    "courseid": "JWST 0270",
+    "coursedescription": "A continued introduction to the grammar of Biblical Hebrew, focusing on the verbal system, with an emphasis on developing language skills in handling Biblical texts. A suitable entry point for students who have had some Modern Hebrew. Spring Also Offered As: MELC 0302 , NELC 0302 Mutually Exclusive: MELC 5212 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0300 Intermediate Modern Hebrew III",
+    "courseid": "JWST 0300",
+    "coursedescription": "Development of the skills of reading, writing, and conversing in modern Hebrew on an intermediate level. Open to all students who have completed two semesters of Hebrew at Penn with a grade of B- or above and new students with equivalent competency. Fall or Spring Also Offered As: HEBR 0300 Mutually Exclusive: HEBR 5300 Prerequisite: HEBR 0200 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0303 Introduction to the Bible",
+    "courseid": "JWST 0303",
+    "coursedescription": "An introduction to the major themes and ideas of the Hebrew Bible (the Old Testament), with attention to the contributions of archaeology and modern Biblical scholarship, including Biblical criticism and the response to it in Judaism and Christianity. All readings are in English. Not Offered Every Year Also Offered As: MELC 0300 , NELC 0300, RELS 0301 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0305 Great Books of Judaism",
+    "courseid": "JWST 0305",
+    "coursedescription": "Since the early medieval period, Jews have been known as \"the People of the Book\". Yet the books they produced and consumed changed drastically over time and place, spanning a variety of known genres and inventing new ones. These works, in turn, shaped the texts, ideas, and lives of Jews and others for millennia, spawned vast commentary traditions, and inspired new works. This course engages prominent Jewish texts, such as the Hebrew Bible, Rabbinic Literature, the works of major medieval philosophers, pre-modern intellectuals, and modern authors, situating them in their literary, cultural, and social contexts, and examining their later reception. Not Offered Every Year Also Offered As: MELC 0305 , NELC 0305, RELS 0305 Mutually Exclusive: MELC 5210 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0315 Jewish Literature in the Middle Ages in Translation",
+    "courseid": "JWST 0315",
+    "coursedescription": "Course explores the cultural history of Jews in the lands of Islam from the time of Mohammed through the late 17th century (end of Ottoman expansion into Europe) --in Iraq, the Middle East, al-Andalus and the Ottoman Empire. Primary source documents (in English translation) illuminate minority-majority relations, internal Jewish tensions (e.g., Qaraism), and developments in scriptural exegesis, rabbinic law, philosophy, poetry, polemics, mysticism and liturgy. Not Offered Every Year Also Offered As: COML 0315 , MELC 0315 , RELS 0315 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0320 Modern Hebrew Literature and Film in Translation",
+    "courseid": "JWST 0320",
+    "coursedescription": "This course is designed to introduce students to the rich art of Modern Hebrew and Israeli literature and film. Poetry, short stories, and novel excerpts are taught in translation. The course studies Israeli cinema alongside literature, examining the various facets of this culture that is made of national aspirations and individual passions. The class is meant for all: no previous knowledge of history or the language is required. The topic changes each time the course is offered. Topics include: giants of Israeli literature; the image of the city; childhood; the marginalized voices of Israel; the Holocaust from an Israeli perspective; and fantasy, dreams & madness. Not Offered Every Year Also Offered As: CIMS 0320 , COML 0320 , MELC 0320 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0325 Jewish Mysticism",
+    "courseid": "JWST 0325",
+    "coursedescription": "Survey of expressions of Jewish mysticism from Hebrew Scripture through the 21st century. Topics include rabbinic concerns about mystical speculation, the ascent through the celestial chambers -heikhalot-, the Book of Creation, the relationship of Jewish philosophy and mysticism, techniques of letter permutation, schematization of the Divine Body, the prominence of gender and sexuality in kabalistic thought, the relationship of kabbalah to the practice of the commandments, Zohar, Lurianic kabbalah, Hasidism, New-Age Jewish spirituality and the resurgence of Jewish mysticism in the 20th century. All readings will be in English translation. Not Offered Every Year Also Offered As: MELC 0325 , RELS 0325 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0330 Themes Jewish Tradition",
+    "courseid": "JWST 0330",
+    "coursedescription": "Course topics will vary; they have included The Binding of Isaac, Responses to Catastrophes in Jewish History, Holy Men & Women (Ben-Amos); Rewriting the Bible (Dohrmann); Performing Judaism (Fishman); Jewish Political Thought (Fishman); Jewish Esotericism (Lorberbaum) Democratic culture assumes the democracy of knowledge - the accessibility of knowledge and its transparency. Should this always be the case? What of harmful knowledge? When are secrets necessary? In traditional Jewish thought, approaching the divine has often assumed an aura of danger. Theological knowledge was thought of as restricted. This seminar will explore the \"open\" and \"closed\" in theological knowledge, as presented in central texts of the rabbinic tradition: the Mishnah, Maimonides and the Kabbalah. Primary sources will be available in both Hebrew and English. Not Offered Every Year Also Offered As: MELC 0330 , RELS 0335 Mutually Exclusive: MELC 6305 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Theological knowledge was thought of as restricted."
+      ]
+    }
+  },
+  {
+    "coursename": "JWST 0335 Jewish Humor",
+    "courseid": "JWST 0335",
+    "coursedescription": "In modern American popular culture Jewish humor is considered by Jews and non-Jews as a recognizable and distinct form of humor. Focusing upon folk-humor, in this course we will examine the history of this perception, and study different manifestation of Jewish humor as a particular case study of ethnic in general. Specific topics for analysis will be: humor in the Hebrew Bible, Jewish humor in Europe and in America, JAP and JAM jokes, Jewish tricksters and pranksters, Jewish humor in the Holocaust and Jewish humor in Israel. The term paper will be collecting project of Jewish jokes. Not Offered Every Year Also Offered As: COML 0335 , MELC 0335 , NELC 0335 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0360 Intermediate Yiddish I",
+    "courseid": "JWST 0360",
+    "coursedescription": "The course will continue the first year's survey of Yiddish grammar with an additional emphasis on reading Yiddish texts. The course will also develop conversational skills in Yiddish. Not Offered Every Year Also Offered As: YDSH 0300 Mutually Exclusive: YDSH 5030 Prerequisite: YDSH 0200 1 Course Unit",
+    "course-prerequsities": [
+      "YDSH 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0370 Intermediate Biblical Hebrew I",
+    "courseid": "JWST 0370",
+    "coursedescription": "This course will focus on using the grammar and vocabulary learned at the introductory level to enable students to read Biblical texts independently and take advanced Bible exegesis courses. We will also work on getting comfortable with the standard dictionaries, concordances, and grammars used by scholars of the Bible. We will concentrate on prose this semester, closely reading Ruth, Jonah, and other prose selections. We will begin to translate from English into Biblical Hebrew, and there will also be a unit on the punctuation marks used in the Bible. This is a suitable entry point for students who already have strong Hebrew skills. Fall Also Offered As: MELC 0303 , NELC 0303 Mutually Exclusive: MELC 5213 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0400 Intermediate Modern Hebrew IV",
+    "courseid": "JWST 0400",
+    "coursedescription": "This course constitutes the final semester of Intermediate Modern Hebrew. Hence, one of the main goals of the course is to prepare the students for the proficiency exam in Hebrew. Emphasis will be placed on grammar skills and ability to read literary texts. Open to all students who have completed three semesters of Hebrew at Penn with a grade of B- or above and new students with equivalent competency. Fall or Spring Also Offered As: HEBR 0400 Mutually Exclusive: HEBR 5400 Prerequisite: HEBR 0300 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0460 Intermediate Yiddish II",
+    "courseid": "JWST 0460",
+    "coursedescription": "Continuation of YDSH 0300 . Emphasis on reading texts and conversation. Not Offered Every Year Also Offered As: YDSH 0400 Mutually Exclusive: YDSH 5040 Prerequisite: YDSH 0300 1 Course Unit",
+    "course-prerequsities": [
+      "YDSH 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0470 Intermediate Biblical Hebrew II",
+    "courseid": "JWST 0470",
+    "coursedescription": "This course is a continuation of the fall semester's Intermediate Biblical Hebrew I. No one will be admitted into the course who has not taken the fall semester. It will continue to focus on using the grammar and vocabulary learned at the introductory level to enable students to read biblical texts independently and take advanced Bible exegesis courses. We will concentrate this semester on various selections of Biblical poetry, including Exodus 15 and Job 28. We will also continue to translate English prose into Biblical Hebrew. Spring Also Offered As: MELC 0304 , NELC 0304 Mutually Exclusive: MELC 5214 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0550 Readings in Modern Yiddish Literature",
+    "courseid": "JWST 0550",
+    "coursedescription": "This course will survey modern Yiddish literature through readings of Yiddish prose and poetry from the end of the 19th century through the late 20th century. The class will be conducted in both Yiddish and English. Reading knowledge of Yiddish is required, although some texts will be available in English translation. Authors include I.L. Peretz, Isaac Bashevis Singer, Moyshe-Leyb Halpern, and Kadya Molodowsky. Not Offered Every Year Also Offered As: YDSH 0550 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0625 Israel in the Middle East",
+    "courseid": "JWST 0625",
+    "coursedescription": "This introductory level course will offer an in-depth look at Israeli history and society, and how it relates to the Middle East through varying lenses. We will consider such topics as the rise of Jewish, Palestinian, and Arab nationalisms in the context of changing imperial control over Palestine/Israel (from Ottoman to British), and the emergence of the Middle East in its current borders; Conflict and conflict-resolution in Israel, Palestine, and the Middle East; Israel's Palestinian minority, Jewish immigrants to Israel from the Middle East, food and music culture in Israel, and their connection to the Middle East; or the place of the Middle East in Israeli literature and film. We will use cutting edge research from several disciplines, as well as literature, film, audio, and photographic evidence. Students will leave the class with a firm grasp of Israeli history and society, and will be widely familiar with the different narratives, viewpoints, and complexities concerning Israel and its position in the Middle East. Prior knowledge of Israeli or Middle Eastern history is not required. Not Offered Every Year Also Offered As: MELC 0625 , NELC 0625 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 0982 Study Abroad",
+    "courseid": "JWST 0982",
+    "coursedescription": "A course taken abroad on a topic not taught at Penn. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1000 Advanced Modern Hebrew",
+    "courseid": "JWST 1000",
+    "coursedescription": "In this course students are introduced to the vibrant world of contemporary Israeli culture by reading some of the best plays, poems, short stories and journalism published in Israel today. They also watch and analyze some of Israel's most popular films, TV programs, and videos. Themes include Jewish-Arab relations, the founding of the State, family ties and intergenerational conflict, war and society, and the recent dynamic changes in Israel society. Students must have taken four semesters of Hebrew at Penn or permission of instructor. Since the content of this course may change from year to year, students may take it more than once (but only once for credit). Fall or Spring Also Offered As: HEBR 1000 Mutually Exclusive: HEBR 6000 Prerequisite: HEBR 0400 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 0400"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students must have taken four semesters of Hebrew at Penn or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "JWST 1090 Jewish Films and Literature",
+    "courseid": "JWST 1090",
+    "coursedescription": "From the 1922 silent film \"Hungry Hearts\" through the first \"talkie,\" \"The Jazz Singer,\" produced in 1927, and beyond \"Schindler's List,\" Jewish characters have confronted the problems of their Jewishness on the silver screen for a general American audience. Alongside this Hollywood tradition of Jewish film, Yiddish film blossomed from independent producers between 1911 and 1939, and interpreted literary masterpieces, from Shakespeare's \"King Lear\" to Sholom Aleichem's \"Teyve the Dairyman,\" primarily for an immigrant, urban Jewish audience. In this course, we will study a number of films and their literary sources (in fiction and drama), focusing on English language and Yiddish films within the framework of three dilemmas of interpretation: a) the different ways we \"read\" literature and film, b) the various ways that the media of fiction, drama, and film \"translate\" Jewish culture, and c) how these translations of Jewish culture affect and are affected by their implied audience. Not Offered Every Year Also Offered As: COML 1090 , ENGL 1289 , GRMN 1090 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1100 Women in Jewish Literature",
+    "courseid": "JWST 1100",
+    "coursedescription": "\"Jewish woman, who knows your life? In darkness you have come, in darkness do you go.\" J. L. Gordon (1890). This course will bring into the light the long tradition of women as readers, writers, and subjects in Jewish literature. All texts will be in translation from Yiddish and Hebrew, or in English. Through a variety of genres -- devotional literature, memoir, fiction, and poetry -- we will study women's roles and selves, the relations of women and men, and the interaction between Jewish texts and women's lives. The legacy of women in Yiddish devotional literature will serve as background for our reading of modern Jewish fiction and poetry from the past century. The course is divided into five segments. The first presents a case study of the Matriarchs Rachel and Leah, as they are portrayed in the Hebrew Bible, in rabbinic commentary, in pre-modern prayers, and in modern poems. We then examine a modern novel that recasts the story of Dinah, Leah's daughter. Next we turn to the seventeenth century Glikl of Hamel, the first Jewish woman memoirist. The third segment focuses on devotional literature for and by women. In the fourth segment, we read modern women poets in Yiddish, Hebrew, and English. The course concludes with a fifth segment on fiction written by women in Yiddish, Hebrew, and English. Not Offered Every Year Also Offered As: GRMN 1100 , GSWS 1100 , MELC 0375 , NELC 0375 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1110 Jewish American Literature",
+    "courseid": "JWST 1110",
+    "coursedescription": "What makes Jewish American literature Jewish? What makes it American? This course will address these questions about ethnic literature through fiction, poetry, drama, and other writings by Jews in America, from their arrival in 1654 to the present. We will discuss how Jewish identity and ethnicity shape literature and will consider how form and language develop as Jewish writers \"immigrate\" from Yiddish, Hebrew, and other languages to American English. Our readings, from Jewish American Literature: A Norton Anthology, will include a variety of stellar authors, both famous and less-known, including Isaac Mayer Wise, Emma Lazarus, Isaac Bashevis Singer, Celia Dropkin, Abraham Cahan, Anzia Yezierska, Saul Bellow, Philip Roth, Cynthia Ozick, and Allegra Goodman. Students will come away from this course having explored the ways that Jewish culture intertwines with American culture in literature. Not Offered Every Year Also Offered As: COML 1110 , GRMN 1110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1111 Yiddish Literature and Culture",
+    "courseid": "JWST 1111",
+    "coursedescription": "This course introduces a variety of themes and genres in Yiddish literature and culture, depending on the instructor and programmatic needs. The focus of the course may include Yiddish literature and culture in America; Yiddish literature and culture in Eastern Europe; Yiddish modernism; Art and music in the Yiddish context; Yiddish theater; Yiddish journalism; Yiddish film. Readings will be in English translation, while primary sources in Yiddish will be available, as well. Classes and coursework will be in English. There will be an optional graduate component to this course. Also Offered As: COML 1111 , GRMN 1111 , YDSH 1111 Mutually Exclusive: YDSH 5111 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1120 Translating Cultures: Literature on and in Translation",
+    "courseid": "JWST 1120",
+    "coursedescription": "\"Languages are not strangers to one another,\" writes the great critic and translator Walter Benjamin. Yet two people who speak different languages have a difficult time talking to one another, unless they both know a third, common language or can find someone who knows both their languages to translate what they want to say. Without translation, most of us would not be able to read the Bible or Homer, the foundations of Western culture. Americans wouldn't know much about the cultures of Europe, China, Africa, South America, and the Middle East. And people who live in or come from these places would not know much about American culture. Without translation, Americans would not know much about the diversity of cultures within America. The very fabric of our world depend upon translation between people, between cultures, between texts. With a diverse group of readings--autobiography, fiction, poetry, anthology, and literary theory--this course will address some fundamental questions about translating language and culture. What does it mean to translate? How do we read a text in translation? What does it mean to live between two languages? Who is a translator? What are different kinds of literary and cultural translation? what are their principles and theories? Their assumptions and practices? Their effects on and implications for the individual and the society? Not Offered Every Year Also Offered As: COML 1120 , GRMN 1120 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1130 How to Read the Bible",
+    "courseid": "JWST 1130",
+    "coursedescription": "The aim of this course is to explore what the Bible means, and why it means such different things to different people. Why do people find different kinds of meaning in the Bible. Who is right in the struggle over its meaning, and how does one go about deciphering that meaning in the first place? Focusing on the book of Genesis, this seminar seeks to help students answer these questions by introducing some of the many ways in which the Bible has been read over the ages. exploring its meaning as understood by ancient Jews and Christians, modern secular scholars, contemporary fiction writers, feminist activists, philosophers and other kinds of interpreter. Also Offered As: MELC 0365 , NELC 0365, RELS 1130 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1142 The Making of Modern Israel and Palestine",
+    "courseid": "JWST 1142",
+    "coursedescription": "This course analyzes the making of a modern Jewish state in the land of Israel/Palestine and the role of Zionism, Palestinian nationalism, and global politics in that process. Beginning in 19th-century Europe and the Middle East, we will study the ideas, movements, and people that shaped what has come to be known as the Arab-Israeli conflict. Students will explore the impact of international factors on the struggles that resulted from the Zionist project in Israel/Palestine and Arab reactions to it across three periods: imperialism and world wars (1860s-1940s), cold war (late 1940s-1990), and multi-polarity (1990s-present). Fall or Spring Also Offered As: PSCI 1142 Mutually Exclusive: PSCI 1141 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1150 American Jewish Experience",
+    "courseid": "JWST 1150",
+    "coursedescription": "This course offers a comprehensive survey of American Jewish history from the colonial period to the present. It will cover the different waves of Jewish immigration to the United States and examine the construction of Jewish political, cultural, and religious life in America. Topics will include: American Judaism, the Jewish labor movement, Jewish politics and popular culture, and the responses of American Jews to the Holocaust and the State of Israel. Fall or Spring Also Offered As: HIST 1150 , RELS 1150 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1200 The Bible in Translation",
+    "courseid": "JWST 1200",
+    "coursedescription": "This course introduces students to one specific Book of the Hebrew Bible. \"The Bible in Translation\" involves an in-depth reading of a biblical source against the background of contemporary scholarship. Depending on the book under discussion, this may also involve a contextual reading with other biblical books and the textual sources of the ancient Near East. Although no prerequisites are required, this class is a perfect follow-up course to \"Intro to the Bible.\" Not Offered Every Year Also Offered As: MELC 1200 , NELC 1200, RELS 1200 1 Course Unit",
+    "course-prerequsities": [
+      "MELC 1200",
+      "NELC 1200",
+      "RELS 1200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1210 Witnessing, Remembering, and Writing the Holocaust",
+    "courseid": "JWST 1210",
+    "coursedescription": "Witnessing, Remembering, and Writing the Holocaust What is a witness? What do the witnesses of the Shoah see, hear, experience? And how will they remember things, whether they are victims, perpetrators or bystanders? How are their memories translated into survivors' accounts: reports, fiction, art, and even music or architecture? And what does this teach us about human survival, and about the transmission of experiences to the next generation? The course will ask these questions by studying literature on memory and trauma, as well as novels, poetry, and non-fiction accounts of the Holocaust. We will also look at art work created by survivors or their children, and listen to video testimonies. Among the authors and artists discussed will be work by Primo Levi, Paul Celan, Jean Amery, Christian Boltanski, Daniel Libeskind. The course is supported by the USC Shoah Foundation Visual History Archives. Not Offered Every Year Also Offered As: ARTH 2871 , COML 1210 , GRMN 1210 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1220 The German-Jewish Experience: Philosophy, Literature, Religion in the early Twentieth Century",
+    "courseid": "JWST 1220",
+    "coursedescription": "Yuri Slezkine described the twentieth century as a \"Jewish Age\"-to be modern would essentially mean to be a Jew. In German historical and cultural studies, this linkage has long been made--only in reference to the last years of the German monarchy and the time of the Weimar Republic. Indeed, what has become known as \"modern\" German culture-reflected in literature, music, and the visual arts and in a multitude of public media-has been more often than not assigned to Jewish authorship or Jewish subjects. But what do authorship and subject mean in this case? Do we locate the German-Jewish experience as the driving force of this new \"modernity,\" or is our understanding of this experience the result of this new \"modern\" world? Fall Also Offered As: COML 1220 , GRMN 1220 , PHIL 1582 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1261 Topics in Jewish-American Literature",
+    "courseid": "JWST 1261",
+    "coursedescription": "From the 1922 silent film \"Hungry Hearts\" through the first \"talkie,\" \"The Jazz Singer,\" produced in 1927, and beyond \"Schindler's List,\" Jewish characters have confronted the problems of their Jewishness on the silver screen for a general American audience. Alongside this Hollywood tradition of Jewish film, Yiddish film blossomed from independent producers between 1911 and 1939, and interpreted literary masterpieces, from Shakespeare's \"King Lear\" to Sholom Aleichem's \"Teyve the Dairyman,\" primarily for an immigrant, urban Jewish audience. In this course, we will study a number of films and their literary sources (in fiction and drama), focusing on English language and Yiddish films within the framework of three dilemmas of interpretation: a) the different ways we \"read\" literature and film, b) the various ways that the media of fiction, drama, and film \"translate\" Jewish cultue, and c) how these translations of Jewish culture affect and are affected by their implied audience. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1270 Gender and Religion in Israel",
+    "courseid": "JWST 1270",
+    "coursedescription": "Contemporary Israel is a site not just of religious conflict but of clashing gender norms, bringing together a variety of groups - the secular and the religious, the Orthodox and the non-Orthodox - that are distinguished from each other in part by their understanding of gender and their treatment of women and LGBTQ people. As a way into understanding the interaction of religion and gender more broadly, this course survey various intersections of religion, gender and politics in Israel today, investigating how religion shapes gender relations, and is shaped in turn by gender. Also Offered As: RELS 1270 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1272 Israel: Law, Religion and State",
+    "courseid": "JWST 1272",
+    "coursedescription": "This course aims to explore the role of religion in the political and legal culture of the state of Israel by examining Israel's efforts and vision to be both a Jewish state and a democratic state at the same time. How does the state of Israel manage the challenges and conflicts inherent in such an identity, and what is there to be learned about the relationship between the state and religion by comparing the situation in Israel with the separation of Church and State in the United States? What is the status of gender equity in Israel when it is in apparent conflict with religious considerations? Religious freedom and the rights of people belonging to other religious groups? Students will have the opportunity to learn more about these and other questions as the course examines the political, legal and cultural foundations of Israel's self-identity as a Jewish and democratic state. Not Offered Every Year Also Offered As: RELS 1271 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1280 Spirituality in Contemporary Israel",
+    "courseid": "JWST 1280",
+    "coursedescription": "This course maps out spiritual and religious life in Israel today, ranging from state-supported orthodox communities to groups that practice alternative forms of spirituality. What role do tradition, custom and ritual practice play in the construction of contemporary Israeli identity? How does the State shape religious and spiritual life? What forms of spiritual life are emerging beyond orthodoxy? The course will explore these and other questions through the examination of various media including newspapers, movies, and online conversations with Israeli religious leaders and important figures in popular culture. Fall, even numbered years only Also Offered As: RELS 1280 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1300 Jewish Folklore",
+    "courseid": "JWST 1300",
+    "coursedescription": "The Jews are among the few nations and ethnic groups whose oral tradition occurs in literary and religious texts dating back more than two thousand years. This tradition changed and diversified over the years in terms of the migrations of Jews into different countries and the historical, social, and cultural changes that these countries underwent. The course attempts to capture the historical and ethnic diversity of Jewish Folklore in a variety of oral literary forms. Spring Also Offered As: COML 1301 , MELC 1300 , NELC 1300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1310 Introduction to Modern Hebrew Literature",
+    "courseid": "JWST 1310",
+    "coursedescription": "The objective of this course is to develop an artistic appreciation for literature through in-depth class discussions and text analysis. Readings are comprised of Israeli poetry and short stories. Students examine how literary language expresses psychological and cultural realms. The course covers topics such as: the short story reinvented, literature and identity, and others. This course is conducted in Hebrew and all readings are in Hebrew. Grading is based primarily on participation and students' literary understanding. Not Offered Every Year Also Offered As: COML 1311 , MELC 1310 , NELC 1310 Mutually Exclusive: MELC 5400 Prerequisite: HEBR 0400 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1320 The History of God",
+    "courseid": "JWST 1320",
+    "coursedescription": "This course introduces the history of God as understood by modern scholars of religion. Why do people believe in gods in the first place? How is the God of the Old Testament different from earlier Near Eastern dieties, or different from God as represented in the New Testament and the Quran? When and why did people come to question the existence of God, and how has the idea of God changed in the last century in light of experiences like the Holocaust, social movements like feminism, and the rise of new technologies like the Internet? This course will address these questions as it surveys the approaches scholars have developed to comprehend the history of a being who would seem beyond human comprehension. Not Offered Every Year Also Offered As: ANCH 1204, RELS 1320 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1330 Jews and Violence in Antiquity",
+    "courseid": "JWST 1330",
+    "coursedescription": "The Passover Haggadah encodes a prominent narrative in Jewish memory, that \"in each generation, they stand against us to destroy us, but the Holy One, blessed be He, rescues us from their hand.\" This narrative, influential in shaping international policies toward Jews and other minority groups, and in informing modern Jewish identities, consolidates all episodes of violence against Jews into a singular, enduring pattern, irrespective of period, place, cause, or those responsible. Yet in so doing, the various complex contexts and scenarios of violence against Jews are sidelined, failing to capture the different stories and experiences of particular Jews with violence. What's more, framing Jews as perennially persecuted, such narratives often neglect fascinating accounts of violence by and among Jews in antiquity. This course explores the complex relationship between ancient Jewish communities and the phenomenon of violence in the context of their historical, cultural, and religious milieux. Students will delve into key aspects of ancient Jewish history, examining narratives, responses, and interpretations of violence from various perspectives. The course asks: What conditions generated violence against Jews? When and why were Jews violent? What role did different factors – politics, religion, economy, ideology, social fissures, literature and more – play in provoking moments of violence? To what degree was violence top down versus bottom up, official versus unauthorized, widespread versus local? How did Jews respond to moments of violence? Spring Also Offered As: MELC 1330 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1340 In Babel: Translation and Narration in the Jewish World",
+    "courseid": "JWST 1340",
+    "coursedescription": "“Modern Jewish culture speaks with many voices,” wrote the poet, translator, and scholar Benjamin Harshav. In this course, we will echo these voices by exploring how Jewish life was shaped by cross-cultural contact and exchange with non-Jews and other Jewish communities, by studying literary manifestations of multilingualism, translation, adaptation, and circulation of texts and ideas. With a wide variety of texts - fiction, poetry, historiography, and literary criticism - from different languages and cultural contexts, this course will address several fundamental questions about, on the one hand, the ways Jews translated texts for Jewish readers, and, on the other, how Jewish experiences and traditions were translated for broader audiences. In a broader sense, we will consider what is at stake in translating Jewishness and how cultural and linguistic borders are crossed and discussed in different historical contexts. Course assessment is comprised of two short response papers to key concepts and a literary text (with the option for a creative format), and a final paper that can be either research-based or a translation and a translator’s introduction. All materials will be available in English but students are encouraged to read materials in their original languages if they are fluent. Not Offered Every Year Also Offered As: COML 1340 , GRMN 1340 , YDSH 1340 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1345 Global Sephardi Culture",
+    "courseid": "JWST 1345",
+    "coursedescription": "The course surveys major trends in global Sephardi cultures. We will begin by exploring the origins of Sephardi culture, and especially the significance of exile within it, through medieval Hebrew poetry from the “Golden Age” of Jewish culture in Spain (8th-15th centuries) and subsequent responses to the expulsion of Jews in 1492. We will follow those exiles to new homes in the Ottoman Empire, from the period of early settlement in the 16th century to 19th- and 20th-century Ladino literature, which thrived in locations far afield from its Spanish roots, printed and disseminated in Turkey, Greece, Egypt, Austria, and the United States. We conclude with narratives of migration in the second half of the 20th century and contemporary Sephardi cinema, literature, and music from America, Turkey, and Israel, focusing on the impact of the Holocaust and the mass emigration of Jews from former Ottoman lands. Students will become acquainted with Sephardi history through literary texts translated from Ladino, Hebrew, German, French, Spanish, and Portuguese. These primary sources will be complemented by relevant scholarship in Jewish studies and European, Middle Eastern, and American history. We will study prominent writers such as Elias Canetti and Emma Lazarus alongside lesser-known writers such as Moses Almosnino, Grace Aguilar, Elia Carmona, Vitalis Danon, and Clarisse Nicoïdski. Not Offered Every Year Also Offered As: COML 1345 , MELC 1340 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1360 Death and the Afterlife in Ancient Judaism and Christianity",
+    "courseid": "JWST 1360",
+    "coursedescription": "This course surveys the development of concepts about death and the afterlife in Judaism and Christianity, exploring the cultural and socio-historical contexts of the formation of beliefs about heaven and hell, the end of the world, martyrdom, immortality, resurrection, and the problem of evil. Readings cover a broad range of ancient sources, including selections from the Hebrew Bible and New Testament, as well as other Jewish and Christian writings (e.g., \"apocrypha,\" \"pseudepigrapha,\" Dead Sea Scrolls, classical rabbinc literature, Church Fathers, \"gnostic\"and \"magical\" materials). In the process, this course introduces students to formative eras and ideas in the history of Judaism, Christianity, and Western culture. Fall or Spring Also Offered As: RELS 1360 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1362 The Making of Modern Israel and Palestine",
+    "courseid": "JWST 1362",
+    "coursedescription": "This course analyzes the making of a modern Jewish state in the land of Israel/Palestine and the role of Zionism, Palestinian nationalism, and global politics in that process. Beginning in 19th-century Europe and the Middle East, we will study the ideas, movements, and people that shaped what has come to be known as the Arab-Israeli conflict. Students will explore the impact of international factors on the struggles that resulted from the Zionist project in Israel/Palestine and Arab reactions to it across three periods: imperialism and world wars (1860s-1940s), cold war (late 1940s-1990), and multi-polarity (1990s-present). Also Offered As: HIST 1362 , PSCI 1141 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1400 The Making of Scripture",
+    "courseid": "JWST 1400",
+    "coursedescription": "The Bible as we know it is the product of a lengthy process of development, elaboration, contest, and debate. Rather than a foregone conclusion, the process by which the texts and traditions within the bible, and the status ascribed to them, was turbulent and uncertain. This course examines that process, examining the Bible, traditions and communities from the Second Temple Period - such as the Dead Sea Scrolls and Community - that rewrote, reconsidered, revised, or rejected now well-recognized figures and stories, and constructed distinct ideas of what was considered scripture and how it should be approached. Even as the bible began to resemble the corpus as we now know it, interpretive strategies rendered it entirely different, such as Hellenistic Allegorizers, working from the platonic tradition, rabbinic readers who had an entirely different set of hermeneutics, early Christians, who offered different strategies for reading the \"Old\" and \"New\" Testaments alongside one another (and employing categories like \"Old\" and \"New,\" themselves constituting a new attitude and relationship to and between these texts), and lastly early Muslim readers, who embraced many of the stories in the Bible, altered others, and debated the status of these corpuses under Islam. Not Offered Every Year Also Offered As: MELC 1400 , NELC 1400, RELS 1400 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1600 Jews and Judaism in Antiquity",
+    "courseid": "JWST 1600",
+    "coursedescription": "A broad introduction to the history of Jewish civilization from its Biblical beginnings to the Middle Ages, with the main focus on the formative period of classical rabbinic Judaism and on the symbiotic relationship between Judaism, Christianity, and Islam. Spring Also Offered As: HIST 1600 , MELC 0350 , NELC 0350, RELS 1600 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1605 Muslims, Christians, and Jews in the Middle East: Historical Perspectives",
+    "courseid": "JWST 1605",
+    "coursedescription": "A reading- and discussion-intensive seminar that addresses several recurring questions with regard to the Middle East and North Africa. How have Islam, Judaism, and Christianity influenced each other in these regions historically? How have Jews, Christians, and Muslims fared as religious minorities? To what extent have communal relations been characterized by harmony and cooperation, or by strife and discord, and how have these relations changed in different contexts over time? To what extent and under what circumstances have members of these communities converted, intermarried, formed business alliances, and adopted or developed similar customs? How has the emergence of the modern nation-state system affected communal relations as well as the legal or social status of religious minorities in particular countries? How important has religion been as one variable in social identity (along with sect, ethnicity, class, gender, etc.), and to what extent has religious identity figured into regional conflicts and wars? The focus of the class will be on the modern period (c. 1800-present) although we will read about some relevant trends in the early and middle Islamic periods as well. Students will also pursue individually tailored research to produce final papers. Prior background in Islamic studies and Middle Eastern history is required. Middle Eastern history is required. Not Offered Every Year Also Offered As: HIST 0836 , MELC 1605 , NELC 1605, RELS 1605 Mutually Exclusive: MELC 6605 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1610 Medieval and Early Modern Jewry",
+    "courseid": "JWST 1610",
+    "coursedescription": "Exploration of intellectual, social, and cultural developments in Jewish civilization from the rise of Islam in the seventh century to the assault on established conceptions of faith and religious authority in 17th century Europe, that is, from the age of Mohammed to that of Spinoza. Particular attention will be paid to the interaction of Jewish culture with those of Christianity and Islam. Fall Also Offered As: HIST 1610 , MELC 0355 , NELC 0355, RELS 1610 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1690 Modern Jewish Intellectual and Cultural History",
+    "courseid": "JWST 1690",
+    "coursedescription": "An overview of Jewish intellectual and cultural history from the late 18th century until the present. The course considers the Jewish enlightenment Reform, Conservative and Neo-Orthodox Judaism, Zionist and Jewish Socialist thought, and Jewish thought in the 20th century, particularly in the context of the Holocaust. Readings of primary sources including Mendelsohn, Geiger, Hirsch, Herzl, Achad-ha-Am, Baeck, Buber, Kaplan, and others. No previous background is required. Fall or Spring Also Offered As: HIST 1690 , RELS 1690 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1710 Jews in the Modern World",
+    "courseid": "JWST 1710",
+    "coursedescription": "This course offers an intensive survey of the major currents in Jewish culture and society from the late middle ages to the present. Focusing upon the different societies in which Jews have lived, the course explores Jewish responses to the political, socio-economic, and cultural challenges of modernity. Topics to be covered include the political emancipation of Jews, the creation of new religious movements within Judaism, Jewish socialism, antisemitism, Zionism, the Holocaust, and the emergence of new Jewish communities in Israel and the United States. No prior background in Jewish history is expected. Spring Also Offered As: HIST 1710 , MELC 0360 , NELC 0360, RELS 1710 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1711 Remembering the Holocaust",
+    "courseid": "JWST 1711",
+    "coursedescription": "This course explores how the Holocaust has been constructed as an event in popular memory. Beginning in the mid-1940s, with the first attempts to narrate what had transpired during the Nazi era, this seminar traces the ways that the Holocaust became codified as a distinct episode in history. Taking a chronological approach, the course follows the evolution of historical and popular ideas about the Holocaust. We will examine works produced in the United States, Europe, and Israel, and explore an array of forms, including documentary and fictional film, radio and television broadcasting, museum displays, tourist practices, and monuments. Students will be introduced to unfamiliar sources and also asked to reconsider some well-known Holocaust documents and institutions. Also Offered As: HIST 1711 Mutually Exclusive: HIST 3704 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 1910 The Religious Other",
+    "courseid": "JWST 1910",
+    "coursedescription": "Course explores attitudes toward monotheists of other faiths, and claims made about these \"religious Others\" in real and imagined encounters between Jews, Christians and Muslims from antiquity to the present. Strategies of \"othering\" will be analyzed through an exploration of claims about the Other's body, habits and beliefs, as found in works of scripture, law, theology, polemics, art, literature and reportage. Attention will be paid to myths about the other, inter-group violence, converts, cases of cross-cultural influence, notions of toleration, and perceptions of Others in contemporary life. Primary sources will be provided in English. Not Offered Every Year Also Offered As: MELC 1910 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 2070 Jews, Race and Religion",
+    "courseid": "JWST 2070",
+    "coursedescription": "Contemporary Jewish identity exists at an uneasy cross-section of race, religion and ethnicity. This course aims to expose students to the diversity of Jewish experience through the lenses of race and religion, examining the various ways these categories intersect and complicate each other. How can the study of race and religion help us to understand the present and future of Jewish life? How do Jews figure in the study of race and race relations in North America and Israel? Of what relevance is the category of whiteness for understanding Jewish identity, and what does their association in the U.S. mask about Jews and Jewish life today? And what are the roles of Jews in the continuing struggle for racial justice now underway in the world? This course aims to address these questions in light of a range of intellectual perspectives and disciplinary approaches. It will be built around a series of weekly guest lectures by leading scholars of Jews, race and/or religion, and will include among the questions and topics that it explores opportunities to explore connections among scholarship, personal experience and activism. Not Offered Every Year Also Offered As: RELS 2070 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 2071 Anti-Semitism, Islamophobia, and Racism in Contemporary Times",
+    "courseid": "JWST 2071",
+    "coursedescription": "In a world saturated with competing narratives about anti-Semitism and Islamophobia, it can be hard to sort through the mess. Often, it's difficult to even understand what we're talking about. Where do these forms of discrimination come from? Are they about race? Religion? Ethnicity? Perhaps something else entirely? In this course, we'll address these questions using a variety of disciplines and by looking at a range of sources, from literature and films to works of philosophy and political theory. We'll turn our attention back to medieval Spain and move all the way through contemporary debates about the Holocaust, the State of Israel, and the War on Terror. By the end, students will have a rich knowledge of the various forms these ideas have taken, how and why they are intrinsically related to one another, and how they have evolved in the present. If you’re interested in understanding more about our current world and how it came to be, this class will build a strong foundation for engaging in historically informed critical dialogue on today’s pressing social issues. Spring, even numbered years only Also Offered As: RELS 2071 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "If you’re interested in understanding more about our current world and how it came to be, this class will build a strong foundation for engaging in historically informed critical dialogue on today’s pressing social issues."
+      ]
+    }
+  },
+  {
+    "coursename": "JWST 2080 20th-Century Literature Seminar",
+    "courseid": "JWST 2080",
+    "coursedescription": "The course explores an aspect of 20th-century literature intensively. See the English Department's website at www.english.upenn.edu for a description of the current offerings. Not Offered Every Year Also Offered As: CIMS 2080 , ENGL 2080 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 2206 Neighbors and Strangers: Jews and Christians in Premodern Europe",
+    "courseid": "JWST 2206",
+    "coursedescription": "The history of Christians and Jews—and of Judaism and Christianity—is an entangled one. From antiquity the two groups gained understandings of themselves in relation to the other, and that story defined much of the lives of each throughout the Middle Ages and into the modern period. At times this relationship was a hostile one, but it was also a force for creativity and a basic fact of life. This course approaches the history of relations between Christians and Jews in Medieval and Early Modern Europe (ca. 1000-1800), exploring both the bases of hatred and the possibilities of coexistence. We will look at episodes of crusader violence, mass expulsion, and religious polemic alongside exchanges in taverns, shared child-rearing, and sexual encounters. We will examine sources from both Christians and Jews, recovering voices from across this seeming divide, encountering both the ideals imagined by elites and intellectuals, and the messy—and more interesting!—realities of living side-by-side for centuries. Class meetings will involve dedicated discussion of a combination of primary and secondary sources, and assessment will be based on writing assignments. Also Offered As: HIST 2206 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "We will examine sources from both Christians and Jews, recovering voices from across this seeming divide, encountering both the ideals imagined by elites and intellectuals, and the messy—and more interesting!—realities of living side-by-side for centuries."
+      ]
+    }
+  },
+  {
+    "coursename": "JWST 2225 Religious Conflict and Coexistence in Early Modern Europe",
+    "courseid": "JWST 2225",
+    "coursedescription": "Europe’s early modern period (roughly 1450-1750) has been described an “age of religious wars,” with the Reformation and contact with the New World prompting the formation of new fault lines, new collectives, and the reshaping of old animosities in new expressions. It was a period of bloody riots between Catholics and Protestants, expulsions of Jews and Muslims, prosecution of heretics, martyrdoms of saints, and inquisitions of witches. But it was also an age of living together, of pragmatism, and of coexistence. This seminar explores the complexities and curiosities of religious intellectual, political, social, and daily life as people across religious lines clashed, cooperated, communicated, and carried-on. We will explore the experiences both of influential thinkers but also ordinary people, and ask how and why people were willing, in the name of religion, to persecute, prosecute, fight, kill, and die, and how others traded and traveled together, defended each other, and even married across religious lines. Also Offered As: HIST 2205 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 2440 From Miracles to Mindfulness",
+    "courseid": "JWST 2440",
+    "coursedescription": "In 1902, the most famous philosopher in America, William James, revolutionized the study of religion by analyzing religion as an experience rather than as a set of doctrines or scriptures. In this course, we will pick up the inquiry that James and scholars such as Sigmund Freud began by exploring new approaches to the science and philosophy of religious experience. We will invite a series of experts from a wide range of fieldsneuroscience, psychoanalysis, phenomenology, psychology, anthropology, to name only a fewto present their cutting-edged research on the nature of religious experience. How can religious experience be studied? What does the research reveal about religious experience? And what can we learn from such experiences about the workings of the human mind and human society? The course has two components: 1) a discussion-centered mini-seminar from 3:30-5:00 will open consideration of the subject with help from relevant readings 2) a guest lecture series every Tuesday from 5:00-6:30, featuring leading scholars who approach religious experience from different disciplinary angles or in light of different questions. Also Offered As: RELS 2440 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 2605 The Jewish Book from Scroll to Screen",
+    "courseid": "JWST 2605",
+    "coursedescription": "Through much of their history, Jews have been known as a “people of the book” and have, often, prided themselves on such an association. The very definition of a book, what books contained, and who might use them are not so easy to define, and their study opens up new ways to think about the Jewish past. Books are perhaps the most important way people share ideas and change minds. But they are also commercial goods, collectors’ items, community memories, and cherished heirlooms. This course offers a cultural history of communication and knowledge in Jewish experience through an exploration of the history of the book. It will use primary sources, scholarly articles, and hands-on encounters with books in different shapes and sizes to explore the way people of the past engaged with books both texts and material objects. It will also offer examples of new methods in the study of the book drawn from the digital humanities. Tracing changing conceptions and uses of the book from the ancient world until the present, we will consider the way that books have shaped religion, caused upheaval, and changed over time, even to face their possible obsolescence in our own age. Also Offered As: HIST 2605 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 2999 Independent Study",
+    "courseid": "JWST 2999",
+    "coursedescription": "An independent study course culminating in a final written project. Prior approval and sponsorship by a member of the Jewish Studies Program faculty is needed to take the course. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 3203 Power and Peril: The Paradox of Monarchy among Ancient Greeks, Romans, and Jews",
+    "courseid": "JWST 3203",
+    "coursedescription": "We imagine ancient Greece and Rome as the cradles of democracy and republicanism, early Judea as a pious theocracy, but monarchy was the most common and prevalent form of government in antiquity (and the premodern world in general). In this class, we will take a special look at kinship among the Jews, Greeks, and Romans to assess and discuss similarities, differences, and mutual influences. In all these cultures, the king was a polarizing figure in reality and in conception. On the one hand, some revered the monarch as ideal leader, and monarchy provided the language with which to describe and even imagine the very gods. On the other, monarchs were widely reviled in both theory and practice, from the Greek tyrants to biblical Saul. The Emperor Augustus loudly denied his own affinity to the office of king, even as he ruled alone and was revered as a god. In other words, kings stood both for the ideal and the worst form of government. This class confronts the paradox of monarchical rule and will, through the lens of the king, explore ideas of god, government, human frailty, and utopianism. Not Offered Every Year Also Offered As: ANCH 3203 , CLST 3203 , RELS 3203 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 3206 Jewish Diaspora in the Roman Empire",
+    "courseid": "JWST 3206",
+    "coursedescription": "Under the Roman Empire, Jewish communities developed and flourished especially in the cities of the Eastern Mediterranean, in Egypt, Syria, Asia Minor, Greece, Northern Africa, and Italy proper. In many of these cities, the Jews formed a considerable part of the population; they influenced the cultural, social, and political communal life and developed an identity that was distinctively different from that in Judea. In this seminar, we will trace Jewish life in the Diaspora under Roman rule. How did Jews and non-Jews interact? What was the legal status of Jewish communities under the Roman Empire? What caused conflicts and how were they solved? What can the history of Jewish Diaspora communities tell us about minorities in the Roman Empire in general? We will use literary texts, inscriptions, papyri, and archaeological material to answer these questions and many more. Also Offered As: ANCH 3206 , CLST 3206 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 3207 Conversion in Historical Perspective: Religion, Society, and Self",
+    "courseid": "JWST 3207",
+    "coursedescription": "Changes of faith are complex shifts that involve social, spiritual, intellectual, and even physical alterations. In the premodern West, when legal status was often determined by religious affiliation and the state of one’s soul was a deathly serious matter, such changes were even more fraught. What led a person to undertake an essential transformation of identity that could affect everything from food to family to spiritual fulfillment? Whether we are speaking of individual conversions of conscience or the coerced conversions of whole peoples en masse, religious change has been central to the global development and spread of Christianity, Judaism, and Islam, and reveals much about the people and contexts in which it took place. This seminar will explore the dynamics of conversion across a range of medieval and early modern contexts. We will investigate the motivations for conversions, the obstacles faced by converts, and the issues raised by conversion from the perspective of those who remained within a single tradition. How did conversion efforts serve globalization and empire, and what other power relations were involved? How did peoplehood, nationality, or race play out in conversion and its aftermath? How did premodern people understand conversion differently from each other, and differently than their coreligionists or scholars do today? The course will treat a number of specific examples, including autobiographical conversion narratives and conversion manuals, the role ascribed to conversion in visions of messianic redemption, forced conversions under Spanish and Ottoman rule, missionizing in the age of European expansion, and more. The course aims to hone students’ skills in thinking about—and with—premodern religiosity, opening up new perspectives on the past and present by reading primary texts and analytical research. Not Offered Every Year Also Offered As: HIST 3203 , RELS 3207 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 3300 Jewish Magic",
+    "courseid": "JWST 3300",
+    "coursedescription": "The Hebrew Bible legislates against magic and witchcraft. But Jewish literature is replete with demons, witches, spells and incantations. This course will examine the phenomenon of Jewish magic in the longue duree. We will explore a wide array of sources describing ancient Jewish magical practices, and attempt to reconstruct the various aspects of ancient Jewish magic. We will start with demonology and exorcism in biblical and Second Temple literature. Then we will examine rabbinic attitudes towards magic and sorcery and rabbinic magical recipes. We then turn to material artifacts: late antique Jewish amulets and magic bowls. Finally we will survey the large corpus of magical texts from the Cairo Geniza and Hebrew manuscripts of magic from the middle ages. During the course we will consider broader questions such as the relationships between magic and religion, the identity of the Jewish magicians and their clients, relationship between Jewish and contemporary non-Jewish magic, and the role of women in magical practice. Not Offered Every Year Also Offered As: MELC 3300 , NELC 3300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 3704 Re-reading the Holocaust",
+    "courseid": "JWST 3704",
+    "coursedescription": "This course explores how the Holocaust has been constructed as an historical event. Beginning in the mid-1940s, with the first attempts to narrate what had transpired during the Nazi era, this seminar traces the ways that the Holocaust became codified as a distinct episode in history. Taking a chronological approach, the course follows the evolution of historical and popular ideas about the Holocaust and considers the different perspectives presented by a variety of sources. We will examine documentary films, memoirs, survivor testimonies, as well as other scholarly and popular representations of the Holocaust. Students will be introduced to unfamiliar sources and also asked to reconsider some well-known Holocaust documents and institutions. Fall or Spring Also Offered As: HIST 3704 Mutually Exclusive: HIST 1711 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 3705 Jews and the City",
+    "courseid": "JWST 3705",
+    "coursedescription": "Jews have always been an extraordinarily urban people. This seminar explores various aspects of the Jewish encounter with the city, examining the ways that Jewish culture has been shaped by and has helped to shape urban culture. We will examine European and American cities as well as some in Palestine/Israel, covering an expansive view of urban culture. We will consider Jewish involvement in political and cultural life, the various neighborhoods in which Jews have lived, relations with other ethnic groups, as well as many other topics. We will read some classic works in the field along with contemporary scholarship. No prior background in Jewish history is required. *This course may be applied toward the US, European, or Middle East requirements for the History Major or Minor, depending upon the research paper topic. Students must consult with the instructor to determine which geographic requirement will be fulfilled.* Fall or Spring Also Offered As: HIST 3705 , URBS 3705 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 3900 Senior Research Seminar",
+    "courseid": "JWST 3900",
+    "coursedescription": "JWST 390 is required of all students majoring in the Interdisciplinary Jewish Studies major, but all majors and minors in the various departmental programs are encouraged to take the seminar. Students will conduct independent research and complete a 20-30 page paper. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 3999 Senior Honors Thesis",
+    "courseid": "JWST 3999",
+    "coursedescription": "Jewish Studies Honors majors must take JWST 399 in which they will design, with the guidance of an advisor, an individualized directed reading program culminating in the writing of an honors thesis. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 4000 Rabbinic Writers on Rabbinic Culture",
+    "courseid": "JWST 4000",
+    "coursedescription": "This course traces reflections on rabbinic culture produced within Jewish legal literature of the classic rabbinic period - - Midrash, Mishna, and Talmud - - and in later juridical genres - - Talmudic commentary, codes and responses. Attention will be paid to the mechanics of different genres, the role of the underlying proof text, the inclusion or exclusion of variant opinions, the presence of non-legal information, the balance between precedent and innovation. Reading knowledge of Hebrew is required. Not Offered Every Year Also Offered As: HEBR 4000 , RELS 4300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 4130 Creating a Constitution in Israel",
+    "courseid": "JWST 4130",
+    "coursedescription": "Why does the State of Israel not have a constitution? If it ever establishes a constitution, what will it consist of? How would it impact contemporary Israeli politics if it voted to accept one? The aim of this course, offered in conjunction with Penn's law school, is to explore the attempt to write a constitution for Israel in light of readings and the instructor's personal experience as a member of Israel's parliament (the Knesset) and chair of its Constitution, Law and Justice Committee at the time that it drafted a full Israeli constitution. We will explore legal and political issues and controversies involved in the effort to create a constitution, including issues bearing on the relationship of religion and the state in Israel, and will seek to understand the process in light of larger social, historical and philosophical contexts. Not Offered Every Year Also Offered As: RELS 4140 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 4300 Seminar in Modern Hebrew Literature",
+    "courseid": "JWST 4300",
+    "coursedescription": "This course introduces students to selections from the best literary works written in Hebrew over the last hundred years in a relaxed seminar environment. The goal of the course is to develop skills in critical reading of literature in general, and to examine how Hebrew authors grapple with crucial questions of human existence and national identity. Topics include: Hebrew classics and their modern \"descendents,\" autobiography in poetry and fiction, the conflict between literary generations, and others. Because the content of this course changes from year to year, students may take it for credit more than once. This course is conducted in Hebrew and all readings are in Hebrew. Grading is based primarily on participation and students' literary understanding. Spring Also Offered As: COML 4300 , MELC 4300 Mutually Exclusive: MELC 5410 Prerequisite: HEBR 1000 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 4305 Spirit and Law",
+    "courseid": "JWST 4305",
+    "coursedescription": "While accepting \"the yoke of the commandments\", Jewish thinkers from antiquity onward have perennially sought to make the teachings of revelation more meaningful in their own lives. Additional impetus for this quest has come from overtly polemical challenges to the law, such as those leveled by Paul, medieval Aristotelians, Spinoza and Kant. This course explores both the critiques of Jewish Law, and Jewish reflections on the Law's meaning and purpose, by examining a range of primary sources within their intellectual and historical contexts. Texts (in English translation) include selections from Midrash, Talmud, medieval Jewish philosophy and biblical exegesis, kabbalah, Hasidic homilies, Jewish responses to the Enlightenment, and contemporary attempts to re-value and invent Jewish rituals. Not Offered Every Year Also Offered As: MELC 4305 , NELC 4305, RELS 4305 Mutually Exclusive: MELC 6306 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 4900 Topics in Jewish History",
+    "courseid": "JWST 4900",
+    "coursedescription": "Reading and discussion course on selected topics in Jewish history. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 5090 Topics in Yiddish Literature: Modernist Jewish Poetry",
+    "courseid": "JWST 5090",
+    "coursedescription": "One version of this seminar considers works by Jewish women who wrote in Yiddish, Hebrew, English, and other languages in the late 19th through the 20th century. The texts, poetry and prose, will include both belles lettres and popular writings, such as journalism, as well as private works (letters and diaries) and devotional works. The course will attempt to define \"Jewish writing, \" in terms of language and gender, and will consider each writer in the context of the aesthetic, religious, and national ideologies that prevailed in this period. Because students will come with proficiency in various languages, all primary texts and critical and theoretical materials will be taught in English translation. However, those students who can, will work on the original texts and share with the class their expertise to foster a comparative perspective. Because we will be discussing translated works, a secondary focus of the course will, in fact, be on literary translation's process and products. Another version of this seminar presents Jewish modernism as an international phenomenon of the early 20th century. The course will attempt to define \"Jewish modernism\" through the prism of poetry, which inevitably, given the historical events in Europe and America during this time, grapples with aesthetic, religious, and national ideologies and methods. The syllabus will focus mainly on poetry written in Yiddish and English, and will also include German, Russian, and Hebrew verse. All poetry, critical, and theoretical materials will be taught in English translation, although students who know the languages will work on the original texts and will bring to the table a comparative perspective. Because we will be discussing translated poems, a secondary focus of the course will, in fact, be on literary translation's process and products. Not Offered Every Year Also Offered As: COML 5090 , GRMN 5090 , GSWS 5090 , YDSH 5090 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 5300 Seminar in Rabbinic Literature",
+    "courseid": "JWST 5300",
+    "coursedescription": "Most of the foundational writings of rabbinic Judaism corpora of Midrash, Mishna, and the two Talmuds were in existence by the end of the sixth century CE. Yet, for several centuries thereafter, there is little evidence attesting to the lived nature of rabbinic culture and society. Course will focus on writings by Jews and about Jews, produced between the 7th and 10th centuries, complemented by secondary sources. Texts will include selections from archaeological inscriptions; Midrash; liturgical poetry; Targum; Masora; geonic responsa, writings by Muslims and by Church Fathers. While students must be able to read Hebrew, much class time will be devoted to the improvement of reading and comprehension skills. Undergraduates should seek permission of the instructor. Not Offered Every Year Also Offered As: HEBR 6100 , MELC 5300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Undergraduates should seek permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "JWST 5370 Translating Literature: Theory and Practice",
+    "courseid": "JWST 5370",
+    "coursedescription": "The greats all have something to say about translation. The Hebrew poet H. N. Bialik is attributed with saying that “he who reads the Bible in translation is like a man who kisses his bride through a veil.” That, however, is a mistranslation: What Bialik really wrote was, “Whoever knows Judaism through translation is like a person who kisses his mother through a handkerchief.\" (http://benyehuda.org/bialik/dvarim02.html), a saying that he probably translated and adapted from Russian or German. (https://networks.h-net.org/node/28655/discussions/116448/query-bialik-kissing-bride) Robert Frost wrote, “I could define poetry this way: it is that which is lost out of both prose and verse in translation.” Walter Benjamin defines it: “Translation is a form. To comprehend it as a form, one must go back to the original, for the laws governing the translation lie within the original, contained in the issue of its translatability.” Lawrence Venuti rails against translation that domesticates, rather than foreignizes, thus betraying the foreign text through a contrived familiarity that makes the translator invisible. Emily Wilson wants her translation “to bring out the way I think the original text handles it. [The original text] allows you to see the perspective of the people who are being killed.” https://bookriot.com/2017/12/04/emily-wilson-translation-the-odyssey/ Is translation erotic? A form of filial love? Incestuous? A mode of communion, or idol worship? Is translation a magician’s vanishing trick? Is translation traitorous, transcendent? Maybe translation is impossible. But let’s try it anyways! In this graduate seminar, we will read key texts on the history and theory of translating literature, and we sample translations from across the centuries of the “classics,” such as the Bible and Homer. We will consider competing translations into English of significant modern literary works from a variety of languages, possibly including, but not limited to German, Yiddish, French, Hebrew, and Russian. These readings will serve to frame each student’s own semester-long translation of a literary work from a language of her or his choice. The seminar offers graduate students with their skills in various language an opportunity to take on a significant translation project within a circle of peers. Not Offered Every Year Also Offered As: COML 5370 , GRMN 5370 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "We will consider competing translations into English of significant modern literary works from a variety of languages, possibly including, but not limited to German, Yiddish, French, Hebrew, and Russian."
+      ]
+    }
+  },
+  {
+    "coursename": "JWST 5650 Reading Benjamin Reading Kafka",
+    "courseid": "JWST 5650",
+    "coursedescription": "Readings and discussions in English. Walter Benjamin's study of the works of Franz Kafka is as enlightening as it can be bewildering. Moving from philology to Marxism, metaphysics to messianism, Daoism to Talmud, this densely argued piece elliptically touches on almost all of Kafka's published works in just four short sections. This seminar proposes a line-by-line reading Benjamin's 1934 \"Franz Kafka on the Tenth Anniversary of His Death\" with an eye to its literary, philosophical and religious contexts as well as to the rich history of its intellectual reception. Reading Kafka's works as the essay evokes them, we will situate this piece with regard to Benjamin's other writings, the essay's interlocutors (Brod, Scholem, Lukacs, Brecht) and its most illustrious interpreters (Adorno, Arendt, Celan, Hamacher). Not Offered Every Year Also Offered As: COML 5650 , GRMN 5450 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 5770 Inside the Archive",
+    "courseid": "JWST 5770",
+    "coursedescription": "What is an archive, and what is its history? What makes an archival collection special, and how can we work with it? In this course, we will discuss work essays that focus on the idea and concept of the archive by Jacques Derrida, Michel de Certeau, Benjamin Buchloh, Cornelia Vismann, and others. We will consider the difference between public and private archives, archives dedicated to specific disciplines, persons, or events, and consider the relationship to museums and memorials. Further questions will involve questions of property and ownership as well as the access to material, and finally the archive's upkeep, expansion, or reduction. While the first part of the course will focus on readings about archives, we will invite curators, and visit archives (either in person or per zoom) in the second part of the course. At Penn, we will consider four archives: (1) the Louis Kahn archive of architecture at Furness, (2) the Lorraine Beitler Collection of material relating to the Dreyfus affair, (3) the Schoenberg collection of medieval manuscripts and its digitalization, and (4) the University archives. Outside Penn, we will study the following archives and their history: (1) Leo Baeck Institute for the study of German Jewry in New York, (2) the Sigmund Freud archive at the Library of Congress, Washington, D.C., (3) the German Literary Archive and the Literturmuseum der Moderne in Marbach, Germany, and (4) the archives of the National Library of Israel in Jerusalem. Not Offered Every Year Also Offered As: ARTH 5690 , COML 5771 , GRMN 5770 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 5800 Topics In Aesthetics",
+    "courseid": "JWST 5800",
+    "coursedescription": "Topic title for Spring 2018: Walter Benjamin. Walter Benjamin (1892-1940) is a philosopher whose writings on art, literature, and politics have had tremendous influence on many disciplines in the Humanities and Social Studies. He has been variously described as one of the leading German-Jewish thinkers, and a secular Marxist theorist. With the publication of a four-volume collection of this works in English, many more of his writings have been made accessible to a wider public. Our seminar will undertake a survey of his work that begins with his studies on language and allegory, and continues with his autobiographical work, his writings on art and literature, and on the imaginary urban spaces of the nineteenth-century. Not Offered Every Year Also Offered As: ARTH 5871 , COML 5800 , GRMN 5800 , PHIL 5389 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 5810 Modern/Contemporary Italian Culture",
+    "courseid": "JWST 5810",
+    "coursedescription": "Please see department website for current description at: http://www.sas.upenn.edu/italians/graduate/courses Fall or Spring Also Offered As: COML 5811 , ITAL 5810 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 5811 Topics in Jewish History",
+    "courseid": "JWST 5811",
+    "coursedescription": "Reading and discussion course on selected topics in Jewish history. The instructors are visiting scholars at the Center for Advanced Judaic Studies. Topic and seminar title for Spring 2015: Topics in Jewish Studies: The Origins of Jewish Studies. Course description for Spring 2015: This is a reading course that grants seminar participants access to Katz Center fellows, some of the best scholars in Judaic studies from around the world. The aim of the course is to expose students to these scholars and their work, to get to know them as people, learn from them at high level, and understand their approach to the field. Over the course of the spring semester there will be four 3-session modules. Students will meet with 4 different fellows for 3 sessions each. The weekly 90-minute classes will be held at the Katz Center on Wednesdays from 10:30 am - 12 pm, and participants will be encouraged to then stay for lunch and the fellows' seminar which runs from 12:30 - 2:30 pm. Not Offered Every Year Also Offered As: GRMN 5810 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 6120 Hannah Arendt: Literature, Philosophy, Politics",
+    "courseid": "JWST 6120",
+    "coursedescription": "The seminar will focus on Arendt's major work, The Origins of Totalitarianism (and its three parts, Anti-Semitism, Imperialism, Totalitarianism). We will also discuss the reception of this work and consider its relevance today. Not Offered Every Year Also Offered As: COML 6120 , ENGL 6120 , GRMN 6120 , PHIL 5439 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 6200 Studies in Medieval Jewish Culture",
+    "courseid": "JWST 6200",
+    "coursedescription": "Through close reading of primary sources in the original Hebrew, participants in this seminar will explore historical circumstances that engaged and shaped medieval Jews in both Christian and Muslim lands, along with the enduring cultural projects that Jews themselves produced. Topics will include Geonica, Karaism, the encounter of Reason and Revelation; the Christian “Other”: the Muslim “Other”; legal codification; the Tosafist project; Rhineland Pietism; Minhag (custom); family life; the aesthetic dimension; Kabbalah; conversos; messianism. Students should be able to comfortably read unpointed Hebrew. Fall Also Offered As: HEBR 6200 , RELS 6200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 6305 Spirit and Law",
+    "courseid": "JWST 6305",
+    "coursedescription": "While accepting \"the yoke of the commandments\", Jewish thinkers from antiquity onward have perennially sought to make the teachings of revelation more meaningful in their own lives. Additional impetus for this quest has come from overtly polemical challenges to the law, such as those leveled by Paul, medieval Aristotelians, Spinoza and Kant. This course explores both the critiques of Jewish Law, and Jewish reflections on the Law's meaning and purpose, by examining a range of primary sources within their intellectual and historical contexts. Texts (in English translation) include selections from Midrash, Talmud, medieval Jewish philosophy and biblical exegesis, kabbalah, Hasidic homilies, Jewish responses to the Enlightenment, and contemporary attempts to re-value and invent Jewish rituals. Not Offered Every Year Also Offered As: MELC 6306 Mutually Exclusive: MELC 4305 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 6375 Rabbinic Literature: History and Methods",
+    "courseid": "JWST 6375",
+    "coursedescription": "This course is intended as an in-depth survey of research debates, historical-critical methods and resources employed in the study of classical (pre-Geonic) rabbinic literature; in other words, this class offers a robust introduction to the history of the field. The course will introduce students to much (but by no means all) of the fundamental modern scholarship of the 19th-21st centuries, divided into key topics. Not Offered Every Year Also Offered As: MELC 6375 , NELC 6375 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 6414 Jerusalem: Holy City",
+    "courseid": "JWST 6414",
+    "coursedescription": "This course will survey the cultural history of Jerusalem over three millennia with a special focus on its configuration as contested, sacred space in multiple traditions (including Judaism, Christianity, Islam, and others). The course will address how Jerusalem acquired its “holy” status on both a micro-level (via sacred spaces within the city) and macro-level (as a target for pilgrimage in competition with other cities in the region). These aspects of the city will be analyzed both as they are depicted in texts and as they are attested in the art and architecture found in Jerusalem and in similar cities in the broader Mediterranean/Middle East. The course will examine how sacred space and sacred urbanism are produced through interactions with texts, artifacts, and built environments. Not Offered Every Year Also Offered As: MELC 6414 Mutually Exclusive: MELC 0014 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 6570 Becoming Modern: The German-Jewish Experience",
+    "courseid": "JWST 6570",
+    "coursedescription": "Yuri Slezkine described the twentieth century as a \"Jewish Age\"-to be modern would essentially mean to be a Jew. In German historical and cultural studies, this linkage has long been made--only in reference to the last years of the German monarchy and the time of the Weimar Republic. Indeed, what has become known as \"modern\" German culture-reflected in literature, music, and the visual arts and in a multitude of public media-has been more often than not assigned to Jewish authorship or Jewish subjects. But what do authorship and subject mean in this case? Do we locate the German-Jewish experience as the driving force of this new \"modernity,\" or is our understanding of this experience the result of this new \"modern\" world? Not Offered Every Year Also Offered As: COML 6570 , GRMN 6570 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 6999 Independent Study",
+    "courseid": "JWST 6999",
+    "coursedescription": "An independent study course culminating in a final written project. Prior approval and sponsorship by a member of the Jewish Studies Program faculty is needed to take the course. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "JWST 9999 Independent Study",
+    "courseid": "JWST 9999",
+    "coursedescription": "An independent study course culminating in a final written project. Prior approval and sponsorship by a member of the Jewish Studies Program faculty is needed to take the course. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

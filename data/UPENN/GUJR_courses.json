@@ -1,0 +1,90 @@
+[
+  {
+    "coursename": "GUJR 0100 Beginning Gujarati Part I",
+    "courseid": "GUJR 0100",
+    "coursedescription": "During the first year of Gujarati, major emphasis is placed on acquiring phonetics, grammatical patterns, and basic vocabulary. These goals are accomplished through guided drills and conversations accompanied by formal instruction on Gujarati grammar. From the outset, students are also taught the Gujarati writing system, which is used for all materials. By the end of the first year of instruction, student should be able to carry on coherent conversations on selected topics, read simple texts and compose short pieces in Gujarati. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GUJR 0200 Beginning Gujarati Part II",
+    "courseid": "GUJR 0200",
+    "coursedescription": "During the first year of Gujarati, major emphasis is placed on acquiring phonetics, grammatical patterns, and basic vocabulary. These goals are accomplished through guided drills and conversations accompanied by formal instruction on Gujarati grammar. From the outset, students are also taught the Gujarati writing system, which is used for all materials. By the end of the first year of instruction, student should be able to carry on coherent conversations on selected topics, read simple texts and compose short pieces in Gujarati. Spring Prerequisite: GUJR 0100 OR GUJR 5100 1 Course Unit",
+    "course-prerequsities": [
+      "GUJR 0100",
+      "GUJR 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GUJR 0300 Intermediate Gujarati Part I",
+    "courseid": "GUJR 0300",
+    "coursedescription": "This course is designed as a continuation of beginning Gujarati. The course objectives are to expand the mastery of sentence patterns and augment vocabulary and its usage through intensive grammar and comprehension exercises. A special emphasis will be placed on greater cultural awareness. Upon completion of this course students should be able to interact socially with added confidence and greater expressiveness. Students should also experience a great improvement in their comprehension of spoken and written language. During the second year of Gujarati, students are introduced to progressively more difficult reading selections, along with additional instructions in the formal grammar of the language. To maintain and develop oral and aural command of the language, readings are discussed in Gujarati. To develop their writing abilities, students are also expected to compose short essays on their readings. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GUJR 0400 Intermediate Gujarati Part II",
+    "courseid": "GUJR 0400",
+    "coursedescription": "This course is designed as a continuation of intermediate Gujarati I. Course objectives are to expand the mastery of sentence patterns and augment vocabulary and its usage through intensive grammar and comprehension exercises. A special emphasis will be placed on greater cultural awareness. Upon completion of this course students should be able to interact socially with added confidence and greater expressiveness. Students should also experience a great improvement in their comprehension of spoken and written language. During the second year of Gujarati, students are introduced to progressively more difficult reading selections, along with additional instructions in the formal grammar of the language. To maintain and develop oral and aural command of the language, readings are discussed in Gujarati. To develop their writing abilities, students are also expected to compose short essays on their readings. Spring Prerequisite: GUJR 0300 OR GUJR 5300 1 Course Unit",
+    "course-prerequsities": [
+      "GUJR 0300",
+      "GUJR 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GUJR 1502 Advanced Gujarati",
+    "courseid": "GUJR 1502",
+    "coursedescription": "A follow up semester to Advanced Gujarati I, focused on the comprehensive study in reading, writing, speaking, and comprehension to gain advanced knowledge of Gujarati. Instructor may use poetry and/or prose as tools to engage students while having them create their own written works. Contact instructor for details. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GUJR 5100 Beginning Gujarati Part I",
+    "courseid": "GUJR 5100",
+    "coursedescription": "During the first year of Gujarati, major emphasis is placed on acquiring phonetics, grammatical patterns, and basic vocabulary. These goals are accomplished through guided drills and conversations accompanied by formal instruction on Gujarati grammar. From the outset, students are also taught the Gujarati writing system, which is used for all materials. By the end of the first year of instruction, student should be able to carry on coherent conversations on selected topics, read simple texts and compose short pieces in Gujarati. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GUJR 5200 Beginning Gujarati Part II",
+    "courseid": "GUJR 5200",
+    "coursedescription": "During the first year of Gujarati, major emphasis is placed on acquiring phonetics, grammatical patterns, and basic vocabulary. These goals are accomplished through guided drills and conversations accompanied by formal instruction on Gujarati grammar. From the outset, students are also taught the Gujarati writing system, which is used for all materials. By the end of the first year of instruction, student should be able to carry on coherent conversations on selected topics, read simple texts and compose short pieces in Gujarati. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GUJR 5300 Intermediate Gujarati Part I",
+    "courseid": "GUJR 5300",
+    "coursedescription": "This course is designed as a continuation of beginning Gujarati. The course objectives are to expand the mastery of sentence patterns and augment vocabulary and its usage through intensive grammar and comprehension exercises. A special emphasis will be placed on greater cultural awareness. Upon completion of this course students should be able to interact socially with added confidence and greater expressiveness. Students should also experience a great improvement in their comprehension of spoken and written language. During the second year of Gujarati, students are introduced to progressively more difficult reading selections, along with additional instructions in the formal grammar of the language. To maintain and develop oral and aural command of the language, readings are discussed in Gujarati. To develop their writing abilities, students are also expected to compose short essays on their readings. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GUJR 5400 Intermediate Gujarati Part II",
+    "courseid": "GUJR 5400",
+    "coursedescription": "This course is designed as a continuation of intermediate Gujarati I. Course objectives are to expand the mastery of sentence patterns and augment vocabulary and its usage through intensive grammar and comprehension exercises. A special emphasis will be placed on greater cultural awareness. Upon completion of this course students should be able to interact socially with added confidence and greater expressiveness. Students should also experience a great improvement in their comprehension of spoken and written language. During the second year of Gujarati, students are introduced to progressively more difficult reading selections, along with additional instructions in the formal grammar of the language. To maintain and develop oral and aural command of the language, readings are discussed in Gujarati. To develop their writing abilities, students are also expected to compose short essays on their readings. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GUJR 5502 Advanced Gujarati",
+    "courseid": "GUJR 5502",
+    "coursedescription": "A follow up semester to Advanced Gujarati I, focused on the comprehensive study in reading, writing, speaking, and comprehension to gain advanced knowledge of Gujarati. Instructor may use poetry and/or prose as tools to engage students while having them create their own written works. Contact instructor for details. Prerequisite: Proficiency in Gujarati. Contact instructor if you have questions about your proficiency level. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

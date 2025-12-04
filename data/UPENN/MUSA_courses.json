@@ -1,0 +1,143 @@
+[
+  {
+    "coursename": "MUSA 5000 Statistical and Data Mining Methods for Urban Data Analysis",
+    "courseid": "MUSA 5000",
+    "coursedescription": "This hands-on course will cover a wide range of methods frequently used for analyzing urban and spatial data. These methods are drawn from a variety of fields, including traditional statistics, spatial econometrics, and machine learning, and include 1) regression analysis (OLS, ridge/lasso, logistic, multinomial logit); 2) measures of spatial autocorrelation; 3) spatial regression (spatial lag, spatial error, geographically weighted regression); 4) point pattern analysis; 5) an introduction to clustering methods (k-means, hierarchical clustering, DBSCAN); and 6) big data and GIS. Students will learn the assumptions and limitations of each method, and assignments will focus on the implementation, presentation and interpretation of the analyses. Students will use R and GeoDa in this course. Fall Also Offered As: CPLN 6710 Mutually Exclusive: CPLN 5050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 5040 Intro to Spatial Analytics & Mapping",
+    "courseid": "MUSA 5040",
+    "coursedescription": "This course offers a broad and practical introduction to the acquisition, storage, retrieval, maintenance, use, and presentation of digital cartographic data with vector-oriented (i.e. drawing-based) geographic information systems (GIS) for a variety of environmental science, planning, and management applications. Previous experience in GIS is not required. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 5080 Public Policy Analytics",
+    "courseid": "MUSA 5080",
+    "coursedescription": "This course teaches advanced spatial analysis and an introduction to data science/machine learning in the urban planning and public policy realm. The class focuses on real-world spatial analysis applications and, in combination with introductory machine learning, provides students a modern framework for efficiently allocate limited resources across space. Unlike its private sector counterpart, data science in the public or non-profit sector isn't strictly about optimization - it requires understanding of public goods, governance, and issues of equity. We explore use cases in transportation, housing, public health, land use, criminal justice, and other domains. We will learn novel approaches for understanding and avoiding risks of \"algorithmic bias\" against communities/people of color as well as communities of different income levels. The format of the class includes weekly lectures/in-class demos and labs. There are seven required assignments, including two projects. Prerequisites include either CPLN503, the summer GIS course or prior experience with GIS in a formal setting. The class is conducted entirely in R. Having experience in R and the ‘tidyverse’ is helpful but not strictly required. Fall Also Offered As: CPLN 5920 1 Course Unit",
+    "course-prerequsities": [
+      "CPLN503",
+      "CPLN 5920"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 5090 Geospatial Cloud Computing & Visualization",
+    "courseid": "MUSA 5090",
+    "coursedescription": "In this course you will learn how to collect, store, wrangle and display cartographic data in a cloud-based setting. You will learn reproducible approaches to retrieve spatial data from APIs data platforms; to store and query these data in databases like PostGIS and data warehouses like BigQuery; to wrangle these data with Python and/or JavaScript running on cloud-based infrastructure; and to visualize in various platforms including Carto and Looker. You will build your own APIs and develop your own custom web applications. This course is the second in a progression toward building web-based systems using geospatial data, and expands on the Fall course in JavaScript Programming for Urban Planners. Experience with Python OR JavaScript is required. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 5500 Geospatial Data Science in Python",
+    "courseid": "MUSA 5500",
+    "coursedescription": "This course will provide students with the knowledge and tools to turn data into meaningful insights, with a focus on real-world case studies in the urban planning and public policy realm. Focusing on the latest Python software tools, the course will outline the \"pipeline\" approach to data science. It will teach students the tools to gather, visualize, and analyze datasets, providing the skills to effectively explore large datasets and transform results into understandable and compelling narratives. The course is organized into five main sections: 1. Exploratory Data Science: Students will be introduced to the main tools needed to get started analyzing and visualizing data using Python. 2. Introduction to Geospatial Data Science: Building on the previous set of tools, this module will teach students how to work with geospatial datasets using a range of modern Python toolkits. 3. Data Ingestion & Big Data: Students will learn how to collect new data through web scraping and APIs, as well as how to work effectively with the large datasets often encountered in real-world applications. 4. Geospatial Data Science in the Wild: Armed with the necessary data science tools, students will be introduced to a range of advanced analytic and machine learning techniques using a number of innovative examples from modern researchers. 5. From Exploration to Storytelling: The final module will teach students to present their analysis results using web-based formats to transform their insights into interactive stories. Fall Also Offered As: CPLN 6720 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 6110 Java Script Programming for Planners and Designers",
+    "courseid": "MUSA 6110",
+    "coursedescription": "Dashboards, story maps, and other interfaces that enable the display, analysis, and generation of geospatial data are often the end product of data analysis processes. In this course we'll focus on the interface and interaction aspects of creating these products. Students will learn to design and build interfaces to help users access the value promised by geospatial data, modeling, and analysis. We will cover the logic and syntax of the JavaScript programming language for use in data and map-oriented web applications. The \"hands-on\" uses of JavaScript in urban planning applications will be emphasized. Students will hone their skills through a series of complete application projects. Fall Also Offered As: CPLN 6920 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 6310 Communications in Urban Spatial Analytics",
+    "courseid": "MUSA 6310",
+    "coursedescription": "Communication is a fundamental component of the urban analytics pipeline or workflow. In data science, the last mile problem refers to the difficulty data analysts often have in communicating results to non-technical stakeholders and decision makers. This course will teach the art of spatial data communication, teaching students how to act as translators from technical analyses to a non-technical audience. We will learn how to clearly write about and describe data, develop effective data visualizations, write clean and reproducible code, and present analytical results in a compelling way. We will also spend time on the front-end of the process, learning to translate user needs into spatial data science projects. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 6320 Modeling Geographic Space",
+    "courseid": "MUSA 6320",
+    "coursedescription": "This course explores the nature and use of raster-oriented geographic information systems (GIS) for the analysis and synthesis of spatial patterns and processes. Students will learn about the principles of raster data, image processing, and spatial analysis using ArcGIS Pro. By the end of the course, students will have a strong understanding of how to work with raster data and will have the skills and knowledge to apply these techniques to their own research or professional projects. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 6500 Deep Learning with Python",
+    "courseid": "MUSA 6500",
+    "coursedescription": "Satellite remote sensing is the science of converting raw aerial imagery into actionable intelligence about the built and natural environment. This course will provide students the foundation necessary for the application of machine learning algorithms on satellite imagery. Use cases include building footprint detection, multi-class object detection in cities and land cover/land use classification. The students will learn basic concepts of machine learning, including unsupervised and supervised learning, model selection, feature elimination, cross-validation and performance evaluation. After learning traditional methods and algorithms, the course will focus on recent deep learning methods using convolutional neural networks and their application on semantic image segmentation. Prerequisites include MUSA 5080 , Geospatial Data Science in Python or equivalent. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "MUSA 5080",
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 6750 Land Use and Environmental Modeling",
+    "courseid": "MUSA 6750",
+    "coursedescription": "Planners at every scale and of every type are increasingly using spatial data and models to analyze existing patterns, identify and parameterize key trends and urban processes, visualize alternative futures, and evaluate development impacts. In the first half of the course, students will gain experience using various GIS-based environmental planning models, including McHargian Overlay; landscape fragmentation (FRAGSTATS), ArcHydro, Air pollution monitoring, flood inundation prediction, among others. The second half of the course focuses on land-use applications including gentrification simulation and urban growth modeling. A basic familiarity with ArcGIS is required. Mutually Exclusive: CPLN 6750 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 6950 Topics in Spatial Data & Analytics",
+    "courseid": "MUSA 6950",
+    "coursedescription": "Various topics pertaining to urban spatial analysis Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 6951 Topics in Data Analytics",
+    "courseid": "MUSA 6951",
+    "coursedescription": "Class that examines various topics in data analytics 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 7950 MUSA Summer: Introduction to GIS & Statistics",
+    "courseid": "MUSA 7950",
+    "coursedescription": "The summer GIS Bootcamp prepare students for the intermediate GIS classes that begin in the fall semester. It begins with a discussion of GIS in planning and the social sciences and then moves on to topics related to spatial data, geocoding, projection, vector and raster-based geoprocessing, 3D visualization and more. Each class includes a brief lecture and a walk through involving actual planning related data. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "MUSA 8000 MUSA Capstone Project",
+    "courseid": "MUSA 8000",
+    "coursedescription": "Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 8010 MUSA/Smart Cities Practicum",
+    "courseid": "MUSA 8010",
+    "coursedescription": "Students will complete a semester-long applied spatial data science project. There are two sections of this class - one for client-based projects and one for independent or small team studies. In Section 401, small teams of students work under faculty direction with a government or NGO client on professional data science projects. In Section 402, students work an independent study. Students may select a project from a list of pre-defined projects from either section or, less commonly, identify their own independent research project. In the case of an independent project, the student must consult with the instructor of this practicum section before the start of the semester to have the project approved and scoped out in advance. Students may work in small teams or independently. Throughout the semester, students will be mentored by the instructor of the course on completing the deliverables by the end of the semester. Projects must be a practical application of geospatial, statistical, or machine learning methods or tools. Spring Also Offered As: CPLN 7900 Prerequisite: ( CPLN 5050 OR MUSA 5000 ) AND ( MUSA 5080 OR CPLN 5920 ) 1 Course Unit",
+    "course-prerequsities": [
+      "CPLN 5050",
+      "MUSA 5000",
+      "MUSA 5080",
+      "CPLN 5920"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MUSA 8020 MUSA/Smart Cities Capstone",
+    "courseid": "MUSA 8020",
+    "coursedescription": "This course offers students an opportunity to work closely with faculty, staff, local practitioners, and each other on a capstone project that involves the development of a GIS and/or urban data management application. Spring Mutually Exclusive: CPLN 6800 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

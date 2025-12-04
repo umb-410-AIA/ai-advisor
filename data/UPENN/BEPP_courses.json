@@ -1,0 +1,527 @@
+[
+  {
+    "coursename": "BEPP 0001 Introduction to Behavioral Economics",
+    "courseid": "BEPP 0001",
+    "coursedescription": "Governments and firms set policy in a world of behavioral agents. This course will present economic approaches to these policy problems when individuals act in behavioral ways. Readings will be newspaper articles that will be discussed in class. Assignments -- three problem sets -- will include qualitative and quantitative analysis. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 1000 Introductory Economics for Business Students",
+    "courseid": "BEPP 1000",
+    "coursedescription": "Microeconomics is the study of the behavior of households and firms, whose collective decisions determine how resources are allocated in a free market economy. We will study when markets are likely to produce \"efficient\" outcomes, and when government intervention may improve on or harm the competitive market outcome. We will use economic theory to analyze issues like a gas tax to change reliance on oil, minimum wages to increase salaries of the working poor, and government subsidies to increase education. Macroeconomics is the study of the economy as a whole. We will understand how the size of the US economy is determined, how unemployment is measured, how inflation affects life. We will look at policy options that the government and the Federal Reserve Bank face, and discuss pros and cons of their actions. Economic arguments are often used in debates about government policies, discussion of business strategies, and many of life's other arenas. The goal of the course is to teach you to \"think like an economist,\" which I hope will help you to understand the world around you, make better economic decisions in your own life, and be a more informed citizen and voter. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2010 American Public Policy through an Economic Lens",
+    "courseid": "BEPP 2010",
+    "coursedescription": "This course explores the economics and politics of public policy to provide an analytic framework for considering why, how, and with what success/failure government intervenes in a variety of policy areas. Particular attention will be paid to important policy issues relating to taxation, social security, low-income assistance, health insurance, education (both K-12 and higher ed), the environment, and government deficits. The costs and benefits of alternative policies will be explored along with the distribution of responsibilities between the federal, state and local governments. While the course will focus primarily on U.S. policies, the topics covered (e.g. tax reform, deficits versus austerity, etc.) are currently at the center of the policy debate in many other industrialized countries as well. Fall or Spring Mutually Exclusive: BEPP 7700 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2020 Consumer Financial Decision Making",
+    "courseid": "BEPP 2020",
+    "coursedescription": "Research shows that many individuals are profoundly underinformed about important financial facts and financial products, which frequently lead them to make mistakes and lose money. Moreover, consumer finance comprises an enormous sector of the economy, including products like credit cards, student loans, mortgages, retail banking, insurance, and a wide variety of retirement savings vehicles and investment alternatives. Additionally, recent breakthroughs in the FinTech arena are integrating innovative approaches to help consumers. Though virtually all people use these products, many find financial decisions to be confusing and complex, rendering them susceptible to fraud and deception. As a result, government regulation plays a major role in these markets. This course intended for Penn undergraduates considers economic models of household decisions and examines evidence on how consumers are managing (and mismanaging) their finances. Although academic research has historically placed more attention on corporate finance, household finance is receiving a brighter spotlight now-- partly due to its role in the recent financial crisis. Thus the course is geared toward those seeking to take charge of their own financial futures, anyone interested in policy debates over consumer financial decision making, and future FinTech entrepreneurs. Fall Also Offered As: FNCE 2020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Thus the course is geared toward those seeking to take charge of their own financial futures, anyone interested in policy debates over consumer financial decision making, and future FinTech entrepreneurs."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 2030 Business in the Global Political Environment.",
+    "courseid": "BEPP 2030",
+    "coursedescription": "This course examines the non-market components of business and the broader political, regulatory, and civil context in which companies function. This course addresses how businesses interact with political and regulatory institutions, as well as the general public, with a focus on the global economy. The first portion examines the realities associated with political economy and the actual making of laws and regulations by imperfect politicians and regulators. The second portion analyzes the economic rationale for legislation and regulation in the presence of market failures. The course covers specific market failures and potential solutions including government regulation. Fall or Spring Prerequisite: ECON 0100 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2080 Housing Markets",
+    "courseid": "BEPP 2080",
+    "coursedescription": "This course is designed for students interested in the economics and operations of housing markets. It is primarily a U.S.-focused course. The class is divided into five sections: (1) economic analysis of housing market fundamentals (supply and demand); (2) a policy analysis section on housing affordability issues in the U.S.; (3) operations of homebuilders and rental landlords, as well as the single family rental sector; this section includes a series of guest lecturers from industry executives; (4) the nature of housing cycles; and (5) a discussion of factors that have affected the evolution of housing markets over the long run. This course presumes knowledge of intermediate microeconomics. For Wharton students, this means you must have passed BEPP 2500 . Non-Wharton students should have taken the equivalent course in the College. The class is primarily lecture based, although we will have one flipped class, as well as a number of guest lecturers from industry. There are two in-class midterms and two assignments. Spring Also Offered As: REAL 2080 Prerequisite: BEPP 2500 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 2500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students interested in the economics and operations of housing markets."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 2110 Tax Policy and Practice in the Philadelphia Community",
+    "courseid": "BEPP 2110",
+    "coursedescription": "The academic component of the course will focus on several areas: (1) The Color of Money: Black Banks and the Racial Wealth Gap. Students will read this book throughout the semester to support their understanding of the community that they will be serving. (2) Statutory tax system. Students will learn about the tax system as it relates to individuals and sole proprietors. The VITA training covers general tax preparation, with a specific focus on tax credits available to VITA-eligible taxpayers and the use of VITA software. In addition, one session of the course will include a guest lecture/discussion. It will focus on statutory tax issues related to organizational form choice for self-employed and gig economy workers, which is an important statutory issue in low-income communities. (3) Social policy debate. Tax policy, including deductions, subsidies and credits, are one tool that lawmakers can use to get more cash in the hands of individuals and families, especially for low-income groups. Students will consider the effectiveness and usefulness of tax policies relative to other tools that the government has available. There are three guest lecturers for the sessions on tax policy. (4) Working with people. Volunteering with VITA requires students to work with people from a low-income community on the sensitive issue of personal finances. Students will learn to discuss sensitive financial issues with lower-income adults (including many seniors) through readings and in-class discussions, and by reflecting on their real-life experiences in the local community. This skill is important in a variety of roles such as healthcare (physicians and nurses), business (e.g., the HR function), and education. The community service part of the course is volunteering with VITA, which is the IRS’s “Volunteer Income Tax Assistance” program. Following training, students will perform tax services for the West Philadelphia community during the tax season. The course will meet once a week in three-hour sessions for 8-9 weeks during the Spring semester. Students are expected to be in the field performing service throughout a significant portion of the semester. As described on the IRS website, the VITA program has operated for over 50 years. Volunteers offer free tax help to people who need assistance in preparing their own tax returns, including: • People who generally make $58,000 or less • Persons with disabilities; and • Limited English-speaking taxpayers. Spring Also Offered As: ACCT 2110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2200 Behavioral Economics, Markets, and Public Policy",
+    "courseid": "BEPP 2200",
+    "coursedescription": "Behavioral economics has revealed a variety of systematic ways in which people deviate from being perfectly selfish, rational, optimizing agents. These findings have important implications for government policy and firm behavior. This course will explore these implications by answering two main questions: (1) what does behavorial economics imply for when and how the government should intervene in markets? (2) What does behavioral economics imply for firms' pricing and production decisions? The course will present the standard economic approaches to answering these questions and then explore how answers change when we consider that people act in behavioral ways. Towards the end of the course, we will investigate specific policy questions, allowing us to debate solutions while hearing from policy makers operating in a world of behavioral agents. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2300 Urban Fiscal Policy",
+    "courseid": "BEPP 2300",
+    "coursedescription": "This course will examine the provision of public services for firms and people through cities and other local governments. Why cities exist, when fiscal policy fails, investments in infrastructure, how to improve school quality, realities of local governments such as inequality, crime, corruption, high cost of living, congestion, and unfunded pensions will be covered. We will pay special attention to recent topics, such as the impact of the Covid-19 pandemic on city and public school finances, racial differences in police use of force, partnerships with the private sector, enterprise zones, the role of technology, and real estate policies that may (or may not!) promote housing affordability, such as inclusionary zoning and rent control. Fall Also Offered As: FNCE 2300 , REAL 2300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2330 Consumers, Firms and Markets in Developing Countries",
+    "courseid": "BEPP 2330",
+    "coursedescription": "Nearly four-fifths of the world's population lives in low income or developing countries. Though currently far behind the U.S., the 15 fastest growing economies/markets in the world are all developing countries. And developing countries already account for 6 of the world's 15 largest economies. This course will examine economic life, including consumers, firms and markets, in low income countries. We will apply both economic theory and empirical analysis for analyzing the roles of both business and government in consumption, production and market equilibria. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2360 International Housing Comparisons",
+    "courseid": "BEPP 2360",
+    "coursedescription": "This course analyzes housing finance systems and housing market outcomes across the globe. In the US, the course focuses on the development of securitization markets and addresses the current challenges of housing finance reform, including the future of Fannie Mae and Freddie Mac. Internationally, the course covers issues of access to housing and housing informality in developing countries, financial crises arising out of the housing sector, and market-oriented and public policy solutions. The course features a wide array of speakers in finance, government and academia who contribute their perspectives to pressing issues of mortgage market design. REAL 2360 can be counted toward the Wharton Undergraduate Global Economy, Business, and Society (GEBS) requirement. Spring Also Offered As: REAL 2360 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2500 Managerial Economics",
+    "courseid": "BEPP 2500",
+    "coursedescription": "This course will introduce you to \"managerial economics\" which is the application of microeconomic theory to managerial decision-making. Microeconomic theory is a remarkably useful body of ideas for understanding and analyzing the behavior of individuals and firms in a variety of economic settings. The goal of the course is for you to understand this body of theory well enough so that you can effectively analyze managerial (and other) problems in an economic framework. While this is a \"tools\" course, we will cover many real-world applications, particularly business applications, so that you can witness the usefulness of these tools and acquire the skills to use them yourself. We will depart from the usual microeconomic theory course by giving more emphasis to prescription: What should a manager do in order to achieve some objective? That course deliverable is to compare with description: Why do firms and consumers act the way they do? The latter will still be quite prominent in this course because only by understanding how other firms and customers behave can a manager determine what is beswt for him or her to do. Strategic interaction is explored both in product markets and auctions. Finally, the challenges created by asymmetric information - both in the market and within the firm - are investigated. Fall or Spring Mutually Exclusive: BEPP 2508 , BEPP 9500 Prerequisite: ECON 0100 AND MATH 1300 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "MATH 1300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2508 Managerial Economics",
+    "courseid": "BEPP 2508",
+    "coursedescription": "This course will introduce you to \"managerial economics\" which is the application of microeconomic theory to managerial decision-making. Microeconomic theory is a remarkably useful body of ideas for understanding and analyzing the behavior of individuals and firms in a variety of economic settings. The goal of the course is for you to understand this body of theory well enough so that you can effectively analyze managerial (and other) problems in an economic framework. While this is a \"tools\" course, we will cover many real-world applications, particularly business applications, so that you can witness the usefulness of these tools and acquire the skills to use them yourself. We will depart from the usual microeconomic theory course by giving more emphasis to prescription: What should a manager do in order to achieve some objective? That course deliverable is to compare with description: Why do firms and consumers act the way they do? The latter will still be quite prominent in this course because only by understanding how other firms and customers behave can a manager determine what is beswt for him or her to do. Strategic interaction is explored both in product markets and auctions. Finally, the challenges created by asymmetric information - both in the market and within the firm - are investigated. Mutually Exclusive: BEPP 2500 , BEPP 9500 , ECON 2100 Prerequisite: ECON 0100 AND MATH 1300 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "MATH 1300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2610 Risk Analysis and Environmental Management",
+    "courseid": "BEPP 2610",
+    "coursedescription": "This course will introduce students to concepts in risk governance. We will delve into the three pillars of risk analysis: risk assessment, risk management, and risk communication. The course will spend time on risk financing, including insurance markets. There will be particular emphasis on climate risks, although the course will also discuss several other examples, including pandemics, biodiversity loss, and systemic risks, among others. The course will cover how people perceive risks and the impact this has on risk communication and management. We will explore public policy surrounding risk management and how the public and private sectors can successfully work together to build resilience, particularly to changing risks. Fall or Spring Also Offered As: OIDD 2610 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2630 Environmental & Energy Economics and Policy",
+    "courseid": "BEPP 2630",
+    "coursedescription": "This course examines environmental and energy issues from an economist's perspective. Over the last several decades, energy markets have become some of the most dynamic markets of the world economy, as they experienced a shift from heavy regulation to market-driven incentives. First, we look at scarcity pricing and market power in electricity and gasoline markets. We then study oil and gas markets, with an emphasis on optimal extraction and pricing, and geopolitical risks that investors in hydrocarbon resources face. We then shift gears to the sources of environmental problems, and how policy makers can intervene to solve some of these problems. We talk about the economic rationale for a broad range of possible policies: environmental taxes, subsidies, performance standards and cap-and-trade. In doing so, we discuss fundamental concepts in environmental economics, such as externalities, valuation of the environment and the challenge of designing international agreements. At the end of the course, there will be special attention for the economics and finance of renewable energy and policies to foster its growth. Finally, we discuss the transportation sector, and analyze heavily debated policies such as fuel-economy standards and subsidies for green vehicles. Prerequisites: An introductory microeconomics course (ECON1, or another course approved by the instructor) will be sufficient in most cases; BEPP 250 or an equivalent intermediate microeconomics course is recommended. Also Offered As: OIDD 2630 1 Course Unit",
+    "course-prerequsities": [
+      "ECON1",
+      "BEPP 250",
+      "OIDD 2630"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: An introductory microeconomics course (ECON1, or another course approved by the instructor) will be sufficient in most cases; BEPP 250 or an equivalent intermediate microeconomics course is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 2640 Climate and Financial Markets",
+    "courseid": "BEPP 2640",
+    "coursedescription": "Climate change might be the defining challenge of our times, with a wide range of effects on financial markets and the broader economy. At the same time, financial markets play an important role in financing the transition to a net-zero economy, and incentivizing firms and investors to adapt their strategies. In this course, we examine how climate risks—both physical and regulatory—affect firms, financial markets (including equity, corporate debt, green bonds, municipal bonds, insurance, and carbon markets), and markets for energy, real estate and mortgages. We also examine the role that firms’ disclosures and third-party information sources play. Because financial markets are shaped by the information that is available to market participants, we investigate the impact of ESG reporting and rating agencies, including the costs and benefits of regulating ESG reporting and the impact of greenwashing. In the second part of the course, we study how governments and private investors finance investments in climate technologies. Here, we discuss various financial instruments that have been developed to address climate-change concerns. Given the enormous importance of electrification as a pathway towards a low-carbon future, there is special emphasis on renewable energy finance and economics. We also discuss the latest evidence of how climate risk has shaped decisions inside organizations, such as spin-offs, hedging, and the structure of executive-compensation contracts. Spring Also Offered As: ACCT 2640 Mutually Exclusive: BEPP 7640 Prerequisite: ACCT 1010 AND BEPP 2500 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "ACCT 1010",
+      "BEPP 2500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2800 Applied Data Analysis",
+    "courseid": "BEPP 2800",
+    "coursedescription": "This course will examine how and when data can be used specifically to infer whether there is a causal relationship between two variables. We will emphasize (a) the critical role of an underlying economic theory of behavior in interpreting data and guiding analysis, as well as (b) a range of advanced techniques for inferring causality from data, such as randomized controlled trials, regression discontinuity, difference-in-difference, audit study (mystery shopping) approaches and stock-market event studies. The issue of causality, and the relevance of thinking about models and methods for inferring causality, is just as central and important for \"Big Data\" as it is when working with traditional data sets in business and public policy. The emphasis will not be on proofs and derivations but rather on understanding the underlying concepts, the practical use, implications and limitations of techniques. Students will work intensively with data, drawing from examples in business and public policy, to develop the skills to use data analysis to make better decisions. All analysis will be conducted using R. The goals of the course are for students to become expert consumers able to interpret and evaluate empirical studies as well as expert producers of convincing empirical analysis themselves. Fall or Spring Mutually Exclusive: BEPP 7800 Prerequisite: STAT 1020 OR STAT 1120 OR STAT 4310 OR ECON 2310 OR PSCI 1801 OR SOCI 2010 1 Course Unit",
+    "course-prerequsities": [
+      "STAT 1020",
+      "STAT 1120",
+      "STAT 4310",
+      "ECON 2310",
+      "PSCI 1801",
+      "SOCI 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2840 Game Theory for Business and Life",
+    "courseid": "BEPP 2840",
+    "coursedescription": "The objective of this course is to make you more skilled in strategic reasoning. Strategic situations permeate our lives and we will examine many such situations through the lens of game theory. The course is composed of game-theoretic concepts, applications, and experiential learning. The bulk of the applications are to business situations including product entry, bargaining, managerial incentive contracts, and network effects. Given the ubiquitous presence of strategic situations in human societies, applications will also extend to politics, war, sports, history, crime, theology, and every day life, and cover such topics as steroid use in sports, traffic congestion, corruption, racial discrimination, and sexual harassment. Students will regularly participate in experiments involving strategic reasoning, and form teams to compete in a simulated industry environment. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2890 Economic Globalization: Policy, History and Contemporary Issues",
+    "courseid": "BEPP 2890",
+    "coursedescription": "This course is intended to deepen understanding of the major contemporary issues in the world economy. The focus is on the \"big picture\" of global economic developments and the evolution of economic thought over the last one hundred years. The topics include: financial market booms and busts; business cycles; monetary and fiscal policies; inequality; the social welfare state; technological change and economic growth; and international trade and financial arrangements. The time period covers: the Roaring Twenties; the Great Depression, the post war Golden Age (1945-1973); the stagflation of the 1970s; the Washington Consensus era of the market liberalization (1980-2007); and the 2008 financial crisis and Great Recession of 2007-2010 and its aftermath. The course also explores different schools of thought. The course will chronicle and compare economic policy and performance of the United States, Europe, Japan and emerging markets (Asia, Latin America, Africa). Spring Mutually Exclusive: BEPP 7890 Prerequisite: ECON 0200 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2990 Independent Study",
+    "courseid": "BEPP 2990",
+    "coursedescription": "Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 3050 Risk Management",
+    "courseid": "BEPP 3050",
+    "coursedescription": "The last financial crisis and subsequent recession provide ample evidence that failure to properly manage risk can result in disaster. Individuals and firms confront risk in nearly all decisions they make. People face uncertainty in their choice of careers, spending and saving decisions, family choices and many other facets of life. Similarly, the value that firms create by designing and marketing good products is at risk from a variety of sources. The bankruptcy of a key supplier, sharp rise in cost of financing, destruction of an important asset, impact of global warming, or a liability suit can quickly squander the value created by firms. In extreme cases, risky outcomes can bankrupt a firm, as has happened recently to manufacturers of automobile parts and a variety of financial service firms. The events since the Global Financial Crisis also offer stark reminders that risk can impose significant6 costs on individuals, firms, governments, and society as a whole. This course explores how individuals and firms assess and evaluate risk, examines the tolls available to successfuly mange risk and discusses real-world phenomena that limit the desired amount of risk-sharing. Our focus is primarily on explaining the products and institutions that will serve you better when making decisions in your future careers and lives. Fall or Spring Also Offered As: OIDD 3050 Mutually Exclusive: BEPP 8050 Prerequisite: BEPP 2500 AND FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 2500",
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 4010 Public Policy Analysis",
+    "courseid": "BEPP 4010",
+    "coursedescription": "BEPP 4010 fulfills the Wharton capstone requirement by giving students an opportunity to apply their skills to assess a vital public policy question at the local, state, national, or global level. The policy topics the students can choose from will vary from year to year in order to ensure that they are topical and relevant. The course will also provide students with background on relevant conceptual/methodological topics for assessing policy, including experimental and quasi-experimental approaches, frameworks for policy analysis, behavioral economics, and data science (as appropriate for a given topic). Students will work in groups to produce a capstone report which provides a policy analysis for their chosen topic, along with policy recommendations. Not Offered Every Year Not Offered Every Year Prerequisite: BEPP 2500 AND WH 1010 AND WH 2010 AND MGMT 3010",
+    "course-prerequsities": [
+      "BEPP 2500",
+      "WH 1010",
+      "WH 2010",
+      "MGMT 3010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 6110 Microeconomics for Managers: Foundations",
+    "courseid": "BEPP 6110",
+    "coursedescription": "This course covers microeconomic foundations for understanding business decision-making. The first unit, “Operating a Firm,” covers demand estimation, cost minimization, and pricing with market power. Unit two, “Markets and Equilibrium,” covers supply and demand, market equilibrium, taxes and tax incidence, and externalities. Unit three presents an introduction to game theory, including simultaneous-move and sequential games. Students are expected to have mastered these materials before enrolling in the second-quarter course, Microeconomics for Managers: Advanced Applications. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 6120 Microeconomics for Managers: Advanced Applications",
+    "courseid": "BEPP 6120",
+    "coursedescription": "This course will cover the economic foundations of business strategy and decision-making in market environments with other strategic actors and less than full information, as well as advanced pricing strategies. Topics include oligopoly models of market competition, creation, and protection, sophisticated pricing strategies for consumers with different valuations or consumers who buy multiple units (e.g. price discrimination, bundling, two-part tariffs), strategies for managing risk and making decisions under uncertainty, asymmetric information and its consequences for markets, and finally moral hazard and principle-agent theory with application to incentive contacts. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 6130 Business Analytics with Data for Non-Coders",
+    "courseid": "BEPP 6130",
+    "coursedescription": "This 0.5 CU course merges the instruction offered in Managerial Economics with data to flesh out related concepts with practical business applications. The purpose of the course is to close the gap between the theory of business analytics and its actual practice, i.e., how you can really use it in your practice. More than ever, there is a need for business leaders to become more data literate: “Business leaders at every level need to become data literate and be able to understand data and analytical concepts that may have previously seemed out of reach, including statistical methods, machine learning, and data manipulation. With this spread of data literacy comes the powerful ability to make educated business decisions that rely on the smart use of data, rather than on an individual’s opinions. In the past, these tasks were extremely complex and would be handed off to engineers. With the tools that exist today, business leaders are able to dive into their own analytics and uncover powerful insights.” (Microsoft) You will learn how to conduct in-depth business analytics based on sensible economics reasoning. As the main project, you will build an end-to-end business workflow. The problem and data can come from a current employer, from your own startup idea, or, from the instructor to represent a hypothetical setting. In the tradition of MGEC, the course will also motivate future electives to refine components of your analysis. Ultimately, you will walk away from the course with a fuller understanding of how different business and economics concepts “fit together” to answer big, relevant questions. Your new skillset is repeatable for your future projects. You will also learn key ideas that allow you to work with future coding teams in your future work, thereby closing the language gap between business economic goals and coding implementation. Normally, this type of comprehensive problem solving would require using coding languages like Python or R. However, the instructor for this course has developed a no-code toolbox that can be used with Microsoft Excel that allows for end-to-end analytics, making data analytics accessible to a much wider audience. This software will be provided for free to you. Fall Prerequisite: BEPP 6110",
+    "course-prerequsities": [
+      "BEPP 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 6200 Behavioral Economics, Markets and Public Policy",
+    "courseid": "BEPP 6200",
+    "coursedescription": "Behavioral economics has revealed a variety of systematic ways in which people deviate from being perfectly selfish, rational, optimizing agents. These findings have important implications for government policy and firm behavior. This course will explore these implications by answering two main questions: (1) what does behavioral economics imply for when and how the government should intervene in markets? (2) What does behavioral economics imply for firms' pricing and production decisions? The course will present the standard economic approaches to answering these questions and then explore how answers change when we consider that people act in behavioral ways. Towards the end of the course, we will investigate specific policy questions, allowing us to debate solutions while hearing from policy makers operating in a world of behavioral agents. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7080 Housing Markets",
+    "courseid": "BEPP 7080",
+    "coursedescription": "This course is designed for students interested in the economics and operations of housing markets. It is primarily a U.S.-focused course. The class is divided into five sections: (1) economic analysis of housing market fundamentals (supply and demand); (2) a policy analysis section on housing affordability issues in the U.S.; (3) operations of homebuilders and rental landlords, as well as the single family rental sector; this section includes a series of guest lecturers from industry executives; (4) the nature of housing cycles; and (5) a discussion of factors that have affected the evolution of housing markets over the long run. This course presumes knowledge of intermediate microeconomics. For Wharton students, this means you must have passed MGEC 6110. Non-Wharton students should have taken the equivalent course in the College. The class is primarily lecture based, although we will have one flipped class, as well as a number of guest lecturers from industry. There are two in-class midterms and two assignments. Spring Also Offered As: REAL 7080 Prerequisite: BEPP 6110 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students interested in the economics and operations of housing markets."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 7610 Risk Analysis and Environmental Management",
+    "courseid": "BEPP 7610",
+    "coursedescription": "This course will introduce students to concepts in risk governance. We will delve into the three pillars of risk analysis: risk assessment, risk management, and risk communication. The course will spend time on risk financing, including insurance markets. There will be particular emphasis on climate risk management, including both physical impact risk and transition risk, although the course will also discuss several other examples, including management of environmental risks, terrorism, and cyber-security, among other examples. The course will cover how people perceive risks and the impact this has on risk management. We will explore public policy surrounding risk management and how the public and private sector can successfully work together to build resilience, particularly to changing risks. Fall or Spring Also Offered As: ESE 5670 , OIDD 7610 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7630 Energy Markets & Policy",
+    "courseid": "BEPP 7630",
+    "coursedescription": "Over the last several decades, energy markets have become some of the most dynamic markets of the world economy. Traditional fossil fuel and electricity markets have been seen a partial shift from heavy regulation to market-driven incentives, while rising environmental concerns have led to a wide array of new regulations and \"environmental markets\". The growth of renewable energy could be another source of rapid change, but brings with it a whole new set of technological and policy challenges. This changing energy landscape requires quick adaptation from energy companies, but also offers opportunities to turn regulations into new business. The objective of this course is to provide students with the economist's perspective on a broad range of topics that professionals in the energy industry will encounter. Topics include the effect of competition, market power and scarcity on energy prices, the impact of deregulation on electricity and fossil fuel markets, extraction and pricing of oil and gas, geopolitical uncertainty and risk in hydrocarbon investments, the environmental impact and policies related to the energy sector, environmental cap-and-trade markets, energy efficiency, the economics and finance of renewable energy, and recent developments in the transportation sector. Also Offered As: OIDD 7630 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7640 Climate and Financial Markets",
+    "courseid": "BEPP 7640",
+    "coursedescription": "Climate change might be the defining challenge of our times, with a wide range of effects on financial markets and the broader economy. At the same time, financial markets play an important role in financing the transition to a net-zero economy, and incentivizing firms and investors to adapt their strategies. In this course, we examine how climate risks—both physical and regulatory—affect firms, financial markets (including equity, corporate debt, green bonds, municipal bonds, insurance, and carbon markets), and markets for energy, real estate and mortgages. We also examine the role that firms’ disclosures and third-party information sources play. Because financial markets are shaped by the information that is available to market participants, we investigate the impact of ESG reporting and rating agencies, including the costs and benefits of regulating ESG reporting and the impact of greenwashing. In the second part of the course, we study how governments and private investors finance investments in climate technologies. Here, we discuss various financial instruments that have been developed to address climate-change concerns. Given the enormous importance of electrification as a pathway towards a low-carbon future, there is special emphasis on renewable energy finance and economics. We also discuss the latest evidence of how climate risk has shaped decisions inside organizations, such as spin-offs, hedging, and the structure of executive-compensation contracts. Spring Also Offered As: ACCT 7640 Mutually Exclusive: BEPP 2640 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7700 American Public Policy through an Economic Lens",
+    "courseid": "BEPP 7700",
+    "coursedescription": "This course explores the economics and politics of public policy to provide an analytic framework for considering why, how, and with what success/failure government intervenes in a variety of policy areas. Particular attention will be paid to important policy issues relating to taxation, social security, low-income assistance, health insurance, education (both K-12 and higher ed), the environment, and government deficits. The costs and benefits of alternative policies will be explored along with the distribution of responsibilities between the federal, state, and local governments. While the course will focus primarily on U.S. policies, the topics covered (e.g. tax reform, deficits versus austerity, etc.) are currently at the center of the policy debate in many other industrialized countries as well. Two Term Class, Student may enter either term; credit given for either Mutually Exclusive: BEPP 2010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7730 Urban Fiscal Policy",
+    "courseid": "BEPP 7730",
+    "coursedescription": "This course will examine the provision of public services for firms and people through cities and other local governments. Why cities exist, when fiscal policy fails, investments in infrastructure, how to improve school quality, realities of local governments such as inequality, crime, corruption, high cost of living, congestion, and unfunded pensions will be covered. We will pay special attention to recent topics, such as the impact of the Covid-19 pandemic on city and public school finances, racial differences in police use of force, partnerships with the private sector, enterprise zones, the role of technology, and real estate policies that may (or may not!) promote housing affordability, such as inclusionary zoning and rent control. Fall Also Offered As: FNCE 7300 , REAL 7300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7890 Economic Globalization: Policy, History and Contemporary Issues",
+    "courseid": "BEPP 7890",
+    "coursedescription": "This course is intended to deepen understanding of the major contemporary issues in the world economy. The focus is on the \"big picture\" of global economic developments and the evolution of economic thought over the last one hundred years. The topics include: financial market booms and busts; business cycles; monetary and fiscal policies; inequality; the social welfare state; technological change and economic growth; and international trade and financial arrangements. The time period covers: the Roaring Twenties; the Great Depression, the post war Golden Age (1945-1973); the stagflation of the 1970s; the Washington Consensus era of the market liberalization (1980-2007); and the 2008 financial crisis and ensuing Great Recession; and the recent rise of populism. This course also explores different schools of thought. The course will chronicle and compare economic policy and performance of the United States, Europe, Japan and emerging markets (Asia, Latin America, Africa). Fall or Spring Mutually Exclusive: BEPP 2890 Prerequisite: BEPP 6110 AND BEPP 6120 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 6110",
+      "BEPP 6120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 8050 Risk Management",
+    "courseid": "BEPP 8050",
+    "coursedescription": "The last financial crisis and subsequent recession provide ample evidence that failure to properly manage risk can result in disaster. Individuals and firms confront risk in nearly all decisions they make. People face uncertainty in their choice of careers, spending and saving decisions, family choices, and many other facets of life. Similarly, the value that firms create by designing and marketing good products is at risk from a variety of sources. The bankruptcy of a key supplier, sharp rise in cost of financing, destruction of an important asset, impact of global warming, or a liability suit can quickly squander the value created by firms. In extreme cases, risky outcomes can bankrupt a firm, as has happened recently to manufacturers of automobile parts and a variety of financial service firms. The events since the Global Financial Crisis also offer stark reminders that risk can impose significant costs on individuals, firms, governments, and societ6y as a whole. This course explores how individuals and firms assess and evaluate risk, examines the tools available to successfully manage risk, and discusses real-world phenomena that limit the desired amount of risk-sharing. Our focus is primarily on explaining the products and institutions that will serve you better when making decisisions in your future careers and lives. Fall or Spring Also Offered As: OIDD 8050 Mutually Exclusive: BEPP 3050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 8360 International Housing Comparisons",
+    "courseid": "BEPP 8360",
+    "coursedescription": "This course analyzes housing finance systems and housing market outcomes across the globe. In the US, the course focuses on the development of securitization markets and addresses the current challenges of housing finance reform, including the future of Fannie Mae and Freddie Mac. Internationally, the course covers issues of access to housing and housing informality in developing countries, financial crises arising out of the housing sector, and market-oriented and public policy solutions. The course features a wide array of speakers in finance, government and academia who contribute their perspectives to pressing issues of mortgage market design. Spring Also Offered As: REAL 8360 Prerequisite: FNCE 6130 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 8930 Advanced Study Projects",
+    "courseid": "BEPP 8930",
+    "coursedescription": "“This course closes the gap between the theory of business economics analytics and its actual practice, i.e., how you can really use it in your practice. Normally, this type of comprehensive problem solving would require using coding languages like Python or R. However, the instructor for this course has developed a plugin no-code toolbox for Microsoft Excel that allows for end-to-end analytics, making data analytics accessible to a much wider audience. This software plugin will be provided for free to you. You will learn how to conduct in-depth business analytics based on sensible economics reasoning within Excel. The hands-on experience does not require in-depth software coding, and your new skillset is repeatable for your future projects.” Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 8950 Global Business Week",
+    "courseid": "BEPP 8950",
+    "coursedescription": "In the second year of the Executive MBA program, students embark on a required Global Business Week in a country facing business challenges of interest. During this intensive week of corporate visits and lectures, students engage with senior management to discuss topics relevant to the region. Following the trip, they have the opportunity to reflect on the insights gained from the experience and present their findings. Also Offered As: HCMG 8950",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "In the second year of the Executive MBA program, students embark on a required Global Business Week in a country facing business challenges of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 8970 Special Topics",
+    "courseid": "BEPP 8970",
+    "coursedescription": "Course titles and descriptions for Special Topics courses can be found in Path@Penn for the term in which they are offered. See \"SECTION DETAILS\" in Path@Penn for the course description and use the Syllabi@Wharton app to see the course syllabus. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 8980 Global Modular Course",
+    "courseid": "BEPP 8980",
+    "coursedescription": "Global Modular Course - MBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 9000 Research Seminar",
+    "courseid": "BEPP 9000",
+    "coursedescription": "Of the many ways that doctoral students typically learn how to do research, two that are important are watching others give seminar presentations (as in Applied Economics Seminars) and presenting one's own research. The BEPP 9000 course provides a venue for the latter. Wharton doctoral students enrolled in this course present applied economics research. Presentations both of papers assigned for other classes and of research leading toward a dissertation are appropriate in BEPP 9000 . This course aims to help students further develop a hands-on understanding of the research process. All doctoral students with applied microeconomic interests are encouraged to attend and present. Second and third year Applied Economic Ph.D. students are required to enroll in BEPP 9000 and receive one-semester credit per year of participation. Two Term Class, Student may enter either term; credit given after both terms are complete Also Offered As: REAL 9000",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "All doctoral students with applied microeconomic interests are encouraged to attend and present."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 9040 Experimental Economics",
+    "courseid": "BEPP 9040",
+    "coursedescription": "This course will help prepare you to run your own economics laboratory and field experiments. Experimental methods have been widely adopted by economists to develop new insights, and some economic theories and hypotheses are uniquely well-suited for testing with experimental tools and data. Achieving high internal and external validity requires careful experimental design. Substantive areas of application in the course will include market equilibrium, asset bubbles, learning in games, public good provision, and labor market relationships. Additional topics may include biases in individual decision-making; field experiments in development economics; and happiness, neuroeconomics, and behavioral/experimental welfare economics. Economists' typical interests in strategic and market-based interactions raise particular methodological challenges and opportunities. Not Offered Every Year Also Offered As: OIDD 9040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Economists' typical interests in strategic and market-based interactions raise particular methodological challenges and opportunities."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 9110 Empirical Public Policy",
+    "courseid": "BEPP 9110",
+    "coursedescription": "This course examines econometric research on a variety of topics related to public policy, with the goal of preparing students to undertake academic-caliber research. The course is not an econometrics or statistics course per se; rather, it focuses on research designs with observational data and how econometric techniques are applied in practice. The course aims to train students to do applied economic research that involves measuring effects of theoretical or practical interest. It proceeds in two major parts. The first part examines endogeneity and inference about causal relationships, instrumental variables methods and critiques, and panel data methods. The second part of the course addresses 'structural' econometric modeling. Topics covered in this part include sorting and selection, entry models, and counterfactual analyses of policy changes. The course proceeds by analyzing, in detail, approximately 24 well-known empirical research papers in applied economics or related fields. These include public economics and tax policy, labor economics, law and economics, health care policy, industrial organization and competition, transportation demand and policy, and others. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course aims to train students to do applied economic research that involves measuring effects of theoretical or practical interest."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 9150 Behavioral Economics and Policy Analysis",
+    "courseid": "BEPP 9150",
+    "coursedescription": "In this course we will be surveying the ways in which behavioral economics ideas are influencing economic analysis in different \"applied micro\" fields. A guiding focus of the course will be studying the role of behavioral economics when conducting welfare or policy analysis. The course will begin with a high-level overview of the common themes seen across all the fields we will discuss, and then we will proceed through a series of modules in which we examine the specifics in different applications. Over the course of the semester, we will dive into public finance, health economics, market design, labor economics, and industrial organization. Fall or Spring Prerequisite: ECON 7110 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9310 Numerical Methods in Economics",
+    "courseid": "BEPP 9310",
+    "coursedescription": "The objective of this course is to introduce graduate students to computational approaches for solving economic models. We will formulate economic problems in computationally tractable form and use techniques from numerical analysis to solve them. Examples of computational techniques in the current economics literature as well as discuss areas where these techniques may be useful in future research will be disclosed. We will pay particular attention to methods for solving dynamic optimization problems and computing equilibria of games. The substantive applications will cover a wide range of problems including industrial organization, game theory, macroecomics, finance, and econometrics. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9320 Contract Theory and Applications",
+    "courseid": "BEPP 9320",
+    "coursedescription": "The course provides an advanced introduction to the theory of contracts and its mixture of foundational theories and applications to fields such as labor, reguindustrial organization. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9330 Public Economics: Social Insurance and Government Expenditures",
+    "courseid": "BEPP 9330",
+    "coursedescription": "The first part of this course will examine the rationale for and economic impact (e.g. on saving, labor supply, etc.) of social insurance programs such as social security, unemployment insurance and disability insurance. The next major part of the course will explore these same issues for government interventions in health insurance markets. The course will then cover research on public goods, externalities, fiscal federalism, and econmic stimulus (including the government's recent response to the \"Great Recession\") before proceeding to an exploration of the government's role in K-12 and high education. Both theoretical and empirical evidence will be covered along with a mix of classic studies and more cutting-edge research. Throughout the course we will discuss the tradoffs - for example between the protection and distortion of social insurance programs -- that influence government's optional role. While the focus will be on evidence from the U.S., some research from other industrialized and developing countries will also be covered. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9410 Development Economics",
+    "courseid": "BEPP 9410",
+    "coursedescription": "This course will cover current microeconomic issues of developikng countries including poverty, risk, savings, human capital, and institutions. We will also explore the causes and consequences of market failures that are common in many developing countries with a focus on credit, land, and labor markets. The course is designed to introduce recent research with focus on empirical methods and testing theories with data. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9500 Managerial Economics",
+    "courseid": "BEPP 9500",
+    "coursedescription": "Public goods, externalities, uncertainty, and income redistribution as sources of market failures; private market and collective choice models as possible correcting mechanisms. Microeconomic theories of taxation and public sector expenditures. The administration and organization of the public sector. Fall or Spring Mutually Exclusive: BEPP 2500 Prerequisite: (MGEC 6110 AND MGEC 6120) OR ( ECON 7100 AND ECON 7110 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MGEC 6110",
+      "MGEC 6120",
+      "ECON 7100",
+      "ECON 7110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9520 Economics and Law",
+    "courseid": "BEPP 9520",
+    "coursedescription": "1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9610 Risk Analysis and Environmental Management",
+    "courseid": "BEPP 9610",
+    "coursedescription": "This course will introduce students to concepts in risk governance. We will delve into the three pillars of risk analysis: risk assessment, risk management, and risk communication. The course will spend time on risk financing, including insurance markets. There will be particular emphasis on climate risk management, including both physical impact risk and transition risk, although the course will also discuss several other examples, including management of environmental risks, terrorism, and cyber-security, among other examples. The course will cover how people perceive risks and the impact this has on risk management. We will explore public policy surrounding risk management and how the public and private sector can successfully work together to build resilience, particularly to changing risks. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9620 Applied Economics Seminar",
+    "courseid": "BEPP 9620",
+    "coursedescription": "The goal of this course is to help doctoral students develop critical thinking skills through both seminar participation and writing of referee reports. To this end, students will attend the Wharton Applied Economics seminar when it meets each Wednesday at noon; prepare two written referee reports on WAE papers per semester, due before the seminar is presented. After attending the seminar and the ensuing discussion of the paper, students will prepare follow-up evaluations of their referee reports, due one week after the seminar. Fall, Spring, and Summer Terms Also Offered As: REAL 9620 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9710 Market Design",
+    "courseid": "BEPP 9710",
+    "coursedescription": "The course covers Market Design, the analysis and engineering of market rules and institutions. In the last 60 years practitioners and academics have deliberately engineered the rules of an increasing number of markets, with classic examples including medical resident matching (e.g., NRMP), spectrum auctions (e.g., FCC auctions), and organ donation exchanges. In the last few years, very large markets have been created from scratch, such as eBay, Adwords, and smaller markets like odesk.com and sittercity.com. These designs use a broad set of tools, including economic theory, empirical analysis and experiments (and a fair dose of trial-and-error). With this experience, useful principles have emerged, on what market failures typically have to be addressed, and on which rules work and which do not. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9870 Industrial Organization and Competition Policy",
+    "courseid": "BEPP 9870",
+    "coursedescription": "This course focuses on empirical methods and applications of research topics in Industrial Organization. Although not exclusively, the course will focus mostly on the application of econometric techniques used to study specific markets and antitrust policies. The topics that will be covered include the evaluationof market power and mergers, product differentiation, investment and innovation, collusion, price discrimination, vertical relations, entry and product positioning, and the dynamics of industries. The course will also discuss research methodologies related to microeconomic theory, computational methods, and econometric analysis. The applicability of the techniques goes beyond the field of Industrial Organization, and include the Labor, Health, Trade and Public economics. Fall or Spring Prerequisite: ( ECON 7100 AND ECON 7110 ) OR ( ECON 6100 AND ECON 6110 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7110",
+      "ECON 6100",
+      "ECON 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

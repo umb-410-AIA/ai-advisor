@@ -1,0 +1,60 @@
+[
+  {
+    "coursename": "SBCR 1100a, Elementary Bosnian-Croatian-Serbian I Staff",
+    "courseid": "SBCR 1100a",
+    "coursedescription": "The first half of a two-term introduction to Bosnian-Croatian-Serbian designed to develop skills in comprehension, reading, speaking, and writing. The grammatical structure and the writing systems of the languages; communication on topics drawn from daily life. Study of Serbian, Bosnian, and Croatian culture, and of south Slavic culture more generally. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L1 RP 1½ Course cr TWF 10:10am-11:25am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* SBCR 1200b, Elementary Bosnian-Croatian-Serbian II Staff",
+    "courseid": "SBCR 1200b",
+    "coursedescription": "The second half of a two-term introduction to Bosnian-Croatian-Serbian designed to develop skills in comprehension, reading, speaking, and writing. The grammatical structure and the writing systems of the languages; communication on topics drawn from daily life. Study of Serbian, Bosnian, and Croatian culture, and of south Slavic culture more generally. Prerequisite: SBCR 110 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L2 RP 1½ Course cr TWF 10:10am-11:25am",
+    "course-prerequsities": [
+      "SBCR 110",
+      "L2",
+      "TWF 10",
+      "10AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "SBCR 1300a, Intermediate Bosnian Croatian Serbian I Staff",
+    "courseid": "SBCR 1300a",
+    "coursedescription": "This intermediate course is a continuation of the elementary course and is intended to enhance overall communicative competence in the language. This course moves forward from the study of the fundamental systems and vocabulary of the Bosnian/Croatian/Serbian to rich exposure to the spoken and written language with the wide range of speakers and situations. SBCR 120, or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L3 RP 1½ Course cr TWF 11:40am-12:55pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "SBCR 1400b, Intermediate Bosnian Croatian Serbian II Staff",
+    "courseid": "SBCR 1400b",
+    "coursedescription": "The intermediate course in BCS is a continuation of the elementary course and is intended to enhance overall communicative competence in the language. This course moves forward from the study of the fundamental systems and vocabulary of the Bosnian/Croatian/Serbian to rich exposure to the spoken and written language with the wide range of speakers and situations. Prerequisite: SBCR 130 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L4 RP 1½ Course cr TWF 11:40am-12:55pm",
+    "course-prerequsities": [
+      "SBCR 130",
+      "L4",
+      "TWF 11",
+      "40AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  }
+]

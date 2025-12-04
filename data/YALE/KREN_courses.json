@@ -1,0 +1,107 @@
+[
+  {
+    "coursename": "* KREN 1100a, Elementary Korean I Staff",
+    "courseid": "KREN 1100a",
+    "coursedescription": "A beginning course in modern Korean. Pronunciation, lectures on grammar, conversation practice, and introduction to the writing system ( Hankul ). L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* KREN 1200b, Elementary Korean II Staff",
+    "courseid": "KREN 1200b",
+    "coursedescription": "Continuation of KREN 110. After KREN 110 or equivalent. L2 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* KREN 1300a, Intermediate Korean I Staff",
+    "courseid": "KREN 1300a",
+    "coursedescription": "Continued development of skills in modern Korean, spoken and written, leading to intermediate-level proficiency. After KREN 120 or equivalent. L3 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* KREN 1320a, Intermediate Korean for Advanced Learners I Staff",
+    "courseid": "KREN 1320a",
+    "coursedescription": "Intended for students with some oral proficiency but little or no training in Hankul. Focus on grammatical analysis, the standard spoken language, and intensive training in reading and writing. L3 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* KREN 1400b, Intermediate Korean II Staff",
+    "courseid": "KREN 1400b",
+    "coursedescription": "Continuation of KREN 130. After KREN 130 or equivalent. L4 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* KREN 1420b, Intermediate Korean for Advanced Learners II Staff",
+    "courseid": "KREN 1420b",
+    "coursedescription": "Continuation of KREN 132. After KREN 132 or equivalent. L4 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KREN 1500a, Advanced Korean I: Korean Language and Culture through K-Pop Music Angela Lee-Smith",
+    "courseid": "KREN 1500a",
+    "coursedescription": "An advanced language course with emphasis on developing vocabulary and grammar, practice reading comprehension, speaking on a variety of topics, and writing in both formal and informal styles. Use storytelling, discussion, peer group activities, audio and written journals, oral presentations, and supplemental audiovisual materials and texts in class. After KREN 140 or equivalent. L5 MWF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KREN 1510b, Advanced Korean II: Korean Language and Culture through Media Angela Lee-Smith",
+    "courseid": "KREN 1510b",
+    "coursedescription": "This course is content and project-based to further develop integrated language skills-spoken and written, including grammar and vocabulary, as well as intercultural competence through Korean media. Through a variety of media, such as print media, publishing, digital media, cinema, broadcasting (radio, television, podcasting), and advertising, students explore and reflect on a wide range of topics and perspectives in Korean culture and society. The course learning activities include interactive, interpretive, and presentational communication; critical analysis; creative and authentic language applications in formal/informal contexts. After KREN 150 or equivalent. L5 MWF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KREN 1520a or b, Advanced Korean III: Contemporary Life in Korea Staff",
+    "courseid": "KREN 1520a",
+    "coursedescription": "This course is an advanced language course designed to further develop language skills through topics related to contemporary Korea, including lifestyle, society, culture, and literature, supplemented with authentic media materials. This course aims to expand students’ understanding of Korea while enhancing their multiliteracy. Intended for both non-heritage speakers and heritage speakers. Prerequisite: After KREN 142 or KREN 151, or equivalent. L5 HTBA",
+    "course-prerequsities": [
+      "KREN 142",
+      "KREN 151",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* KREN 1530b, Advanced Korean IV: Korean Sociocultural Practices and Perspectives Staff",
+    "courseid": "KREN 1530b",
+    "coursedescription": "This course is an interdisciplinary content-based advanced course in modern Korean. It aims to advance language skills in all four areas and cultural competence to communicate with fluency and accuracy. Students build up wide-ranging vocabulary and grammar, while registering and deepening their understanding of cultural aspects through authentic materials and communicative tasks across a variety of topics, such as social, academic, or career interests. (Previously KREN 152). After KREN 152, or with permission of instructor. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students build up wide-ranging vocabulary and grammar, while registering and deepening their understanding of cultural aspects through authentic materials and communicative tasks across a variety of topics, such as social, academic, or career interests.",
+        "After KREN 152, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* KREN 1540a, Advanced Korean V: History and Society Boo Kyung Jung",
+    "courseid": "KREN 1540a",
+    "coursedescription": "An advanced language course designed to develop reading and writing skills using Web-based texts in a variety of genres. Students read texts independently and complete comprehension and vocabulary exercises through the Web. Discussions, tests, and intensive writing training in class. After KREN 152 or equivalent. L5 MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* KREN 1700b, Introduction to Hanja Seunghee Back",
+    "courseid": "KREN 1700b",
+    "coursedescription": "This course teaches Hanja, the Chinese characters commonly used in modern Korean society. The main goal is for students to master 300 basic Hanja that frequently appear in Korean vocabulary. Through various materials, students explore how these characters are integrated into Korean words and how these words are used in everyday contexts. By engaging with these concepts, students enhance their understanding of Korean vocabulary and improve their overall proficiency in the language. After KREN 140 or equivalent L5 MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

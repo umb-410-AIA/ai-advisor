@@ -1,0 +1,395 @@
+[
+  {
+    "coursename": "ARAB 0100 Elementary Arabic I",
+    "courseid": "ARAB 0100",
+    "coursedescription": "This is the beginners course in Modern Standard Arabic (MSA). It will introduce you to the speaking, listening, reading and writing skills in the standard means of communication in the Arab World. The course is proficiency-based, implying that all activities within the course are aimed at placing you, the learner, in the context of the native-speaking environment from the very beginning. Evaluation is done by the more traditional testing methods (vocabulary tests, dictations, grammar and translation exercises). We anticipate that by the end of this course, students will range in proficiency from Novice High to Intermediate Low on the ACTFL scale; in other words (using the terminology of the government's Foreign Service Institute), from 'incipient survival' to 'full' survival' in the native-speaking environment. Fall Mutually Exclusive: ARAB 6100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 0120 Beginning Arabic I",
+    "courseid": "ARAB 0120",
+    "coursedescription": "This is a beginner course in Modern Standard Arabic (MSA). It will introduce you to the speaking, listening, reading, and writing skills in the standard means of communication in the Arab world. The course is proficiency-based, implying that all activities are aimed at placing you, the learner, in the context of the native-speaking environment from the very beginning. Evaluation is done by the more traditional testing methods (vocabulary tests, dictations, grammar and translation exercises). We anticipate that by the end of this course, students will range in proficiency from Novice High to Intermediate Low on the ACTFL scale; in other words (using the terminology of the government's Foreign Service Institute), from 'incipient survival' to 'full' survival' in the native-speaking environment. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 0200 Elementary Arabic II",
+    "courseid": "ARAB 0200",
+    "coursedescription": "This course is a continuation of first semester Elementary Arabic, and builds on the speaking, listening, reading and writing skills in the standard means of communication in the Arab World. Evaluation is done by the more traditional testing methods (vocabulary tests, dictations, grammar and translation exercises). We anticipate that by the end of this course, students will range in proficiency from Novice High to Intermediate Low on the ACTFL scale. Spring Mutually Exclusive: ARAB 6200 Prerequisite: ARAB 0100 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 0220 Beginning Arabic II",
+    "courseid": "ARAB 0220",
+    "coursedescription": "A continuation of Beginning Arabic I, this is a beginner course in Modern Standard Arabic (MSA). It will introduce you to the speaking, listening, reading, and writing skills in the standard means of communication in the Arab world. The course is proficiency-based, implying that all activities are aimed at placing you, the learner, in the context of the native-speaking environment from the very beginning. Evaluation is done by the more traditional testing methods (vocabulary tests, dictations, grammar and translation exercises). We anticipate that by the end of this course, students will range in proficiency from Novice High to Intermediate Low on the ACTFL scale; in other words (using the terminology of the government's Foreign Service Institute), from 'incipient survival' to 'full' survival' in the native-speaking environment. This class does not count for the College language requirement. Spring Prerequisite: ARAB 0120 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 0250 Intensive Elementary Arabic I&II",
+    "courseid": "ARAB 0250",
+    "coursedescription": "This is a six-week intensive beginners' course in Modern Standard Arabic (MSA). It will introduce the student to speaking, listening, reading, and writing skills in the standard means of communication in the Arabic world. The course is proficiency-based, implying that all activities are aimed at placing the student in the context of the native-speaking environment from the very beginning. Evaluation is done by the more traditional testing methods (vocabulary tests, dictations, grammar and translation exercises). We anticipate that by the end of this course, students will range in proficiency from Novice High to Intermediate Low on the ACTFL scale; in ot the terminology of the government's Foreign Service Institute) survival' to 'full survival' in the native-speaking environment. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "ARAB 0300 Intermediate Arabic III",
+    "courseid": "ARAB 0300",
+    "coursedescription": "This is the continuation of the Elementary course in Modern Standard Arabic (MSA). This course is also proficiency-based, implying that all activities within the course are aimed at placing you, the learner, in the context of the native-speaking environment. Evaluation is done by the more traditional testing methods (vocabulary tests, grammar and translation exercises). We anticipate that students range from Intermediate Low to Intermediate High according to the ACTFL scale. Fall Mutually Exclusive: ARAB 6300 Prerequisite: ARAB 0200 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 0320 Continuing Arabic III",
+    "courseid": "ARAB 0320",
+    "coursedescription": "This is the continuation of Beginning Arabic II. It is also proficiency-based, implying that all activities within the course are aimed at placing you, the learner, in the context of the native-speaking environment from the very beginning. Evaluation is done by the more traditional testing methods (vocabulary tests, grammar and translation exercises). However, it should be emphasized that you will need a longer period of study to achieve proficiency in Arabic. We anticipate that students range from Intermediate Low to Intermediate High according to the ACTFL scale. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 0400 Intermediate Arabic IV",
+    "courseid": "ARAB 0400",
+    "coursedescription": "This is the continuation of the first semester Intermediate Arabic. This course is also proficiency-based, implying that all activities within the course are aimed at placing you, the learner, in the context of the native-speaking environment. Evaluation is done by the more traditional testing methods (vocabulary tests, grammar and translation exercises). We anticipate that students will achieve Intermediate High according to the ACTFL scale. Spring Mutually Exclusive: ARAB 6400 Prerequisite: ARAB 0300 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 0420 Continuing Arabic IV",
+    "courseid": "ARAB 0420",
+    "coursedescription": "This is the continuation of Continuing Arabic III. It is also proficiency-based, implying that all activities within the course are aimed at placing you, the learner, in the context of the native-speaking environment from the very beginning. Evaluation is done by the more traditional testing methods (vocabulary tests, grammar and translation exercises). Completion of this course fulfills the language requirement in the College of Liberal and Professional Studies. However, it should be emphasized that you will need a longer period of study to achieve proficiency in Arabic. We anticipate that students range from Intermediate Low to Intermediate High according to the ACTFL scale. Spring Prerequisite: ARAB 0320 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0320"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 0450 Intensive Intermediate Arabic I&II",
+    "courseid": "ARAB 0450",
+    "coursedescription": "This is a six-week intensive course offered in the summer through LPS; see the Penn Summer Course Guide. This is the continuation of Elementary Arabic II or Intensive Elementary Arabic I & II. This course is also proficiency-based, implying that all activities within the course are aimed at placing the student in the context of the native-speaking environment from the very beginning. As in ARAB 0100 - ARAB 0200 or ARAB 0250 , evaluation is done by the more traditional testing methods (vocabulary tests, grammar and translation exercises). Completion of this course fulfills the College of Arts and Sciences language requirement in Arabic. However, it should be emphasized that the student will need a longer period of study to achieve proficiency in Arabic. We anticipate that students range from Intermediate Low to Intermediate High according to the ACTFL scale. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "ARAB 0500 Advanced Intermediate Arabic I",
+    "courseid": "ARAB 0500",
+    "coursedescription": "This is a proficiency-based course which builds on the lessons from Intermediate Arabic. Emphasis continues to be on all four language skills: Speaking, Listening, Reading, & Writing. The readings for the class are chosen from actual texts from both medieval and modern Arabic in a variety of fields and subjects. Students will be expected to give classroom presentations and to write short essays in Arabic. Evaluation will be both Achievement- and proficiency- based. Fall Mutually Exclusive: ARAB 6500 Prerequisite: ARAB 0400 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 0600 Advanced Intermediate Arabic II",
+    "courseid": "ARAB 0600",
+    "coursedescription": "This course is a continuation of first semester Advanced Intermediate Arabic. Emphasis continues to be on all four language skills: Speaking, Listening, Reading, & Writing. The readings for the class are chosen from actual texts from both medieval and modern Arabic in a variety of fields and subjects. Students will be expected to give classroom presentations and to write short essays in Arabic. Evaluation will be both Achievement- and proficiency- based. Spring Mutually Exclusive: ARAB 6600 Prerequisite: ARAB 0500 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 0650 Intensive Advanced Intermediate Arabic I&II",
+    "courseid": "ARAB 0650",
+    "coursedescription": "This is a six-week intensive course offered in the summer through LPS; see Penn Summer Course Guide. It continues from the first intermediate course, and emphasis continues to be on all four language skills: speaking, listening, reading, and writing. Students will be expected to give classroom presentations and to write short essays in Arabic. Evaluation will be both achievement-based and proficiency-based. There is no Oral Proficiency Interview at the end of this session, but we anticipate that by the end of this, third year students will range in proficiency from Intermediate High to Advanced Mid on the ACTFL scale. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "ARAB 0700 The Adab Tradition",
+    "courseid": "ARAB 0700",
+    "coursedescription": "This is a survey of pre-modern Arabic prose. Selections will be made from major books of Adab, compilations of akhb r, the Qur n, the s rah, and critical treatise. Readings will be accompanied by excerpts from modern critical scholarship on the topic in Arabic. The class is taught in MSA with oral presentations and writing assignments in MSA. Not Offered Every Year Mutually Exclusive: ARAB 7100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 2198 Study Abroad: Major Credit",
+    "courseid": "ARAB 2198",
+    "coursedescription": "Study Abroad Credit 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 4000 Advanced Arabic and Syntax I",
+    "courseid": "ARAB 4000",
+    "coursedescription": "Advanced syntax through the reading of Arab grammarians. This course is designed to give the student experience in reading whole works in Arabic and giving reports on them. Readings are by medieval and modern writers. Fall Mutually Exclusive: ARAB 6800 Prerequisite: ARAB 0600 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 4020 Advanced Spoken Standard Arabic",
+    "courseid": "ARAB 4020",
+    "coursedescription": "The course will concentrate on the reading and speaking skills at the advanced level. Students will be assigned reading and audio-visual materials on which to prepare oral classroom presentations. Final examination in the course will be based on performance in the oral proficiency interview. Fall or Spring Prerequisite: ARAB 0600 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 4030 Colloquial Arabic",
+    "courseid": "ARAB 4030",
+    "coursedescription": "A one-semester, introductory course to the spoken Arabic of one of the regions of the Arab world, chosen according to the dialect of instructor. Fall or Spring Prerequisite: ARAB 0200 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 4040 Readings in the Qur'an and Tafsir",
+    "courseid": "ARAB 4040",
+    "coursedescription": "This course has two goals: to introduce undergraduate students to reading the Qur'an in Arabic, and to enhance the speaking, listening, and writing skills in MSA. Through the reading and study of selected major Qur'anic narratives and commentary (tafsir), students will become familiar with Qur'anic vocabulary, style, recitation practices, and other intricacies of the Qur'anic text. All students will also memorize a short sura of their choice and practice reciting it in an aesthetically appropriate manner (typically suras 1, 112, 113, or 114). Taught in MSA with writing assignments in MSA. Spring, even numbered years only Prerequisite: ARAB 0500 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 4050 Arabic Readings in Belles-Lettres",
+    "courseid": "ARAB 4050",
+    "coursedescription": "Through engaging with authentic texts, this advanced class aims to activate the language skills students have learned in previous language courses. We will read selections from Arabic poetry and prose and will respond to them in writing, discussion and translation. We will focus on close reading, relying on our knowledge of grammar. We will also work to develop writing, comprehension, and speaking skills through short critical responses and oral presentations. All class discussions will be conducted in Arabic. Fall Mutually Exclusive: ARAB 6750 Prerequisite: ARAB 0600 OR ARAB 6600 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0600",
+      "ARAB 6600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 4060 Arabic Readings in the Social Sciences and the Media",
+    "courseid": "ARAB 4060",
+    "coursedescription": "This course trains students to be proficient with written materials and media in MSA. This class will explore the Middle East through timely analysis of Arabic media as well as original analysis of the ideological, intellectual, social, cultural, and religious background to current events, including the Arab Spring and its aftermath. It is intended that, upon completion of this course, students will be able to work independently with a variety of media texts at different levels. Taught in MSA with writing assignments in MSA. Spring, odd numbered years only Prerequisite: ARAB 0600 OR ARAB 6600 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0600",
+      "ARAB 6600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 4070 Readings in Arabic Literature",
+    "courseid": "ARAB 4070",
+    "coursedescription": "Through engaging with authentic texts, this advanced class aims to activate the language skills students have learned in previous language courses. We will read selections from the modern Arabic short story and will respond to them in writing, discussion and translation. We will focus on close reading, relying on our knowledge of grammar. We will also work to develop writing, comprehension, and speaking skills through short critical responses and oral presentations. All class discussions will be conducted in Arabic. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 4080 Introduction to Pre-Modern Arabic Texts",
+    "courseid": "ARAB 4080",
+    "coursedescription": "This course aims to provide incoming graduate students and advanced undergraduate students with an introduction to issues in Arabic grammar and syntax that commonly arise in pre-modern Arabic texts. Students will also be introduced to, and expected to consult, the standard reference works used as aids in reading such texts. Students will be expected to prepare a text or set of texts assigned by the instructor for each session. It is intended that, upon completion of this course, students will be able to work independently with a wide variety of pre-modern Arabic texts. Although the texts in this course are pre-modern, the course reinforces MSA reading skills. Fall, even numbered years only Prerequisite: ARAB 0600 OR ARAB 6600 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0600",
+      "ARAB 6600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 4090 History & Fiction in Arabic",
+    "courseid": "ARAB 4090",
+    "coursedescription": "This course is intended to provide a more advanced exposure to Arabic language skills beyond those offered by the standard Arabic curriculum, particularly in reading, writing, and grammar of MSA and some exposure historical forms of Arabic like Classical Arabic and Middle Arabic, not to mention important genres like the modern academic article, memoirs, chronicles, and biography. Students will refine their readings skills and will be able to read at a quicker rate by the end of the semester, and increase their active vocabulary accordingly. Students will also practice writing and explore some of the finer points of Arabic grammar. Along the way, students will learn a good bit about the history of the Arab world, and grapple with the fuzzy border between history and memory, fact and fiction. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 5030 Arabic: Reading Historical Manuscripts",
+    "courseid": "ARAB 5030",
+    "coursedescription": "Arabic language is used by many societies not only in communication but also in correspondence and in documenting the affairs of their daily lives. Arabic script is adopted by many groups who native languages are not Arabic, in writing their language before some moved to the Roman alphabet. In many historical documents specific style of writing and handwriting are dominant. This specificity is influenced by the dialectical variations, the historical development of each region and the level of Arabic literacy and use. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 5300 Advanced Spoken Standard Arabic",
+    "courseid": "ARAB 5300",
+    "coursedescription": "The course will concentrate on the reading and speaking skills at the advanced level. Students will be assigned reading and audio-visual materials on which to prepare oral classroom presentations. Final examination in the course will be based on performance in the oral proficiency interview. Taught in MSA with writing assignments in MSA. Fall Prerequisite: ARAB 0600 OR ARAB 6600 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0600",
+      "ARAB 6600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 5400 Readings in Islamic Law",
+    "courseid": "ARAB 5400",
+    "coursedescription": "This advanced readings course provides students with the opportunity to study Arabic-language Islamic legal texts from all periods, including the Qur’an, Hadith, premodern and Ottoman-period texts, and modern positive legislation and constitutions to the extent that they are related to or invoke Islamic law. Not Offered Every Year Prerequisite: ARAB 0600 OR ARAB 6600 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0600",
+      "ARAB 6600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 6100 Elementary Arabic I",
+    "courseid": "ARAB 6100",
+    "coursedescription": "This is the beginners course in Modern Standard Arabic (MSA). It will introduce you to the speaking, listening, reading and writing skills in the standard means of communication in the Arab World. The course is proficiency-based, implying that all activities within the course are aimed at placing you, the learner, in the context of the native-speaking environment from the very beginning. Evaluation is done by the more traditional testing methods (vocabulary tests, dictations, grammar and translation exercises). We anticipate that by the end of this course, students will range in proficiency from Novice High to Intermediate Low on the ACTFL scale; in other words (using the terminology of the government's Foreign Service Institute), from 'incipient survival' to 'full' survival' in the native-speaking environment. Two Term Class, Student must enter first term; credit given after both terms are complete Mutually Exclusive: ARAB 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 6200 Elementary Arabic II",
+    "courseid": "ARAB 6200",
+    "coursedescription": "This course is a continuation of ARAB 0100 / ARAB 6100 . For the second semester: completion of the first semester or permission of the instructor. Two Term Class, Student must enter first term; credit given after both terms are complete Mutually Exclusive: ARAB 0200 Prerequisite: ARAB 6100 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 6100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For the second semester: completion of the first semester or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ARAB 6300 Intermediate Arabic III",
+    "courseid": "ARAB 6300",
+    "coursedescription": "This is the continuation of the Elementary course at the graduate level. This course is also proficiency-based, implying that all activities within the course are aimed at placing you, the learner, in the context of the native-speaking environment from the very beginning. This is the continuation of ARAB 0100 and ARAB 0200 , the elementary course in Modern Standard Arabic (MSA). This course is also proficiency-based, implying that all activities within the course are aimed at placing you, the learner, in the context of the native-speaking environment from the very beginning. As in ARAB 0100 - ARAB 0200 , evaluation is done by the more traditional testing methods (vocabulary tests, grammar and translation exercises). We anticipate that students range from Intermediate Low to Intermediate High according to the ACTFL scale. Two Term Class, Student must enter first term; credit given after both terms are complete Mutually Exclusive: ARAB 0300 Prerequisite: ARAB 6200 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 6200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 6400 Intermediate Arabic IV",
+    "courseid": "ARAB 6400",
+    "coursedescription": "This course is a continuation of Intermediate Arabic III at the graduate level. Two Term Class, Student must enter first term; credit given after both terms are complete Mutually Exclusive: ARAB 0400 Prerequisite: ARAB 6300 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 6300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 6500 Advanced Intermediate Arabic I",
+    "courseid": "ARAB 6500",
+    "coursedescription": "This is a proficiency-based course which continues from the first intermediate course, ARAB 0300 / ARAB 0400 . Emphasis continues to be on all four language skills: Speaking, Listening, Reading, & Writing. The readings for the class are chosen from actual texts from both medieval and modern Arabic in a variety of fields and subjects. Students will be expected to give classroom presentations and to write short essays in Arabic. Evaluation will be both Achievement- and proficiency- based. Mutually Exclusive: ARAB 0500 Prerequisite: ARAB 6400 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 6400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 6600 Advanced Intermediate Arabic II",
+    "courseid": "ARAB 6600",
+    "coursedescription": "This course is a continuation of Advanced Intermediate Arabic I at the graduate level. Two Term Class, Student must enter first term; credit given after both terms are complete Mutually Exclusive: ARAB 0600 Prerequisite: ARAB 6500 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 6500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 6720 Colloquial Arabic",
+    "courseid": "ARAB 6720",
+    "coursedescription": "A one-semester, introductory course to the spoken Arabic of one of the regions of the Arab world, chosen according to the dialect of instructor. Not Offered Every Year Prerequisite: ARAB 0200 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 6750 Arabic Readings in Belles Lettres",
+    "courseid": "ARAB 6750",
+    "coursedescription": "Through engaging with authentic texts, this advanced class aims to activate the language skills students have learned in previous language courses. We will read selections from Arabic poetry and prose and will respond to them in writing, discussion and translation. We will focus on close reading, relying on our knowledge of grammar. We will also work to develop writing, comprehension, and speaking skills through short critical responses and oral presentations. All class discussions will be conducted in Arabic. Spring Mutually Exclusive: ARAB 4050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 6800 Advanced Arabic and Syntax I",
+    "courseid": "ARAB 6800",
+    "coursedescription": "Advanced syntax through the reading of Arab grammarians. Development of reading in bulk. Emphasis on classical Arabic read in works by medieval and modern writers. This course is designed to give the student experience in reading whole works in Arabic and giving reports on them. Fall or Spring Mutually Exclusive: ARAB 4000 Prerequisite: ARAB 6600 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 6600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 7000 Topics in Islamic Studies",
+    "courseid": "ARAB 7000",
+    "coursedescription": "Topics vary from year to year in accordance with the interests and needs of students. Although this course typically focuses on premodern Arabic texts, the readings reinforce MSA reading skills. Not Offered Every Year Prerequisite: ARAB 4080 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 4080"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics vary from year to year in accordance with the interests and needs of students."
+      ]
+    }
+  },
+  {
+    "coursename": "ARAB 7020 Arabic Texts in Islamic History",
+    "courseid": "ARAB 7020",
+    "coursedescription": "This is a graduate seminar course in which different genres of premodern Arabic texts are covered at the advanced graduate level. Students in this course are expected to be able to read and prepare (vowel, parse, and translate) passages from Arabic texts on a weekly basis and to be able to discuss them critically during the class itself. Topics are chosen to reflect student interest. Recent and potential topics include: Geographers and travel accounts; biographical dictionaries; chronicles; heresiography; poetry; memoir and sira. Although this course typically focuses on premodern Arabic texts, the readings reinforce MSA reading skills. Not Offered Every Year Prerequisite: ARAB 0600 1 Course Unit",
+    "course-prerequsities": [
+      "ARAB 0600"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics are chosen to reflect student interest."
+      ]
+    }
+  },
+  {
+    "coursename": "ARAB 7030 Selected Topics in Arabic Literature",
+    "courseid": "ARAB 7030",
+    "coursedescription": "This is a survey of Arabic poetry from the Pre-Islamic era until today. Readings will be selected to trace major thematic and formal developments in Arabic poetry. Readings also include excerpts from modern critical scholarship on the topic in Arabic. The class aims to introduce students to the basics of academic research and writing in Arabic. The class is taught in MSA with oral presentations and writing assignments in MSA. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARAB 7100 The Adab Tradition",
+    "courseid": "ARAB 7100",
+    "coursedescription": "This is a survey of pre-modern Arabic prose. Selections will be made from major books of Adab, compilations of akhb r, the Qur n, the s rah, and critical treatise. Readings will be accompanied by excerpts from modern critical scholarship on the topic in Arabic. The class is taught in MSA with oral presentations and writing assignments in MSA. Not Offered Every Year Mutually Exclusive: ARAB 0700 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

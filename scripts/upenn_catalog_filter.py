@@ -8,25 +8,8 @@ Simple script that filters the data in the umass boston course catalog to have o
 
 import json
 
-DEFAULT_INPUT_FILE = "../data/UMB/UMASS_BOSTON_coursecatalogstructured.json"
-DEFAULT_OUTPUT_PATH = "../data/UMB/"
-
-def filter_cs_courses(input_file=DEFAULT_INPUT_FILE, output_file=DEFAULT_OUTPUT_PATH + "CS_courses.json"):
-    with open(input_file, 'r', encoding= "utf-8") as infile:
-        courses = json.load(infile)
-
-    cs_courses = []
-
-    for course in courses:
-        if not isinstance(course, dict):
-            continue
-        courseid = str(course.get("courseid", ""))
-
-        if courseid.startswith("CS") and not courseid.startswith("CSP"):
-            cs_courses.append(course)
-
-    with open(output_file, "w", encoding="utf-8") as outfile:
-        json.dump(cs_courses, outfile, indent=2, ensure_ascii= False)
+DEFAULT_INPUT_FILE = "../data/UPENN/UPENN_coursecatalogstructured.json"
+DEFAULT_OUTPUT_PATH = "../data/UPENN/"
 
 
 def filter_all_courses(input_file=DEFAULT_INPUT_FILE, output_path=DEFAULT_OUTPUT_PATH, dept_codes=[]):
@@ -38,7 +21,7 @@ def filter_all_courses(input_file=DEFAULT_INPUT_FILE, output_path=DEFAULT_OUTPUT
             if not isinstance(course, dict):
                 continue
             courseid = str(course.get("courseid", ""))
-            if courseid.startswith(dept) and not courseid.startswith("CSP"):
+            if courseid.startswith(dept):
                 dept_courses.append(course)
         if dept_courses:
             with open(output_path + f"{dept}_courses.json", "w", encoding="utf-8") as outfile:
@@ -48,7 +31,7 @@ def filter_all_courses(input_file=DEFAULT_INPUT_FILE, output_path=DEFAULT_OUTPUT
     
 
 
-def get_dept_codes(input_file=DEFAULT_INPUT_FILE, output_file=DEFAULT_OUTPUT_PATH + "UMASS_BOSTON_CS_courses.json"):
+def get_dept_codes(input_file=DEFAULT_INPUT_FILE):
     with open(input_file, 'r', encoding="utf-8") as infile:
         courses = json.load(infile)
     dept_codes = []

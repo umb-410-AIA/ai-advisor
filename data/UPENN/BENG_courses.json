@@ -1,0 +1,98 @@
+[
+  {
+    "coursename": "BENG 0100 Beginning Bengali Part I",
+    "courseid": "BENG 0100",
+    "coursedescription": "This course introduces students to colloquial Bengali. It gives equal emphasis to each of the four skills, reading, writing, listening, and speaking. Language will be studied in the context of socio-cultural aspects of West Bengal and Bangladesh. Besides lessons from the text, a major portion of the syllabus will be based on topics drawn from films, cultural events, festivals, food, and religion. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 0200 Beginning Bengali Part II",
+    "courseid": "BENG 0200",
+    "coursedescription": "This course introduces students to colloquial Bengali. It gives equal emphasis to each of the four skills, reading, writing, listening, and speaking. Language will be studied in the context of socio-cultural aspects of West Bengal and Bangladesh. Besides lessons from the text, a major portion of the syllabus will be based on topics drawn from films, cultural events, festivals, food, and religion. Spring Prerequisite: BENG 0100 OR BENG 5100 1 Course Unit",
+    "course-prerequsities": [
+      "BENG 0100",
+      "BENG 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 0300 Intermediate Bengali Part I",
+    "courseid": "BENG 0300",
+    "coursedescription": "This course develops the student's prior knowledge of Bengali. An attempt is made to gear the syllabus to meet the specific needs of students. The focus of the course is to develop the oral and aural skills of the learner as well as improve writing skills and reading strategies. Emphasis is also laid on increasing the sociolinguistic and strategic competence of the learners so that they will be able to function in the target culture. Besides discussions on various aspects of Bengali life, students read some short literary texts in the original Bengali version. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 0400 Intermediate Bengali Part II",
+    "courseid": "BENG 0400",
+    "coursedescription": "This course develops the student's prior knowledge of Bengali. An attempt is made to gear the syllabus to meet the specific needs of students. The focus of the course is to develop the oral and aural skills of the learner as well as improve writing skills and reading strategies. Emphasis is also laid on increasing the sociolinguistic and strategic competence of the learners so that they will be able to function in the target culture. Besides discussions on various aspects of Bengali life, students read some short literary texts in the original Bengali version. Spring Prerequisite: BENG 0300 OR BENG 5300 1 Course Unit",
+    "course-prerequsities": [
+      "BENG 0300",
+      "BENG 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 1500 Advanced Bengali",
+    "courseid": "BENG 1500",
+    "coursedescription": "The objective of this course is to develop the proficiency level of the students in all the four skills by using different genres of Bengali literature (West Bengal and Bangladesh) s its course content. Reading comprehension will be enhanced as students learn to understand authentic texts at the linguistic and cultural level while discussion (description, narration, supporting opinion) on issues related to these texts aim to hone the oral and written skills. Studentswill be allowed to work on individual texts & topics(with the instructors permission)for their final project. This is a one semester course. Spring: Bengali Popular Culture- This course aims to use as its content, different aspects of popular Bengali culture as they are represented in media (film, television, magazines, newspapers) and arts (fashion, local and regional art, music). Students will be expected to develop their linguistic skills (description, narration, supporting opinion) and socio-cultural awareness while interacting with these varied types of texts. Students will be allowed to work on individual texts & topics (with the instructors permission) for their final project. This is a one semester course. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Studentswill be allowed to work on individual texts & topics(with the instructors permission)for their final project.",
+        "Students will be allowed to work on individual texts & topics (with the instructors permission) for their final project."
+      ]
+    }
+  },
+  {
+    "coursename": "BENG 5100 Beginning Bengali Part I",
+    "courseid": "BENG 5100",
+    "coursedescription": "This course introduces students to colloquial Bengali. It gives equal emphasis to each of the four skills, reading, writing, listening, and speaking. Language will be studied in the context of socio-cultural aspects of West Bengal and Bangladesh. Besides lessons from the text, a major portion of the syllabus will be based on topics drawn from films, cultural events, festivals, food, and religion. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 5200 Beginning Bengali Part II",
+    "courseid": "BENG 5200",
+    "coursedescription": "This course introduces students to colloquial Bengali. It gives equal emphasis to each of the four skills, reading, writing, listening, and speaking. Language will be studied in the context of socio-cultural aspects of West Bengal and Bangladesh. Besides lessons from the text, a major portion of the syllabus will be based on topics drawn from films, cultural events, festivals, food, and religion. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 5300 Intermediate Bengali Part I",
+    "courseid": "BENG 5300",
+    "coursedescription": "This course develops the student's prior knowledge of Bengali. An attempt is made to gear the syllabus to meet the specific needs of students. The focus of the course is to develop the oral and aural skills of the learner as well as improve writing skills and reading strategies. Emphasis is also laid on increasing the sociolinguistic and strategic competence of the learners so that they will be able to function in the target culture. Besides discussions on various aspects of Bengali life, students read some short literary texts in the original Bengali version. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 5400 Intermediate Bengali Part II",
+    "courseid": "BENG 5400",
+    "coursedescription": "This course develops the student's prior knowledge of Bengali. An attempt is made to gear the syllabus to meet the specific needs of students. The focus of the course is to develop the oral and aural skills of the learner as well as improve writing skills and reading strategies. Emphasis is also laid on increasing the sociolinguistic and strategic competence of the learners so that they will be able to function in the target culture. Besides discussions on various aspects of Bengali life, students read some short literary texts in the original Bengali version. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 5500 Advanced Bengali",
+    "courseid": "BENG 5500",
+    "coursedescription": "The objective of this course is to develop the proficiency level of the students in all the four skills by using different genres of Bengali literature (West Bengal and Bangladesh) s its course content. Reading comprehension will be enhanced as students learn to understand authentic texts at the linguistic and cultural level while discussion (description, narration, supporting opinion) on issues related to these texts aim to hone the oral and written skills. Studentswill be allowed to work on individual texts & topics(with the instructors permission)for their final project. This is a one semester course. Spring: Bengali Popular Culture- This course aims to use as its content, different aspects of popular Bengali culture as they are represented in media (film, television, magazines, newspapers) and arts (fashion, local and regional art, music). Students will be expected to develop their linguistic skills (description, narration, supporting opinion) and socio-cultural awareness while interacting with these varied types of texts. Students will be allowed to work on individual texts & topics (with the instructors permission) for their final project. This is a one semester course. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Studentswill be allowed to work on individual texts & topics(with the instructors permission)for their final project.",
+        "Students will be allowed to work on individual texts & topics (with the instructors permission) for their final project."
+      ]
+    }
+  }
+]

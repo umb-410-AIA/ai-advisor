@@ -1,0 +1,58 @@
+[
+  {
+    "coursename": "IRIS 0100 Beginning Irish Gaelic I",
+    "courseid": "IRIS 0100",
+    "coursedescription": "Irish Gaelic, spoken primarily on the west coast of Ireland, is rich in oral traditions, song, poetry and literature. Knowledge of this language provides a foundation to understanding Celtic folklore and linguistics and also enhances the study of Anglo-Irish literature and history. The first-year course will include reading, conversation, listening and speaking. Two Term Class, Student may enter either term; credit given for either 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IRIS 0200 Beginning Irish Gaelic II",
+    "courseid": "IRIS 0200",
+    "coursedescription": "Irish Gaelic, spoken primarily on the west coast of Ireland, is rich in oral traditions, song, poetry and literature. Knowledge of this language provides a foundation to understanding Celtic folklore and linguistics and also enhances the study of Anglo-Irish literature and history. The first-year course will include reading, conversation, listening and speaking. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IRIS 0300 Intermediate Irish Gaelic I",
+    "courseid": "IRIS 0300",
+    "coursedescription": "The first part of a continuation of Elementary Irish Gaelic with increasing emphasis on the native idiom and literary forms. Drama texts and poetry will be used to supplement the grammar component and encourage oral proficiency, while simultaneously providing an understanding of the challenges faced by contemporary authors writing in Irish. Fall or Spring Prerequisite: IRIS 0200 1 Course Unit",
+    "course-prerequsities": [
+      "IRIS 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IRIS 0400 Intermediate Irish Gaelic II",
+    "courseid": "IRIS 0400",
+    "coursedescription": "The second part of a continuation of Elementary Irish Gaelic with increasing emphasis on the native idiom and literary forms. Drama texts and poetry will be used to supplement the grammar component and encourage oral proficiency, while simultaneously providing an understanding of the challenges faced by contemporary authors writing in Irish. Fall or Spring Prerequisite: IRIS 0300 1 Course Unit",
+    "course-prerequsities": [
+      "IRIS 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IRIS 1000 Advanced Irish Gaelic I",
+    "courseid": "IRIS 1000",
+    "coursedescription": "This course will emphasize reading of literary texts, and advanced aspects of grammar, composition, and conversation. Offered through the Penn Language Center. Fall or Spring Prerequisite: IRIS 0400 1 Course Unit",
+    "course-prerequsities": [
+      "IRIS 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IRIS 1200 Advanced Irish Gaelic II",
+    "courseid": "IRIS 1200",
+    "coursedescription": "This course will emphasize reading of literary texts, and advanced aspects of grammar, composition, and conversation. Fall or Spring Prerequisite: IRIS 1000 1 Course Unit",
+    "course-prerequsities": [
+      "IRIS 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

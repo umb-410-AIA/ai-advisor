@@ -1,0 +1,229 @@
+[
+  {
+    "coursename": "PHRM 4950 High Throughput Discovery: A Multidisciplinary Approach to Cancer",
+    "courseid": "PHRM 4950",
+    "coursedescription": "The newly developed massively parallel technologies have enabled the simultaneous analysis of many pathways. There are several large scale international efforts to probe the genetics and drug sensitivity of cancer cell lines. However, there are some rare cancers that have not been analyzed in depth. One of these rare cancers is malignant peripheral nerve sheet tumors (MPNST). MPNST, although a rare cancer, are common in patients with neurofibromatosis type. In the course, students will take part in a high throughput discovery effort in two phases. Phase 1 is a training phase, which will consist of quantitative profiling the sensitivity of MPNST cell lines to a library of >120 common and experimental cancer drugs. These will be conducted in the UPenn High Throughput Screening Core. (http://www.med.upenn.edu/cores/High-ThroughputScreeningCore.shtml). While we call this a training phase, the data from this will be subject to rigorous quality control for eventual publication and development of a public database for rare tumors. Phase 2 is an independent research project. Examples of projects include, but are not limited to: Combinatorial screens (synthetic lethal); siRNA screens; novel compound screens; determining mechanisms of cell death; developing tools for data analysis and database development. During phase 2, students will also modify compounds of interest using the Penn Chemistry: Upenn/Merck High Throughput Experimentation Laboratory (https://www.chem.upenn.edu/content/penn-chemistry-upennmerck-high-throughput-experimentation-laboratory), and then retest them for activity to determine structure activity relationships. We will sponsor phase 2 projects relevant to neurofibromatosis. However, in phase two students can also research other areas if they develop sponsorships from professors. We expect the course to be a hypothesis engine that generates ideas for further research. Prerequisites include a strong foundation in biology and chemistry. Students will prepare an abstract proposal by week three on their phase 2 project, and a report, in scientific paper style, due on the last day of the semester. Spring Also Offered As: CHEM 4950 1 Course Unit",
+    "course-prerequsities": [
+      "PHASE 2",
+      "CHEM 4950"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Examples of projects include, but are not limited to: Combinatorial screens (synthetic lethal); siRNA screens; novel compound screens; determining mechanisms of cell death; developing tools for data analysis and database development.",
+        "During phase 2, students will also modify compounds of interest using the Penn Chemistry: Upenn/Merck High Throughput Experimentation Laboratory (https://www.chem.upenn.edu/content/penn-chemistry-upennmerck-high-throughput-experimentation-laboratory), and then retest them for activity to determine structure activity relationships."
+      ]
+    }
+  },
+  {
+    "coursename": "PHRM 5100 Neurotransmitter Signaling & Neuropsychopharmacology",
+    "courseid": "PHRM 5100",
+    "coursedescription": "The goals of this course are three-fold: 1) Provide an overview of major psychiatric disorders. 2) Provide in-depth information on neurotransmitters, emphasizing the wealth of new molecular information on how neurons function and communicate, as well as the basis for psychotherapeutics (one class per week). 3) Develop skills to appreciate, present and critically evaluate the the current literature in neurotransmitter signaling and neuropsychopharmacology (one class per week). Prerequisite: Permission of course director Spring, even numbered years only Also Offered As: NGG 5100 1 Course Unit",
+    "course-prerequsities": [
+      "NGG 5100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of course director Spring, even numbered years only Also Offered As: NGG 5100 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "PHRM 5320 Human Physiology",
+    "courseid": "PHRM 5320",
+    "coursedescription": "This course will present a survey of the physiology of most of the major organ systems. It will integrate knowledge of cellular and molecular mechanisms into an understanding of function at the tissue, organ, and organism levels. It will begin with a brief review of membrane physiology, followed by electrophysiology and signaling in nerve. Then, after a brief outline of neural control systems and their role in homeostasis, it will present motility and muscle, the cardiovascular system, respiration, the renal and gastrointestinal systems, and selected topics from the endocrine system, the reproductive systems, environmental and exercise physiology. As well as providing a basis of integrative physiology for students in fields such as physiology, bioengineering and pharmacology, it should be of interest to students of cellular and molecular biology and genetic engineering who will need to appreciate the roles of specific systems and molecules at higher levels of organization. Prerequisite: Although not a formal prerequisite, a good foundation in cell bio level of BIOM/CAMB 6000 (or an equivalent upper level undergraduate strongly recommended. A general understanding of the chemistry a biochemistry of macromolecules, and of basic molecular biology is assumed. This course is primarily designed for 2nd year BGS students in BGS or other programs will require the permission instructor. This course is not open to undergraduates. Spring Also Offered As: CAMB 5320 1 Course Unit",
+    "course-prerequsities": [
+      "CAMB 6000",
+      "CAMB 5320"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As well as providing a basis of integrative physiology for students in fields such as physiology, bioengineering and pharmacology, it should be of interest to students of cellular and molecular biology and genetic engineering who will need to appreciate the roles of specific systems and molecules at higher levels of organization.",
+        "Prerequisite: Although not a formal prerequisite, a good foundation in cell bio level of BIOM/CAMB 6000 (or an equivalent upper level undergraduate strongly recommended.",
+        "This course is primarily designed for 2nd year BGS students in BGS or other programs will require the permission instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHRM 5340 Experimental Genome Science",
+    "courseid": "PHRM 5340",
+    "coursedescription": "This course will survey methods and questions in experimental genomics, including next generation sequencing methods, genomic sequencing in humans and model organisms, functional genomics, proteomics, and applications of genomics methods. Students will be expected to review and discuss current literature and to propose new experiments based on material learned in the course. Prerequisite: Undergraduates and Masters students need BIOL 431. Also Offered As: GCB 5340 Prerequisite: BIOL 4231 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 431",
+      "GCB 5340",
+      "BIOL 4231"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHRM 5350 Advanced Epigenetics Technology",
+    "courseid": "PHRM 5350",
+    "coursedescription": "Second year students in GCB, CAMB (G&E), or IGG programs using genomics methods to measure transcriptomics and epigenomics changes in their experimental systems. The goal is to familiarize students with the latest cutting-edge genomics tools and cover solutions to major experimental and computational challenges in the investigation of genome-wide epigenetic data sets. Students will develop competence in (i) variations of experimental techniques improving resolution and throughout, (ii) issues related to the computational analyses closely related to the various genome-wide assays used to probe epigenetic processes and signals, (iii) computational approaches useful to overcome pitfalls associated to the analysis of a given epigenetic data modality, (iv) methods, techniques and studies on the integration of multi-layer epigenetic data sets. Spring Also Offered As: CAMB 5770 , GCB 5770 , MTR 5350 Prerequisite: ( BIOL 4234 OR BIOL 4244 ) AND GCB 5340 AND (GCB 5350 OR GCB 5360 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 4234",
+      "BIOL 4244",
+      "GCB 5340",
+      "GCB 5350",
+      "GCB 5360"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHRM 5420 Topics in Molecular Medicine",
+    "courseid": "PHRM 5420",
+    "coursedescription": "TiMM is planned as a once-weekly seminar course whose goal is to introduce students to the ways in which biomedical research can provide new insights into clinical medicine and, conversely, how knowledge of clinical disease impacts scientific discovery. There are two sections for the course -- 401 and 402. Section 401 is for first year MD/PhD students only and section 402 is for VMD/PhD and PhD students. Fall Also Offered As: CAMB 5420 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHRM 5640 Drug Delivery Systems: Targeted Therapeutics and Translational Nanomedicine",
+    "courseid": "PHRM 5640",
+    "coursedescription": "The topics include the need for new drug delivery systems (DDS), advantages and applications of biotherapeutic drugs, routes for drug transport in the body, pharmacokinetics and biodistribution, nanocarriers as DDS, targeted drug delivery, challenges with developing new DDS, and translational aspects of new DDS. Directors of the course are Miriam Wattenbarger and Vladimir Muzykantov (Pharmacology). In addition to lectures from the course directors, faculty from engineering and medicine will give guest lectures related to their research interests. The students read current journal articles on DDS. The major group assignment for the course is a written and oral group proposal on a new drug delivery system. Technical communication skills and working with students from different disciplines are an important aspects of the course. Spring Also Offered As: CBE 5640 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to lectures from the course directors, faculty from engineering and medicine will give guest lectures related to their research interests."
+      ]
+    }
+  },
+  {
+    "coursename": "PHRM 5700 Principles of Cardiovascular Biology: Vascular biology, medicine and engineering",
+    "courseid": "PHRM 5700",
+    "coursedescription": "Lectures to be presented by various Medical School faculty members. Topics covered include: general principles of vascular biology and hemodynamics, endothelial cells and integral vascular functions, signaling in the cardiovascular system, angiogenesis, hemostasis and thrombosis, platelets, platelet/vascular interactions, vascular integrins and adhesion molecules, vascular inflammation and oxidative stress, white blood cells, vasoactive compounds and drugs, mechanisms of atherosclerosis, cholesterol and lipid metabolism, hypertension, novel vascular directed gene and enzyme therapies. Permission of course director required to enroll. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of course director required to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "PHRM 5800 Pharmacogenetics",
+    "courseid": "PHRM 5800",
+    "coursedescription": "This is a \"literature-based\" course (i.e. a seminar course/literature survey). It will survey the emerging technologies and computational advances that have permitted the field of Pharmacogenomics to mature into a major biomedical discipline over the past few years. It will consider the likely impact on disease target identification; the development of new drugs for established and \"niche\" markets; the advent of \"personalized medicine\" including the selection of therapies that have maximum efficacy and minimum side-effect profiles. This course will also touch on some of the ethical issues associated with the routine genetic testing of patients to facilitate treatment choices and clinical monitoring. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHRM 5900 Molecular Toxicology: Chemical and Biological Mechanisms",
+    "courseid": "PHRM 5900",
+    "coursedescription": "Course Goals: Exposures to foreign compounds (drugs, carcinogens, and pollutants) can disrupt normal cellular processes leading to toxicity. This course will focus on the molecular mechanisms by which environmental exposures lead to end-organ injury and to diseases of environmental etiology (neurodegenerative and lung diseases, reproduction disruption and cardiovascular injury). Students will learn the difficulties in modeling response to low-dose chronic exposures, how these exposures are influenced by metabolism and disposition, and how reactive intermediates alter the function of biomolecules. Mechanisms responsible for cellular damage, aberrant repair, and end-organ injury will be discussed. Students will learn about modern predictive molecular toxicology to classify toxicants, predict individual susceptibility and response to environmental triggers, and how to develop and validate biomarkers for diseases of environmental etiology. Students are expected to write a term paper on risk assessment on an environmental exposure using available TOXNET information. Pre-requisites: Must have taken or will take Fundamentals of Pharmacology concurrently. Undergraduate course work in biochemistry and chemistry essential. Exceptions allowed based on past course work. Please consult with students with required prerequisites; residents in in Environmental and Occupational Health, and professional masters students (MPH and MTR). Spring Also Offered As: REG 5900 1 Course Unit",
+    "course-prerequsities": [
+      "REG 5900"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHRM 5990 Pharmacology Gradute Group Journal Club",
+    "courseid": "PHRM 5990",
+    "coursedescription": "The major goals of this journal club are 1) to gain experience presenting recent original research articles from the primary scientific literature, and 2) to learn to critically evaluate the research contained in these articles with respect to their context, documentation, authentication, presentation, scientific rigor, reproducibility, inferences, and any other factors that contribute to the quality of the research and its communication. This class is open ONLY to students in the Pharmacology Graduate Group Two Term Class, Student may enter either term; credit given for either",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "PHRM 6230 Fundamentals of Pharmacology",
+    "courseid": "PHRM 6230",
+    "coursedescription": "This course is designed to introduce students to basic pharmacological concepts with special emphasis on the molecular actions of drugs. Subject matter includes use of microcomputers to analyze pharmacological data. Only open to students in the Pharmacology Graduate Group. Fall Also Offered As: REG 6230 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHRM 6240 Medical Pharmacology",
+    "courseid": "PHRM 6240",
+    "coursedescription": "This course surveys the major classes of drugs used to treat human conditions, and focuses in the detail on their molecular mechanisms of action. It consistsof two 2-hour lectures per week and problem sets. Student evaluation is based 50% on exams and 50% on problem sets. PHRM 624 is required of all 2nd year PGG students. PGG students must co-enroll in PHRM 532/CAMB 532 (Human Physiology). Prerequisite: Non-PGG students must have permission from course director to enroll. Prerequisite: PHRM 6230 AND BIOM 6000",
+    "course-prerequsities": [
+      "PHRM 6230",
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units",
+      "notes": [
+        "Prerequisite: Non-PGG students must have permission from course director to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "PHRM 6320 Cell Control by Signal Transduction Pathways",
+    "courseid": "PHRM 6320",
+    "coursedescription": "This course, \"Targeting the cancer cell: from mechanism to precision medicine\", will examine how various signal transduction mechanisms influence cell functions including replication, growth, transcription, translation and intracellular trafficking. We will also consider how non-cell autonomous mechanisms, such as the tumor microenvironment and the immune system influence cancer cell signaling. We will consider how important signaling pathways, such as Ras, Raf, Notch, Wnt, TGF beta, and various kinases/phosphatases become dysregulated in cancer, as well as delve into how the DNA damage response, immune system, and tumor microenvironment exert important influences on oncogenic signaling. In the first half of the course, invited faculty members will pick 2 relatively recent papers from their field that highlight important areas. Each paper will be assigned to a student, who will meet with the faculty mentor prior to the class to discuss the paper and their presentation. During the class, students will present each paper for approximately 45 minutes with time for discussion. Students will present the important background, break down the paper, look for strengths and weakness and come up with a plan of what the next set of experiments could or should be. In the second half of the course, students will independently pick a relevant paper for in class presentation and will also write a short \"News and Views\" style article based on the paper they have chosen. The goal of the course is to provide students with a view of the cancer cell that integrates both cell autonomous and non-cell autonomous signals and to use this information to consider how to successfully treat cancer. Spring Also Offered As: CAMB 6320 , NGG 6150 Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHRM 6570 Introduction to Superfund Sites and Health Effects of Hazardous Waste",
+    "courseid": "PHRM 6570",
+    "coursedescription": "Superfund hazardous waste sites are prevalent in our nation and the exposures to toxicants from these sites raise immediate health concerns. The aims of this course are to educate students about such sites and provide a scientific basis for hazard identification, hazard characterization, risk communication and risk management. The course will describe the effect of these hazardous chemicals on the ecosystem and vice-versa, and remediation and mitigation approaches. These environmental science issues will lead into the environmental health aspects of expsures including: biomonitoring (external and internal dose, biomarkers and the exposome), toxicological properties of contaminants and mode-of-action. The course will be complemented with visits to two Superfund sites in the region: Ambler (asbestos) and Palmerton (heavy metals). Prerequisite: 400 level course in Biology/Chemistry and Biochemistry Also Offered As: ENVS 6570 1 Course Unit",
+    "course-prerequsities": [
+      "ENVS 6570"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHRM 6990 Laboratory Rotation",
+    "courseid": "PHRM 6990",
+    "coursedescription": "Lab rotation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-3 Course Units"
+    }
+  },
+  {
+    "coursename": "PHRM 7990 Independent Study",
+    "courseid": "PHRM 7990",
+    "coursedescription": "Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-4 Course Units"
+    }
+  },
+  {
+    "coursename": "PHRM 8990 Pre-Dissert Lab Rotation",
+    "courseid": "PHRM 8990",
+    "coursedescription": "Pre-dissertation research lab rotation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-4 Course Units"
+    }
+  },
+  {
+    "coursename": "PHRM 9700 Candidacy Examination",
+    "courseid": "PHRM 9700",
+    "coursedescription": "Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "PHRM 9950 Dissertation",
+    "courseid": "PHRM 9950",
+    "coursedescription": "Ph.D. students enroll in this course after passing their candidacy exam. They work on their dissertation full-time under the guidance of their dissertation supervisor and other members of their dissertation committee.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "coursename": "CAMB 4310 Genome Science and Genomic Medicine",
+    "courseid": "CAMB 4310",
+    "coursedescription": "This course will be a focused study of genomes, genomic techniques, and how these approaches are and will be used in diagnosing and treating human disease. Topics will include genome sequencing, analysis of sequences and microarrays, and new techniques including high-throughput sequencing and reverse genetic analysis with a focus on genome-wide mutant collections. Spring Also Offered As: BIOL 4231 Mutually Exclusive: BIOL 5231 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 4800 Advanced Cell Biology",
+    "courseid": "CAMB 4800",
+    "coursedescription": "This course is designed for beginning graduate students and advanced undergraduates with a particular enthusiasm for cell biology. Biology 4010 does not attempt to cover all aspects of cell biology, and is therefore not appropriate for students seeking a lecture course which provides a comprehensive survey of the field. Rather, the primary objective of this course is to teach those students considering a career in the biomedical sciences how to read, discuss, and question original research papers effectively. Intensive classroom discussions focus on the experimental methods used, results obtained, interpretation of these results in the context of cell structure and function, and implications for further studies. Spring Also Offered As: BIOL 4010 Mutually Exclusive: BIOL 5010 Prerequisite: BIOL 2001 OR BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2001",
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 4830 Epigenetics",
+    "courseid": "CAMB 4830",
+    "coursedescription": "This course investigates epigenetic phenomena: heritable alternate states of gene activity that do not result from an alteration in nucleotide composition (mutations). Epigenetic mechanisms regulate genome accessibility and cell differentiation. They play a key role in normal development and in oncogenesis. For example both mammalian X-chromosome inactivation and nuclear transfer (cloning) are subject to epigenetic regulation. Amongst the epigenetic mechanisms we will discuss in this course are chromatin organization, histone modification, DNA methylation and non-coding RNAs. The course is geared toward advanced undergraduate and beginning graduate students and is a combination of lectures, student presentations and research presentations by guest speakers. Students will work with the current scientific literature. Spring Also Offered As: BIOL 4234 Mutually Exclusive: BIOL 5234 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 4850 The RNA World: A functional and computational analysis",
+    "courseid": "CAMB 4850",
+    "coursedescription": "A focused study of genomic, biochemical, cellular, and molecular aspects of RNA. Topics of study will include RNA structure, RNA processing and turnover, splicing, ribozymes and riboswitches, RNA editing and modification, RNA interference, endogenous eukaryotic RNA silencing pathways, small RNA biology, computational methodologies for studying RNA biology, and RNA viruses. Lectures, students presentations, and discussions will be based on readings from the primary literature. Spring, even numbered years only Also Offered As: BIOL 4235 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 4860 Chromosomes and the Cell Cycle",
+    "courseid": "CAMB 4860",
+    "coursedescription": "Life depends on the propagation of genetic material from one generation to next through cycles of genome replication and cell division. We will focus on chromosomes as discrete entities, rather than collections of genes, that are inherited between cell cycles and across generations. By reading selected primary literature covering several decades, we will build an understanding based on key experiments and insights, focusing on chromosomes and their associated molecular machinery. Topics may include kinetochores and microtubule dynamics, centromeres, the mitotic checkpoint, chromosomal instability and cancer, genetic conflict, chromosome evolution, and artificial chromosomes. Spring Also Offered As: BIOL 4026 Mutually Exclusive: BIOL 5026 Prerequisite: BIOL 2010 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 4930 Epigenetics of Human Health and Disease",
+    "courseid": "CAMB 4930",
+    "coursedescription": "Epigenetic alterations encompass heritable, non-genetic changes to chromatin (the polymer of DNA plus histone proteins) that influence cellular and organismal processes. This course will examine epigenetic mechanisms in directing development from the earliest stages of growth, and in maintaining normal cellular homeostasis during life. We will also explore how diverse epigenetic processes are at the heart of numerous human disease states. We will review topics ranging from an historical perspective of the discovery of epigenetic mechanisms to the use of modern technology and drug development to target epigenetic mechanisms to increase healthy lifespan and combat human disease. The course will involve a combination of didactic lectures, primary scientific literature and research lectures, and student-led presentations. Spring, odd numbered years only Also Offered As: BIOL 4244 , GCB 4930 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5010 Topics in Cancer Biology",
+    "courseid": "CAMB 5010",
+    "coursedescription": "Topics in Cancer Biology - more to come. Placeholder course for now 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5020 Topics in Developmental, Stem Cell and Regenerative Biology",
+    "courseid": "CAMB 5020",
+    "coursedescription": "Topics in Developmental, Stem Cell and Regenerative Biology 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5030 Topics in Genetics and Epidemiology",
+    "courseid": "CAMB 5030",
+    "coursedescription": "Topics in Genetics and Epidemiology - more to come. Placeholder course for now. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5040 Topics in Gene Therapy and Vaccines",
+    "courseid": "CAMB 5040",
+    "coursedescription": "TBD - placeholding the course for now 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5050 Topics in Cell and Molecular Biology",
+    "courseid": "CAMB 5050",
+    "coursedescription": "Topics in Cell and Molecular Biology 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5060 Topics in Microbiology, Virology and Parasitology",
+    "courseid": "CAMB 5060",
+    "coursedescription": "Topics in Microbiology, Virology and Parasitology. More info TBD, course is a placeholder for now. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5070 Topics in Physiology, Metabolism and Cell Biology",
+    "courseid": "CAMB 5070",
+    "coursedescription": "Topics in Physiology, Metabolism and Cell Biology. This course will be better defined later. Right now using this as placeholder since we need to get this info in the system by February 20 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5080 Topics in Quantitative Training",
+    "courseid": "CAMB 5080",
+    "coursedescription": "Topics in Quantitative Training. This course will be better defined later. Right now using this as placeholder since we need to get this info in the system by February 20 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5100 Immunology for CAMB",
+    "courseid": "CAMB 5100",
+    "coursedescription": "The purpose of this course is to provide Cell and Molecular Biology (CAMB) graduate students with an understanding of fundamental principles and emerging concepts of immunology and the manipulation of these mechanisms to develop/improve vaccines or therapeutics for infections or diseases. This course is required for students in the Microbiology, Virology and Parasitology or Vaccine and Gene Therapy programs, and offered as an elective for other CAMB students. The course directors will consider requests from other BGS students that might want to register for the course. The course is comprised of two 1.5-hour lectures each week, although some weeks might include a potential review session. Spring Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5110 Principles of Development",
+    "courseid": "CAMB 5110",
+    "coursedescription": "This graduate course, which will include lectures and readings from the literature, is designed to provide a foundation in the principles of developmental biology. Topics covered will include: the germ line and piRNA, signaling pathways in development, pattern formation and cell specification, gastrulation, tissue differentiation, morphogenesis, cell polarity, epigenetics in development, organogenesis, stem cell biology, regeneration, and developmental evolution. The use of molecular biology, biochemistry, genomics and genetics, cell biology, and embryological manipulations will be discussed in the context of the analysis of developmental mechanisms. Undergraduate background in cell biology and molecular biology required. Non-BGS students require permission from course director to enroll. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Non-BGS students require permission from course director to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 5120 Cancer Biology and Genetics",
+    "courseid": "CAMB 5120",
+    "coursedescription": "Two Term Class, Student must enter first term; credit given after both terms are complete",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "The course objective is to introduce the students to important and current concepts in Cancer Biology and Cancer Genetics. The lectures are organized into 4 broad thematic groups: A) Cancer Biology, B) Genome Integrity, C) Cancer Genomics, D) Stress Responses, E) Tumor microenvironment, and F) Cancer Treatment. The organizers, along with faculty from the School of Medicine, the Wistar Institute, and CHOP, with expertise in the corresponding areas provide lectures for the course. The students are expected to present and participate in discussions of one or more key recent papers. This is a year-long course. Non-CAMB students must contact the course director prior to registration. This course is not for undergraduate students. Two-Term Class; Students must have taken the fall CAMB 5120 course to participate in the spring semester; credit is given after both terms are complete 0.5 Course Units 0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CAMB 5180 Current Topics in Ion Channels",
+    "courseid": "CAMB 5180",
+    "coursedescription": "The course is a seminar format, specifically a journal club format, targeted to graduate students and MD/PhD students interested in ion channels. It meets for one hour, once a week for graduate students and once every other week for the entire group with formal presentation. On alternate weeks a faculty member meets with students to discuss and review the contents of each selected article for the subsequent week's presentation. This is an elective course meant to excite and intellectually enlighten students regarding the latest advances in ion channel research. It includes a wide range of ion channel topics from basic biophysics, structure, and physiology to cell biology and clinical applications. It is attended by faculty, students, and postdocs from the departments of Physiology, Pathology, Neuroscience, Pharmacology, Biochemistry & Biophysics, Psychiatry. We require a written critique of each paper presented by other participants during the semester, submitted prior to the formal presentation of the paper. This critique will be graded by a faculty member, as will the student's participation in both the preparatory sessions and formal presentation sessions. A final grade would be based on both of these components. Fall or Spring Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is a seminar format, specifically a journal club format, targeted to graduate students and MD/PhD students interested in ion channels."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 5220 Human Evolutionary Genomics",
+    "courseid": "CAMB 5220",
+    "coursedescription": "Advanced seminar on current topics in human genomics and human evolution. Topics include the methods used for mapping and sequencing genomes; phylogenetic and population genetic analysis; and detecting variation in the human genome. This course is designed for graduate students but advanced undergraduates with a strong background in genetics are also welcome. Spring, even numbered years only Also Offered As: BIOL 5220 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5300 The Cell Cycle, Genome Integrity and Cancer",
+    "courseid": "CAMB 5300",
+    "coursedescription": "This seminar course focuses on molecular and biochemical events that regulate cell cycle progression and genome maintenance, and explores how these processes influence cancer etiology and treatment. Specific topics will familiarize students with the key principles and recent developments within these areas. These topics include CDK-Cyclins and their inhibitors, regulation of G1-S and G2-M phase cell cycle transitions, DNA damage checkpoints and repair, the impact of chromatin regulation on DNA repair, and how each of these processes affects cancer etiology and treatment. In depth reading and evaluation of research literature will be primarily used to accomplish these aims, as well as provide instruction on rigorous experimental design and data interpretation. If course requirements not met, permission of instructor required. Preferential registration of Cancer Biology and CAMB students up to the maximum of 12 students applies. Permission to register is required upon exceeding the 12 student limit. Fall Prerequisite: BIOM 5550 AND BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 5550",
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "If course requirements not met, permission of instructor required.",
+        "Permission to register is required upon exceeding the 12 student limit."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 5320 Human Physiology",
+    "courseid": "CAMB 5320",
+    "coursedescription": "This course will present a survey of the physiology of most of the major organ systems. It will integrate knowledge of cellular and molecular mechanisms into an understanding of function at the tissue, organ, and organism levels. It will begin with a brief review of membrane physiology, followed by electrophysiology and signaling in nerve. Then, after a brief outline of neural control systems and their role in homeostasis, it will present motility and muscle, the cardiovascular system, respiration, the renal and gastrointestinal systems, and selected topics from the endocrine system, the reproductive systems, environmental and exercise physiology. As well as providing a basis of integrative physiology for students in fields such as physiology, bioengineering and pharmacology, it should be of interest to students of cellular and molecular biology and genetic engineering who will need to appreciate the roles of specific systems and molecules at higher levels of organization. Prerequisite: Although not a formal prerequisite, a good foundation in cell bio level of BIOM/CAMB 6000 (or an equivalent upper level undergraduate strongly recommended. A general understanding of the chemistry a biochemistry of macromolecules, and of basic molecular biology is assumed. This course is primarily designed for 2nd year BGS students in BGS or other programs will require the permission instructor. This course is not open to undergraduates. Spring Also Offered As: PHRM 5320 1 Course Unit",
+    "course-prerequsities": [
+      "CAMB 6000",
+      "PHRM 5320"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As well as providing a basis of integrative physiology for students in fields such as physiology, bioengineering and pharmacology, it should be of interest to students of cellular and molecular biology and genetic engineering who will need to appreciate the roles of specific systems and molecules at higher levels of organization.",
+        "Prerequisite: Although not a formal prerequisite, a good foundation in cell bio level of BIOM/CAMB 6000 (or an equivalent upper level undergraduate strongly recommended.",
+        "This course is primarily designed for 2nd year BGS students in BGS or other programs will require the permission instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 5340 Seminar on current genetic research: Human Disease Modeling in Experimental Sys",
+    "courseid": "CAMB 5340",
+    "coursedescription": "An advanced seminar course emphasizing genetic research in model organisms and how it informs modern medicine. Each week a student will present background on a specific human disease. This is followed by an intense discussion by the entire class of 2 recent papers in which model organisms have been used to address the disease mechanism and/or treatment. As a final assignment, students will have the opportunity to write, edit, and publish a \"News & Views\" style article in the journal \"Disease Models and Mechanisms\". Offered spring semester. Prerequisite: If course requirements not met, permission of instructor required. Spring Also Offered As: NGG 5340 Prerequisite: CAMB 5420 OR CAMB 6050 1 Course Unit",
+    "course-prerequsities": [
+      "NGG 5340",
+      "CAMB 5420",
+      "CAMB 6050"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirements not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 5420 Topics in Molecular Medicine",
+    "courseid": "CAMB 5420",
+    "coursedescription": "TiMM is planned as a once-weekly seminar course whose goal is to introduce students to the ways in which biomedical research can provide new insights into clinical medicine and, conversely, how knowledge of clinical disease impacts scientific discovery. There are two sections for the course -- 401 and 402. Section 401 is for first year MD/PhD students only and section 402 is for VMD/PhD and PhD students. Fall Also Offered As: PHRM 5420 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5500 Genetic Principles",
+    "courseid": "CAMB 5500",
+    "coursedescription": "This is a required course of the Genetics and Epigenetics Program and is designed to provide students with a comprehensive overview of genetic concepts and methodology. The course is organized into two parts: I Fundamental genetic concepts and tools (with focus on model organisms); II Human genetics and disease. Each week there will be two lectures and one associated discussion/problem-solving session. Discussions emphasize practical aspects of generating and interpreting genetic data. Offered spring semester. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5770 Advanced Epigenetics Technology",
+    "courseid": "CAMB 5770",
+    "coursedescription": "Second year students in GCB, CAMB (G&E), or IGG programs using genomics methods to measure transcriptomics and epigenomics changes in their experimental systems. The goal is to familiarize students with the latest cutting-edge genomics tools and cover solutions to major experimental and computational challenges in the investigation of genome-wide epigenetic data sets. Students will develop competence in (i) variations of experimental techniques improving resolution and throughout, (ii) issues related to the computational analyses closely related to the various genome-wide assays used to probe epigenetic processes and signals, (iii) computational approaches useful to overcome pitfalls associated to the analysis of a given epigenetic data modality, (iv) methods, techniques and studies on the integration of multi-layer epigenetic data sets. Spring Also Offered As: GCB 5770 , MTR 5350 , PHRM 5350 Prerequisite: ( BIOL 4234 OR BIOL 4244 ) AND GCB 5340 AND (GCB 5350 OR GCB 5360 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 4234",
+      "BIOL 4244",
+      "GCB 5340",
+      "GCB 5350",
+      "GCB 5360"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 5970 Neural Development, Regeneration and Repair",
+    "courseid": "CAMB 5970",
+    "coursedescription": "General Description: The goals of this course are to examine the principles underlying the nervous system development and to learn how understanding developmental mechanisms can inform strategies to promote regeneration and repair. This is not a survey course. Rather, the course will focus on selected topics, for which we will discuss the genetic, molecular and cellular strategies employed to study these problems in different model organisms. Emphasis is on how to interpret and critically evaluate experimental data. Students who are not in one of the BGS graduate programs need instructor permission to enroll. Fall Also Offered As: NGG 5970 Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students who are not in one of the BGS graduate programs need instructor permission to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 6050 CAMB First Year Seminar",
+    "courseid": "CAMB 6050",
+    "coursedescription": "Topics are selected by course instructors and student participants. Course instructors vary yearly. The goal of this course is to provide students with an opportunity to analyze, present, and discuss significant research papers in the field of cell and molecular biology in small group settings. The sections are taught by faculty from the different programs within the Graduate Group. This is a required course for CAMB PhD students. Other BGS students are eligible, space permitting. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 6080 Regulation of Eukaryotic Gene Transcription",
+    "courseid": "CAMB 6080",
+    "coursedescription": "An advanced seminar course emphasizing current topics in gene regulatory mechanisms in eukaryotes. Based on the current literature, presentations and in depth discussions will familiarize the student with recent innovations and developing principles of genome regulation. Students are expected to bring their laptops to class. Non-CAMB students need approval from course directors. MD/PhD students do not need to take BIOM 5550 as prerequisite. Spring Prerequisite: BIOM 5550 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 5550"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 6090 Vaccines and Immune Therapeutics",
+    "courseid": "CAMB 6090",
+    "coursedescription": "Vaccination is perhaps the most successful medical technological intervention. The goal of this course is to expand on students' general understanding of the immune system and to focus this understanding towards the application of modern vaccines and immune therapies in the 21st century. The course will provide the student with a sense of how these principles are applied to a vaccine and immune therapeutic development. The course covers basic vaccine science and describes how this science is translated through clinical, regulatory, ethical, and political issues to result in a final vaccine product. The courses' goal is to leave the student with an understanding of the implications of modern vaccines /immunotherapies and their impact on world health. Initial lectures review immune mechanisms believed to be responsible for vaccine-induced protection from disease. Subsequent lectures build on this background to explore the science of vaccines for diverse pathogens, including agents of bioterrorism, as well as vaccines and immunotherapies for cancer. An appreciation for the application of laboratory science to the clinical development and clinical trials of vaccines are provided. An important focus on the regulatory, safety, and ethical implications of vaccines in different world situations based on true world examples are presented. The financial implications of specific vaccines with these implications for global health is a focus of the course. The course is presented in a lecture-style consisting of multiple distinguished guest lecturers who are experts in their particular area of vaccine development. There are required readings to provide the student context and background for the diverse lectures. Students are graded on course participation and a final project/exam which the students will present. The project is to design a vaccine strategy for a current disease or pathogen of importance that does not as yet have an effective vaccine or immune therapy and present this to the class. Strategies used should build on the material presented in the class lectures. The course is intended for graduate students or medical students in various MS, Ph.D., or MD/Ph.D. programs on the campus, as well as local scientists and professionals in the community. As a prerequisite, students should have taken biology, biochemistry, or immunology courses at the advanced college level. This course is offered in the fall semester. Prerequisite: Biology, Biochemistry at the advanced college level, college-level immunology is recommended. Not limited to CAMB students, however first options are to CAMB students, the permission of the Fall Also Offered As: IMUN 6090 1 Course Unit",
+    "course-prerequsities": [
+      "IMUN 6090"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Biology, Biochemistry at the advanced college level, college-level immunology is recommended.",
+        "Not limited to CAMB students, however first options are to CAMB students, the permission of the Fall Also Offered As: IMUN 6090 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 6100 Molecular Basis of Genetic Therapies",
+    "courseid": "CAMB 6100",
+    "coursedescription": "This course focuses on the basic science relevant to achieving efficient and effective gene transfer and genome editing in animal models and humans for the treatment of disease. The course includes units devoted to a variety of vectors useful for gene transfer, the fundamentals of genome editing, and current therapeutic approaches using specific diseases as models. Prior background in biochemistry, cell biology, and molecular biology is essential. Aspects of organ system anatomy and physiology, virology, and immunology that are relevant to the course material are included in the course. Because of rapid movement in this field, specific topics vary somewhat from year to year. Prerequisite: Required for all CAMB-GTV students. Non-CAMB students are not able to take this course, given the limited enrollment. CAMB students not in the GTV program must obtain instructor permission to take this course. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "CAMB students not in the GTV program must obtain instructor permission to take this course."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 6150 Protein Conformation Diseases",
+    "courseid": "CAMB 6150",
+    "coursedescription": "Protein misfolding and aggregation has been associated with over 40 human diseases, including Alzheimer's disease, Parkinsons disease, amytrophic lateral sclerosis, prion diseases, alpha (1)-antitrypsin deficiency, inclusion body myopathy, and systemic amyloidoses. This course will include lectures, directed readings and student presentations to cover seminal and current papers on the cell biology of protein conformational diseases including topics such as protein folding and misfolding, protein degradation pathways, effects of protein aggregation on cell function, model systems to study protein aggregation and novel approaches to prevent protein aggregation. Target audience is primarily 1st year CAMB, other BGS graduate students, or students interested in acquiring a cell biological perspective on the topic. MD/PhDs and Postdoc are welcome. MS and undergraduate students must obtain permission from course directors. Class size is limited to 14 students. Fall Also Offered As: BBCB 5180 , BMB 5180 Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Target audience is primarily 1st year CAMB, other BGS graduate students, or students interested in acquiring a cell biological perspective on the topic.",
+        "MS and undergraduate students must obtain permission from course directors.",
+        "Class size is limited to 14 students."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 6170 Emerging Infectious Diseases",
+    "courseid": "CAMB 6170",
+    "coursedescription": "A physician from just 25 years ago would not recognize two of today's most pressing public health problems, AIDS and Hepatitis C, nor be familiar with many other infectious diseases or agents including MERS, Ebola virus, Hantaanvirus, HTLV-1, HHV-8 and Borrelia burgdorferi. Such a physician might also be dismayed to learn that old enemies such as tuberculosis, malaria, diphtheria, West Nile virus, meningococcal meningitis, Yellow fever, and Dengue have become more (or rather less) prevalent due to antibiotic resistance and other factors. In addition, bioterrorism, long a theoretical possibility, is now part of today's reality and could result in the deliberate introduction of anthrax or other biological agents into the civilian population or the food supply. Thus, with the beginning of the new millennium, the medical profession, the veterinary profession, and the biomedical research establishment are faced with the triple-threat of emerging infectious diseases, reemerging infectious diseases, and bioterrorism. These topics are covered in this course, with an emphasis on student's participation in the discussion. Course open to graduate students only. Other students may petition the course director for permission to enroll. Emerging Infectious Diseases will cover emerging viral, bacterial and parasitic organisms, with lectures being given by faculty from the Schools of Medicine, Veterinary Medicine, Dental Medicine, and Arts and Sciences, and outside lecturers. Epidemiology, immune responses to infection, vaccine and antimicrobial agents, and pathogenesis all will be discussed. The course format will include short lectures by various faculty members to provide background information on each topic, followed by extensive discussion by students. Classes will run from 10am to 11:30AM on Mondays and Wednesdays in Johnson 207. Evaluation will be based on presentations of a research manuscript from the literature and participation in discussion sessions. Prerequisite: BIOM 6000 AND CAMB 7060 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000",
+      "CAMB 7060"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Other students may petition the course director for permission to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 6320 Cell Control by Signal Transduction Pathways",
+    "courseid": "CAMB 6320",
+    "coursedescription": "This course, \"Targeting the cancer cell: from mechanism to precision medicine\", will examine how various signal transduction mechanisms influence cell functions including replication, growth, transcription, translation and intracellular trafficking. We will also consider how non-cell autonomous mechanisms, such as the tumor microenvironment and the immune system influence cancer cell signaling. We will consider how important signaling pathways, such as Ras, Raf, Notch, Wnt, TGF beta, and various kinases/phosphatases become dysregulated in cancer, as well as delve into how the DNA damage response, immune system, and tumor microenvironment exert important influences on oncogenic signaling. In the first half of the course, invited faculty members will pick 2 relatively recent papers from their field that highlight important areas. Each paper will be assigned to a student, who will meet with the faculty mentor prior to the class to discuss the paper and their presentation. During the class, students will present each paper for approximately 45 minutes with time for discussion. Students will present the important background, break down the paper, look for strengths and weakness and come up with a plan of what the next set of experiments could or should be. In the second half of the course, students will independently pick a relevant paper for in class presentation and will also write a short \"News and Views\" style article based on the paper they have chosen. The goal of the course is to provide students with a view of the cancer cell that integrates both cell autonomous and non-cell autonomous signals and to use this information to consider how to successfully treat cancer. Spring Also Offered As: NGG 6150 , PHRM 6320 Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 6330 Advanced Seminar in Gene Therapy",
+    "courseid": "CAMB 6330",
+    "coursedescription": "The course comprises a mix of student-led Journal Club classes and Expert Seminar lectures that provide students with a conceptual framework for the critical appraisal of the current cell and gene therapy landscape through a review of the literature and seminar presentations. Journal Clubs will critically review select articles from the scientific literature, exploring key aspects of experimental design and data interpretation, scientific rigor, and reproducibility. Students will be responsible for leading a group discussion of assigned scientific manuscripts in the field of cell and gene therapy selected by course faculty. At the beginning of the course, students and faculty will assign primary research papers with the number of assignments varying (between 2 and 4) depending on the number of enrolled students. The assigned student to lead a given class will prepare slides covering background and paper figures. They will also assign other students to cover a portion of the article result section with corresponding article figure (-s) in order to promote interaction and participation. Emphasis in review will be placed on technical rigor and reproducibility, as well as the broader scientific context and disease pathophysiology. Lectures: 3-4 lectures exploring issues of intellectual property, compliance, and ethics will be spread throughout the semester. During each lecture, a faculty member or external speaker will give a presentation for ~45-60 minutes followed by ~30 minute discussion. Students are expected to ask questions during or at the end of the lecture. Course faculty will moderate lectures and discussions. Prerequisites: Open to all students Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 6370 Gene Therapy: Vectors, Immunology, and Disease",
+    "courseid": "CAMB 6370",
+    "coursedescription": "This seminar course is designed to provide students with a cohesive understanding of virology and immunology of gene therapy. Three major themes will be covered: vectors, vector immunology and gene therapy of genetic and acquired diseases. The topics to be covered are viewed as an extension of topics covered in CAMB 6100 (Molecular Basis of Gene Therapy), although CAMB 6100 is not an absolute prerequisite for this seminar. Each class will consist of a brief introduction by an instructor, reviewing background information related to the theme discussion. The topics are explored through discussions, led by assigned students, of seminal research articles. Students are expected to have thoroughly reviewed the assigned articles and be able to present and discuss various aspects of the papers. Regular attendance and active participation in the discussions, which focus on critical evaluation of experimental design, data presentation and interpretation, is essential. Student evaluation will be based on attendance, in-class presentation (for 50% of the letter grade), and a take-home exam (for another 50% of the grade). Prerequisite: BGS Students only Spring, even numbered years only 1 Course Unit",
+    "course-prerequsities": [
+      "ONLY 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 6910 Advanced Topics in Cell Biology & Physiology",
+    "courseid": "CAMB 6910",
+    "coursedescription": "This course, together with its companion CAMB 6920 , offers an advanced, in depth analysis of selected topics in cell biology and physiology. CAMB 6910 and 6920 are complementary courses that focus on different aspects of cell biology; these courses are offered on an alternating basis in the spring semester. The courses can be taken in either order, but require BIOM 6000 or an equivalent background in basic cell biology. CAMB 6910 will focus on key issues at the forefront of research in the areas of (1) Channels and transporters, (2) Vesicular and viral trafficking, (3) Tissue mechanics, (4) Heart and muscle physiology, (5) Cytoskeletal dynamics and cell division. The course format pairs faculty presentations with student-led discussion sessions highlighting important papers from the primary literature. Students will be evaluated on their presentations, their participation in class discussions, and weekly problem sets. Offered alternately in the spring semester with CAMB 6920 . Permission needed for all non-CAMB students. Advanced undergrads must contact instructor to confirm qualifications. Spring, even numbered years only Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission needed for all non-CAMB students."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 6920 Advanced Topics in Cell Biology and Physiology II: Cell Signaling and Metabolis",
+    "courseid": "CAMB 6920",
+    "coursedescription": "Cells in complex organisms are required to adapt rapidly in a changing enviro nment. Maintaining homeostasis while performing specialized functions requires that cells respond to extracellular signals as well as fluctuations in a host of intracellular metabolites. This course will cover selected topics and general principles related to signal transduction and the control of metabolic flux in living cells. The course format will include student-led discussion sessions both providing an overview of a topic as well as focusing on important papers from the primary literature. Students will be evaluated on their presentations and participation, as well as problem sets. Offered alternately in the spring semester with CAMB 691. Spring, odd numbered years only Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 6950 Scientific Writing",
+    "courseid": "CAMB 6950",
+    "coursedescription": "This 7-week course is designed to introduce students to basic scientific writing skills and is based upon the premise that clear writing, giving feedback, and receiving feedback are all essential tools for professional development. While this is not strictly a prelim preparatory course, applying the principles of this course will help improve your prelim writing and your scientific writing in general. Structure: An initial introductory lecture for the entire class is followed by 6 weekly small group sessions. These sessions are conducted as workshops designed to enhance student and faculty engagement to improve scientific writing. During the course, participants review the principles of clear, persuasive writing, and apply these principles to writing for a scientific audience. Particular emphasis is placed on conveying the significance of your research, outlining your aims, and discussing your results. Classes are highly interactive, and the majority of class time will be spent discussing student scientific writing. In order to focus on the techniques of scientific writing, in-class discussions and critiques will not address scientific methodology or interpretations of results. Evaluations: One of the goals of the course is to encourage active and open interaction among students, and grading will be predominantly based on class attendance, participation, and timely submission of assignments, not on the quality of the writing itself. Offered spring semester. Spring Prerequisite: ( BIOM 5550 AND BIOM 6000 ) AND CAMB 6050",
+    "course-prerequsities": [
+      "BIOM 5550",
+      "BIOM 6000",
+      "CAMB 6050"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CAMB 6970 Biology of Stem Cells",
+    "courseid": "CAMB 6970",
+    "coursedescription": "The goal of this course is to introduce graduate students to stem cell biology through lectures from topic experts, group discussions, reading select primary literature, and writing projects. Topics include 1) embryonic stem cells, 2) epigenetics and cellular reprogramming, 3) tissue-specific adult stem cells, 4) tools and methodologies in stem cell research, 5) regenerative medicine applications, and 6) bioethics of stem cell research. The future potential and challenges in stem cell biology and regenerative medicine will be discussed. The goal is a highly interactive and collaborative environment. Offered Spring Semester. Limited to 16 students. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Limited to 16 students."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 6980 Elective Tutorials in Cell and Molecular Biology",
+    "courseid": "CAMB 6980",
+    "coursedescription": "Interested students must contact the course directors well in advance to get permission to enroll in the course: Dr. Lee (rjl@pennmedicine.upenn.edu) for the fall semester or Dr. Stanger (bstanger@upenn.edu) for the spring semester. Total course enrollment is limited to 12 students (first come, first served). Students will meet weekly with a faculty mentor to focus in-depth on a biomedical topic of their choice. Prior to each semester in which the course is offered, students will need to make arrangements with faculty to set up an individualized plan in the semester. Students should submit proposed mentors/topics to the course director well before the start of the semester, as the course director must approve the plan prior to enrollment. This tutorial course is designed to provide students with an in-depth knowledge of a specific topic in Cell and Molecular biology. The tutorial can be used to enable students to become more deeply acquainted with the literature related to their field of interest or to expand on a topic that the student found interesting in one of their basic courses. It is also intended to improve presentation skills. Final student grades will be based on mentor evaluations as well as a written review-style paper and brief (10 min) presentation to all students enrolled in the course. One-term course offered either term. Two Term Class, Student may enter either term; credit given for either Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Interested students must contact the course directors well in advance to get permission to enroll in the course: Dr.",
+        "Total course enrollment is limited to 12 students (first come, first served).",
+        "The tutorial can be used to enable students to become more deeply acquainted with the literature related to their field of interest or to expand on a topic that the student found interesting in one of their basic courses."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 6990 Lab Rotation",
+    "courseid": "CAMB 6990",
+    "coursedescription": "Student lab rotation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-4 Course Units"
+    }
+  },
+  {
+    "coursename": "CAMB 7000 Topics in Microbiology",
+    "courseid": "CAMB 7000",
+    "coursedescription": "This course is designed for second year students in the MVP program, and focuses on pathogen-host interactions. Students make a presentation designed for 30 minutes on a topic of their choice. The topic can be something that they are working on, or simply something that they are interested in. They are requested to provide sufficient background, discuss what is known and what is not known about the topic, and then frame two to three Specific Aims. The success of the course rests entirely upon the quality of the faculty and students involved. In past years, the class have been very interactive, with each class lasting about 1.5 hours. The discussions are deliberately wide-ranging, and review recent literature, techniques, and how to construct a grant. Generally, two faculty will be in attendance. Permission of instructor required to enroll. Students must have taken Immunology and two MVP pathogen classes. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The topic can be something that they are working on, or simply something that they are interested in.",
+        "The success of the course rests entirely upon the quality of the faculty and students involved.",
+        "Permission of instructor required to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 7010 Tumor Microenvironment",
+    "courseid": "CAMB 7010",
+    "coursedescription": "This course is designed for second year (and up) graduate students interested in learning about the tumor microenvironment. The course will cover the main players of the tumor microenvironment field (stroma, vasculature and immune cells) and emphasize the connections between the basic biology of the tumor microenvironment to potential therapeutic intervention. The goals of this course are to enrich scientific culture, train for clear and concise oral presentations, improve grant-writing skills, and develop critical thinking, professional composure, and discussion skills. The course will be divided into 4 broad topic areas. The course will begin with didactic lectures presented with overviews of Immunology, Stromal cells and extracellular matrix, and Angiogenesis/Endiothelial cells. After that each session will be student run and consist of one hour of presentation of a didactic background lecture regarding the salient points of that week's topic, followed in the second hour by a discussoion of a primary research paper(s) to be read in advance of the session by all class participants. Discussions will include specific technical background needed for the paper, presentation of the KEY data in the paper, leading discussion on the data and conclusions drawn from the paper and putting them in the context of the state of the field. Specific requirements for students incude: - One to two presentations throughout the course. Students will be guided in choosing the approprioate depth of background nd topic area and ingiving formal presentations and constructive criticism of scientigic data. - Submission of a discussion point each week that a student is not presenting, due the night before class. -A Specific Aims Page for a grant using one of his or her two presentations as \"preliminary data\" or their own research project provided it is related to the tumor microenvironment and is approved by one of the course directors. Evaluation: Students will be evaluated on their participation in class (30%), their presentations (30%), their discussion points (15%) and their Specific Aims Page (25%). Students will be given feedback immediately after their presentations. Prerequisite: First year CAMB core courses must be completed. Course is for 2nd year graduate students and beyond. CB students get first priority followed by other CAMB students. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for second year (and up) graduate students interested in learning about the tumor microenvironment."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 7030 Mechanobiology of the Cell and its Microenvironment",
+    "courseid": "CAMB 7030",
+    "coursedescription": "This course is geared towards first and second-year graduate students in BGS/CAMB and SEAS/BE with an interest in the interface of extracellular matrix (ECM) cell biology and biomechanics. Students will learn about the ECM and adhesion receptors and their impact on the cytoskeleton and signaling, as well as fundamental concepts in biomechanics and engineered materials. We will discuss how these topics can inform the study of cell biology, physiology, and disease. An additional objective of the course is to give students experience in leading critical discussions and writing manuscript reviews. Invited outside speakers will complement the strengths of the Penn faculty. Offered in the spring semester of even years only. Spring, even numbered years only Also Offered As: BE 6400 Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is geared towards first and second-year graduate students in BGS/CAMB and SEAS/BE with an interest in the interface of extracellular matrix (ECM) cell biology and biomechanics."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 7040 Metabolism and Stress Responses in Cancer",
+    "courseid": "CAMB 7040",
+    "coursedescription": "The course meets once a week for student presentations and lectures. The first 2-3 weeks encompasses lectures on state-of-the-art metabolic labeling, metabolomics, and other related methodologies. Subsequently, both \"historical\" and more recent papers in the field of cancer metabolism are reviewed with individual faculty experts in each chosen area. The overall goal of the course is to give students a better understanding of the abrogation of normal cellular metabolism and stress during cancer, and how these interplay with each other to create/retain a malignant state. Grades are dependent on 2 presentations per semester, class participation, and weekly answers to 2-3 questions on the assigned papers. Must have completed first-year CAMB courses to enroll. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 7060 MVP Core",
+    "courseid": "CAMB 7060",
+    "coursedescription": "This is a year-long course for the incoming CAMB-MVP students and others wishing to gain a broad overview of pathogens and their interactions with hosts. The course will provide students with key fundamental knowledge of Microbiology, Virology and Parasitology. The course starts with introductory lectures on Concepts of Host-Pathogen interactions. The rest of the course is divided into sections on Bacteriology, Virology and Parasitology. Each week there are three 1 hour class slots that are either lectures on a specific topic or discussions of a relevant paper presented by students. Classes are led by faculty from across the campus and are highly interactive. Evaluation is based on mid and final take home essay topics for each of the three sections. Regular attendance and active participation in the discussions is also part of the evaluation. Two Term Class, Student may enter either term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The rest of the course is divided into sections on Bacteriology, Virology and Parasitology."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 7070 Cell and Gene Therapy",
+    "courseid": "CAMB 7070",
+    "coursedescription": "This course will provide students with a general overview of translational research in the area of gene and cell therapy. This includes technical considerations, translating preclinical investigation into therapeutics, the execution of gene and cell therapies clinical trials, and key regulatory issues. Entrepreneurial considerations will be discussed as well. By the end of this course, students will understand the basic technologies employed for gene and cell therapy along with approaches and pitfalls to translating these therapies into clinical applications including regulatory and commercial aspects of this emerging area. Prerequisite: For graduate students, at least one prior course in immunology. An undergraduate-level or medical school immunology course is sufficient to meet the prerequisite. For students outside of MTR, please use the Permit Request function in Path to request enrollment. When requesting a permit for the course, indicate your prior coursework and/or experience in immunology. If you do not indicate this information, your permit request will not be considered. PhD students should request the CAMB 7070 section. All other graduate students should request the MTR 6210 section. Also Offered As: MTR 6210 , REG 6210 1 Course Unit",
+    "course-prerequsities": [
+      "CAMB 7070",
+      "MTR 6210",
+      "REG 6210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 7080 HIV Virology/Pathogenesis/Cure Seminar/Journal Club",
+    "courseid": "CAMB 7080",
+    "coursedescription": "This will be a year-long class, held every other week, that is paper-based utilizing the current literature in HIV virology, pathogenesis and cure research. The class will have a journal club format with attendance and participation open to the full Penn student & postdoc community (teach-your-peers). Enrolled students will be responsible for approximately 4-5 presentations over the duration of the course, as well as for bi-weekly paper selection in conjunction with the instructors and coordinating the presentations by other participants. Prerequisites: Strong background in cell biology, immunology or virology fulfilled by 1st yr CAMB Courses. Course is limited to graduate students. Instructor permission required for non-CAMB graduate students. Two Term Class, Student may enter either term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Course is limited to graduate students.",
+        "Instructor permission required for non-CAMB graduate students."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 7090 Quantitative Imaging and Analysis for Biologists (QIAB)",
+    "courseid": "CAMB 7090",
+    "coursedescription": "This course will provide an introduction to the fundamentals of modern light microscopy and image analysis using the free software package, Fiji, as a guide. Topics include fundamentals of basic and advanced light microscopy, image data optimization, and commonly-used processing and analysis tools such as filters, segmentation, tracking, and simple macro programming. The goal is to provide students with the background and confidence required to pursue more advanced quantitative imaging methods as the need arises in their research. Students will be graded based on their active participation in class, completion of hands-on Fiji exercises, and a final presentation describing an application of at least one of the analysis methods covered in class to their own image data. CAMB 7090 is limited to 2nd - 4th-year graduate students who have previous/current experience with light microscopy. Permission to enroll from course directors is required for all students.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "CAMB 7090 is limited to 2nd - 4th-year graduate students who have previous/current experience with light microscopy.",
+        "Permission to enroll from course directors is required for all students."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 7110 Integrative plant and animal mechanobiology",
+    "courseid": "CAMB 7110",
+    "coursedescription": "This course aims to provide students with an understanding of biomechanics that spans the plant and animal kingdoms, with the goal of emphasizing principles common to both. Major concepts include 1) Plant and Animal Cell Biology; 2) Solid, Fluid, and Transport Mechanics; and 3) Integrating Biology and Mechanics - Big Questions. In addition to lectures, there will be two journal article discussion sections. Most lectures will be given by Penn faculty, although selected topics (particularly in plant biology and mechanics) will be covered by faculty at other sites through lectures broadcast remotely. The Penn director will be present at all sessions of the class. Undergraduates require special permission from the director. Fall Also Offered As: BE 7110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Undergraduates require special permission from the director."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 7120 Topics in Cancer Biology",
+    "courseid": "CAMB 7120",
+    "coursedescription": "This course is an elective course for 2nd year Cancer Biology Students on a range of cancer-related topics. The course is designed to expose students to a range of topics in cancer biology, improve writing skills, train students to give clear and concise oral presentations, develop active listening and critical thinking skills as well as discussion skills. The course will also teach students about rigor and reproducibility in experimental design. The course will interface with Cancer Biology WIP talks (which are only given by 3rd year and up students) and complement journal club and prelim preparation. Completion of first-year CAMB courses required to enroll. Course is designed for second-year CAMB students. Two Term Class, Student may enter either term; credit given for either 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 7130 Neuroepigenetics",
+    "courseid": "CAMB 7130",
+    "coursedescription": "This course is intended to bring students up to date on research at the intersection of Neuroscience and Epigenetics. It is based on assigned papers covering a variety of experimental systems and concepts in the field of Neuroepigenetics, a formal presentation on a paper each week by individual students, critical evaluation of primary data, and in-depth discussion of potential issues and future directions. The goals of the class are to: 1) Review basic concepts of epigenetics in the context of neuroscience, 2) Learn to critically evaluate the literature in the field, 3) Improve experimental design to enhance rigor and reproducibility, 4) Catch up with the most recent development in neuroepigenetics, 5) Develop professional presentation skills - be a storyteller. Different faculty experts in the field attend class each week to help facilitate the discussion and provide guidance to student presenters. Students each give one presentation during the semester on the paper chosen by the faculty expert for their week. All students are expected to read all paper assignments and participate in the discussions each class. Fall Also Offered As: NGG 7130 Prerequisite: BIOM 5550 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 5550"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 7140 DIYtranscriptomics",
+    "courseid": "CAMB 7140",
+    "coursedescription": "As access to high-throughput sequencing technology increases, the bottleneck in biomedical research has shifted from generating data, to analyzing and integrating diverse data types. Addressing these needs requires that students and postdocs equip themselves with a toolkit for data mining and interrogation. This course focuses specifically on studying global gene expression (transcriptomics) through the use of the R programming environment and the Bioconductor suite of software packages - a versatile and robust collection of tools for bioinformatics, statistics, and plotting. During this semester-long course students participate in a mix of lectures and guided code review, all while working with real datasets directly on their laptop. Students will learn to analyze RNAseq data using a lightweight and reusable set of modular scripts that leverage open-source software. In addition, students will learn best practices in data science for working in R/Bioconductor, including creating interactive data visualizations, making their analsyes transparent and reproducible, and identifying experimental bias in large datasets. Students are encouraged, but not required, to bring their own RNAseq data to the course. This course requires completion of pre-course materials provided by the instructor. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CAMB 7520 Genomics",
+    "courseid": "CAMB 7520",
+    "coursedescription": "Recent advances in molecular biology, computer science, and engineering have opened up new possibilities for studying the biology of organisms. Biologists now have access to the complete genomic sequence and set of cellular instructions encoded in the DNA of specific organisms, including homo sapiens, dozens of bacterial species, the yeast Saccharomyces cerevisiae, the nematode C. elegans, and the fruit fly Drosophila melanogaster. The goals of the course include the following: 1. introduce the basic principles involved in sequencing genomes, 2. familiarize the students with new instrumentation, informative tools, and laboratory automation technologies related to genomics, 3. teach the students how to access the information and biological materials that are being developed in genomics and 4. examine how these new tools and resources are being applied to basic and translational research. This will be accomplished through in depth discussion of classic and recent papers. Prerequisite: Permission of Instructor. Spring Also Offered As: GCB 7520 Prerequisite: GCB 5340 1 Course Unit",
+    "course-prerequsities": [
+      "GCB 7520",
+      "GCB 5340"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "CAMB 8990 Pre-Dissertation Lab Rot",
+    "courseid": "CAMB 8990",
+    "coursedescription": "Pre-dissertation research lab rotation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-4 Course Units"
+    }
+  },
+  {
+    "coursename": "CAMB 9950 Dissertation",
+    "courseid": "CAMB 9950",
+    "coursedescription": "Ph.D. students enroll in this course after passing their candidacy exam. They work on their dissertation full-time under the guidance of their dissertation supervisor and other members of their dissertation committee.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "coursename": "GCB 4930 Epigenetics of Human Health and Disease",
+    "courseid": "GCB 4930",
+    "coursedescription": "Epigenetic alterations encompass heritable, non-genetic changes to chromatin (the polymer of DNA plus histone proteins) that influence cellular and organismal processes. This course will examine epigenetic mechanisms in directing development from the earliest stages of growth, and in maintaining normal cellular homeostasis during life. We will also explore how diverse epigenetic processes are at the heart of numerous human disease states. We will review topics ranging from an historical perspective of the discovery of epigenetic mechanisms to the use of modern technology and drug development to target epigenetic mechanisms to increase healthy lifespan and combat human disease. The course will involve a combination of didactic lectures, primary scientific literature and research lectures, and student-led presentations. Spring, odd numbered years only Also Offered As: BIOL 4244 , CAMB 4930 Prerequisite: BIOL 2210 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GCB 5330 Statistics for Genomics and Biomedical Informatics",
+    "courseid": "GCB 5330",
+    "coursedescription": "BMIN 5330 is an introductory course in probability theory and statistical inference for graduate students in Genomics and Computational Biology. The goal of the course is to provide foundation of basic concepts and tools as well as hands-on practice in their application to problems in genomics. At the completion of the course, students should have an intuitive understanding of basic probability and statistical inference and be prepared to select and execute appropriate statistical approaches in their future research. Also Offered As: BMIN 5330 , IMUN 5770 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GCB 5340 Experimental Genome Science",
+    "courseid": "GCB 5340",
+    "coursedescription": "This course will survey methods and questions in experimental genomics, including next generation sequencing methods, genomic sequencing in humans and model organisms, functional genomics, proteomics, and applications of genomics methods. Students will be expected to review and discuss current literature and to propose new experiments based on material learned in the course. Prerequisite: Undergraduates and Masters students need BIOL 431. Also Offered As: PHRM 5340 Prerequisite: BIOL 4231 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 431",
+      "PHRM 5340",
+      "BIOL 4231"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GCB 5360 Fundamentals of Computational Biology",
+    "courseid": "GCB 5360",
+    "coursedescription": "Introductory computational biology course designed for both biology students and computer science, engineering students. The course will cover fundamentals of algorithms, statistics, and mathematics as applied to biological problems. In particular, emphasis will be given to biological problem modeling and understanding the algorithms and mathematical procedures at the \"pencil and paper\" level. That is, practical implementation of the algorithms is not taught but principles of the algorithms are covered using small sized examples. Topics to be covered are: genome annotation and string algorithms, pattern search and statistical learning, molecular evolution and phylogenetics, functional genomics and systems level analysis. Fall Also Offered As: BIOL 5536 , CIS 5360 Prerequisite: (( BIOL 1101 AND BIOL 1102 ) OR BIOL 1121 ) AND STAT 111 AND STAT 112 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1101",
+      "BIOL 1102",
+      "BIOL 1121",
+      "STAT 111",
+      "STAT 112"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GCB 5370 Advanced Computational Biology",
+    "courseid": "GCB 5370",
+    "coursedescription": "Advanced Computational Biology will review important concepts for computer science and statistics as they apply to computational biology; discuss current topics and related papers in genomics and computational biology; teach to evaluate, criticize, and summarize research papers in genomics and computational biology; and experiment, evaluate, and try to improve tools/algorithms from topics covered in the course. Requirement: Background in statistics, biology, genetics and genomics, and computer science. Non-GCB students need permission from the instructors. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Non-GCB students need permission from the instructors."
+      ]
+    }
+  },
+  {
+    "coursename": "GCB 5770 Advanced Epigenetics Technology",
+    "courseid": "GCB 5770",
+    "coursedescription": "Second year students in GCB, CAMB (G&E), or IGG programs using genomics methods to measure transcriptomics and epigenomics changes in their experimental systems. The goal is to familiarize students with the latest cutting-edge genomics tools and cover solutions to major experimental and computational challenges in the investigation of genome-wide epigenetic data sets. Students will develop competence in (i) variations of experimental techniques improving resolution and throughout, (ii) issues related to the computational analyses closely related to the various genome-wide assays used to probe epigenetic processes and signals, (iii) computational approaches useful to overcome pitfalls associated to the analysis of a given epigenetic data modality, (iv) methods, techniques and studies on the integration of multi-layer epigenetic data sets. Spring Also Offered As: CAMB 5770 , PHRM 5350 Prerequisite: ( BIOL 4234 OR BIOL 4244 ) AND GCB 5340 AND (GCB 5350 OR GCB 5360 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 4234",
+      "BIOL 4244",
+      "GCB 5340",
+      "GCB 5350",
+      "GCB 5360"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GCB 6990 Lab Rotation",
+    "courseid": "GCB 6990",
+    "coursedescription": "Lab rotation",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-3 Course Units"
+    }
+  },
+  {
+    "coursename": "GCB 7520 Genomics",
+    "courseid": "GCB 7520",
+    "coursedescription": "Recent advances in molecular biology, computer science, and engineering have opened up new possibilities for studying the biology of organisms. Biologists now have access to the complete genomic sequence and set of cellular instructions encoded in the DNA of specific organisms, including homo sapiens, dozens of bacterial species, the yeast Saccharomyces cerevisiae, the nematode C. elegans, and the fruit fly Drosophila melanogaster. The goals of the course include the following: 1. introduce the basic principles involved in sequencing genomes, 2. familiarize the students with new instrumentation, informative tools, and laboratory automation technologies related to genomics, 3. teach the students how to access the information and biological materials that are being developed in genomics and 4. examine how these new tools and resources are being applied to basic and translational research. This will be accomplished through in depth discussion of classic and recent papers. Prerequisite: Permission of Instructor. Spring Also Offered As: CAMB 7520 Prerequisite: GCB 5340 1 Course Unit",
+    "course-prerequsities": [
+      "CAMB 7520",
+      "GCB 5340"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "GCB 7990 Independent Study",
+    "courseid": "GCB 7990",
+    "coursedescription": "Independent study course",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-2 Course Units"
+    }
+  },
+  {
+    "coursename": "GCB 8990 Pre-Dissertation Research",
+    "courseid": "GCB 8990",
+    "coursedescription": "Pre-dissertation lab research",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-3 Course Units"
+    }
+  },
+  {
+    "coursename": "GCB 9950 Dissertation",
+    "courseid": "GCB 9950",
+    "coursedescription": "Ph.D. students enroll in this course after passing their candidacy exam. They work on their dissertation full-time under the guidance of their dissertation supervisor and other members of their dissertation committee. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  }
+]

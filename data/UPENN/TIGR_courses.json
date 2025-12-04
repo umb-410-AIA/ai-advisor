@@ -1,0 +1,70 @@
+[
+  {
+    "coursename": "TIGR 0100 Elementary Tigrinya I",
+    "courseid": "TIGR 0100",
+    "coursedescription": "This course will focus on developing interpersonal and interpretive skills to enable students to acquire Level 1+ on the Interagency Language Roundtable (ILR) scale. Students will be able to initiate and maintain predictable face-to-face conversations and satisfy limited social demands in the language. They may, however, have little understanding of the social conventions of conversation. Range and control of the language will be limited. Speech will largely consist of a series of short, discrete utterances. For example, students will able to satisfy most travel and accommodation needs and a limited range of social demands beyond exchange of skeletal biographic information. Speaking ability may extend beyond immediate survival needs. Accuracy in basic grammatical relations will be evident, although not consistent. May exhibit the more common forms of verb tenses, for example, but may make frequent errors in formation and selection. While some structures are established, errors occur in more complex patterns. The individual typically cannot sustain coherent structures in longer utterances or unfamiliar situations. Ability to describe and give precise information is limited. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TIGR 0200 Elementary Tigrinya II",
+    "courseid": "TIGR 0200",
+    "coursedescription": "Continuation of AFST 490. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TIGR 0300 Intermediate Tigrinya I",
+    "courseid": "TIGR 0300",
+    "coursedescription": "Intermediate level courses in a variety of African languages: Igbo, Shona, Wolof, Malagasy, Chichewa, Setswana, Manding, Afrikaans, Setswana. Focus on oral proficiency and productive language skills. All course are langauge specfic and follow ACTFL proficiency guidelines. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TIGR 0400 Intermediate Tigrinya II",
+    "courseid": "TIGR 0400",
+    "coursedescription": "Continuation of AFST 492. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TIGR 1100 Advanced Tigrinya I",
+    "courseid": "TIGR 1100",
+    "coursedescription": "Language specific sections for students interested in doing country-specific research in a target language. Courses cover project-based skills for AFST research. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Language specific sections for students interested in doing country-specific research in a target language."
+      ]
+    }
+  },
+  {
+    "coursename": "TIGR 1200 Advanced Tigrinya II",
+    "courseid": "TIGR 1200",
+    "coursedescription": "Continuation of AFST 494. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TIGR 1300 Tigrinya Language and Culture",
+    "courseid": "TIGR 1300",
+    "coursedescription": "Aspects of the targeted language's history, language, and culture. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TIGR 1400 Tigrinya Language and Culture II",
+    "courseid": "TIGR 1400",
+    "coursedescription": "Aspects of the targeted language's history, language, and culture. This course is the second part of Tigrinya Language and Culture sequence. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "coursename": "CLCH 1600 Oceanography",
+    "courseid": "CLCH 1600",
+    "coursedescription": "The oceans cover over 2/3 of the Earth's surface, but what do we know about them and how do they impact our climate and everyday life? We will examine climate change’s impacts on the oceans and how this in turn affects our daily lives from eating seafood to our weather patterns, to movement of goods across vast distances. Through frequent individual assignments using real-time data, readings, video lectures, and asynchronous discussions, students are exposed to the major areas of oceanography including plate tectonics, marine sediments, physical and chemical properties of seawater, ocean circulation, air-sea interactions, waves, tides, nutrient cycles in the ocean, and biology of the oceans through the lens of climate change and the consequent impacts on your daily life. The required text for this course is Essentials of Oceanography, 13th edition, by Alan P. Trujillo and Harold B. Thurman, which is available from a variety of online book retailers. For students pursuing the Certificate in Climate Change, you must complete CLCH 1600 : Oceanography plus any three additional climate change courses. Although it is recommended that students take CLCH 1600 : Oceanography first, you can start with any course and take them in any order. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Although it is recommended that students take CLCH 1600 : Oceanography first, you can start with any course and take them in any order."
+      ]
+    }
+  },
+  {
+    "coursename": "CLCH 2100 Introduction to Disaster Management",
+    "courseid": "CLCH 2100",
+    "coursedescription": "Disaster management reflects society’s organized attempt to protect its members from natural, technological, and terrorist threats. Often, this involves coordinating with local, state, federal, and non-governmental organizations; alerting the public to impending hazards; and developing plans for the sheltering and mass care of those left homeless in the wake of major catastrophe. The field operates through a complex network of specialists, whose activities often assist the day-to-day and long-term operations of disaster management. As a result, planning for a disaster—be it in the realm of mitigation, preparedness, response or recovery, calls for a thorough understanding of both the natural and social elements of disaster. This course will cover an overview of theory, principles, and the operations of disaster management. Topics include a history and evolution of the profession; an exploration of the concepts mitigation, preparedness, response, and recovery; state, local, federal and non-governmental organizations’ roles in disasters and an investigation of the social, political and economic consequences of disasters. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CLCH 2200 Atmospheric Science",
+    "courseid": "CLCH 2200",
+    "coursedescription": "The study of atmospheric science includes the prediction of weather and climate change as well as their impact on society. Designed to provide an understanding of the fundamentals of atmospheric science at the local, regional, and global levels, this course covers the nature, composition, and structure of the atmosphere, its interactions with other parts of the Earth, and the major chemical mechanisms controlling the occurrence and mobility of air pollutants in the atmosphere. Course topics also include global atmospheric composition, ecosystems, living organisms, and environmentally important atmospheric species such as greenhouse gases, stratospheric ozone, acid precipitation, urban smog, and air toxins. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CLCH 2300 Climate Change",
+    "courseid": "CLCH 2300",
+    "coursedescription": "Climate change is happening right now! Climate change is a hoax this is normal variation! Climate change is something we can worry about in 50 to 100 years, no need to worry about it now. On an almost daily basis we are bombarded by mixed messages about climate in the media. Who is right? What is the truth? This course will examine the cryosphere and build on the previous Climate Certificate courses CLCH 160 Oceanography and CLCH 220 Atmospheric Science to better understand Earth's climate system. We will explore past climate, how we know what that climate was like, and how and why we believe it has changed. We will then examine current evidence for climate change (sea level rise, loss of glacier mass, changes in weather systems) and critique various climate models. Once the class has a good understanding of the science behind climate change we will examine potential impacts in various parts of the world. Finally we will examine climate policy in the US at the federal, state and local level and in various parts of the world. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CLCH 3000 Communicating Science",
+    "courseid": "CLCH 3000",
+    "coursedescription": "Even the most brilliant scientists must be able to communicate clearly to effectively share their enthusiasm for their fields. Relating scientific concepts and quantitative data to colleagues is very different than sharing it with the general public. This course will show students how to refine their communication skills in crafting messages to address different audiences and genres. There are no required prerequisites for this course, although students pursuing the Certificate in Climate Change are strongly encouraged to already have completed CLCH 160: Oceanography, CLCH 220: Atmospheric Science, and CLCH 230: Climate Change prior to enrolling in this course. 1 Course Unit",
+    "course-prerequsities": [
+      "CLCH 160",
+      "CLCH 220",
+      "CLCH 230",
+      "COURSE. 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CLCH 3100 Global Environmental Issues",
+    "courseid": "CLCH 3100",
+    "coursedescription": "Wildfires, deforestation, air pollution, plastics in the ocean, lead in water, and increasingly destructive natural disasters have all been in the news lately. What are the underlying causes? What can be done? In this course students will examine eight environmental issues. They will become familiar with the current knowledge, debates, human impacts, economic consequences, policies, and potential solutions for each issue. Lectures will introduce each of the disciplines that contribute to the dialogue on these environmental issues, while a final project will allow students to dive deeper into one major environmental issue within the context of each of these disciplines. In addition to lectures, readings, and discussion there is a semester-long group project culminating in a final paper. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Wildfires, deforestation, air pollution, plastics in the ocean, lead in water, and increasingly destructive natural disasters have all been in the news lately."
+      ]
+    }
+  }
+]

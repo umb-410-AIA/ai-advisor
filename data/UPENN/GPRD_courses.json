@@ -1,0 +1,666 @@
+[
+  {
+    "coursename": "GPRD 9001 Introduction To Periodontology",
+    "courseid": "GPRD 9001",
+    "coursedescription": "Introduction To Periodontology 6-9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9011 Introduction To Periodontal Prosthesis",
+    "courseid": "GPRD 9011",
+    "coursedescription": "Introduction To Periodontal Prosthesis 4-6 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9021 Clinical Periodontics I",
+    "courseid": "GPRD 9021",
+    "coursedescription": "Clinical Periodontics I 5-7 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9022 Clinical Periodontics II",
+    "courseid": "GPRD 9022",
+    "coursedescription": "Clinical Periodontics II 2.5-4.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9023 Clinical Periodontics III",
+    "courseid": "GPRD 9023",
+    "coursedescription": "Clinical Periodontics III 2.5-4.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9024 Clinical Periodontics IV",
+    "courseid": "GPRD 9024",
+    "coursedescription": "Clinical Periodontics IV 9-13 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9025 Clinical Periodontics V",
+    "courseid": "GPRD 9025",
+    "coursedescription": "Clinical Periodontics V 9-13 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9026 Clinical Periodontics VI",
+    "courseid": "GPRD 9026",
+    "coursedescription": "Clinical Periodontics VI 9-13 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9031 Classic Literature Review I",
+    "courseid": "GPRD 9031",
+    "coursedescription": "Classic Literature Review I 0.75-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9032 Classic Literature Review II",
+    "courseid": "GPRD 9032",
+    "coursedescription": "Classic Literature Review II 1.5-2.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9033 Classic Literature Review III",
+    "courseid": "GPRD 9033",
+    "coursedescription": "Classic Literature Review III 1.5-2.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9034 Classic Literature Review IV",
+    "courseid": "GPRD 9034",
+    "coursedescription": "Classic Literature Review IV 1.5-2.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9041 Current Literature Review I",
+    "courseid": "GPRD 9041",
+    "coursedescription": "Current Literature Review I 0.75-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9042 Current Literature Review II",
+    "courseid": "GPRD 9042",
+    "coursedescription": "Current Literature Review II 1.5-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9043 Current Literature Review III",
+    "courseid": "GPRD 9043",
+    "coursedescription": "Current Literature Review III 1.5-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9044 Current Literature Review IV",
+    "courseid": "GPRD 9044",
+    "coursedescription": "Current Literature Review IV 1.5-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9051 Periodontics Case Presentation I",
+    "courseid": "GPRD 9051",
+    "coursedescription": "Periodontics Case Presentation I 0.5-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9052 Periodontics Case Presentation II",
+    "courseid": "GPRD 9052",
+    "coursedescription": "Periodontics Case Presentation II 1-1.75 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9053 Periodontics Case Presentation III",
+    "courseid": "GPRD 9053",
+    "coursedescription": "Periodontics Case Presentation III 1-1.75 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9054 Periodontics Case Presentation IV",
+    "courseid": "GPRD 9054",
+    "coursedescription": "Periodontics Case Presentation IV 1-1.75 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9055 Periodontics Case Presentation V",
+    "courseid": "GPRD 9055",
+    "coursedescription": "Periodontics Case Presentation V 1-1.75 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9056 Periodontics Case Presentation VI",
+    "courseid": "GPRD 9056",
+    "coursedescription": "Periodontics Case Presentation VI 1-1.75 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9061 Surgical Endodontic Rotation I",
+    "courseid": "GPRD 9061",
+    "coursedescription": "Surgical Endodontic Rotation I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9062 Surgical Endodontic Rotation II",
+    "courseid": "GPRD 9062",
+    "coursedescription": "Surgical Endodontic Rotation II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9063 Surgical Endodontic Rotation III",
+    "courseid": "GPRD 9063",
+    "coursedescription": "Surgical Endodontic Rotation III 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9064 Surgical Endodontic Rotation IV",
+    "courseid": "GPRD 9064",
+    "coursedescription": "Surgical Endodontic Rotation IV 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9065 Surgical Endodontic Rotation V",
+    "courseid": "GPRD 9065",
+    "coursedescription": "Surgical Endodontic Rotation V 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9066 Surgical Endodontic Rotation VI",
+    "courseid": "GPRD 9066",
+    "coursedescription": "Surgical Endodontic Rotation VI 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9071 Fundamentals Of Periodontics I",
+    "courseid": "GPRD 9071",
+    "coursedescription": "Fundamentals Of Periodontics I 1.75-2.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9072 Fundamentals Of Periodontics II",
+    "courseid": "GPRD 9072",
+    "coursedescription": "Fundamentals Of Periodontics II 3-4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9081 Fundamentals Of Perio Surgery I",
+    "courseid": "GPRD 9081",
+    "coursedescription": "Fundamentals Of Perio Surgery I 1.75-2.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9082 Fundamentals Of Perio Surgery II",
+    "courseid": "GPRD 9082",
+    "coursedescription": "Fundamentals Of Perio Surgery II 3-4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9091 Sedation Seminar I",
+    "courseid": "GPRD 9091",
+    "coursedescription": "Sedation Seminar I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9092 Sedation Seminar II",
+    "courseid": "GPRD 9092",
+    "coursedescription": "Sedation Seminar II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9101 Minor Adult Orthodontics I",
+    "courseid": "GPRD 9101",
+    "coursedescription": "Minor Adult Orthodontics I 0.75-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9111 Advanced Topics In Periodontics I",
+    "courseid": "GPRD 9111",
+    "coursedescription": "Advanced Topics In Periodontics I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9112 Advanced Topics In Periodontics II",
+    "courseid": "GPRD 9112",
+    "coursedescription": "Advanced Topics In Periodontics II 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9113 Advanced Topics In Periodontics III",
+    "courseid": "GPRD 9113",
+    "coursedescription": "Advanced Topics In Periodontics III 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9114 Advanced Topics In Periodontics IV",
+    "courseid": "GPRD 9114",
+    "coursedescription": "Advanced Topics In Periodontics IV 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9115 Advanced Topics In Periodontics V",
+    "courseid": "GPRD 9115",
+    "coursedescription": "Advanced Topics In Periodontics V 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9116 Advanced Topics In Periodontics VI",
+    "courseid": "GPRD 9116",
+    "coursedescription": "Advanced Topics In Periodontics VI 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9122 In-Service Examination I",
+    "courseid": "GPRD 9122",
+    "coursedescription": "In-Service Examination I 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9124 In-Service Examination II",
+    "courseid": "GPRD 9124",
+    "coursedescription": "In-Service Examination II 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9126 In-Service Examination III",
+    "courseid": "GPRD 9126",
+    "coursedescription": "In-Service Examination III 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9141 P Care Clinic Rotation I",
+    "courseid": "GPRD 9141",
+    "coursedescription": "P Care Clinic Rotation I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9142 P Care Clinic Rotation II",
+    "courseid": "GPRD 9142",
+    "coursedescription": "P Care Clinic Rotation II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9143 P Care Clinic Rotation III",
+    "courseid": "GPRD 9143",
+    "coursedescription": "P Care Clinic Rotation III 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9144 P Care Clinic Rotation IV",
+    "courseid": "GPRD 9144",
+    "coursedescription": "P Care Clinic Rotation IV 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9145 P Care Clinic Rotation V",
+    "courseid": "GPRD 9145",
+    "coursedescription": "P Care Clinic Rotation V 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9146 P Care Clinic Rotation VI",
+    "courseid": "GPRD 9146",
+    "coursedescription": "P Care Clinic Rotation VI 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9151 Complications Seminar I",
+    "courseid": "GPRD 9151",
+    "coursedescription": "Complications Seminar I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9152 Complications Seminar II",
+    "courseid": "GPRD 9152",
+    "coursedescription": "Complications Seminar II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9153 Complications Seminar III",
+    "courseid": "GPRD 9153",
+    "coursedescription": "Complications Seminar III 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9154 Complications Seminar IV",
+    "courseid": "GPRD 9154",
+    "coursedescription": "Complications Seminar IV 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9155 Complications Seminar V",
+    "courseid": "GPRD 9155",
+    "coursedescription": "Complications Seminar V 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9156 Complications Seminar VI",
+    "courseid": "GPRD 9156",
+    "coursedescription": "Complications Seminar VI 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9161 Periodontal Practice Management",
+    "courseid": "GPRD 9161",
+    "coursedescription": "Periodontal Practice Management 0.5-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9171 Treatment Plan Rotation I",
+    "courseid": "GPRD 9171",
+    "coursedescription": "Treatment Plan Rotation I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9172 Treatment Plan Rotation II",
+    "courseid": "GPRD 9172",
+    "coursedescription": "Treatment Plan Rotation II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9173 Treatment Plan Rotation III",
+    "courseid": "GPRD 9173",
+    "coursedescription": "Treatment Plan Rotation III 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9174 Treatment Plan Rotation IV",
+    "courseid": "GPRD 9174",
+    "coursedescription": "Treatment Plan Rotation IV 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9175 Treatment Plan Rotation V",
+    "courseid": "GPRD 9175",
+    "coursedescription": "Treatment Plan Rotation V 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9176 Treatment Plan Rotation VI",
+    "courseid": "GPRD 9176",
+    "coursedescription": "Treatment Plan Rotation VI 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9182 Oral Comprehensive Examination I",
+    "courseid": "GPRD 9182",
+    "coursedescription": "Oral Comprehensive Examination I 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9184 Oral Comprehensive Examination II",
+    "courseid": "GPRD 9184",
+    "coursedescription": "Oral Comprehensive Examination II 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9186 Oral Comprehensive Examination III",
+    "courseid": "GPRD 9186",
+    "coursedescription": "Oral Comprehensive Examination III 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9195 Board Review Seminar I",
+    "courseid": "GPRD 9195",
+    "coursedescription": "Board Review Seminar I 1.25-2.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9196 Board Review Seminar II",
+    "courseid": "GPRD 9196",
+    "coursedescription": "Board Review Seminar II 1.25-2.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9201 Fundamentals Of Periodontal Prosthesis I",
+    "courseid": "GPRD 9201",
+    "coursedescription": "Fundamentals Of Periodontal Prosthesis I 1.5-2.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9202 Fundamentals Of Periodontal Prosthesis II",
+    "courseid": "GPRD 9202",
+    "coursedescription": "Fundamentals Of Periodontal Prosthesis II 3-4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9211 Perio-Prosth Case Presentation I",
+    "courseid": "GPRD 9211",
+    "coursedescription": "Perio-Prosth Case Presentation I 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9212 Perio-Prosth Case Presentation II",
+    "courseid": "GPRD 9212",
+    "coursedescription": "Perio-Prosth Case Presentation II 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9213 Perio-Prosth Case Presentation III",
+    "courseid": "GPRD 9213",
+    "coursedescription": "Perio-Prosth Case Presentation III 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9214 Perio-Prosth Case Presentation IV",
+    "courseid": "GPRD 9214",
+    "coursedescription": "Perio-Prosth Case Presentation IV 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9215 Perio-Prosth Case Presentation V",
+    "courseid": "GPRD 9215",
+    "coursedescription": "Perio-Prosth Case Presentation V 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9216 Perio-Prosth Case Presentation VI",
+    "courseid": "GPRD 9216",
+    "coursedescription": "Perio-Prosth Case Presentation VI 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9217 Perio-Prosth Case Presentation VII",
+    "courseid": "GPRD 9217",
+    "coursedescription": "Perio-Prosth Case Presentation VII 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9218 Perio-Prosth Case Presentation VIII",
+    "courseid": "GPRD 9218",
+    "coursedescription": "Perio-Prosth Case Presentation VIII 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9991 Clinical Periodontics VII",
+    "courseid": "GPRD 9991",
+    "coursedescription": "Clinical Periodontics VII 9-13 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9992 Clinical Periodontics VIII",
+    "courseid": "GPRD 9992",
+    "coursedescription": "Clinical Periodontics VIII 9-13 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9993 Clinical Periodontics IX",
+    "courseid": "GPRD 9993",
+    "coursedescription": "Clinical Periodontics IX 9-13 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9994 Clinical Periodontics X",
+    "courseid": "GPRD 9994",
+    "coursedescription": "Clinical Periodontics X 9-13 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GPRD 9995 Clinical Periodontics XI",
+    "courseid": "GPRD 9995",
+    "coursedescription": "Clinical Periodontics XI 9-13 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

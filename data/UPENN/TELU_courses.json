@@ -1,0 +1,125 @@
+[
+  {
+    "coursename": "TELU 0100 Beginning Telugu Part I",
+    "courseid": "TELU 0100",
+    "coursedescription": "This course introduces students to the basic Telugu language skills, with an emphasis on practice for listening comprehension, and speaking Telugu. Combined with exposure to Andhra culture, the classroom and online work in this course will enable interested students to pursue further language study in Telugu at the intermediate level, to carry out field research in Andhra Pradesh, or to prepare them to advanced work in Telugu Studies. An introduction to Telugu like this will also be useful for students who just want to acquire basic Telugu language skills for learning a new language or being able to communicate with Telugu speaking family and friends or to enjoy Telugu music and films. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Combined with exposure to Andhra culture, the classroom and online work in this course will enable interested students to pursue further language study in Telugu at the intermediate level, to carry out field research in Andhra Pradesh, or to prepare them to advanced work in Telugu Studies."
+      ]
+    }
+  },
+  {
+    "coursename": "TELU 0200 Beginning Telugu Part II",
+    "courseid": "TELU 0200",
+    "coursedescription": "This course continues tudents to the basic Telugu language skills, with an emphasis on practice for listening comprehension, and speaking Telugu. Combined with exposure to Andhra culture, the classroom and online work in this course will enable interested students to pursue further language study in Telugu at the intermediate level, to carry out field research in Andhra Pradesh, or to prepare them to advanced work in Telugu Studies. An introduction to Telugu like this will also be useful for students who just want to acquire basic Telugu language skills for learning a new language or being able to communicate with Telugu speaking family and friends or to enjoy Telugu music and films. Spring Prerequisite: TELU 0100 OR TELU 5100 1 Course Unit",
+    "course-prerequsities": [
+      "TELU 0100",
+      "TELU 5100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Combined with exposure to Andhra culture, the classroom and online work in this course will enable interested students to pursue further language study in Telugu at the intermediate level, to carry out field research in Andhra Pradesh, or to prepare them to advanced work in Telugu Studies."
+      ]
+    }
+  },
+  {
+    "coursename": "TELU 0300 Intermediate Telugu Part I",
+    "courseid": "TELU 0300",
+    "coursedescription": "This course is designed to expand the students' basic language skills in Telugu in order to allow them to function adequately in a Telugu-speaking environment, to immerse themselves in the rich Andhra culture, and to accomplish a more advanced competency in an interesting foreign language. This course is also aimed at students planning to conduct scholarly research in Telugu history, literature or society, or humanities or social science fieldwork in Telugu speaking areas. Two Term Class, Student must enter first term; credit given after both terms are complete Prerequisite: TELU 0200 OR TELU 5200 1 Course Unit",
+    "course-prerequsities": [
+      "TELU 0200",
+      "TELU 5200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed to expand the students' basic language skills in Telugu in order to allow them to function adequately in a Telugu-speaking environment, to immerse themselves in the rich Andhra culture, and to accomplish a more advanced competency in an interesting foreign language."
+      ]
+    }
+  },
+  {
+    "coursename": "TELU 0400 Intermediate Telugu Part II",
+    "courseid": "TELU 0400",
+    "coursedescription": "This course is designed to expand the students' basic language skills in Telugu in order to allow them to function adequately in a Telugu-speaking environment, to immerse themselves in the rich Andhra culture, and to accomplish a more advanced competency in an interesting foreign language. This course is also aimed at students planning to conduct scholarly research in Telugu history, literature or society, or humanities or social science fieldwork in Telugu speaking areas. Prerequisite: TELU 0300 OR TELU 5300 1 Course Unit",
+    "course-prerequsities": [
+      "TELU 0300",
+      "TELU 5300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed to expand the students' basic language skills in Telugu in order to allow them to function adequately in a Telugu-speaking environment, to immerse themselves in the rich Andhra culture, and to accomplish a more advanced competency in an interesting foreign language."
+      ]
+    }
+  },
+  {
+    "coursename": "TELU 1500 Advanced Telugu",
+    "courseid": "TELU 1500",
+    "coursedescription": "This is a course designed for students who have completed four semesters of Telugu. Fall or Spring Mutually Exclusive: TELU 5500 Prerequisite: TELU 0400 1 Course Unit",
+    "course-prerequsities": [
+      "TELU 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TELU 5100 Beginning Telugu Part I",
+    "courseid": "TELU 5100",
+    "coursedescription": "This course introduces students to the basic Telugu language skills, with an emphasis on practice for listening comprehension, and speaking Telugu. Combined with exposure to Andhra culture, the classroom and online work in this course will enable interested students to pursue further language study in Telugu at the intermediate level, to carry out field research in Andhra Pradesh, or to prepare them to advanced work in Telugu Studies. An introduction to Telugu like this will also be useful for students who just want to acquire basic Telugu language skills for learning a new language or being able to communicate with Telugu speaking family and friends or to enjoy Telugu music and films. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Combined with exposure to Andhra culture, the classroom and online work in this course will enable interested students to pursue further language study in Telugu at the intermediate level, to carry out field research in Andhra Pradesh, or to prepare them to advanced work in Telugu Studies."
+      ]
+    }
+  },
+  {
+    "coursename": "TELU 5200 Beginning Telugu Part II",
+    "courseid": "TELU 5200",
+    "coursedescription": "This course continues tudents to the basic Telugu language skills, with an emphasis on practice for listening comprehension, and speaking Telugu. Combined with exposure to Andhra culture, the classroom and online work in this course will enable interested students to pursue further language study in Telugu at the intermediate level, to carry out field research in Andhra Pradesh, or to prepare them to advanced work in Telugu Studies. An introduction to Telugu like this will also be useful for students who just want to acquire basic Telugu language skills for learning a new language or being able to communicate with Telugu speaking family and friends or to enjoy Telugu music and films. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Combined with exposure to Andhra culture, the classroom and online work in this course will enable interested students to pursue further language study in Telugu at the intermediate level, to carry out field research in Andhra Pradesh, or to prepare them to advanced work in Telugu Studies."
+      ]
+    }
+  },
+  {
+    "coursename": "TELU 5300 Intermediate Telugu Part I",
+    "courseid": "TELU 5300",
+    "coursedescription": "This course is designed to expand the students' basic language skills in Telugu in order to allow them to function adequately in a Telugu-speaking environment, to immerse themselves in the rich Andhra culture, and to accomplish a more advanced competency in an interesting foreign language. This course is also aimed at students planning to conduct scholarly research in Telugu history, literature or society, or humanities or social science fieldwork in Telugu speaking areas. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed to expand the students' basic language skills in Telugu in order to allow them to function adequately in a Telugu-speaking environment, to immerse themselves in the rich Andhra culture, and to accomplish a more advanced competency in an interesting foreign language."
+      ]
+    }
+  },
+  {
+    "coursename": "TELU 5400 Intermediate Telugu Part II",
+    "courseid": "TELU 5400",
+    "coursedescription": "This course is designed to expand the students' basic language skills in Telugu in order to allow them to function adequately in a Telugu-speaking environment, to immerse themselves in the rich Andhra culture, and to accomplish a more advanced competency in an interesting foreign language. This course is also aimed at students planning to conduct scholarly research in Telugu history, literature or society, or humanities or social science fieldwork in Telugu speaking areas. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed to expand the students' basic language skills in Telugu in order to allow them to function adequately in a Telugu-speaking environment, to immerse themselves in the rich Andhra culture, and to accomplish a more advanced competency in an interesting foreign language."
+      ]
+    }
+  },
+  {
+    "coursename": "TELU 5500 Advanced Telugu",
+    "courseid": "TELU 5500",
+    "coursedescription": "This is a course designed for students who have completed four semesters of Telugu. Fall or Spring Mutually Exclusive: TELU 1500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

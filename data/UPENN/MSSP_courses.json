@@ -1,0 +1,283 @@
+[
+  {
+    "coursename": "MSSP 6010 The Power of Partnerships between Government, Non-profits, & the Private Sector",
+    "courseid": "MSSP 6010",
+    "coursedescription": "Everything from the Affordable Care Act to the Mayor's Rebuild Initiative here in Philadelphia could not be implemented by government without strong and vital partnerships with non-profits and the private sector. These collaborations provide an opportunity to help people, impact and change policy, improve outcomes, and multiply the impact that non-profit and private sector organizations can have. The course will help graduate (and advanced undergraduate) students not only understand the theory, policy, and practice of these collaborations but also learn how they actually happen. Students will also learn the characteristics of these three sectors, their roles and contributions, and competitive forces that are often at work in the collaborative process. Topics for discussion will include attitudes and expectations in the public sector, the ingredients of effective partnerships, and effective communication strategies with elected and appointed officials. The course will be conducted on a seminar basis. Graduate students are expected to take an active part in shaping the discussion. Students will be expected to rotate leadership for the class discussions and to supplement course materials with independent study of relevant magazine and newspaper articles. Course grades are assigned as follows: 20 percent for class participation, 15 percent for an in-class written exam, 30 percent for a group presentation and write up of a case study, and 35 percent for a final project. High quality written work and accurate citations is an expectation in all assignments. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 6060 Data for Equitable Justice Lab",
+    "courseid": "MSSP 6060",
+    "coursedescription": "Data for Equitable Justice Lab is a research course that gives SP2 Master’s students an opportunity to analyze some of today’s most important social issues through data and, with instructor support, create a product for audiences well beyond the classroom. With guidance from lab instructors, students develop a project – either individually or as part of a team – to examine a contemporary social policy issue through the use of data, or to examine a social justice issue that concerns data or digital technology. In these projects, students will produce an op-ed, blog post, podcast, academic article, short film, or other product of their choosing that creates or contributes to contemporary policy discourse. This course helps students produce a data-focused work product that they can build on during their Capstone seminar and internship. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 6070 Practical Programming for Data Science",
+    "courseid": "MSSP 6070",
+    "coursedescription": "This course familiarizes students with no prior programming experience with the core concepts of programming and the practice of software development for data-intensive applications in industry and government. After this course, students will be comfortable (1) writing code to save and load from files and spreadsheets into basic data structures like strings, lists, and maps; (2) manipulating data with code to perform tasks like generating aggregate statistics and filtering data into subsets; (3) effectively communicating findings from interactive, exploratory programming with others; and (4) working with technical teams, using best practices of software development when building line- of-business applications. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 6080 Practical Machine Learning Methods",
+    "courseid": "MSSP 6080",
+    "coursedescription": "This course prepares students with no background in machine learning or data science to use tools from those fields effectively in applied contexts. Using GUI-based software - or optionally, by programming with libraries - students will build skills including (1) feature representations of spreadsheet-based or text datasets; (2) training classification and regression models for prediction tasks; (3) evaluation of machine learning model accuracy and error analysis; and (4) reasoning about predictive models and making tradeoffs like bias vs. variance, granularity and annotation complexity in labeled training data, and the ethical application of predictive modeling to human-centered data. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 6280 Policy: Analysis of Issues, Strategy and Process",
+    "courseid": "MSSP 6280",
+    "coursedescription": "Policy analysis requires an understanding of social problems/social issues and the processes by which policy is developed and implemented. Critical skills in many policy frameworks include: problem definition and analysis, review of relevant research, identification of possible actions, implementation and evaluation, and fiscal analysis. Competency in written and oral communication is also essential. To develop these and related skills, this course utilizes as a base a dynamic social problem analysis framework that addresses issues of equity, equality and adequacy. It also examines multiple theoretical and analytical perspectives. Through the review of contemporary and historical social policy debates and provisions, selected case examples and policy briefs, this course provides students with an understanding of the policy roles of the legislative and executive branches of government, including goal setting, policy rulemaking and enactment, allocation of resources, financing, regulation, and implementation. The policy process at state and local levels of government will also be addressed. The primary focus is on U.S. policy although global policies will be discussed when relevant. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 6290 Research and Evaluation Design",
+    "courseid": "MSSP 6290",
+    "coursedescription": "Research and Evaluation Design introduces social research methods in the context of social policy and program evaluation. The course provides a conceptual and practical understanding in the design of experimental, quasi-experimental, and non-experimental research and in the application of quantitative and qualitative methods. Students learn about the application of the research process and skills in all phases of assessing a social policy and developing a social program, including needs assessment, implementation analysis, and evaluation of policy or program effectiveness. Students learn to be critical and informed consumers of research and to apply guidelines of research ethics in social policy settings. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 6300 Quantitative Reasoning/Social Statistics",
+    "courseid": "MSSP 6300",
+    "coursedescription": "This course provides an introduction to statistical inference. We will learn the fundamental tools of data science and apply them to a wide range of social science and policy-oriented questions. The objective of the course is to develop two broad skill sets: (1) an understanding of the conceptual foundations for why we might manage or analyze data in one way versus another, and (2) learning the computing and programming tools (using R) to manage, visualize, and analyze data. The topics covered in the course include descriptive statistics, measure of association for categorical and continuous variables, introduction to t-tests, ANOVA and linear regression, research design (e.g., sampling, measurement, and causal inference), and the language of data analysis. Students will learn how to apply statistical tools to data sources, to design research studies, to test hypotheses, and to interpret the results of quantitative studies. The lecture focuses on the conceptual foundations of statistical inference; R programming instruction is covered in the weekly lab sections. Fall Also Offered As: SOCW 6300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 6310 Law and Social Policy",
+    "courseid": "MSSP 6310",
+    "coursedescription": "This course introduces students to the basics of the American legal system, focusing on the interplay between litigation and social policy. Students will learn how law, and particularly case law, is made, how to read case law and evaluate precedent, legal reasoning and argument. This course will utilize various teaching methods including introduction to the \"Socratic\" lecturing method which is frequently utilized in the study of law. Students will also study the structure of court systems at both state and federal levels as well as the litigation process and the role of law and courts in shaping and addressing social policy issues. Students will also learn the basics of several areas of substantive law, with an eye toward consideration of how that law has been, and can be, used to effect social change. Students who do not have a basic understanding of the American legal system should take MSSP 7805 . Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 6340 MSSP+DA Capstone I: Telling Stories with Data",
+    "courseid": "MSSP 6340",
+    "coursedescription": "The volume and complexity of data continues to increase in the world around us, including science, business, medicine, social media and everyday human activity. This course aims to expose students to visual representation methods and techniques that increase the understanding of complex data. Good visualizations not only present a visual interpretation of data, but do so by improving comprehension, communication, and decision making. In this course, students will learn about the fundamentals of perception, the theory of visualization, and good design practices for visualization. The course will also provide hands-on experience on the process of data communication, from initial data analysis, to identifying appropriate visualization techniques, to crafting informative visualizations. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MSSP 6360 MSSP Capstone Seminar: Policy Communications",
+    "courseid": "MSSP 6360",
+    "coursedescription": "The focus of the Capstone Seminar is three-fold: 1) to enhance student integration of the theory and practice of social policy analysis; 2) to enhance the student's competencies in the written and oral communication processes and procedures necessary for the policy world; and 3) to ensure basic knowledge about federal budget processes, stakeholder roles, and inter-organizational collaboration. At the end of this course, students will complete a final project related to their policy internship. Registration restricted to majors only. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Registration restricted to majors only."
+      ]
+    }
+  },
+  {
+    "coursename": "MSSP 6370 MSSP Policy Internship Seminar",
+    "courseid": "MSSP 6370",
+    "coursedescription": "The course is paired with an intensive, multi-week policy internship that is selected through a consultative process involving the student, the MSSP Internship Coordinator, and the internship mentor/supervisor. The internship provides an opportunity for the student to expand their horizons beyond the academic sphere. The course serves as a medium to integrate classroom learning with experiences in policymaking activity. Your cohort will meet monthly to discuss your internship, career development, and apply what you learn in the program to your work. Meeting dates and times will be communicated at the beginning of each semester and will be posted on Canvas. Registration restricted to majors only.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Registration restricted to majors only."
+      ]
+    }
+  },
+  {
+    "coursename": "MSSP 6380 MSSP+DA Capstone Seminar: Telling Stories with Data",
+    "courseid": "MSSP 6380",
+    "coursedescription": "The volume and complexity of data continues to increase in the world around us, including science, business, medicine, social media and everyday human activity. This course aims to expose students to visual representation methods and techniques that increase the understanding of complex data. Good visualizations not only present a visual interpretation of data, but do so by improving comprehension, communication, and decision making. In this course, students will learn about the fundamentals of perception, the theory of visualization, and good design practices for visualization. The course will also provide hands-on experience on the process of data communication, from initial data analysis, to identifying appropriate visualization techniques, to crafting informative visualizations. At the end of this course, students will complete a final project related to their policy internship in data analytics. Registration restricted to majors only. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Registration restricted to majors only."
+      ]
+    }
+  },
+  {
+    "coursename": "MSSP 6390 MSSP+DA Policy Internship in Data Analytics Seminar",
+    "courseid": "MSSP 6390",
+    "coursedescription": "The course is paired with an intensive, multi-week policy internship that is selected through a consultative process involving the student, the MSSP Internship Coordinator, and the internship mentor/supervisor. The internship provides an opportunity for the student to expand their horizons beyond the academic sphere. The course serves as a medium to integrate classroom learning with experiences in policymaking activity. Your cohort will meet monthly to discuss your internship, career development, and apply what you learn in the program to your work. Meeting dates and times will be communicated at the beginning of each semester and will be posted on Canvas. Registration restricted to majors only.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Registration restricted to majors only."
+      ]
+    }
+  },
+  {
+    "coursename": "MSSP 6680 Economics for Social Policy",
+    "courseid": "MSSP 6680",
+    "coursedescription": "Economics allows us to determine the costs and benefits of social policies like cash benefits, unemployment insurance, health insurance, pensions, education, etc. Policies typically affect the behavior of agents like individuals, families and firms, and we have to take these reactions into account when analyzing policy. Economics allows us to predict how policy is likely to affect behavior by understanding how the policy changes individuals' decisions, and what collective outcomes these myriad individual decisions bring about. For example, a universal basic income allows individuals to sustain themselves and their families when they are not working. At the same time, such guaranteed income has the potential to discourage people from looking for a job. If enough people are discouraged from looking for a job, employment in the economy will decrease, leading to lower production and lower tax revenues for the government. Policymakers have to take these phenomena into account in order to design a good income support system. Fall Also Offered As: SWRK 6680 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7060 Behavioral Economics and Social Policy Design",
+    "courseid": "MSSP 7060",
+    "coursedescription": "This course will introduce students to the field's of behavioral economics and its application to designing social policies concerning health, education, childcare, voting, poverty, financial stability, legal and regulatory frameworks, etc. Behavioral economics extends the classical textbook theory of how the \"rational\" economic individual - often referred to as homo economicus - makes choices to include insights from psychology, biology, anthropology, sociology and other fields to increase the explanatory power of economic theories. While classical economics is still a useful tool for any social scientist to possess, behavioral economics, in the words of one of the fields founding fathers, Richard Thaler (2015), \"is more interesting and more fun than regular economics. It is the un-dismal science.\" Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "While classical economics is still a useful tool for any social scientist to possess, behavioral economics, in the words of one of the fields founding fathers, Richard Thaler (2015), \"is more interesting and more fun than regular economics."
+      ]
+    }
+  },
+  {
+    "coursename": "MSSP 7090 Human Service Organizations: Leadership, Policy, Equity",
+    "courseid": "MSSP 7090",
+    "coursedescription": "Historically, human service organizations have focused on policies and issues that impact the health and well-being of the most vulnerable and marginalized in American society. These include, but are not limited to, child welfare, poverty, housing, reentry, and access to employment and equitable healthcare. Racial and ethnic disparities in human services programs and program outcomes have been well documented. This course will use an intersectional lens to: 1) explore key theoretical and empirical insights from the social sciences to examine the historical barriers to the achievement of equity; 2) focus on ways that policies create persistent barriers to the well-being of radicalized and marginalized populations; and 3) explore ways that human service organizations can be more effective in their equity related goals. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These include, but are not limited to, child welfare, poverty, housing, reentry, and access to employment and equitable healthcare."
+      ]
+    }
+  },
+  {
+    "coursename": "MSSP 7100 Democratizing Data? Critical Data Studies in Algorithmic Governance",
+    "courseid": "MSSP 7100",
+    "coursedescription": "With the advent of digital technologies and the increasing power of computational analytics, the proliferation and ubiquity of data production has increased at exponential rates enabling new possibilities for social analysis. This course will examine the emergence of democratizing data – the movement to make government and other data more widely or publicly available and its potential enabling for democratic possibilities. The types of data being made available, through various analytic systems, and the ways in which their accessibility and inaccessibility is contributing to reconfigured power relations, will be described. The paradigmatic tensions and shifts that have emerged in the debates on “Big Data,” such as deductive versus inductive reasoning and the challenges posed to statistical sampling theory, will be interrogated. The appropriation of machine learning and predictive analytic algorithms for social analysis will be critically explored. Issues related to the ethical and legal use of administrative data, particularly data related to patient, client, student, and taxpayer information will be considered, as well as from internet-based sources including social media. Potential solutions to data security challenges will be additionally considered. Methods for web-scraping of data, analysis of web traffic data, and the use of social networking data in the modeling of social phenomena and public opinion will be examined. Students will learn how to make results accessible to non-technical audiences via data visualization tools, such as web-based data dashboards and web-based maps. These topics will be discussed for the analysis of health, education, and social policy as well as their implications for questions pertaining to race, gender, class, sexuality, dis/abilities, age, and youth culture. This course will develop students' knowledge of computational and data analytics and its applications for social policy analysis. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7300 Community Mapping",
+    "courseid": "MSSP 7300",
+    "coursedescription": "Geographic space is important to family and community well-being, as we know. Community Mapping introduces students to geographic information systems (GIS), computer software for making maps and analyzing spatial data. Students will learn how maps have been used in social welfare history as well as how GIS can be used for needs assessments, asset mapping, program evaluation, and program planning. For the final project, students have an opportunity to apply their GIS skills to creating maps related to their internship. The use of such maps may lead to both program and policy change in neighborhoods and communities. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7410 Gender & Social Policy",
+    "courseid": "MSSP 7410",
+    "coursedescription": "Gender and Social Policy develops an advanced understanding of social policies through the lens of gender - a socially constructed classification system based on ideals of femininity and masculinity, which are most commonly understood to be binary, mutually exclusive categories corresponding to sex (female and male). (Gender is) a concept that pervades all aspects of culture: structuring institutions, social identities, cultural practices, political positions, historical communities, and the shared human experience of embodiment*. The class provides students with the opportunity to explore how social policies respond (and contribute) to the needs and risks of different groups of people based on gender classifications. Rather than a survey of \"gender\" policy, students will be introduced to key feminist and trans concepts and frameworks that can be applied to any social issue and policy intervention. Policy examples may include reproduction, state violence, exclusionary/inclusive space, and national emergencies. The topics and specific readings may change based on the class's interests and current events. Class assignments are designed to provide an opportunity to practice applying gender theory, as well as for each student to examine a policy issue of import to them through a gendered lens. *Paraphrasing Garland-Thomson, 2002, \"Integrating Disability, Transforming Feminist Theory,\" NWSA Journal, 14(3): pg 4. Spring Also Offered As: SWRK 7410 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The topics and specific readings may change based on the class's interests and current events."
+      ]
+    }
+  },
+  {
+    "coursename": "MSSP 7550 International Social Policy & Practice: Perspectives from the Global South",
+    "courseid": "MSSP 7550",
+    "coursedescription": "This interdisciplinary course will introduce students to social policy and practice perspectives from outside the U.S. and especially from communities in the Global South. The course will familiarize them with global professions and help prepare them for overseas/cross-cultural practice. Through the course students will identify numerous strategies and skills professionals have used to collaboratively build interventions within human rights, social policy, social welfare, education, healthcare and sustainable development arenas. Fall Also Offered As: SWRK 7550 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7680 Social Policy Through Literature",
+    "courseid": "MSSP 7680",
+    "coursedescription": "Fiction provides a lens to look at social issues and social policy through the rich and understandable lives of human beings, their challenges, and their triumphs in the holistic context of their worlds. Through appreciation of the human condition as portrayed in literature, students learn to frame issues more precisely and present arguments in compelling and convincing ways, thus enhancing the capabilities of social workers, social policymakers, and other agents to influence policy change. Spring Also Offered As: SWRK 7680 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7801 Reproductive Justice Policy",
+    "courseid": "MSSP 7801",
+    "coursedescription": "With the impactful decision of Dobbs v. Jackson Women’s Health Organization, the US Supreme Court in 2022 struck down almost 50 years of federal policy precedent of Roe v. Wade (1973). This opened a time of confusion as states scrambled to determine the meaning and implications of existing and future state and local policies. This course specifically utilizes the term reproductive justice. As Ross & Solinger (2017) describe, the definition of reproductive justice intentionally moves beyond the pro-choice/pro-life perspectives of policies regulating abortion and focuses policy assessment through core principles of 1) the right not to have a child, 2) the right to have a child, 3) the right to parent children in a safe and healthy environment, and 4) sexual autonomy and gender freedom for every human being. This course will first provide historical context of reproductive justice policy in USA history, then focus on local, state, and federal policies regulating reproductive justice. Policies will be particularly analyzed through the lenses of LGBTQ+, race, disability, and critical theory. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7802 Qualitative Methods in Policy Research",
+    "courseid": "MSSP 7802",
+    "coursedescription": "During a policy intervention, how can we learn from the lived experience of program participants, patients, and the community? Are their lived experiences able to generate innovative and alternative policy solutions? These are some of the questions that strategies of qualitative inquiry can address. Qualitative inquiry provides much needed nuance and complexity that complements quantitative data, enhancing our understanding of social problems, and identification of people-centered solutions. Qualitative methods can empower individuals and communities and act as a conduit for their voices. For example, why do Black patients who have Black physicians report better outcomes? How do the lived experiences of people experiencing poverty establish different needs and solutions for achieving economic stability? This course introduces students to a range of qualitative approaches that can yield insights for use in policy development and analysis. Students will learn how to conceptualize qualitative research questions, select appropriate methods, and develop skills through doing. Course topics include: research ethics, field observation, semi-structured interviewing, focus groups, coding, and analysis. Students who are currently developing their own research projects are encouraged to use this course to refine their methodological framework. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7803 Global Abolition, Decolonization, & Social Policy",
+    "courseid": "MSSP 7803",
+    "coursedescription": "Social policy reflects social structure, and this course seeks to chart how dramatic transformations of that structure can give rise to previously unforeseen policy alternatives. Focusing on abolitionist movements past and present and ongoing global struggles for decolonization, we will analyze not only the concrete impact that these structural shifts produced in the realm of policy, but also—more qualitatively—what kinds of abolitionist and decolonized social policy alternatives can become possible in the process of dismantling entrenched structures of global inequality. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7804 It’s the Guns: Now What?",
+    "courseid": "MSSP 7804",
+    "coursedescription": "The United States has the highest rates of gun ownership and gun violence in the world; and it is such an outlier globally that many scholars consider guns to be a uniquely American problem. Numerous empirical studies have indicated that simply having access to guns is one of the biggest risk factors for later violence—including peer violence, homicide, suicide, and intimate partner violence. If firearm accessibility is a key driver of gun violence, then what should we do about it? This course will explore why Americans own guns, how communities currently respond to gun violence, and various policy options for enhancing gun safety. Gun violence is a complicated problem, and multiple policy solutions are possible to curb this social epidemic. We will read academic, personal, organizational, and governmental articles, as well as engage with mixed media content, like videos. Each student will pick a population or issue on which to focus during the semester. This course will take an active-learning approach, with classes being a mix of lectures and hands-on activities. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7805 Law and Social Policy: Foundations",
+    "courseid": "MSSP 7805",
+    "coursedescription": "This course introduces students to the basics of the American legal system, offering an overview of the intersection of litigation and social policy. Students will learn how law, and particularly case law, is made. Students will study the structure of court systems at both state and federal levels as well as the litigation process and the role of law and courts in shaping and addressing social policy issues. Students will also learn the basics of several areas of substantive law, with an eye toward consideration of how that law has been, and can be, used to effect social change. Students who already have a basic understanding of the American legal system should take MSSP 6310 . Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7960 Family Economic Mobility: Problems and Policies",
+    "courseid": "MSSP 7960",
+    "coursedescription": "The experiences and voices of mothers, fathers, children, employers, children's teachers, human service workers, job training providers, policymakers and others in cities across America graphically show us the \"real life\" challenges to economic mobility facing today's families and organizations. These voices particularly illustrate how economic, social, and cultural policies, practices, and beliefs intersect to perpetuate economic inequality for low-income and many middle-income working families alike. The labor market, welfare and workforce programs, public schools and government are some of the institutions implicated in this intersection. In the course we deconstruct concepts such as the \"work ethic,\" \"family-friendly workplace,\" and \"good jobs\" in terms of economic, racial and cultural inequalities and, more broadly, in terms of their meaning, aims and rhetoric. At base, this course examines occupational mobility in America within the broad framework of capitalism, democracy, race, ethnicity and gender. Students from GSE, SAS, City Planning, and Communications often join SP2 students to read and critique classic and contemporary literature from multiple disciplines and explore generative roles for \"meso-oriented\" social change professionals. Fall Also Offered As: SWRK 7960 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7980 Social Policy Topics",
+    "courseid": "MSSP 7980",
+    "coursedescription": "Titles and topics vary. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSSP 7990 Independent Study",
+    "courseid": "MSSP 7990",
+    "coursedescription": "Independent studies provide a flexible opportunity for faculty and students to work together in pursuing a topic of special interest that is not sufficiently covered by other courses in the curriculum. The content of independent studies is highly specialized and, as such, requires a plan of study developed jointly by the student(s) and the supervising faculty member. Plans for independent study should include: a statement of the issues(s) to be studied; a rationale for why the identified issue(s) should be pursued via an independent study; a statement of how the independent study fits into the student’s overall educational plan; a summary of the independent study’s major learning objectives; the methods to be used in carrying out the study; a workable plan; the educational “products” that will result from the study (normally a written report or paper); and the expected date by which the independent study will be completed. Independent Study Course Approval Form. The process for arranging an independent study requires approval of both the student’s academic advisor and a faculty member who has agreed to conduct the independent study. The procedures to be followed are: The student discusses interest in doing an independent study with the academic advisor. If the advisor concurs with the student’s submission, the advisor and student will discuss potential faculty sponsors. If a faculty sponsor can be located, the student and faculty sponsor craft the specific plan, including learning objectives, content, and structure for the course. The academic advisor informs the registrar that an independent study for the student has been approved. On the rare occasions that a student is unable to schedule a regular School course, the educational advisor makes a recommendation to the MSSP Faculty Director who will try to identify a standing or adjunct faculty member able to supervise the course delivered as an independent study. Fall, Spring, and Summer Terms 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Independent studies provide a flexible opportunity for faculty and students to work together in pursuing a topic of special interest that is not sufficiently covered by other courses in the curriculum.",
+        "The content of independent studies is highly specialized and, as such, requires a plan of study developed jointly by the student(s) and the supervising faculty member.",
+        "The procedures to be followed are: The student discusses interest in doing an independent study with the academic advisor."
+      ]
+    }
+  },
+  {
+    "coursename": "MSSP 8970 Applied Linear Modeling",
+    "courseid": "MSSP 8970",
+    "coursedescription": "This course deals with how to critically and responsibly model real-world data to answer social science, education, and social policy-related questions, using the framework of the general linear model. Linear modeling (which, in statistics, is synonymous with regression analysis) is the workhorse of much of quantitative social science and, despite its enormous flaws and powerful limitations (which this course will also cover!), it remains an important tool to understand and be able to use. The course builds up multiple regression from correlation and bi-variate regression, and then covers categorical independent variables, nonlinear transformations and polynomial terms, diagnostic checks, model-building and model iteration, interaction effects, mediation analysis, and logistic regression. Mathematical (e.g., Gauss-Markov) assumptions are covered but the emphasis is on deeper epistemic assumptions and more immediate practical limitations. While not covered in detail, pointers will be given to techniques for specific types of data (especially multilevel modeling for nested data) and to important modern developments (especially structural causal modeling, non-parametrics, and machine learning). Throughout, the course will return to and emphasize critiques of linear modeling, to encourage students to be able to use (or choose not to use and oppose) regression analysis rigorously, critically, and responsibly. The course will be taught using R. This course includes an introduction to R. Background in R or in programming is not strictly necessary for this course but it is helpful. Prerequisite: MSSP 6300 Quantitative Reasoning/Social Statistics, or another Introductory graduate statistics course. Fall or Spring Also Offered As: SOCW 8970 Prerequisite: MSSP 6300 1 Course Unit",
+    "course-prerequsities": [
+      "MSSP 6300",
+      "SOCW 8970"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

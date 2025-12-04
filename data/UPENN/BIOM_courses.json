@@ -1,0 +1,78 @@
+[
+  {
+    "coursename": "BIOM 5020 Molecular Basis of Disease",
+    "courseid": "BIOM 5020",
+    "coursedescription": "BIOM 502 introduces students to basic mechanisms of disease and examines a different disease each week. The focus of the course will be on understanding the pathophysiology of the diseases and how research has enhanced not only our knowledge of disease mechanisms but has also led to improved therapy for patients with these diseases. This course is reserved for BGS students only. Prerequisite: Permission of course director. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of course director."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOM 5100 Case Studies in Translational Research (CSTR) (Open to MD/PhD and VMD/PhD students only)",
+    "courseid": "BIOM 5100",
+    "coursedescription": "This course is open to MD/PhD, VMD/PhD and Biomedical Graduate Studies PhD students. All second year combined degree students are expected to take this course unless excused by Dr. Brass. Enrollment is limited to 24 students but interested VMD/PhD and BGS students are welcome as space permits. Prerequisite: Must be in the MD/Phd or VMD/PhD program and have completes the first year of training. CSTR is a seminar style course where groups of students work with selected Penn faculty to prepare a discussion and literature review on disease topics. Topics will include gene therapy for hemophilia, retinal disease and wound healing, cytokine therapies for immune disorders, genetic sleep disturbances and vaccine delopment. Most of the course will focus on the analysis of successful translational research projects that are taking place here at Penn. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment is limited to 24 students but interested VMD/PhD and BGS students are welcome as space permits."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOM 5350 Introduction to Bioinformatics",
+    "courseid": "BIOM 5350",
+    "coursedescription": "This course provides overview of bioinformatics and computational biology as applied to biomedical research. A primary objective of the course is to enable students to integrate modern bioinformatics tools into their research activities. Course material is aimed to address biological questions using computational approaches and the analysis of data. A basic primer in programming and operating in a UNIX enviroment will be presented, and students will also be introduced to Python R, and tools for reproducible research. This course emphasizes direct, hands-on experience with applications to current biological research problems. Areas include DNA sequence alignment, genetic variation and analysis, motif discovery, study design for high-throughput sequencing RNA, and gene expression, single gene and whole-genome analysis, machine learning, and topics in systems biology. The relevant principles underlying methods used for analysis in these areas will be introduced and discussed at a level appropriate for biologists without a background in computer science. The course is not intended for computer science students who want to learn about biologically motivated algorithmic problems; BIOL 4536 / BIOL 5536 and BE 5370 / CIS 5370 / MPHY 6090 are more appropriate. Prerequisites: An advanced undergraduate course such as BIOL 4210 or a graduate course in biology such as BIOL 5210 , BIOL 5240 , or equivalent, is a prerequisite. Fall Also Offered As: CIS 5350 , MTR 5350 Prerequisite: BIOL 4210 OR BIOL 5210 OR BIOL 5240 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 4210",
+      "BIOL 5210",
+      "BIOL 5240",
+      "CIS 5350",
+      "MTR 5350"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOM 5550 Regulation of the Genome",
+    "courseid": "BIOM 5550",
+    "coursedescription": "Regulation of gene expression including chromatin structure, transcription, DNA modification, RNA processing, translation, control of gene expression via microRNAs and post-translationalprocessing.Prerequisite: Permission of instructors. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Regulation of gene expression including chromatin structure, transcription, DNA modification, RNA processing, translation, control of gene expression via microRNAs and post-translationalprocessing.Prerequisite: Permission of instructors."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOM 6000 Cell Biology",
+    "courseid": "BIOM 6000",
+    "coursedescription": "BIOM 6000 is a beginning-to-intermediate-level graduate school course designed to introduce students to the molecular compenents and physiological mechanisms that underlie the structure and function of eukaryotic cells. The course emphasizes core cell biology concepts by describing both landmark experiments and methods as well as current scientific research questions and technical approaches. Lectures till focus on discoveries involving: (i) molectuler mechanisms of cellular communication; (ii) intracellular compartmentalization, protein/vesicle targeting, and organelle biogenesis; (iii) mechanisms of membrane transport and excitability; (iv) cytoskeletal architecture, cell adhesion, and cell motility; and (v) cell fate. The main goal of the course is to provide a strong foundational basis for the biomedical student's graduate education especially in the practice of solving research problems in the context of cell biology. The format and content of the course conveys to students not only how scientists what they know but also the tremendous excitement that has paralleled rapid advances in understanding cell structure, organization, and function in recent years. Permission of instructor required to enroll. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of instructor required to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "BIOM 6100 Foundations in Statistics",
+    "courseid": "BIOM 6100",
+    "coursedescription": "Technological advances have transformed biomedical research, making the generation of complex and high-dimensional datasets routine, and underscoring the importance of robust statistical methods for data analyses. In this course, students will learn to use the open-source R programming language to explore foundational topics in statistics, including regression, hypothesis testing, survival analysis, inference, and handling missing data. The course will be virtual and asynchronous (self-paced) and will leverage online resources, including DataCamp.com. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

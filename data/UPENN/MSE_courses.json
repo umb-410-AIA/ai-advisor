@@ -1,0 +1,643 @@
+[
+  {
+    "coursename": "MSE 0099 Undergraduate Research and/or Independent Study",
+    "courseid": "MSE 0099",
+    "coursedescription": "An opportunity for the student to become closely associated with a professor (1) in a research effort to develop research skills and technique and/or (2) to develop a program of independent in-depth study in a subject area in which the professor and student have a common interest. The challenge of the task undertaken must be consistent with the student's academic level. To register for this course, the student and professor jointly submit a detailed proposal to the undergraduate curriculum chairman no later than the end of the first week of the term. Note: a maximum of 2 c.u. of MSE 099 may be applied toward the B.A.S. or B.S.E. degree requirements. Open to all sttudents. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-4 Course Units",
+      "notes": [
+        "An opportunity for the student to become closely associated with a professor (1) in a research effort to develop research skills and technique and/or (2) to develop a program of independent in-depth study in a subject area in which the professor and student have a common interest.",
+        "To register for this course, the student and professor jointly submit a detailed proposal to the undergraduate curriculum chairman no later than the end of the first week of the term."
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 1010 Introduction to Materials Science & Engineering",
+    "courseid": "MSE 1010",
+    "coursedescription": "Everything you see around you has one thing in common - it is made of a material. In this course, we will explore how most of the world’s largest problems (health, energy, clean water, infrastructure, sustainable cities, transportation etc.) have MSE at the heart of the solution. Students will be given an overview of the different classes of materials and how advances in structure, properties, processing and performance lead to new end-user applications that have changed and will continue to change the world around us. Students will learn how technologies are commercialized and the hurdles that need to be addressed if a technology will ever make it to market. Hurdles such as understanding the decision makers along a value chain, regulatory challenges and unit economics will be explored. Students will also be given the opportunity to learn about how things are made and will design their very own pint glass to be laser engraved and will make their very own ceramic beer stein. There is a final project that will be done in groups where teams will explore an industrial area and the materials science behind solving the biggest problems for that industry. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 2010 Materials Lab I",
+    "courseid": "MSE 2010",
+    "coursedescription": "This is the first of three 0.5 CU required laboratory courses in the undergraduate MSE program. This course will focus on applying introductory materials science principles, in tandem with those from prior physics and chemistry courses, to study the properties of metals, polymers, and glasses. Students will apply many of the concepts that are taught in the concurrent course, MSE 2200 . Hands-on laboratory skills that will be developed include thermal testing and characterization, optical microscopy and scanning electron microscopy (SEM), mechanical testing, effects of thermal treatment on material properties, and the basics of MATLAB applied to lab work. In addition, students will develop professional skills regarding working safely and effectively in a team-based laboratory setting, basics of statistics and error analysis, and analyzing and presenting data in written reports and presentations. ENGR 1050 recommended. Fall Prerequisite: CHEM 1012 AND MSE 2200 (may be taken concurrently)",
+    "course-prerequsities": [
+      "CHEM 1012",
+      "MSE 2200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units",
+      "notes": [
+        "ENGR 1050 recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 2020 Materials Lab II",
+    "courseid": "MSE 2020",
+    "coursedescription": "This is the second of three 0.5CU required laboratory courses in the undergraduate MSE program. This course will build on the experimental and professional skills introduced in MSE 2010 and will reinforce concurrent lecture courses in materials thermodynamics and opto-electronics of materials. Hands-on experimental skills to be developed include phase transformations in metals and characterization using electron microscopy image analysis, thin-film fabrication methods and measurement techniques, nano-materials synthesis (including quantum dot technologies) and characterization of size and optical properties, and characterization of next-generation photovoltaic materials. Students will expand on their MATLAB skills for image analysis, I-V curve plotting, and presentation of high-quality figures for technical reports and presentations. Students will also be exposed to material life-cycle analysis, device sensitivity, and sustainability and how they each apply to materials design. Spring Prerequisite: MSE 2010 AND MSE 2150 (may be taken concurrently) AND MSE 2600 (may be taken concurrently)",
+    "course-prerequsities": [
+      "MSE 2010",
+      "MSE 2150",
+      "MSE 2600"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "MSE 2150 Introduction to Functional Materials: From Macro to Nanoscale",
+    "courseid": "MSE 2150",
+    "coursedescription": "The purpose of this course is: 1) to introduce key concepts underlying the design, properties and processing of functional materials and their applications, and 2) to apply these concepts in the rapidly growing field of nanomaterials and nanotechnology. Fundamental chemical and physical principles underlying electronic, dielectric, optical and magnetic properties will be developed in the context of metals, semiconductors, insulators, crystals, glasses, polymers and ceramics. Miniaturization and the nanotechnology revolution confronts materials science with challenges and opportunities. Examples in which nanoscale materials exhibit qualitatively different properties compared to bulk will be emphasized. Spring Prerequisite: MSE 2210 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 2200 Fundamentals of Materials Science and Engineering",
+    "courseid": "MSE 2200",
+    "coursedescription": "The course is an introduction to the most important concepts in materials science and engineering. You will learn how the control of chemical bonding, synthesis, processing, structure and defects can be used to tailor the properties and performance of materials for applications that range from sustainable sources of energy, to construction, to consumer electronics. Case studies are also included to highlight environmental issues associated with materials degradation. This course includes lab demonstrations of key materials properties and a final project where students research an area of materials technology of their own interest. Fall Also Offered As: MEAM 2200 Prerequisite: CHEM 1012 AND ( PHYS 0140 OR MEAM 1100 ) 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1012",
+      "PHYS 0140",
+      "MEAM 1100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course includes lab demonstrations of key materials properties and a final project where students research an area of materials technology of their own interest."
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 2210 Quantum Physics of Materials",
+    "courseid": "MSE 2210",
+    "coursedescription": "This course develops the background in basic physics required to understand the behavior of electrons in atoms, molecules and solids. Beginning with experiments and ideas that led to the foundation and postulates of Quantum Mechanics, the behavior of an electron in simple potential wells is treated. The electron in a harmonic oscillator well and the Coulomb potential of a hydrogen atom are treated next. Pauli's exclusion principle and generalization to multi-particle systems are introduced. The Fermi energy, density of states and free electron band structure will be introduced. Many state-of-the-art materials analysis techniques will also be demonstrated throughout the course. Fall, Spring, and Summer Terms Prerequisite: PHYS 0141 OR PHYS 0151 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0141",
+      "PHYS 0151"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 2600 Energetics of Macro and Nano-scale Materials",
+    "courseid": "MSE 2600",
+    "coursedescription": "Basic principles of chemical thermodynamics as applied to macro and nano-sized materials. This course will cover the fundamentals of classical thermodynamics as applied to the calculation and prediction of phase stability, chemical reactivity and synthesis of materials systems. The size-dependent properties of nano-sized systems will be explored through the incorporation of the thermodynamic properties of surfaces. The prediction of the phase stability of two and three component systems will be illustrated through the calculation and interpretation of phase diagrams for metallic, semiconductor, inorganic systems. Spring Prerequisite: CHEM 1022 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1022"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 2960 Study Abroad",
+    "courseid": "MSE 2960",
+    "coursedescription": "1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 3010 Materials Lab III",
+    "courseid": "MSE 3010",
+    "coursedescription": "This is the third of three 0.5CU required laboratory courses in the undergraduate MSE program. The culmination of the lab program, this course will focus on applying advanced materials science principles taught in concurrent lecture courses to crystallographic techniques and analysis, and to measurements of polymers and soft materials. Students will employ many of the experimental and professional skills developed in past lab experiences; new hands-on laboratory skills to be covered include synthesis of ceramic super-conductor materials and effects of processing on properties, X-ray diffraction and X-ray scattering, and surface modification and contact angle measurements. Students will also be responsible for proposing an independent set of experiments to study a given material that will test their mastery of experimental equipment, procedures, and associated data analysis. In addition, students will develop professional skills surrounding preparing professional technical reports and presentations in a team setting. Fall Prerequisite: MSE 2010 AND MSE 2020 AND MSE 3600 (may be taken concurrently)",
+    "course-prerequsities": [
+      "MSE 2010",
+      "MSE 2020",
+      "MSE 3600"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "MSE 3300 Self-Assembly of Soft Materials",
+    "courseid": "MSE 3300",
+    "coursedescription": "Soft matter is found in diverse applications including sports (helmets & cloths); food (chocolate, egg); consumer products (e.g., lotions and shampoo); and devices (displays, electronics). Whereas solids and liquids are typically hard and crystalline or soft and fluid, respectively, soft matter can exhibit both solid and liquid like behavior. In this class, we investigate the thermodynamic and dynamic principles common to soft matter as well as soft (weak) forces, self-assembly and phase behavior. Classes of matter include colloidal particles, polymers, liquid crystalline molecules, amphiphilic molecules, biomacromolecules/membranes, and food. Fall Also Offered As: BE 3300 Prerequisite: ( MSE 2200 OR BE 2200 ) AND CHEM 1022 or equivalent 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200",
+      "BE 2200",
+      "CHEM 1022"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 3600 Structure at the Nanoscale",
+    "courseid": "MSE 3600",
+    "coursedescription": "To understand the atomic arrangements of crystalline matter, this class focuses on crystallography, symmetry, and diffraction techniques. The first half focuses on learning how to describe the structure of crystalline matter through the basics of crystallography and symmetry by introducing two-dimensional symmetry operations, point, and plane groups; this knowledge is then extended into three-dimensions to arrive at an understanding of space lattices and space groups. The second half is concerned with applying this information to understand structures through various diffraction and microscopy techniques. Fall Prerequisite: MSE 2200 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 3930 Materials Selection",
+    "courseid": "MSE 3930",
+    "coursedescription": "Throughout mankind's history, materials have played a critical role in civilization and technology. The selection of materials has been based on availability and functionality. The rapid advances of materials technologies in the last 150 years have made nearly all classes and forms of materials available. However, this increased material availability comes at a cost, not only in terms of the financial cost of manufacturing advanced materials, but also in terms of the environmental impact for material extraction, processing, and synthesis. The next generation of materials scientists and engineers will thus need to both understand how to optimally select materials from an ever-expanding universe of possibilities while also accounting for the environmental and societal impacts of their material choices. This course introduces materials selection as an optimization process, considering trade-offs in design performance, financial cost, and environmental sustainability. By the end of the course, students can expect to acquire a level of engineering familiarity with a broad range of materials and their properties, while being prepared to undertake environmentally responsible material design projects in critical applications in energy, sustainability, and healthcare, among others. Prerequisite: Junior standing or approval of the instructor. Spring Prerequisite: MSE 2200 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 4050 Mechanical Properties of Macro/Nanoscale Materials",
+    "courseid": "MSE 4050",
+    "coursedescription": "This course will discuss the mechanical properties of a wide range of materials from both macroscopic and microscopic viewpoints. Beginning with a review of elasticity and tensors, the course will describe the deformation, fracture and fatigue behavior of metals, ceramics and polymers. Dislocation theory, strengthening mechanisms and rate-dependent deformation will also be discussed. The following topics will be discussed: 1. Introduction and review of linear elasticity and tensors. Stress and strain tensors, transformations, principal stresses, invariants. Mechanical testing methods at the macro and micro scale. 2. Crystal symmetry and its effect on second and fourth rank tensors. Linear thermal expansion and thermal stresses. Anisotropic linear elasticity. Anisotropic elastic moduli of crystals. 3. Plasticity and yield in continuum elasticity. Notion of yield surfaces. 4. Elements of dislocation theory. Stress and strain fields of dislocations, forces and interactions. 5. Slip and twinning in crystalline solids. 6. Strengthening and deformation properties of crystalline materials. 7. Rate-dependent and high temperature deformation of materials. 8. Fracture of materials. Spring Also Offered As: MEAM 4050 Prerequisite: MSE 2200 or MEAM 2100 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200",
+      "MEAM 2100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 4280 Solid-State Materials Chemistry",
+    "courseid": "MSE 4280",
+    "coursedescription": "This course explores the chemistry and synthesis of materials, focusing on how their properties change with scale and composition. Topics include metals, alloys, nanomaterials, surface chemistry, porous materials, ceramics, and non-crystalline inorganic solids, with discussions of their roles in catalysis and energy applications. Students will learn key synthesis techniques, explore the role of AI in materials discovery, and gain a foundational understanding of the chemical principles that govern material properties. The course combines lectures and journal discussions to equip students with the knowledge to engage with cutting-edge topics. Spring Prerequisite: MSE 2200 OR MSE 2600 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200",
+      "MSE 2600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 4300 Introduction to Polymers",
+    "courseid": "MSE 4300",
+    "coursedescription": "Polymer is one of the most widely used materials in our daily life, from the rubber tires to clothes, from photoresists in chip manufacturing to flexible electronics and smart sensors, from Scotch tapes to artificial tissues. This course teaches entry-level knowledge in polymer synthesis, characterization, thermodynamics, and structure-property relationship. Emphasis will be on understanding both chemical and physical aspects of polymers, polymer chain size and molecular interactions that drive the microscopic and macroscopic structures and the resulting physical properties. We will discuss how to apply polymer designs to advance nanotechnology, electronics, energy and biotechnology. Case studies include thermodynamics of block copolymer thin films and their applications in nanolithography, shape memory polymers, hydrogels, and elastomeric deformation and applications. Fall Also Offered As: CBE 4300 Prerequisite: ( MSE 2600 OR CBE 2310 ) AND CHEM 2210 AND MEAM 2030 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2600",
+      "CBE 2310",
+      "CHEM 2210",
+      "MEAM 2030"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 4400 Phase Transformations",
+    "courseid": "MSE 4400",
+    "coursedescription": "The phase of a material is dependent upon temperature, thermal history, and other variables such as pressure and composition. In this course concepts of metallurgical thermodynamics and kinetics are used to study phase transformations to produce materials with desired properties. Subjects covered include diffusion in solids, crystal interfaces (coherent, semi-coherent, incoherent interfaces), nucleation and growth, equilibrium and nonequilibrium solidification processes, solid state transformations (nucleation and growth of precipitates, GP-Zone formation, Ostwald's step rule, order-disorder transition, spinodal decomposition, martensitic transformation). Spring Mutually Exclusive: MSE 5380 Prerequisite: MSE 2200 AND MSE 2600 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200",
+      "MSE 2600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 4550 Electrochemical Engineering of Materials",
+    "courseid": "MSE 4550",
+    "coursedescription": "After introducing basic electrochemical concepts including cell potential and cell thermodynamics, electrochemical kinetics, mass transport and cell overpotentials, redox reactions, electrolytic versus galvanic cells, standard reduction potentials, and key reactions in electrochemical energy conversion and storage, this course will cover the broad impact of electrochemical phenomena on materials. Topics that will be discussed include: (1) materials for lithium-ion battery electrodes, (2) materials extraction from their ores to finished products using electrochemical methods, (3) materials degradation by electrochemical corrosion, (4) Three-dimensional nanostructured materials by selective electrochemical corrosion. Students will be engaged in interactive classroom activities and hands-on electrochemical experiments (this year —fall 2022 — students will learn to cycle LiMn2O4 coin cell batteries). Fall Mutually Exclusive: MSE 5550 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 4600 Computational Materials Science",
+    "courseid": "MSE 4600",
+    "coursedescription": "This course provides an introduction to modeling and simulation in materials science, covering continuum methods (e.g. finite element methods) and atomistic and molecular simulation (e.g. molecular dynamics). These tools play an increasingly important role in modern engineering. You will get hands-on training in both the fundamentals and applications of these methods to key engineering problems. The lectures will provide an exposure to areas of application, based on the scientific exploitation of the power of computation. We will use software packages (Comsol and LAMMPS) and thus extensive programming skills are not required. Matlab background needed for the course will be covered in a self-contained module. Junior or Senior Standing. Ability to write simple computer codes would be an advantage. Fall Prerequisite: MATH 2410 AND ENGR 1050 or equivalent 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2410",
+      "ENGR 1050"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 4650 Fabrication and Characterization of Micro and Nanostructured Materials",
+    "courseid": "MSE 4650",
+    "coursedescription": "This course surveys various processes that are used to produce materials structured at the micron and nanometer scales for electronic, optical and biological applications. Basic principles of materials chemistry, physics, thermodynamics and surface/interfacial science are applied to solid state, liquid, and colloidal approaches to making materials. A wide range of nano- and microfabrication techniques, including photolithography, soft lithography, nanoimprint lithography, 3D printing and self-assembly, are covered. The course is heavily lab based, with 30% of class time and 50% of the homework devoted to hands on experiences and lab report writing. Lab assignments are a series of structured individual/group projects. Evaluation is based on 3 lab reports, 4 problem sets with journal paper reading assignment, and a final project design. Spring Mutually Exclusive: MSE 5650 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 4950 Senior Design",
+    "courseid": "MSE 4950",
+    "coursedescription": "The senior design course is a two-semester capstone program that gives students the opportunity to design and execute an original experimental or theoretical project in materials science, engineering, or product/device development that is solving a real world problem. Students will work closely with a scientific advisor in their lab and meet once a week in the classroom to learn from an innovative curriculum that will build real-world skills in the context of their research and design project. These skills include project management, networking, teamwork, impactful written and verbal communications, upward management, self-reflection and feedback. Students will also learn how to design research in the context of having an impact on the world. This will be through weekly vignettes of innovative materials science solutions that solve problems in industries ranging from construction to healthcare to consumer products. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 4960 Senior Design",
+    "courseid": "MSE 4960",
+    "coursedescription": "The senior design course is a two-semester capstone program that gives students the opportunity to design and execute an original experimental or theoretical project in materials science, engineering, or product/device development that is solving a real world problem. Students will work closely with a scientific advisor in their lab and meet once a week in the classroom to learn from an innovative curriculum that will build real-world skills in the context of their research and design project. These skills include project management, networking, teamwork, impactful written and verbal communications, upward management, self-reflection and feedback. Students will also learn how to design research in the context of having an impact on the world. This will be through weekly vignettes of innovative materials science solutions that solve problems in industries ranging from construction to healthcare to consumer products. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5000 Experimental Methods in Materials Science",
+    "courseid": "MSE 5000",
+    "coursedescription": "This laboratory course introduces students to a variety of experimental methods used in materials science and engineering. Hands-on training will be provided for atomic force microscopy, X-ray diffraction and scattering, mechanical testing with image capture, and dynamic light scattering. Students will use numerous software packages for data collection and analysis, as well as being introduced to LabVIEW as a method for customizing experiments. In addition, students will see demonstrations of scanning electron microscopy, transmission electron microscopy, and electron diffraction and analyze data from these methods. The format for the course will include a weekly lecture (1.5 hours), a weekly lab session (4 hours) and six assignments. Prerequisite: Permission of the Undergraduate Curriculum Chair and Instructor Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of the Undergraduate Curriculum Chair and Instructor Fall 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 5020 Sustainability of Materials",
+    "courseid": "MSE 5020",
+    "coursedescription": "This discussion-based course will introduce strategies to improve materials sustainability, particularly with respect to reduced energy consumption and greenhouse gas emissions during the extraction, synthesis and fabrication of materials. Innovative solutions will be described that include alternative feedstocks, materials substitutions, and materials waste reduction. This course will primarily focus on metals and polymers. The course will present overarching concepts and illustrative examples that capture the global nature of materials supply chains. Students will explore issues through the framework of the materials lifecycle, including resource availability, manufacturing choices, and disposal options for materials appropriate for the application. The intention is for students to be able to make more informed material selection decisions and to identify critical needs for future material development to improve materials sustainability. Spring Also Offered As: CBE 5020 Prerequisite: CBE 2310 OR MEAM 2030 OR MSE 2600 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2310",
+      "MEAM 2030",
+      "MSE 2600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5050 Mechanical Properties of Macro/Nanoscale Materials",
+    "courseid": "MSE 5050",
+    "coursedescription": "The application of continuum and microstructural concepts to elasticity and plasticity and the mechanisms of plastic flow and fracture in metals, polymers and ceramics. Topics covered include elasticity, viscoelasticity, plasticity, crystal defects, strengthening, crystallographic effects, twinning, creep and fatigue. Emphasis will be on mathematical and physical understanding rather than problem solving. Spring Also Offered As: MEAM 5050 Prerequisite: MSE 2200 OR MEAM 2100 OR MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200",
+      "MEAM 2100",
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5060 Failure Analysis of Engineering Materials",
+    "courseid": "MSE 5060",
+    "coursedescription": "This course will introduce students to the broad field of failure through hands-on real-life examples of specific failures. All engineering materials classes will be considered, including metals, polymers, elastomers, ceramics, and glasses. Emphasis will be placed on understanding how to actually analyze a failed component and understand the cause of failure. Several classes will be conducted by outside experts from places like the NTSB, FBI and OSHA. Fall Also Offered As: MEAM 5060 Prerequisite: MSE 2200 or equivalent 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5070 Fundamentals of Materials",
+    "courseid": "MSE 5070",
+    "coursedescription": "This course will provide a graduate level introduction to the science and engineering of materials. It is designed specifically to meet the needs of students who will be doing research that involves materials but who do not have an extensive background in the field. The focus is on fundamental aspects of materials science and will emphasize phenomena and how to describe them. The course assumes an undergraduate background in any area of physical/chemical science and undergraduate mathematics appropriate to this. The course will also be accessible to students of applied mathematics. Fall Also Offered As: MEAM 5070 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5150 Mathematical Methods for Engineering Applications",
+    "courseid": "MSE 5150",
+    "coursedescription": "According to Galileo, the book of Nature is written in the language of mathematics. Physics is often regarded as the poetry of mathematics. A firm grasp of mathematical techniques is essential to understand the physical nature of matter. Good familiarity with mathematics also helps a student to comprehend and develop scientific ideas. Most fundamental problems in physical sciences may be impossible to solve because of the complexity of Nature. However, a well-formulated simple mathematical problem may indeed be solvable and give a preliminary understanding of the underlying physical phenomena. It is, thus, essential for graduate students to be exposed to standard topics in mathematics and understand how mathematical tools are applied to physical sciences and engineering problems. This course focuses on applications of mathematical methods. No rigorous mathematical derivations are included. The course covers five major topics listed below. 1. Complex Analysis 2. Integral Transforms (Fourier and Laplace) 3. Linear Algebra (Transformations and Tensors) 4. Sturm-Liouville Theory of Linear Differential Equations 5. Partial Differential equations These topics find applications in understanding the Quantum mechanical, electronic, optical, mechanical properties of materials, solving electromagnetic, sound elastic wave propagations in different media, diffusion and its kinetics and Machine Learning. Summer Term Prerequisite: MATH 2400 AND MATH 2410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "MATH 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5180 Structure and Function of Biological Materials",
+    "courseid": "MSE 5180",
+    "coursedescription": "Biological materials display unique properties that give rise to important biological functions. This graduate course will cover topics related to structure and function of biological materials. Students will learn basic principles in assembly and hierarchy of biological materials and biological cellular structure and composition. Lectures will cover biomineralization and inorganic materials, structure and properties of bone and cartilage, biopolymers and elastomers, solid foams and cartilage, and functional and bioinspired materials. Students will critically review assigned scientific papers in group discussion. Groups will be assigned to propose a scientific project related to biological materials. Groups will give a final presentation and submit a 3-6-page written proposal. Individual assessments will include problem sets and two midterm exams. The goal for the course is for students to apply their skills and background in materials science to deepen their understanding of the structure and function of biological materials. Lessons from this course will help students identify new research topics in biological materials science that could be relevant for their graduate studies. Fall Prerequisite: Undergraduate students: MSE 2200 or BE 2200 is required Graduate students: No pre-req 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200",
+      "BE 2200",
+      "PRE-REQ 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5200 Structure of Materials",
+    "courseid": "MSE 5200",
+    "coursedescription": "Crystal structure and bonding. Symmetry: line, plane, point, and space groups. Symmetry considerations in structure-property relations. Physical optics, diffraction as Fourier transforms. Effects of size, shape, temperature and distortion on diffraction intensity. Diffraction of gas, liquid, fibers, and DNA. Diffuse scattering, order/disorder. Pair distribution function, inverse problem, small angle scattering. Radiation-matter interaction, scattering physics, atomic and electronic spectroscopy. Prerequisite: Permission of the Undergraduate Curriculum Chair and Instructor Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of the Undergraduate Curriculum Chair and Instructor Spring 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 5250 Nanoscale Science and Engineering",
+    "courseid": "MSE 5250",
+    "coursedescription": "Overview of existing device and manufacturing technologies in microelectronics, optoelectronics, magnetic storage, Microsystems, and biotechnology. Overview of near- and long-term challenges facing those fields. Near- and long-term prospects of nanoscience and related technologies for the evolutionary sustension of current approaches, and for the development of revolutionary designs and applications. Prerequisite: If course requirement not met, permission of instructor required. Fall Also Offered As: ESE 5250 Prerequisite: ESE 2180 OR PHYS 1240 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5250",
+      "ESE 2180",
+      "PHYS 1240"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 5280 Optical Information Processing for Materials Characterization",
+    "courseid": "MSE 5280",
+    "coursedescription": "This course provides an in-depth exploration of optical analog information processing techniques used for materials characterization such as microscopy and spectroscopy. Students will engage in hands-on experiments to construct and align optical setups, apply spatial filtering methods, and utilize advanced imaging techniques. The course covers interferometric methods and ultrafast coherence length measurements, focusing on their application in analyzing material properties. The emphasis is on understanding and applying analog optical information processing methods for effective materials characterization. Prerequisite: Basic knowledge of optics and material science; Familiarity with laboratory techniques and safety procedures. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5300 Thermodynamics and Phase Equilibria",
+    "courseid": "MSE 5300",
+    "coursedescription": "Fundamental elements of engineering thermodynamics, statistical thermodynamics, chemical thermodynamics and defect thermodynamics. Thermodynamic functions, stability, phase transitions, mixtures (gases, condensed matter, polymer solution), defects and interfaces. Phase diagrams and predominance diagrams. Applications to energy problems (engines, efficiency, power, electrochemical cells) and properties (Curie's law, rubber elasticity, specific heat, phonon/photon spectra, constitutive equations, equation of states). Prerequisite: Permission of the Undergraduate Curriculum Chair and instructor Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of the Undergraduate Curriculum Chair and instructor Fall 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 5360 Electronic Properties of Materials",
+    "courseid": "MSE 5360",
+    "coursedescription": "This course will introduce the physical principles underlying broad spectrum of electronic properties in the solid state. Starting with the band structure of solids, the course will give an overview of electronic, dielectric, magnetic, thermal and optical properties of materials. The treatment will use quantum mechanical and statistical mechanical concepts familiar to students at the undergraduate level. Commonly used theories and models will be introduced and their predictions will be compared with observations. Students who have taken MSE 2210 / MSE 2600 and/or MSE 5700 / MSE 5750 will benefit from this advanced introduction to material properties. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5370 Nanotribology",
+    "courseid": "MSE 5370",
+    "coursedescription": "Engineering is progressing to ever smaller scales, enabling new technologies, materials, devices, and applications. This course will provide an introduction to nano-scale tribology and the critical role it plays in the developing areas of nanoscience and nanotechnology. We will discuss how contact, adhesion, friction, lubrication, and wear at interfaces originate, using an integrated approach that combines concepts of mechanics, materials science, chemistry, and physics. We will cover a range of concepts and applications, drawing connections to both established and new approaches. We will discuss the limits of continuum mechanics and present newly developed theories and experiments tailored to describe micro- and nano-scale phenomena. We will emphasize specific applications throughout the course. Reading of scientific literature, critical peer discussion, individual and team problem assignments, and a peer-reviewed literature research project will be assigned as part of the course. Prerequisite: Prerequisite: MEAM 3540 or MEAM 5190 or MSE/ MEAM 5040 or equivalent required, or consent of instructor. Experience with mathematical analysis software (e.g. Matlab, Python) is required. Not Offered Every Year Also Offered As: MEAM 5370 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 3540",
+      "MEAM 5190",
+      "MEAM 5040",
+      "MEAM 5370"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Prerequisite: MEAM 3540 or MEAM 5190 or MSE/ MEAM 5040 or equivalent required, or consent of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 5380 Phase Transformations",
+    "courseid": "MSE 5380",
+    "coursedescription": "The phase in a material is dependent upon temperature, thermal history, and other variables such as pressure and composition. In this course, concepts of metallurgical thermodynamics and kinetics are used to study phase transformations to efficiently process materials with a desired structure (phase), which enables remarkable properties and subsequently, superior performance. Subjects covered include diffusion in solids, crystal interfaces (coherent, semi-coherent, incoherent interfaces), nucleation and growth, equilibrium and nonequilibrium solidification processes, solid-state transformations (nucleation and growth of precipitates, GP-Zone formation, Ostwald's step rule, order-disorder transition, spinodal decomposition, martensitic transformation). Recommended prerequisite: For GS: Permission from the instructor (in Spring 2026, approximately 5 GS will be admitted) Spring Mutually Exclusive: MSE 4400 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 2026",
+      "MSE 4400"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended prerequisite: For GS: Permission from the instructor (in Spring 2026, approximately 5 GS will be admitted) Spring Mutually Exclusive: MSE 4400 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 5400 Kinetics of Materials",
+    "courseid": "MSE 5400",
+    "coursedescription": "This course describes and analyzes reaction kinetics, fluctuations, diffusion, nucleation, growth, coarsening, instability and pattern formation. These intertwining topics and phenomena occur at all length scales and across all materials (and non-material) classes. Applications to processing, morphology, phase transformations, deformation and fracture, as well as dynamics of driven systems, are emphasized. Spring Prerequisite: MSE 5300 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5440 Computational Science of Energy and Chemical Transformations",
+    "courseid": "MSE 5440",
+    "coursedescription": "Our theoretical and computational capabilities have reached a point where we can do predictions of materials on the computer. This course will introduce students to fundamenta l concepts and techniques of atomic scale computational modeling. The material will cover electronic structure theory and chemical kinetics. Several well-chosen applications in energy and chemical transformations including study and prediction of properties of chemical systems (heterogeneous, molecular, and biological catalysts) and physical properties of materials will be considered. This course will have modules that will include hands-on computer lab experience and teach the student how to perform electronic structure calculations of energetics which form the basis for the development of a kinetic model for a particular problem, which will be part of a project at the end of the course. Thermodynamics, Kinetics, Physical Chemistry, Quantum Mechanics. Undergraduates should consult and be given permission by the instructor. Fall or Spring Also Offered As: BE 5440 , CBE 5440 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Undergraduates should consult and be given permission by the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 5450 Materials for Energy and Environmental Sustainability",
+    "courseid": "MSE 5450",
+    "coursedescription": "This course will cover the fundamental materials science issues central to the design of sustainable energy technology. The goal of this course is to expose students to the emerging advances in materials science and materials chemistry that underpin technologies for energy conversion (fuel cells, thermoelectrics, photovoltaics, wind energy etc..), storage (biofuels, artificial photosynthesis, batteries etc) and distribution (smart grids and hydrogen and methane economy concepts etc..) and to place these in a real world context. This class will emphasize concepts in \"green materials and green engineering practices\" that are emerging with a global focus on \"Sustainable Technology.\" \"Sustainability is defined as meeting the needs of the present without compromising the ability of future generations to meet their needs.\" Engineering materials and processes at all scales; molecular/nanometer, micro, and the macro-scale are critical to developing the tools society required to meet the growing needs for energy and sustainable materials for the built environment. This course is appropriate for graduate students and advanced undergraduates in Penn's Material Science Programs. Core MSE curriculum components in thermodynamics, structure, electronic & ionic transport, mechanics, polymers and optical materials will be expected, and exposure to the preparation in basic Chemistry and Physics will be advantageous in this highly interdisciplinary course. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5500 Elasticity and Micromechanics of Materials",
+    "courseid": "MSE 5500",
+    "coursedescription": "This course is targeted to engineering students working in the areas on micro/nanomechanics of materials. The course will start with a quick review of the equations of linear elasticity and proceed to solutions of specific problems such as the Hertz contact problem, Eshelby's problem etc. Failure mechanisms such as fracture and the fundamentals of dislocations/plasticity will also be discussed. Prerequisite: graduate standing or permission of the instructor. Fall Also Offered As: MEAM 5190 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 5190"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: graduate standing or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 5550 Electrochemical Engineering of Materials",
+    "courseid": "MSE 5550",
+    "coursedescription": "After introducing basic electrochemical concepts including cell potential and cell thermodynamics, electrochemical kinetics, mass transport and cell overpotentials, redox reactions, electrolytic versus galvanic cells, standard reduction potentials, and key reactions in electrochemical energy conversion and storage, this course will cover the broad impact of electrochemical phenomena on materials. Topics that will be discussed include: (1) materials for lithium-ion battery electrodes, (2) materials extraction from their ores to finished products using electrochemical methods, (3) materials degradation by electrochemical corrosion, (4) Three-dimensional nanostructured materials by selective electrochemical corrosion. Students will be engaged in interactive classroom activities and hands-on electrochemical experiments (this year —fall 2022 — students will learn to cycle LiMn2O4 coin cell batteries). Fall Mutually Exclusive: MSE 4550 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5610 Atomic Modeling in Materials Science",
+    "courseid": "MSE 5610",
+    "coursedescription": "This course covers two major aspects of atomic level computer modeling in materials. 1. Methods: Molecular statics, Molecular dynamics, Monte Carlo, Kinetic Monte Carlo as well as methods of analysis of the results such as radial distribution function, thermodynamics deduced from the molecular dynamics, fluctuations, correlations and autocorrelations. 2. Semi-empirical descriptions of atomic interactions: pair potentials, embedded atom method, covalent bonding, ionic bonding. Basics of the density functional theory. Mechanics, condensed matter physics, thermodynamics and statistical mechanics needed in interpretations are briefly explained. No prior coding experience is required. Students will be taught the basics of python in the first week of class. Fall Also Offered As: MEAM 5530 Prerequisites: Undergraduate introduction to classical physics, quantum mechanics, thermodynamics and mechanical properties is helpful. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5650 Fabrication and Characterization of Micro and Nanostructured Materials",
+    "courseid": "MSE 5650",
+    "coursedescription": "This course surveys various processes that are used to produce materials structured at the micron and nanometer scales for electronic, optical and biological applications. Basic principles of materials chemistry, physics, thermodynamics and surface/interfacial science are applied to solid state, liquid, and colloidal approaches to making materials. A wide range of nano- and microfabrication techniques, including photolithography, soft lithography, nanoimprint lithography, 3D printing and self-assembly, are covered. The course is heavily lab based, with 30% of class time and 50% of the homework devoted to hands on experiences and lab report writing. Lab assignments are a series of structured individual/group projects. Evaluation is based on 3 lab reports, 4 problem sets with journal paper reading assignment, and a final project design. Prerequisite: If course requirement not met, permission of instuctor required. Spring Mutually Exclusive: MSE 4650 Prerequisite: MSE 3600 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 4650",
+      "MSE 3600"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instuctor required."
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 5700 Physics of Materials I",
+    "courseid": "MSE 5700",
+    "coursedescription": "Quantum Information Science and Engineering (QISE) exploits fundamental principles of quantum mechanics for generating, processing, transmitting, and sensing quantum information to fundamentally transform our current technologies ranging from computing, communication, sensing, imaging and drug discovery. Even current technologies such as integrated circuits and devices used to power our information technology infrastructure (lasers, LEDs, modulators, detectors) also requires quantum mechanics to understand their behavior. Materials are the core of all technologies and their properties are determined by quantum principles. To understand the impact of quantum phenomena determining the novel properties of cutting-edge materials, we will combine traditional lecture style to learn the fundamental tools and techniques of quantum mechanics and then discuss some landmark scientific papers where quantum phenomena play a central role in materials, devices and technologies. In the last few weeks of the course, we will discuss the latest progress made in the area of quantum materials with focus towards applications in quantum computers, communications, sensors and medical technologies. We will also discuss the role of artificial intelligence and machine learning to discover new quantum materials with precise responses and its impact on future technologies. These discussions will be based on assigned reading of the relevant literature followed by open but supervised discussions to understand their relevance and impact. In parallel, we will make teams of 2 students to research (under supervision) literature in a specific area of quantum materials to develop a plan for a detailed term paper that will be evaluated based on the content, presentation and a written paper. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5750 Statistical Mechanics",
+    "courseid": "MSE 5750",
+    "coursedescription": "Statistical Mechanics is a unique branch of physics that permeates our understanding of matter at all length scales, from nanometers to stellar dimensions, and ranging in temperatures from pico-Kelvin (or lower) to billions of degrees Kelvin. This course will provide an overview of select topics in equilibrium and non-equilibrium statistical mechanics. The course will introduce the basic postulates of classical and quantum equilibrium statistical mechanics, explain the methodology of calculating observable properties, and discuss several applications in diverse fields. The second part of the course will introduce the methodology of non-equilibrium processes and discussing important theorems and results in the linear response regime. Finally, a brief discussion of systems far from equilibrium will be presented. Select applications from condensed matter physics, chemistry, materials science, biology, astrophysics, economics and meteorology will be used to illustrate the fundamental principles. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5760 Machine Learning and Its Applications in Materials Science",
+    "courseid": "MSE 5760",
+    "coursedescription": "Beginning with a review of linear algebra, probability theory, Bayesian statistics, Statistical Mechanics notions of entropy, information and optimization tools, some of the major advances in deep learning over the past twenty years will be discussed in detail. These include the multilayer perceptron (MLP), convolutional neural network (CNN), recurrent neural networks (RNN), autoencoders, graph networks, Boltzmann machine, variational autoencoders and deep generative adversarial models. In conjunction with the weekly lectures, a set of labs will be offered (roughly 2 per month) that will demonstrate the workings of important models using data derived from Materials Science research papers and MSE databases. The labs will also complement the contents of the homework sets for each fortnight. The lab sessions will implement the following models: linear regression, logistic regression, random forest model, single layer and multi-layer perceptron, CNN, RNN, graph neural networks and general adversarial networks. A variety of data sets representing material properties for varied applications will be used in the labs. The homework sets will use additional data sets. For students with no prior coding skills, a preliminary Python Lab 0 tutorial will be held in the first week of classes. Students may obtain assistance from the TAs for coding logic and help with homework during office hours. A written project is due in the final week of classes. Students will submit a 1-2 page synopsis of a published paper from a peer-reviewed journal that uses ML and DL methods. This report will be graded on the student’s ability to summarize the paper’s ideas, results and discussions for future work. Summer Term Prerequisite: MSE 2600 AND MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2600",
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The lab sessions will implement the following models: linear regression, logistic regression, random forest model, single layer and multi-layer perceptron, CNN, RNN, graph neural networks and general adversarial networks."
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 5800 Introduction to Polymers",
+    "courseid": "MSE 5800",
+    "coursedescription": "Polymer is one of the most widely used materials in our daily life, from the rubber tires to clothes, from photoresists in chip manufacturing to flexible electronics and smart sensors, from Scotch tapes to artificial tissues. This course teaches entry-level knowledge in polymer synthesis, characterization, thermodynamics, and structure-property relationship. Emphasis will be on understanding both chemical and physical aspects of polymers, polymer chain size and molecular interactions that drive the microscopic and macroscopic structures and the resulting physical properties. We will discuss how to apply polymer designs to advance nanotechnology, electronics, energy and biotechnology. Case studies include thermodynamics of block copolymer thin films and their applications in nanolithography, shape memory polymers, hydrogels, and elastomeric deformation and applications. Fall Also Offered As: CBE 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5850 Materials for Bioelectronics",
+    "courseid": "MSE 5850",
+    "coursedescription": "Bioelectronics is an emerging field that involves the use of engineering principles to create devices for applications in biology, medicine, and health sciences. One of the most important aspects of bioelectronics is the development of communication interfaces between biological materials (cells, tissues and organs) and manmade devices for optimal energy delivery and signal transduction efficacies. Progress in materials science and engineering is bringing revolutionary advances to the biointerface design and has unlocked unprecedented applications in various biomedical fields. This course focuses on the materials science and engineering concepts that are of relevance to bioelectronics. It also introduces basic biochemical, biophysical and physiological principles that are required to understand the design and application of bioelectronic devices. Spring Also Offered As: BE 5850 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 5990 Master's Indep Study",
+    "courseid": "MSE 5990",
+    "coursedescription": "Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-4 Course Units"
+    }
+  },
+  {
+    "coursename": "MSE 6100 Transmission Electron Microscopy",
+    "courseid": "MSE 6100",
+    "coursedescription": "Theory and application of transmission electron microscopy methods to problems in materials science and engineering, condensed matter physics, soft matter, polymeric materials , inorganic chemistry and chemical engineering. The principles of microscope operation, electron scattering, image formation and spectroscopy will be described, with an emphasis on both theory and experiment. With laboratory. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 6110 Advanced Synchrotron and Electron Characterization of Materials",
+    "courseid": "MSE 6110",
+    "coursedescription": "This course provides an overview of the latest techniques for the characterization of materials with synchrotron x-rays and electron microscopy. Emphasis is placed on understanding of x-ray and electron interactions with matter, and how these may be exploited to characterize structure and chemistry at the nanometer to atomic scale. Prerequisite: Graduate students: Background in solid-state physics, crystallography and quantum mechanics is strongly recommended. Undergraduates: MSE 570. 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 570"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Graduate students: Background in solid-state physics, crystallography and quantum mechanics is strongly recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "MSE 6400 Optical Materials",
+    "courseid": "MSE 6400",
+    "coursedescription": "This course discusses the optical properties of modern materials engineered for specific functionality and covers exciting new developments being made in this rapidly evolving field. Emphasis is placed on how modern nanotechnology reshapes the light-matter interaction and delivers novel optical properties that are not available in nature. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 6500 Mechanics of Soft and Biomaterials",
+    "courseid": "MSE 6500",
+    "coursedescription": "This course is aimed to expose the students to a variety of topics in mechanic materials via discussion of \"classic\" problems that have had the widest impact long period of time and have been applied to analyze the mechanical behavior a variety of biological and engineering materials. Not Offered Every Year Also Offered As: MEAM 6500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 6990 MSE Seminar",
+    "courseid": "MSE 6990",
+    "coursedescription": "The seminar course has been established so that students receive encouragement to attend and recognition for attending departmental seminars. Students registered for this course are required to attend weekly departmental seminars given by distinguished speakers from around the world. To obtain a satisfactory (S) grade, the student must attend more than 85% of such seminars. No unexcused absence allowed. Participation in the seminar course will be documented and recorded on the transcript. In order to obtain their degrees, doctoral students will be required to accumulate seven seminar courses and MS candidates two courses. Under special circumstances, i.e., in case of conflict with another course, the student may petition to the Graduate Group Chair to waive the seminar requirement for a particular semester. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "MSE 7900 Selected Topics in Materials Science and Engineering",
+    "courseid": "MSE 7900",
+    "coursedescription": "Students should check department office for special topics. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 8950 Teaching Practicum.",
+    "courseid": "MSE 8950",
+    "coursedescription": "Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MSE 9950 Dissertation",
+    "courseid": "MSE 9950",
+    "coursedescription": "PhD Dissertation Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "MSE 9990 Master's Thesis",
+    "courseid": "MSE 9990",
+    "coursedescription": "For students working on an advanced research program leading to the completion of master's thesis requirements. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1,2 Course Units"
+    }
+  },
+  {
+    "coursename": "MSE 9999 Independent Study Research",
+    "courseid": "MSE 9999",
+    "coursedescription": "For Material Science and Engineering doctoral students studying a specific advanced subject area. Students should discuss with the faculty supervisor the scope of the independent study/research and know the expectations and work involved. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-3 Course Units"
+    }
+  }
+]

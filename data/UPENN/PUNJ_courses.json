@@ -1,0 +1,88 @@
+[
+  {
+    "coursename": "PUNJ 0100 Beginning Punjabi Part I",
+    "courseid": "PUNJ 0100",
+    "coursedescription": "This course emphasizes speaking and reading skills in Punjabi. Upon completion of this course, students should be able to interact meaningfully and in a socially acceptable manner in a variety of simple situations involving everyday conversational topics. Further, students should be able to read and understand the main idea and most details of simple connected texts. This course will utilize authentic printed, audio, and video materials and will provide opportunities for natural communication both within and outside the classroom. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUNJ 0200 Beginning Punjabi Part II",
+    "courseid": "PUNJ 0200",
+    "coursedescription": "This course emphasizes speaking and reading skills in Punjabi. Upon completion of this course, students should be able to interact meaningfully and in a socially acceptable manner in a variety of simple situations involving everyday conversational topics. Further, students should be able to read and understand the main idea and most details of simple connected texts. This course will utilize authentic printed, audio, and video materials and will provide opportunities for natural communication both within and outside the classroom. Spring Prerequisite: PUNJ 0100 OR PUNJ 5100 1 Course Unit",
+    "course-prerequsities": [
+      "PUNJ 0100",
+      "PUNJ 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUNJ 0300 Intermediate Punjabi Part I",
+    "courseid": "PUNJ 0300",
+    "coursedescription": "This course is designed as a continuation of Beginning Punjabi, but can also be taken by anyone who can demonstrate a similar level in proficiency of the language. The course objectives are to expand the mastery of sentence patterns and augment vocabulary and its usage through intensive grammar review and comprehension exercises. A special emphasis will also be placed on greater cultural awareness. Upon completion of this course students should be able to interact socially with added confidence and greater expressiveness. Students should also experience a great improvement in their comprehension of the spoken and written language. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUNJ 0400 Intermediate Punjabi Part II",
+    "courseid": "PUNJ 0400",
+    "coursedescription": "This course is designed as a continuation of Beginning Punjabi, but can also be taken by anyone who can demonstrate a similar level in proficiency of the language. The course objectives are to expand the mastery of sentence patterns and augment vocabulary and its usage through intensive grammar review and comprehension exercises. A special emphasis will also be placed on greater cultural awareness. Upon completion of this course students should be able to interact socially with added confidence and greater expressiveness. Students should also experience a great improvement in their comprehension of the spoken and written language. Spring Prerequisite: PUNJ 0300 OR PUNJ 5300 1 Course Unit",
+    "course-prerequsities": [
+      "PUNJ 0300",
+      "PUNJ 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUNJ 1500 Advanced Punjabi",
+    "courseid": "PUNJ 1500",
+    "coursedescription": "The objective of the course is to improve proficiency in speaking, listening, reading and writing. Fall semester: Readings in Punjabi Literature - This course addresses the individual needs of learners. This is a one semester course. The focus of the course will be to study the interpretation of written and oral materials on social, political and contemporary cultural topics from modern literature, literary criticism, poetry and drama. Weekly written compositions and oral presentations will be assigned. Grading will be based on this. Spring semester: Punjabi Popular Culture- This course focuses on different aspects of popular Punjabi culture as they are represented in media - television, internet, magazines, newspapers, film, and music. This course aims at making the best use of class participation to improve all four language skills. This is also a one semester course. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUNJ 5100 Beginning Punjabi Part I",
+    "courseid": "PUNJ 5100",
+    "coursedescription": "This course emphasizes speaking and reading skills in Punjabi. Upon completion of this course, students should be able to interact meaningfully and in a socially acceptable manner in a variety of simple situations involving everyday conversational topics. Further, students should be able to read and understand the main idea and most details of simple connected texts. This course will utilize authentic printed, audio, and video materials and will provide opportunities for natural communication both within and outside the classroom. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUNJ 5200 Beginning Punjabi Part II",
+    "courseid": "PUNJ 5200",
+    "coursedescription": "This course emphasizes speaking and reading skills in Punjabi. Upon completion of this course, students should be able to interact meaningfully and in a socially acceptable manner in a variety of simple situations involving everyday conversational topics. Further, students should be able to read and understand the main idea and most details of simple connected texts. This course will utilize authentic printed, audio, and video materials and will provide opportunities for natural communication both within and outside the classroom. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUNJ 5300 Intermediate Punjabi Part I",
+    "courseid": "PUNJ 5300",
+    "coursedescription": "This course is designed as a continuation of Beginning Punjabi, but can also be taken by anyone who can demonstrate a similar level in proficiency of the language. The course objectives are to expand the mastery of sentence patterns and augment vocabulary and its usage through intensive grammar review and comprehension exercises. A special emphasis will also be placed on greater cultural awareness. Upon completion of this course students should be able to interact socially with added confidence and greater expressiveness. Students should also experience a great improvement in their comprehension of the spoken and written language. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUNJ 5400 Inermediate Punjabi Part II",
+    "courseid": "PUNJ 5400",
+    "coursedescription": "This course is designed as a continuation of Beginning Punjabi, but can also be taken by anyone who can demonstrate a similar level in proficiency of the language. The course objectives are to expand the mastery of sentence patterns and augment vocabulary and its usage through intensive grammar review and comprehension exercises. A special emphasis will also be placed on greater cultural awareness. Upon completion of this course students should be able to interact socially with added confidence and greater expressiveness. Students should also experience a great improvement in their comprehension of the spoken and written language. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUNJ 5500 Advanced Punjabi",
+    "courseid": "PUNJ 5500",
+    "coursedescription": "The objective of the course is to improve proficiency in speaking, listening, reading and writing. Fall semester: Readings in Punjabi Literature - This course addresses the individual needs of learners. This is a one semester course. The focus of the course will be to study the interpretation of written and oral materials on social, political and contemporary cultural topics from modern literature, literary criticism, poetry and drama. Weekly written compositions and oral presentations will be assigned. Grading will be based on this. Spring semester: Punjabi Popular Culture- This course focuses on different aspects of popular Punjabi culture as they are represented in media - television, internet, magazines, newspapers, film, and music. This course aims at making the best use of class participation to improve all four language skills. This is also a one semester course. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

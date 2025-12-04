@@ -1,0 +1,59 @@
+[
+  {
+    "coursename": "VIET 1100a, Elementary Vietnamese I Quang Van",
+    "courseid": "VIET 1100a",
+    "coursedescription": "Students acquire basic working ability in Vietnamese, developing skills in speaking, listening, writing (Roman script), and reading. Discussion of aspects of Vietnamese society and culture. Intended for students with no previous knowledge of Vietnamese. L1 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VIET 1200b, Elementary Vietnamese II Quang Van",
+    "courseid": "VIET 1200b",
+    "coursedescription": "Continuation of VIET 110. L2 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* VIET 1320a, Accelerated Vietnamese Quang Van",
+    "courseid": "VIET 1320a",
+    "coursedescription": "This course follows a community-based language model designed for heritage students or speakers who comprehend and speak informal Vietnamese on topics related to everyday situations but do not read or write Vietnamese. Study of interpersonal, interpretive, and presentational communicative modes, as well as standard foreign language education (communication, cultures, connections, comparisons, and communities). Students will engage with Vietnamese American communities in New Haven and beyond. Admits to VIET 140 . L3 MWF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* VIET 1420b, Accelerated Vietnamese II Quang Van",
+    "courseid": "VIET 1420b",
+    "coursedescription": "An accelerated course designed for heritage students who wish to build a higher level of proficiency and develop sociocultural competence in speaking, reading, and writing. Topics include health care, rituals, community, linguistic landscape, education, mass communication, literature, history, values, and traditional and pop cultures. VIET 132 or equivalent. L4 MWF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* VIET 1600a, Advanced Vietnamese II Quang Van",
+    "courseid": "VIET 1600a",
+    "coursedescription": "Aims to enable students to achieve greater fluency and accuracy in the language beyond the intermediate level and to solidify their reading, writing, speaking, and listening skills. Topics include socio-cultural practices, romantic love, healthcare, history, gender issues, pop music, and food culture. Prerequisite: L4 Vietnamese or equivalent. L5 HTBA",
+    "course-prerequsities": [
+      "L4",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* VIET 4600b, Readings in Vietnamese Quang Van",
+    "courseid": "VIET 4600b",
+    "coursedescription": "This reading course provides an opportunity for students at an advanced Vietnamese language level (L5) to rigorously engage in concentrated reading and research in Vietnamese language. Prerequisite: L5 proficiency and permission of the course instructor. L5 HTBA",
+    "course-prerequsities": [
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: L5 proficiency and permission of the course instructor."
+      ]
+    }
+  }
+]

@@ -1,0 +1,646 @@
+[
+  {
+    "coursename": "* MCDB 0400b, The Science and Politics of Cancer Robert Bazell",
+    "courseid": "MCDB 0400b",
+    "coursedescription": "Fundamentals of cell biology, Darwinian evolution, immunology, and genetics that underlie cancer; the history of cancer science and treatment; historical and current policy issues. Prerequisite: AP Biology or equivalent. Enrollment limited to first-year students. SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 0650a, The Science and Politics of HIV/AIDS Robert Bazell",
+    "courseid": "MCDB 0650a",
+    "coursedescription": "Study of the basic virology and immunology of HIV/AIDS, along with its extraordinary historical and social effects. Issues include the threat of new epidemics emerging from a changing global environment; the potential harm of conspiracy theories based on false science; and how stigmas associated with poverty, gender inequality, sexual preference, and race facilitate an ongoing epidemic. For all first-year students regardless of whether they are considering a science major. Prerequisite: AP Biology or equivalent. Enrollment limited to first-year students. SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "MCDB 913b and MCDB 9130b / CBIO 9130b / GENE 9130b, Third Laboratory Rotation Andrew Xiao",
+    "courseid": "MCDB 913b",
+    "coursedescription": "Third laboratory rotation for Molecular Cell Biology, Genetics, and Development (MCGD) and Plant Molecular Biology (PMB) track students. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 1030b, Cancer Alexia Belperron",
+    "courseid": "MCDB 1030b",
+    "coursedescription": "The main purpose of this course is the development of an understanding of the biology of cancer, with emphasis on understanding the core biological principles and how an understanding of these principles is essential to understanding how cancer develops, how it can be treated, and how we can try to prevent its development. Topics include genetics, biochemistry, immunity, infection agents, and challenges for prevention and treatment. Intended for non–science majors and preference is given to first years and sophomores. Prerequisite: High school biology is required. SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MCDB 1050a or b / MB&B 1050a or b, Biology, the World, and Us Staff",
+    "courseid": "MCDB 1050a",
+    "coursedescription": "This course is for non-science majors who wish to gain an understanding of modern biology by examining the scientific basis of current issues. We’ll consider issues related to: i) pandemics and global infectious disease; ii) the climate crisis; iii) the future of genetics and the new green revolution. Many of the topics have an increasingly large impact on our daily lives. The issues are both social and biological, and it’s crucial that social debate be based on a clear understanding of the underlying science. The instructors will explain the scientific foundation beneath each issue. We’ll emphasize the nature of science as a process of inquiry rather than a fixed body of terminology and facts. The course is not intended to be a comprehensive survey of biology. SC 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 1060a / EEB 1106a / HLTH 1550, Biology of Malaria, Lyme, and Other Vector-Borne Diseases Alexia Belperron",
+    "courseid": "MCDB 1060a",
+    "coursedescription": "Introduction to the biology of pathogen transmission from one organism to another by insects; special focus on malaria, dengue, and Lyme disease. Biology of the pathogens including modes of transmission, establishment of infection, and immune responses; the challenges associated with vector control, prevention, development of vaccines, and treatments. Intended for non–science majors; preference to first-years and sophomores. Prerequisite: high school biology. SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 1090b, Immunity, Microbes, and Pandemics Staff",
+    "courseid": "MCDB 1090b",
+    "coursedescription": "Have you ever wondered what’s going on inside your body when you’re stuck in bed with the flu? Fevers and runny noses are just the outward manifestation of a complex and raging battle between your immune cells and their foes – bacteria, viruses, and other threats to your health. In this class you will learn about the different cellular players of your immune system and the jobs they are tasked with in the constant fight to keep you healthy. As you become familiar with the basic science behind how the immune system fends off bacteria, viruses, and even cancer, you will apply that knowledge to past and present pandemics and humanity’s ongoing efforts to eradicate human disease. There will be a field trip to the Yale Art Gallery and to research labs at the medical school. SC 0 Course cr TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MCDB 2000b, Molecular & Biochemical Principles of Gene Function Anna Marie Pyle and Farren Isaacs",
+    "courseid": "MCDB 2000b",
+    "coursedescription": "The way we think about our health, our material world, and even our national economy, is undergoing radical change because of the revolution in biology. In this course, students learn the basic concepts that drive this revolution to become active and informed participants. Specifically, this course provides a comprehensive overview of modern molecular biology and its applications. Topics include the structure, function, and chemical behavior of biological macromolecules (DNA, RNA, and protein), chromosome and genome organization, replication and maintenance of the genome, genome editing, transcriptional and translational regulation, structure and function of regulatory noncoding RNAs, RNA splicing, editing and modification and first principles of synthetic biology. Upon completion of the course, students understand the molecular basis for regulated gene expression and the many implications for medicine, biotechnology, and biological engineering. Prerequisites: CHEM 161 or 163, and BIOL 101 (or placement out of BIOL 101 via BIOL 101 placement exam, or via AP5 or IB7HL with permission of core course instructor). SC 0 Course cr TTh 9am-10:15am",
+    "course-prerequsities": [
+      "CHEM 161",
+      "163",
+      "BIOL 101",
+      "AP5",
+      "SC 0",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: CHEM 161 or 163, and BIOL 101 (or placement out of BIOL 101 via BIOL 101 placement exam, or via AP5 or IB7HL with permission of core course instructor)."
+      ]
+    }
+  },
+  {
+    "coursename": "MCDB 2010Lb, Molecular Biology Laboratory Maria Moreno",
+    "courseid": "MCDB 2010Lb",
+    "coursedescription": "Basic molecular biology training in a project-based laboratory setting. Experiments analyze gene function through techniques of PCR, plasmid and cDNA cloning, DNA sequence analysis, and protein expression and purification. Instruction in experimental design, data analysis, and interpretation. Concurrently with or after MCDB 200, or with permission from instructor. For first-years and sophomores interested in research integrated laboratory experience. Special registration procedures apply. Interested students must contact the instructor and attend an organizational meeting during the first week of classes. WR , SC 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Concurrently with or after MCDB 200, or with permission from instructor.",
+        "For first-years and sophomores interested in research integrated laboratory experience.",
+        "Interested students must contact the instructor and attend an organizational meeting during the first week of classes."
+      ]
+    }
+  },
+  {
+    "coursename": "MCDB 2020a, Genetics Staff",
+    "courseid": "MCDB 2020a",
+    "coursedescription": "An introduction to classical, molecular, and population genetics of both prokaryotes and eukaryotes and their central importance in biological sciences. Emphasis on analytical approaches and techniques of genetics used to investigate mechanisms of heredity and variation. Topics include transmission genetics, cytogenetics, DNA structure and function, recombination, gene mutation, selection, and recombinant DNA technology. Prerequisite: BIOL 103 or equivalent performance on the corresponding biological sciences placement examination. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "BIOL 103",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 2030La, Laboratory for Genetics Staff",
+    "courseid": "MCDB 2030La",
+    "coursedescription": "Introduction to laboratory techniques used in genetic analysis. Genetic model organisms—bacteria, yeast, Drosophila, and Arabidopsis —are used to provide practical experience with various classical and molecular genetic techniques including cytogenetics; complementation, epistasis, and genetic suppressors; mutagenesis and mutant analysis, recombination and gene mapping, isolation and manipulation of DNA, and transformation of model organisms. Concurrently with or after MCDB 202. SC 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MCDB 2050b, Cell Biology Staff",
+    "courseid": "MCDB 2050b",
+    "coursedescription": "A comprehensive introductory course in cell biology. Emphasis on the general principles that explain the molecular mechanisms of cellular function. Prerequisites: BIOL 101 and 102, or equivalent performance on the corresponding biological sciences placement examinations, or a score of 5 on the Advanced Placement test in Biology, or a score of 710 or above on the SAT Biology M test, or MCDB 200. SC 0 Course cr TTh 9am-10:15am",
+    "course-prerequsities": [
+      "BIOL 101",
+      "102",
+      "MCDB 200",
+      "SC 0",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MCDB 2100b, Developmental Biology Scott Holley, Jacob Musser, and Josien van Wolfswinkel",
+    "courseid": "MCDB 2100b",
+    "coursedescription": "A survey of the molecular and genetic control of embryonic development, cell-cell communication, and cell differentiation. Emphasis on mechanistic investigation in model organisms that reveal fundamental concepts explaining human birth defects and disease. Topics include gastrulation; neural and mesoderm induction; limb development; heart and vascular development; craniofacial development; adult and embryonic stem cells; regeneration; evolution and development. Introductory biology (BIOL 101, 102, 103) is recommended but not required. Students who have not taken the BIOL series should nonetheless have a good understanding of Mendelian genetics to be prepared for this course. SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Introductory biology (BIOL 101, 102, 103) is recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "MCDB 2210La, Laboratory for Foundations of Biology Staff",
+    "courseid": "MCDB 2210La",
+    "coursedescription": "This lab complements the BIOL 101-103 series. An introduction to research and common methodologies in the biological sciences, with emphasis on the utility of model organisms. Techniques and methods commonly used in biochemistry, cell biology, genetics, and molecular and developmental biology; experimental design; data analysis and display; scientific writing. With permission of instructor or concurrently with or after BIOL 101, 102 or 103. WR , SC 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "With permission of instructor or concurrently with or after BIOL 101, 102 or 103."
+      ]
+    }
+  },
+  {
+    "coursename": "MCDB 2310La, RNAseq Analysis/Intro to Bioinformatics Josien van Wolfswinkel",
+    "courseid": "MCDB 2310La",
+    "coursedescription": "This course is about learning to analyze High-throughput sequencing data. This requires insight in what the data represents, as well as the ability to perform basic computational analysis. We approach this by using various scripting languages, to organize and modify the data for further analysis, and use the High Performance Computing Cluster and R to obtain new insights. No prior experience with coding is required, but access to a laptop and an internet connection is essential. Prerequisites: BIOL 101-104, and one 200 level course, or instructor permission. SC W 2pm-5pm",
+    "course-prerequsities": [
+      "BIOL 101",
+      "ONE 200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: BIOL 101-104, and one 200 level course, or instructor permission."
+      ]
+    }
+  },
+  {
+    "coursename": "MCDB 2500b, Biology of Reproduction Staff",
+    "courseid": "MCDB 2500b",
+    "coursedescription": "Introduction to reproductive biology, with emphasis on human reproduction. Development and hormonal regulation of reproductive systems; sexuality, fertilization, and pregnancy; modern diagnosis and treatment of reproductive and developmental disorders; social and ethical issues. BIOL 101, 102, and 103, or equivalent performance on the corresponding biological sciences placement examinations, or a score of 5 on the Advanced Placement test in Biology, or a score of 710 or above on the SAT Biology M test SC 0 Course cr MWF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MCDB 2510Lb, Laboratory for Biology of Reproduction and Development Seth Guller and Shannon Whirledge",
+    "courseid": "MCDB 2510Lb",
+    "coursedescription": "Laboratory focus on aspects of human reproductive biology and connections with normal reproductive outcomes. Clinically relevant consideration of human tissue and cell models to study ovarian, uterine, and placental structure and function. Testing of the role of tissue specific cellular differentiation; human trophoblast function; and the roles of steroid hormones in the regulation of uterine, placental, and ovarian function. Mouse tissue models will be employed. Enrollment limited. Concurrently with or after MCDB 210 or 250. Priority is given to seniors. Special registration procedures apply; students must consult the instructor prior to the first week of classes. SC ½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MCDB 2900b, Microbiology Stavroula Hatzios and Alex Canto-Pastor",
+    "courseid": "MCDB 2900b",
+    "coursedescription": "Cell structure of bacteria, bacterial genetics, microbial evolution and diversity, bacterial development, microbial interaction, chemotaxis and motility, gene regulation, microbial genomics and proteomics, CRISPR, metabolism, infectious diseases, mechanisms of pathogenesis, host defense systems, viruses, gut microbiota in health and disease. Prerequisites: BIOL 101, 102, and 103, or equivalent performance on the corresponding biological sciences placement examinations; or one term of biochemistry, or cell biology, or genetics; or with permission of instructor. SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "BIOL 101",
+      "103",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: BIOL 101, 102, and 103, or equivalent performance on the corresponding biological sciences placement examinations; or one term of biochemistry, or cell biology, or genetics; or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 2910Lb, Laboratory for Microbiology Amaleah Hartman",
+    "courseid": "MCDB 2910Lb",
+    "coursedescription": "Practical approaches used when working with microbes, primarily bacteria. Topics include microscopy, culture techniques, biochemical/metabolic assays, and basic environmental and medical microbiology. Concurrently with or after MCDB 290. Electronic permission key required; students should contact the instructor prior to the first class meeting. SC ½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Electronic permission key required; students should contact the instructor prior to the first class meeting."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 3000a or b / MB&B 2000a or b, Biochemistry Staff",
+    "courseid": "MCDB 3000a",
+    "coursedescription": "An introduction to the biochemistry of animals, plants, and microorganisms, emphasizing the relations of chemical principles and structure to the evolution and regulation of living systems. Introductory biology coursework (BIOL 101, BIOL 102, BIOL 103) or equivalent performance on the corresponding biological sciences placement examination; one term of organic chemistry (CHEM 174 or CHEM 220); or with permission of instructor. Note for MB&B majors: this course does not substitute for MB&B 300 and MB&B 301. SC 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Introductory biology coursework (BIOL 101, BIOL 102, BIOL 103) or equivalent performance on the corresponding biological sciences placement examination; one term of organic chemistry (CHEM 174 or CHEM 220); or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 3010La or b / MB&B 2510La or b, Laboratory for Biochemistry Ghazia Abbas",
+    "courseid": "MCDB 3010La",
+    "coursedescription": "An introduction to current experimental methods in molecular biology, biophysics, and biochemistry. Limited enrollment. Prerequisite: BIOL 101. SC ½ Course cr HTBA",
+    "course-prerequsities": [
+      "BIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 3030Lb, Advanced Molecular Biology Laboratory Maria Moreno and Freya Wencker",
+    "courseid": "MCDB 3030Lb",
+    "coursedescription": "A laboratory course that provides advanced biology research skills. Weekly workshops focus on laboratory practice, experimental design, data analysis, reading of primary literature, scientific presentations, and scientific writing skills. Application of these skills in project-based laboratory training sponsored by a faculty member. Enrollment limited. Special registration procedures apply; interested students must contact the instructor and attend an organizational meeting. This class is recommended to students in the sciences who are in their junior year and will be completing a senior research project requirement for graduation. SC RP T 2:30pm-5:30pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Special registration procedures apply; interested students must contact the instructor and attend an organizational meeting.",
+        "This class is recommended to students in the sciences who are in their junior year and will be completing a senior research project requirement for graduation."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 3100a / BENG 3200a, Physiological Systems Staff",
+    "courseid": "MCDB 3100a",
+    "coursedescription": "Regulation and control in biological systems, emphasizing human physiology and principles of feedback. Biomechanical properties of tissues emphasizing the structural basis of physiological control. Conversion of chemical energy into work in light of metabolic control and temperature regulation. Prerequisites: CHEM 165 or 167 (or CHEM 113 or 115), or PHYS 180 and 181; MCDB 120 , or BIOL 101 and 102. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "CHEM 165",
+      "167",
+      "CHEM 113",
+      "115",
+      "PHYS 180",
+      "181",
+      "MCDB 120",
+      "BIOL 101",
+      "102",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MCDB 3150b, Pathobiology Jon Morrow, Samuel Katz, Karin Finberg, Harold Sanchez, and Declan McGuone",
+    "courseid": "MCDB 3150b",
+    "coursedescription": "Mechanisms of human disease from a pathologic perspective. Topics include general cell injury and the biology of cellular senescence, cancer genetics, renal disease, neurologic disease, Gastrointestinal and lung disease, along with the systemic manifestations of disease with clinical correlations. Opportunities to observe under the tutelage of an attending pathologist the manifestations of disease in autopsies at Yale-New Haven Hospital and the role of molecular-based diagnostics in medical decision making will be available. Enrollment limited; preference to junior and senior majors in MCDB or MB&B. Prerequisites: MCDB 205, 300, or 310 SC RP TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MCDB 205",
+      "310",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MCDB 3200a / NSCI 3200a, Neurobiology Haig Keshishian and Harry McNamara",
+    "courseid": "MCDB 3200a",
+    "coursedescription": "The excitability of the nerve cell membrane as a starting point for the study of molecular, cellular, and systems-level mechanisms underlying the generation and control of behavior. At least 1 semester of college chemistry is strongly recommended. SC 0 Course cr MWF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "At least 1 semester of college chemistry is strongly recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "MCDB 3210La / NSCI 3210La, Laboratory for Neurobiology Haig Keshishian",
+    "courseid": "MCDB 3210La",
+    "coursedescription": "Introduction to the neurosciences. Projects include the study of neuronal excitability, sensory transduction, CNS function, synaptic physiology, and neuroanatomy. Concurrently with or after MCDB 320. SC ½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MCDB 3250a, Molecular Hallmarks of Cancer Staff",
+    "courseid": "MCDB 3250a",
+    "coursedescription": "This course provides a comprehensive introduction to the fundamentals of cancer biology and cancer treatment. Topics covered include: cancer genetics, genomics and epigenetics; familial cancer syndromes; signal transduction, cell cycle control, and apoptosis; cancer metabolism; stem cells and cancer; metastasis; cancer immunology and immunotherapy; conventional and molecularly-targeted therapies; and early detection and prevention. Prerequisites: Introductory cources (BIOL101-104) and two MCDB200-level courses (selected from MCDB200, MCDB202, MCDB205, and MCDB210) or instructor permission. 0 Course cr HTBA",
+    "course-prerequsities": [
+      "BIOL101",
+      "MCDB200",
+      "MCDB202",
+      "MCDB205",
+      "MCDB210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: Introductory cources (BIOL101-104) and two MCDB200-level courses (selected from MCDB200, MCDB202, MCDB205, and MCDB210) or instructor permission."
+      ]
+    }
+  },
+  {
+    "coursename": "MCDB 3290a / NSCI 3290a, Sensory Neuroscience Through Illusions Damon Clark and Michael O'Donnell",
+    "courseid": "MCDB 3290a",
+    "coursedescription": "Animals use sensory systems to obtain and process information about the environment around them. Sensory illusions occur when our sensory systems provide us with surprising or unexpected percepts of the world. The goal of this course is to introduce students to sensory neuroscience at the levels of sensor physiology and of the neural circuits that process information from sensors. The course is centered around sensory illusions, which are special cases of sensory processing that can be especially illustrative, as well as delightful. These special cases are used to learn about the general principles that organize sensation across modalities and species. Prerequisites: BIOL 101-104; NSCI 160 or NSCI 320 or permission of instructor. SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "BIOL 101",
+      "NSCI 160",
+      "NSCI 320",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: BIOL 101-104; NSCI 160 or NSCI 320 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MCDB 3310a / BENG 3230a / MB&B 3300a and MB&B 3310a / MB&B 3310a / NSCI 3240a, Modeling Biological Systems I Thierry Emonet and Kathryn Miller-Jensen",
+    "courseid": "MCDB 3310a",
+    "coursedescription": "Biological systems make sophisticated decisions at many levels. This course explores the molecular and computational underpinnings of how these decisions are made, with a focus on modeling static and dynamic processes in example biological systems. This course is aimed at biology students and teaches the analytic and computational methods needed to model genetic networks and protein signaling pathways. Students present and discuss original papers in class. They learn to model using MatLab in a series of in-class hackathons that illustrate the biological examples discussed in the lectures. Biological systems and processes that are modeled include: (i) gene expression, including the kinetics of RNA and protein synthesis and degradation; (ii) activators and repressors; (iii) the lysogeny/lysis switch of lambda phage; (iv) network motifs and how they shape response dynamics; (v) cell signaling, MAP kinase networks and cell fate decisions; and (vi) noise in gene expression. Prerequisites: MATH 115 or 116. BIOL 101-104, or with permission of instructors. This course also benefits students who have taken more advanced biology courses (e.g. MCDB 200, MCDB 310, MB&B 300/301). QR , SC 0 Course cr TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 115",
+      "116",
+      "BIOL 101",
+      "MCDB 200",
+      "MCDB 310",
+      "B 300",
+      "SC 0",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "BIOL 101-104, or with permission of instructors."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 3420La, Laboratory in Nucleic Acids I Freya Wencker",
+    "courseid": "MCDB 3420La",
+    "coursedescription": "A project revolving around spontaneous mutations, antibiotic resistance, and transcription in bacteria, using molecular biological and microbiological techniques such as plasmid DNA isolation, colony PCR, and DNA sequencing analysis as well as cultivation of bacteria for cryo-conservation. Laboratory meets twice a week for the first half of the term. Concurrently with or after MCDB 2000 , 2020 , 2050 , or 3000. Enrollment limited. Special registration procedures apply; students should contact the instructor before intending to register for the course. SC 0 Course cr TTh 1:30pm-5:30pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 3430La, Laboratory in Nucleic Acids II Freya Wencker",
+    "courseid": "MCDB 3430La",
+    "coursedescription": "Continuation of MCDB 3420L to more advanced projects in molecular biology and microbiology, using techniques such as molecular cloning, bacterial transformation, and RNA-protein interaction reporter assays. Project will be based on research from a laboratory within the MCDB department. Laboratory meets twice a week for the second half of the term. Enrollment limited. Special registration procedures apply; students should contact the instructor before intending to register for the course. Prerequisite; MCDB 3420L or permission of instructor. SC 0 Course cr TTh 1:30pm-5:30pm",
+    "course-prerequsities": [
+      "MCDB 3420L",
+      "SC 0",
+      "TTH 1",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite; MCDB 3420L or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 3440Lb, Experimental Techniques in Cellular Biology Joseph Wolenski",
+    "courseid": "MCDB 3440Lb",
+    "coursedescription": "An inquiry-based approach to research in cell and molecular biology, with emphasis on experimental techniques commonly used in modern biomedical laboratories. Research is module-based and covers pertinent and timely topics. Methods include SDS-PAGE, immunoblotting, immunoprecipitation of proteins, column chromatography, mammalian cell culture, cell fractionation, cell transfection, DNA purification, PCR, and phase contrast and confocal microscopy. Meets during January and February. Prerequisite: MCDB 205. Special registration procedures apply; interested students must contact the instructor at least eighteen months in advance. SC ½ Course cr MW 1:30pm-6:30pm",
+    "course-prerequsities": [
+      "MCDB 205",
+      "MW 1",
+      "30PM-6"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Special registration procedures apply; interested students must contact the instructor at least eighteen months in advance."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 3450Lb, Experimental Strategies in Cellular Biology Joseph Wolenski",
+    "courseid": "MCDB 3450Lb",
+    "coursedescription": "Continuation of MCDB 344L, with increased emphasis on experimental design, independent research, presentation of data and research seminars. Students develop semi-independent research projects in modern biomedical research. Emphasis on key components of being a successful principal investigator, including benchwork, seminar presentations, lab meetings, and critical analysis of data. Prepares for MCDB 475, 485, or 495. Meets during March and April. Prerequisite: MCDB 344L. Special registration procedures apply; interested students should contact the instructor. SC ½ Course cr MW 1:30pm-6:30pm",
+    "course-prerequsities": [
+      "MCDB 344L",
+      "MW 1",
+      "30PM-6"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Special registration procedures apply; interested students should contact the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 3500a, Epigenetics Nadya Dimitrova, Josien van Wolfswinkel, and Yannick Jacob",
+    "courseid": "MCDB 3500a",
+    "coursedescription": "Study of epigenetic states and the various mechanisms of epigenetic regulation, including histone modification, DNA methylation, nuclear organization, and regulation by non-coding RNAs. Detailed critique of papers from primary literature and discussion of novel technologies, with specific attention to the impact of epigenetics on human health. Introductory courses (BIOL 101-104) and two MCDB 200-level courses (strongly recommended: MCDB 202 and MCDB 200 or MCDB 210) or instructor permission. SC 0 Course cr WF 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Introductory courses (BIOL 101-104) and two MCDB 200-level courses (strongly recommended: MCDB 202 and MCDB 200 or MCDB 210) or instructor permission."
+      ]
+    }
+  },
+  {
+    "coursename": "MCDB 3520b / MB&B 3520b / S&DS 3520b, Biomedical Data Science, Mining and Modeling Mark Gerstein and Matthew Simon",
+    "courseid": "MCDB 3520b",
+    "coursedescription": "Techniques in data mining and simulation applied to bioinformatics, the computational analysis of gene sequences, macromolecular structures, and functional genomics data on a large scale. Sequence alignment, comparative genomics and phylogenetics, biological databases, geometric analysis of protein structure, molecular-dynamics simulation, biological networks, microarray normalization, and machine-learning approaches to data integration. Prerequisites: MB&B 301 and MATH 115, or permission of instructor. SC 0 Course cr MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "B 301",
+      "MATH 115",
+      "SC 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MB&B 301 and MATH 115, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 3550a, The Cytoskeleton, Associated Proteins, and Disease Surjit Chandhoke",
+    "courseid": "MCDB 3550a",
+    "coursedescription": "In-depth discussion of the cytoskeleton, proteins associated with the cytoskeleton, and diseases that implicate members of these protein families. Preference given to seniors in the MCDB major. Prerequisites: BIOL 101-104 and at least one MCDB 200-level course. ​ SC W 9:25am-11:15am",
+    "course-prerequsities": [
+      "BIOL 101",
+      "MCDB 200",
+      "W 9",
+      "25AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 3640a / MB&B 3640a, Light Microscopy: Techniques and Image Analysis Joseph Wolenski and Jonathon Howard",
+    "courseid": "MCDB 3640a",
+    "coursedescription": "A rigorous study of principles and pertinent modalities involved in modern light microscopy. The overall course learning objective is to develop competencies involving advanced light microscopy applications common to multidisciplinary research. Laboratory modules coupled with critical analysis of pertinent research papers cover all major light microscope methods—from the basics (principles of optics, image contrast, detector types, fluorescence, 1P and 2P excitation, widefield, confocal principle, TIRF), to more recent advances, including: superresolution, lightsheet, FLIM/FRET, motion analysis and force measurements. This course is capped at 8 students to promote interactions and ensure a favorable hands-on experience. Priority for enrollment is given to students who are planning on using these techniques in their independent research. Prerequisites: MCDB 205, PHYS 170/171 or above, either CHEM 161/165 or above; with CHEM 134L, 136L or permission from the instructor. SC MW 1:30pm-4:30pm",
+    "course-prerequsities": [
+      "MCDB 205",
+      "PHYS 170",
+      "CHEM 161",
+      "CHEM 134L",
+      "136L",
+      "MW 1",
+      "30PM-4"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MCDB 205, PHYS 170/171 or above, either CHEM 161/165 or above; with CHEM 134L, 136L or permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 3700b, Biotechnology Craig Crews, Joseph Wolenski, and F Kenneth Nelson",
+    "courseid": "MCDB 3700b",
+    "coursedescription": "The principles and applications of cellular, molecular, and chemical techniques that advance biotechnology. The most recent tools and strategies used by industrial labs, academic research, and government agencies to adapt biological and chemical compounds as medical treatments, as industrial agents, or for the further study of biological systems. Prerequisite: MCDB 200, 202, or 300. SC 0 Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MCDB 200",
+      "300",
+      "SC 0",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 3750b, Human Biology: Research Methods, Questions, and Societal impact Haig Keshishian",
+    "courseid": "MCDB 3750b",
+    "coursedescription": "This course is intended for upper level MCDB majors and addresses human biology and human subjects research methods and its impact on our understanding of identity. The first third of the course evaluates human subjects research methods and the impact of genetics research on the concept of identity. In the second section of the course, we examine the biology and research that influences identity stereotypes. The last third of the term we examine the biology and research methods to study past and current issues in society related to human health and biology. Prerequisites: BIOL 101-104, and two MCDB 200-level courses or with permission of instructor. SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "BIOL 101",
+      "MCDB 200",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: BIOL 101-104, and two MCDB 200-level courses or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 3800a, Advances in Plant Molecular Biology Yannick Jacob, Josh Gendron, Vivian Irish, and Alex Canto-Pastor",
+    "courseid": "MCDB 3800a",
+    "coursedescription": "The study of basic processes in plant growth and development to provide a foundation for addressing critical agricultural needs in response to a changing climate. Topics include the latest breakthroughs in plant sciences with emphasis on molecular, cellular, and developmental biology; biotic and abiotic plant interactions; development, genomics, proteomics, epigenetics and chemical biology in the context of plant biology; and the current societal debates about agrobiotechnology. Prerequisites: BIOL 101-104 and two MCDB 200-level courses, or permission of instructor. SC F 9:25am-11:15am",
+    "course-prerequsities": [
+      "BIOL 101",
+      "MCDB 200",
+      "F 9",
+      "25AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: BIOL 101-104 and two MCDB 200-level courses, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 4150b, Cellular and Molecular Physiology Emile Boulpaep",
+    "courseid": "MCDB 4150b",
+    "coursedescription": "Study of the processes that transfer molecules across membranes. Classes of molecular machines that mediate membrane transport. Emphasis on interactions among transport proteins in determining the physiologic behaviors of cells and tissues. Intended for seniors majoring in the biological sciences. Recommended preparation: MCDB 205, 310, 320, or permission of instructor. SC MWF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: MCDB 205, 310, 320, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 4250a / MB&B 4250a, Basic Concepts of Genetic Analysis Jun Lu",
+    "courseid": "MCDB 4250a",
+    "coursedescription": "The universal principles of genetic analysis in eukaryotes. Reading and analysis of primary papers that illustrate the best of genetic analysis in the study of various biological issues. Focus on the concepts and logic underlying modern genetic analysis. Prerequisite: MCDB 202 or pre-approval of instructor. SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MCDB 202",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 4300a, Biology of the Immune System Staff",
+    "courseid": "MCDB 4300a",
+    "coursedescription": "The development of the immune system. Cellular and molecular mechanisms of immune recognition. Effector responses against pathogens. Immunologic memory and vaccines. Human diseases including allergy, autoimmunity, immunodeficiency, and HIV/AIDS. After MCDB 300. SC 0 Course cr MWF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 4350b, Landmark Papers in Cell Biology Mark Mooseker",
+    "courseid": "MCDB 4350b",
+    "coursedescription": "This seminar involves discussion and critical evaluation of selected research papers (1-2/week) that were important in determining the directions of modern cell biological research. Emphasis is on the nature of the problem, evaluation of the experimental approaches and results, and the authors' interpretation of the results. The format is round table discussion of the paper, method by method, figure by figure. All are expected to be actively engaged in these discussions which require a thorough reading of the papers as well as further background reading particularly with respect to key methods used in the paper (e.g. how is EM autoradiography performed). Prerequisites: Foundations in Biology 101-104, although MCDB 205 (Cell Biology) would be highly beneficial. For background purposes, several copies of various cell biology texts will be placed on closed reserve at Bass. Permission of instructor required. Enrollment preference is given to seniors. SC F 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "MCDB 205",
+      "F 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 4500b, The Human Genome Stephen Dellaporta",
+    "courseid": "MCDB 4500b",
+    "coursedescription": "A focus on the primary scientific literature covering the principles of genomics and its application to the investigation of complex human traits and diseases. Topics include the technology of genome sequencing and resequencing, the characterization of sequence and structural variation in human populations, haplotype and linkage disequilibrium analysis, genome-wide association studies, the comparative genomics of humans and our closest relatives, and personalized genomics and medicine. Enrollment limited to 15. Students should contact the instructor prior to the first week of classes. Prerequisite: MCDB 202; a course in statistics is strongly recommended. SC M 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "MCDB 202",
+      "M 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to 15.",
+        "Prerequisite: MCDB 202; a course in statistics is strongly recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "* MCDB 4700a or b, Tutorial in Molecular, Cellular, and Developmental Biology Staff",
+    "courseid": "MCDB 4700a",
+    "coursedescription": "Individual or small-group study for qualified students who wish to investigate a broad area of experimental biology not presently covered by regular courses. A student must be sponsored by a Yale faculty member, who sets the requirements. The course must include one or more written examinations and/or a term paper. Intended to be a supplementary course and, therefore, to have weekly or biweekly discussion meetings between the student and the sponsoring faculty member. To register, the student must prepare a form available in Canvas as well as on the MCDB Undergraduate Forms site, and a written plan of study with bibliography, approved by the faculty research adviser. The form and proposal must be uploaded to Canvas by the end of add/drop period. The final paper is due in the hands of the sponsoring faculty member, with a copy to the course instructor, by the last day of classes. In special cases, with approval of the Director of Undergraduate Studies, this course may be elected for more than one term, but only one term may count as an elective toward the major. Fulfills the senior requirement for the B.A. degree in MCDB if taken in the senior year. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 4740a or b, Independent Research Joseph Wolenski",
+    "courseid": "MCDB 4740a",
+    "coursedescription": "Research project under faculty supervision taken Pass/Fail. This is the only independent research course available to underclassmen. Students are expected to spend approximately ten hours per week in the laboratory. To register, the student must submit a form, which is available from the course site on Canvas@Yale, and a written plan of study with bibliography, approved by the faculty research adviser. The form and proposal must be uploaded to Canvas@Yale by the end of the second week of classes. A final research report is required at the end of the term. Students who take this course more than once must reapply each term. Guidelines for the course should be obtained from the office of the director of undergraduate studies or downloaded from the Canvas@Yale server. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 4750a or b, Senior Independent Research Joseph Wolenski",
+    "courseid": "MCDB 4750a",
+    "coursedescription": "Research project under faculty supervision, ordinarily taken to fulfill the senior requirement. This course is only available to MCDB seniors and they are awarded a letter grade. Students are expected to spend approximately ten hours per week in the laboratory. To register, the student must prepare a form, which is available from the course site on Canvas@Yale, and a written plan of study with bibliography, approved by the faculty research adviser. The form and proposal must be uploaded to Canvas@Yale by the end of the second week of classes. The final research paper is due in the hands of the sponsoring faculty member, with a copy uploaded to Canvas@Yale, by the last day of classes. Students who take this course more than once must reapply each term; students planning to conduct two terms of research should consider enrolling in MCDB 485, 486. Students should line up a research laboratory during the term preceding the research. Fulfills the senior requirement for the B.A. degree if taken in the senior year. Two consecutive terms of this course fulfill the senior requirement for the B.S. degree if at least one term is taken in the senior year. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 4820a, Advanced Seminar in Cell Biology: Intracellular Signal Transduction Craig Crews",
+    "courseid": "MCDB 4820a",
+    "coursedescription": "Discussion of intracellular signal transduction pathways. Detailed critique of experimental approaches, controls, results, and conclusions of selected current and classic papers in this field. SC T 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 4850a and MCDB 4860b, Senior Research Joseph Wolenski",
+    "courseid": "MCDB 4850a",
+    "coursedescription": "Individual two-term laboratory research projects under the supervision of a faculty member. For MCDB seniors only. Students are expected to spend ten to twelve hours per week in the laboratory, and to make presentations to students and advisers. Written assignments include a short research proposal summary due at the beginning of the first term, a grant proposal due at the end of the first term, and a research report summarizing experimental results due at the end of the second term. Students are also required to present their research in either the fall or the spring term. A poster session is held at the end of the spring term. Students should line up a research laboratory during the term preceding the research. Guidelines for the course may be obtained on the course site on Canvas@Yale. Written proposals are due by the end of the second week of classes. Fulfills the senior requirement for the B.S. degree if taken in the senior year. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MCDB 4950a and MCDB 4960a or b, Senior Research Intensive Joseph Wolenski",
+    "courseid": "MCDB 4950a",
+    "coursedescription": "Individual two-term directed research projects in the field of biology under the supervision of a faculty member. For MCDB seniors only. Before registering, the student must be accepted by a Yale faculty member with a research program in experimental biology and obtain the approval of the instructor in charge of the course. Students spend approximately twenty hours per week in the laboratory, and make written and oral presentations of their research to students and advisers. Written assignments include a short research proposal summary due at the beginning of the first term, a grant proposal due at the end of the first term, and a research report summarizing experimental results due at the end of the second term. Students must attend a minimum of three research seminar sessions (including their own) per term. Students are also required to present their research during both the fall and spring terms. A poster session is held at the end of the spring term. Guidelines for the course may be obtained from the course site on Canvas@Yale. Written proposals are due by the end of the second week of classes. Fulfills the senior requirement for the B.S. degree with an intensive major. 2 Course cr per term HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

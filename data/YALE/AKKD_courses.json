@@ -1,0 +1,22 @@
+[
+  {
+    "coursename": "AKKD 1100a, Elementary Akkadian I Eckart Frahm",
+    "courseid": "AKKD 1100a",
+    "coursedescription": "Akkadian was one of the primary languages of ancient Mesopotamia (modern Iraq), with an attested history of more than 2000 years (from the second half of the 3rd millennium BCE to the beginning of the Common Era). It is a Semitic language, similar to Arabic, Aramaic, and Hebrew, written on clay tablets in the Cuneiform script. Hundreds of thousands of documents in Akkadian have come down to us. They include everything from great works of literature like the Gilgamesh Epic, to everyday texts such as letters that document the lives of people from all walks of life, from great kings to commoners and slaves. Whether it be a letter to a paranoid emperor who refuses to eat and shuts himself in his own palace, or a particularly inept spy reporting to his superiors about the suspicious dreams of a suspected enemy of the state, knowledge of Akkadian opens a window into the world of those who lived thousands of years ago, the struggles they faced and the stories they told. Akkadian for Beginners provides students with the tools to begin to explore that ancient and once-forgotten world of ancient Mesopotamia. After finishing the course, students will have acquired a sound knowledge of Akkadian grammar and syntax, along with practice in Cuneiform. L1 TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AKKD 1200b, Elementary Akkadian II Staff",
+    "courseid": "AKKD 1200b",
+    "coursedescription": "Continuation of AKKD 1100 . Prerequisite: AKKD 1100 . L2 MW 9am-10:15am",
+    "course-prerequsities": [
+      "AKKD 1100",
+      "L2",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

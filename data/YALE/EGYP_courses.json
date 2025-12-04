@@ -1,0 +1,87 @@
+[
+  {
+    "coursename": "EGYP 1100a, Introduction to Classical Hieroglyphic Egyptian I Victoria Almansa-Villatoro",
+    "courseid": "EGYP 1100a",
+    "coursedescription": "Introduction to the language of ancient pharaonic Egypt (Middle Egyptian) and its hieroglyphic writing system, with short historical, literary, and religious texts. Grammatical analysis with exercises in reading, translation, and composition. L1 MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EGYP 1170a, Elementary Biblical Coptic I Melania Linderman",
+    "courseid": "EGYP 1170a",
+    "coursedescription": "The native Egyptian language in the Roman and Byzantine periods. Thorough grounding in grammar and vocabulary of the Sahidic dialect as a basis for reading biblical, monastic, and Gnostic texts. Credit only on completion of EGYP 1270 . L1 MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EGYP 1200b, Introduction to Classical Hieroglyphic Egyptian II John Darnell",
+    "courseid": "EGYP 1200b",
+    "coursedescription": "Continuation of EGYP 1100 . Prerequisite: EGYP 1100 . L2 MW 9am-10:15am",
+    "course-prerequsities": [
+      "EGYP 1100",
+      "L2",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EGYP 1270b, Elementary Biblical Coptic II David Baldi",
+    "courseid": "EGYP 1270b",
+    "coursedescription": "Continued study of the native Egyptian language in the Roman and Byzantine periods. Thorough grounding in grammar and vocabulary of the Sahidic dialect as a basis for reading biblical, monastic, and Gnostic texts. Prerequisite: EGYP 1170 . L2 MW 9am-10:15am",
+    "course-prerequsities": [
+      "EGYP 1170",
+      "L2",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EGYP 1310a, Intermediate Egyptian I: Literary Texts John Darnell",
+    "courseid": "EGYP 1310a",
+    "coursedescription": "This course engages in close reading of Middle Egyptian literary texts in hieroglyphic transcription, along with an introduction to the hieratic (cursive) Egyptian script of the original sources. Primary sources include the Middle Kingdom stories, principally those known by the modern titles “The Story of Sinuhe” and “The Tale of the Eloquent Peasant.” Assigned secondary literature includes reviews of grammatical topics in Middle Egyptian and analyses of the cultural, religious, and historical context of the literary texts. We also read portions of texts from other genres—historical, administrative, etc.—that serve to illuminate concepts and practices appearing in the literary compositions. Prerequisite: EGYP 1200 or permission of instructor. L3 MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "EGYP 1200",
+      "L3",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: EGYP 1200 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EGYP 1410b, Intermediate Egyptian: Historical Texts Staff",
+    "courseid": "EGYP 1410b",
+    "coursedescription": "Close reading of Middle Egyptian historical texts in original hieroglyphic and hieratic script. Initial survey of ancient Egyptian historiography and grammatical forms peculiar to this genre of text. Prerequisite: EGYP 1200 . Counts as L4 if taken after EGYP 1310 . L3 MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "EGYP 1200",
+      "L4",
+      "EGYP 1310",
+      "L3",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EGYP 2280a, The Ancient Egyptian Netherworld Books John Darnell",
+    "courseid": "EGYP 2280a",
+    "coursedescription": "Study of the Netherworld Books, known primarily from the royal tombs of the New Kingdom. Readings from the Book of the Hidden Chamber ( Amduat ) , Book of Gates, Book of Caverns, Book of the Creation of the Solar Disk, Books of the Day and the Night, Books of the Solar-Osirian Unity, Book of the Heavenly Cow, and the Book of Nut. The course introduces the study of ancient Egyptian cryptography, and includes discussions of the significance of these texts for understanding Egyptian religion and the possible contributions of these compositions to the later Hermetica and Christian Gnosticism. Prerequisites: EGYP 1100 and EGYP 1200 or equivalent. L5 RP MW 4pm-5:15pm",
+    "course-prerequsities": [
+      "EGYP 1100",
+      "EGYP 1200",
+      "L5",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

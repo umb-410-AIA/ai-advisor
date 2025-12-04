@@ -1,0 +1,51 @@
+[
+  {
+    "coursename": "DATS 5750 Cloud Technologies Practicum",
+    "courseid": "DATS 5750",
+    "coursedescription": "Cloud computing is the heart of modern digital applications. This course provides practical, hands-on knowledge and understanding of distributed computing principles to design and develop applications that utilize public cloud such as Google Cloud, Amazon Web Services, Azure, etc. The course will cover cloud infrastructure services for computing, storage, networking, data analytics, machine learning, and modern application development. Students will learn to architect and implement complex applications utilizing different cloud infrastructure components to engineer robust, scalable solutions across practical industry use cases. Prerequisite: CIS 5450 AND CIS 5500",
+    "course-prerequsities": [
+      "CIS 5450",
+      "CIS 5500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "DATS 5980 Data Science Capstone",
+    "courseid": "DATS 5980",
+    "coursedescription": "Prerequisite: CIS 5450 AND CIS 5500 AND ESE 5410 AND ( ESE 5420 OR CIS 5150 ) 1 Course Unit",
+    "course-prerequsities": [
+      "CIS 5450",
+      "CIS 5500",
+      "ESE 5410",
+      "ESE 5420",
+      "CIS 5150"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "This course in the Data Science Program provides students with experience in designing and implementing diverse end-to-end real-world data science projects through our students’ existing industry connections. Students will work with their capstone mentor to identify a practical problem, apply knowledge from previous courses to design a solution, and learn new skills and techniques to implement their proposed solution. Weekly office hours will be used to discuss questions around the components of a data science project lifecycle, consider common issues with data science projects, brainstorm ideas for addressing stumbling blocks, and seek and share feedback on project decisions and progress. The student will be mentored jointly by the course instructor and by a capstone mentor selected by the student in the area of the project. The course will culminate in a week of in-person events and a final project showcase. This course is designed for students who have already identified a project that spreads across all aspects of the data science pipeline. Upon completing the course, students are expected to have gained essential skills to tackle real-world problems through a data science perspective. This course is only for students in the MSE-DS Online Program. MSE-DS-O students should have completed at least 6 course units: all four core courses AND at least two electives."
+    }
+  },
+  {
+    "coursename": "DATS 5990 Master's Independent Study",
+    "courseid": "DATS 5990",
+    "coursedescription": "For Data Science Master's students. Involves coursework and class presentations. A DATS 5990 project will invariably include formally gradable work comparable to that in a CIS 5000 level course. Students should discuss with the faculty supervisor the scope of the Independent Study, expectations, work involved, etc. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-4 Course Units"
+    }
+  },
+  {
+    "coursename": "DATS 9990 Master's Thesis",
+    "courseid": "DATS 9990",
+    "coursedescription": "For students working on an advanced research program leading to the completion of master's thesis requirements.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1,2 Course Units"
+    }
+  }
+]

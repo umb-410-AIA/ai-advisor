@@ -1,0 +1,143 @@
+[
+  {
+    "coursename": "PRTG 0018 Perspective in Afro-Luso-Brazilian Culture",
+    "courseid": "PRTG 0018",
+    "coursedescription": "This interdisciplinary survey course offered in two sections (Portuguese and English) will provide additional exposure to the language and culture of the Portuguese speaking countries (including Brazil, Portugal and its ex-colonies in Africa), and students will broaden their knowledge by complementing the classroom discussions with the experience of visiting historic and cultural sites in Minas Gerais, Brazil. The history of Portuguese colonization and its influence, and current discussions about contemporary challenges will be incorporated in this course as a way to familiarize students with key issues, such as the influence of African and Indigenous culture in Brazil's language, art, culture, and racial relations in Portugal and the Portuguese ex-colonies in Africa. At the end of this course, students will recognize and discuss important themes, historical figures and cultural characteristics of the Portuguese speaking countries. This course is a Penn Global Seminar, which includes a travel component. An application is required. For more information and to apply, visit: https://global.upenn.edu/pennabroad/pgs Not Offered Every Year Also Offered As: LALS 0018 Mutually Exclusive: PRTG 1810 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 0090 Clarice Lispector",
+    "courseid": "PRTG 0090",
+    "coursedescription": "This seminar focuses on the work of Clarice Lispector, the Ukrainian-born Brazilian novelist and short story writer (1920-1977). See the English Department's website at www.english.upenn.edu for a description of the current offerings. Also Offered As: COML 2390 , ENGL 2390 , GSWS 2390 , LALS 2390 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 0100 Elementary Portuguese I",
+    "courseid": "PRTG 0100",
+    "coursedescription": "Portuguese 0100 is a first-semester introductory language course for students who have not studied Portuguese before, or who have had little exposure to the language. The course will emphasize the development of foundational reading, writing, listening and speaking abilities within a cultural context. Students will participate in paired and group activities designed to elicit meaningful and accurate exchanges of information. The course will introduce students to Portuguese and Lusophone culture through a variety of authentic materials, including texts, songs, films and other audio and video material. Classes will be conducted in Portuguese. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 0104 Portuguese for Spanish Speakers I",
+    "courseid": "PRTG 0104",
+    "coursedescription": "This course is designed for students who have studied Spanish. The course begins with exposure to basic vocabulary and structures, advancing at an accelerated pace. Classroom activities will emphasize pronunciation, spoken production as well as language structures and vocabulary. Students will participate in pairs, small-groups and whole-class activities that focus on the meaningful and accurate exchange of information. The class will be conducted in Portuguese. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 0200 Elementary Portuguese II",
+    "courseid": "PRTG 0200",
+    "coursedescription": "This class continues the development of a basic proficiency that will help reinforce the student's abilities and confidence. A broad range of lively, high-interest readings such as newspaper and magazine articles in current events on Brazilian culture will allow the student to gain a genuine sense of current usage. A Brazilian movie is presented and discussed in groups. Daily homework assignments involve writing exercises, short compositions and group projects. Spring Prerequisite: PRTG 0100 1 Course Unit",
+    "course-prerequsities": [
+      "PRTG 0100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A broad range of lively, high-interest readings such as newspaper and magazine articles in current events on Brazilian culture will allow the student to gain a genuine sense of current usage."
+      ]
+    }
+  },
+  {
+    "coursename": "PRTG 0300 Intermediate Portuguese I",
+    "courseid": "PRTG 0300",
+    "coursedescription": "This is a third-semester intermediate course, in a four-course strand, designed for students who have taken at least two semesters of Portuguese. Classroom activities will emphasize pronunciation, spoken production, language structures and vocabulary, as students explore movies, music and other authentic media to further develop their ability to communicate in Portuguese. The course will be conducted in Portuguese. Fall Prerequisite: PRTG 0200 1 Course Unit",
+    "course-prerequsities": [
+      "PRTG 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 0340 Portuguese for Spanish Speakers II",
+    "courseid": "PRTG 0340",
+    "coursedescription": "Portuguese 0340 is an accelerated intermediate course designed for students who have taken Portuguese for Spanish Speakers I, or its equivalent. Classroom activities will emphasize the development of pronunciation and spoken production, the use of language structures and vocabulary at the intermediate level. In addition, students will explore movies, music, short stories, and other media as they further develop reading, speaking and interpretive skills in Portuguese. The course will be conducted in Portuguese. Fall or Spring Prerequisite: PRTG 0104 1 Course Unit",
+    "course-prerequsities": [
+      "PRTG 0104"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 0400 Intermediate Portuguese II",
+    "courseid": "PRTG 0400",
+    "coursedescription": "This is a forth-semester intermediate course, in a four-course strand, designed for students who have taken at least three semesters of Portuguese. Classroom activities will emphasize pronunciation, spoken production, grammar and language structures, and vocabulary at the advanced intermediate level. Students will explore movies, readings, news, music and other media as they further develop speaking, writing, reading and interpretive skills in Portuguese. The course will be conducted in Portuguese. Spring Prerequisite: PRTG 0300 1 Course Unit",
+    "course-prerequsities": [
+      "PRTG 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 1000 Advanced Portuguese",
+    "courseid": "PRTG 1000",
+    "coursedescription": "This course is designed for students who have already taken basic and intermediate levels of Portuguese. It complements students' knowledge of Portuguese by emphasizing the use of advanced grammatical structures and vocabulary. Classes will focus on practicing such advanced language structures by reading a diverse range of texts, including short stories by different authors of the Lusophone countries, and one novel; speaking and writing about a variety of contemporary texts; watching movies and documentaries; and listening to news, songs and other authentic audio material. The emphasis will be on language usage and culture. This course will be conducted in Portuguese. Fall or Spring Prerequisite: PRTG 0340 OR PRTG 0400 1 Course Unit",
+    "course-prerequsities": [
+      "PRTG 0340",
+      "PRTG 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 1320 Portuguese for the Professions",
+    "courseid": "PRTG 1320",
+    "coursedescription": "Portuguese for the Professions is designed for advanced-level students to develop their ability to use a wide technical vocabulary. The course will cover an array of topics in the areas of Economy, Politics, Science, Technology, Law and others as they pertain to the societies and cultures of the Lusophone countries, with particular emphasis placed on Brazil. Through readings, movies, discussions, essays and presentations, students will enhance their ability to write about and discuss these topics while employing the appropriate technical vocabulary. Fall or Spring Also Offered As: LALS 1320 Prerequisite: PRTG 1000 1 Course Unit",
+    "course-prerequsities": [
+      "PRTG 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 1340 Portuguese for the Professions II",
+    "courseid": "PRTG 1340",
+    "coursedescription": "Portuguese for the Professions II is a second-semester course designed to provide advanced-level students with exposure to, and practice in, a wide variety of technical vocabulary, and to develop their communicative skills on topics related to Brazil's economic, social and historical context. Classroom activities will be based on the readings and discussions of articles, papers, the viewing of documentaries and other visual media, covering an array of topics within the proposed themes. The course will be conducted in Portuguese. Fall Also Offered As: LALS 1340 Prerequisite: PRTG 1000 1 Course Unit",
+    "course-prerequsities": [
+      "PRTG 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 1800 Perspectives in Brazilian Culture",
+    "courseid": "PRTG 1800",
+    "coursedescription": "This course is designed to provide advanced-level students with additional exposure to Portuguese language and culture, as they broaden their knowledge of the Lusophone world and its identity. Classes will focus on discussions and students presentations based on articles, literary texts, and movies or documentaries from, and about, the different regions of the world where Portuguese is spoken. We will start with Portugal and Brazil, and end with Angola and Mozambique, and their cultural expressions. A series of important themes related to the Lusophone world, its history, the dialogues among its different countries, and contemporary challenges will be incorporated in this course as a way to familiarize students with key themes. At the end of this course, students should 1) have developed their oral and written expressions in Portuguese, at the advanced-level, and 2) be able to recognize and discuss important themes, historical figures, and cultural characteristics of the Lusophone world. Not Offered Every Year Also Offered As: LALS 1800 Prerequisite: PRTG 1000 1 Course Unit",
+    "course-prerequsities": [
+      "PRTG 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 1810 Perspectives in Afro-Luso-Brazilian Culture",
+    "courseid": "PRTG 1810",
+    "coursedescription": "This interdisciplinary survey course offered in two sections (Portuguese and English) will provide additional exposure to the language and culture of the Portuguese speaking countries (including Brazil, Portugal and its ex-colonies in Africa), and students will broaden their knowledge by complementing the classroom discussions with the experience of visiting historic and cultural sites in Minas Gerais, Brazil. This 1000-level course fulfills the following requirements: 1) advanced language course for students in the Huntsman Program in the Portuguese track, 2) course towards the major or minor in LALS, and 3) the Portuguese certificate. The history of Portuguese colonization and its influence, and current discussions about contemporary challenges will be incorporated in this course as a way to familiarize students with key issues, such as the influence of African and Indigenous culture in Brazil's language, art, culture, and racial relations in Portugal and the Portuguese ex-colonies in Africa. At the end of this course, students will recognize and discuss important themes, historical figures and cultural characteristics of the Portuguese speaking countries. Not Offered Every Year Also Offered As: LALS 1810 Mutually Exclusive: PRTG 0018 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 1900 Topics in Portuguese, African and Brazilian Cultures",
+    "courseid": "PRTG 1900",
+    "coursedescription": "This course explores aspects of Luso-Brazilian culture and film in light of its social context and reception. For current course content, please see department's webpage: https://www.sas.upenn.edu/hispanic-portuguese-studies/pc. Fall or Spring Also Offered As: CIMS 1901 , LALS 1900 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PRTG 3100 Studies in Brazilian Literature and Culture",
+    "courseid": "PRTG 3100",
+    "coursedescription": "This course explores modern Luso-Brazilian culture and social movements through art forms such as literature, film, and music. Fall Also Offered As: LALS 3100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

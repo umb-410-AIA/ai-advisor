@@ -1,0 +1,56 @@
+[
+  {
+    "coursename": "AMHR 0100 Elementary Amharic I",
+    "courseid": "AMHR 0100",
+    "coursedescription": "The Elementary Amharic I course can be taken to fulfill a language requirement, or for linguistic preparation to do research on Ethiopia/Africa-related topics. The course emphasizes communicative competence to enable the students to acquire linguistic and extra-linguistic skills in Amharic. The content of the course is selected from various everyday life situations to enable the students to communicate in predictable common daily settings. Culture, as it relates to language use, is also part of the course content. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMHR 0200 Elementary Amharic II",
+    "courseid": "AMHR 0200",
+    "coursedescription": "Continuation of Elementary Amharic I. Amharic belongs to the southern branch of Hemeto-Semitic languages, which is also referred to as \"Afrasian.\" Amharic is the official language of Ethiopia and is spoken by 14 million native Amharas and by approximately 18 million of the other groups in Ethiopia. This course continues to introduce basic grammar, vocabulary, and the reading and writing of Amharic to new speakers. Spring Prerequisite: AMHR 0100 1 Course Unit",
+    "course-prerequsities": [
+      "AMHR 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMHR 0300 Intermediate Amharic I",
+    "courseid": "AMHR 0300",
+    "coursedescription": "This course will engage students in interpersonal and interpretive activities to enable them to satisfy most work requirements with language usage that is often, but not always, acceptable and effective. They will be able to handle with confidence, but not with facility, most normal, high-frequency social conversational situations including extensive, but casual conversations about current events, as well as work, family, and autobiographical information. Students can get the gist of most everyday conversations but has some difficulty understanding native speakers in situations that require specialized or sophisticated knowledge. Students will show considerable ability to communicate effectively on topics relating to particular interests and special fields of competence. Often, they will show a high degree of fluency and ease of speech, yet when under tension or pressure, the ability to use the language effectively may deteriorate. Comprehension of normal native speech is typically nearly complete. Typically, students with this proficiency level can participate in most social, formal, and informal interactions, but limitations either in range of contexts, types of tasks or level of accuracy hinder effectiveness. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will show considerable ability to communicate effectively on topics relating to particular interests and special fields of competence."
+      ]
+    }
+  },
+  {
+    "coursename": "AMHR 0400 Intermediate Amharic II",
+    "courseid": "AMHR 0400",
+    "coursedescription": "Continuation of AMHR 0300 : Intermediate Amharic I; Level 2+ (Limited Working Proficiency, Plus) Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMHR 1100 Advanced Amharic",
+    "courseid": "AMHR 1100",
+    "coursedescription": "An advanced Amharic course that will further sharpen the students' knowledge of the Amharic language and the culture of the Amharas. The learners communicative skills will be further developed through listening, speaking, reading and writing. There will also be discussions on cultural and political issues. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMHR 1300 Amharic Language and Culture",
+    "courseid": "AMHR 1300",
+    "coursedescription": "Students will engage in interpersonal and interpretive communicative modes of language use to satisfy professional needs in a wide range of sophisticated and demanding tasks. While students will be able to demonstrate obvious strengths, they may exhibit some hesitancy, uncertainty, effort or errors which limit the range of language-use tasks that can be reliably performed. Occasional patterned errors may occur in low frequency and highly-complex structures. Typically, there will be particular strength in fluency and one or more, but not all, of the following: breadth of lexicon, structural precision, discourse competence in a wide range of contexts and tasks often matching a native speaker's strategic and organizational abilities and expectations. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

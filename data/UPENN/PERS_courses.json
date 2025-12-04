@@ -1,0 +1,272 @@
+[
+  {
+    "coursename": "PERS 0100 Elementary Persian I",
+    "courseid": "PERS 0100",
+    "coursedescription": "This course is designed to help you start learning Persian (also known as Farsi or Dari) and to give you the necessary tools to continue your study of Persian. This course introduces the Persian alphabet alongside grammar and vocabulary. Emphasis is placed on actively using the language for interpersonal, interpretive, and presentational modes of communication. The four language skills (i.e., listening, speaking, reading and writing) as well as pronunciation and culture are integrated into the curriculum. There is no prerequisite. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PERS 0180 Introduction to Sorani Kurdish",
+    "courseid": "PERS 0180",
+    "coursedescription": "Introduction to Sorani Kurdish is an introductory-level course designed to help you start learning Sorani Kurdish and to give you the necessary tools to continue your study of Kurdish language. This course introduces the Kurdish alphabet (Arabic script) alongside grammar and vocabulary. Toward the end of the semester, the course will also involve some Kurdish classical and modern poetry. Emphasis is placed on actively using the language for interpersonal, interpretive, and presentational modes of communication. The four language skills (i.e., listening, speaking, reading, and writing) as well as pronunciation and culture are integrated into the curriculum. There is no prerequisite. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PERS 0200 Elementary Persian II",
+    "courseid": "PERS 0200",
+    "coursedescription": "This course is designed to help you build upon what you have learned in Elementary Persian I. Emphasis is placed on using the Persian (also known as Farsi or Dari) language for interpersonal, interpretive, and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing-as well as culture, vocabulary, grammar, and pronunciation-are integrated into the course. Students must either have successfully completed Elementary Persian I, or take the departmental exam. Spring Prerequisite: PERS 0100 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 0100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Therefore use of English is restricted."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 0300 Intermediate Persian I",
+    "courseid": "PERS 0300",
+    "coursedescription": "This course is conducted in Persian (also known as Farsi or Dari) and designed to help you continue expanding upon what you have learned in Elementary Persian II. In this course, we will begin to address a broader variety of cultural topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is placed on actively using the language for interpersonal, interpretive and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Students must either have successfully completed Elementary Persian II or take the departmental placement exam. Fall Prerequisite: PERS 0200 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 0200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Therefore use of English is restricted."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 0390 Persian for Heritage Speakers I",
+    "courseid": "PERS 0390",
+    "coursedescription": "Persian for Heritage Speakers is conducted in Persian (also known as Farsi or Dari) and designed to help you strengthen your skills by learning not only to read and write, but also to engage in more complex forms of discourse in Persian. In this course, we will begin to address a variety of topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is placed on actively using the language for interpersonal, interpretive and presentational modes of communication. Therefore, English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Prerequisite: Students must be proficient in spoken Persian (whether Farsi or Dari), and lack reading and writing skills. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Therefore, English is restricted."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 0400 Intermediate Persian II",
+    "courseid": "PERS 0400",
+    "coursedescription": "In this course, we will continue to address a broader variety of cultural topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is place on actively using Persian (also known as Farsi or Dari) for interpersonal, interpretive and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Students must have successfully completed either Intermediate Persian I or Persian for Heritage Speakers I, or take the departmental placement exam. Spring Prerequisite: PERS 0300 AND PERS 0390 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 0300",
+      "PERS 0390"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Therefore use of English is restricted."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 0600 Persian for Heritage Speakers II",
+    "courseid": "PERS 0600",
+    "coursedescription": "A course designed to develop greater skills in reading and writing standard modern Persian for those with a competency in spoken Persian. The course will focus on the lexical and syntactic differences between written and spoken Persian, and the problems of Persian spelling. Fall or Spring Prerequisite: PERS 0500 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 0500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PERS 2000 Advanced Readings in Persian I",
+    "courseid": "PERS 2000",
+    "coursedescription": "This course is for undergraduate and graduate students who have successfully completed Intermediate Persian II or taken the placement exam. It teaches students the monāzereh (debate) skills in Persian academic settings by focusing on short press commentaries and literary excerpts. Students will improve their translation skills by working on primary modern Persian poetry and short stories as well as original press excerpts of the most well-known newspapers and magazines of modern Iran. The course is designed to improve students' skills in comprehending, reading, and translating formal, written Persian. Not Offered Every Year Mutually Exclusive: PERS 6200 Prerequisite: PERS 0400 OR PERS 0600 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 0400",
+      "PERS 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PERS 2100 Advanced Readings in Persian II",
+    "courseid": "PERS 2100",
+    "coursedescription": "This advanced Persian content course is a highly interactive, media-based seminar for students who have successfully completed Advanced Persian I ( PERS 2000 ). Throughout this course students will dive deep into the history of Persian media, music, and cinema by reading secondary sources in Persian about their inception and evolution as well as close reading and analysis of the movies and media productions in Persian. The course is designed to improve students’ ability to understand and practice everyday conversations and spoken Persian used in Persian social media platforms, movies, broadcasting service. Not Offered Every Year Mutually Exclusive: PERS 6250 Prerequisite: PERS 2000 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 2000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PERS 2300 Advanced Persian in the Media",
+    "courseid": "PERS 2300",
+    "coursedescription": "This course is designed for advanced students of Persian interested in contemporary Persian media from Iran as well as Afghanistan and abroad, who wish to gain a deeper understanding of contemporary Persian-speaking societies and politics. Students will advance their skills in reading and listening, as well as in writing and speaking. Spring Prerequisite: PERS 2100 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 2100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for advanced students of Persian interested in contemporary Persian media from Iran as well as Afghanistan and abroad, who wish to gain a deeper understanding of contemporary Persian-speaking societies and politics."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 4000 Persian Culture, Literature and Film for Advanced Learners I",
+    "courseid": "PERS 4000",
+    "coursedescription": "This course is designed for those undergraduate students who have successfully passed the intermediate Persian course. Undergraduate students who take this course must either have successfully completed Intermediate Persian II, or take the placement exam. The main objective of this course is to further enhance the students’ knowledge about the millennium-old Persian literary tradition and culture as well as its world-renowned cinema through reading primary sources or watching Iranian films in original Persian. Students who take this course are expected to use Persian language at all times during their time in class. Using English inside the classroom is restricted in order to improve the students’ proficiency in Persian language. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Using English inside the classroom is restricted in order to improve the students’ proficiency in Persian language."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 5100 Elementary Persian I",
+    "courseid": "PERS 5100",
+    "coursedescription": "This course is designed to help you start learning Persian and to give you the necessary tools to continue your study of Persian. This course introduces the Persian alphabet alongside grammar and vocabulary. Emphasis is placed on actively using the language for interpersonal, interpretive, and presentational modes of communication. The four language skills (i.e., listening, speaking, reading and writing) as well as pronunciation and culture are integrated into the curriculum. There is no prerequisite. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PERS 5101 Persian for Heritage Speakers I",
+    "courseid": "PERS 5101",
+    "coursedescription": "Persian for Heritage Speakers is conducted in Persian and designed to help you strengthen your skills by learning not only to read and write, but also to engage in more complex forms of discourse in Persian. In this course, we will begin to address a variety of topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is placed on actively using the language for interpersonal, interpretive and presentational modes of communication. Therefore, English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Prerequisite: Students must be proficient in spoken Persian (whether Farsi or Dari), and lack reading and writing skills. Placement test or instructor permission required. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Therefore, English is restricted.",
+        "Placement test or instructor permission required."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 5200 Elementary Persian II",
+    "courseid": "PERS 5200",
+    "coursedescription": "This course is designed to help you build upon what you have learned in Elementary Persian I. Emphasis is placed on using the language for interpersonal, interpretive, and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing-as well as culture, vocabulary, grammar, and pronunciation-are integrated into the course. Students must either have successfully completed PERS-011, or take the departmental exam. Spring Prerequisite: PERS 0100 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 0100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Therefore use of English is restricted."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 5300 Intermediate Persian I",
+    "courseid": "PERS 5300",
+    "coursedescription": "This course is conducted in Persian and designed to help you continue expanding upon what you have learned in Elementary Persian II (PERS-012). In this course, we will begin to address a broader variety of cultural topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is placed on actively using the language for interpersonal, interpretive and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Students must either have successfully completed Elementary Persian II at the graduate level, or take the departmental placement exam. Fall Prerequisite: PERS 0200 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 0200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Therefore use of English is restricted."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 5400 Intermediate Persian II",
+    "courseid": "PERS 5400",
+    "coursedescription": "In this course, we will continue to address a broader variety of cultural topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is place on actively using Persian for interpersonal, interpretive and presentational modes of communication. Therefore use of English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Students must either have successfully completed PERS 613 or PERS 617, or take the departmental placement exam. Spring Prerequisite: PERS 0300 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 0300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Therefore use of English is restricted."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 5550 Introduction to Kurdish",
+    "courseid": "PERS 5550",
+    "coursedescription": "Introduction to Kurdish is an introductory-level course designed to help you start learning Kurdish and to give you the necessary tools to continue your study of Kurdish language. This course introduces the Kurdish alphabet (Arabic script) alongside grammar and vocabulary. Toward the end of the semester, the course will also involve some Kurdish classical and modern poetry. Emphasis is placed on actively using the language for interpersonal, interpretive, and presentational modes of communication. The four language skills (i.e., listening, speaking, reading, and writing) as well as pronunciation and culture are integrated into the curriculum. There is no prerequisite. The course will focus on a variety of Kurdish dialects as well. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PERS 5650 Elementary Kurdish Part II",
+    "courseid": "PERS 5650",
+    "coursedescription": "This course is designed to help you build upon what you have learned in Elementary Kurdish I (Introduction to Kurdish). Emphasis is placed on using the language for interpersonal, interpretive, and presentational modes of communication. Therefore, use of English is restricted. Listening, speaking, reading, and writing—as well as culture, vocabulary, grammar, and pronunciation—are integrated into the course. Students should have fulfilled the prerequisite (PERS-5550-680 202230) with a grade of C better, or taken the placement exam, in order to take this course. Spring Prerequisite: PERS 5550 or permission of instructor 1 Course Unit",
+    "course-prerequsities": [
+      "PERS-5550",
+      "PERS 5550"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Therefore, use of English is restricted.",
+        "Spring Prerequisite: PERS 5550 or permission of instructor 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 6200 Advanced Readings in Persian I",
+    "courseid": "PERS 6200",
+    "coursedescription": "A continuation of Intermediate Persian II, students will advance their skills in reading and listening, as well as in writing and speaking. Graduate students may have additional assignments. Fall Mutually Exclusive: PERS 2000 Prerequisite: PERS 5400 OR PERS 0600 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 5400",
+      "PERS 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PERS 6250 Advanced Readings in Persian II",
+    "courseid": "PERS 6250",
+    "coursedescription": "A continuation of Advanced Persian I, students will advance their skills in reading and listening, as well as in writing and speaking to near fluency. Graduate students may have additional assignments. Not Offered Every Year Mutually Exclusive: PERS 2100 Prerequisite: PERS 6200 1 Course Unit",
+    "course-prerequsities": [
+      "PERS 6200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PERS 6300 Persian for Heritage Speakers",
+    "courseid": "PERS 6300",
+    "coursedescription": "This course is conducted in Persian and designed to help you strengthen your skills by learning not only to read and write, but also to engage in more complex forms of discourse in Persian. In this course, we will begin to address a variety of topics in order to increase your proficiency in linguistic as well as cultural terms. Emphasis is placed on actively using the language for interpersonal, interpretive and presentational modes of communication. Therefore, English is restricted. Listening, speaking, reading, and writing are integrated into the course, as are culture, grammar, vocabulary, and pronunciation. Students must be proficient in spoken Persian (whether Farsi or Dari), and lack reading and writing skills.. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Therefore, English is restricted."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 6700 Persian Culture, Literature and Film for Advanced Learners I",
+    "courseid": "PERS 6700",
+    "coursedescription": "This course is designed for those graduate students who have successfully passed the intermediate Persian course. Undergraduate students who take this course must either have successfully completed Intermediate Persian II, or take the placement exam. The main objective of this course is to further enhance the students’ knowledge about the millennium-old Persian literary tradition and culture as well as its world-renowned cinema through reading primary sources or watching Iranian films in original Persian. Students who take this course are expected to use Persian language at all times during their time in class. Using English inside the classroom is restricted in order to improve the students’ proficiency in Persian language. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Using English inside the classroom is restricted in order to improve the students’ proficiency in Persian language."
+      ]
+    }
+  }
+]

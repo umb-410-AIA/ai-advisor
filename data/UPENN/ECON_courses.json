@@ -1,0 +1,1446 @@
+[
+  {
+    "coursename": "ECON 0055 Economics and Ideas: The Origins of Modernity",
+    "courseid": "ECON 0055",
+    "coursedescription": "This seminar examines the origins of modernity and the role economic ideas played in shaping it from an interdisciplinary perspective. The modern age has been described as a period of change, growth, instability, alienation, liberation, equality, prosperity, revolutions, and progress—often with contradictory views. But what were the forces that shaped this era? What ideas and events contributed to an age of unparalleled scientific, technological, and economic development? What new challenges emerged, and how can we understand them? By closely studying foundational texts in economics and related fields—such as politics, history, philosophy, and literature—this course will explore the key ideas in economics behind this civilizational shift. Students will gain insight into the complex relationship between economics and ideas and how it has evolved over time. Through rigorous reading, writing, and seminar discussions, they will develop critical thinking skills to analyze the events and ideas that shaped the world in which we live. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0100 Introduction to Micro Economics",
+    "courseid": "ECON 0100",
+    "coursedescription": "Introduction to economic analysis and its application. Theory of supply and demand, costs and revenues of the firm under perfect competition, monopoly and oligopoly, pricing of factors of production, income distribution, and theory of international trade. Econ 1 deals primarily with microeconomics. Fall or Spring Mutually Exclusive: ECON 0110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0120 Strategic Reasoning",
+    "courseid": "ECON 0120",
+    "coursedescription": "This course is about strategically interdependent decisions. In such situations, the outcome of your actions depends also on the actions of others. When making your choice, you have to think what the others will choose, who in turn are thinking what you will be choosing, and so on. Game Theory offers several concepts and insights for understanding such situations, and for making better strategic choices. This course will introduce and develop some basic ideas from game theory, using illustrations, applications, and cases drawn from business, economics, politics, sports, and even fiction and movies. Some interactive games will be played in class. There will be little formal theory, and the only pre-requisites are some high-school algebra and having taken Econ 1. However, general numeracy (facility interpreting and doing numerical graphs, tables, and arithmetic calculations) is very important. This course will also be accepted by the Economics department as an Econ course, to be counted toward the minor in Economics (or as an Econ elective). Fall Also Offered As: PPE 3001 Prerequisite: ECON 0100 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 1",
+      "PPE 3001",
+      "ECON 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0200 Introductory Economics: Macro",
+    "courseid": "ECON 0200",
+    "coursedescription": "Introduction to economic analysis and its application. An examination of a market economy to provide an understanding of how the size and composition of national output are determined. Elements of monetary and fiscal policy, international trade, economic development, and comparative economic systems. Fall or Spring Mutually Exclusive: ECON 0110 Prerequisite: ECON 0100 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0410 Public Policy Analysis",
+    "courseid": "ECON 0410",
+    "coursedescription": "This course provides an introduction to the economic method for analyzing public policy questions. It develops the implications of this method for the role of government in a market economy and for the analysis of specific public projects. Fall or Spring Prerequisite: ( ECON 0100 AND ECON 0200 ) or ECON 0110 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0200",
+      "ECON 0110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0420 Political Economy",
+    "courseid": "ECON 0420",
+    "coursedescription": "This course examines the effects of strategic behavior on political outcomes and government policies. Topics and applications may include voting behavior, candidate competition, voting systems, social choice and welfare, policy divergence, redistributive policies and theories of political transitions. Fall or Spring Prerequisite: ( ECON 0100 AND ECON 0200 ) or ECON 0110 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0200",
+      "ECON 0110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0430 Labor Economics",
+    "courseid": "ECON 0430",
+    "coursedescription": "The course begins with an extensive discussion of models of labor market demand and supply. The rest of the course addresses a variety of related topics including the school -to-work transition, job training, employee benefits, the role of labor unions, discrimination, workforce diversity, poverty, and public policy. Fall or Spring Prerequisite: ECON 0100 OR ECON 0110 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The rest of the course addresses a variety of related topics including the school -to-work transition, job training, employee benefits, the role of labor unions, discrimination, workforce diversity, poverty, and public policy."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 0440 Law and Economics",
+    "courseid": "ECON 0440",
+    "coursedescription": "The relationship of economic principles to law and the use of economic analysis to study legal problems. Topics will include: property rights and intellectual property; analysis of antitrust and economic analysis of legal decision making. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0445 Introduction to the Digital Economy",
+    "courseid": "ECON 0445",
+    "coursedescription": "This is an introductory undergraduate course on the digital economy. Our two main goals are (a) to understand how people and companies interact in digital markets and (b) to understand how digital markets should be designed and regulated. We analyze some key features that are prevalent in digital markets, including price discrimination, network effects, two-sided markets, search and matching, reputation systems, and the use of data. We also zoom in on individual markets, such as e-commerce, media platforms, and the gig economy. Spring Prerequisite: ECON 0100 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0450 Industrial Organization",
+    "courseid": "ECON 0450",
+    "coursedescription": "Theories of various industrial organizational structures and problems are developed, including monopoly, oligopoly, moral hazard and adverse selection. These theories are then applied to the study of various industries, antitrust cases, and regulatory issues. Fall or Spring Prerequisite: ECON 0100 OR ECON 0110 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0460 Economics and Theories of Fairness (SNF Paideia Program Course)",
+    "courseid": "ECON 0460",
+    "coursedescription": "Free markets excel at producing wealth, but seem to do so at the cost of economic inequality. Is this inequality unjust? Is it a problem economics and public policy should solve? Liberal democracies have traditionally had the protection of private property as a core mandate. But they also have varying degrees of redistribution in order to fund social welfare systems. How can we reconcile these objectives which seem to conflict? Is the protection of individual rights more important than the promotion of the greatest good for all? To what extent can personal liberty and the common good be reconciled? How is political equality affected by economic inequality? What does wealth inequality do to the meaning of citizenship and social cooperation? In this course, we will use the philosophical concept of justice to address these and other related questions. We will draw from economic history, political theory, and the history of philosophy in order to acquire a framework for understanding the concepts of justice, liberty, rights, and equality. We shall then apply this historical and conceptual framework to discussion topics and case studies drawn from present day economics and contemporary social issues. In this way, we shall come to understand economics as more than a social science of laws and theorems. Instead, we shall see how economics as an applied science influences the well-being of the whole of society. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0465 Economics and Philosophy",
+    "courseid": "ECON 0465",
+    "coursedescription": "This course examines some of the ways in which economics as a social science is related to philosophy. We start with a discussion of the definition, scope, and methodology of economics, reading Robbins on the definition of economics, Mill on the science of political economy and Friedman’s essay on methodology, along with some of its critical responses. We then consider three central concepts of economics which have their roots in philosophy: rationality, utility, and welfare, and we examine the philosophical assumptions in each of these economic concepts. Economics assumes a form of instrumental rationality by which individuals seek to maximize their utility. We consider the origins of this concept of rationality, its extension into rational choice theory, and the critiques it has inspired. Our next topic is the concept of utility, which originates in philosophy but which receives a technical definition in economics. Finally, we turn to welfare economics, which is the most normative part of economic science, where we consider topics such as preference satisfaction and interpersonal comparisons of utility. We also raise the question throughout whether these concepts are rightly used in economics, and whether welfare economics can in fact promote well-being. In addition to the four major topics (methodology, rationality, utility, and welfare), we will also devote one class each to four topics debated in journal articles by some of the most important economists in recent history. These topics are: --Is underinvestment in basic research a market failure? (Arrow v. Demsetz); --What are the market consequences of imperfect information? (Hayek v. Stiglitz); --What are the moral dimensions of economic growth, specifically as it relates to the environment? (B. Friedman v. T. Jackson); --Is it ethical for the state to “nudge” citizens towards desired behaviors? (Thaler and Sunstein v. Grüne-Yanoff); and Reviewing the views expressed in these debates will allow students to form their own opinions on major topics in economics where the arguments are largely philosophical. The goal of the overall course is to help students develop a more critical understanding of the assumptions of economics as it’s practiced as a social science. Fall or Spring Prerequisite: ECON 0100 AND ECON 0200 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0471 Haiti's Odious Debt and Beyond (1825-2025)",
+    "courseid": "ECON 0471",
+    "coursedescription": "This seminar will ponder Haiti's experience of debt and underdevelopment going back to the 19th century. Taking cues from the debate started by the New York Times in 2023, we will read and discuss texts describing debt, debt crisis, focusing on the interaction between global and local politics, the problem of debt forgiveness, etc. The approach will be chronological, with readings that will engage with the manner in which alternative capital markets set up reverberated locally and vice versa. We will also invite a number of Haitian and other scholars through interactive zoom sessions. While the seminar is focused in the case of Haiti we will also discuss broader implications. Also Offered As: HIST 2451 , LALS 2451 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0500 International Economics",
+    "courseid": "ECON 0500",
+    "coursedescription": "Introduction to the theory of international trade and international monetary economics. The theoretical background is used as a basis for discussion of policy issues. Patterns of international trade and production; gains from trade; tariffs, and impediments to trade; foreign exchange markets, balance of payments, capital flows, financial crises, coordination of monetary and fiscal policy in a global economy. Fall or Spring Mutually Exclusive: ECON 4510 , ECON 4520 Prerequisite: ( ECON 0100 AND ECON 0200 ) OR ECON 0110 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0200",
+      "ECON 0110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0510 Development Economics",
+    "courseid": "ECON 0510",
+    "coursedescription": "This course presents an overview of the field of development economics. The general aim is to show how economic analysis has been applied to issues related to developing countries. Among the topics covered are: income distribution, poverty, health, population growth, migration, growth, and the rural economy. Fall or Spring Prerequisite: ECON 0100 OR ECON 0110 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0615 The International Monetary System from Sterling to Cryptocurrency (1720-2020)",
+    "courseid": "ECON 0615",
+    "coursedescription": "The course will cover the modern evolution of the international monetary system going all the way back to the era when sterling became the leading international currencies. It is arranged thematically and chronologically both. The lessons and readings will introduce students to the principal evolutions of the international monetary system and at the same time, it will give them an understanding of regimes, their mechanics and the geopolitical economies behind systemic shifts. Students need not have an economic background but must be prepared to read about exchange rates (and world politics). Special focus on: The early modern international monetary system. How Amsterdam and London captured the Spanish treasure. Beyond the West (Ottoman Empire, India, China). The Napoleonic wars and the rise of sterling. Hong-Kong: Silver, Opium, and the Recycling of Surpluses. The emergence of the Gold Standard. Bimetallism: The US election of 1796. Sterling and Key Currencies before WWI. The First World War and the origins of dollar supremacy. When the dollar displaced sterling (1920s). The collapse of the international gold standard (1930s). The Bretton Woods System. The rise and rise of the US dollar. Currency competition (Dollar, Euro, Yuan Renminbi). The meaning of cryptocurrencies. Also Offered As: HIST 3965 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0620 Financial Meltdown, Past and Present",
+    "courseid": "ECON 0620",
+    "coursedescription": "Economic history is increasingly recognized as a crucial source of policy advice and is invoked with growing frequency in public debates. In particular, the subprime crisis in 2008 and after has generated a demand for \"historical perspective\" that would improve the understanding of the causes of financial turmoil and facilitate the prevention of comparable catastrophes. This course begins with a review of the principal features of the subprime crisis of 2008 and asks, so to speak, \"how did we get there?\" It answers by providing historical insights that shed light on crucial aspects of financial disasters. This is a history course, engaging with topics pertaining to economics, law and politics (national and international). Students with diverse backgrounds are expected to benefit from this course through acquiring a concrete knowledge of the historical evolution of fundamental institutions of financial capitalism. Ultimately, students enrolling in this course are expected to achieve proficiency in historically informed discussion of the mechanisms that were played out in the subprime crisis and beyond. Not Offered Every Year Also Offered As: HIST 1731 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0625 Introduction to Business, Economic and Financial History",
+    "courseid": "ECON 0625",
+    "coursedescription": "Business, Economic and Financial History plays a crucial role today in informing the views of business leaders, policy makers, reformers and public intellectuals. This seminar provides students with the opportunity to acquire a command of the key elements of this important intellectual field. The seminar format enables us to do this engagingly through reading and discussion. Students acquire a knowledge of the fundamental texts and controversies. Each meeting focuses on one foundational debate and provides a means to be up to date with the insights gleaned from rigorous economic history. We will examine twelve important debates and students will be asked to write a paper. The debates will include such questions as: What is growth and how can it be measured? What caused the \"great divergence\" in long run development among countries? How can we \"understand\" the rise and fall of slavery and its long shadow today? What is globalization and when did it begin? Did the Gold Standard and interwar fiscal and monetary policy orthodoxy cause the great depression? How can we explain the evolution of inequality in the very long run? Also Offered As: HIST 3710 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 0630 The Economics and Financing of Health Care Delivery",
+    "courseid": "ECON 0630",
+    "coursedescription": "The course provides an application of economic models to demand, supply, and their interaction in the medical economy. Influences on demand, especially health status, insurance coverage, and income will be analyzed. Physician decisions on the pricing and form of their own services, and on the advice they offer about other services, will be considered. Competition in medical care markets, especially for hospital services, will be studied. Special emphasis will be placed on government as demander of medical care services. Changes in Medicare and regulation of managed care are among the public policy issues to be addressed. Prerequisite: If course requirement not met, permission of instructor required. Fall or Spring Also Offered As: ECON 0390, HCMG 2020 Prerequisite: ECON 0100 OR ECON 0110 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0390",
+      "HCMG 2020",
+      "ECON 0100",
+      "ECON 0110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 2100 Intermediate Microeconomics",
+    "courseid": "ECON 2100",
+    "coursedescription": "Theories of consumer behavior, demand, production, costs, the firm in various market contexts, factor employment, factor incomes, elementary general equilibrium, and welfare. Fall or Spring Prerequisite: ECON 0100 AND ECON 0200 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0200",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2200 Intermediate Macroeconomics",
+    "courseid": "ECON 2200",
+    "coursedescription": "Facts and theories about the determination of per capita income and its differences across countries and across time. The study of economic fluctuations in output and employment. The role of government in influencing these aggregate variables: monetary and fiscal policy. Fall or Spring Mutually Exclusive: FNCE 1010 Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2300 Statistics for Economists",
+    "courseid": "ECON 2300",
+    "coursedescription": "The course focuses on elementary probability and inferential statistical techniques. The course begins with a survey of basic descriptive statistics and data sources and then covers elementary probability theory, sampling, estimation, hypothesis testing, correlation, and regression. The course focuses on practical issues involved in the substantive interpretation of economic data using the techniques of statistical inference. For this reason empirical case studies that apply the techniques to real-life data are stressed and discussed throughout the course, and students are required to perform several statistical analyses of their own. Fall or Spring Prerequisite: ECON 0100 AND ECON 0200 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0200",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 2310 Econometric Methods and Models",
+    "courseid": "ECON 2310",
+    "coursedescription": "This course focuses on econometric techniques and their application in economic analysis and decision-making, building on ECON 2300 to incorporate the many regression complications that routinely occur in econometric environments. Micro-econometric complications include nonlinearity, non-normality, heteroskedasticity, limited dependent variables of various sorts, endogeneity and instrumental variables, and panel data. Macro-econometric topics include trend, seasonality, serial correlation, lagged dependent variables, structural change, dynamic heteroskedasticity, and optimal prediction. Students are required to perform several econometric analyses in a modern environment such as R. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2300 OR ( STAT 4300 AND STAT 1020 )) AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2300",
+      "STAT 4300",
+      "STAT 1020",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4100 Game Theory",
+    "courseid": "ECON 4100",
+    "coursedescription": "An introduction to game theory and its applications to economic analysis. The course will provide a theoretical overview of modern game theory, emphasizing common themes in the analysis of strategic behavior in different social science contexts. The economic applications will be drawn from different areas including trade, corporate strategy and public policy. Fall or Spring Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4101 Game Theory Honors",
+    "courseid": "ECON 4101",
+    "coursedescription": "This is an honors game theory class; permission is necessary to enroll. An introduction to game theory and its applications to economic analysis. The course will provide a theoretical overview of modern game theory, emphasizing common themes in the analysis of strategic behavior in different social science contexts. The economic applications will be drawn from different areas including trade, corporate strategy and public policy. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This is an honors game theory class; permission is necessary to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4110 Economics of Family",
+    "courseid": "ECON 4110",
+    "coursedescription": "This course will study modern family economics. The class will develop economic models to study topics such as female labor supply, fertility, marriage and divorce, women's liberation, premarital sex and parental socialization, investment in health, and retirement. This is an advanced undergraduate class. Calculus is an integral part of the course. Some elementary probability theory is drawn upon. Students unwilling to learn some of the tools used in modern economic should not take this class. Not Offered Every Year Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4120 Social Choice Theory",
+    "courseid": "ECON 4120",
+    "coursedescription": "This course investigates a topic which lies at the heart of economic, social and political sciences, namely the aggregation of individual preferences. Can a society as a whole exhibit preferences as individuals do? Can these preferences be based on individual ones, and show the same level of coherence? Which process can lead from individual preferences to the preferences of the society? At the end of the 18th century, the pioneers in the field already realized that mathematics is the only language powerful enough to make deep progress in the understanding of these questions. The formalization involves pure logic as well as geometry and combinatorics. Not Offered Every Year Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4130 Market Design",
+    "courseid": "ECON 4130",
+    "coursedescription": "Market design is broadly about designing interventions in economic systems so as to enhance their performance. The power and potential of market design has recently entered a new era of possibility with the rise of Artificial Intelligence. Artificial Intelligence is concerned with the design of intelligent autonomous systems. Such systems are rapidly transforming our society and economy and have been enabled by major advances in cloud computing and network telecommunications. Yet underlying the technological surface of many AI-oriented applications are fundamental economic and econometric principles which are central to their design and implementation. In short, to perform well, an AI system must \"think like economists\" - it must: 1. Make predictions about its environment; 2. Test causal hypotheses about the effect of various actions they can take, and; 3. Make decisions about an optimal plan of action in the face of uncertainty, which is a cycle that repeats and iteratively improves. Many of the established success stories in AI today have largely been focused on achieving (1), the trend is towards AI increasingly encompassing (2) and (3). In this course we aim to isolate these economic principles and understand their role in the modern development of AI, as well as gaining an appreciation for what the proliferation of AI based technologies means for the economy in which we live. Although the course will be principally interested in the former, we won't fully shy away from some discussion of the latter. Topics include human judgment and decision making biases (a light intro to behavioral economics), predictive machine learning and regularization, causal inference as distinct from prediction with application to product pricing, and reinforcement learning for dynamic decisions. Fall or Spring Prerequisite: ECON 2100 AND ECON 2300 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2300",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Although the course will be principally interested in the former, we won't fully shy away from some discussion of the latter."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4140 Decision Making Under Uncertainty",
+    "courseid": "ECON 4140",
+    "coursedescription": "This course will show how individuals make decisions in a world full of uncertainties, both normatively and descriptively. This theory will help us build skills in understanding and analyzing a choice problem with uncertainty in a systematic fashion, as well as deepening our understanding of the fundamental concept of a utility function, which plays a critical role in economic modeling. The course requires a substantial ability of abstract thinking. Homework is intended to be thought-provoking rather than skill-sharpening. Not Offered Every Year Prerequisite: ECON 2100 AND ECON 2300 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2300",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4150 Mathematical Economics",
+    "courseid": "ECON 4150",
+    "coursedescription": "This semester long course will introduce students to a variety of mathematical topics associated with convexity, optimization and fixed points that are used in Economic theory. The use of these techniques will be illustrated with a host of economic applications. Students who have not taken ECON 2100 require instructor permission. Fall or Spring Prerequisite: MATH 3140 AND MATH 3600 AND ECON 2100 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 3140",
+      "MATH 3600",
+      "ECON 2100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students who have not taken ECON 2100 require instructor permission."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4160 Behavioral Economics",
+    "courseid": "ECON 4160",
+    "coursedescription": "People often systematically deviate from predictions of standard models in economics. Behavioral economics is an emerging subfield of modern economics that incorporates insights from psychology and other social sciences into economics to improve realism of standard models. This course reviews some of the standard assumptions in economics and evidence on how human behavior systematically departs from these assumptions. Several well-known behavioral theories that explain such deviations and their implications will be discussed. Topics may include (but not limited to) context-dependence, prospect theory, loss aversion, present bias, self-control, reference-dependence, limited attention, biased beliefs, fairness, and biases in strategic reasoning. Fall or Spring Prerequisite: ECON 2100 AND ECON 2300 AND ( MATH 1080 OR MATH 1410 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2300",
+      "MATH 1080",
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics may include (but not limited to) context-dependence, prospect theory, loss aversion, present bias, self-control, reference-dependence, limited attention, biased beliefs, fairness, and biases in strategic reasoning."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4170 The Economics of Contracts",
+    "courseid": "ECON 4170",
+    "coursedescription": "This is a course on economic contract theory, covering adverse selection contracts, moral hazard contracts, dynamic contracts, incomplete contracts, and renegotiation. Illustrative applications include price discrimination, auctions, insurance, ownership, and hold-up problems. Prerequisite: ECON 2100 AND ( MATH 1080 OR MATH 1410 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1080",
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4200 Economic Growth",
+    "courseid": "ECON 4200",
+    "coursedescription": "The process of economic growth and the sources of differences in economic performance across nations are some of the most interesting, important and challenging areas in modern social science. You cannot travel or read the news without wondering why differences in standards of living among countries are so large. The primary purpose of this course is to introduce undergraduate students to these major issues and to the theoretical tools necessary for studying them. The course therefore strives to provide students with a solid background in dynamic economic analysis, as well as empirical examples and data analysis. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ECON 2300 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "ECON 2300",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The process of economic growth and the sources of differences in economic performance across nations are some of the most interesting, important and challenging areas in modern social science."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4205 Structural changes in the modern macroeconomy",
+    "courseid": "ECON 4205",
+    "coursedescription": "Over the past few decades, the U.S. as well as other advanced economies have undergone a secular transformation: while overall economic growth has slowed down mildly, the fruits of economic growth have been spread unevenly. Income and wealth inequality have increased, the labor share of national income has decreased, economic activity has increasingly concentrated at a few superstar firms, and business dynamism has declined. The observed developments have generated strong reactions across the political spectrum. Is the American Dream really still alive, or might it be that a large fraction of the population simply will no longer be able to productively contribute to society? The aim of this course is to introduce advanced undergraduate students to the main empirical facts and theoretical tools involved in studying these developments through a macroeconomic lens. We will carefully analyze the data using the tools of applied (micro-)economics and interpret them using basic macroeconomic models. Interested students should have taken ECON 2100 , ECON 2200 , ECON 2300 ; MATH 1400 , MATH 1410 , or MATH 1510 . Some basic knowledge of regression analysis is also recommended. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Interested students should have taken ECON 2100 , ECON 2200 , ECON 2300 ; MATH 1400 , MATH 1410 , or MATH 1510 .",
+        "Some basic knowledge of regression analysis is also recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4210 Numerical Methods for Macroeconomists",
+    "courseid": "ECON 4210",
+    "coursedescription": "This course will study numerical methods as used in modern macroeconomics. Students will learn how to solve nonlinear equations, difference equations, interpolate functions, smooth data, and conduct Monte Carlo simulations on the computer. This will be done while studying economic problems, such as the determination of labor supply, economic growth and business cycle analysis. Calculus is an integral part of the course and some elementary probability theory will be drawn upon. The MATLAB programming language will be used. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4220 Monetary and Fiscal Policies",
+    "courseid": "ECON 4220",
+    "coursedescription": "This is an advanced course in macroeconomics. A relatively simple, but well defined and internally consistent model of the U.S. economy is set up and used to study how output is generated given the initial resources, how output is divided between consumption and addition to capital stock, and how this process accumulates over time. The role of prices including the rate of interest in this process is also reviewed, and monetary and fiscal policies needed to improve the performance of the economy under such circumstances are discussed. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The role of prices including the rate of interest in this process is also reviewed, and monetary and fiscal policies needed to improve the performance of the economy under such circumstances are discussed."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4225 Macroeconomics of Inequality: Data and Implications",
+    "courseid": "ECON 4225",
+    "coursedescription": "Inequality among economic agents is a defining feature of modern economies: Households at the top of the wealth distribution own billions of dollars, while the bottom half of the population has almost no wealth and lives paycheck to paycheck. Some firms have thousands of employees while others operate only with a handful of workers. And inequality among both households and firms has been on the rise. Which forces shape the distribution of income and wealth across households? Why do some firms hire more employees than others? And how do these differences across households and firms affect aggregate outcomes in the economy? The objective of the course is to introduce students to micro-data evidence on the rich heterogeneity among economic agents and to provide them with simple theories to understand and analyze this heterogeneity and its interaction with macroeconomic outcomes. The course may be loosely structured in two parts, the first focussing on economic differences across households and the second focussing on differences across firms. Topics covered in the first half may include the distribution of income, wealth and spending across households and their determinants, the role of Macroeconomic trends and shocks for inequality among households, and the role of the distribution of income and wealth for macroeconomic dynamics. Topics covered in the second half of the course may include the distribution of employment and output across firms, the misallocation of resources and aggregate productivity, as well as firms' price-setting decision, its implications for trends in inflation, market power and profits. Prerequisite: ECON 2100 AND ECON 2200 AND ECON 2300 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "ECON 2300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4230 Macro Perspectives on Challenges for Economic Policy",
+    "courseid": "ECON 4230",
+    "coursedescription": "This is an advanced undergraduate course in models of economic growth. Students will be introduced to the workhorse theoretical models that are used to understand growth by modern macroeconomic researchers and policy makers. The types of questions that we will address include: Why are some countries richer than others? Why do some countries grow quickly while others stagnate? Why did modern economic growth start in Western Europe? What can governments do to accelerate economic growth? How does economic growth interact with demographic and geographic factors? We will build theoretical models that can be used to answer these questions. There will be a strong focus on emphasizing the microeconomic foundations of models, and using the language of mathematics to express the underlying assumptions and assess their implications for policy. Hence, there are strict mathematical prerequisites. We will also compare the predictions of our models with the data. Thus, a fair amount of econometrics will be required. A class in statistics and econometrics is highly recommended. Not Offered Every Year Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A class in statistics and econometrics is highly recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4240 Money and Banking",
+    "courseid": "ECON 4240",
+    "coursedescription": "Money and Banking. This course studies the role that financial markets, institutions, and money play in resource allocation. Financial intermediation and the role of banks in the economic system are analyzed and the economic rationale behind banking regulation is studies. The course examines how monetary policy influences interest rates and asset markets, such as the bond market and the stock market. Finally, the instruments and goals of monetary policy are discussed, focusing in particular on credibility and commitment for central banks. All of the questions are explored analytically, using the tools of economic theory. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course examines how monetary policy influences interest rates and asset markets, such as the bond market and the stock market."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4250 Financial Economics",
+    "courseid": "ECON 4250",
+    "coursedescription": "This course is designed to introduce students to key topics in financial economics: the fundamentals of modern financial analysis, instruments and institutions, corporate investment and financing decisions, the theory of portfolio choice and theories of asset pricing. Along the way, students will be introduced to economics of uncertainty and statistical decision theory. We will explore both the older risk neutral models of valuation as well the more modern risk/arbitrage based theories. We will cover the central elements of corporate finance as well as some of the key financial aspects of public and international finance, as well as cryptocurrencies and their associated financial assets. Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4310 Macro-Econometric Techniques and Applications",
+    "courseid": "ECON 4310",
+    "coursedescription": "This course provides a deeper treatment of time-series econometric methods used in macroeconomc and financial applications, such as nonstationarity, unit roots, and cointegration; structural evolution and breaks; point, interval and density forecasts; forecast evaluation and combination; vector autoregression including impulse-response estimation and analysis; dynamic factor models and dimensionality reduction; univariate and multivariate stochastic volatility models; and prediction markets. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ECON 2300 AND ECON 2310 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "ECON 2300",
+      "ECON 2310",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4320 Micro-econometric Techniques and Applications",
+    "courseid": "ECON 4320",
+    "coursedescription": "This course provides a deeper treatment of econometric methods and issues as relevant for microeconomic applications, such as non-parametric function estimation; endogeneity and identification (strong and weak); generalized method of moments estimation; randomized and quasi-randomized methods for causal estimation; design strategies such as regression discontinuity and differences-in-differences; program evaluation; and quantile regression. Fall or Spring Prerequisite: ECON 2100 AND ECON 2310 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2310",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4330 Econometric Machine Learning Methods and Models",
+    "courseid": "ECON 4330",
+    "coursedescription": "This course covers econometric methods, machine learning methods, and their interface, focusing on aspects of estimation, inference, and prediction in causal and non-causal environments. Topics may include Bayesian learning; recursive estimation and optimal filtering; randomized controlled trials and their approximation; latent variables; classification; topic analysis; LDA models; neural networks; random forests; regularization (shrinkage, selection, ...); network estimation and description. Fall or Spring Prerequisite: ECON 2300 AND ECON 2310 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2300",
+      "ECON 2310",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics may include Bayesian learning; recursive estimation and optimal filtering; randomized controlled trials and their approximation; latent variables; classification; topic analysis; LDA models; neural networks; random forests; regularization (shrinkage, selection, ...); network estimation and description."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4340 Empirical Economics of Climate Change",
+    "courseid": "ECON 4340",
+    "coursedescription": "This course provides a broad introduction to the economics of climate change. The relevant theory is covered, but the emphasis throughout is empirical. Topics may include: background in geophysics and econometrics; bi-directional feedback relationships between climate change and economic activity; global warming dynamics as manifeast in temperature and sea ice dynamics; economic strategies, policies, and institutions for climate change mitigation and adaptation (including trading or taxing carbon, hedging climate risk in financial markets, and monetary and supervisory policy). Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ECON 2300 AND ECON 2310 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "ECON 2300",
+      "ECON 2310",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4405 Economic Program Evaluation",
+    "courseid": "ECON 4405",
+    "coursedescription": "Does increasing the minimum wage reduce employment? Do smaller class sizes improve students' achievement? Does Medicare improve its recipients' health status? Program evaluation is an essential part of policy making and the political debate. More generally, causality and the identification of causal effects are at the heart of many questions in economics. The goal of this class is to give students a precise understanding of what causality is, and a working knowledge of empirical methods used in economics to estimate causal effects and evaluate public policy. Recommended: ECON 2310 . Fall or Spring Prerequisite: ECON 2100 AND ECON 2300 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2300",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended: ECON 2310 ."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4410 Public Finance",
+    "courseid": "ECON 4410",
+    "coursedescription": "This course has two parts. The first part looks at market and government failures and discusses the need for public policies as well as limits to their effectiveness including the evaluation of public projects using cost benefit analysis. The second part focuses on the economic analysis of taxation, including the economic incidence and efficiency of taxes. Fall or Spring Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4420 Political Economy",
+    "courseid": "ECON 4420",
+    "coursedescription": "This course examines the political and economic determinants of government policies. The course presents economic arguments for government action in the private economy. How government decides policies via simple majority voting, representative legislatures, and executive veto and agenda-setting politics will be studied. Applications include government spending and redistributive policies. Fall or Spring Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4430 Labor Economics",
+    "courseid": "ECON 4430",
+    "coursedescription": "Labor supply and labor demand, income distribution, labor market contracts and work incentives, human capital, labor market discrimination, job training and unemployment. Fall or Spring Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 or MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4440 Law and Economics",
+    "courseid": "ECON 4440",
+    "coursedescription": "This course will use basic microeconomic tools to understand how the law often, but not always, promotes economic efficiency. Among the areas to be discussed will be tort law, property law, intellectual property, antitrust regulation. The distinction between common law and legislative law will be drawn. Fall or Spring Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4450 Industrial Organization",
+    "courseid": "ECON 4450",
+    "coursedescription": "Theories of various industrial organizational structures and problems are developed, including monopoly, oligopoly, nonlinear pricing and price discrimination. These theories are used to model various industries, antitrust cases, and regulatory issues. Fall or Spring Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4460 Health Economics",
+    "courseid": "ECON 4460",
+    "coursedescription": "In this course we will use the tools of microeconomics to analyze the functioning of the health care system. We will draw from the sub-disciplines of information economics, industrial organization, labor economics, public economics, and behavioral economics. The primary goal is to use these tools to develop a critical analysis of the functioning of the health care system as well as of the policies aimed at improving it. We will learn about US specific institutional details and policies (most notably the Affordable Care Act), and we will compare them to other important international experiences. Fall or Spring Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4470 Urban Fiscal Policy",
+    "courseid": "ECON 4470",
+    "coursedescription": "The purpose of this course is to examine the financing of governments in the urban economy. Topics to be covered include the causes and consequences of the urban fiscal crisis, the design of optimal tax and spending policies for local governments, funding of public infrastructures and the workings of the municipal bond market, privatization of government services, and public financial systems for emerging economies. Applications include analyses of recent fiscal crises, local services and taxes as important determinants of real estate prices, the infrastructure crisis, financing and the provision of public education, and fiscal constitutions for new democracies using South Africa as an example. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ECON 2300 AND ECON 2310 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "ECON 2300",
+      "ECON 2310",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4480 Economics of Education",
+    "courseid": "ECON 4480",
+    "coursedescription": "The course focuses on the educational decisions, including individual choices, institutional strategies and government policies. It is an elective course in economics and it is designed for junior and senior students. During the first part of the course we will go over the mathematical and empirical tools needed to understand and perform quantitative analysis on topics in the economics of education. Students should expect to work on optimization methods, regression analysis and causal inference analysis. We will use Stata (https://www.stata.com/) as statistical software. After we have built a solid foundation of knowledge, we will cover the first \"real\" topic of the economics of education: the return to schooling. During this phase of the course we seek to address two questions: what are the benefits that an individual acquires (i.e. in terms of earnings in the labor market or career opportunities) by attending more years of school and what are the benefits for society as a whole? While these questions seem to have a simple explanation, we will discover that they are actually quite challenging and require a more complex explanation. Once we have analyzed the benefits of schooling, we will study what motivates some students to further their education for more years, as opposed to others. In particular, we will focus on the differences in the quality of environments that children face throughout childhood (e.g.: family environment and school/classroom environment) and the consequences for observed inequities. Finally, in the remaining portion of the course we will study the evaluations of different policies that have been implemented in the past from previous governments, with the goal of gaining insight for possible future policy recommendations. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ECON 2300 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "ECON 2300",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4490 The Digital Economy",
+    "courseid": "ECON 4490",
+    "coursedescription": "This is an advanced undergraduate course on the digital economy. Our two main goals are (a) to understand how people and companies interact in digital markets and (b) to understand how digital markets should be designed. The course uses a combination of theoretical modeling and empirical evidence in order to achieve those goals. We analyze some key features that are prevalent in digital markets, including network effects, two-sided markets, search and matching, reputation systems, and the use of data. We also zoom in on individual markets, such as search engines, e-commerce platforms, and the gig economy. Fall or Spring Prerequisite: ECON 2100 AND ECON 2310 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2310",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4510 International Trade",
+    "courseid": "ECON 4510",
+    "coursedescription": "Structure of the world economy; theory of international trade; economic growth and international trade; international trade policy: developed countries; developing countries. Direct investment, technology transfers, and the multinational firm. Fall or Spring Mutually Exclusive: ECON 0500 Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4520 International Finance",
+    "courseid": "ECON 4520",
+    "coursedescription": "International monetary economics with emphasis on economic policy in an open economy. Topics covered in the course include: balance-of-payments adjustment, theories of exchange rate determinaton, the effects of exchange rate devaluation, macroeconomic policy under fixed and floating exchange rates, the Euro-dollar market, currency and balance of payments crises. Fall or Spring Mutually Exclusive: ECON 0500 Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4530 Topics in Development",
+    "courseid": "ECON 4530",
+    "coursedescription": "This course studies the causes of income differences across countries and the process of income growth in developing countries. We will use theoretical models, empirical evidence, and country-specific case-studies to understand the role of institutions, geography, human capital, credit markets, firms, and the public sector in driving economic development. Spring Prerequisite: ECON 2100 AND ECON 2310 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2310",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4540 China: Institutions and the Economy",
+    "courseid": "ECON 4540",
+    "coursedescription": "The rise of China since its economic reform starting from 1978 is one of the most important developments the world witnessed in the twenty first century. In this seminar course, we explore topics including the political logic of China's economic reform, the institutional foundations of the Chinese economic growth miracle, as well as detailed analysis of Chinese financial markets, housing markets, fiscal reform, corruption/anti-corruption, labor market transitions, China's integration into the world economy, village democracy and its impact on resource allocation, the impact of population ageing, the impact of China on US economy and politics, among others. The discussions will focus on China, but will relate broadly to emerging and developed economies. The course will be based on reading and discussing research articles and books selected by the instructors. Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4545 Finance and Growth from a Historical Perspective",
+    "courseid": "ECON 4545",
+    "coursedescription": "This course focuses on the interception between finance and economic growth by studying some of the most important events in economic history that have taken place over the last few centuries. Starting with the emergence of the modern capital markets and economic growth, the course examines in depth, major developments in financial history, such as the classical gold standard, the origins of central banking, the Great Depression, and the Bretton Woods system. However, this course goes beyond any standard course on financial history and examines how finance has affected economic growth in the long-run, from an international perspective and starts in the seventeenth century in Europe, up to the 1990s in South-East Asia. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ECON 2300 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "ECON 2300",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4550 The Political Economy of Early America",
+    "courseid": "ECON 4550",
+    "coursedescription": "This course will study the political economy of Early America, from the British Settlement to c. 1820. In particular, we will explore the forces behind the economic growth of the British colonies, the economic forces behind the Revolution, the economic consequences of the Revolution, the political economy of the constitutional convention and ratification, the role of SCOTUS in creating a national market, and the opposing Hamilton-Jefferson views of an American economy. Early America is a fascinating and rich historical period, and we will need to skip many issues of interest. Nevertheless, we hope to provide you with a good overview of how a group of small peripheral colonies created an institutional arrangement that allowed them, in less than two centuries, to become the biggest economy in the world. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Early America is a fascinating and rich historical period, and we will need to skip many issues of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 4560 History of Economic Thought",
+    "courseid": "ECON 4560",
+    "coursedescription": "This course surveys the history of the development of economic thought, beginning with the Classical school and the works of Smith, Ricardo, J.S. Mill, Marx and others and continuing to the 20th century thought, including Keynes, Hayek, and Arrow. Fall or Spring Prerequisite: ECON 2100 AND ( ECON 2200 OR FNCE 1010 ) AND ECON 2300 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "FNCE 1010",
+      "ECON 2300",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4610 Foundations of Market Economies",
+    "courseid": "ECON 4610",
+    "coursedescription": "This course will study the historical and intellectual forces behind the appearance of market economies on the world stage. The voyages of exploration undertaken by Europeans in the 15th and 16th century created, in just a few decades, a global economy. By 1600, silver from Mexico was exchanged in Manila for ceramics made in Nanjing (China). After a long trip through the Pacific, Mexico, and the Atlantic, the ceramics ended up in the tables of prosperous merchants in Bruges (modern day Belgium). How did this integrated global economy appear? How did global interconnections over the centuries shap our current world? How did markets emerge and influence these interconnections? Who were the winners of globalization? And who were the losers? How did economists, political scientists, and others think about the strengths and weakness of market economies? This course will explore these questions and the role that markets have played in it from the late 15th century to the present. Even if the economic theory will structure much of the discussion, insights from intellectual history, cultural history, microhistory, legal history, and institutional history will help to frame the main narrative. The course will be, as well, truly global. First, beyond the traditional focus of economic history courses on Europe and the Americas, particular attention will be devoted to Africa and Asia. Second, the priority will be to highlight the interconnections between the different regions and to understand how the people living in them negotiated the opportunities and tensions created by the economic transformations triggered by globalization and how they conceptualized the changing lives around them. Finally, the class will highlight how diverse intellectual traditions handled the challenges presented by historical change. Fall or Spring Prerequisite: ECON 2100 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4900 Honors Seminar",
+    "courseid": "ECON 4900",
+    "coursedescription": "Students prepare an honors thesis in economics over the academic year, supervised by a faculty member of their choice. In ECON 4900 (fall) and ECON 4910 (spring), students present their work in progress to the class. Any student intending to do empirical work in the thesis should have completed ECON 2300 and ECON 2310 . Fall Prerequisite: ECON 2100 AND ECON 2200 AND ECON 2300 AND ECON 2310 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1510 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "ECON 2300",
+      "ECON 2310",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1510",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4910 Honors Seminar (II)",
+    "courseid": "ECON 4910",
+    "coursedescription": "Students prepare an honors thesis in economics over the academic year, supervised by a faculty member of their choice. In ECON 4900 (fall) and ECON 4910 (spring), students present their work in progress to the class. Any student intending to do empirical work in the thesis should have completed ECON 2300 and ECON 2310 . Spring Prerequisite: ECON 2100 AND ECON 2200 AND ECON 2300 AND ECON 2310 AND MATH 1400 AND MATH 1410 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "ECON 2300",
+      "ECON 2310",
+      "MATH 1400",
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 4999 Independent Study",
+    "courseid": "ECON 4999",
+    "coursedescription": "Individual study and research under the direction of a member of the Economics Department faculty. At a minimum, the student must write a major paper summarizing, unifying, and interpreting the results of the study. This is a one semester, one c.u. course. Fall or Spring Prerequisite: ECON 2100 AND ECON 2200 AND ECON 2300 AND ( MATH 1400 OR MATH 1070 ) AND ( MATH 1410 OR MATH 1080 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2100",
+      "ECON 2200",
+      "ECON 2300",
+      "MATH 1400",
+      "MATH 1070",
+      "MATH 1410",
+      "MATH 1080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6100 Microeconomic Theory",
+    "courseid": "ECON 6100",
+    "coursedescription": "Basic tools of microeconomic theory: consumer choice, firm behavior, partial and general equilibrium theory. This is a more theoretical treatment of the basic tools of microeconomic analysis than ECON 2100 . Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6101 Microeconomics I",
+    "courseid": "ECON 6101",
+    "coursedescription": "How do firms and consumers respond to prices and what determines them? This requires an understanding of the key micro-economic models of firm and consumer behavior and how the parameters that govern them can be determined based on observed data. Thus, this course focuses on economic decision making at the household and firm levels and how they interact through markets. Topics include consumer theory, choice over time and under uncertainty, theory of the firm, perfect and imperfect competitive markets, equilibrium and welfare theorems, market imperfections, and public goods. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6110 Game Theory and Applications",
+    "courseid": "ECON 6110",
+    "coursedescription": "A graduate level introduction to decision making under uncertainty, applied game theory, and information economics. Spring Prerequisite: ECON 6100 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 6100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6111 Microeconomics II",
+    "courseid": "ECON 6111",
+    "coursedescription": "This course builds on ECON 6101 , covering more advanced topics in microeconomics. The first part of the course focuses on strategic interaction, incentives, and information, topics that are the core to understanding the design of auctions, compensation, regulation, and insurance contracts. The second part of the course covers topics related to the study of labor markets. These include the distribution of income, the theory of labor supply (both static and dynamic), theories of labor demand, labor market equilibrium and the theory of compensating differences, agency problems, human capital, government regulation, migration, and labor market discrimination. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6200 Macroeconomics I",
+    "courseid": "ECON 6200",
+    "coursedescription": "An important goal for economists working at firms, governments, and non-profit organizations is to be able to critically read and digest reports about the macroeconomy prepared by central banks, international institutions (such as the World Bank, the International Monetary Fund, and the OECD), and private-sector observers. Thus, this course is organized around three parts. First, the course starts with the National Income and Product Accounts (NIPA). Stu- dents will learn about the logic of NIPA and how to extract and present data from NIPA. Additionally, the course will discuss measurement issues in aggregate activity, data revisions, and approaches to tracking economic activity in real time. Second, the course introduces the neoclassical growth model as a device to organize thinking about the evolution of key macroeconomic variables such as aggregate output, consumption, investment, and employment. Third, the course examines income and wealth inequalities, both within countries and across countries, and discusses theories that help us understand the causes and consequences of these inequalities. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6210 Macroeconomics II",
+    "courseid": "ECON 6210",
+    "coursedescription": "This course builds on ECON 6200 , covering more advanced topics in macroeconomics. The first part of the course studies facts and theories of business cycles and helps students to understand the effects of monetary and fiscal policy interventions through the lens of the New Keynesian model. The second part covers investment theory, sunk costs, and option value. The third part focuses on international aspects of macroeconomics, including international business cycles, trade, exchange rate dynamics, and debt crises. Moreover, it examines the role of international organizations such as the International Monetary Fund, the World Bank, and the World Trade Organization. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6220 Topics in Macroeconomic Policy Analysis",
+    "courseid": "ECON 6220",
+    "coursedescription": "This course builds on ECON 6200 and 6210 to study the aggregate effect of macroeconomic policy interventions, such as changes interest rate changes, forward guidance, or asset purchases by central banks, and changes in tax rates, transfers, or government spending by fiscal policy authorities. Each of these policies is associated with costs and benefits. Different quantitative strategies for the policy assessment are considered, including, but not limited to, the use of structural dynamic equilibrium models and the use of semi-structural vector autoregressive models. Several real-life applications will be considered. examples will be introduced. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course builds on ECON 6200 and 6210 to study the aggregate effect of macroeconomic policy interventions, such as changes interest rate changes, forward guidance, or asset purchases by central banks, and changes in tax rates, transfers, or government spending by fiscal policy authorities.",
+        "Different quantitative strategies for the policy assessment are considered, including, but not limited to, the use of structural dynamic equilibrium models and the use of semi-structural vector autoregressive models."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 6230 The Economics of Climate Change",
+    "courseid": "ECON 6230",
+    "coursedescription": "This course deals with the economics of climate change and builds upon microeconomic, macroeconomic, and econometric foundations provided in the first year. Topics include: evaluating the strength of feedback mechanisms between the climate and the macroeconomy; predicting the effects of climate change on sectoral allocations, e.g., from “brown” to “green” sectors, and on relative prices; measuring the costs and benefits of environmental regulations; assessing potential effects climate change and environmental policies on financial markets, e.g., what happens to asset prices if institutional investors are mandated to invest a certain fraction of their assets into “green” stocks? Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6300 Quantitative Methods",
+    "courseid": "ECON 6300",
+    "coursedescription": "A key goal of the program is to educate economists that are proficient at data-driven analysis. This course lays the foundation for future courses through two parts. First, economists should also know how to think about data from a probabilistic perspective. Thus, the first section of the course will introduce basic concepts in probability, statistics, and linear algebra that are important for working with the econometric and machine learning techniques that will come up in subsequent courses. Examples include random variables, conditional probability, distribution functions, sampling, estimation, confidence intervals, hypothesis testing, eigenvalues and eigenvectors. The treatment of these topics emphasizes simulation-based approaches, e.g., generating draws from probability distributions on the computer, and using bootstrap techniques to understand the sampling behavior of data transformations and test statistics. The second part of the course will introduce applied regression analysis and the basic ideas related to it. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6310 Econometrics",
+    "courseid": "ECON 6310",
+    "coursedescription": "The estimation of causal effects in the presence of endogeneity (i.e., the correlation between the causal regressor and some unobserved variables that are captured by “error” terms) is at the core of many data-driven problems that firms, governments, and non-profit organizations face. This course introduces students to the main techniques to study causal effects: instrumental-variable estimation, binary and multinomial logistic regression, panel data, structural vector auto regressions, trends and serial correlation in time series. Students will be asked to implement the econometric estimators using real-life datasets using R and to interpret the results. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6320 Machine Learning for Economists",
+    "courseid": "ECON 6320",
+    "coursedescription": "Machine learning has become a widely applied tool in industry and for policymaking. This course introduces students to some basic techniques of supervised and unsupervised machine learning from an applied perspective. Topics include dealing with many regressors: regularization through LASSO, ridge penalties. How to choose among competing specifications: model selection and model averaging. Bayesian and classical approaches. Data reduction techniques that extract common factors and construct groups of similar observations: principal component analysis, clustering, autoencoders. Capturing nonlinearities: nonparametric regression, trees, forests, neural networks. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Capturing nonlinearities: nonparametric regression, trees, forests, neural networks."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 6330 Topics in Causal Inference",
+    "courseid": "ECON 6330",
+    "coursedescription": "Students will be introduced to the potential outcomes framework and various quantities that could be of interest in the evaluation of social programs, such as the effect of treatment on the treated, or the intent-to-treat effect. The course will discuss the optimal design of randomized controlled trials, which are the gold standard of program evaluation. But the course will also cover a range of methods available for nonrandomized or quasi- experimental data, such as difference-in-difference regression, instrumental variables techniques, and regression-discontinuity approaches. Statistical techniques, including those that utilize the recent advances in machine learning methods, will be used to evaluate social programs in areas such as labor, public, environmental, and health economics. Students will implement the methods using real-world data sets. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will be introduced to the potential outcomes framework and various quantities that could be of interest in the evaluation of social programs, such as the effect of treatment on the treated, or the intent-to-treat effect."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 6340 Topics in Forecasting and Big Data Analysis",
+    "courseid": "ECON 6340",
+    "coursedescription": "This course covers forecasting techniques for time series, i.e., predicting a small number of variables sequentially in real time, and panel data, i.e., predicting hundreds or thousands of variables simultaneously. The course starts out with traditional time series models and provides an introduction to point, interval, and density forecasting and the evaluation of such forecasts. These models are then generalized to account for nonlinearities and large sets of potential predictors. Specific attention will be devoted to complications arising from big data: gathering the data, storing them, wrangling them, and analyzing them. Models to process natural language data are also covered. Students will gain hands-on experience by implementing the techniques on the computer and applying them to real-world data sets. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6410 Topics in Industrial Organization, Market Design, and the Digital Economy",
+    "courseid": "ECON 6410",
+    "coursedescription": "This course studies how the tools of modern industrial organization can be applied to the empirical analysis of the behavior and roles of firms in the economy, with a focus on e-commerce and technology industries, such as online retailers, rating systems, ride-share services, and vacation-rental platforms. The course provides a solid theoretical base to rigorously analyze firms and industries and discusses real world applications of the theory. The course also provides an introduction to the design of market-based mechanisms to solve problems of economic resource allocation. Examples include matching markets that, for instance, assign students to class, and auctions used to allocate goods such as radio spectrum, drilling rights, and advertisements. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6500 Computational Methods",
+    "courseid": "ECON 6500",
+    "coursedescription": "Modern data analysis and quantitative work is done with computers. This course will use R throughout to introduce students to four components. First, becoming familiar with basic computational tools: how to use editors (e.g., Visual Studio Code) and IDEs (e.g., RStudio), a terminal, cloud services, version control, code documentation, Latex and Markdown, Jupyter notebooks, project management software (e.g., Jira and Trello), workflow in software development. Second, introduction to coding in R: variable declaration, flow control, data frames, piping, object orientation, functional programming, linting and debugging, interaction with databases and SQL, web scrapping, good programming styles. Third, the course will teach students how to read data from databases available on the internet (or other sources) into statistical software, how to clean and work with “messy” and unstructured data, remove outliers, tabulate, and visualize data to summarize salient features. The grammar of graphics (and its implementation through ggplot2) will be emphasized. Fourth, introducing basic numerical methods that are common for data analysis and quantitative work: numerical differentiation and integration, equation solving, and optimization. This section will emphasize understanding the intuition behind the main concepts and how to use existing state-of-the-art numerical libraries in R. The schedules of ECON 6300 and ECON 6500 during the semester will be coordinated to ensure that students have seen in ECON 6500 the required tools before they are applied in ECON 6300 . Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 6900 Capstone Research Course",
+    "courseid": "ECON 6900",
+    "coursedescription": "In the capstone research course, students are asked to prepare a report and a presentation analyzing a specific problem that is of high priority for a firm, government or non-profit organization using the models and toolboxes taught in the program. The course will provide a small selection of projects or cases. Each project has some questions, provides some information about possible data sources, and suggests what models and methods to consider when completing the project. Beyond this, students can come up with alternative projects. One faculty member, with the support of an advising committee, will guide students in the research project. Students will meet during the semester for work-in-progress presentations. Also, the instructor will lecture on how to create effective slides, visualize results, and write a report. A central goal of the capstone is to teach students how to communicate economic insights to third parties and to improve their written and oral skills. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 7100 Microeconomic Theory I",
+    "courseid": "ECON 7100",
+    "coursedescription": "Nonlinear programming, theory of the consumer and producer, general equilibrium. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 7110 Microeconomic Theory II",
+    "courseid": "ECON 7110",
+    "coursedescription": "Game theory, decision making under uncertainty, information economics. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 7200 Macroeconomic Theory I",
+    "courseid": "ECON 7200",
+    "coursedescription": "Dynamic programming, search theory, neoclassical growth theory, asset pricing, business cycles. Fall 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 7210 Macroeconomic Theory II",
+    "courseid": "ECON 7210",
+    "coursedescription": "Equilibrium notions in the growth model. Economies with distortions. Incomplete markets. Overlapping generations. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 7300 Econometrics I: Fundamentals",
+    "courseid": "ECON 7300",
+    "coursedescription": "Violations of classical linear regresson assumptions, nonlinear regression models (including logit, probit, etc.), diagnostic testing, distributed lag models, panel data models, identification, linear simultaneous-equations model. Fall 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 7310 Econometrics II: Methods & Models",
+    "courseid": "ECON 7310",
+    "coursedescription": "Analysis in time and frequency domains, state space representations, Kalman filtering, conditional heteroskedasticity, nonlinear and nonparametric methods for time series, integration, co-integration, numerical and simulation techniques. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 7500A Third Year PhD Seminar",
+    "courseid": "ECON 7500A",
+    "coursedescription": "The transition from student to frontier researcher is quite difficult. This course is aimed at starting graduates on their first major paper. It will meet once a week over the entire year. An important element in the course is developing what is essentially a study group of the participants to give each other feedback and suggestions. Students should anticipate doing a 30 minute presentation every 2-3 weeks. This gives you enough time to make progress, but also keeps you on pace to have a final project well advanced by the end of the course. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "ECON 7500B Third Year PhD Research Seminar",
+    "courseid": "ECON 7500B",
+    "coursedescription": "Transition from student to frontier researcher is quite difficult. This course is aimed at starting our graduate students on their first major paper. It will meet once a week over the entire year. Only offered to the Economics Department 3rd year PhD students. A important element in the course is developing what is essentially a study group of the participants to give each other feedback and suggestions. Students should anticipate doing a 30 minute presentation every 2-3 weeks. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "ECON 7600 Job Market Preparation Seminar Course",
+    "courseid": "ECON 7600",
+    "coursedescription": "Harold Cole (instructor) will hold a seminar class. He will critique and will have the students read and critiquing job-market paper drafts, preparing for Job Market presentations, discussing how to optimize student-faculty relationships, discussing how to prepare for interviews and flyouts, etc. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 8000 Topics in Advanced Microeconomic Theory",
+    "courseid": "ECON 8000",
+    "coursedescription": "Topics in Advanced Economic Theory and Mathematical Economics Fall or Spring Prerequisite: ECON 7100 AND ECON 7110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 8100 Economic Theory",
+    "courseid": "ECON 8100",
+    "coursedescription": "Workshop Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 8110 The Economics of Agency, Information, and Incentives",
+    "courseid": "ECON 8110",
+    "coursedescription": "This course studies the economics of adverse selection and moral hazard in strategic settings. The primary focus is on the agency relationship and the structure of agency contracts. Other settings include auctions, bilateral trading, and the internal organization of the firm. Fall or Spring Prerequisite: ECON 7100 AND ECON 7200 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 8200 Topics in Advanced Macroeconomics",
+    "courseid": "ECON 8200",
+    "coursedescription": "Topics in Advanced Economic Theory and Mathematical Economics Fall or Spring Prerequisite: ECON 7100 AND ECON 7200 AND ECON 7300 AND ECON 7110 AND ECON 7310 AND ECON 7210 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7200",
+      "ECON 7300",
+      "ECON 7110",
+      "ECON 7310",
+      "ECON 7210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 8210 Quantitative MacroEconomic Theory",
+    "courseid": "ECON 8210",
+    "coursedescription": "Computation of Equilibria. Calibration of models. Heterogenous agents, macroeconomic models. Fall or Spring Prerequisite: ECON 7100 AND ECON 7200 AND ECON 7110 AND ECON 7210 AND ECON 7300 AND ECON 7310 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7200",
+      "ECON 7110",
+      "ECON 7210",
+      "ECON 7300",
+      "ECON 7310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 8300 Topics in Advanced Econometrics",
+    "courseid": "ECON 8300",
+    "coursedescription": "Topics in Advanced Economic Theory and Mathematical Economics Fall or Spring Prerequisite: ECON 7100 AND ECON 7110 AND ECON 7200 AND ECON 7210 AND ECON 7300 AND ECON 7310 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7110",
+      "ECON 7200",
+      "ECON 7210",
+      "ECON 7300",
+      "ECON 7310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 8310 Econometrics III: Advanced Techniques of Cross-Section Econometrics",
+    "courseid": "ECON 8310",
+    "coursedescription": "Qualitative response models, panel data, censoring, truncation, selection bias, errors in variables, latent variable models, survey design, advanced techniques of semiparametric estimation and inference in cross-sectional environments. Disequilibrium models. Methods of simulated moments. Fall or Spring Prerequisite: ECON 7100 AND ECON 7200 AND ECON 7110 AND ECON 7210 AND ECON 7300 AND ECON 7310 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7200",
+      "ECON 7110",
+      "ECON 7210",
+      "ECON 7300",
+      "ECON 7310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 8320 Econometrics IV: Advanced Techniques of Time-Series Econometrics",
+    "courseid": "ECON 8320",
+    "coursedescription": "Focuses on macro-econometrics. Topics include comparison of Bayesian and frequentist inference in nonstandard settings (e.g. time series models with persistent roots), Bayesian inference in VARS and DSGE models including modern computational tools such as Gibbs sampling, MCMC, Sequential Monte Carlo, particle filtering, etc., and tools for evaluating DSGE models. Fall or Spring Prerequisite: ECON 7100 AND ECON 7200 AND ECON 7110 AND ECON 7210 AND ECON 7300 AND ECON 7310",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7200",
+      "ECON 7110",
+      "ECON 7210",
+      "ECON 7300",
+      "ECON 7310"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "ECON 8400 Topics in Advanced Empirical Microeconomics",
+    "courseid": "ECON 8400",
+    "coursedescription": "Topics in Advanced Economic Theory and Mathematical Economics Fall or Spring Prerequisite: ECON 7100 AND ECON 7110 AND ECON 7200 AND ECON 7210 AND ECON 7300 AND ECON 7310 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7110",
+      "ECON 7200",
+      "ECON 7210",
+      "ECON 7300",
+      "ECON 7310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 8410 Public Economics",
+    "courseid": "ECON 8410",
+    "coursedescription": "Public goods, externalities, uncertainty, and income redistribution as sources of market failures; private market and collective choice models as possible correcting mechanisms. Microeconomic theories of taxation and political models affecting economic variables. Fall or Spring Prerequisite: ECON 7100 AND ECON 7200 AND ECON 7110 AND ECON 7210 AND ECON 7300 AND ECON 7310",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7200",
+      "ECON 7110",
+      "ECON 7210",
+      "ECON 7300",
+      "ECON 7310"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "ECON 8411 Public Economics II",
+    "courseid": "ECON 8411",
+    "coursedescription": "Expenditures: Alternative theories of public choice; transfers to the poor; transfers to special interests and rent seeking; social insurance; publicly provided private goods; public production and bureaucracy. Taxation: Tax incidence in partial and general equilibrium; excess burden analysis. Topics on tax incidence and efficiency: lifetime incidence and excess burden, dynamic incidence, the open economy. Normative theories of taxation: Optimal commodity and income taxation. The political economy of income taxation. Fall or Spring Prerequisite: ECON 7100 AND ECON 7200 AND ECON 7110 AND ECON 7210 AND ECON 7300 AND ECON 7310",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7200",
+      "ECON 7110",
+      "ECON 7210",
+      "ECON 7300",
+      "ECON 7310"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Expenditures: Alternative theories of public choice; transfers to the poor; transfers to special interests and rent seeking; social insurance; publicly provided private goods; public production and bureaucracy."
+      ]
+    }
+  },
+  {
+    "coursename": "ECON 8430 Economics of Labor I",
+    "courseid": "ECON 8430",
+    "coursedescription": "Topics include: Theories of the supply and demand for labor, wage determination, wage differentials, labor market discrimination, unemployment, occupational choice and dynamics of specific labor markets, theory of matching, trade unions. The theory and empirics of human capital accumulation, intertemporal labor supply, search, intergenerational mobility of income and wealth, contracts and bargaining, efficiency wage models, principal/agent models, and signaling models. Fall or Spring Prerequisite: ECON 7100 AND ECON 7200 AND ECON 7110 AND ECON 7210 AND ECON 7300 AND ECON 7310 AND ECON 8310 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7200",
+      "ECON 7110",
+      "ECON 7210",
+      "ECON 7300",
+      "ECON 7310",
+      "ECON 8310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 8431 Economics of Labor II",
+    "courseid": "ECON 8431",
+    "coursedescription": "A continuation of ECON 8430 . Fall or Spring Prerequisite: ECON 7100 AND ECON 7200 AND ECON 7110 AND ECON 7210 AND ECON 7300 AND ECON 7310 AND ECON 8310 AND ECON 8430",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7200",
+      "ECON 7110",
+      "ECON 7210",
+      "ECON 7300",
+      "ECON 7310",
+      "ECON 8310",
+      "ECON 8430"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "ECON 8450 Empirical Methods for Industrial Organization",
+    "courseid": "ECON 8450",
+    "coursedescription": "The goal of the course is to explore links between theory and data in order to identify and test implications of economic models. Reduced form and structural approaches will be used to study a variety of topics that include: Estimation of multiproduct cost functions; detection of collusion, multimarket contact, and network externalities; asymmetric information: auctions and nonlinear pricing; price competition and product differentiation; and complementarities: innovation and organizational design. Fall or Spring Prerequisite: ECON 7100 AND ECON 7200 AND ECON 7110 AND ECON 7210 AND ECON 7300 AND ECON 7310 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7200",
+      "ECON 7110",
+      "ECON 7210",
+      "ECON 7300",
+      "ECON 7310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 9110 Applied Microeconomics Workshop",
+    "courseid": "ECON 9110",
+    "coursedescription": "Workshop Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 9200 Monetary Economics",
+    "courseid": "ECON 9200",
+    "coursedescription": "Workshop Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 9300 Econometrics",
+    "courseid": "ECON 9300",
+    "coursedescription": "Workshop Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 9400 Empirical Microeconomics",
+    "courseid": "ECON 9400",
+    "coursedescription": "Workshop Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 9450 Industrial Organization",
+    "courseid": "ECON 9450",
+    "coursedescription": "Workshop Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECON 9999 Independent Study",
+    "courseid": "ECON 9999",
+    "coursedescription": "Independent Study Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-3 Course Units"
+    }
+  }
+]

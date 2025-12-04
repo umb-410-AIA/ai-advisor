@@ -1,0 +1,30 @@
+[
+  {
+    "coursename": "ROBO 5980 Capstone Project",
+    "courseid": "ROBO 5980",
+    "coursedescription": "This capstone project course gives students the opportunity to design, develop, and test complex robotics systems that address a societal or consumer need. Projects are devised by the team, sponsored by industry, or formulated by Penn professors. Each project is approved by a faculty advisor and the graduate program chair. Topics treated in the course include project planning, prototyping, testing and evaluation, patent and library searches, intellectual property, ethics, and technical writing and presentations. Students can register up to two credit units and the credits can count towards their technical electives. Prerequisites: ROBO Foundational courses and any technical electives specified by faculty and/or industrial advisor. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  },
+  {
+    "coursename": "ROBO 5990 Masters Independent Study",
+    "courseid": "ROBO 5990",
+    "coursedescription": "ROBO 5990 is the Independent Study course option, which consists of 1 CU of research credit and is an approved technical elective toward the ROBO degree. During Independent Study, students will work on a research project under the limited supervision of a faculty member. Students are permitted to conduct Independent Study research with any faculty member at Penn, as long as the research project is pre-approved by their GRASP Faculty Advisor and the ROBO Program Chair. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ROBO 9990 Master's Thesis",
+    "courseid": "ROBO 9990",
+    "coursedescription": "For students working on an advanced research program leading to the completion of master's thesis requirements.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1,2 Course Units"
+    }
+  }
+]

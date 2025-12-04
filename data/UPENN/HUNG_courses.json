@@ -1,0 +1,46 @@
+[
+  {
+    "coursename": "HUNG 0100 Hungarian I",
+    "courseid": "HUNG 0100",
+    "coursedescription": "This course is the first in a series of first-year courses, intended for students with no previous background in Hungarian. The course develops competence in speaking, reading, writing, and understanding contemporary Hungarian. It will also introduce you to Hungarian culture through exciting authentic materials, including songs, videos, and short stories. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Hungarian. By the end of the course, you will be able to engage in simple conversations in Hungarian on topics concerning your daily life, likes and dislikes, school, work and family, Hungarian holidays and holiday traditions. You will also be able to write short personalized messages in Hungarian. Two Term Class, Student may enter either term; credit given for either 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HUNG 0200 Hungarian II",
+    "courseid": "HUNG 0200",
+    "coursedescription": "This course is the second in a series of first-year courses, continuation of Hungarian I. The course continues to develop competence in speaking, reading, writing, and understanding contemporary Hungarian. We will continue the exploration of Hungarian culture through exciting authentic materials, including songs, videos, short stories, and internet sites. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Hungarian. By the end of the course, you will be able to engage in simple conversations in Hungarian on many topics in informal and some formal contexts concerning your daily life, including planning a trip to Hungary, staying in a hotel, ordering meals, and buying goods. You will also be able to write longer personalized messages in Hungarian. Two Term Class, Student may enter either term; credit given for either 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HUNG 0299 Independent Study in Hungarian",
+    "courseid": "HUNG 0299",
+    "coursedescription": "This is an independent study course for students who select to do individual language and culture projects in Hungarian under the guidance of the Hungarian language instructor; students need to be done with the four semesters of Hungarian prior to requesting such course. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HUNG 0300 Hungarian III",
+    "courseid": "HUNG 0300",
+    "coursedescription": "This course is the first in a series of second-year courses, continuation of Hungarian II. The course will strengthen students' competence in speaking, reading, writing, and understanding contemporary Hungarian and will expand students' active and passive vocabulary on a variety of topics. We will continue the exploration of Hungarian culture through exciting authentic materials, including songs, videos, and short stories. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Hungarian. By the end of the course, you will be able to engage in increasingly complex conversations in Hungarian on many topics in informal and formal contexts concerning your daily life, your interests and life on campus, travel and cultural experiences, Hungarian seasonal traditions and cultural events. You will also be able to write longer messages in a variety of informal and formal contexts. Two Term Class, Student may enter either term; credit given for either 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "By the end of the course, you will be able to engage in increasingly complex conversations in Hungarian on many topics in informal and formal contexts concerning your daily life, your interests and life on campus, travel and cultural experiences, Hungarian seasonal traditions and cultural events."
+      ]
+    }
+  },
+  {
+    "coursename": "HUNG 0400 Hungarian IV",
+    "courseid": "HUNG 0400",
+    "coursedescription": "This course is the second in a series of second-year courses, continuation of Hungarian III. The course will continue strengthening and expanding students' competence in speaking, reading, writing, and understanding contemporary Hungarian and increasing active and passive vocabulary on a variety of topics. We will continue the exploration of Hungarian culture through exciting authentic materials, including online news resources, songs, and videos. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Hungarian. By the end of the course, you will be able to engage in increasingly complex conversations in Hungarian on many topics in informal and formal contexts concerning your daily life, significant personal and cultural events, attitudes and perspectives. You will be able to write longer messages in a variety of informal and formal contexts. Satisfies Penn Language Requirement. Two Term Class, Student may enter either term; credit given for either 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

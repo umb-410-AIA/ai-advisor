@@ -1,0 +1,180 @@
+[
+  {
+    "coursename": "MPHY 5000 Introduction to Global Oncology",
+    "courseid": "MPHY 5000",
+    "coursedescription": "This course provides an introduction to global oncology in the areas of medicine, physics, and engineering. Regional differences related to epidemiology, social factors, health policy and resources/access to cancer care will be presented. Global organizations, clinical trials and the use of AI in medicine will also be discussed. This course will include faculty presentations (from Penn and faculty abroad), journal discussions and student presentations. Although this course has a focus on oncology, it is open to any students interested in global health. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Although this course has a focus on oncology, it is open to any students interested in global health."
+      ]
+    }
+  },
+  {
+    "coursename": "MPHY 6000 Professional Development",
+    "courseid": "MPHY 6000",
+    "coursedescription": "Introduction of subspecialties of medical physics (radiation oncology, diagnostic imaging, nuclear medicine and medical health physics), and professional competencies and skills needed for success in a medical physics career. Focus on career placement after graduation with an emphasis on preparation for the medical physics residency application, match, and interview process. Two Term Class, Student may enter either term; credit given for either",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "MPHY 6010 Introduction to Radiation Protection",
+    "courseid": "MPHY 6010",
+    "coursedescription": "Introduction to applied nuclear and atomic physics; radioactive decay; radiation interactions; biological effects and safety guidelines; radiation detection, instrumentation and protection. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MPHY 6020 Physics of Medical / Molecular Imaging",
+    "courseid": "MPHY 6020",
+    "coursedescription": "Physical principles of diagnostic radiology, fluoroscopy, computed tomography; principles of ultrasound and magnetic resonance imaging; radioisotope production, gamma cameras, SPECT systems, PET systems; diagnostic and nuclear medicine facilities and regulations. The course includes a component emphasizing the emerging field of molecular imaging. Fall Prerequisite: MATH 2410 AND BIOL 2310 AND BE 3050 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2410",
+      "BIOL 2310",
+      "BE 3050"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 6030 Image-Based Anatomy",
+    "courseid": "MPHY 6030",
+    "coursedescription": "Taught by a radiation oncologist, this course covers major organ systems and disease areas and is presented from a radiologic or imaging (including cross-sectional) viewpoint in addition to a standard anatomy and physiology presentation. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 6040 Radiological Physics",
+    "courseid": "MPHY 6040",
+    "coursedescription": "Fundamental concepts underlying radiological physics and radiation dosimetry. Interactions and energy deposition by ionizing radiation in matter and charged particle equilibrium; introduction to radiation detection, calibration, and therapy. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 6050 Medical Ethics / Governmental Regulation",
+    "courseid": "MPHY 6050",
+    "coursedescription": "Fundamentals of professional ethics for medical physicists through exploration of Code of Ethics (published by the American Association of Physicists in Medicine); case studies; survey of governmental regulations pertinent to medical physics. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MPHY 6060 Physics of Radiation Therapy",
+    "courseid": "MPHY 6060",
+    "coursedescription": "Clinical radiation oncology physics; principles of radiation- producing equipment; photon and electron beams; ionization chambers and calibration protocols; brachytherapy, dose modeling and calculations; treatment planning. Spring Prerequisite: MPHY 6040 1 Course Unit",
+    "course-prerequsities": [
+      "MPHY 6040"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 6070 Radiation Biology",
+    "courseid": "MPHY 6070",
+    "coursedescription": "Fundamental knowledge of mechanisms and biological responses of human beings to ionizing and non-ionizing radiation through the study of effects of radiation on molecules, cells and humans; radiation lesions and repair; mechanisms of cell death; cell cycle effect, radiation sensitizers and protectors; tumor radiobiology; relative sensitivities of human tissue and radiation carcinogenesis. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 6080 Radiation Detection and Measurement",
+    "courseid": "MPHY 6080",
+    "coursedescription": "Fundamentals of detection and measurement of ionizing radiation; working principles of many detectors used currently in the field including their application in radiotherapy, nuclear medicine, and diagnostic radiology. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 6090 Biomedical Image Analysis",
+    "courseid": "MPHY 6090",
+    "coursedescription": "This course covers the fundamentals of advanced quantitative image analysis that apply to all of the major and emerging modalities in biological/biomaterials imaging and in vivo biomedical imaging. While traditional image processing techniques will be discussed to provide context, the emphasis will be on cutting edge aspects of all areas of image analysis (including registration, segmentation, and high-dimensional statistical analysis). Significant coverage of state-of-the-art biomedical research and clinical applications will be incorporated to reinforce the theoretical basis of the analysis methods. Prerequisite: Mathematics through multivariate calculus ( MATH 2410 ), programming experience, as well as some familiarity with linear algebra, basic physics, and statistics. Fall or Spring Also Offered As: BE 5370 , CIS 5370 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2410",
+      "BE 5370",
+      "CIS 5370"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 6100 Computational Medical Physics",
+    "courseid": "MPHY 6100",
+    "coursedescription": "Fundamentals of computational calculations with MATLAB on common problems in radiation therapy physics: Compton scattering cross- section and its applications; Bremsstrahlung scattering cross- sections and its applications; 3D photon dose calculation algorithms; 3D electron dose calculation algorithms; CT reconstruction; DICOM format. Spring Prerequisite: MPHY 6040 1 Course Unit",
+    "course-prerequsities": [
+      "MPHY 6040"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 6110 Medical Physics Laboratory",
+    "courseid": "MPHY 6110",
+    "coursedescription": "Lab course offering hands-on experience with a range of measurements commonly encountered in the practice of clinical medical physics. Project offerings may include: Task Group 51 calibration of linear accelerators; 4-Dimensional Computed Tomography (4DCT) imaging and image analysis; Deformable image registration and dose sum reconstruction; Monthly linear accelerator Quality Assurance (QA) procedures; Brachytherapy source calibration and High Dose Rate (HDR) machine QA; Positron emission tomography (PET) imaging and image analysis; MRI imaging and image analysis; Linear accelerator shielding calculations and radiation survey. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 6120 Artificial Intelligence for Medicine",
+    "courseid": "MPHY 6120",
+    "coursedescription": "This course offers an in-depth introduction to AI with a focus on medical applications through the lens of a medical physicist. It discusses fundamental principles of medical informatics, data science, and artificial intelligence, and emphasizes their applications to medical scenarios. The course explores image segmentation, registration, data analysis and natural language processing through hands-on learning using the Python programming language. AI assistants like GitHub copilot and ChatGPT are used to augment learning and facilitate coding exercises. The course is intended for a broad audience interested in medical AI, but a strong foundation in math and programming is recommended. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is intended for a broad audience interested in medical AI, but a strong foundation in math and programming is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "MPHY 6130 MRI Fundamentals",
+    "courseid": "MPHY 6130",
+    "coursedescription": "Magnetic resonance imaging (MRI) is an important and widely used imaging modality for making clinical diagnosis, prognosis, and monitoring treatment response. In this course, students are introduced to the fundamental principles behind the physics of MRI. Topics include basic electromagnetism; MRI hardware; signal generation; image contrast mechanisms, basic and advanced pulse sequences for obtaining structural, metabolic and physiologic information; artefacts; and safety issues. The course offers hands-on experience with an MRI scanner. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 6990 Independent Study",
+    "courseid": "MPHY 6990",
+    "coursedescription": "This course is designed to provide the student with a unique learning experience not achievable by ordinary course work. Clinical projects offered by faculty and staff physicists from the Department of Radiation Oncology may count as an independent study course. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 7000 Clinical Practicum",
+    "courseid": "MPHY 7000",
+    "coursedescription": "Practical experience in a subspecialty of medical physics including radiation therapy, diagnostic imaging, radiation safety, and nuclear medicine. Taking place in a clinical setting and supervised by a qualified medical physicist, the practicum provides an understanding of instrumentation methodology, calibration, treatment planning, and quality assurance; and may include patient interaction, clinical conference attendance, and a review of new techniques. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 9900 Thesis I",
+    "courseid": "MPHY 9900",
+    "coursedescription": "Faculty-mentored research project (extended research paper or original research) resulting in a final paper and short oral presentation that is the culmination of a master student's graduate study. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MPHY 9910 Thesis II",
+    "courseid": "MPHY 9910",
+    "coursedescription": "Faculty-mentored research project (extended research paper or original research) resulting in a final paper and short oral presentation that is the culmination of a master student's graduate study. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

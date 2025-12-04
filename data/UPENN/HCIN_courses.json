@@ -1,0 +1,150 @@
+[
+  {
+    "coursename": "HCIN 6000 The American Health Care System",
+    "courseid": "HCIN 6000",
+    "coursedescription": "The American health care system is a product of its history and of policy decisions made in doctors' offices, boardrooms, and congressional committee chambers over many decades—and presents opportunities for innovation. This course examines the structure and economics of health care financing and delivery in the United States, including private health insurance, Medicare, telehealth, and behavioral health; surveys the present structure of the American health care system and the history of efforts to reform health care at the federal level; and evaluates efforts to reform payment, expand access, and improve the quality of health care services. Lectures and interviews by active experts address successful policy change in health care, being a policy advocate, and proposing innovations to address needs within the health care system. You will draft a policy memo that analyzes an exigent challenge and offers a strong recommendation for a policy innovation to inform and persuade a decision-maker of your choice. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6010 Health Care Operations",
+    "courseid": "HCIN 6010",
+    "coursedescription": "The word \"operations\" derives from the Latin \"opus,\" and opus means work. So by definition, operations is about work. This course offers an introduction to operations management. After completing the course, you will be able to use a systematic approach to analyze and improve your work in health care settings. The course includes an examination of inefficiencies resulting from the three system inhibitors: waste, variability, and inflexibility. And it provides strategies for engaging in the ongoing process of reducing these negative impacts without sacrificing quality of care. Major units also cover health care delivery processes, lean ops, agility, and managing the service organization. You will practice identifying key performance indicators in health care systems, forecasting demand, predicting utilization and variability, determining staffing levels, and recommending process improvements and innovations to improve client satisfaction. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6012 Connected Health Care",
+    "courseid": "HCIN 6012",
+    "coursedescription": "Connected strategies have the potential to radically transform health care business models. By designing connected relationships and architectures, and developing digital and analog networks, we may be able to improve quality of care while also making efficient use of resources. These strategies can enhance existing organizations and can also foster disruptive innovation. In the first 4 weeks of the course, we will practice using the conceptual and practical components of connected strategies, including: • Building connected customer relationships • Designing connection architectures • Understanding new revenue models • And creating the infrastructure of connection In the final 2 weeks, you will methodically apply what you have learned to design a connected strategy for your organization or service, and you will come away with a body of work you will be able to build upon in future endeavors. After completing this course, you will be able to: 1. Identify points along the customer or patient journey that are good candidates for innovation. 2. Customize connected relationships to anticipate and seamlessly meet customer needs. 3. Discern financial opportunities offered by the implementation of connected strategies. 4. Select technological solutions that facilitate the implementation of connected relationships. 5. Create comprehensive connected strategies that are applicable in health care settings. Mutually Exclusive: HCIN 6100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6013 Addressing Challenges",
+    "courseid": "HCIN 6013",
+    "coursedescription": "In this 6-week lab, you will use the skills you have learned throughout the Master of Health Care Innovation—as well as your own professional expertise—to investigate, specify, and address an exigent challenge in health care. Together as a class, we will consider why some innovations may fail, examine health care leaders’ perspectives on why some succeed, and learn techniques for ideation and for building an effective business case for an innovative solution. Simultaneously, in small groups, you will work together to design, refine, and pitch your own health care innovation in a high-priority challenge area. You will come away from this lab with tools for finding and filling market niches in health care, experience navigating the design process as a team, and an array of deliverables—created individually and by your team—that detail the what, how, and why of a real-world innovation to improve health care. You will build on work you have already done to produce a suite of deliverables calibrated to inform decision makers and persuade them to adopt your approach. At the end of this lab, you will come away with a suite of work-relevant materials, including a 1-pager and a deliverable tailored to your professional setting. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6013A Addressing Challenges",
+    "courseid": "HCIN 6013A",
+    "coursedescription": "In this 6-week lab, you will use the skills you have learned throughout the Master of Health Care Innovation—as well as your own professional expertise—to investigate, specify, and address an exigent challenge in health care. Together as a class, we will consider why some innovations may fail, examine health care leaders’ perspectives on why some succeed, and learn techniques for ideation and for building an effective business case for an innovative solution. Simultaneously, in small groups, you will work together to design, refine, and pitch your own health care innovation in a high-priority challenge area. You will come away from this lab with tools for finding and filling market niches in health care, experience navigating the design process as a team, and an array of deliverables—created individually and by your team—that detail the what, how, and why of a real-world innovation to improve health care. This is a multi-term course. To earn course credit, students must successfully complete both HCIN6013A in the Summer and HCIN6013B in the Fall. Students who complete both parts will receive a single grade and earn 1 CU total. Two Term Class, Student must enter first term; credit given after both terms are complete",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCIN 6013B Addressing Challenges",
+    "courseid": "HCIN 6013B",
+    "coursedescription": "This lab is a continuation of HCIN6013A, Addressing Challenges. You will build on work you have already done to produce a suite of deliverables calibrated to inform decision makers and persuade them to adopt your approach. At the end of this lab, you will come away with a suite of work-relevant materials, including a 1-pager and a deliverable tailored to your professional setting. Students must successfully complete HCIN6013A in the Summer term before taking this course. Students will receive a single grade and earn 1 CU total for HCIN6013A and 6013B . Two Term Class, Student must enter first term; credit given after both terms are complete Prerequisite: HCIN 6013A",
+    "course-prerequsities": [
+      "HCIN 6013A"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCIN 6020A Behavioral Economics and Decision Making",
+    "courseid": "HCIN 6020A",
+    "coursedescription": "Behavioral economics is a relatively new field at the intersection of economics and psychology that builds on the observation that people tend to make predictably irrational decisions, and that those patterns can be used to shape personally and socially beneficial behaviors. This course offers an introduction to behavioral economics and its applications in health and health care. We will examine the foundations of the field, then consider: • The structure of choice environments and how people are influenced by how choices are framed. • Strategies for supercharging incentive programs. • The use of social incentives and social comparisons to achieve better physician performance. The course will conclude with an exploration of how behavioral economics can be used to shape health policy, and the important question of when a “nudge” becomes a shove. This is a multi-term course. To earn course credit, students must successfully complete both HCIN6020A in the Fall and HCIN6020B in the Spring. Students who complete both parts will receive a single grade and earn 1 CU total. Two Term Class, Student must enter first term; credit given after both terms are complete",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCIN 6020B Behavioral Economics and Decision Making",
+    "courseid": "HCIN 6020B",
+    "coursedescription": "This course is a continuation of HCIN6020A, Behavioral Economics and Decision Making. In the final weeks of the course, you will focus on structuring incentive programs, utilizing social forces to shape behavior, and applying behavioral economics in workplace and policy settings. As a final project, you will design a behavioral intervention plan, with a funding request, to address poor health metrics. Students must successfully complete HCIN 6020A in the Fall term before taking this course. Students will receive a single letter grade and earn 1 CU total for HCIN 6020A and 6020B . Two Term Class, Student must enter first term; credit given after both terms are complete Prerequisite: HCIN 6020A",
+    "course-prerequsities": [
+      "HCIN 6020A"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCIN 6022 Digital Health",
+    "courseid": "HCIN 6022",
+    "coursedescription": "This course is designed for graduate and professional students to gain an understanding of the digital health landscape so you might effectively leverage technology for innovation, with consideration of patient-centered care, equity, and ethical issues. You will explore a range of health care settings, health care data types, the role of patients as sources of data and recipients of information, the role of humans in-the-loop of AI, and the security, privacy, and confidentiality concerns of digital health approaches. We will discuss emerging systems still in their infancy, and enabling technologies outside of the hospital: what they can do, what they are unable to do, and which of them have the potential to revolutionize the way we deliver care from birth to old age. You will apply these lessons to design an experimental prototype and draft a plan for a digital health solution. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6023 Designing Innovation",
+    "courseid": "HCIN 6023",
+    "coursedescription": "Throughout the Master of Health Care Innovation, you have learned innovation and leadership skills and techniques that will help them transform health care for the better. This 9-week lab offers you a safe space to practice and hone those skills with the goal of generating large-scale positive change in future projects. To start, you will choose a project that matches the needs of your professional setting with your skills and strengths, and that is doable within a limited scope and timeframe. You will take stock of the strengths and the resources at your disposal; practice key innovation techniques including contextual inquiry, problem definition, and creative divergence; right-size your project; and refine your rhetorical skills to construct persuasive pitches calibrated to various audiences of stakeholders and decision makers. You will come away with materials that will allow you to pitch your project in their professional setting. However, the most important outcome of this lab will be the experience you gain from participating in the innovation and design process from start to finish. Spring Mutually Exclusive: HCIN 6190 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6032 Value and Quality in Health Care",
+    "courseid": "HCIN 6032",
+    "coursedescription": "Innovations in health care have the potential to achieve efficiency, reduce health care costs, and ensure high-quality patient outcomes. But to achieve these goals, we must determine and adopt standards for health care quality and safety. Through lectures, interviews with national leaders, case studies, and hands-on practice, this course introduces you to quality and measurement tools that make visible the most pressing areas of opportunity for health care innovation. You will explore how perceptions of value are specific to stakeholder needs. And you will learn how quality improvement initiatives can be leveraged to drive value for stakeholders across the health care system. In the final 2 weeks of the course, students will work together in groups to investigate and present a way to address a simulated challenge. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6042 Health Economics",
+    "courseid": "HCIN 6042",
+    "coursedescription": "This course surveys health economics through its principles, insurance, physicians, hospitals and related care, and regulation and integration. Dynamic lectures cover the role of economics in health; differences between health economics and other branches of the discipline; supply, demand, and equilibrium; and the iron triangle of health care (access, cost, and quality). Key health insurance concepts are introduced—risk aversion, moral hazard, cost sharing, and adverse selection—along with a practical overview of the calculations that underlie pricing decisions. You will learn about the relationship between physicians and patients, supplier-induced demand, alternative payment models, the economics of primary care and of specialization, and the role of nonprofit and for-profit hospitals in the health care system. The course concludes with the legal and regulatory structures that govern hospital systems and hospitals’ regional market power, by examining vertical and horizontal integration, price discrimination, price fixing, mergers, and antitrust laws. In the final assignment, you will apply course concepts to health equity issues. Spring Mutually Exclusive: HCIN 6040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6052 Leadership & Legal Issues in Health Care",
+    "courseid": "HCIN 6052",
+    "coursedescription": "This course surveys the leadership skills and legal knowledge necessary to navigate the complexities of the health care industry at the highest levels. The first unit explores concepts, experience, and skills analysis necessary to develop a personal leadership checklist and an organizational leadership strategy. The second half surveys the legal regimes that govern medical care in the United States, including the types of health law formation (cases, statutes, administrative regulations) and the multiple federal, state, and local institutions involved in the creation and application of the law. You will apply course lessons to analyzing a case, and to drafting your own leadership guides. Assignments also cover leading in a crisis, communicating persuasively, confidentiality and malpractice, and rationing and the Affordable Care Act, among other topics. Spring Mutually Exclusive: HCIN 6120 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6062 Using Data for Transformation",
+    "courseid": "HCIN 6062",
+    "coursedescription": "Whether we are using AI to diagnose lung cancer or machine learning to predict hospitalization risk, algorithms are transforming medicine and health care. Most algorithms are based on routinely collected health care data – claims, electronic health records, and registry data. But too often algorithms are deployed without a full understanding of what we are trying to predict and where the data are coming from. Through a combination of lectures, case studies, and interviews with leaders from across the health care ecosystem, we will discuss how to turn routine health care data into an algorithm, how to evaluate the validity of AI products, and how to understand liability and policy implications around algorithms in health care. This course will help you work with technical experts to design or select approaches that are right for your needs. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6070 Translating Ideas into Outcomes",
+    "courseid": "HCIN 6070",
+    "coursedescription": "In this course, you will apply state-of-the-art innovation methodologies to improve health care for patients, clinicians, and organizations. Rooted in design thinking and human-centered design, this course guides you through the development of innovation projects from idea generation, through problem definition, testing, and preparing for delivery. The course asks you to identify unexamined assumptions about your professional environment to gain practice in defining strategies for solving health care problems. These strategies include: · Engaging in contextual inquiry to reveal what others have missed. · Reframing problems to enable the development of high-impact solutions. · Practicing intentional divergence to challenge initial, unproductive concepts. · Testing hypotheses to generate data quickly and at low cost. · Designing experiences that catalyze the spread of desirable behaviors. The goal of this course is to provide you with tools to develop innovative solutions to pressing health care problems, and to produce the types of early data that enable organizations to support, promote, and ultimately adopt those solutions at scale. Assignments help you practice each step, receiving and giving feedback with classmates. You will conclude the class by creating a pitch deck to gain support for your solution. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6160 Advancing Health Equity",
+    "courseid": "HCIN 6160",
+    "coursedescription": "Against a backdrop of policy experimentation and growing evidence of effective practices, this course explores the work of diversity, equity, inclusion, and justice in health care organizations, clinical spaces, and community settings. We survey the context of health disparities and health equity: definitions, the state of the evidence, and historical background. We examine opportunities and limitations of ADEI programs. You will learn evidence-based frameworks and techniques to promote sustainable implementation of new initiatives. And you will reflect on the personal and relational aspects of doing the work: learning to see inequity, interrogating our roles in existing power structures, and changing our perceptions of what types of change are feasible for ourselves and our institutions. Throughout this course, you will be asked to catalogue and analyze opportunities to advance equity in health and health care, so that you come away with a plan for an initiative that can be implemented in your professional context. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCIN 6170 Leading Change in Health Care",
+    "courseid": "HCIN 6170",
+    "coursedescription": "There has been no shortage of recommendations from executives, consultants, and self-declared experts on how to improve health care. Yet health care systems still struggle with problems of cost, quality, and access—not to mention high employee turnover and provider burnout. Across the country, however, we have seen successes with innovative practices related to care coordination and standardization, the expansion of community health and palliative care, and new models of behavioral health. Through lectures, conversations with health care leaders, and your own investigations, we will explore the elements that have facilitated those successes. Topics include: · Leading innovation and organizational transformation. · Facilitating a culture of inclusivity and engagement. · Leveraging data. · Aligning incentives. · Implementing transformation. Through these topics, we will gain insights into why efforts at organizational transformation succeed. We will learn techniques to apply these insights at every level of an organization. At the end of the course, you will come away with a set of strategies for implementing innovation and transformation in your professional setting. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

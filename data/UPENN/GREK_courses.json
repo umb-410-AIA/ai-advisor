@@ -1,0 +1,406 @@
+[
+  {
+    "coursename": "GREK 0100 Elementary Classical Greek I",
+    "courseid": "GREK 0100",
+    "coursedescription": "Intensive introduction to Classical Greek morphology and syntax. This course includes exercises in grammar, Greek composition, and translation from Greek to English. Emphasis is placed upon developing the ability to read Greek with facility. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 0110 Intensive Elementary Classical Greek",
+    "courseid": "GREK 0110",
+    "coursedescription": "An introduction to the ancient Greek language for beginners, with explanation of basic grammatical concepts and intensive exercises in reading and writing. Ideal for undergraduates or graduate students from Penn or elsewhere with some background in learning other languages, or who need to learn Greek rapidly. The course covers the first year of college-level Greek, equivalent to GREK 0100 + GREK 0200 at more than twice the normal pace. For further information on Penn's Greek curriculum, visit the Classical Studies department website. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "GREK 0130 Elementary New Testament Greek",
+    "courseid": "GREK 0130",
+    "coursedescription": "This course provides a one-semester introduction to koine, the version of ancient Greek that was shared by many communities around the Mediterranean and was used in the composition of the Greek New Testament and much early Christian literature. Coursework will focus on grammar, vocabulary, and basic readings. The course prepares students for more extensive readings in biblical Greek literature, in the sequel course GREK 0230 Readings in New Testament Greek. Students aiming to learn classical Greek should take instead GREK 0100 Elementary Classical Greek I. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 0180 Elementary Modern Greek I",
+    "courseid": "GREK 0180",
+    "coursedescription": "This course is designed for students with no prior knowledge of the modern Greek Language. Instructions are theme based and is supported by a Textbook as well as other written or audiovisual material. It provides the framework for development of all communicative skills (reading, writing, comprehension and speaking) at a basic level. The course also introduces students to aspects of Modern Greek culture that are close to students' own horizon, while it exposes them to academic presentations of Greek history, arts, and current affairs. Quizzes, finals and short individual work with presentation are the testing tools. The completion of this unit does NOT satisfy the language requirement. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 0200 Elementary Classical Greek II",
+    "courseid": "GREK 0200",
+    "coursedescription": "Students complete their study of the morphology and syntax of Classical Greek. We begin the semester with continuing exercises in grammar and translation, then gradually shift emphasis to reading unadapted Greek texts. Spring Prerequisite: GREK 0100 1 Course Unit",
+    "course-prerequsities": [
+      "GREK 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 0280 Elementary Modern Greek II",
+    "courseid": "GREK 0280",
+    "coursedescription": "Continuation of Elementary Modern Greek I, with increased emphasis on reading and writing. Not Offered Every Year Prerequisite: GREK 0180 1 Course Unit",
+    "course-prerequsities": [
+      "GREK 0180"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 0300 Intermediate Classical Greek: Prose",
+    "courseid": "GREK 0300",
+    "coursedescription": "This course is for those who have completed GREK 0200 , Greek 0110, or equivalent. You are now ready to begin reading real Greek! We will read a selection of passages from Greek prose authors, focusing on language and style. Fall Prerequisite: GREK 0200 OR GREK 0110 1 Course Unit",
+    "course-prerequsities": [
+      "GREK 0200",
+      "GREK 0110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 0310 Intensive Intermediate Greek",
+    "courseid": "GREK 0310",
+    "coursedescription": "An introduction to the basic history and conventions of Greek prose and poetry, with continuous readings from classical authors accompanied by grammar review and exercises. Ideal for undergraduates or graduate students from Penn or elsewhere who have completed the equivalent of one year Greek (e.g., GREK 0110 ). The course covers the second year of college-level Greek, equivalent to GREK 0300 + GREK 0400 at more than twice the normal pace. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "GREK 0380 Intermediate Modern Greek I",
+    "courseid": "GREK 0380",
+    "coursedescription": "This course is designed for students with an elementary knowledge of Demotic Modern Greek, and aims mainly at developing oral expression, reading and writing skills. Not Offered Every Year Prerequisite: GREK 0180 AND GREK 0280 1 Course Unit",
+    "course-prerequsities": [
+      "GREK 0180",
+      "GREK 0280"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 0388 Greek/Heritage Speakers I",
+    "courseid": "GREK 0388",
+    "coursedescription": "This course is intended to help Heritage Speakers or student with prior knowledge of conversational modern Greek (or even Ancient Greek) to refresh or enrich their knowledge of modern Greek and who would not be a good fit for the elementary or intermediate classes. A theme based textbook and instructions along with a comprehensive overview of grammar as a whole is presented while original text, songs, video and other media are used in order to augment vocabulary and increase fluency in modern Greek. Students are expected to properly use the language, do theme-based research on the themes examined and provide written work on various subjects and make conversation in class. Presentations on researched topics account for final exam. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 0400 Intermediate Classical Greek: Poetry",
+    "courseid": "GREK 0400",
+    "coursedescription": "We will read a selection of passages from Greek poetic authors, ranging from Homer to tragedy. Spring Prerequisite: GREK 0300 1 Course Unit",
+    "course-prerequsities": [
+      "GREK 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 0480 Intermediate Modern Greek II",
+    "courseid": "GREK 0480",
+    "coursedescription": "Further attention to developing oral expression, reading, and writing skills for students with knowledge of Demotic Modern Greek. Not Offered Every Year Prerequisite: GREK 0180 AND GREK 0280 AND GREK 0380 1 Course Unit",
+    "course-prerequsities": [
+      "GREK 0180",
+      "GREK 0280",
+      "GREK 0380"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 0488 Greek/Heritage Speakers II",
+    "courseid": "GREK 0488",
+    "coursedescription": "It is the continuation of GREK 0388 with completing Grammar (passive voice as well as unusual nouns and adjectives etc.,) and adding more challenging reading and writing material. The completion of this course satisfies the language requirement. ALL students completing the HSI GREK 0388 are eligible to enroll. ALL OTHERS will have to take a placement test. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3001 Hymnic Poetry",
+    "courseid": "GREK 3001",
+    "coursedescription": "In this course, we will read the four major Homeric hymns and five Callimachean hymns, with briefer examinations of the minor Homeric hymns and Orphic hymns. Some of the questions that will arise from our readings include the contexts for which they were composed, the literary and religious relationship of humans and gods, mythopoetics, and the differences in dialect and language between the works. (This course is for those who have completed Greek 0400, Greek 0310, or equivalent.) Not Offered Every Year Prerequisite: GREK 0400 1 Course Unit",
+    "course-prerequsities": [
+      "GREK 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3003 Greek Dialogue",
+    "courseid": "GREK 3003",
+    "coursedescription": "TBA Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3009 Topic in Ancient Greek",
+    "courseid": "GREK 3009",
+    "coursedescription": "This advanced level course features a specific theme, text, or author and focuses on reading, interpretation, language, and research. Intended for students who have studied ancient Greek for the equivalent of two years. The topic is different on each iteration, and the course may be taken for credit multiple times. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3202 The Myth of Prometheus",
+    "courseid": "GREK 3202",
+    "coursedescription": "In Greek mythology, human beings are indebted for their survival and their way of life to Prometheus, the powerful Titan and clever trickster who defies Zeus to give them the gift of fire and the various arts and technologies of civilization. We will trace the development of the Prometheus myth through a series of works in different genres by Hesiod, Aeschylus, and Plato. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3203 Alcibiades and the Athenian Imagination",
+    "courseid": "GREK 3203",
+    "coursedescription": "Political superstar, demagogue, desperate lover, brilliant general, and traitor, Alcibiades captured the imaginations of his fellow Athenians as well as thinkers and artists for centuries to come. This course offers students an opportunity to study democracy, sexuality, ethics, and youth through the perspectives on Alcibiades presented in comedy, historiography, philosophy, and oratory. In addition to preparing weekly translations, students will write individual papers presenting original close readings or research and will additionally collaborate on a digital project. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3204 Alcibiades and the Athenian Imagination",
+    "courseid": "GREK 3204",
+    "coursedescription": "Political superstar, demagogue, desperate lover, brilliant general, and traitor, Alcibiades captured the imaginations of his fellow Athenians as well as thinkers and artists for centuries to come. This course offers students an opportunity to study democracy, sexuality, ethics, and youth through the perspectives on Alcibiades presented in comedy, historiography, philosophy, and oratory. In addition to preparing weekly translations, students will write individual papers presenting original close readings or research and will additionally collaborate on a digital project. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3205 Helen of Troy",
+    "courseid": "GREK 3205",
+    "coursedescription": "Helen of Troy was one of the most debated figures in classical literature, at once overwhelmingly attractive and responsible for the immense suffering and loss of the Trojan War. We will focus on Euripides' complex, playful presentation of the Helen myth in his tragedy Helen (in which she never goes to Troy at all), but will also look at portrayals of Helen by Homer, Sappho, Herodotus, and Gorgias. Reading knowledge of Greek or permission of instructor is required to enroll in this course. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Reading knowledge of Greek or permission of instructor is required to enroll in this course."
+      ]
+    }
+  },
+  {
+    "coursename": "GREK 3206 Ancient Ideas on Myth",
+    "courseid": "GREK 3206",
+    "coursedescription": "Ancient readers were puzzled by their myths. The myths conveyed authoritative stories, many thought, but they did this in sometimes baffling ways. Heroes are not all that heroic, gods do things it seems they shouldn’t, and strange creatures and behaviors abound. This course will survey views on the myths among Greek philosophers, historians, and mythographers, and try to piece together what they think myth is and how it works. Texts will be read in Greek. Introductory and Intermediate Greek, or the equivalent, are pre-requisites. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3207 Greek Parody",
+    "courseid": "GREK 3207",
+    "coursedescription": "The parasitic humorists referred to as “parodists” have existed as long as there have been hosts to supply them their blood. Authors of all genres, from Homer to Aristotle to Herodotus to Euripides, have fallen prey to them. The successful parodist masters their target’s style and, via reasoned application of distortions and manipulations, turns it to their own purpose. A literary parody is therefore a species of embodied criticism, the study of which (pleasurable and rewarding in itself) inevitably also enriches one’s understanding of the target text, the mechanisms of generic transformation and the rhetorical power of the comic. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3402 Thucydides",
+    "courseid": "GREK 3402",
+    "coursedescription": "In this class we will read excerpts from the Greek historian, Thucydides, whose account of the Peloponnesian War is one of the most influential and compelling examples of history writing from any culture. Thucydides is generally thought of as one of the more difficult Greek prose authors. We will read some basic narrative passages in order to become familiar with Thucydidean style, before moving to the more difficult speeches and editorial passages in which Thucydides expounds upon the goals and difficulties of writing history. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3601 Demosthenes",
+    "courseid": "GREK 3601",
+    "coursedescription": "This semester we shall read Demosthenes, On the Crown. This speech, one of the masterpieces of Greek oratory, was delivered in 330 BC towards the end of Demosthenes' career. It has long been used as a valuable source of information on social, religious and political history, but it is also a pleasure to read for its clarity and vigour. We will read approximately five pages per week, and each Thursday there will be a short student report on a topic relating to the speech and Athenian oratory. These reports will be written up and submitted one week later as the only papers required in the class. Intermediate-level (200-level) Greek for undergraduate students is a pre-requisite for this class. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 3801 Advanced Greek Language and Composition",
+    "courseid": "GREK 3801",
+    "coursedescription": "Study of Greek grammar, vocabulary, and stylistic features, combining exercises in analysis, composition, and sight translation. Intended for graduate students and advanced undergraduates. Not Offered Every Year Mutually Exclusive: GREK 5801 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 5003 Greek Dialogue",
+    "courseid": "GREK 5003",
+    "coursedescription": "In this course we will examine the various manifestations of dialogue in ancient Greek literature. We will read some whole dialogues (such as those by Plato and Lucian; some dialogues in drama and dialogue episodes in historiography). We will also study, and experiment with, the linguistic and discursive phenomena associated with dialogue. (Prior completion of intermediate 200-level Greek sequence or high-school Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 5203 Alcibiades and the Athenian Imagination",
+    "courseid": "GREK 5203",
+    "coursedescription": "Political superstar, demagogue, desperate lover, brilliant general, and traitor, Alcibiades captured the imaginations of his fellow Athenians as well as thinkers and artists for centuries to come. This course offers students an opportunity to study democracy, sexuality, ethics, and youth through the perspectives on Alcibiades presented in comedy, historiography, philosophy, and oratory. In addition to preparing weekly translations, students will write individual papers presenting original close readings or research and will additionally collaborate on a digital project. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 5204 Alcibiades and the Athenian Imagination",
+    "courseid": "GREK 5204",
+    "coursedescription": "Political superstar, demagogue, desperate lover, brilliant general, and traitor, Alcibiades captured the imaginations of his fellow Athenians as well as thinkers and artists for centuries to come. This course offers students an opportunity to study democracy, sexuality, ethics, and youth through the perspectives on Alcibiades presented in comedy, historiography, philosophy, and oratory. In addition to preparing weekly translations, students will write individual papers presenting original close readings or research and will additionally collaborate on a digital project. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 5402 Thucydides",
+    "courseid": "GREK 5402",
+    "coursedescription": "In this class we will read excerpts from the Greek historian, Thucydides, whose account of the Peloponnesian War is one of the most influential and compelling examples of history writing from any culture. Thucydides is generally thought of as one of the more difficult Greek prose authors. We will read some basic narrative passages in order to become familiar with Thucydidean style, before moving to the more difficult speeches and editorial passages in which Thucydides expounds upon the goals and difficulties of writing history. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 5602 Demosthenes",
+    "courseid": "GREK 5602",
+    "coursedescription": "This semester we shall read Demosthenes, On the Crown. This speech, one of the masterpieces of Greek oratory, was delivered in 330 BC towards the end of Demosthenes' career. It has long been used as a valuable source of information on social, religious and political history, but it is also a pleasure to read for its clarity and vigour. We will read approximately five pages per week, and each Thursday there will be a short student report on a topic relating to the speech and Athenian oratory. These reports will be written up and submitted one week later as the only papers required in the class. Intermediate-level (200-level) Greek for undergraduate students is a pre-requisite for this class. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 5801 Advanced Greek Language and Composition",
+    "courseid": "GREK 5801",
+    "coursedescription": "Study of Greek grammar, vocabulary, and stylistic features, combining exercises in analysis, composition, and sight translation. Intended for graduate students and advanced undergraduates. Not Offered Every Year Mutually Exclusive: GREK 3801 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 6600 The Greek Text: Language and Style",
+    "courseid": "GREK 6600",
+    "coursedescription": "What do we need to read texts in ancient Greek? In this course we read just one prose text and one poetic text, or a very limited number of texts and passages, with a focus on language and formal analysis (such as diction, grammar, stylistics, metrics, rhetoric, textual criticism). A range of exercises will be used to develop these skills, including composition, lexical studies, recitation, memorization, exegesis, written close-readings, and sight-translation. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 6601 Greek Literary History",
+    "courseid": "GREK 6601",
+    "coursedescription": "Through selected readings from both poetry and prose, we will survey the range and evolution of ancient Greek literary practice and will identify some of Greek literature might be constructed. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 6610 Reading Greek",
+    "courseid": "GREK 6610",
+    "coursedescription": "Intensive reading in ancient Greek literature, focusing on the skills and practices required to read closely a 150-page “short list” of key texts and becoming familiar with authors, chronology, meters, dialects, and genres. Exercises include analysis, sight translation, and practice versions of the Qualifications Examination in Greek. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 7201 Troy and Homer",
+    "courseid": "GREK 7201",
+    "coursedescription": "An interdisciplinary seminar focusing on the city of Troy both as an archaeological site and as the setting of the legendary Trojan War. We will consider Homer's Iliad (with selected sections read in Greek) together with the topography and archaeology of the site of Troy in order to address a series of interrelated questions: What are the points of continuity and discontinuity between the stories told by the literary tradition and the material record? How do both types of evidence contribute to our understanding of political relations and cultural interactions between Greece and Anatolia in the Bronze Age? How do Hittite sources bear on our reconstruction of the events behind the Troy legend? How have the site and the poem contributed to each other's interpretation in the context of scholarly discovery and debate? We will give some attention to modern receptions of the Troy legend that deliberately combine material and textual elements, such as Cy Twombly's \"Fifty Days at Iliam\" and Alice Oswald's \"Memorial: An Excavation of Homer's Iliad.\" The seminar will include a visit to the site of Troy during the Spring Break. Also Offered As: AAMW 7259 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 7202 Plato and Aristotle on Human Nature",
+    "courseid": "GREK 7202",
+    "coursedescription": "The place of humans in the order of things was a perennial question for ancient philosophers. The puzzle typically begins with questions of humans' place within a hierarchy, setting them between inanimate things and non-human living things on the one side, and the divine on other. These categories, along with others like metabolism, growth and decay, death, sentience, cognition, and knowledge, will form the background against which we look closely at Plato's and Aristotle's views. We will read sections of Phaedo, Republic, and Timaeus, along with On the Soul, On the Motion of Animals, and On Divination During Sleep. The course will invite both broad synthetic thinking, and focused textual analysis. Students will be responsible for a class presentation, a stint as lead questioner, a presentation of work toward a research paper, and a final research paper. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 7203 Ancient and Medieval Theories and Therapies of the Soul",
+    "courseid": "GREK 7203",
+    "coursedescription": "This seminar focuses on premodern conceptions of the 'soul', the force felt to animate and energize a human body for as long as it was considered alive, and to activate virtually all aspects of its behavior through time. Premodern concepts of the soul attempted to account for a person's emotions and desires, perceptions, thoughts, memory, intellect, moral behavior, and sometimes physical condition. The course will trace the various ancient theories of the soul from the Presocratics, Plato, Aristotle, Stoic thought in Greek and Latin, medical writers (Hippocratics, Hellenistic doctors, Galen), and Neoplatonists, to the medieval receptions and transformations of ancient thought, including Augustine and Boethius, Avicenna's interpretation of Aristotle and its medieval influence, and Aquinas and other later medieval ethicists. These premodern conceptions of the soul have a surprisingly long afterlife, reaching into the literary cultures and psychological movements of early modernity and beyond. Knowledge of Greek or Latin not required, but see the following: The seminar will meet for one two-hour session per week, and a separate one-hour 'breakout' session during which students who have registered for GREK 7203 will meet to study a selection texts in Greek, and students who have registered for COML/ENGL will meet to discuss medieval or early modern texts relevant to their fields of study. Not Offered Every Year Also Offered As: COML 6100 , ENGL 7060 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 7205 Ancient Greek Literary Criticism",
+    "courseid": "GREK 7205",
+    "coursedescription": "In this seminar, we will read ancient Greek texts that explore the nature of poetry and/or rhetoric, including readings from Plato, Aristotle, Demetrius and Ps-Longinus. We will also look at poetic texts that comment on poetry and poetic production (including Hesiod’s encounter with the Muses), and consider comic or satiric parody as a form of “criticism” (including the contest of Euripides and Aeschylus in “Frogs”). We will also consider ancient “lives” of literary figures like Homer or Aesop as offering a form of literary analysis, and we will also look at ancient scholia to examine ancient practices of close reading. We will look at a few Roman sources but the primary focus will be on the Greek tradition. We will trace longstanding ancient debates, such as the relative importance of pleasure versus instruction and whether poetry/ rhetoric is inherently deceptive. We will also discuss whether there was such a thing as “criticism” or “literary theory” in antiquity. Classical Studies students will be expected to read from the texts in the original, but graduate students from other disciplines, such as English or Comparative Literature, are also welcome to participate and can read the sources in translation – contact the instructor if you have any questions. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 7206 Tragedy of War: Ancient Athenian drama and military conflict",
+    "courseid": "GREK 7206",
+    "coursedescription": "In this graduate seminar, we will read several Athenian tragedies set in wartime or its immediate aftermath, including Aeschylus’ Persians, Sophocles’ Ajax and Philoctetes, and Euripides’ Iphigenia at Aulis, Hecuba, and Trojan Women. We will discuss how these plays use or contrast with other Greek representations of military conflict (especially the Iliad), and we will trace the relationship between tragic representations of war and contemporary fifth-century warfare. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 7402 Aristophanes and Old Comedy",
+    "courseid": "GREK 7402",
+    "coursedescription": "This advanced graduate seminar in ancient Greek literature will focus in detail on several plays of Aristophanes and selections from his contemporaries in Old Comedy, Cratinus and Eupolis. Special attention will be paid both to questions of genre and comic dynamics, and to the historical and political contexts in which these plays were first performed. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 7403 Aristophanes and Lucian",
+    "courseid": "GREK 7403",
+    "coursedescription": "This seminar will explore the comic drama of Aristophanes and its influence on the comic prose of Lucian in the Imperial period. Aristophanes was an important literary model for Lucian, but Lucian read Aristophanes in his own way and for his own literary agenda. We will consider each author both in their own historical contexts, and comparatively, as parodists, satirists and cultural critics within a long and varied literary tradition. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 7404 Herodotus",
+    "courseid": "GREK 7404",
+    "coursedescription": "An overview of Herodotus' Histories with attention both to its place in Greek literary history and to its uses and limitations as an historical source. We will consider the Histories in relation to questions of ethnic identity, cultural contact, and the construction of East and West. In their individual projects, students will explore the relevance of this protean, polyvocal text to their particular interests and scholarly perspectives. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In their individual projects, students will explore the relevance of this protean, polyvocal text to their particular interests and scholarly perspectives."
+      ]
+    }
+  },
+  {
+    "coursename": "GREK 7707 The Iliad and its Receptions",
+    "courseid": "GREK 7707",
+    "coursedescription": "We will read selections from the Greek poem together, alongside some modern scholarship on it. We will also read Plato's Ion and the Battle of the Mice and Frogs, as evidence for Homer's ancient philosophical, rhetorical and poetic receptions. We will discuss the history of the poem's translation into English, focusing on earlier translations (Chapman, Hobbes, Pope) and discussing the instructor's goals and challenges in producing a new re-translation. We will also talk about two recent novelizations of the poem, Pat Barker's Silence of the Girls and Madeline Miller's Song of Achilles. The course is primarily intended for graduate students in Classical Studies and Ancient History, but it is also open to students in other programs, including those whose Greek might be less advanced. Prerequisite: Students should have a working knowledge of Greek. Not Offered Every Year Also Offered As: COML 7707 1 Course Unit",
+    "course-prerequsities": [
+      "COML 7707"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "We will also talk about two recent novelizations of the poem, Pat Barker's Silence of the Girls and Madeline Miller's Song of Achilles."
+      ]
+    }
+  },
+  {
+    "coursename": "GREK 7802 Greek Epigraphy",
+    "courseid": "GREK 7802",
+    "coursedescription": "An introduction to the principles and practices of Greek Epigraphy. Study of selected Greek inscriptions. Not Offered Every Year Also Offered As: ANCH 7202 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 9999 Independent Study",
+    "courseid": "GREK 9999",
+    "coursedescription": "This course is taken by graduate students doing independent work with a faculty advisor. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  }
+]
