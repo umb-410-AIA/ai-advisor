@@ -1,0 +1,52 @@
+[
+  {
+    "coursename": "Great Books of East Asia: Classics of Love and War",
+    "courseid": "MLLC155L",
+    "coursedescription": "This class introduces students to some of the most famous works of literature in China, Japan, and Korea before 1900. The semester is divided into two parts: the first half examines poetry and fiction in which romances are centrally featured, and the second half looks at stories that present specific points of view about major wars, battles, and acts of violence. The course will provide a broad knowledge of premodern literature in East Asia, as well as of cultural and historical contexts that are relevant to the texts.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Postwar European Cinema",
+    "courseid": "MLLC235L",
+    "coursedescription": "This course will investigate the most significant developments of film history int he major European countries after World War II. National cinemas of France, Italy, Germany, Scandinavia, and Eastern Europe will be studied in detail through weekly screenings of classic films by some of Europe's most accomplished filmmakers. Films will be analyzed both in a broad socio-historical framework and in respect to authors' specific styles.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Pacting with the Devil: The Faust Tradition",
+    "courseid": "MLLC255L",
+    "coursedescription": "A reading and discussion course emphasizing critical interpretation of major texts in the Faust tradition from German folklore, Christopher Marlowe, J.W. von Goethe, Mikhail Bulgakov and others. Attention is given to the evolution of the legend and to other adaptations (in music and film) of Faustian material.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "European Crime Fiction",
+    "courseid": "MLLC355L",
+    "coursedescription": "This course examines suspects, felons, and detectives in European crime fiction between the 18th century and today (in England, France, Germany, Italy, and Russia). It introduces students to the historical development of crime literature focusing on key authors, genres and movements. Beginning with the popularization of crime narratives in the era of Enlightenment, the course examines the development of genre conventions in subsequent centuries until the post-modern disintegration of narrative patterns. Particular emphasis is placed on the construction of gender roles, social class, national and regional identity through literature as a cultural practice. Taught in English; readings in the original language are available upon request.",
+    "course-prerequsities": [
+      "ENGL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "MLLC379",
+    "coursedescription": "Independent Study",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Modern Languages, Literatures and Cultures",
+    "courseid": "MLLC480",
+    "coursedescription": "The internship in modern languages, literatures and cultures allows students to explore possible careers connected to a variety of industries. Internships take place within a wide range of fields that feature an applied use of skills and knowledge related to modern languages, literatures and cultures, including teaching, serving cultural institutions, translation and interpreting, serving arts management, marketing, and tourism. Internships can include experience such as working for a cultural center, a library, a consulate; working with literary and cultural festivals or the tourism industry to develop marketing materials, write reports, and plan events. The internship in modern languages, literatures and cultures affords students the opportunity to explore how the study of language and culture related to and prepares them for a range of careers within a varied industry.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

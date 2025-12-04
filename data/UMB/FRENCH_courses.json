@@ -1,0 +1,88 @@
+[
+  {
+    "coursename": "Intensive Elementary French",
+    "courseid": "FRENCH100",
+    "coursedescription": "Intensive elementary work in the four language skills, with concentration on an audio-lingual approach, for students with no previous training in French.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Elementary French II",
+    "courseid": "FRENCH102",
+    "coursedescription": "A continuation of FRENCH 101. Concentrated practice in the four language skills, with an audio-lingual approach, for students who have completed FRENCH 101 or its equivalent. Continued attention to French and francophone culture.",
+    "course-prerequsities": [
+      "FRENCH 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate French II",
+    "courseid": "FRENCH202",
+    "coursedescription": "This course seeks to build on the level of achievement reached in FRENCH 201. Participants study a variety of literary and cultural texts as models of written expression.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "French Conversation",
+    "courseid": "FRENCH304",
+    "coursedescription": "Discussions based on authentic documents from a broad variety of sources representing diverse aspects of French and francophone culture: individual oral presentations, exchanges with a partner or small group, full-class discussions. Written summaries of documents, review of grammar points as needed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "European Crime Fiction",
+    "courseid": "FRENCH355L",
+    "coursedescription": "This course examines suspects, felons, and detectives in European crime fiction between the 18th century and today (in England, France, Germany, Italy, and Russia). It introduces students to the historical development of crime literature focusing on key authors, genres and movements. Beginning with the popularization of crime narratives in the era of Enlightenment, the course examines the development of genre conventions in subsequent centuries until the post-modern disintegration of narrative patterns. Particular emphasis is placed on the construction of gender roles, social class, national and regional identity through literature as a cultural practice. Taught in English; readings in the original language are available upon request.",
+    "course-prerequsities": [
+      "ENGL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "FRENCH379",
+    "coursedescription": "For those students wishing to pursue the study of French language, literature or culture beyond the intermediate level. A course of study is jointly designed by supervising instructor and student.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A course of study is jointly designed by supervising instructor and student."
+      ]
+    }
+  },
+  {
+    "coursename": "Readings & Research",
+    "courseid": "FRENCH479",
+    "coursedescription": "Primarily for seniors with a GPA of at least 3.0 in their major who wish to pursue a research topic in depth, one ordinarily not available in standard course offerings. A written prospectus detailing the plan of study must be submitted to supervising instructor and department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Images of Otherness in French and Francophone Literature",
+    "courseid": "FRENCH480",
+    "coursedescription": "Through a thorough examination of novels, plays, film and poetry in French this class will focus on images of the 'foreigner', the 'stranger', the 'other' as well as on the representation of gender and national differences. Historical and sociological contextual frameworks will help situate the different representations. Course will be taught in French.",
+    "course-prerequsities": [
+      "FRENCH 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors Research Project",
+    "courseid": "FRENCH498",
+    "coursedescription": "Independent and original investigation of a specific aspect of French studies of interest to the student, under the supervision of a departmental advisor. Student will read primary and secondary texts and determine a critical methodology in preparation for the writing of the thesis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Independent and original investigation of a specific aspect of French studies of interest to the student, under the supervision of a departmental advisor."
+      ]
+    }
+  }
+]

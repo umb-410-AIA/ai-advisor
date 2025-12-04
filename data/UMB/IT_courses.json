@@ -1,0 +1,370 @@
+[
+  {
+    "coursename": "Elementary Italian II",
+    "courseid": "ITAL102",
+    "coursedescription": "The continuation of ITAL 101.",
+    "course-prerequsities": [
+      "ITAL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Renaissance View of Man: Princes, Prostitutes, Poets, and Painters",
+    "courseid": "ITAL267",
+    "coursedescription": "A study of Renaissance man's ideals concerning culture, education, artistic creativity, civic values, societal roles, and love, through a critical reading of pertinent texts. Readings and discussions in English.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Italian-American Experience",
+    "courseid": "ITAL268L",
+    "coursedescription": "This course examines the cultural history of Italian-American communities from the early Twentieth century to present. The course will explore representations of Italian-Americans in literature, film and popular culture. Taught in English, no previous knowledge of Italian is required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Italian Cinema",
+    "courseid": "ITAL276L",
+    "coursedescription": "An in-depth look into the thematic and technical development of the Italian cinema from the period of Neorealism to the present day, seen through the lens of the cultural and political transformations in Italian society since the end of World War II. Weekly screenings by Rossellini, Visconti, De Sica, Fellini, Antonioni, and Pasolini. Taught in English.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Italian Composition and Conversation",
+    "courseid": "ITAL301",
+    "coursedescription": "An intensive review of grammar, exercises in free composition, and advanced conversational practice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "European Crime Fiction",
+    "courseid": "ITAL355L",
+    "coursedescription": "This course examines suspects, felons, and detectives in European crime fiction between the 18th century and today (in England, France, Germany, Italy, and Russia). It introduces students to the historical development of crime literature focusing on key authors, genres and movements. Beginning with the popularization of crime narratives in the era of Enlightenment, the course examines the development of genre conventions in subsequent centuries until the post-modern disintegration of narrative patterns. Particular emphasis is placed on the construction of gender roles, social class, national and regional identity through literature as a cultural practice. Taught in English; readings in the original language are available upon request.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ITAL379",
+    "coursedescription": "Study of a particular area of this subject under the supervision of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Readings & Research",
+    "courseid": "ITAL479",
+    "coursedescription": "Primarily for seniors with a GPA of at least 3.0 in their major who wish to pursue a research topic in depth, one ordinarily not available in standard course offerings. A written prospectus detailing the plan of study must be submitted to supervising instructor and department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors Research Project",
+    "courseid": "ITAL498",
+    "coursedescription": "Independent and original investigation of a specific aspect of Italian literature of special interest to the student, under the supervision of a departmental advisor. Students read primary and secondary texts and determine a critical methodology in preparation for the writing of the thesis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Independent and original investigation of a specific aspect of Italian literature of special interest to the student, under the supervision of a departmental advisor."
+      ]
+    }
+  },
+  {
+    "coursename": "Senior Honors Thesis",
+    "courseid": "ITAL499",
+    "coursedescription": "Closely supervised individual research resulting in the completion of a senior honors thesis to be accepted by the thesis advisor and a second reader approved by the department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Information Technology Problem Solving",
+    "courseid": "IT110",
+    "coursedescription": "Several IT concepts are introduced including programming, databases, networking, web servers and how they work together in a modern system. Students work in groups to implement examples of these systems. The course examines the importance of key issues such as security, privacy, and ethics. Students should leave the course with an understanding of the components of modern systems and the scope of knowledge needed to become an IT professional.",
+    "course-prerequsities": [
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Managerial Statistics",
+    "courseid": "IT111L",
+    "coursedescription": "Provides the student with the basic statistical techniques needed for business decision making in areas such as operations management, quality improvement, marketing research, finance, and general management. The course examines collection and presentation of data, frequency distributions, basic probability, statistical inference, and regression. Students use statistical software for data presentation and analysis.",
+    "course-prerequsities": [
+      "IT 110",
+      "MSIS 110"
+    ],
+    "course-corequisites": [
+      "IT 110",
+      "MSIS 110"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Introduction To Java",
+    "courseid": "IT114L",
+    "coursedescription": "An introductory course in Java programming that exposes students to the concepts involved in using a higher-level, object-oriented programming language. The course will explain the program development process and give students lots of hands-on experience writing small Java programs.",
+    "course-prerequsities": [
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Scripting",
+    "courseid": "IT116",
+    "coursedescription": "Information Technology specialists do no spend most of their time programming, but they must perform many routine tasks to keep the systems maintained in good working order.Automating these routine tasks, allows this work to be performed quickly and consistently, freeing the specialist for work that requires time and judgement. This automation is accomplished by writing small programs which are specific to the task at hand. These programs are best written in programming languages which are simple and flexible. This makes languages designed for large projects, such as Java and C++, unsuitable for this task.To meet this need, scripting languages such as Perl, Python, and PHP have been created. These languages are designed to be easier to learn than more demanding programming languages such as Java, C and C++.This course will teach the basics of scripting language and show students how it can be used to automate routine system administration and workflow tasks.",
+    "course-prerequsities": [
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Scripting",
+    "courseid": "IT117",
+    "coursedescription": "This course, a continuation of IT 116 Introduction to Scripting, covers advanced features of scripting languages such as objects and regular expressions.Programming assignments will emphasize tasks that a system administrator might perform.Students will learn to use an industry standard framework to assist in the creation of a web application.",
+    "course-prerequsities": [
+      "IT 116"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computer Forensics I",
+    "courseid": "IT220",
+    "coursedescription": "This course covers topics related to computer forensics and criminal justice and is, by its nature, a multi-disciplinary course. Forensics is the use of science in a course of law. Computer Forensics and this course looks specifically at how one obtains evidence off of a computer, other digital devices and from network messages and logs, preserving the evidentiary chain, and the legal aspects of the search and seizure of computers and related equipment/information.",
+    "course-prerequsities": [
+      "MSIS 110",
+      "IT 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Relational Databases",
+    "courseid": "IT230L",
+    "coursedescription": "This course provides a thorough review of basic relational database concepts and how to apply these concepts to a variety of application problems. The course focuses on the use and properties of relational database management systems. Topics covered include DBMS architecture levels, data modeling, data definition and manipulation capabilities of Structured Query Language programming, and programming techniques for accessing relational databases.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Web Fluency",
+    "courseid": "IT240",
+    "coursedescription": "This course develop an in-depth understanding of how the web works from a technical standpoint, meaning how dynamic pages are created and delivered by web servers, and then used by browsers and other clients. Students demonstrate this understanding by achieving competency by using a current integrated development environment (IDE) to develop web applications.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Linux/Unix",
+    "courseid": "IT244",
+    "coursedescription": "A course designed to introduce students to Linux and UNIX. Students will install, set up, and operate standard tools and learn how they operate together. By course end students will have installed a fully functional Internet server while understanding its structure. Security issues of operating systems will be studied throughout the course.",
+    "course-prerequsities": [
+      "IT 110",
+      "MSIS 110"
+    ],
+    "course-corequisites": [
+      "IT 110",
+      "MSIS 110"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Networks",
+    "courseid": "IT246",
+    "coursedescription": "We will study basic data communication and networking concepts for LAN and WAN; network protocols with emphasis on Ethernet, PPP, TCP/IP, and WWW protocols, and mobile and wireless networks. Network applications include Telnet, ftp, email, distributed file systems, and client-server applications. We survey network security issues. We will do hands-on network simulation and network sniffing exercises to see how these technologies work in practice.",
+    "course-prerequsities": [
+      "IT 110",
+      "MSIS 110"
+    ],
+    "course-corequisites": [
+      "IT 110",
+      "MSIS 110"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Social Issues and Ethics in Computing",
+    "courseid": "IT285L",
+    "coursedescription": "This course explores some of the ethical and societal issues that are raised by computing. Topics include privacy, freedom of expression, intellectual property, liability, the effect of computing on social interaction, and human-computer interface issues. Students write an analytical paper on an appropriate topic and also present their findings to the class.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to System Administration",
+    "courseid": "IT341",
+    "coursedescription": "This is an introduction to the process of choosing, installing, configuring, and maintaining UNIX operating systems such as Linux. Topics include user management, file system management, security, networked file systems (NFS), networked information systems (NIS), domain name servers (DNS), mail systems and printers. Students will get practice writing shell scripts. Also, students are introduced to general systems administration policy.",
+    "course-prerequsities": [
+      "IT 244"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Enterprise Software",
+    "courseid": "IT360",
+    "coursedescription": "This course explains the core applications of a typical organization to support their fundamental business functions. It explains the role of IT in attaining competitive advantage and how modern organizations configure commercially available products to satisfy their information needs. The course makes extensive use of collaborative technologies and business applications to demonstrate the work of virtual teams and how they implement their operations.",
+    "course-prerequsities": [
+      "IT 110",
+      "MSIS 110",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Analytics",
+    "courseid": "IT370",
+    "coursedescription": "This course introduces concepts in analytics and explores how analytics can help improve management effectiveness through better decision-making in several functional areas such as marketing, finance, and manufacturing. This course will explore applications of analytics, such as online analytical processing (OLAP), dashboards, management reporting, performance measurement, and data visualization, and how these are developed and applied. It will also investigate analytics in context of decision-making and closely related areas such as data warehousing, data marts, web analytics, real-time data, and mobile applications. Students will gain hands-on experience through assignments and projects using a comprehensive set of current tools.",
+    "course-prerequsities": [
+      "MSIS 110",
+      "IT 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Network and Mobile Forensics",
+    "courseid": "IT420",
+    "coursedescription": "This course deals with the collection, preservation, and analysis of network generated digital evidence such that this evidence can be successfully presented ina court of law (both civil and criminal). The course provides a comprehnsive understanding of network forensic analysis principles as well as an introduction to mobile (i.e. Cell-phone/PDA) forensics. Within the context of forensics security, network infrastructures, topologies, and protocols are introduced. Students will understand, learn, and experience the relationship between forensic analysis and network security technologies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Project Management",
+    "courseid": "IT425L",
+    "coursedescription": "Covers techniques and managerial concepts of project management. This course prepares students to manage either complex physical projects or complex software development projects. Topics presented in this course include project life cycles, economic analysis of projects, work breakdown structure, cost estimation, and the scheduling, staffing, directing, and controlling of projects. The course also covers the use of management science techniques and computer software for project management.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Information System Security",
+    "courseid": "IT428L",
+    "coursedescription": "This course provides a broad overview of the threats to the security of information systems, the responsibilities and basic tools to ensure information security, and the levels of training and expertise needed in organizations to reach and maintain a state of acceptable security. Students will learn and understand the key issues associated with protecting information assets, determining the levels of protection and response to security incidents, and designing a consistent, reasonable information security system, with appropriate intrusion detection and reporting features.",
+    "course-prerequsities": [
+      "IT 110",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Windows System Administration",
+    "courseid": "IT442",
+    "coursedescription": "This is an introduction to the process of choosing, installing, configuring, and maintaining Microsoft Windows client and server systems. Topics include user management, file systems, network domains and domain management, mailers, and printing. Students get practice in writing scripts for performing maintenance tasks. Also, students learn how these tasks fit into the more general system administration processes.",
+    "course-prerequsities": [
+      "IT 341"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Network Security Administration I",
+    "courseid": "IT443",
+    "coursedescription": "This course explores the application of policy and techniques to securing both public and private networks. The course is project-based and includes such topics as threat analysis and management, cryptography, firewalls, isolation, issues in securing wireless networks, and certificates.",
+    "course-prerequsities": [
+      "IT 341"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Network Security Administration II",
+    "courseid": "IT444",
+    "coursedescription": "This course will focus on network protection (firewall implementation, site-to-site vpn configuration, and identity management), information gathering (port scan, service scan), and penetration testing (internal test and external test). The internal pen-test can cover vulnerability assessment including server vulnerabilities discovery, server attack, client side attack and social engineering attack.",
+    "course-prerequsities": [
+      "IT 443"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Information Storage and Management",
+    "courseid": "IT456",
+    "coursedescription": "This course provides a thorough review of basic relational database concepts and how to apply these concepts to a variety of application problems. The course focuses on the use and properties of relational database management systems. Topics covered include DBSM architecture levels, data modeling, data definition and manipulation capabilities of Structured Query Language programming, and programming techniques for accessing relational databases.",
+    "course-prerequsities": [
+      "IT 110",
+      "MSIS 110",
+      "MSIS 230",
+      "IT 230",
+      "MSIS 411"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Integration Methodologies and Tools",
+    "courseid": "IT460",
+    "coursedescription": "This course develops an understanding of applications architecture based on building IT systems out of common parts and a service-oriented architecture. These are collections of information services, modules and functional components that can be reused in a variety of common contexts. The course will apply several tools to exemplify the use of heterogeneous reusable modules to fulfill an information service. An underlying methodology for integration will be applied.",
+    "course-prerequsities": [
+      "IT 110",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Systems Analysis and Design",
+    "courseid": "IT461L",
+    "coursedescription": "Introduces recent approaches to the analysis and design of computer information systems, including the hands-on use of computer aided software engineering (CASE) tools. The changing role of the systems analyst in both operations and systems applications in today's organizations is examined. The course critically analyzes systems development methodologies, including life cycle models and prototyping; reviews user-led developments and current approaches which facilitate user-developer collaboration; discusses effective diagramming and notational techniques now available to define and document functional requirements and operational business processes; and examines current methods used to test and evaluate the accuracy, completeness, and usability of documented requirements and convert them into efficient systems design or re-engineering processes. Topics include CASE tools, module and transaction design, human-computer interfaces, and system configuration. This course includes practical experience in analyzing and designing an organizational application. It discusses the concept of quality as applied to information systems and business process redesign as well as the role of information systems in managing quality within an organization.",
+    "course-prerequsities": [
+      "IT 110",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Data Warehousing for Business Intelligence",
+    "courseid": "IT471",
+    "coursedescription": "this course provides students with the technical skills required to plan and implement a data warehouse using a database management system. It describes basic data warehousing concepts. The course covers design and implementation of data marts and operational data stores. Topics include dimensional data modeling for warehouses, CUBES and storage modes including MOLAP, ROLAP and HOLAP, and data warehousing infrastructure and analytical service tool selection. This course involves designing a data warehousing system and the implementation of a database with a stare schema, gathering data from primary data sources, transforming data, and loading it into a database management system. Students create cubes using OLAP and analyze cube data using client application.",
+    "course-prerequsities": [
+      "IT 110",
+      "MSIS 110",
+      "MSIS 230L",
+      "MSIS 411"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "IT478",
+    "coursedescription": "Work done by a student or group of students under faculty supervision on material not currently offered in a regularly scheduled course. Students wishing to undertake such work must first find a faculty member willing to supervise it; the work to be completed must be approved by the department chairperson.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "IT480",
+    "coursedescription": "A course covering material not currently covered by other courses. This course can serve as a trial run of material which will later be covered in a new course added to the catalog.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Information Technology Capstone",
+    "courseid": "IT485",
+    "coursedescription": "Students will work on a semester-long project, particular to their track and meet together with an instructor and with students from other tracks to discuss each other's projects. Students will deliver a product that is appropriate to their track in the IT program. At the end of the semester, students report on their product, both in oral presentations and demonstrations and in writing.",
+    "course-prerequsities": [
+      "IT 425"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

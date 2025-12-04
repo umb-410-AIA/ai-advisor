@@ -1,0 +1,469 @@
+[
+  {
+    "coursename": "Introductory Psychology",
+    "courseid": "PSYCH100",
+    "coursedescription": "A general survey of selected content areas in psychology, including personality and human development, physiological psychology, learning, intelligence, heredity and environment, and motivation and emotion.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Personal and Social Determinants of Health: Disparity, Equity, and Health Promotion",
+    "courseid": "PSYCH131G",
+    "coursedescription": "This course introduces a biopsychosocial and social ecological understanding of health and health-related interventions, which arose in large part due to research in the field of Health Psychology. This course emphasizes consideration of equity and disparities in health, building your understanding of how and why health disparities occur across the U.S. population, how to think about ethics related to both action and inaction in the face of health inequities, and what can be done to achieve health equity. We will explore questions such as, Why do Americans, on average, experience worse health and shorter lifespans than people in other developed countries? Why do some groups of Americans experience worse health and shorter lifespans than other groups? Is health and health care a \"right\"? and does every American actually have the same ability to pursue health and wellness as their fellow citizens do? What can we as a society do to reduce health disparities and promote health for every person in our country? What can we as individuals do to make sure we experience the best physical and mental health we can?",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Behavioral Research",
+    "courseid": "PSYCH201",
+    "coursedescription": "An introduction to the ways of discovering, describing and making warranted assertions about aspects of people and social life. The chief objectives are 1) to help students develop the skills and knowledge necessary to become intelligent critics of research in the behavioral and social sciences, and 2) to give them a rudimentary understanding of the design and evaluation of scientific research. Statistical material is treated in a conceptual manner. Classroom work and course examinations concentrate equally on research design and research evaluation.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Personality",
+    "courseid": "PSYCH210",
+    "coursedescription": "Conceptions of human nature are examined in light of various theories of personality. This course focuses on the theories of Freud, Adler, Sullivan, Erikson, Kelly, Ego psychologists, and other theorists presenting the behavioristic and humanistic perspectives. Among the topics to be addressed are personality structure and its development; stress and coping; neurotic styles; and human motives and their measurement.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Mental Health and Psychological Distress",
+    "courseid": "PSYCH215",
+    "coursedescription": "This course examines the range of common psychological disorders, their characteristic symptoms, possible causes, and treatment. It takes a critical scientific and structural approach to the criteria used to define psychological distress, dysfunction, and diagnosis, the theories used to explain these phenomena, and the therapies used to treat them. The course explores a continuum of mental health, as well as contextual influences on psychological functioning and dysfunction. This course covers some of the material that was historically covered in our \"Abnormal Psychology\" course, and includes a critical analysis of the APA's Diagnostic and Statistical Manual (DSM). While diagnoses are covered in the course, the course does not teach students how to diagnose others - to do so requires graduate level work.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Therapeutic Mentoring",
+    "courseid": "PSYCH216L",
+    "coursedescription": "Therapeutic Mentoring offers structured, one-to-one, strength-based support services between a Therapeutic Mentor and a youth (up to the age of 21) to support a specific goal on the child’s behavioral treatment plan such as developing social skills, interpersonal skills, problem solving strategies, or daily living skills. Therapeutic Mentoring is designed to give children and teens the opportunity for skill building through experiences that would naturally occur in their everyday life, at their home, foster home, childcare center, or other setting. To help the child develop a specified skill, their Therapeutic Mentor works to model, educate, motivate, and coach them on how to use and practice overcoming obstacles related to these skills. Services are provided in any setting where the youth resides, such as the home (including foster homes and therapeutic foster homes), and in community settings, such as schools, child care centers, respite settings, as well as other culturally and linguistically appropriate community settings.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Social Psychology",
+    "courseid": "PSYCH230",
+    "coursedescription": "A scientific attempt to understand and explain how the thought, feeling, and behavior of individuals are influenced by the actual, imagined, or implied presence of others; focuses on the drama of social interaction.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Psychology and Social Justice",
+    "courseid": "PSYCH231",
+    "coursedescription": "This course provides an introduction to social justice perspectives and issues and explores the connections between social justice and psychology. The course examines how issues of power, privilege, and oppression shape individual and group identities as well as interpersonal interactions. Through interdisciplinary readings and resources as well as experiential activities, this course will explore the individual, interpersonal, institutional, and societal processes and dynamics that shape our individual and collective experiences. We will examine the psychological dimensions associated with the causes, consequences, and strategies needed to address intersecting social injustices, and students will gain a deeper understanding of their individual connections to our global society.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "PSYCH 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Psychology of Cross-cultural Relations",
+    "courseid": "PSYCH234",
+    "coursedescription": "This course examines the nature and dynamics of inter-group relations within a multicultural context, studying relations among diverse cultures and racial groups in the United States and globally. The course looks at cross-cultural relations from an interdisciplinary perspective, discussing psychological and sociopolitical perspectives.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Asian American Psychology",
+    "courseid": "PSYCH238L",
+    "coursedescription": "This course is an introduction to the psychological experience of Asian Americans, including the historical, sociopolitical, and cultural influences that shape personality and mental health in community, family, and individual contexts. The course also explores prevention and intervention possibilities through specific examples, such as trauma and intergenerational conflict, that are relevant for Asian American populations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Infancy and Childhood Development",
+    "courseid": "PSYCH241",
+    "coursedescription": "This course explores human development from infancy to middle childhood, i.e., from childbirth to ages seven or eight. Major emphasis is given to early perceptual, cognitive, social and affective development bearing the following questions in mind: How does the world of space and objects appear to the infant? How does he or she acquire knowledge and discover reality? How does the child experience the world of people and develop a sense of self? How does the child develop attachments to others and what role is played by the significant people in his or her life?",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Adolescence",
+    "courseid": "PSYCH242",
+    "coursedescription": "This course is designed to acquaint students with psychological characteristics of adolescent development, theoretical approaches to adolescence, and experimental studies of the causes of a variety of behaviors during adolescence. The course also focuses upon major problems and characteristics of adolescents in modern society.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Learning and Memory",
+    "courseid": "PSYCH250",
+    "coursedescription": "An introduction to current views of behavioral change, learning, and remembering. The course focuses on concepts, theoretical issues and applications of current research.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Perception",
+    "courseid": "PSYCH255",
+    "coursedescription": "We will discuss how humans perceive, and interact with, their environment by using their senses (eyes, ears, nose, tongue, skin) to convert external stimuli (electromagnetic radiation, air pressure vibrations, volatile and soluble chemicals, and mechanical forces) into neural signals and psychological experiences (sights, sounds, smells, tastes, and textures).",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Neuroscience",
+    "courseid": "PSYCH260",
+    "coursedescription": "This course is intended to provide an introduction to the study of neuroscience both for those students who intend to pursue the discipline in greater depth in future coursework and for those who are seeking an overview of the field as part of the broader study of the mind. By the end of the course students should be familiar with general concepts of brain organization and function and a general idea of the different subfields involved in the study of the nervous system in both humans and animals.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "PSYCH 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Cognitive Science",
+    "courseid": "PSYCH271L",
+    "coursedescription": "Cognitive science is an interdisciplinary field fundamentally concerned with furthering our understanding of the development, underlying processes, and implementation of language, perception, problem-solving, learning, memory, and other intelligent capacities. This course offers an introduction to this science for all levels of undergraduate majors in psychology, computer science, biology, and other related fields.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introductory Research Apprenticeship",
+    "courseid": "PSYCH286",
+    "coursedescription": "The proposed course, a 200-level Research Apprenticeship (PSYCH 286) is designed for students who are interested in being involved in hands-on research, but who are still at the beginning of their studies in the major. Students who are enrolled in this course work with faculty members on topics related to the faculty member's research interests.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101",
+      "102"
+    ],
+    "course-corequisites": [
+      "PSYCH 100",
+      "101",
+      "102"
+    ],
+    "other": {
+      "notes": [
+        "The proposed course, a 200-level Research Apprenticeship (PSYCH 286) is designed for students who are interested in being involved in hands-on research, but who are still at the beginning of their studies in the major.",
+        "Students who are enrolled in this course work with faculty members on topics related to the faculty member's research interests."
+      ]
+    }
+  },
+  {
+    "coursename": "Human Motives and Emotions",
+    "courseid": "PSYCH302",
+    "coursedescription": "An examination of major issues in the area of human motives and emotions. Theoretical analyses from the early theories of James, Dewey, Freud and Watson to contemporary studies employing the evolutionary behaviorist and cognitive perspectives. Topics include the relationship among motives, emotions and personality, and the rationality of the emotions.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "PSYCH 210",
+      "PSYCH 215"
+    ],
+    "course-corequisites": [
+      "PSYCH 100",
+      "PSYCH 210",
+      "PSYCH 215"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Community Psychology",
+    "courseid": "PSYCH338",
+    "coursedescription": "Contributions of psychology to the understanding of human communities. Community mental health, ecological, and social structural approaches to community psychology are examined.",
+    "course-prerequsities": [
+      "PSYCH 230"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Psychology Of Law",
+    "courseid": "PSYCH339",
+    "coursedescription": "This course provides a basic understanding of the interaction between law and psychology, including developmental, social and clinical psychology. Topics include rules of evidence, statistics in the court, child witnesses, eyewitness testimony recovered memory, criminal investigatory practices, competence to stand trial, and constitutional rights of search and seizure.",
+    "course-prerequsities": [
+      "PSYCH 215"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Psychology of Adult Development and Human Aging",
+    "courseid": "PSYCH343",
+    "coursedescription": "A developmental approach to human integrity and functioning in the second half of the life span. Stereotyped ideas about the aging process are critically reviewed. Newer approaches to facilitating psychological well-being in the latter years of life are given special attention.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Behavioral Neuroscience",
+    "courseid": "PSYCH360",
+    "coursedescription": "An overview of the field of neuroscience. Selected topics are neuroanatomy, brain physiology, communication in the central nervous system, immunology, and psychopharmacology. This course also includes a critical discussion of various research techniques. One goal for students is to develop critical thinking skills, as consumers of scientific information.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101",
+      "PSYCH 105"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Statistics",
+    "courseid": "PSYCH370",
+    "coursedescription": "The applied study of the scientific method in the behavioral sciences. Fundamental statistical concepts and techniques are surveyed and used, with primary emphasis on the logic underlying the use of descriptive and inferential tools in scientific inquiry. Topics include parametric and non-parametric statistics, e.g., correlation and analysis of variance.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101",
+      "MATH 114",
+      "MATH 115",
+      "MATH 125"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Psychological Trauma: Individual and Society",
+    "courseid": "PSYCH415",
+    "coursedescription": "This course explores the theory, research, and phenomenology of response to such traumatic events as combat, rape, and concentration camp survival. It examines normative psychological processes, common symptom picture, and the developmental, sociocultural, and personality factors that influence response. Discussions also focus on present and past controversies within the research, and on the personal, social, and professional implications of the material.",
+    "course-prerequsities": [
+      "PSYCH 201",
+      "PSYCH 215"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Principles of Psychotherapy",
+    "courseid": "PSYCH420",
+    "coursedescription": "Psychotherapy is defined and a number of existing systems of psychotherapy are studied and compared through close reading of cases reported in the literature by the originators of each system.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101",
+      "PSYCH 201",
+      "PSYCH 210",
+      "215"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Psychology",
+    "courseid": "PSYCH430",
+    "coursedescription": "An internship course to give students the opportunity of combining human service or research in an area of psychology with a weekly seminar where they can reflect on their field experiences. As part of the seminar, students are expected to attend its weekly meetings and to complete readings and a written term project relevant to their field experience as worked out in consultation with the faculty coordinator.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Religion, Spirituality, and Health",
+    "courseid": "PSYCH436",
+    "coursedescription": "Students in this course will critically evaluate the empirical evidence and methodological issues in a growing body of research that links religion and spirituality to various health outcomes across the lifespan including: coping with cancer and HIV/AIDS; mental illness including anxiety, depression, and schizophrenia; alcohol and drug use; and mortality. Students also will explore the effects of Western and Eastern religious and spiritual practices intended to promote physical and mental well-being.",
+    "course-prerequsities": [
+      "PSYCH 201",
+      "L351",
+      "PSYCH 215",
+      "PSYCH 210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Family and the Child: A Psychological View",
+    "courseid": "PSYCH441",
+    "coursedescription": "The role of the family in the psychological development of the child. A psychodynamic view of the family, examining stages of development from the third trimester of pregnancy to sixteen years of age.",
+    "course-prerequsities": [
+      "PSYCH 201",
+      "241"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Transition to Adulthood",
+    "courseid": "PSYCH445",
+    "coursedescription": "The goal of this course is to examine the individual, socio-demographic and policy factors that have given rise to this new developmental stage of \"emerging adulthood.\" Students will examine theories and research related to the stage of emerging adulthood with a focus on the ways in which context shapes development. Context includes both micro and macro-level influences on emerging adulthood (e.g., sociohistorical context, race/ethnicity, gender, and economic conditions). The topics include: historical comparisons of emerging adulthood; cultural, ethnic, and gender identity; family and romantic relationships; friendships; and education and career choices.",
+    "course-prerequsities": [
+      "PSYCH 201",
+      "PSYCH 241",
+      "PSYCH 242"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Psychopharmacology",
+    "courseid": "PSYCH462",
+    "coursedescription": "A survey of the background and history of psychoactive drugs, their current uses as research and therapeutic tools, and the difficulties in appraising their effects. Particular attention is given to the effects of drugs on the development of new fields of inquiry such as neuropsychopharmacology and influences on older fields such as biological psychiatry, etc.",
+    "course-prerequsities": [
+      "PSYCH 201",
+      "360"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Biological Rhythms in Brain and Behavior",
+    "courseid": "PSYCH464",
+    "coursedescription": "This course will be an introduction to the field of biological rhythms. In this course, students will examine biological clocks at multiple levels including theoretical aspects, organismal and system level studies, and cellular and molecular analyses. The course will cover numerous examples that illustrate the important impact of rhythms on both psychological and biological functioning.",
+    "course-prerequsities": [
+      "PSYCH 201",
+      "PSYCH 360",
+      "BIOL 316"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Hormones and Behavior",
+    "courseid": "PSYCH466",
+    "coursedescription": "This course studies relationships between behavior and the neuroendocrine system studied in diverse behavioral systems of animals, including humans. Participants acquire an understanding of the complex interactions between hormones and behavior; study endocrine bases of sex differences, reproduction, affiliation, aggression, homeostasis, biorhythms, and other behavioral systems; explore clinical implications; and learn to read, evaluate, and discuss original research findings.",
+    "course-prerequsities": [
+      "PSYCH 201",
+      "360"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "History, Systems, and Theories of Psychology",
+    "courseid": "PSYCH470",
+    "coursedescription": "This course explores the theoretical and methodological problems of contemporary psychology-especially clinical psychology-in historical perspective. It provides a broad overview of the development of psychology as an independent discipline and of the various sub-specialties in the field; and it evaluates the significance of new movements and methods by examining intellectual antecedents and underlying assumptions.",
+    "course-prerequsities": [
+      "PSYCH 201"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Using Qualitative Methods to Study the Stories of People's Lives",
+    "courseid": "PSYCH474",
+    "coursedescription": "This elective advanced course is designed to introduce students to approaches to inquiry that commonly are referred to as 'qualitative research.' While psychology historically has focused on experimental and quasiexperimental approaches to learning, increasingly psychologists are viewing these as only one approach to learning and embracing a wider variety approaches to building knowledge about people's lives and the societies within which they live. The course is designed to introduce students to some of these alternate ways of conducting research that are based on analyzing interviews and text. These methods are especially helpful in studying human experiences and actions (e.g., emotion, dialogue, psychotherapy), and in studying experiences of minorities and marginalized people. The course culminates in students' development of their own research proposals. The following are the course objectives: (1) To understand some of the historical and philosophical foundations for qualitative methods; (2) to become acquainted with a range of qualitative methods that are used in psychology; (3) to learn how to collect and analyze data; (4) to learn how to write a research proposal using APA format and understand how results are presented; and (5) to learn to evaluate qualitative research studies. They help to develop the skills of how to ask questions and seek out information that will guide you - skills that can transfer into many settings. Students have used their proposals as the basis for an honors thesis, as a proposal for research in their workplace, to apply for grants, and as writing samples for graduate studies. It is especially helpful for students who wish to complete a thesis or apply to graduate programs in the social sciences. These skills build from one class to the next so students need to commit to attending this class regularly.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101",
+      "PSYCH 201",
+      "PSYCH 210",
+      "215",
+      "230"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Experimental Methods: Learning and Perception",
+    "courseid": "PSYCH475",
+    "coursedescription": "The course is focused on the use of laboratory methods and research design in the traditional areas of experimental psychology (e.g., perception, learning, problem solving). Students design experiments, collect and analyze data and report their findings. The objectives of the course are to help students develop knowledge of the logic and techniques of experimentation, along with the skills required to use this knowledge.",
+    "course-prerequsities": [
+      "PSYCH 201",
+      "PSYCH 250",
+      "255"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Experimental Methods: Social",
+    "courseid": "PSYCH477",
+    "coursedescription": "The general purpose of the course is to introduce the students to experimental research methods in social psychology. Class activities include examination of the relevant literature, participation in pre-designed studies, and the formulation, carrying out, and analysis of an original research project. The student has an opportunity to become familiar with the use of laboratory equipment such as audio and video recorders.",
+    "course-prerequsities": [
+      "PSYCH 201",
+      "PSYCH 230",
+      "PSYCH 370"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research Apprenticeship in Psychology",
+    "courseid": "PSYCH486",
+    "coursedescription": "This course is designed to provide undergraduate majors in psychology with opportunities to participate in empirical research under the direction of a full-time faculty member. Students may be involved in all aspects of research including review of the literature, selection of tasks and measures, preparation of experimental protocols, data collection, coding and analysis. This course is open only to psychology majors.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101",
+      "PSYCH 102",
+      "270"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Directed Study in Psychology",
+    "courseid": "PSYCH489",
+    "coursedescription": "Independent work on special problems or in certain fields of psychological interest. Students must make arrangements with individual instructors and have projects approved by the department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Independent work on special problems or in certain fields of psychological interest."
+      ]
+    }
+  },
+  {
+    "coursename": "Special Topics in Psychology",
+    "courseid": "PSYCH490",
+    "coursedescription": "Conducted by various members of the faculty with special attention in their fields of scholarly interest. Topics vary by semester.",
+    "course-prerequsities": [
+      "PSYCH 100",
+      "101",
+      "PSYCH 201",
+      "LEVEL 300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Conducted by various members of the faculty with special attention in their fields of scholarly interest."
+      ]
+    }
+  },
+  {
+    "coursename": "Honors Research",
+    "courseid": "PSYCH497",
+    "coursedescription": "Independent study; the research, writing and defense of thesis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Senior Honors Seminar II",
+    "courseid": "PSYCH499",
+    "coursedescription": "An intensive program of directed research combined with weekly discussion.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

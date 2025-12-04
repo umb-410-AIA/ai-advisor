@@ -1,0 +1,36 @@
+[
+  {
+    "coursename": "Elementary Arabic II",
+    "courseid": "ARABIC102",
+    "coursedescription": "Arabic 102 picks up where Arabic 101 left off. Our central tasks will be building vocabulary and mastering basic grammatical structures. We'll also stress training in reading and writing Arabic sentences and in enhancing spoken skills necessary for a variety of daily activities. As the course progresses, more emphasis will fall on assimilating the language for more complex communicative purposes related to describing self, family members, career plans, and abstract matters like personal feelings and decisions.",
+    "course-prerequsities": [
+      "ARABIC 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Arabic II",
+    "courseid": "ARABIC202",
+    "coursedescription": "This course is a continuation of Intermediate Arabic I. It is generally appropriate for students who have completed three semesters of the study of Arabic. Central tasks will be building vocabulary, mastering grammatical structures, improving reading comprehension, writing Arabic sentences, and enhancing the spoken skills necessary for a variety of daily activities. By the end of the semester, the successful student should reach intermediate proficiency in listening, speaking, reading and writing Modern Standard Arabic (MSA).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Modern Arabic Literature",
+    "courseid": "ARABIC320",
+    "coursedescription": "This course considers a variety of work by Arab authors, all written or translated into English. Students will explore key trends, movement, and transformations that have shaped the modern Arabic literary tradition. They will examine narratives in various genres- including the novel, short story and film, which consider a range of political, social, and literary topics. Supplementary readings will provide critical context for analysis and interpretation. Themes may include postcolonial legacies, political struggle, Arab encounters with the West, and the quest for identity.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ARABIC379",
+    "coursedescription": "Independent study in Arabic",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

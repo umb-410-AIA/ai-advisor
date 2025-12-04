@@ -1,0 +1,83 @@
+[
+  {
+    "coursename": "Organizational Analysis and Skills",
+    "courseid": "MBAMGT650",
+    "coursedescription": "This course focuses on the organization of the future, identifying its characteristics and exploring the strategic design and political and cultural implications for working in and managing such an organization. It examines the impact of the new organization on the roles and careers of individual managers, the functioning of groups, the processes that exist within organizations, the relationships of organizations with their environments, and the learning and change practices needed to enhance global performance. First-semester MBA students are introduced to a variety of skills that they will be called upon to use throughout their MBA experience (case analysis, analytical writing, self-awareness, team-building, oral communication).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Business and Its Environment",
+    "courseid": "MBAMGT660",
+    "coursedescription": "This course looks at the relationship of business to the external environment and considers business in relation to legal, social, political, and economic systems, focusing in particular on the impact of governmental regulation on business. The course also addresses the functioning of the US business enterprise in the context of the international business environment. Finally, through an examination of the role of ethics in management decision-making, the course explores how business organizations can operate effectively and responsibly in the context of the external environment.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Legal Environment of Business",
+    "courseid": "MBAMGT664",
+    "coursedescription": "This course seeks to help students broaden their understanding of our legal and regulatory system and how it affects them as business managers. Businesses have become increasingly subject to laws and regulations. Legal and regulatory provisions pervade such aspects of business as the sale of securities; marketing practices; product liability; and business relationships with employees, customers, and other interested parties. This course assists students in developing their ability to meet the legal and regulatory demands and responsibilities of contemporary business.",
+    "course-prerequsities": [
+      "MBAMGT 650"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Legal and regulatory provisions pervade such aspects of business as the sale of securities; marketing practices; product liability; and business relationships with employees, customers, and other interested parties."
+      ]
+    }
+  },
+  {
+    "coursename": "Diversity in the Global Workplace",
+    "courseid": "MBAMGT666",
+    "coursedescription": "This course will delve into a number of issues related to diversity in the global workforce: how to understand and appreciate the dimensions of diversity in the global workforce (including gender, race, nationality, religion, sexual orientation, disability, class); how to learn across differences in order to work more effectively together; how to contribute to and manage teams with diverse composition; how to be a leader and change agent on issues regarding diversity and inclusion; how corporations can be on the leading edge of policies to enhance economic opportunity for a diverse workforce; how diversity is understood and approached globally.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Nonprofit Management",
+    "courseid": "MBAMGT687L",
+    "coursedescription": "Nonprofit organizations aim to improve society while facing similar management challenges to any organization as they provide valued goods and services. This large and growing sector includes colleges and universities, hospitals and social service entities, human rights.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Business and Climate Change",
+    "courseid": "MBAMGT688L",
+    "coursedescription": "Climate change may be the most important challenge facing society over coming decades, causing sea levels rise, more extreme storms, flooding and drought. The widespread causes and impacts of climate change will have broad economic, social and business impacts. Twenty-first century managers and professionals in every field will need to understand these impacts and the implications of policies to address climate change for their organizations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Strategic Management",
+    "courseid": "MBAMGT689",
+    "coursedescription": "This course serves as a culminating experience for MBA students, emphasizing the formulation and execution of business strategies in dynamic environments. Students will apply analytical tools and strategic frameworks to tackle complex challenges faced by real-world organizations. With a focus on decision-making, competitive analysis, strategic management and strategy development, the course integrates knowledge from previous coursework, enhancing students’ strategic thinking and leadership abilities. Through engaging projects, students will gain practical experience in crafting sustainable and ethical strategies that drive organizational success.",
+    "course-prerequsities": [
+      "LEAST 12",
+      "AF 601",
+      "AF 610",
+      "AF 620",
+      "MBAMGT 650",
+      "MBAMGT 660",
+      "MBAMKT 670",
+      "MBAMS 630",
+      "MBAMS 635",
+      "MBAMS 640"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum",
+    "courseid": "MBAMGT698",
+    "coursedescription": "Because education can happen almost anywhere, not only in a classroom, the Practicum is a systematic attempt to introduce management students in a new learning environment. Through this course students can enhance the knowledge acquired in the classroom, try out skills and abilities, gain new perspectives on career goals and academic directions, gain 'real world' work experience and further their personal and professional development. The Practicum may relate to any of the functional areas of Management: Accounting and Finance, Marketing, Operations Management, Management Science, Human Resources or International Management; and may be arranged according to your specialization or may be based more on general management opportunities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

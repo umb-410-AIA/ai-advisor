@@ -1,0 +1,54 @@
+[
+  {
+    "coursename": "Introduction to Inquiry for Educational Leaders",
+    "courseid": "EDLDRS705",
+    "coursedescription": "This course is designed to introduce students in the leadership in urban schools programs to the philosophical, social, and psychological foundations of inquiry in the social sciences and education, particularly as it pertains to leadership in urban schools. Students will be exposed to multiple research paradigms and the long-standing debates around what constitutes quality research in the social sciences, in general, and in education specifically. Through this course, students will develop a conceptual base for designing research about urban schools.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Organization and Leadership in Educational Institutions",
+    "courseid": "EDLDRS732",
+    "coursedescription": "This required course, taken in the first spring semester, helps participants develop a diverse set of perspectives for analyzing organizations. Practitioners who are interested in leadership roles in schools and other urban educational settings function in a variety of roles in many large and small organizations: teachers and classroom administrators in buildings or programs, members of a department or team, students in a graduate classroom, union members and leaders, parents of school-aged children and part of a school community. Practitioners also play roles in organizations outside of schools-in community groups, sports teams, religious groups, etc. The course helps look at those organizations and the roles played within them, by offering a broad set of perspectives drawn from the extensive literature on organizations. Learning to understand and use multiple perspectives for analyzing organizations allows us to reflect on our roles in them, even as it expands the set of possible choices for taking action and leadership within them.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Practitioners who are interested in leadership roles in schools and other urban educational settings function in a variety of roles in many large and small organizations: teachers and classroom administrators in buildings or programs, members of a department or team, students in a graduate classroom, union members and leaders, parents of school-aged children and part of a school community."
+      ]
+    }
+  },
+  {
+    "coursename": "Research Methods in Educational Leadership II",
+    "courseid": "EDLDRS741",
+    "coursedescription": "Research Methods in Educational Leadership",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Research Methods: Participatory Action Research",
+    "courseid": "EDLDRS755",
+    "coursedescription": "This is an advanced research methods course to introduce graduate students to history, theory, ethics, knowledge traditions, methods, processes, and dynamics of power in participatory action research (PAR). Three inter-related traditions of participatory research will be covered in the course: action research, participatory action research, and community based participatory research. In addition to these three main lineages, examples of PAR and PAR with youth (YPAR), transnational feminist PAR, critical PAR, and issues of research rights, social justice, and the extent to which these relate to PAR will be examined.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Seminar",
+    "courseid": "EDLDRS891",
+    "coursedescription": "This seminar is designed to assist students in developing research ideas, writing their research plan, preparing a dissertation proposal and forming a dissertation committee. Satisfactory completion of the seminar requires submission of a dissertation proposal acceptable to the instructor and the chair of the student's dissertation committee.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Seminar III",
+    "courseid": "EDLDRS893",
+    "coursedescription": "This seminar follows Dissertation Seminar 892. Entry into this course requires that students should have completed and defended their dissertation proposal. Students will continue to write the dissertation, prepare for the dissertation defense, and submit the final dissertation. This seminar provides structured support as students research, gather data, and analyze their dissertation topics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "coursename": "Financial Accounting",
+    "courseid": "AF210",
+    "coursedescription": "Presents the theory and techniques of financial accounting. The course encompasses the basic functions of collecting, processing, and reporting accounting information for interested third parties (e.g. owners, investors, and government) and enables students to analyze, interpret, and use accounting information effectively.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course encompasses the basic functions of collecting, processing, and reporting accounting information for interested third parties (e.g."
+      ]
+    }
+  },
+  {
+    "coursename": "Managerial Accounting",
+    "courseid": "AF211",
+    "coursedescription": "Presents the theory and technique of managerial accounting, from the particular perspective of the manager. The course covers the identification and analysis of the behavior of costs within the organization, and illustrates how managers use such knowledge for planning and control. Major topics include responsibility accounting, comprehensive and cash budgeting, standard job order and process cost systems, cost-volume-profit analysis, cost allocation, activity-based costing, standard costs, and variance analysis.",
+    "course-prerequsities": [
+      "AF 210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Financial Management",
+    "courseid": "AF301",
+    "coursedescription": "Introduces financial management (both short term and long term), specifically what an organization invests in, and how the necessary funds are best raised; the course also acquaints students with various kinds of securities and the operation of financial markets and institutions. Specific topics include ratio analysis, working capital management, financial markets and institutions, the time value of money and capital budgeting, the cost of capital, financial leverage and capital structure, and dividend policy.",
+    "course-prerequsities": [
+      "AF 210",
+      "AF 211"
+    ],
+    "course-corequisites": [
+      "AF 211"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Accounting I",
+    "courseid": "AF310",
+    "coursedescription": "This course provides knowledge of financial accounting theory, with particular emphasis on the application of theory and on the practical problems arising from the limitations of traditional financial statements. It also provides in-depth analysis of the application of generally accepted accounting principles to asset and current liability items. In addition, students learn to research business problems through the use of the Internet; and discuss ethical issues faced by managers.",
+    "course-prerequsities": [
+      "AF 211"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Accounting II",
+    "courseid": "AF311",
+    "coursedescription": ". This course continues to develop accounting theory, using principles, concepts, and accounting pronouncements to analyze and resolve accounting issues. Students acquire an understanding of issues unique to corporations and complete the study of the balance sheet by examining long-term debt and equity issues. In addition, they discuss ethical issues faced by managers in today's business world. Continuing emphasis will be placed on computer application skills, research skills and written and oral communication skills.",
+    "course-prerequsities": [
+      "AF 310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Accounting Information Systems",
+    "courseid": "AF315",
+    "coursedescription": "This course examines the design, implementation, operation, and control of contemporary computer-based accounting information systems. Students complete projects which require the use of current information technology to solve real world problems.",
+    "course-prerequsities": [
+      "AF 211"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Data Analytics for Accounting",
+    "courseid": "AF317",
+    "coursedescription": "The professional accounting industry is undergoing a major shift from recent technological advances. The new skillset that is becoming more important for nearly every aspect of business is analyzing large amounts of data to find actionable insights, i.e., data analytics.The course will discuss concepts and applications involving the analysis of data sources - large and small to facilitate decision making. Students will follow the \"IMPACT\" model i.e. Identify the questions; Master the data; Perform the test plan; Address and refine results; Communicate insights; and, Track outcomes. Software in the course would involve: Microsoft Track [i.e. Excel, Power Query, Power BI]. Application tools such as Pivot tables, Excel formulas, applied statistics and visualization applications will be included. Additionally, Structured Query Language [SQL] will be considered. Data from real companies, such as Lending Club will be used in analyses.",
+    "course-prerequsities": [
+      "MSIS 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theory of Corporate Finance",
+    "courseid": "AF325",
+    "coursedescription": "Provides a sound understanding of the principles of and analytical techniques used in financial management. The course describes financial decision making by corporations and shows how it can be used to address practical problems and illuminate institutional aspects of the financial world. Topics include review of valuation concepts, cost of capital, advanced capital budgeting, capital structure theories, dividend policy, IPOs, long-term financing and working capital management.",
+    "course-prerequsities": [
+      "AF 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Business Law",
+    "courseid": "AF330",
+    "coursedescription": "Examines the body of law involved in the formation, operation, and termination of business organizations; in contracts; in debtor-creditor relations; in uniform commercial code (sales, commercial paper, secured transactions); in property, estate, and trust; in government regulations; and in issues of CPA liability. Course content encompasses the topics to be found on the CPA law examination.",
+    "course-prerequsities": [
+      "AF 211"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Investments",
+    "courseid": "AF335",
+    "coursedescription": "Provides the student with an understanding of capital market securities, operations, valuation, and investment techniques. Specifically, the course covers definitions of various investment vehicles, operation of the NYSE and NASDAQ markets, portfolio theory (CAPM and APT), valuation of stocks and bonds, and investor capital allocation decisions, including discussions of mutual fund selection.",
+    "course-prerequsities": [
+      "AF 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Cost Accounting",
+    "courseid": "AF363",
+    "coursedescription": "Examines the design, implementation and operation of cost accounting systems. With primary emphasis on cost analysis in manufacturing, the course explores cost standards, actual performance, and variances. To a lesser extent, it also applies concepts of cost accounting to manufacturing and service organizations.",
+    "course-prerequsities": [
+      "AF 211"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sport Finance",
+    "courseid": "AF405",
+    "coursedescription": "This course is designed to cover economic and financial aspects of contemporary sports. Specifically, the course focuses on: 1). Financial management concepts and application of these concepts to the analysis of financial issues within sports organizations; 2).Analytical techniques used in identifying potential financial problems and finding creative solutions within sports and recreation sector; and 3). Understanding of the current financial status of the various sectors of the sport and recreation industry.",
+    "course-prerequsities": [
+      "AF 210",
+      "AF 211",
+      "AF 301",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Financial Modeling",
+    "courseid": "AF426",
+    "coursedescription": "Introduces the principles and techniques for building financial models, especially in an uncertainty framework. Topics include decision support systems, risk analysis and capital budgeting under uncertainty. Integrates financial, accounting and statistical concepts and techniques to construct financial models and to perform analyses using micro-computer based software.",
+    "course-prerequsities": [
+      "AF 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Asset Management Practicum",
+    "courseid": "AF444",
+    "coursedescription": "Students gain hand-on experience analyzing various sectors of the S&P 500 index, prepare financial statements, working in teams, and delivering presentations related to financial markets. Students will be required to perform statistical analysis of data, read financial statements, have basic knowledge of financial markets and investment decision-making, and know fundamentals of macroeconomics. Students should be available to participate in weekly meetings to present updates and recommendations, take part in the preparation of the reconciliation statement at the end of the month and contribute to presentations throughout the semester.",
+    "course-prerequsities": [
+      "AF 301",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Markets and Financial Institutions",
+    "courseid": "AF445",
+    "coursedescription": "Examines the role of financial markets and institutions in the economy. The course focuses on the working of various financial markets and how financial institutions and other users interact with financial markets. Topics include interest rates; term structure of interest rates; money and capital markets; innovations in capital markets; credit risk and asset and liability management; international financial markets; currency fluctuations; and management of currency risk.",
+    "course-prerequsities": [
+      "AF 301"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics include interest rates; term structure of interest rates; money and capital markets; innovations in capital markets; credit risk and asset and liability management; international financial markets; currency fluctuations; and management of currency risk."
+      ]
+    }
+  },
+  {
+    "coursename": "Federal Taxation I",
+    "courseid": "AF450",
+    "coursedescription": "Studies the law and procedures of the federal income taxation of individual taxpayers. The course presents the income tax concepts of gross income recognition, deductions, tax credits, and the effects of property transactions.",
+    "course-prerequsities": [
+      "AF 211"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Federal Taxation II",
+    "courseid": "AF451",
+    "coursedescription": "Applies the income tax concepts presented in AF 450 to corporations, partnerships, Subchapter S corporations, trusts, and estates. The course introduces the concepts of the federal gift tax and the federal estate tax.",
+    "course-prerequsities": [
+      "AF 450"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "International Financial Management",
+    "courseid": "AF455",
+    "coursedescription": "Provides the student with the knowledge and skills needed by managers in organizations active in international trade, facing foreign competition, or involved in foreign direct investment. The course focuses on the unique international variables and constraints which modify single-country financial management concepts. Topics include the determination of exchange rates, forecasting exchange rates, foreign exchange risk management, transfer pricing policies, multinational capital budgeting with cash flows in more than one currency, international financial markets, and country risk in multinational investment decisions.",
+    "course-prerequsities": [
+      "AF 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Financial Auditing",
+    "courseid": "AF470",
+    "coursedescription": "Encompasses both the theory and the technique of financial auditing. The course examines the professional role of the auditor, along with its operational, ethical, and legal implications. Areas typically covered include professional auditing standards, the auditors' report, specialized reporting issues, auditors' legal responsibilities, gathering and evaluating evidence, the internal control structure audit sampling, and the Code of Professional Conduct. Discussions consider issues of judgment typically faced by auditors in practice.",
+    "course-prerequsities": [
+      "AF 311"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Accounting Internship",
+    "courseid": "AF480",
+    "coursedescription": "Provides students with opportunities for full- or part-time work experience in an accounting or finance setting. On-site supervisors and faculty sponsors provide guidance and supervision for each intern.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Financial Policy",
+    "courseid": "AF495",
+    "coursedescription": "Utilizes the case study method to apply theoretical concepts and techniques learned in previous courses to the analysis of real situations and practical problems in financial management and policy. Some cases will have a strong international focus. It provides an opportunity for reviewing, integrating, and putting into practice the skills acquired in previous courses.",
+    "course-prerequsities": [
+      "AF 325",
+      "335"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "College of Management Honors Thesis Seminar",
+    "courseid": "AF499",
+    "coursedescription": "The CM honors research seminar and thesis Program is a two-semester course sequence. In this seminar, students successfully complete a research while working closely with a faculty advisor to define the project, which builds upon work completed in the per-requisite course, CM Honors Research Seminar. The honors thesis project stretches and grows a student's capabilities. Therefore, the program is structured around a series of assignments and milestones during which students will work with guidance from a faculty advisor and program coordinator toward a project that meets course goals.",
+    "course-prerequsities": [
+      "SCSM 498",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to African-American Literature",
+    "courseid": "AFRSTY100",
+    "coursedescription": "This survey course examines the writings of African-Americans who have made unique contributions to the African-American literary tradition. The course explores these writings in terms of their sociohistorical context, making use of analyses of character, plot, and symbolism. It gives particular attention to the writers' roles as social critics. Among the writers whose work may be considered are Frederick Douglass, Jean Toomer, Zora Neale Hurston, Richard Wright, Leroi Jones, Ernest Gaines, George Jackson, Alice Walker, and Toni Morrison.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Africana Studies",
+    "courseid": "AFRSTY101",
+    "coursedescription": "This course presents an overview of the major theories in the field of Africana studies. It seeks to explore the Africana experience in a way that is orderly, systematic, and structurally integrated; and to convey an understanding of the cultural, historical, and political roots of this experience. The course focuses chronologically on major historical episodes through a study of ancient African civilizations, slavery, colonialism, and African liberation movements.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "African-American History II",
+    "courseid": "AFRSTY111",
+    "coursedescription": "An intensive study of the social, economic, and political history of African-Americans from the era of Reconstruction to the present. Topics include the African-American during Reconstruction, racism in America, and a critical examination of the variegated patterns of African-American response to American social conditions in the late nineteenth and twentieth centuries.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Black Consciousness",
+    "courseid": "AFRSTY115G",
+    "coursedescription": "This course examines the social, economic, cultural and political implications of the development of Black consciousness in twentieth-century United States. It considers the role played in these developments by Ida B Wells, WEB DuBois, Marcus Garvey, the Harlem Renaissance, the Civil Rights/Black Power movement, the Nation of Islam, and the Black Arts Movement.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "African Images in Literature",
+    "courseid": "AFRSTY150",
+    "coursedescription": "This course examines the different ways in which African writers have represented the continent of Africa by focusing on their struggle to develop authentic forms and images. Through the reading of selected folk tales, novels, and poems from different African societies, participants consider such issues as the influence of colonialism on creative writing; the politics of African culture; race and class; the images and status of women.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Living While Black: Contemporary Issues in the African Diaspora",
+    "courseid": "AFRSTY200",
+    "coursedescription": "A writing- and research-intensive critical examination of contemporary and long unfolding social, political, cultural, historical, public health, and economic issues within and across the Black Diaspora, including the trans-Atlantic and trans-Pacific spaces of Africa, the U.S., the Caribbean, Latin and South America, Europe, and the Pacific Islands. This course will engage the burgeoning scholarly and theoretical fields of Black Studies, enabling a full and rigorous commitment to a trans-national and trans-disciplinary approach to the problems of black social life within colonial modernity and racial capitalism. This course will closely examine the complex of issues that affect African and African-descended individuals, their families, and their communities within the context and in the aftermath of European colonization.",
+    "course-prerequsities": [
+      "AFRSTY 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Black Image on Stage and Screen",
+    "courseid": "AFRSTY270",
+    "coursedescription": "This course explores the history and development of how Africans and African Americans are depicted on stage, on the movie screen, and in television. Starting in the days of Shakespeare (Othello, Aaron in Titus Andronicus) the course will take a path that includes the days of minstrel shows, Race movies, Magic Negroes, Blacksploitation, The Black Arts Movement, the \"post-racial\" age, and on into the images of tomorrow. By the end of the course, students will not only have the knowledge of how racial identities develop through media such as television and motion pictures, but will also be able to view future depictions of blacks and other persons of color on stage with a critical eye to certain stereotypes.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Africana Studies",
+    "courseid": "AFRSTY280",
+    "coursedescription": "Various specialized topics are offered once or twice under this heading. Topics change from year to year and are announced before the beginning of each semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Women in African Cultures",
+    "courseid": "AFRSTY300L",
+    "coursedescription": "This course challenges stereotypical constructions of Africa and African woman in mainstream media by considering internal and external historical relationships that have shaped and redefined the cultures, ideas, institutions, politics, and social relations of several specific groups of African women. Through a multi-disciplinary approach, the course addresses issues and challenges of contemporary Africa, and explores many of the themes and concerns that have run throughout Africa's gendered, complex, and changing history. Popular culture sources, as well as scholarly studies and activist writing, will be employed to help illuminate the lived experiences and perspectives of contemporary women living in various African societies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "African-American Intellectual Thought",
+    "courseid": "AFRSTY301",
+    "coursedescription": "A survey course of the significant writings of African-Americans from the period of Emancipation to the present, with special reference to issues concerning the educational, political, sociological, and psychological status of African-Americans in the United States.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Problems in Urban Education",
+    "courseid": "AFRSTY320",
+    "coursedescription": "This course looks at the relationship between young people growing up in the cities and the efforts to reform urban schooling. The course examines the cultural, social, economic, and political dimensions of formal \"education\" in the city. Questions posed include: What is education? Why educate? Who is educated in the city? What impact does urban education have upon its recipients and their families, culture, community? What is the relationship between urban education and the American social order?",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Black Popular Culture",
+    "courseid": "AFRSTY355L",
+    "coursedescription": "This course requires students to engage with Black/African diasporic cultural products intended for a mass audience. The macro-contents of American and global consumer capitalism and the micro- categories of ethnicity, gender, and sexualities are used as a framework for the critical analysis of production, consumption, and reception of African American popular culture in the US and abroad.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Post-Colonial Literature: Africa and the Caribbean",
+    "courseid": "AFRSTY440",
+    "coursedescription": "This course examines contemporary African and Caribbean literature in its historical, cultural, and intellectual context. Emphasis is on the ways different writers have attempted to develop new literary forms in order to create authentic images of their cultures and communities. The course also looks at the continuing influence of colonialism on the literary and social life of these communities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "AFRSTY479",
+    "coursedescription": "Students may conduct independent research under the supervision and guidance of members of the faculty.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

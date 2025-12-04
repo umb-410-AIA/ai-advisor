@@ -1,0 +1,235 @@
+[
+  {
+    "coursename": "Introduction to Politics",
+    "courseid": "POLSCI101",
+    "coursedescription": "This course introduces and explores the conceptual vocabulary of politics. Though concerned with problems of political theory, it is designed not for theorists but for anyone who thinks, talks, or worries about the public world. A series of brief case studies is used to show how real-world outcomes are affected by our political ideas and assumptions.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Government and Politics of the United States",
+    "courseid": "POLSCI102",
+    "coursedescription": "An introduction to the structures, processes, and results of the American governmental system. The course focuses on the national government and national political behavior, although state, regional, and local structures and issues are also introduced. Topics include institutions of government, political principles and ideologies, public opinion, political socialization, political parties, mass media, elections, interest groups, civil rights and civil liberties, public policies and policy making.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics include institutions of government, political principles and ideologies, public opinion, political socialization, political parties, mass media, elections, interest groups, civil rights and civil liberties, public policies and policy making."
+      ]
+    }
+  },
+  {
+    "coursename": "Introduction to Political Theory",
+    "courseid": "POLSCI103",
+    "coursedescription": "This course consists of close readings of three texts considered foundational to the history of Western political thought: Plato's Republic, Machiavelli's The Prince, and Marx and Engels' Communist Manifesto. It will examine the characteristic questions and problems raised by these texts concerning the nature of politics and justice, and examine what roles moral and epistemological knowledge might play with regard to both. Also considered will be questions of genre, history, and rhetoric, with special attention given to questions regarding authorial intent, readership, and audience.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Comparative Politics",
+    "courseid": "POLSCI202",
+    "coursedescription": "This course serves as an introductory course to comparative politics. Students will learn the core concepts and methods in comparative politics including the comparative methods, states and regimes, regime types and democratic transitions through studying both developing and developed countries such as China, India, Russia, Mexico, Germany and United Kingdom. The second part of the course focuses on political institutions. Students will learn the different forms of democracies and autocracies by examining the institutions and political processes. The course seeks to understand the mechanisms through which the political institutions and processes affect citizens, behaviors and political outcomes while comparing developing and developed countries. The third part of the course discusses political issues and policy outcomes including challenges to democracies, women and politics, social cleavages, and inequality and redistribution. Throughout the course, students will develop informed and coherent arguments on relevant topics through discussions, debates, simulation games, and research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Public Policy (A)",
+    "courseid": "POLSCI203",
+    "coursedescription": "The process of policy making and the manner and effects of policy implementation in states and localities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "International Relations (B)",
+    "courseid": "POLSCI220",
+    "coursedescription": "This course focuses on basic patterns and concepts which explain interactions among nations. Special attention is given to the role of ideologies, international organizations, conflict resolution, the impact of multinational corporations, underdevelopment, the international dimension of human rights, ethnic, \"racial,\" religious, and gender differences, and the dynamics of globalization.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Modern Political Thought (D)",
+    "courseid": "POLSCI252",
+    "coursedescription": "The history of Western political ideas from the time of Machiavelli to that of Marx and Nietzsche.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Political Behavior",
+    "courseid": "POLSCI309",
+    "coursedescription": "Introduction to the study of political behavior, including discussions on political psychology and rational choice, attitude formation, and patterns of political socialization.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Legislative Process (A)",
+    "courseid": "POLSCI318",
+    "coursedescription": "The function of national and state legislatures, and the role played by political parties and interest groups in legislatures.",
+    "course-prerequsities": [
+      "POLSCI 102",
+      "POLSCI 203"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The function of national and state legislatures, and the role played by political parties and interest groups in legislatures."
+      ]
+    }
+  },
+  {
+    "coursename": "Women, Politics, and Policy",
+    "courseid": "POLSCI320",
+    "coursedescription": "This course exposes students to the field of \"women and politics\" in U.S. American politics. It investigates what a gender perspective adds to evaluations and understandings of politics and policy as well as ways in which gender influences policy outcomes, political perspectives, and political experiences. Collective action for, and on the behalf of, groups of women is a major focus as is the perspective of women of various races, social classes, ethnicities, and sexual orientations. The course covers: baseline trends and debates related to women and politics; gender movements and women's organizing from a historical perspective; political participation and public opinion; and, public policy.",
+    "course-prerequsities": [
+      "POLSCI 102",
+      "POLSCI 203"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Political Research Methods",
+    "courseid": "POLSCI350",
+    "coursedescription": "This course provides exposure to the major approaches to studying politics and is designed so that participants develop the skills necessary to both conduct their own research and critically evaluate the research of others. To facilitate these goals, the course is divided into four sections: (1) the politics and ethics of research; (20 conceptual issues in research ; (3) quantitative data collection and analysis; and (4) qualitative data collection and analysis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Latin American Poltc",
+    "courseid": "POLSCI371",
+    "coursedescription": "An analysis of social structure and political behavior of various groups in Latin America, of a variety of political participation at grass roots and national levels, and of the influence of technologically advanced countries on the politics of Latin America.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Politics",
+    "courseid": "POLSCI377",
+    "coursedescription": "Intensive study of topics in politics. Course content varies each semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theories of International Relations",
+    "courseid": "POLSCI380",
+    "coursedescription": "This course surveys the most prominent themes in philosophical and scientific thought about international relations. It gives special consideration to the historical evolution of international relations scholarship, and to the most prominent debates among scholars, to facilitate understanding of the fundamental problems countries face and the broad patterns of their interactions with one another.",
+    "course-prerequsities": [
+      "POLSCI 220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Government and Politics of China (C)",
+    "courseid": "POLSCI387",
+    "coursedescription": "A study of the influences shaping contemporary Chinese politics, both domestic and international, including revolutionary origins, the struggle for development, ideology, political structures, and ongoing social change.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "A Comparative Analysis of Inequality and Redistribution",
+    "courseid": "POLSCI390",
+    "coursedescription": "For the past several decades, the world has witnessed a substantial increase in inequality. Two typical cases are the United States and China. The United States has had the highest level of inequality in the industrial world for the past few decades, and China has experienced dramatic increase in inequality and has become one of the most unequal countries in the world. This course will compare these two countries and will provide a broad overview of the causes and consequences of the rising inequality in the United States, China and globally. This course will also compare and analyze social and welfare policies in the United States, China and globally. The first part of the course will focus on the United States, the second part will focus on China, and the third part will look at inequality and redistributive policies comparatively and globally with a focus on the equal countries Sweden and Germany, and the unequal countries South Africa and Brazil. The topics we will cover include measurements and data of inequality; inequality in different aspects; causes of inequality; public opinions towards inequality; and the implications of rising inequality for democracy, autocracy and governance with a focus on redistributive policies. We will also touch on questions of why inequality should be studied in the first place - that is, why should anyone care about the growing gap between the rich and the poor; and what is the ideal level of inequality?",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Politics of the Arab-Israeli Conflict",
+    "courseid": "POLSCI404",
+    "coursedescription": "This course examines the Arab-Israeli conflict from a national and international perspective. It considers the competing historical and moral claims to the land, the creation of political \"facts\", the rise of national consciousness and institutions, the influence of regional politics and the role of international forces in shaping the nature of the conflict and the means to resolve it.",
+    "course-prerequsities": [
+      "POLSCI 101",
+      "POLSCI 220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Pol Intrnatnl Econ",
+    "courseid": "POLSCI410",
+    "coursedescription": "This course studies the relationship between the structure of the international political system and the structure of the international economic system, examines the reciprocal links between domestic political and economic policies of governments and their international behavior, and analyzes the socio-political choices which support the development and operation of such transnational institutions as the World Bank, the IMF, multinational corporations, cartels, and trading systems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "From Biopolitics to Necropolitcs",
+    "courseid": "POLSCI458",
+    "coursedescription": "This course investigates the theoretical tradition that moves political theory from a juridical emphasis on the legal problem of sovereignty, to a broader interrogation of various technologies of power invested in the regulation of life and death. In this course we explore both, the foundational texts of Hannah Arendt and Michel Foucault, as well as the reception, further development, and complication of their theories in the works of other contemporary political theorists, such as Giorgio Agamben, Roberto Esposito, and Achille Mbembe.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "POLSCI479",
+    "coursedescription": "A course of reading and investigation designed to supplement regular departmental offerings. Topics are worked out by instructor and student. Regular papers are required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Field Work in Politics",
+    "courseid": "POLSCI488",
+    "coursedescription": "Carefully supervised field work, available only to a limited number of qualified students in any one semester. Written prospectus of the project, periodic conferences with a faculty advisor, and appropriate written work required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Field Work in Politics",
+    "courseid": "POLSCI489",
+    "coursedescription": "Carefully supervised field work, available only to a limited number of qualified students in any one semester. Written prospectus of the project, periodic conferences with a faculty advisor, and appropriate written work required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Issues",
+    "courseid": "POLSCI490",
+    "coursedescription": "Guided readings in special areas of politics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Issues",
+    "courseid": "POLSCI491",
+    "coursedescription": "Guided readings in special areas of politics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Field Practicum in Politics",
+    "courseid": "POLSCI495",
+    "coursedescription": "Full-time work in a government or political agency to help students integrate course work with practical training.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Seminar in International Relations (B)",
+    "courseid": "POLSCI499L",
+    "coursedescription": "A research seminar designed for two categories of students: a) political science majors with an interest and strong background in international relations; and b) students completing the International Relations Program (for whom the seminar will provide the context and guidance to carry out a \"Senior Project\" aimed at integrating their study of international relations). In either case, students spend most of their time researching, writing, and presenting a substantial paper.",
+    "course-prerequsities": [
+      "POLSCI 220"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A research seminar designed for two categories of students: a) political science majors with an interest and strong background in international relations; and b) students completing the International Relations Program (for whom the seminar will provide the context and guidance to carry out a \"Senior Project\" aimed at integrating their study of international relations)."
+      ]
+    }
+  }
+]

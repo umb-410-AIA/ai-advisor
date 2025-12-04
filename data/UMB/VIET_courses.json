@@ -1,0 +1,12 @@
+[
+  {
+    "coursename": "Elementary Vietnamese II",
+    "courseid": "VIET102",
+    "coursedescription": "This course is a continuation of Viet 101. The course further develops the foundation of students' four language skills of listening, speaking, reading and writing through the interactive and communicative approach. It also provides a comprehensive and systematic survey of the fundamentals of Vietnamese phonetics, spelling rules, grammar and usage of vocabulary. In addition to the main textbook, supplementary materials taken from newspapers and magazines, films and TV programs in Vietnamese are used to enhance students' language competency.",
+    "course-prerequsities": [
+      "VIET 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

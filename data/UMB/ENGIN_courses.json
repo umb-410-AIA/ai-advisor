@@ -1,0 +1,197 @@
+[
+  {
+    "coursename": "Introduction to Engineering",
+    "courseid": "ENGIN103",
+    "coursedescription": "Via team projects and discussions, students will discover the tools of engineering design, data analysis and modeling, estimations, spreadsheets, oral presentations, logbook, written reports, web page building, movies making, graphical programming, teamwork, leadership, project management, and problem-solving skills. Not only for prospective engineering students, also for those seeking important skills to succeed in college and/or the job market.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Electrical and Computer Engineering",
+    "courseid": "ENGIN104",
+    "coursedescription": "Students will work in teams to build and test electrical circuits and to explore the basics of signal processing and data modeling. The essentials of computer programming are introduced using languages such as LabVIEW and Matlab with the goal of enabling students to use the computer effectively in subsequent courses. Students will develop codes in computer languages such as LabVIEW and Matlab to analyze circuits and to design and apply digital filters. Teamwork, logbook, presentations, and report writing are integral components of the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Engineering Mathematics",
+    "courseid": "ENGIN211L",
+    "coursedescription": "In this course students will learn important math concepts and techniques they will need to study engineering topics such as circuit analysis, signal processing, electromagnetic fields and wavers, etc. Topics include complex numbers and functions. Laplace transform, Fourier series and transform, first and second order differential equations, partial differential equations, vector differential calculus, matrix algebra, and probability and statistics. For each of these topics, engineering applications will be emphasized, and when appropriate, numerical solutions will be introduced.",
+    "course-prerequsities": [
+      "MATH 141"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Circuit Analysis I",
+    "courseid": "ENGIN231",
+    "coursedescription": "Mathematical models for circuit elements, basic circuit laws, techniques for writing and solving circuit equations. Circuit theorems, operational amplifiers, first- and second-order circuits. Numerical methods of circuit analysis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Circuit Analysis II",
+    "courseid": "ENGIN232",
+    "coursedescription": "Analysis of AC circuits using phasors, mutual inductance and the dot convention, ideal transformers, power analysis, balanced three-phase circuits, frequency response and Bode plots, transfer functions, and application of Laplace and Fourier transforms in circuit analysis. Students use PSPICE to check their results.",
+    "course-prerequsities": [
+      "ENGIN 231"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Digital Systems with Lab",
+    "courseid": "ENGIN241",
+    "coursedescription": "Concepts of digital measurement, counting, timing and switching, basic logic concepts, basic theorems in Boolean algebra, manipulation of logic statements, binary information gates, application of logic gates, flip-flops and multivibrators, counters, registers and readouts, and other combinational and sequential circuits.",
+    "course-prerequsities": [
+      "ENGIN 231"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computer Organization and Assembly Language",
+    "courseid": "ENGIN246",
+    "coursedescription": "Introduction to the organization of general-purpose computers and assembly language programming. Topics include: fundamentals of CPU design, Instruction Set Architectures (ISA) design, number systems and computer arithmetic, datapath and controller abstraction and design, parallelism and pipelines, hierarchical memory design and operation, input/output systems and storage, and assembly language programming.",
+    "course-prerequsities": [
+      "CS 109",
+      "CS 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Circuit Lab I",
+    "courseid": "ENGIN271",
+    "coursedescription": "An introductory electrical measurements and linear circuit analysis laboratory to accompany ENGIN 231 (Circuit Analysis I). Topics include voltage and current division in resistive networks, circuit theorems, operational amplifiers, first- and second-order circuits, power transfer, capacitors and inductors.",
+    "course-prerequsities": [
+      "ENGIN 231"
+    ],
+    "course-corequisites": [
+      "ENGIN 231"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Circuit Lab II",
+    "courseid": "ENGIN272",
+    "coursedescription": "An electrical measurements laboratory to accompany ENGIN 232 (Circuit Analysis II). Topics include ac power and phase measurements, frequency response, transformers, Laplace and Fourier analysis.",
+    "course-prerequsities": [
+      "ENGIN 232"
+    ],
+    "course-corequisites": [
+      "ENGIN 232"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Engineering Design",
+    "courseid": "ENGIN304",
+    "coursedescription": "ENGIN 304 is a course in Engineering Design which counts as an elective for Engineering majors. Topics include CAD, manufacturing processes, human-centered design, failure analysis, and project management.",
+    "course-prerequsities": [
+      "ENGIN 104",
+      "ENGIN 231"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Probability and Random Processes",
+    "courseid": "ENGIN322",
+    "coursedescription": "An introduction to probabilistic description (via the probability density function or distribution function) and statistical description (via the ensemble average, variance, etc.) of random signals as applied to the analysis of linear systems. Other topics include conditional probability, statistical independence, correlation, sampling theory, confidence intervals, hypothesis testing, stationary and ergodic processes, auto-correlation and cross-correlation functions, spectral density, and their interconnections.",
+    "course-prerequsities": [
+      "ENGIN 321"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Digital Design",
+    "courseid": "ENGIN341",
+    "coursedescription": "The course will cover topics including tools and methodologies for top-down design of complex digital systems. Important topics include minimization, mixed logic, algorithmic state machines, microprogrammed controllers, creating and using a gold model, data and control path design, and data movement and routing via buses. Design methodologies covered include managing the design process from concept to implementation, gold model validation, and introduction to design flow. A hardware description language is used extensively to demonstrate models and methodologies, and is also used in design exercises and projects.",
+    "course-prerequsities": [
+      "ENGIN 241"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Electronics II with Lab",
+    "courseid": "ENGIN366",
+    "coursedescription": "Continuation of ENGIN 365. Differential, operational amplifiers and applications, transistor amplifiers at very high frequencies, direct-coupled and band-pass, small- and large-signal, feedback amplifiers; and oscillators. Active filters, waveform generation including Schmitt trigger, multiplexers, A/D and D/A converters. Circuit design employing IC operational amplifiers, discrete devices, SPICE. An electronic design project constitutes a major part of the course.",
+    "course-prerequsities": [
+      "ENGIN 365"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Antenna Design",
+    "courseid": "ENGIN435",
+    "coursedescription": "This is a course for electrical engineering majors in antenna design and applications. Topics covered include: how radiation works; common antenna types; antenna design techniques and rules of thumb; physical laws that limit realizable performance; antenna metrics; and antenna performance in a system.",
+    "course-prerequsities": [
+      "ENGIN 331"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Operating Systems",
+    "courseid": "ENGIN448",
+    "coursedescription": "An introduction to operating systems including design fundamentals and applications in real-time, embedded, and mobile systems. Topics include basic structure of operating systems, file systems, kernel, I/O device management, device drivers, process management and communication and scheduling, security and protection of operating systems, and the design and resource management of real-time operating systems, mobile systems, and distributed systems.",
+    "course-prerequsities": [
+      "ENGIN 346",
+      "CS 310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Semiconductor Device Design, Simulation and Fabrication",
+    "courseid": "ENGIN451",
+    "coursedescription": "This hands-on course will cover topics including design, simulation, fabrication, and characterization of basic semiconductor devices made of either silicon or compound III-V semiconductors as well as the fabrication methods needed to produce such devices.",
+    "course-prerequsities": [
+      "ENGIN 351"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RF/Microwave Circuits",
+    "courseid": "ENGIN471",
+    "coursedescription": "This course is the first of a two course sequence on modern microwave engineering. This course will cover primarily passive circuit design and analysis, specifically: transmission line theory and waveguides, microwave network analysis, impedance matching and tuning, power dividers and couplers, microwave resonators, and microwave filters. This course will utilize computer-aided design (CAD) tools as well as a microwave laboratory experience for assignments and team projects.",
+    "course-prerequsities": [
+      "ENGIN 232"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ENGIN478",
+    "coursedescription": "Study of an engineering topic or work on a research project by a student or group of students under faculty supervision on subjects not currently offered in a regularly scheduled course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "ENGIN480",
+    "coursedescription": "An advanced course offering intensive study of selected topics in engineering. Course content varies and will be announced prior to registration. Several topics may be offered as needed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Senior Design Project II",
+    "courseid": "ENGIN492",
+    "coursedescription": "ENGIN 492, Senior Design Project II is the second semester of the two-part, two-semester Senior Design Project sequence (ENGIN 491/492) designed to help students prepare to make the transition to the engineering workplace. As a continuation of ENGIN 491, during the second semester (ENGIN 492), students work in project teams to implement the design solution to an engineering problem that they came up with in ENGIN 491, and continue to practice their technical writing skills to produce final reports as well as technical manuals for their device/software, in addition to presenting their products and/or findings to a group of panelists consisting of people as potential customers.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "coursename": "Career Exploration and Development in the Sport Industry",
+    "courseid": "SL180",
+    "coursedescription": "This course is designed to expose students to various career paths in the sport industry and develop professional skills in order to be a competitive candidate for a career in sport. Students will research various career paths in the industry, conduct interviews and network with current professionals in the industry, and learn about how to effectively navigate the sport industry.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Sport Psychology",
+    "courseid": "SL202",
+    "coursedescription": "This course provides students with a comprehensive overview of sport and exercise psychology, stressing the application of psychological topics to exercise, sport, competition and health. Emphasis will be placed on the conceptualization, implementation, and evaluation of psychological skills for individuals and teams in pursuit of peak performance.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship I: Sport Practicum",
+    "courseid": "SL280",
+    "coursedescription": "The purpose of this course is to provide an experiential learning opportunity for students to develop their professional skill set in preparation to be successful in the sport industry. Students will complete contact hours at a sport related site and be supervised by a site supervisor. Students will also critically reflect upon their practicum experiences via weekly log submissions. Students will also complete an agency analysis and portfolio at the conclusion of the course.",
+    "course-prerequsities": [
+      "SL 180"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sport Operations",
+    "courseid": "SL301",
+    "coursedescription": "The purpose of this course is expose students to the interworking of operations of sport organizations including risk, facility, and event management. Students will learn about the various procedures, protocols, and best practices for effectively organizing and managing sport events and facilities. Key topics of the course will include risk management, event planning process, budgeting, staffing, communications, and evaluation processes.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sport Marketing and Sales",
+    "courseid": "SL302",
+    "coursedescription": "The purpose of this course is to introduce students to the basic principles of sport marketing and equip them with the knowledge and skills necessary to be effective sport marketers. This introductory course will focus on the uniqueness of sport marketing, strategic marketing management, sport consumer behavior, data-based marketing and the role research in sport marketing, market segmentation, product and brand management, pricing strategies, promotions, sales, licensing, sponsorship, electronic media, public relations, legal aspects of sport marketing, evaluation methods in marketing, and the future directions of sport marketing.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Gender and Sport",
+    "courseid": "SL331",
+    "coursedescription": "This course explores the history and contemporary role of gender, sex, and sexism in sporting spaces. Significant sporting events along with political and sociocultural shifts in society will be examined using gender-based theoretical frameworks. Students will identify the ways in which and specific conditions when sport reinforces, resists, and/or reflects dominant gender ideologies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship II: Domestic",
+    "courseid": "SL380",
+    "coursedescription": "The purpose of this course is to provide an experiential learning opportunity for students to develop their professional skill set in preparation to be successful in the sport industry. Students will complete contact hours at a sport related site and be supervised by a site supervisor. Students will also critically reflect upon their practicum experience via weekly log submissions. Students will also complete an agency analysis and portfolio at the conclusion of the course.",
+    "course-prerequsities": [
+      "SL 180"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sport Law, Ethics, and Equity",
+    "courseid": "SL401",
+    "coursedescription": "The purpose of this course to introduce students to the legal doctrines, major statutes, standards, and case law that establish legal responsibilities, rights, privileges, and controls as it relates to managerial functions in the sport industry. Students will learn the intersections and distinctions between legality, ethics, and morality in relation to sport organizations and practices. Students will learn key ethical concepts, principles, and theories and explore the usefulness of applying these approaches and strategies to issues facing professionals in the sport management industry. Students will learn about how sport fosters equity and inequity in society. Key topical areas that will be covered in this course include ethical decision making, ethical leadership, and applied sport ethics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sport and Globalization",
+    "courseid": "SL420",
+    "coursedescription": "This course explores the globalization of the sports industry and its various implications including political, economic, social, cultural, and environmental. Students will be exposed to the organizational structures of professional, intercollegiate, interscholastic, youth, public, private, elite, and recreational sporting systems across international contexts.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Capstone: Sport and Social Change",
+    "courseid": "SL498",
+    "coursedescription": "The purpose of this course is to provide students with an opportunity to learn about the various ways sport can impact society positively. In this course, students will learn about different social issues connected to sport and engage in critical reflection on how to redress these issues. Through a series of readings, discussions, and assignments students will gain an understanding of how to create sporting spaces that improved equity in society.",
+    "course-prerequsities": [
+      "SL 101",
+      "SL 180"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

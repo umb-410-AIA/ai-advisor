@@ -1,0 +1,401 @@
+[
+  {
+    "coursename": "Introduction to Microeconomics",
+    "courseid": "ECON101",
+    "coursedescription": "A broad introductory survey in which special attention is given to the role of economic principles in analyzing and understanding current economic problems. Emphasis is given to the functioning of markets and to the behavior of individual economic units such as the business firm and the consumer (microeconomics). Other areas of emphasis vary from section to section and may include industrial organization, income distribution, international trade, economics of the environment, and other topics.",
+    "course-prerequsities": [
+      "MATH 114Q",
+      "115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Macroeconomics",
+    "courseid": "ECON102",
+    "coursedescription": "A broad introductory survey in which special attention is given to the role of economic principles in analyzing and understanding current economic problems. Emphasis is given to examining the overall functioning of the economy and to such matters as unemployment, inflation and recession. Other areas of emphasis vary from section to section and may include economics of government spending and taxation, economic development, alternative economic systems, and other topics.",
+    "course-prerequsities": [
+      "MATH 114Q",
+      "115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Economic Ideas",
+    "courseid": "ECON110G",
+    "coursedescription": "This first-year seminar course presents basic economic concepts and tools of analysis in the context of current economic issues. Controversies over the distribution of income, the role of markets, pollution, or globalization are often addressed, although topics vary with the instructor.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Microeconomic Theory",
+    "courseid": "ECON201",
+    "coursedescription": "Analysis of consumer and firm behavior, and of the determination of prices and quantities in both product and factor markets. Equilibrium of the household, the firm, and the industry. Implications of alternative market structures. A theoretically oriented course that builds on the less rigorous foundation provided in introductory economics courses.",
+    "course-prerequsities": [
+      "ECON 101",
+      "MATH 129",
+      "MATH 130",
+      "MATH 134",
+      "140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Macroeconomic Theory",
+    "courseid": "ECON202",
+    "coursedescription": "An investigation of the forces determining national output, employment, and inflation. Particular attention is paid to those government policies which attempt to affect the overall level of economic activity in the US. A theoretically oriented course that builds on the less rigorous foundation provided in introductory economics courses.",
+    "course-prerequsities": [
+      "ECON 102",
+      "MATH 129",
+      "MATH 130",
+      "MATH 134",
+      "140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Statistical Methods",
+    "courseid": "ECON205",
+    "coursedescription": "A non-calculus introduction to statistical inference aimed at familiarizing students with common statistical concepts so they will be able to make intelligent evaluations of technical reports. Topics include descriptive statistics; probability, including the normal distribution; hypothesis testing, including t-tests; analysis of variance; regression and correlation.",
+    "course-prerequsities": [
+      "ECON 101",
+      "102",
+      "MATH 114Q",
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Economics of the Metropolitan Area",
+    "courseid": "ECON212G",
+    "coursedescription": "Why do some metropolitan areas prosper while others fall on hard times? This intermediate seminar course examines the underlying economic forces that shape the development of metropolitan areas, paying special attention to policy issues regarding land use, housing, transportation, and poverty. The course may count toward the major in economics.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G",
+      "ECON 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ecological Economics",
+    "courseid": "ECON214GL",
+    "coursedescription": "This course is an introduction to the field of ecological economics, which examines how the natural environment and human-made economy interact to provide the foundation for human society. This mostly non-mathematical course highlights the differences between mainstream economics and ecological economics, encouraging students to think critically about the assumptions used by each school of thought and the different implications for policy and human wellbeing. Topics include the environmental basis of the economy; the optimal size of the economy and prospects for a non-growing or steady-state economy; personal consumption issues and drivers; social welfare and how this can be measured; and the fair distribution of world resources.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Data Modeling through Data Visualization",
+    "courseid": "ECON305",
+    "coursedescription": "This course is designed to introduce students to statistical programming, data structure, and statistical inference through the latest data visualization techniques. Students will learn how to visually represent the relationship between two or more variables. Students will also be introduced to the merits and limitations of various causal inference techniques used in answering economic research questions through the use of graphs and hypothesis testing of means. Through a lecture and lab format, students will gain hands-on experience evaluating social scientific data with a statistical software package.",
+    "course-prerequsities": [
+      "ECON 101",
+      "102",
+      "ECON 205",
+      "MATH 125",
+      "MSIS 111"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Money and Financial Institutions",
+    "courseid": "ECON331",
+    "coursedescription": "An economic analysis of the US financial system, including examination of the major types of financial assets, financial markets, and financial institutions, as well as the major factors that determine asset prices and the structure of interest rates. Attention is given to the nature and operation of banking firms and the structure and regulation of the banking industry. Other topics may include the Federal Reserve and monetary policy; the determination of the money supply; recent trends in the banking industry; lending discrimination and community reinvestment; and current public policy issues in the areas of banking and finance.",
+    "course-prerequsities": [
+      "ECON 101",
+      "102"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "An economic analysis of the US financial system, including examination of the major types of financial assets, financial markets, and financial institutions, as well as the major factors that determine asset prices and the structure of interest rates."
+      ]
+    }
+  },
+  {
+    "coursename": "International Trade",
+    "courseid": "ECON334",
+    "coursedescription": "An examination of alternative theories of international trade, including traditional neoclassical free trade approaches and newer theories addressing imperfect competition, economies of scale, national competitiveness issues, and managed trade. Topics also include the economic analysis of trade policies and trade imbalances: quotas, tariffs, GATT, free trade areas, NAFTA, trade problems and policies in economically developed and developing countries.",
+    "course-prerequsities": [
+      "ECON 101",
+      "102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "International Finance",
+    "courseid": "ECON335",
+    "coursedescription": "An examination of the theory of international finance, balance of payments and foreign exchange markets, open economy macroeconomic policy with capital mobility and exchange rate flexibility, international monetary regimes, and international monetary reform.",
+    "course-prerequsities": [
+      "ECON 101",
+      "102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Economic Development",
+    "courseid": "ECON336",
+    "coursedescription": "Topics include the economic meaning of underdevelopment; the role played by different kinds of resources; the evaluation of alternative \"strategies\" for economic growth and development; and the interaction between the problems of the under-developed countries of Africa, Asia, and Latin America and the policies of the US and other developed countries.",
+    "course-prerequsities": [
+      "ECON 101",
+      "102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Political Economy of International Migration",
+    "courseid": "ECON339",
+    "coursedescription": "This course investigates theories of and empirical evidence concerning (1) why humans migrate internationally, (2) their geographic destination and duration of stay in the host nation, (3) their labor market and fiscal effects, (4) their health and use of public medical assistance, and (5) the amount, frequency, mechanisms, and effects of remitting money to their home country.",
+    "course-prerequsities": [
+      "ECON 101",
+      "102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Economic Approaches to Environmental Problems",
+    "courseid": "ECON349L",
+    "coursedescription": "An introduction to the economist's approach to solving environmental problems. The course examines applicable economic theories, then uses them to develop a framework for analyzing a wide range of environmental issues. Topics include benefit/cost analysis; measurement of environmental damages; and current government approaches to solving air, water, and solid waste pollution problems.",
+    "course-prerequsities": [
+      "ENVSCI 122",
+      "ECON 100",
+      "101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "ECON370",
+    "coursedescription": "This course provides an opportunity, at the 300 level, for the department to offer one-time-only courses on special topics of current interest to faculty members and students. It also is sometimes used as a way of offering proposed new courses on a trial basis before they are officially approved as part of the economics curriculum.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course provides an opportunity, at the 300 level, for the department to offer one-time-only courses on special topics of current interest to faculty members and students."
+      ]
+    }
+  },
+  {
+    "coursename": "Economics of Education",
+    "courseid": "ECON385",
+    "coursedescription": "This course deals with a variety of questions about the role of education in the economy and about economic aspects of the educational system. First, attention is given to the historical development of US public education and to different theories trying to explain that development. Students examine such issues as: Does education make people more productive? If so, how? Does education affect people's behavior in ways that make them \"fit\" better or worse in the large enterprises of the economy? Whose interests are served by the structure of our educational system? How does the educational system affect economic, social and political equality? Much of the course is devoted to particular controversies, for example, the issue of school choice, merit pay for teachers, the equalizing or disequalizing impacts of schooling, the importance of education in making the US \"more competitive.\"",
+    "course-prerequsities": [
+      "ECON 101",
+      "102"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Whose interests are served by the structure of our educational system?"
+      ]
+    }
+  },
+  {
+    "coursename": "Labor Market Economics",
+    "courseid": "ECON390",
+    "coursedescription": "An analysis of labor as an economic resource. Topics include the demand and supply of labor; wage determination and the structure of labor markets; income distribution, discrimination and inequality; unemployment and contingent work; labor as a macroeconomic variable, and public policies affecting the labor market.",
+    "course-prerequsities": [
+      "ECON 101",
+      "102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Unions and Collective Bargaining",
+    "courseid": "ECON391",
+    "coursedescription": "An analysis of work and the institutions of workers. The course surveys labor history, labor unions, labor laws, organizing, collective bargaining, strikes, international competition, and how globalization is affecting work and worker's ability to organize and improve their working conditions.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Economics of Social Welfare",
+    "courseid": "ECON395",
+    "coursedescription": "This class examines poverty in the US, what causes poverty, and solutions to poverty, as well as how the US compares to other countries. It provides tools to evaluate social welfare and poverty programs and examines theories for why people are poor, and examines major economic security programs in the United States, such as Social Security and Temporary Assistance to Needy Families.",
+    "course-prerequsities": [
+      "ECON 100",
+      "101",
+      "102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Economics of Inequality",
+    "courseid": "ECON396",
+    "coursedescription": "This course examines the nature and extent of income inequality primarily in the U.S. but with a comparative perspective. We will begin by describing the trends in income inequality in the United States in comparison to other developed nations. We will consider possible causes and consequences of income inequality. We will examine a range of social and economic effects on income inequality including economic growth, intergenerational economic mobility, educational outcomes as well as health and happiness outcomes. We will then describe policies focused on households in both the top and the bottom of the income distribution.In addition to introduction students to the forces behind inequality, This course offers students the opportunity to work on critical analysis skills in a small-sized course. this includes reading thoughtfully, by assessing the arguments and evidence provided by authors; thinking carefully about one's own beliefs and how they shape one's perspective on these issues; and communicating well-articulated arguments, both orally and in a written form.",
+    "course-prerequsities": [
+      "ECON 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Topics in Development Economics",
+    "courseid": "ECON407",
+    "coursedescription": "This course has two aims. In the first four weeks of the semester students will be introduced to some core issues in Development Economics. These topics will be covered at a more advanced level than they are covered in existing courses and will provide the basic framework for the remainder of the course. In the second part of the course, which constitutes the bulk, students will have an opportunity to engage with a specific topic in greater depth. This topic will vary with the instructor teaching the course. The proposed topics are: Urbanization in Developing Countries, Poverty and Inequality, Structural Change and Transformation, Gender and Development, War, Macroeconomic Issues in Developing Countries, and Political Economy of Development. Whichever the area, students will be given the skills necessary to critically analyze the process of economic development, to identify the winners and losers in this process, and to appreciate what would constitute just and sustainable policy in that area.",
+    "course-prerequsities": [
+      "ECON 101",
+      "ECON 102",
+      "ECON 201",
+      "ECON 202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Topics in Urban Economics",
+    "courseid": "ECON413",
+    "coursedescription": "At the most general level, urban economics introduces space into economic models and studies the location of economic activity. This course is organized around three primary sets of questions within the field of urban economics. The first focuses on the development of urban areas. Why do cities exist and why do some grow more rapidly? The second area addresses patterns of development within metropolitan areas. How do firms and households decide where to locate within given metropolitan areas? What determines the price of land, and how do these prices vary across space? The third and final area concerns the spatial dimensions of urban problems. Specifically, we will examine poverty, housing, and congestion. In addition to a rigorous study of urban economic theory, this course will also include a team based consulting project for a specific client in the city of Boston. Students will receive their client at the beginning of the semester and will conduct original empirical research to address their client's concerns.",
+    "course-prerequsities": [
+      "ECON 101",
+      "ECON 205",
+      "MATH 125",
+      "MSIS 111L",
+      "PSYCH 370",
+      "ENVSCI 261"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Econometrics",
+    "courseid": "ECON452",
+    "coursedescription": "This is a course in the techniques of estimating economic models. The uses and pitfalls of empirical estimation in economics will be examined. In addition to lectures, there will be a weekly two-hour computer lab, where students will apply these methods using econometric software.",
+    "course-prerequsities": [
+      "ECON 201",
+      "202",
+      "ECON 205",
+      "MATH 125",
+      "MSIS 111"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Economics",
+    "courseid": "ECON476",
+    "coursedescription": "Carefully supervised field work for eight or sixteen hours per week in Boston-area institutions that conduct research on economic issues-e.g. government and non-government organizations.",
+    "course-prerequsities": [
+      "ECON 205",
+      "201",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ECON479",
+    "coursedescription": "Research and reading in any area in economics: the purpose of this course is to allow the student to do advanced work in an area of economics to which he or she has already been exposed or to investigate an entirely new area.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Senior Independent Study",
+    "courseid": "ECON481",
+    "coursedescription": "Reading and research, under the direction of an individual faculty member, that builds on knowledge and skills obtained in a student's previous economics courses and that culminates in the production of a substantial research paper.",
+    "course-prerequsities": [
+      "80"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Senior Honors Project",
+    "courseid": "ECON489",
+    "coursedescription": "Closely supervised individual research on a topic chosen by a student in consultation with a faculty supervisor. The course's aim is to enable highly qualified students to undertake the preliminary exploration-reading, thinking, data-gathering-necessary for the successful undertaking of writing a senior honors thesis during the following term. The thesis prospectus must be completed and accepted by the student's proposed thesis supervisor before enrollment.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Senior Honors Thesis",
+    "courseid": "ECON490",
+    "coursedescription": "Closely supervised individual research resulting in the completion of a senior honors thesis. Topics will be mutually agreed upon by students and their faculty supervisors, on the basis of the thesis prospectus (See Economics 489). At the beginning of the term the department chairperson will, in consultation with the thesis supervisor, appoint a second reader for the thesis, who will be available for consultation during the term. On completion of the thesis, and its acceptance by the supervisor and the second reader, the student will present an oral summary of his or her research at a seminar open to all economics students and faculty.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Topics in Development Economics",
+    "courseid": "ECON607",
+    "coursedescription": "This course has two aims. In the first four weeks of the semester students will be introduced to some core issues in development Economics. these topics will provide the basic framework for the remainder of the course. In the second part of the course, which constitutes the bulk, students will have an opportunity to engage with a specific topic in greater depth. this topic will vary with the instructor teaching the course. Topics include: Urbanization in Developing countries, Poverty and Inequality, Structural Change and Transformation, Gender and development, War, Macroeconomic Issues in Developing Countries, and Political Economy of Development. Whichever the area, students will be given the skills necessary to critically analyze the process of economic development, to identify the winners and losers in this process, and to appreciate what would constitute just and sustainable policy in that area.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Political Economy",
+    "courseid": "ECON610",
+    "coursedescription": "This course exposes students to the major paradigms in heterodox political economy through a set of economic topics that are central to these paradigms. Heterodox political economic paradigms include Marxist, post-keynesian, intuitional, and feminist approaches. We will use these various approaches to examine topics of particular interest to political economists including the historical rise of capitalism, workplace relations, poverty and income distribution, economic growth (accumulation) and crisis, financialization, globalization, development, gender, race, and ecological change.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "We will use these various approaches to examine topics of particular interest to political economists including the historical rise of capitalism, workplace relations, poverty and income distribution, economic growth (accumulation) and crisis, financialization, globalization, development, gender, race, and ecological change."
+      ]
+    }
+  },
+  {
+    "coursename": "Urban Economic Environment",
+    "courseid": "ECON613",
+    "coursedescription": "This course offers an examination of the wonders and paradoxes of urban life, with a focus on current dynamics of urban location and prosperity in the context of a global economy. It examines forces that shaped the evolution of cities and metropolitan regions, assesses a range of policy issues confronting metropolitan areas today and the respective roles played by private and public sectors in addressing those challenges, explores global forces that are transforming cities and regions throughout the world, and addresses key questions of urban well-being, civility, and civic engagement.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Quantitative Research Methods II",
+    "courseid": "ECON652",
+    "coursedescription": "The course offers a presentation of modern econometric practice. It will cover the theory and application of ordinary least-squares regression (OLS) in the context of cross-sectional, time-series, and panel data, with special emphasis placed on an applied understanding of the potential and limitations of this approach. In addition to OLS, topics will also include fixed effects, difference-indifference, regression discontinuity, and limited dependent variable regression techniques. Students will learn at least one statistical package as Stata, SPSS, or SAS. Emphasis is placed on training creative quantitative researchers.",
+    "course-prerequsities": [
+      "ECON 651"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Economics of Renewables: Marine and Energy Resources",
+    "courseid": "ECON675L",
+    "coursedescription": "This course introduces students to the use of economic analysis in helping to solve marine and energy related natural resource problems. The first part of the course focuses on the economic theory used to analyze natural resource and energy issues. In the latter half of the course these theoretical tools will be used as a framework to analyze a wide range of issues dealing with marine resources and renewable energy. The purpose of the course is to expose students to sufficiently rigorous economics analysis to enable them to appreciate the usefulness of the economic approach to resource and renewable energy problem solving and to critique economic analyses they may be presented with in future decision-making roles.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ECON695",
+    "coursedescription": "Study of a particular area of economics under the supervision of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Mentored Research Project",
+    "courseid": "ECON698",
+    "coursedescription": "Economics 698 is a course designed to facilitate completion of the capstone project (or thesis), a critical requirement for the MA degree in Applied Economics. All students taking the course will be required to design and complete a comprehensive research project that includes the relevant literature, description of methods and data used, analysis of the findings and implications of the research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

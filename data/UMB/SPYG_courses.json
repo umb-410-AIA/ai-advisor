@@ -1,0 +1,83 @@
+[
+  {
+    "coursename": "Standardized Assessment and Report Writing",
+    "courseid": "SPYG602",
+    "coursedescription": "The purpose of this course is to develop basic skills in the individual assessment of intellectual and cognitive functioning. Both theoretical and practical aspects of the assessment process will be emphasized. Factors affecting test results, including racial, cultural, and ethnic diversity, language difference, and ability difference, will be considered. Successful students will become proficient in test administration and scoring, assessment planning and interpretation using the Cattell-Horn-Carroll (CHC) theory, and communicating assessment findings orally and in writing. Topics include ethical, professional, and legal aspects of cognitive assessment, understanding and minimizing bias in testing, and approaching assessment with a social justice lens. This course is designed for counseling and school psychology students only as the tests covered in this course are secure instruments that can be administered only by appropriately-credentialed psychologists.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Social, Emotional, and Behavioral Assessment and Intervention",
+    "courseid": "SPYG604",
+    "coursedescription": "This course develops competence in administering and scoring selected personality, behavioral, social/emotional, and adaptive behavior measures, and in preparing meaningful interpretations of those test results. Topics include psychological theory and practical issues involved in clinical assessment. Close attention is paid to the psychometric adequacy of various assessment methods, ethical aspects of assessment, and issues of clinical judgment. Emphasis is placed on multi-method, multi-source strategies using approaches such as direct observation, interviewing techniques, rating scales, and self-report measures. The projective hypothesis and projective methods are reviewed, including storytelling and drawing techniques. Special issues in cross-cultural assessment and in assessing minority students and students with disabilities are considered. Links between assessment results and intervention recommendations are stressed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "School-Based Interventions and Data-Based Decision Making",
+    "courseid": "SPYG607",
+    "coursedescription": "Attention is focused on the techniques of synthesizing educational, child development, and psychological information into effective prevention programs as well as individual and group interventions for students at-risk for special education and with disabilities. The course uses a problem solving approach and the theoretical and practical underpinnings of the evidence-based practice movement to facilitate student development, monitoring, and evaluation of effective academic, social, emotional, and behavioral intervention strategies with emphasis on direct and indirect evidence-based interventions. The course will also emphasize data-based decision making pertaining to matching treatments to reasons for problems students are experiencing, progress monitoring, as well as determining student responses to intervention.",
+    "course-prerequsities": [
+      "G 602",
+      "604",
+      "COUNSL 614"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Systems Consultation, Prevention, and Organizational Change",
+    "courseid": "SPYG608",
+    "coursedescription": "This course is designed to provide students with competencies regarding system-level prevention programming in schools and organizational change. The course will provide theoretical, empirical, and practical foundations for school prevention programming as it related to the academic, behavioral, socio/emotional, mental health and crisis related problems in grades k-12.",
+    "course-prerequsities": [
+      "G 603",
+      "G 604",
+      "COUNSL 614"
+    ],
+    "course-corequisites": [
+      "COUNSL 632"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Learning and the Curriculum",
+    "courseid": "SPYG612",
+    "coursedescription": "This course uses theoretical and applied perspectives to explain how children and adolescents develop skills and knowledge in schools. Theoretical perspectives emphasize ecological, behavioral, and cognitive models of learning. With regard to application, theoretical perspectives on learning point to curriculum as a source of learning objectives and goals intended to guide instruction and assessment. Empirical research pertaining to instruction, assessment, and curriculum will be reviewed for purposes o using a rigorous evidence base to evaluate curriculum programs in core content (e.g., English language arts, mathematics).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Culturally Responsive Practice & Social Justice in School Psychology",
+    "courseid": "SPYG653",
+    "coursedescription": "This course is designed to provide an introduction to cultural, socioeconomic, and ethnic factors that impact service delivery by counselors and school psychologists in schools. Students will develop an appreciation for and understanding of their own cultural, socioeconomic, and ethnic backgrounds. From there, they will develop appreciation for and understanding of their clients-children and adolescents in schools, their families, and entities that support them-as well as other educators and professionals in the educational systems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum II: School-Based Assessment & Intervention",
+    "courseid": "SPYG686",
+    "coursedescription": "Each student is matched with a practicing school psychologist 1.5 days per week in order to apply the skills consistent with the NASP practice model. 250 clock hours (125 hours per semester) of field experience are required in addition to attending the weekly seminar. The purpose of this course is twofold: 1. To provide graduate students in school psychology a field-based practicum experience in an urban setting with students of diverse backgrounds. Activities will focus on individual and systemic variables as well as policies and practices while engaging in the implementation of consultation, assessment, prevention, and intervention activities. Formal and informal needs assessments will be a continuous aspect of this practicum with services determined by the needs identified by students, staff, and administration. 2. To provide graduate students in school psychology a group supervision experience via the weekly seminar, during which students will build professional skills and critical personal qualities through reflection and peer support.",
+    "course-prerequsities": [
+      "G 601",
+      "G 602",
+      "COUNSL 614"
+    ],
+    "course-corequisites": [
+      "G 603",
+      "G 604"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Internship in School Psychology",
+    "courseid": "SPYG689",
+    "coursedescription": "The internship placement consists of a full-time fieldwork experience at the elementary, middle, and high school levels, under the supervision of a practicing licensed school psychologist. This course provides 1200 hours of supervised internship required for state and national certification. The first 600 hours of the internship must be in an approved school setting. The second may be in a school setting or a clinical setting (under the supervision of a licensed or certified psychologist). Students take this course in conjunction with an internship seminar. The seminar includes lectures and discussions about state and national certification requirements, case studies, assessments and multidisciplinary evaluations, legal and ethical concerns, issues of inclusivity, diversity, equity, and access, and general topics related to the internship experience. Capstone portfolio and daily log are required. University supervision and the approval of the Program Director are required. The course is taken for 6 Lecture Hours (6 credits during fall semester), and 6 Lecture Hours (6 Credits during spring semester).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

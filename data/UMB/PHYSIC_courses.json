@@ -1,0 +1,336 @@
+[
+  {
+    "coursename": "College Physics I",
+    "courseid": "PHYSIC107",
+    "coursedescription": "Non-calculus introductory physics for life-science students and others with a program requirement for a year of physics at this level. Topics include mechanics, fluids, wave motion, kinetic theory of gases, temperature and heat.",
+    "course-prerequsities": [
+      "MATH 130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "College Physics II",
+    "courseid": "PHYSIC108",
+    "coursedescription": "A continuation of PHYSIC 107. Topics include thermodynamics, electricity, and magnetism; optics; and a preview of modern physics.",
+    "course-prerequsities": [
+      "PHYSIC 107"
+    ],
+    "course-corequisites": [
+      "MATH 130"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Fundamentals of Physics I",
+    "courseid": "PHYSIC113",
+    "coursedescription": "The first semester of calculus-level introductory physics. Topics include mechanics, fluids, waves, kinetic theory, and heat.",
+    "course-prerequsities": [
+      "MATH 140",
+      "PHYSIC 181"
+    ],
+    "course-corequisites": [
+      "MATH 140",
+      "PHYSIC 181"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Fundamentals of Physics II",
+    "courseid": "PHYSIC114",
+    "coursedescription": "The second semester of calculus-level introductory physics. Topics include thermodynamics, electricity and magnetism, geometrical and wave optics.",
+    "course-prerequsities": [
+      "PHYSIC 113"
+    ],
+    "course-corequisites": [
+      "MATH 141"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Solar System Astronomy",
+    "courseid": "PHYSIC126",
+    "coursedescription": "Descriptive introduction to the study of the solar system and its structure. Topics include the historical development of early astronomy; the properties of the sun; the planets and their satellites; comets, asteroids, and meteorites; the results of spacecraft exploration.",
+    "course-prerequsities": [
+      "Q114"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Energy for the Future",
+    "courseid": "PHYSIC134",
+    "coursedescription": "The current means of providing energy for our society are not sustainable. The need for secure, alternative and clean sources of power is increasingly apparent. This course, intended for a general audience, provides an overview of the energy problem. It covers the ways we currently obtain and use power and considers the scientific and technological issues involved in emerging technologies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introductory Physics Lab for Life Sciences I",
+    "courseid": "PHYSIC171",
+    "coursedescription": "A lab course, designed to be paired with the first semester Introductory Physics lecture course with a syllabus targeted towards students in the life sciences.",
+    "course-prerequsities": [
+      "PHYSIC 107",
+      "PHYSIC 113"
+    ],
+    "course-corequisites": [
+      "PHYSIC 107",
+      "PHYSIC 113"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Introductory Physics Lab II for Life Sciences",
+    "courseid": "PHYSIC172",
+    "coursedescription": "A lab course, designed to be paired with the second semester introductory Physics lecture course with a syllabus targeted towards students in the life sciences.",
+    "course-prerequsities": [
+      "PHYSIC 171",
+      "PHYSIC 181"
+    ],
+    "course-corequisites": [
+      "PHYSIC 108",
+      "PHYSIC 114"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Physics Laboratory I",
+    "courseid": "PHYSIC181",
+    "coursedescription": "Exploration of basic physical phenomena through laboratory work. Experiments in kinematics, mechanics and hydrostatics. This course is designed to accompany either level of introductory physics.",
+    "course-prerequsities": [
+      "PHYSIC 107",
+      "113"
+    ],
+    "course-corequisites": [
+      "PHYSIC 107",
+      "113"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Physics Laboratory II",
+    "courseid": "PHYSIC182",
+    "coursedescription": "Exploration of basic physical phenomena through laboratory work. Experiments in thermodynamics, electricity, magnetism and optics. This course is designed to accompany either level of introductory physics.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "114"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Physics",
+    "courseid": "PHYSIC197",
+    "coursedescription": "This is a 100 level special topics theory class in Physics. Course content and credits vary according to topic and will be announced prior to registration. Several topics may be offered each semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Contemporary Physics",
+    "courseid": "PHYSIC211",
+    "coursedescription": "The third semester of calculus-level introductory physics. Topics include special relativity; the historical development of quantum theory; elements of quantum mechanics; with applications to atomic, molecular, solid state, nuclear and particle physics.",
+    "course-prerequsities": [
+      "PHYSIC 114"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Thermodynamics",
+    "courseid": "PHYSIC214",
+    "coursedescription": "An introduction to the principles of thermodynamics. Concepts include temperature, internal energy, heat, free energy, entropy, work, and the laws which relate them to each other. Application is made to systems including ideal gases, heat engines and refrigerators.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MATH 240",
+      "MATH 242"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Mechanics",
+    "courseid": "PHYSIC312",
+    "coursedescription": "Principles of Newtonian mechanics, conservation laws, gravitational potential theory, and conservative fields, central forces, oscillatory systems, rigid body rotation, and relativistic mechanics.",
+    "course-prerequsities": [
+      "PHYSIC 211",
+      "MATH 270"
+    ],
+    "course-corequisites": [
+      "MATH 270"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Theory of Electricity and Magnetism II",
+    "courseid": "PHYSIC322",
+    "coursedescription": "A continuation of PHYSIC 321. Description of the phenomena of electricity and magnetism in mathematical terms, boundary value problems and boundary conditions, transmission lines, wave guides, radiation from a moving charge, and special relativity.",
+    "course-prerequsities": [
+      "PHYSIC 321",
+      "MATH 242",
+      "242R"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computational Science",
+    "courseid": "PHYSIC362",
+    "coursedescription": "This course provides an introduction to the uses of computational tools in physics and other natural sciences. While we study numerical methods and programming, the emphasis is on computation as an aid to understanding physical systems.",
+    "course-prerequsities": [
+      "PHYSIC 113",
+      "MATH 140",
+      "CS 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Laboratory",
+    "courseid": "PHYSIC382",
+    "coursedescription": "Experiments in geometrical and physical optics, electronics, atomic physics, and nuclear physics. Individual program of experiments for each student according to his or her interests and previous experience.",
+    "course-prerequsities": [
+      "PHYSIC 281"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Individual program of experiments for each student according to his or her interests and previous experience."
+      ]
+    }
+  },
+  {
+    "coursename": "Special Topics in Physics",
+    "courseid": "PHYSIC397",
+    "coursedescription": "This is a 300 level special topics theory class in Physics. Course content and credits vary according to topic and will be announced prior to registration. Several topics may be offered each semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Quantum Information IV: Quantum Science Applications",
+    "courseid": "PHYSIC447",
+    "coursedescription": "This course is devoted to applications of Quantum Information Science. The course is divided in three parts. Part I is a survey of current implementation schemes from quantum computers, from superconducting flux qubits to ion traps to NMR to adiabatic computers like D-wave. Part II is devoted to simulating quantum systems and quantum computers. Using the package QUTIP (see http://qutip.org/docs/latest/installation.html) students will learn how to simulate quantum circuits and quantum systems on a classical computer and perform some quantum algorithms. In part III, students will learn how to program a real quantum computer using the IBM Quantum Experience module and will write software for real quantum computers.",
+    "course-prerequsities": [
+      "PHYSIC 247",
+      "PHYSIC 347",
+      "PHYSIC 351"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Readings in Physics I",
+    "courseid": "PHYSIC479",
+    "coursedescription": "Supervised individual study of special topics in physics that are not available in regular courses.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Readings in Physics II",
+    "courseid": "PHYSIC480",
+    "coursedescription": "Supervised individual study of special topics in physics that are not available in regular courses.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Adv Projects Lab",
+    "courseid": "PHYSIC482",
+    "coursedescription": "Individual projects laboratory under the guidance of faculty in experimental and applied physics. An opportunity for the student to coordinate knowledge from mathematics, basic sciences and engineering sciences in the development of a specific project. Selected projects will emphasize design, analysis, development and evaluation; they will be chosen to simulate, as closely as possible, situations that might occur in industrial research and development.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research in Physics I",
+    "courseid": "PHYSIC487",
+    "coursedescription": "Supervised research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research Physics II",
+    "courseid": "PHYSIC488",
+    "coursedescription": "Supervised research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Thermodynamics and Statistical Mechanics",
+    "courseid": "PHYSIC614",
+    "coursedescription": "A lecture course on the principles of thermodynamics and statistical mechanics. Topics include: fundamentals of thermodynamics, first and second laws, thermodynamic potentials, phase transitions, classical kinetic theory, classical statistical mechanics, and quantum statistical mechanics. Applications of the principles will be made to physical, chemical, and biological systems of special or current interest.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Applications of the principles will be made to physical, chemical, and biological systems of special or current interest."
+      ]
+    }
+  },
+  {
+    "coursename": "Computational Science",
+    "courseid": "PHYSIC662",
+    "coursedescription": "This course provides an introduction to the uses of computational tools in physics and other natural sciences. While we study numerical methods and programming, the emphasis is on computation as an aid to understanding physical systems. Students are expected to have a background in undergraduate level science and mathematics, as well as a basic knowledge of programming. Students who are not matriculated in the Applied Physics graduate program may enroll with the permission of the instructor. The course material is intended to be accessible to a scientifically diverse student body, including students in mathematics, computer science, physical and other natural sciences.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students who are not matriculated in the Applied Physics graduate program may enroll with the permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "Readings in Physics",
+    "courseid": "PHYSIC680",
+    "coursedescription": "An opportunity for qualified graduate students to pursue advanced independent readings in specialized topics in applied physics, with the guidance of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Projects in Physics",
+    "courseid": "PHYSIC690",
+    "coursedescription": "Qualified graduate students may pursue advanced independent projects in applied physics, with the guidance of a faculty supervisor.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Master's Internship",
+    "courseid": "PHYSIC694",
+    "coursedescription": "Master's Internship",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Applied Physics",
+    "courseid": "PHYSIC697",
+    "coursedescription": "The study of a particular topic of current interest in applied physics, such as photonics, nuclear reactor physics, semiconductor device physics, superconductivity, magnetic resonance.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The study of a particular topic of current interest in applied physics, such as photonics, nuclear reactor physics, semiconductor device physics, superconductivity, magnetic resonance."
+      ]
+    }
+  },
+  {
+    "coursename": "Master's Thesis Research",
+    "courseid": "PHYSIC699",
+    "coursedescription": "Master's Thesis Research in Physics",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Doctoral Dissertation Research",
+    "courseid": "PHYSIC899",
+    "coursedescription": "This is a repeatable research course culminating in the completion of doctoral thesis and the associated defense of the findings.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

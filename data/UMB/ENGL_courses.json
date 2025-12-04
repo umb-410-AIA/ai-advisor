@@ -1,0 +1,772 @@
+[
+  {
+    "coursename": "Composition I",
+    "courseid": "ENGL101",
+    "coursedescription": "Composition I is an introductory course on writing theory and practice that helps undergraduate students develop critical, flexible strategies for writing and reading across various contexts, communities, and disciplines. Through the study of theories of writing, students in Composition I gain knowledge of core key concepts, including audience, purpose, and genre, which help them understand writing as a rhetorical meaning-making activity that responds to situations and generates new perspectives. Through cycles of writing, feedback, revision, and reflection, students advance their ability to develop informed, critical perspectives and articulate claims in dialogue with complex texts. Students gain rhetorical awareness by composing texts that account for audience expectations for language and genre and reflecting on their own writing and learning. The flexible, adaptable writing knowledge and practices developed in Composition I are designed to facilitate students' self-reflective writing in other contexts.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Composition II",
+    "courseid": "ENGL102",
+    "coursedescription": "Composition II is an introductory course on writing theory and practice that reinforces and extends the foundational knowledge and practices introduced in Composition I. While students in Composition I focus primarily on writing to make meaning, students in Composition II learn how writing produces knowledge. Students come to understand writing as a knowledge-producing activity through carefully sequenced and scaffolded assignments that encourage them to develop, sustain, and reflect on their own academic inquiry and research processes. Assignments ask students to develop original research questions, locate and evaluate primary and secondary sources, select evidence from multiple complex texts, synthesize evidence-based arguments that use sources to address their inquiry, and reflect on their own learning and development. In conjunction with Composition I, students in Composition II continue to develop the ability to generate and articulate their own claims in dialogue with texts and to develop rhetorical awareness and knowledge of academic discourse conventions. The flexible, adaptable writing knowledge and practices developed across Composition I and Composition II are designed to facilitate students' ability to write self-reflectively in other contexts, which includes intermediate seminars, upperlevel courses, and the Writing Proficiency Requirement.",
+    "course-prerequsities": [
+      "ENGL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Reading Like a Writer",
+    "courseid": "ENGL110",
+    "coursedescription": "Students will learn to understand, use, and refine the techniques used by creative writers. Through weekly readings and discussion, students will become acquainted with how individual works of literature produce their effects, focusing not so much on what a piece means, but how meaning is made. Classic and contemporary examples of the genres of poetry and fiction will be studies with the goal of understanding the ways writers imagine elements of language, structure, and process to create a fully developed work. Class work will include in-class writing, examinations, creative-writing assignments, and attendance at one poetry or fiction reading during the semester with the goal of producing a final portfolio of creative work.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Language, Writing, and Cultural Exchange",
+    "courseid": "ENGL111E",
+    "coursedescription": "Language, Writing, and Cultural Exchange",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Young Adult Literature",
+    "courseid": "ENGL126",
+    "coursedescription": "Young adult fiction is a booming segment of the book publishing industry. This course investigates why, in our increasingly sophisticated storytelling culture, we turn to novels that are supposedly aimed at a \"younger\" audience. What attracts readers of all ages to young adult literature? We will examine how these novels use well-known plot structures and literary devices to create compellingly artistic stories. We will also examine how young adult literature tackles difficult topics, such as race, class, gender, and sexuality, in stories that mange to be both accessible and deeply thought provoking in their portrayals of diversity. Although this class features young adult literature, it has a heavy reading load and a fast-paced reading schedule.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Aging & Wisdom",
+    "courseid": "ENGL126G",
+    "coursedescription": "This course is a First Year Seminar for non-native speakers of English. We will examine varied historical, cross-cultural, and literary views on aging and wisdom. Through a wide range of texts and genres, a visit to a nursing home and an interview with an octogenarian, we will take an in-depth look at the way individuals, society and families deal with and view the elderly, death and dying. We will analyze the causes and effects of these attitudes and how they relate to social and political expectations, policies and changes.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Food Matters",
+    "courseid": "ENGL127G",
+    "coursedescription": "Why does food matter? In this class we will explore our relationship to food and the role we play in the complex food system. We will read a selection of texts from a variety of genres as we examine different views on the meaning of food, food consumption, production and sustainability. With the help of the readings and class materials, we will reconsider the ways in which we think about food and the association we have with food, and we will carefully reflect on the implications of our food choices and our responsibilities as consumers in the complex food system. We will have a wiki that I created for our class. Students will be able to extend our class discussions to cyberspace by having a place to further communicate with each other and exchange views and opinions on the issues discussed in class, as well as posting some assignments for review.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Literature and the Visual Arts",
+    "courseid": "ENGL181G",
+    "coursedescription": "This is a course about the artistic aspects of literature. Students consider the nature of art-what it is, what it does, why it matters. The course analyzes a variety of works drawn from three genres-the short story, poetry, and drama. Topics include censorship, public funding for the arts, and contemporary critical theory.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Literature and Society",
+    "courseid": "ENGL183G",
+    "coursedescription": "Introduction to the ways in which literary works represent a particular aspect of society, such as work, education, aging, or war. Close analytical reading of literary works with special attention to a writer's social milieu and choices of form (including figurative language and representations of speech), and how readers in varying social contexts have read and used the work.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Literature and Film",
+    "courseid": "ENGL185G",
+    "coursedescription": "An introductory examination of the relationship between moving pictures and the written word. Students will study how filmmakers and writers construct narrative, and how stories have been adapted across media. Other topics may include the following: the different ways that literature and film have dealt with the problem of realism, the use of iconic and symbolic modes, and the political implications of film.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Schooled: Rethinking Education",
+    "courseid": "ENGL187G",
+    "coursedescription": "Education is an institution at odds with itself: it's valued but never fully funded. Our goal is to prepare students for the future, but our teaching is rooted in the past. We want students to become independent, but we expect them to follow rigid rules. With all these contradictions it's no surprise that education doesn't 'work' for every student. This class will problematize education by examining our own experiences, looking at literary representations of school and learning, and putting both of them in conversation with what theorists and experts have to say. We will ask whether what we read can lead to a deeper understanding of our own experiences and our culture by examining themes such as gender, race and racism, socioeconomic and poverty, literacy and language and power structures. Working with critical concepts and terminology will enable us to reach a better understanding of how the writing we read works and will help us tell own stories more effectively. In the end you will use your understanding and your experience as a means to developing a potential solution to one of the problems of education.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Literary Studies",
+    "courseid": "ENGL200",
+    "coursedescription": "This course introduces students to the practice of literary studies, with a particular emphasis on the skills involved in close reading and analytical writing. Through an exploration of fiction, drama, and poetry, students will develop the capacity to consider texts in their historical and cultural contexts as well as to apply a range of critical frameworks. Ultimately, this course will equip students with a set of tools for interpretation and techniques for writing effectively about literature that will serve them throughout the English major.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Five British Authors",
+    "courseid": "ENGL201",
+    "coursedescription": "This course engages deeply with a small number of British texts spanning more than five centuries. Serving as an introduction to humanistic and literary studies, the course considers how these texts, written in both prose and verse, reflect, shape, and/or critique the dominant values of their ages. The course takes up such questions as what is literature and what makes it British? How do these texts engage with the history, dialects (early, modern, and contemporary), and fluidity of the English language? How do these works register and respond to the rise and decline of the British empire? How does the changing multiracial and multiethnic composition of Britain impact its literature over time? In order to address these questions and others, the course offers instruction in analytical reading and writing.",
+    "course-prerequsities": [
+      "ENGL 101",
+      "102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Six American Authors",
+    "courseid": "ENGL202",
+    "coursedescription": "This course introduces students to major concerns and genres in American literature through reading, discussing, and writing about a variety of significant texts. The course considers questions such as: How do American debates, including those about race, empire, gender, sexuality, individualism, and freedom shape major narratives? How have literary texts mirrored and intervened in the histories and cultures that shape the present and possible futures? And what unique insights does literature provide into those same histories and cultures? This course satisfies the US Diversity requirement, and as such, all sections will foreground marginalized perspectives and interrogate how literature both challenges and upholds oppressive social structures.",
+    "course-prerequsities": [
+      "ENGL 101",
+      "ENGL 102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Professional Writing",
+    "courseid": "ENGL204",
+    "coursedescription": "No matter what career they choose after graduation, successful professionals need to understand the dynamics of workplace writing. This course is designed to introduce students to rhetorical approach to workplace writing and support them along their chosen career path. This course will take a humanities approach to workplace writing, attending to the way language shapes the production and reception of workplace writing and its circulation. In this course, students will analyze common documents and the ways in which these documents create particular worlds for users. Students will compose workplace documents with specific attention to the needs of audiences and institutions. Time will also be spent paying attention to document design and usability. Finally, students will explore the ethics of workplace writing paying specific attention to how it uplifts or oppresses historically oppressed communities. Students will produce writing suitable for the writing proficiency requirement portfolio.",
+    "course-prerequsities": [
+      "ENGL 101",
+      "ENGL 102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Creative Writing",
+    "courseid": "ENGL210",
+    "coursedescription": "This course provides an introduction to the arts through the medium of creative writing. The course focuses on writing stories and poems, as well as reading fiction and poetry. Additional genres of writing may be introduced. Student writing is submitted weekly and discussed in class. Students are encouraged to explore issues of literary form, style, and voice, developing creativity and experiencing the importance of artistic expression.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Creative Writing: Poetry",
+    "courseid": "ENGL211",
+    "coursedescription": "This course provides an introduction to the writing of poetry for students who may or may not have had prior experience. Students read poetry as a basis for learning to write it, and class discussion focuses both on assigned readings and on student work. Student writing is submitted weekly and is strengthened through in-class workshops, revision exercises, and portfolio compilations. Individual conferences with the instructor are required. Students are encouraged to explore issues of poetic form and content, developing knowledge about poetry while developing creative, analytical, and artistic skills.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Creative Writing: Fiction",
+    "courseid": "ENGL212",
+    "coursedescription": "This course provides an introduction to the writing of fiction for students who may or may not have had prior experience. Students read fiction as a basis for learning to write it, and class discussion focuses both on assigned readings and on student work. Student writing is submitted weekly and is strengthened through in-class workshops, revision exercises, and portfolio compilations. Individual conferences with the instructor are required. Students are encouraged to explore prose fiction's form and content, developing knowledge about fiction while developing creative, analytical, and artistic skills.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Reading and Writing Journalism",
+    "courseid": "ENGL216",
+    "coursedescription": "This introductory course provides students with a foundation in the art of journalism with an emphasis on critical reading and writing. Throughout the semester, students read classic and contemporary works by prize-winning journalists and produce and analytical responses that consider these works with respect to critical debates in the field--questions of objectivity, representation, reporting methods, and the public interest. Using these writers as models, the course covers principles of style, structure, audience, and genre, as well as the legal and ethical frameworks that govern the journalistic profession. Through guided writing assignments, students are invited to try their hand at a range of journalistic genres, such as news reporting, profiles, and editorials.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Throughout the semester, students read classic and contemporary works by prize-winning journalists and produce and analytical responses that consider these works with respect to critical debates in the field--questions of objectivity, representation, reporting methods, and the public interest."
+      ]
+    }
+  },
+  {
+    "coursename": "Latino/Latina/Latinx Literature",
+    "courseid": "ENGL223L",
+    "coursedescription": "This course will offer a survey of Latino/a/x literary voices drawn from the Mexican, Puerto Rican, Dominican, Cuban, and other Latin American migrations to the U.S. In addition to encountering a range of genres, students in this course will explore concepts, such as the bilingual self; the barrio vs. the borderland; immigrant autobiography; and the construction of ethnic American literature itself.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Reading, Writing, and Archives: Literary Boston",
+    "courseid": "ENGL236",
+    "coursedescription": "Whose story gets told? How is that story told and remembered? Whose story doesn't get told, or gets hidden? The answers to these questions for students of literature, rhetoric, and language are found in archives, living treasures of human experience. This course is an exploration of archives generally and Boston archives in particular, as it creates an opportunity for students to read and interpret letters, diaries, journals, books, short stories, publications, and other original literary material in order to discover the specific literary, cultural, geographic, and social moments in which they were created. The course will feature field trips, workshops, and instructional research sessions in order to engage with material like the Hemingway Papers at JFK Library and Archive, meet literary women preserved within the Schlesinger Library at Harvard's digital repository, learn about community archives for LGBTQ Boston, and examine multiple local collections from the University Archives and Special Collections on UMass Boston's campus. This course teaches basic methods for students to begin to construct and reconstruct stories, and to start out further work where the individual's interests in literature, writing, theory, and/or language may take them. The course is aligned with the aims of the Humanities General Education requirement which asks students to develop an informed appreciation of human culture and an exploration of the human condition, and is a hands-on, Interactive course designed with the support of the Mellon Foundation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course teaches basic methods for students to begin to construct and reconstruct stories, and to start out further work where the individual's interests in literature, writing, theory, and/or language may take them."
+      ]
+    }
+  },
+  {
+    "coursename": "The Art of Literature",
+    "courseid": "ENGL262G",
+    "coursedescription": "This course explores and imagines the world of literature-the imagination as it finds creative expression in language. Why do we call some writing \"literature\"? What makes us label something \"art\"? Through fiction, poetry, and drama, participants learn about literary devices and terminology and develop an appreciation for the writer's craft. Capabilities addressed: Critical reading, critical thinking, clear writing.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Art of Poetry",
+    "courseid": "ENGL272G",
+    "coursedescription": "If I feel physically as if the top of my head were taken off I know that it's poetry (Emily Dickinson). Participants in this course read poetry, discuss poetry, write about poetry, and possibly write poetry in this introduction to the art and craft of poetry. Discussions cover such topics as slant rhyme, syllabics, synesthesia, free verse, the Elizabethan sonnet. Capabilities addressed: Critical reading, critical thinking, clear writing, oral presentation.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Art of Fiction",
+    "courseid": "ENGL273G",
+    "coursedescription": "Introduction to themes and forms of fiction. Close analytical reading of stories and novels with special attention to an artist's historical and cultural milieu, and to an artist's choices of form (including thematic repetition and variation, narrative point of view, setting, characterization, plot and action, imagery, figurative language, and representations of speech). Emphasis on writing critical and interpretive papers.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Art of Drama",
+    "courseid": "ENGL274G",
+    "coursedescription": "Introduction to themes in drama. Close analytical reading of plays with special attention to context. Focus on character development, figurative language, setting, imagery and action.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Literature and Human Rights",
+    "courseid": "ENGL293L",
+    "coursedescription": "This course focuses on literary expressions and representations of the desire for and the crises of human rights. The various literary genres (poetry, fiction, drama, memoir, and essay) evoke the yearning of peoples to be awarded the right to live in safety and with dignity so that they pursue meaningful lives, and these literary genres record the abuses of the basic rights of people as they seek to lead lives of purpose. This course will examine the ways in which the techniques of literature (e.g., narrative, description, point of view, voice, image) compel readers' attention and bring us nearer to turn to human rights abuses and peoples' capacities to survive and surmount these conditions.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Creative Writing Workshop",
+    "courseid": "ENGL300",
+    "coursedescription": "A creative writing workshop for students who have some experience in the writing of poetry, fiction, or drama. Class discussion focuses on student work, and individual conferences with the instructor are required.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Poetry Workshop",
+    "courseid": "ENGL301",
+    "coursedescription": "An advanced poetry workshop in which students practice and improve the poetic skills they have already begun to develop. Class discussion focuses on student work, and individual conferences with the instructor are required.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Fiction Workshop",
+    "courseid": "ENGL302",
+    "coursedescription": "An advanced fiction workshop in which students practice and improve the writing skills they have already begun to develop. Class discussion focuses on student work, and individual conference with the instructor are required",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Nonfiction Writing",
+    "courseid": "ENGL306",
+    "coursedescription": "For serious writers in various nonfictional modes, such as description, narration, expository or informative writing, and written argument. While there is some emphasis on the philosophy of composition, everything read and discussed has a practical as well as a theoretical function. Sections of this course taught by different instructors vary in emphasis from the composing process to techniques of the new journalism, to technical writing, writing for prelaw students, techniques of research for the long paper and report. But all are conducted in small classes or workshops, all are concerned with informative or argumentative writing for advanced students, and all require the permission of the instructor for enrollment.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "ENGL 201",
+      "ENGL 202",
+      "ENGL 203",
+      "ENGL 204"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "But all are conducted in small classes or workshops, all are concerned with informative or argumentative writing for advanced students, and all require the permission of the instructor for enrollment."
+      ]
+    }
+  },
+  {
+    "coursename": "Journalism and Media Writing",
+    "courseid": "ENGL307",
+    "coursedescription": "This course prepares advanced students to explore careers in writing and reporting for print and online media. Students consider contemporary journalistic texts by professional reporters, columnists, and bloggers and develop their own writing for a range of publication platforms and audiences. The course covers the fundamentals of journalistic craft, from methods for story development--including interviewing, observation, and web-based research--to style, ethics, and genre conventions. Throughout the semester, students draft and revise a series of independent writing and reporting projects on real-world people and events, ranging from news articles and magazine features to blogs and reviews. Students learn strategies for pitching stories to editors and preparing their writing for local, campus, or online publication. Different sections of this course may focus on specialized branches or genres of journalism, such as community journalism or arts journalism. This course welcomes both emerging and experienced writers, regardless of previous journalism experience.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "ENGL 201",
+      "ENGL 202",
+      "ENGL 203",
+      "ENGL 204"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Professional Editing",
+    "courseid": "ENGL308",
+    "coursedescription": "An intensive workshop in developing effective prose style for various kinds of writing, including reports, essays, and theses. Instruction covers advanced grammar, usage, editing, and proofreading, with special attention to problems of expression and style arising from complex ideas and argumentative logic. In conjunction with ENGL 307, this course provides a strong preparation for editors and writers in all settings.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "ENGL 201",
+      "ENGL 202",
+      "ENGL 203",
+      "ENGL 204"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Memoir and Autobiography",
+    "courseid": "ENGL320",
+    "coursedescription": "A study of various kinds of American autobiography-such as spiritual autobiography and freedom narratives-from colonial to modern times, with attention to European forerunners from Augustine to Rousseau. Texts vary by semester, selected from such authors as Edwards, Franklin, Thoreau, Douglass, Jacobs, Moody, Washington, and Henry Adams, and more recent works by Hellman, Wright, Malcolm X, and Kingston.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Stage and Page: Drama Before 1642",
+    "courseid": "ENGL326",
+    "coursedescription": "A study of English drama before and during Shakespeare's career emphasizing the development of comedy and tragedy as form and idea, this course provides a setting for the study of Shakespeare. Readings include selected episodes from the mystery cycles, a morality play, and works by such playwrights as Marlowe, Kyd, Tourneur, Webster, Greene, Dekker, Jonson, Beaumont, as well as a comedy and a tragedy of Shakespeare.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Stage and Page: Drama, 1900-Today",
+    "courseid": "ENGL328",
+    "coursedescription": "A study of 20th century American and British drama, including works in translation by influential playwrights abroad. Attention to themes, forms, styles, staging, and performance. Works by such authors as Ibsen, O'Neill, Williams, Miller, Brecht, Beckett, Genet, Hansberry, August Wilson, Kushner, and Hwang.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Gender and Film: Multidisciplinary Perspectives",
+    "courseid": "ENGL341L",
+    "coursedescription": "This course is designed to encourage multidisciplinary analysis of gender, cultural representations, and film in the 20th and early 21st century. Among the topics that students will explore are: ethnographic film and gendered practices in ethnographic filmmaking; how ideologies of gender, \"race,\" and class are constructed, disseminated, and normalized through film (documentary as well as \"popular\" film); Indigenous women and filmmaking in North America; femininities, masculinities, and power in the \"horror film\" genre; human rights film and filmmaking as activism. Students will view films made in diverse locations and reflecting multiple historical, political, and cultural perspectives and will explore the intellectual, political and social significance of film in their own lives.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Early African-American Literature",
+    "courseid": "ENGL351",
+    "coursedescription": "A study of the roles of early (1773-1903) African-American literature played in shaping American literary and cultural history. Through an examination of such writers as Wheatley, Equiano, Douglass, Jacobs, and Chesnutt, this course introduces students to foundational themes of African-American literature, from the black Atlantic and the trope of the \"talking book\" through the \"tragic mulatto\" and double consciousness.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Post-1945 American Fiction",
+    "courseid": "ENGL369",
+    "coursedescription": "A study of significant works of American fiction written since 1950. These works, in form and substance, reflect America's debate between those who see \"good in the old ways\" and those who try to \"make it new.\" Emphasis upon the variety of fictional voices and identities in works by authors such as Banks, Carver, Ellison, Morrison, and Updike.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics I",
+    "courseid": "ENGL379",
+    "coursedescription": "Various courses in literature and related fields are offered experimentally, once or twice, under this heading. Topics are announced each semester during pre-registration. Recent topics have included Gothic Literature, The Harlem Renaissance, and memory and World War II.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "William Shakespeare's Later Works",
+    "courseid": "ENGL383",
+    "coursedescription": "Shakespeare''s problem plays, major tragedies and late romances. The course emphasizes critical interpretations of individual plays, and it assumes that students will have had some experience of Shakespearean plays, such as those in ENGL 382. But this course may be elected without such experience.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Queer Romanticism",
+    "courseid": "ENGL397",
+    "coursedescription": "This course examines how Romanticism's emphases on revolution, art, and the individual allowed for a freer literary exploration of the question of desire, and of queer desire largely constructed (that is, along a gender continuum rather than only hetero male, hetero female, gay or lesbian).",
+    "course-prerequsities": [
+      "ENGL 101",
+      "ENGL 102",
+      "ENGL 200",
+      "ENGL 201",
+      "ENGL 202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Irish Literature",
+    "courseid": "ENGL415",
+    "coursedescription": "A close study of Yeats, Synge, O'Casey, Joyce and other writers of the modern Irish renaissance. The backgrounds of Irish history and literature relative to the above writers are also studied.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Literary Translation and Interpretation",
+    "courseid": "ENGL444",
+    "coursedescription": "This is an intensive course that examines literary translation and interpretation, concentrating on both poetry and prose. Instruction focuses on the practice and theory of literary translation, with particular attention given to close reading and interpretation. Readings include classic and recent essays on translation theory, as well as excerpts from a selection of variant sample translations.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "ENGL 201",
+      "ENGL 202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Perspectives on Literacy",
+    "courseid": "ENGL448",
+    "coursedescription": "A study of the theories of literacy, in its relation to human thinking and to social uses and contexts; and of the practice of literacy, in the teaching, learning, and use of literate behaviors in contemporary American society. The course links the active investigation of literacy issues with related readings, and draws implications for the teaching of reading and writing and for the study of literature.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study I",
+    "courseid": "ENGL455",
+    "coursedescription": "A course of study designed by the student in conjunction with a supervising instructor in a specialized subject, one ordinarily not available in the standard course offerings.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study II",
+    "courseid": "ENGL456",
+    "coursedescription": "A course of study designed by the student in conjunction with a supervising instructor in a specialized subject, one ordinarily not available in the standard course offerings.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Undergraduate Colloquium: Career Development for English Majors",
+    "courseid": "ENGL457",
+    "coursedescription": "Through a series of workshops and sequence of assignments, this course helps English majors explore careers in English and prepare materials for a successful job search. Two areas of career development will be emphasized; identifying vocations that capitalize on student skills and abilities; and enhancing self-presentation to prospective employers through work on cover letters, resumes, interviewing and networking skills. In addition, students refine their writing and communication skills in ways intended to benefit them after graduation.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Undergraduate Colloquium: Literature in Public Spaces",
+    "courseid": "ENGL458",
+    "coursedescription": "This one-credit course encourages students to examine the social life of literature in today's culture. Students explore literature as it is presented in public settings and critique that experience by writing reviews. The course presents students with a series of guest lectures, reading, film and dramatic presentations, workshops, and organized discussions.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Studies in Literature and Society",
+    "courseid": "ENGL465",
+    "coursedescription": "This capstone course offers advanced study in topics that focus on the relationship between literature and society; these topics vary from semester to semester. Possible subjects include the exploration of literature's representation of social structures such as class, periods defined by specific social events such as war, social institutions such as work or home, or cultural understandings of social behavior and beliefs. A major research project and its presentation to the class are required.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "202",
+      "TWO 300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Special Topics",
+    "courseid": "ENGL466",
+    "coursedescription": "A capstone course offering intensive study of a topic at the intersection of different approaches to or disciplinary perspectives on literature. Topics may include relationships between literature and (1) other arts; (2) cultural, social, or economic history; or (3) the development of fields such as law, medicine, or science. A major research project and its presentation are required.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "202",
+      "TWO 300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Professional and News Media Writing Capstone Internship",
+    "courseid": "ENGL475",
+    "coursedescription": "A tutorial course for Professional and New Media Writing students with approved internships involving substantial writing in professional settings. Students meet every other week with a faculty internship director to discuss writing they have produced at the internship. The writing is accompanied by a breakdown of the steps involved in researching and composing it, the time spent, the extent of the intern's contribution, and an analysis of what was learned in the process. Course requirements typically include a journal, readings, and end-o-term portfolio, and a summer essay, and may include an oral presentation to a class or student group. For application forms and full information about requirements, see the director of Professional and New Media Writing. Because potential faculty internship directors make commitments early, students are encouraged to apply during advanced registration. The course awards three hours of credit for a minimum of 25 pages of formal on-the-job writing and ten hours of work per week on site.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202",
+      "203"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Professional and New Media Writing Internship II",
+    "courseid": "ENGL477",
+    "coursedescription": "A tutorial course for students with approved internships involving substantial writing in professional settings. Students meet every other week with a faculty internship director to discuss writing they have produced a the internship. The writing is accompanied by a breakdown of the steps involved in researching and composing it, the time spent, the extent of the intern's contribution, and an analysis of what was learned in the process. Course requirements typically include a journal, readings, and end-of-term portfolio, and a summary essay, and may include an oral presentation to a class or student group. For application forms and full information about requirements, see the director of internships. Because potential faculty internship directors make commitments early, students are encouraged to apply during advanced registration.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Creative Writing Honors Seminar",
+    "courseid": "ENGL496",
+    "coursedescription": "A creative writing workshop for student writers of poetry, fiction, or drama who have been accepted into the Honors Program in English and Creative Writing. A one-semester course (in the fall), to be followed by one semester of independent work with an advisor.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Creative Writing Honors Thesis",
+    "courseid": "ENGL497",
+    "coursedescription": "Independent study in creative writing for student writers of poetry, fiction, or drama who have been accepted into the Honors Program in English and Creative Writing and who have completed English 496 with a grade of B or better.",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "English Honors Thesis",
+    "courseid": "ENGL499",
+    "coursedescription": "A continuation of ENGL 498, in which the honors student works individually with a faculty advisor on the writing of the honors thesis. The student receives a grade for each semester of work but honors in English will be awarded only to those students who have written a thesis of high distinction (as judged by the Honors Committee).",
+    "course-prerequsities": [
+      "ENGL 200",
+      "201",
+      "202"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Studies in Poetry",
+    "courseid": "ENGL601",
+    "coursedescription": "Studies of poetry movements, individual poets, or particular formal or thematic topics in poetry. Topics have included: Contemporary Women Poets,Seamus Heaney, Elizabeth Bishop.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Studies in Literature and Film",
+    "courseid": "ENGL605",
+    "coursedescription": "This course examines the relationship between fiction and film, examining issues of representation, adaptation, narrative, composition, and cultural construction. Students will explore how these verbal and visual genres connect by asking questions such as: How does storytelling operate in each genre? How does each genre rely on narrative structures such as causality and chronology? How does film develop and change literary elements such as symbolism? How does literature and film create an audience that knows its conventions? This course addresses topics such as modern life as created by fiction and film, and internationalism in contemporary British fiction and film.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The History of the Book",
+    "courseid": "ENGL607",
+    "coursedescription": "This course will examine the book as an artifact, exploring its manuscript, print, and digital forms, students will engage with the questions asked by \"history of the book\" scholarship by working with rare books at area libraries and archives. By literally getting their hands dirty by working with old, new, hyper, and rare texts, students will ask how historical changes in the book's form connect to larger cultural changes. For example, what happened when printing press technology made books inexpensive and readily available to a buying public? The course will also analyze the way \"history of the book\" studies are being transformed due to the digital reproduction of archival materials. What does it mean to interact with a rare book online? In addition, as the course examines rare books and manuscripts, students will uncover the role of the literary scholar and his/her ability to shape the form given to the literary work. What happens to a rare book when it is edited for publication?",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Teaching of Composition",
+    "courseid": "ENGL610",
+    "coursedescription": "This course defines the role of composition in the English curriculum in both college and secondary schools; develops a philosophy of language as a foundation for a method of composing; studies psychological and linguistic aspects of the composing process.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Literature and Society",
+    "courseid": "ENGL646",
+    "coursedescription": "A study of literature with special reference to its social and historical circumstances and of the theoretical questions raised by such a perspective.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Philosophy and the Composing Process",
+    "courseid": "ENGL670",
+    "coursedescription": "Current rhetorical theory emphasizing the process of composing has developed several models (e.g., pre-writing, writing, re-writing) which are nevertheless linear. But writers and teachers of writing need ways of apprehending the all-at-onceness of composition. This seminar offers opportunities to develop philosophical perspectives on perception and forming; language and the making of meaning; interpretation in reading and teaching. The course explores the pedagogical and practical implications of a broad range of theories of language and knowing by means of experimental writing and by the study of essays, letters, talks, and other materials by scientists, artists, and philosophers. This course is recommended for students choosing to concentrate in composition for the English MA, at or near the start of their programs.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is recommended for students choosing to concentrate in composition for the English MA, at or near the start of their programs."
+      ]
+    }
+  },
+  {
+    "coursename": "Reading and Writing Poetry",
+    "courseid": "ENGL675",
+    "coursedescription": "This is a graduate poetry workshop for both experienced writers and students with little poetry-writing experience. For more experienced writers, the concentration is on developing skills, with a chance to extend range by studying great poems in form and in free verse. For students newer to writing poetry, or students who simply wish to learn more about poetry, this is a chance to develop your skills from the inside, through studying poems by accomplished poets in various forms, including free verse, and through the actual practice of writing in these forms. The main work of the semester is writing poems, but there are assignments requiring a critical response to other poets.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Art of Literary Translation",
+    "courseid": "ENGL680",
+    "coursedescription": "This graduate seminar examines literary translation and interpretation, concentrating on both poetry and prose. Translators can be viewed as artists working between one language and another, recreating texts. The course will focus on the practice, theory, and craft of literary translation, with particular attention given to close reading interpretation. Students will produce translations of texts of their own choice. Knowledge of second language is recommended, but not required to take the course. Students without knowledge of a second language will have the opportunity to produce translations of texts written in middle or old English, or in dialect of English. Readings will include classic and recent essays on translation theory, as well as excerpts from a selection of variant sample translations. Attention will also be given to how the practice of translation has influenced the work of many well-known writers, from Elizabeth Bishop, Seamus Heaney and W. S. Merwin to Robert Pinsky and H. D. Without translation, a critical activity that connects otherwise separate languages and cultures, readers and writers would be left in relative isolation, unaware of wider trends in world literature. With thousands of languages used worldwide, all of us, even multilingual readers, are ultimately dependent on the work of translators to read more widely. Translation is a fascinating area of study that presents stimulating possibilities for creative writers.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Knowledge of second language is recommended, but not required to take the course."
+      ]
+    }
+  },
+  {
+    "coursename": "Advanced Workshop in Poetry",
+    "courseid": "ENGL681",
+    "coursedescription": "An advanced poetry workshop in which students practice and improve the poetic skills they have already begun to develop by focusing on a pre-approved project for the semester. Class discussion focuses on student work, and individual conferences with the instructor are required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Workshop in Fiction",
+    "courseid": "ENGL682",
+    "coursedescription": "An advanced fiction workshop in which students improve the writing skills they have already begun to develop by focusing on a pre-approved project for the semester. All students read contemporary fiction throughout the semester. Class discussion focuses on student work, and individual conferences with the instructor are required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Final Project in Pedagogy",
+    "courseid": "ENGL688",
+    "coursedescription": "Provides a structure for students working toward completion of the final exercise (capstone) requirement in pedagogy. A project proposal is required and must be approved by the faculty supervisor of the project and by the Graduate Program Director. Paper plans and drafts are studied and critiqued in regular tutorial conferences with individual faculty supervisors, or examination materials and sample questions are analyzed. The final paper or examination is assessed by graduate faculty readers.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "English Studies Workshop",
+    "courseid": "ENGL689",
+    "coursedescription": "This one credit course meets in evening workshops held at regular intervals (every two weeks). The central goal of the English Studies Workshop is to engage MA students in an understanding of the latest developments in the field of English. The workshop sessions take a variety of forms, typically featuring a presentation led by a faculty member; they also include less traditional experiences, such as visits to area research libraries. The workshops encourage students to have an experiential engagement with English's latest research, theoretical, pedagogical, creative, professional, and career trends, while also showing student show those trends inform the MA program.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "English Research Workshop",
+    "courseid": "ENGL690",
+    "coursedescription": "This one credit course meets in evening workshops held at regular intervals (every two weeks). The central goal of the English Research Workshop is to prepare MA students for the final project. Research exercises will move student through the steps needed to create a successful final project, such as :formulating a viable research topic, locating an advisor, understanding research methodology, selecting models of research and writing in professional journals, compiling an annotated bibliography, and creating a research calendar.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Final Project in Composition",
+    "courseid": "ENGL691",
+    "coursedescription": "This course provides a structure for students working toward completion of the final exercise (capstone) requirement in composition. A project proposal is required and must be approved by the faculty supervisor of the project and by the Graduate Program Director. Paper plans and drafts are studied and critiqued in regular tutorial conferences with individual faculty supervisors, or examination materials and sample questions are analyzed. The final paper or examination is assessed by graduate faculty readers.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Final Project in Creative Writing",
+    "courseid": "ENGL692",
+    "coursedescription": "This course provides a structure for students working toward completion of the final exercise (capstone) requirement in creative writing and supplements work done in creative writing workshops. A project proposal is required and must be approved by the faculty supervisor of the project, by the Director of Creative Writing, and by the Graduate Program Director. Drafts are studied and critiqued in regular tutorial conferences with individual faculty supervisors. The final manuscript is assessed by graduation faculty readers.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Final Project in Literature",
+    "courseid": "ENGL693",
+    "coursedescription": "Provides a structure for students working toward completion of the final exercise (capstone) requirement in literature. A project proposal is required and must be approved by the faculty supervisor of the project and by the Graduate Program Director. Paper plans and drafts are studied and critiqued in regular tutorial conferences with individual faculty supervisors, or examination materials and sample questions are analyzed. The final paper or examination is assessed by graduate faculty readers.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Graduate Internship in English",
+    "courseid": "ENGL694",
+    "coursedescription": "The Graduate Internship in English allows students to explore possible careers connected to and furthered by the postgraduate study of English. Internships take place within a wide variety of fields that feature an applied use of English, including publishing, marketing, publicity, professional writing, creative writing, library work, and non-profit administration. Internships can include experiences such as organizing rare books materials for a Boston area library, leading literacy workshops for a non-profit organization, or composing publicity materials in a corporate setting. The Graduate Internship affords students the opportunity to bring the ideas and skills learned in English MA courses to the workplace.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ENGL696",
+    "coursedescription": "A comprehensive study of a particular area of literature, particular author, or specialized topic not offered in regular seminars. Consultation with the director of graduate studies is mandatory. Students arrange a project with a faculty member who approves a project proposal, providing a description or outline of the research and writing work to be undertaken and a bibliography of reading. The project must be approved by the Graduate Program Director. Project proposals must be submitted by the end of the semester previous to the one in which the study is to take place.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Teaching Fellows Seminar",
+    "courseid": "ENGL698",
+    "coursedescription": "This seminar is for both composition and literature teaching fellows during their first teaching semester. It involves a preliminary summer workshop and weekly meetings and classroom visits during the semester. The course is team-taught by the two faculty supervisors, with students divided into a composition and a literature section according to their teaching fellowship appointment. The seminar develops more fully the pedagogical and content material covered in ENGL 610 and 611. It involves collaborative work (particularly in designing a joint syllabus, reading list, and assignments for the undergraduate composition and literature sections to be taught by teaching fellows), classroom research, and reflective reports.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Master of Art Thesis",
+    "courseid": "ENGL699",
+    "coursedescription": "A substantial project of approximately 60 pages in literature, composition, or creative writing. Creative writing students will include a related analytical paper with their manuscript. A thesis proposal is required and must be approved by the student's faculty supervisor of the thesis and by the Graduate Program Director. In the case of creative writing theses, approval by the Director of Creative Writing is also required. The student works under the supervision of a faculty thesis director in regular tutorial conferences. Students should begin working on their project a full semester before the semester in which the project is due. The thesis will be read by a committee of three graduate faculty members who will judge its suitability as partial fulfillment of the requirements for the Master of Arts degree. Finally, a thesis defense before the student's committee and open to all members of the English Department will take place.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

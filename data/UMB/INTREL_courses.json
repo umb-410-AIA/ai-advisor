@@ -1,0 +1,42 @@
+[
+  {
+    "coursename": "International Relations Research Methods",
+    "courseid": "INTREL613",
+    "coursedescription": "This course introduces basic concepts and skills necessary for students to carry out research and to interpret the research of others in the field of international relations. It discusses the stages of research, from identifying appropriate questions and assessing existing literature; the challenge of framing questions in researchable fashion identifying the best research approaches for those questions; the problems associated with creating and evaluation data, whether quantitative or qualitative; and strategies for drawing defensible conclusions and identifying further areas for research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "International Political Economy",
+    "courseid": "INTREL614",
+    "coursedescription": "The course engages students in a study of the relationship between economics and politics in global affairs, applying interdisciplinary scholarship to explore the problem of scarcity and the development and functioning of international markets. Topics may include the behavior of institutions such as the World Bank, the International Monetary Fund and the World Trade Organization; non-governmental organizations such as multinational corporations, local business partnerships, and workers unions; and other political entities situated at the domestic, national, regional, and global levels.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Capstone in International Relations",
+    "courseid": "INTREL691",
+    "coursedescription": "Supervised by the capstone advisor, students complete a major research paper exploring a scholarly, policy-relevant theme in the field of international relations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "INTREL695",
+    "coursedescription": "Independent study in International Relations",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Master's Thesis in International Relations",
+    "courseid": "INTREL699",
+    "coursedescription": "Supervised by a major advisor and thesis committee, students complete a major research project that makes a substantive contribution to critical understanding of salient issue in contemporary international affairs. The thesis is expected to advance knowledge in the field of international relations and is publicly defended before a faculty committee.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

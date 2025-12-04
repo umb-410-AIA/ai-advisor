@@ -1,0 +1,128 @@
+[
+  {
+    "coursename": "Demystifying Language: English Vocabulary",
+    "courseid": "CLSICS161",
+    "coursedescription": "Seventy-five per cent of English vocabulary derives from either Latin or Greek. This course provides students with a system and analytical tools to demystify the process of building their English vocabulary. Students are given an introduction to English word formation (morphology) and principles of semantic change, as well as to history of the English language, while mastering a large body of word elements based in Latin and Greek. The course builds general linguistic awareness while increasing students' English vocabulary and ability to understand unknown words at sight. Attention is given to academic, scientific and medical terminology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Athenian Democracy",
+    "courseid": "CLSICS175G",
+    "coursedescription": "The Athenians of the fifth century BC were the first to develop a form of government that allowed all citizens to participate in decision-making. This course examines the historical developments that led to this democracy and its fruitful consequences in art, comedy, and philosophy. Please note: Students may receive credit either for this course or for CORE C110 (Cultural History), but not for both. A student may not receive credit for both CLSICS 175G and CORE 120.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Women in Ancient Greece",
+    "courseid": "CLSICS212G",
+    "coursedescription": "This course will introduce students to depictions of women in visual, literary, and documentary sources from Ancient Greece. We examine the roles women played in religion, medicine, society, and the family. We also consider philosophical inquiries into the role of men and women and look at the influences of slavery and war in Greek society.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Soul & Self in Ancient Greece",
+    "courseid": "CLSICS218G",
+    "coursedescription": "This course focuses on the evolution of Greek ideas about the mind and body, which in turn raises discussions of topics such as beauty, courage, nobility, athletics, death, madness, ecstasy and sexuality. The principal readings are Homer's Iliad and Plato's Symposium. Students also consider how works of Greek art reflected these themes.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ancient Egypt",
+    "courseid": "CLSICS230L",
+    "coursedescription": "A survey of the history, art, archaeology, and religion of ancient Egypt.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Roman Civilization",
+    "courseid": "CLSICS282",
+    "coursedescription": "A consideration of the major periods of Roman civilization through the reading of literary masterpieces supplemented by a text and lectures on cultural and historical backgrounds. Discussion of Cicero, Catullus, Virgil, Ovid, Petronius (Rome). Introduction to archaeological and artistic materials.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Greek and Roman Mythology",
+    "courseid": "CLSICS284",
+    "coursedescription": "A survey of the myths of ancient Greece and Rome, this course introduces students to accounts of creation, myths of the gods, and stories of the heros. We also consider the literary, artistic and religious dimensions of myth. Readings include Homer, Hesiod, the Homeric Hymns, selected tragedies, and Ovid's Metamophoses.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Greek and Roman Tragedy",
+    "courseid": "CLSICS285",
+    "coursedescription": "This course provides a survey of the tragic drama of fifth-century Athens, including the works of Aeschylus, Sophocles, and Euripides. Focus in on both artistry and social, historical and cultural context, including the interplay between the universal and the culturally specific. Performance conventions, literary genre, and the subsequent tragic tradition (especially Seneca in Rome) are also studied.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Roman History",
+    "courseid": "CLSICS302L",
+    "coursedescription": "This course focuses on the Roman state from its origins until the triumph of Christianity from about 700 BC to 300 AD. Republic and Empire receive equal attention.",
+    "course-prerequsities": [
+      "ONE 200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Fall of Rome",
+    "courseid": "CLSICS311L",
+    "coursedescription": "People have been trying to understand the fall of Rome since the fall of Rome. In 200 CE, the Roman Empire was the largest, most diverse, and most powerful state the Mediterranean world had ever seen. By 500, the Western half of the Empire had splintered into smaller kingdoms that would eventually become the basis for modern European states. What happened? This course will examine the political, military, environmental, and social changes of the Empire as it loses territory and transforms into the medieval world. But we will spend just as much time trying to understand what it was like for typical Romans to live through this period. We will study armies and taxes, but also the rise of Christianity, the prevalence of slavery, the shifting gender norms, and the stories that filled the imaginations of people throughout this time. We will discuss major ancient cities like Rome and Constantinople, but we'll also venture out to the edges of the Empire and beyond learning about the Goths, Celts, Sassanians, and more.In addition to learning about the transformation of the Roman Empire between 250 and 800, students will also practice thinking like historians; that is, we will think about possibilities and limitations of the wide range of sources that historians use to piece together what happened and why it matters. How do we know what we know about the past? And why should we care how history is written?",
+    "course-prerequsities": [
+      "ONE 200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Hellenistic Art and Culture",
+    "courseid": "CLSICS327L",
+    "coursedescription": "This course introduces students to the Hellenistic period--the three centuries between the death of Alexander the Great in 323 BC and the defeat of Cleopatra at Actium in 31 BC--particularly primarily through a close examination of the visual arts. Hellenistic art and architecture are examined in their political, social, religious, and multi-cultural contexts, in order to arrive at a fuller portrait of the age.",
+    "course-prerequsities": [
+      "ONE 200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "CLSICS478",
+    "coursedescription": "Selected research topics organized in consultation with individual students.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "CLSICS479",
+    "coursedescription": "Selected research topics organized in consultation with individual students.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors Program",
+    "courseid": "CLSICS490",
+    "coursedescription": "Extensive reading in one broad segment of classical culture culminating in an honors thesis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

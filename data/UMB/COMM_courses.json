@@ -1,0 +1,198 @@
+[
+  {
+    "coursename": "Introduction to Communication",
+    "courseid": "COMM100",
+    "coursedescription": "The purpose of this course is to introduce students to the breadth and depth of the discipline of communication, which includes a detailed examination of psychological and social processes that humans use to create and share meaning. Using a social scientific approach to human communication research, students will learn how language, culture, and identity influence communication. Students will study the process of communication in a variety of face-to-face and mediated contexts.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Public Speaking and Professional Communication",
+    "courseid": "COMM105",
+    "coursedescription": "This core course provides writing, oral, and collaborative skills necessary for future courses, internships, and professional endeavors. The major aims of this course are to make students more effective professional communicators, analytical thinkers and critical listeners. By the end of the course students will be able to plan and prepare professional meetings and presentations; deliver and effective speech; analyze and adapt to various audiences; and adjust to different speaking situations, purposes, and contexts.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "New Media Society",
+    "courseid": "COMM200",
+    "coursedescription": "This course examines the relationship between media technologies and globalization. The focus is on the processes through which media shape economic, political, and cultural forces to produce an interconnected and interdependent society. The course will explore the social and psychological effects of the use of media technologies and their content on community, identity, relationships, health, and entertainment.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Interpersonal Communication",
+    "courseid": "COMM220",
+    "coursedescription": "This course focuses on theory and research concerning communication in everyday interactions. It addresses the sense of self as influenced by others and one's own communication. The course will address basic aspects of message production and interpretation. Throughout the course, students will be encouraged to evaluate their own communication practices and improve upon their own communication skills.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intercultural Communication",
+    "courseid": "COMM230",
+    "coursedescription": "This course examines human communication in numerous intercultural and international contexts. Readings, discussion, assignments, and projects are designed to help students achieve cross-cultural competence in mediated communication, interpersonal and group dynamics, and organizational climates. Students will learn how to better exchange meaningful and unambiguous information across cultural boundaries, in a manner that maximizes understanding and minimizes antagonism.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Analyzing Media",
+    "courseid": "COMM250",
+    "coursedescription": "Participants intensively examine mass media products, including print media, radio, television, and the visual and musical arts. They develop skills in deconstructing media products and evaluating them to arrive at a sophisticated understanding of how the various mass media are produced and how they interact with society and culture. The course makes use of both theoretical texts and the media products themselves.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Strategic Communication",
+    "courseid": "COMM270",
+    "coursedescription": "This course presents an introduction to strategic communication. It focuses on the strategic communication industry (including advertising and public relations), ethics and regulation of the strategic communication industry, and the role of new media technologies in strategic communication.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "New Media, Identity & Self",
+    "courseid": "COMM315",
+    "coursedescription": "This course examines individuals' exploration, construction, and expression of identity in a variety of new media spaces, and the impact of interactive media on the self and related variables. Course topics include selective self-presentation, social comparison, online self-disclosure, online disinhibition, virtual communities and support, and hashtag activism. Particular attention is devoted to exploring a variety of personal and social identities, including traditionally marginalized identities.",
+    "course-prerequsities": [
+      "COMM 200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Social Influence and Compliance Gaining",
+    "courseid": "COMM320",
+    "coursedescription": "This course will examine research and theory on persuasion, compliance gaining, and social influence. Topics include message characteristics, credibility, compliance-gaining strategies, advertising, marketing, public health campaigns, decision-making, and motivational appeals. The course will also explore the applicability of research and theory to everyday practice.",
+    "course-prerequsities": [
+      "COMM 100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Relational Communication",
+    "courseid": "COMM325",
+    "coursedescription": "This course is designed to examine communication in intimate relationships such as friendships, dating, and marital relationships. The goal of the course is to help students become familiar with the topics and theories related to communication over the course of these intimate relationships from the beginning stages to relational termination. Specifically, this course addresses the communication involved in: attraction, intimacy, relational transgressions, relational maintenance and repair, conflict and social support.",
+    "course-prerequsities": [
+      "COMM 220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Health Communication",
+    "courseid": "COMM330",
+    "coursedescription": "This course addresses research and theory concerning communication in health care contexts. It focuses on health literacy, provider/patient interactions, public health campaigning, risk communication, and entertainment/education. These concepts will be discussed in their relation to health interventions at the individual, community, and population levels.",
+    "course-prerequsities": [
+      "COMM 100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Communication and Community Mobilization",
+    "courseid": "COMM340",
+    "coursedescription": "This course will focus on community organization, defining power through relationships, communicating across differences, and the limits of community organizing. It focuses on moving from theory to action in the campaign development. It culminates in a group or individual project wherein students must identify a problem, research solutions, and outline a campaign for a real organization or campus group.",
+    "course-prerequsities": [
+      "COMM 100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Environmental Communication",
+    "courseid": "COMM345L",
+    "coursedescription": "In this course, students will learn how the process of communication constructs our values and relationships with the biophysical world and each other. We explore the contested meanings of nature and the environment and the communication practices that challenge dominant Western notions of the environment individually, ideologically and institutionally. We foreground how racial, ethnic, socioeconomic class, and gender groups experience ecological disasters intensified by climate change. In addition to examining the disproportionate impact on low-income, communities of color, and Indigenous peoples, we will examine how these communities are leading resistance to ecological disasters and environmental violence. We will examine the power dynamics of environmental issues via media and film, journalism, public relations, advertising, rhetoric, and public participation and activism to understand how communication can create a more just and sustainable world. Students will interpret and analyze the voices of individuals and groups struggling to define major environmental topics, such as: climate change and pollution, energy, water, food and agriculture, biodiversity and extinction, ocean life, wilderness habitat, war, and consumerism.",
+    "course-prerequsities": [
+      "COMM 100",
+      "ENVSCI 101",
+      "ANTH 263",
+      "ENVSCI 120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Communication Research Methods",
+    "courseid": "COMM351",
+    "coursedescription": "This course provides an overview of the various techniques used by communication researchers in designing, conduction, reporting, and evaluation research. These techniques include quantitative, qualitative empirical, and critical/cultural methodologies. Students will receive the preparation necessary for both research comprehension and writing in upper level electives within the major. They will also gain the skills necessary to become intelligent consumers of research in both academic and applied settings.",
+    "course-prerequsities": [
+      "COMM 100",
+      "PSYCH 370",
+      "MATH 115",
+      "SOCIOL 350",
+      "MATH 125"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Digital Media Analytics",
+    "courseid": "COMM365",
+    "coursedescription": "This course provides students with training in cutting-edge digital research methods to use text-mining as a powerful social listening and analytic tool. Through case studies, individual assignments, and group projects, students will gain both conceptual knowledge and hands-on experience in extracting meaningful insights from digital platforms, including social media, and developing effective communication strategies to engage diverse audiences through data-driven storytelling, an essential skill for contemporary communication professionals.",
+    "course-prerequsities": [
+      "COMM 100",
+      "ONE 200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advertising/PR Campaign Planning",
+    "courseid": "COMM370",
+    "coursedescription": "In this course, students will explore processes for developing a comprehensive integrated marketing communication (IMC) campaign, including research, planning, creative, media, and evaluation aspects. Students will construct and execute research plans and learn about the way the advertising/PR industry operates. Students will compile findings and recommendations into a final written plan and oral presentation that comprehensively outlines the integrated marketing campaign developed during the course.",
+    "course-prerequsities": [
+      "COMM 270"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "COMM478",
+    "coursedescription": "Individual student projects in Communication Studies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research Practicum",
+    "courseid": "COMM479",
+    "coursedescription": "Participation in supervised research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Communication Seminar",
+    "courseid": "COMM480",
+    "coursedescription": "A seminar on a particular problem, issue, or technique in the study of communication, approached from a variety of disciplines and perspectives. The topic of the seminar varies from offering to offering and reflects the research interests of the sponsoring faculty member.",
+    "course-prerequsities": [
+      "COMM 100",
+      "COMM 200",
+      "COMM 230",
+      "COMM 351",
+      "90"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The topic of the seminar varies from offering to offering and reflects the research interests of the sponsoring faculty member."
+      ]
+    }
+  },
+  {
+    "coursename": "Communication Internship",
+    "courseid": "COMM490",
+    "coursedescription": "This course offers an independent project undertaken at an off-campus location under the guidance of a faculty advisor and an off-campus supervisor. Internships must be approved by the supervising faculty member in the Communication Department. Students will submit a written final report and, at the discretion of the faculty advisor, an interim report. Details may be obtained from the department chairperson. Grading is \"Pass/Fail.\"",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

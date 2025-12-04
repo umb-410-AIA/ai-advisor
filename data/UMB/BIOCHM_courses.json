@@ -1,0 +1,70 @@
+[
+  {
+    "coursename": "Biochemistry I",
+    "courseid": "BIOCHM383",
+    "coursedescription": "In the first of a two-semester sequence, the chemistry of life processes is discussed in terms of structure and biological function of proteins, nucleic acids, carbohydrates, lipids, and other cellular components. Special emphasis is given to protein structure and function, enzymology, carbohydrate metabolism, transport mechanisms, energy transformations, and photosynthesis.",
+    "course-prerequsities": [
+      "BIOL 111",
+      "CHEM 252",
+      "254",
+      "CHEM 954A"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Biochemistry II",
+    "courseid": "BIOCHM384",
+    "coursedescription": "In the second of a two-semester sequence, discussion of cellular function is continued. The topics are biochemistry and synthesis of nucleic acids and proteins, structural motifs in protein folding, metabolism of lipids and amino acids, nitrogen fixation, molecular immunology, hormones, ion channels, neurochemistry, biological applications of nuclear resonance and biochemical evolution.",
+    "course-prerequsities": [
+      "BIOCHM 383",
+      "BIOL 210",
+      "BIOL 212"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Biochemistry Lab I",
+    "courseid": "BIOCHM385",
+    "coursedescription": "Laboratory course to complement BIOCHM 383. Experiments involving titration, purification and analysis of biological molecules. Provides training in such techniques as chromatography, electrophoresis, and enzyme kinetics.",
+    "course-prerequsities": [
+      "BIOL 111",
+      "CHEM 252",
+      "CHEM 254"
+    ],
+    "course-corequisites": [
+      "BIOCHM 383"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Biochemistry Lab II",
+    "courseid": "BIOCHM386",
+    "coursedescription": "Laboratory course to complement BIOCHM 384. Experiments involving high performance liquid chromatography, circular dichroism, optical rotary dispersion, nuclear magnetic resonance, photosynthesis and analysis of proteins, lipids, and carbohydrates.",
+    "course-prerequsities": [
+      "BIOCHM 385",
+      "BIOCHM 384"
+    ],
+    "course-corequisites": [
+      "BIOCHM 384"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Readings in Biochemistry II",
+    "courseid": "BIOCHM472",
+    "coursedescription": "Topics vary depending on instructor. Contact the Chemistry Department or Biology Department for specific topics each semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Directed Research in Biochemistry II",
+    "courseid": "BIOCHM492",
+    "coursedescription": "An opportunity for qualified, advanced students to work on a specialized research project under the guidance of a faculty advisor.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

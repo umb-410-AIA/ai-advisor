@@ -1,0 +1,295 @@
+[
+  {
+    "coursename": "Foundations of Early Intervention and Education for All Young Children",
+    "courseid": "ECHD201",
+    "coursedescription": "This introductory course focuses on the principles of early childhood education and early intervention including on facilities, staff, goals, and methodology of various programs such as child care, Head Start, and nursery school. Traditional and contemporary issues in early childhood education and early intervention approaches will be considered, and emphasis will be placed on meeting the needs of all children within the family culture.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Child Growth and Development, Birth to Age Eight - including Special Needs",
+    "courseid": "ECHD211",
+    "coursedescription": "The course overviews typical and atypical development from birth through age eight including: theories of development, implications of atypical development on play/learning, understanding early childhood development within an ecological framework, and exploring what brain research tells about the early years. Knowledge of predictable sequences of growth and change in children provides a framework from which teachers prepare the learning environment and plan appropriate experiences for both individuals and groups. 10-hours of clinical experience.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Supporting Young Children's Social Interactions and Emotional Growth",
+    "courseid": "ECHD221",
+    "coursedescription": "In this course students will look at the relationship of physical space, time, curriculum and instruction in creating the positive and effective learning environments for young children, birth to age 12. Introducing practical principles and techniques for providing developmentally appropriate guidance for all children, emphasis is placed on encouraging self-esteem, cultural awareness, effective communication skills, direct/indirect techniques/strategies and observation to understand the underlying causes of behavior. Upon completion, students will demonstrate appropriate interactions with children and families and promote conflict resolution, self-control, self-motivation, and self-esteem in children.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "ECHD 201",
+      "ECHD 211",
+      "PSYCH 241"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Teaching Superpowers: The Science of Building Resilience in Early Education and Care Settings",
+    "courseid": "ECHD250G",
+    "coursedescription": "This course explores the profession dispositions (superpowers) that those who care for children need in order to develop healing relationships and environments for children exposed to trauma and toxic stress. The start of the course will provide a context for the importance of each superpower to working with children, review the impact of trauma and toxic stress on children and caregivers, and develop a deep understanding of resilience, play, and optimism for children and adults. The second half of the course examines each superpower (e.g. gratitude, compassion, authenticity) with respect to the scientific and theoretical underpinning of each construct, as well as evidence-based practices for developing these skills professionally and nurturing these in children. The course will also examine social justice and educational policy contexts and systemic approaches to preventing children's exposure to trauma and toxic stress.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Early Education and Care",
+    "courseid": "ECHD290",
+    "coursedescription": "This course provides individuals with an opportunity to apply their knowledge of child development and teachings techniques to practice as they delve into early childhood education through a supervised internship. Students will demonstrate their ability to facilitate learning through active involvement and interaction with children, parents, and other professionals as they plan, implement, and evaluate programs for young children. Students mush teach in an early childhood education program a minimum of 10 hours per week for a total of 150 hours per semester and attend weekly seminars. Students must also set up weekly conferences with their cooperating teacher and arrange three on-site supervised visits in which university staff will observe and then conferences with the student and cooperating teacher.",
+    "course-prerequsities": [
+      "ECHD 201",
+      "ECHD 211",
+      "ECHD 221"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Responsibility and Ethics in Early Education and Care",
+    "courseid": "ECHD317",
+    "coursedescription": "In this course early education and care students will explore ethics and responsibilities inherent in the roles of working with families, young children, and youth. Everyday encounters may present difficult situations in which the `right thing' is not always clear. Diverse perspectives will be identified to develop and understanding of ethical concepts and safeguards. Ethical codes of conduct will be applied to cases studies to develop a thoughtful process to resolve ethical or legal conflicts, especially in working with diverse populations. Students will reflect on ethical responsibilities to children, families, communities, peers and profession. 10 hours of clinical experience.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "ECHD 201",
+      "ECHD 211",
+      "PSYCH 241"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Observing, Documenting & Assessing in Early Childhood",
+    "courseid": "ECHD422",
+    "coursedescription": "Examine early childhood measurement and assessment techniques. Discuss fundamentals of psychometric theory, structure and uses of standardized tests; skills for alternative classroom assessment techniques for child study. Use systematic observations, documentation, and other effective assessment strategies in responsible ways, to partner with families and other professionals, to positively influence children's development and learning.",
+    "course-prerequsities": [
+      "ECHD 201",
+      "ECHD 211",
+      "PSYCH 341"
+    ],
+    "course-corequisites": [
+      "ECHD 492"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Technology for all Young Children",
+    "courseid": "ECHD430",
+    "coursedescription": "Examine the learning outcomes, instructional methods and materials used for instructional technology: Early Childhood to Second Grade (PreK-2). Learn how to apply the principles of Universal Design for Learning (UDL) to curriculum, instruction, and assessment to support all children in natural environments. Explore software for early literacy development in young children. Experience `hands-on' use of hardware (e.g., printer, scanner, and digital camera) and software. Review adaptations for special needs children (e.g., switch options and construction). Learn how to integrate the use of Augmentative of Adaptive Communication (AAC) systems across the curriculum and at home. Learn how to increase family participation and gain knowledge of how to use technology with their child.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "ECHD 201",
+      "ECHD 211",
+      "PSYCH 241"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Family Systems, Support, and Engagement",
+    "courseid": "ECHD435",
+    "coursedescription": "Students will reflect on how modern families are shaped by changes in society and family structures and how such changes impact parenting. Furthermore such societal shifts impact the relationship between early childhood practitioners and families requiring strong partnership, effective communication and on-going ways to involve families in the education process. Throughout this course practitioners working with children and families will increase skills and knowledge to assist families in supporting their children's social, emotional, physical, and cognitive development. A strengths-based approach to empowering families will be maintained throughout the course. Students will investigate many factors that influence the healthy development of families and their impact on the parent/child relationship.",
+    "course-prerequsities": [
+      "ECHD 201",
+      "ECHD 211",
+      "PSYCH 241"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Language Development & Literacy in Early Childhood",
+    "courseid": "ECHD440",
+    "coursedescription": "This course explores language development from infants through primary-aged children. Topics include speech and language processes for communication, language development stages, theories of language acquisition, assessment of language development and activities to foster language development. Attention is given to linguistically diverse populations as well as to children who language development is different from the expected norm. Also explored are theory and research on literacy development, including selection and development of pre-reading/pre-writing and reading and writing curricula for preschool, kindergarten and primary grades. Emphasis is on development of literacy in the primary grades. 10 hours of clinical experiences.",
+    "course-prerequsities": [
+      "ECHD 201",
+      "ECHD 211",
+      "PSYCH 241"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Science & Mathematics Instruction for all Young Children",
+    "courseid": "ECHD441",
+    "coursedescription": "Explore the developmental theory and research in each of the curriculum areas, foundation for selection, design of curriculum materials, and activities appropriate for children birth through primary grades. Fundamental concepts and skills for young children will be learned as well as optimum, hands-on pedagogical methods. Implementation of math and science of developmentally appropriate practices for infants, toddlers, preschoolers, and primary children will be presented. Spend 10 hours observing in early intervention, preschool and/or public school programs.",
+    "course-prerequsities": [
+      "ECHD 201",
+      "ECHD 211",
+      "PSYCH 241"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Leadership in Early Education & Care",
+    "courseid": "ECHD450",
+    "coursedescription": "Expand the role of leader and advocate in the movement toward universally accessible, high quality early childhood programs. Explore the role of a broad-based, inclusive leadership to make changes in the early education and care system, as well as, improve the jobs for teachers and providers. Discuss the theoretical frameworks and practice concrete skill development. Implement a leadership action plan as a part of the course requirements.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "ECHD 201",
+      "ECHD 211",
+      "PSYCH 241"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Team collaboration and Service Delivery Models",
+    "courseid": "ECHD453",
+    "coursedescription": "This 3 credit course will emphasize a systematic, family-centered, collaborative and consultative approach to service delivery. Cases will be used as a focal point for learning how to plan and evaluate individualized family services. Important aspects of consultation, teamwork, service coordination and leadership in early intervention will be covered. This course demonstrates practical approaches to collaboratively setting and evaluation goals within the context of consultation. In addition, students will learn the impact of legal and financial issues on service coordination. Several approaches to service delivery will be addressed.",
+    "course-prerequsities": [
+      "ECHD 201",
+      "211"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Planning Curriculum in Early Childhood",
+    "courseid": "ECHD490",
+    "coursedescription": "Students use the state's curriculum frameworks and related resources to design, implement, and evaluate meaningful, challenging curriculum that promotes comprehensive developmental and learning outcomes for all young children. They learn about curriculum theory and other professional standards related to early childhood education organization and practice. Student become collaborative learners who make informed decisions that integrate knowledge from a variety of sources and geared towards maximizing service to a wide diversity of children, employing a Universal Design for Learning (UDL) approach. Using the Preservice performance assessment tool as guideline for the basic elements of teaching, student identify and collect artifacts that demonstrate their growing understanding of effective classroom practice.",
+    "course-prerequsities": [
+      "ECHD 201",
+      "ECHD 211"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Early Education and Care II",
+    "courseid": "ECHD493",
+    "coursedescription": "This course explores the application of theory to practice within a fourteen week internship, requiring a minimum of 300 hours of field experience in the student's area of concentration. Throughout the internship practitioners will develop leadership in their early education and care setting, use a problem solving approach in the application of theory to real life practice, collect and analyze data to inform practice, and reflect on their internship placement. Seminars with a university supervisor will capitalize on the diversity of program settings to investigate federal and state regulations, research, policy, and practice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Teacher Inquiry/Practicum II",
+    "courseid": "ECHD494",
+    "coursedescription": "Fourteen-week, full-time practicum, field experience providing the opportunity to put theory and technique into practice in a kindergarten, first or second grade classroom. Develop teaching competencies, with assistance from both a certified cooperating teacher and a university supervisor. Attend a seminar with the university supervisor, to explore the connections between theory and practice, share practicum experiences, and work on the Teaching Portfolios. Design and implement curriculum, assess individual child and group progress, and observe role of family and community in children's education. Develop identify as an early childhood profession.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics: Early Education and Care in Inclusive Settings",
+    "courseid": "ECHD497",
+    "coursedescription": "This course offers intensive study of selected topics in the field of early education and care. Course content and credits vary according to topic are announced prior to the advance pre-registration period.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Development and Characteristics of All Young Learners Including Those with Special Needs.",
+    "courseid": "ECHD611",
+    "coursedescription": "This course covers the span of physical, cognitive, social, emotional, and moral development of children from birth through second grade. Implications for curriculum and instruction from brain research findings and their significance for learner differences are explored. The appropriate technical terminology used to convey those concepts is addressed. The significance of the sociocultural and political contexts for the implications of the codifications of development along with the consequences of medical and health access are discussed. The course is delivered utilizing Universal Design for Learning (UDL) level-appropriate strategies and assessments.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Observing, Documenting and Assessing in Early Childhood/Early Intervention",
+    "courseid": "ECHD622",
+    "coursedescription": "This is an introduction to early childhood measurement and assessment techniques. The course covers fundamentals of psychometric theory, structure and uses of standardized tests and skills for alternative classroom assessment techniques for child study. The principles of Universal Design for Learning (UDL) in assessment are identified and practiced. Candidates learn about goals, benefits, and uses of assessment. They systematically observe, document, and use effective assessment strategies in responsible ways-in partnership with families and other professionals- to positively influence children's development and learning. This course requires 10 hours of clinical observation in various settings, including natural settings (home, day car, Head Start) and medical settings.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Language Development and Literacy in Early Childhood/Early Intervention",
+    "courseid": "ECHD640",
+    "coursedescription": "This course looks at language development from infants through primary-aged children. Topics will include speech and language processes for communication, language development stages, theories of language acquisition, assessment of language development and activities in order to foster language development. Special attention will be paid to linguistically diverse populations as well as to children whose language development is different from the reference group with regards to the most recent advances in the field. Selection and development of prereading/prewriting and reading and writing curricula for preschool, kindergarten and primary grades will be addressed. The will be an emphasis on development of literacy in the primary grades that employs a Universal Design for Learning (UDL) approach. The course includes 10 hours of clinical experiences.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Science and Mathematics Instruction for All Young Children",
+    "courseid": "ECHD641",
+    "coursedescription": "This course reviews developmental theory and research as related to the curriculum areas. A foundation for selection and design of curriculum materials and activities appropriate for children in kindergarten and primary grades is discussed and documented via student products. Fundamental concepts and skills for teaching math and science to young children are practiced, as well as optimum, hands-on pedagogical methods and those derived from Universal Design for Learning (UDL). Math and science developmentally appropriate activities for infants, toddlers, preschoolers, and primary children are practiced during a 10 hour clinical experience.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum II-PreK-2nd grade",
+    "courseid": "ECHD685",
+    "coursedescription": "This is the second of a two-course practicum sequence that requires students to complete a 14 week, full-time practicum field experience. The experience provides the opportunity to put theory and technique into practice in a kindergarten (one third of total time), and first or second grade classroom (two thirds of total time) under the guidance of a Massachusetts licensed teacher. Students develop teaching competencies, with assistance from both a licensed supervising practitioner and a program supervisor. They also attend a weekly seminar with the university supervisor to explore the connections between theory and practice and share practicum experiences. Students design and implement curriculum, assess individual child and group progress demonstrating a command of Universal Design of Learning (UDL) techniques, and observe role of family and community in children's education, and develop identity as an early childhood/early intervention professional.",
+    "course-prerequsities": [
+      "ECHD 601",
+      "ECHD 611",
+      "ECHD 621",
+      "ECHD 640",
+      "ECHD 641",
+      "ECHD 690"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Early Childhood Pre-Practicum PreK-2",
+    "courseid": "ECHD689",
+    "coursedescription": "This one-credit field experience is organized around the Preservice Performance Assessment (PPA) tool, which guides both candidates' observations of experienced teachers at work, and candidates' own lesson delivery later in the semester. University supervisors hold two organizational meetings during the semester (beginning and end) to discuss general issues stemming from field placements and to ensure candidates have a solid grasp of the PPA tool with which their lesson delivery is assessed. Students spend one day a week in a PreK-2nd grade public school classroom where they start observing and incrementally taking responsibilities. From helping one single student to small group monitoring, the experience leads to the teaching of a lesson to the whole class that is assessed by the university supervisor. Such assessment is discussed with each individual student and a plan to identify areas and strategies for improvement is completed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Planning Curriculum in Early Childhood",
+    "courseid": "ECHD690",
+    "coursedescription": "Students use the state's curriculum frameworks and related resources to design, implement, and evaluate meaningful, challenging curriculum that promotes comprehensive developmental and learning outcomes for all young children. They learn about curriculum theory and other professional standards related to early childhood education organization and practice. Students become collaborative learners who make informed decisions that integrate knowledge from a variety of sources and geared towards maximizing service to a wide diversity of children, employing a Universal Design of Learning (UDL) approach. Using the Preservice performance assessment tool as guideline for the basic elements of teaching, students identify and collect artifacts that demonstrate their growing understanding of effective classroom practice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study: Early Education and Care in Inclusive Settings",
+    "courseid": "ECHD696",
+    "coursedescription": "This is a directed study of a particular topic in education. The work is guided and assessed by the instructor.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Child Development and Early Learning",
+    "courseid": "ECHD702",
+    "coursedescription": "Through this advanced course in child development, student will examine theories related to human development and contemporary research findings in areas of child development and early learning. The course offers an opportunity to investigate selected topics in cognitive, social, emotional, and physical development from conception through late childhood. Diverse perspectives will be used to understand development, both typical and atypical, in these various domains of development. Emphasis will be given to understanding individual and cultural difference while interpreting child development and assessment.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Leadership and Change in Early Education and Care",
+    "courseid": "ECHD704",
+    "coursedescription": "This course explores multidisciplinary approaches to leadership, change, and leading for change applied to the early care and education context. We will examine the theory and practice of change to gain an understanding of what contributes to the carrying out of successful and lasting change. Participants will analyze the forces that drive change, examine impediments to change, and survey a range of approaches for making change more effective. In addition, the course focuses on leadership in its many forms (in teaching, administration, policy, research, ethics). Participants will gain a deeper understanding of themselves as developing leaders and change agents, and explore ways to improve professional practice, early education quality, and promote social justice and caring in programs and systems serving young children and families.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ECEC Doctoral Seminar I",
+    "courseid": "ECHD709",
+    "coursedescription": "This course develops the ability of students in the ECEC Ph.D. program to integrate and synthesize transdisciplinary and global perspectives on critical issues in early childhood education and care. Topics of this course include issues of social justice, diversity, policy and leadership, and special education to which multiple perspectives may be brought to bear. Taken in students' second semester, the course offers opportunities for students to interact with members of the ECEC Graduate Group from different concentrations as well as other experts. The course provides multiple perspectives on selected core issues, with students considering these perspectives in light of their own experiences and probably research interests.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course provides multiple perspectives on selected core issues, with students considering these perspectives in light of their own experiences and probably research interests."
+      ]
+    }
+  },
+  {
+    "coursename": "Dissertation Research in Early Childhood Education and Care",
+    "courseid": "ECHD799",
+    "coursedescription": "This course centers on original research conducted under the supervision of a dissertation faculty advisor and the dissertation committee, and leads to the proposal and defense of a doctoral dissertation.",
+    "course-prerequsities": [
+      "ECHD 708",
+      "ECHD 709"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

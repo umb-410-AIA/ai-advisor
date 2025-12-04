@@ -1,0 +1,333 @@
+[
+  {
+    "coursename": "Quantitative Reasoning",
+    "courseid": "MATH114QR",
+    "coursedescription": "This course covers the basic algebra and technological tools used in the social, physical and life sciences to analyze quantitative information. The emphasis is on real world, open-ended problems that involve reading, writing, calculating, synthesizing, and clearly reporting results. Topics include descriptive statistics, linear, and exponential models. Technology used in the course includes computers (spreadsheets, Internet) and graphing calculators.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "College Algebra",
+    "courseid": "MATH115",
+    "coursedescription": "Designed primarily but not exclusively for students seeking a stronger foundation in algebra before taking MATH 129 or MATH 130. Topics include basic algebra concepts, linear equations and inequalities and inequalities, properties of functions, linear and quadratic functions, absolute value equations and inequalities, systems of equations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introductory Statistics",
+    "courseid": "MATH125",
+    "coursedescription": "This course is a concept-driven introduction to statistics and statistical reasoning. It covers descriptive statistics, including histograms, the normal curve, and linear correlation and regression; probability sufficient to enable development of inferential statistics; and topics in statistical inference. The latter will include sampling theory, confidence intervals and their interpretation, tests of hypotheses, and chi-square tests.",
+    "course-prerequsities": [
+      "MATH 114Q",
+      "115",
+      "129",
+      "130",
+      "134",
+      "135",
+      "140",
+      "145"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Precalculus",
+    "courseid": "MATH130",
+    "coursedescription": "Preparation for first year calculus. Covers symmetry, graphs, functions, lines, parabolas and max-min problems, exponential and logarithm functions, exponential growth, and the trigonometric functions and their inverses.",
+    "course-prerequsities": [
+      "MATH 115",
+      "MATH 129",
+      "MATH 130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Precalc-Reduced Crdt",
+    "courseid": "MATH130R",
+    "coursedescription": "Preparation for first-year calculus for students who have received credit in a course which covered most (but not all) of the following topics: symmetry, graphs, functions, lines, parabolas and max-min problems, exponential and logarithm functions, exponential growth, and the trigonometric functions and their inverses.",
+    "course-prerequsities": [
+      "MATH 129"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Survey of Calculus",
+    "courseid": "MATH135",
+    "coursedescription": "Calculus developed intuitively and applied to problems in biology, economics, psychology, and geometry. A course for non-physical science and non-mathematics majors. Suitable for some pre-medical programs.",
+    "course-prerequsities": [
+      "MATH 130",
+      "MATH 135",
+      "MATH 134",
+      "MATH 140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Survey of Calculus - Reduced Credit",
+    "courseid": "MATH135R",
+    "coursedescription": "Calculus developed intuitively for students who have received credit in a course which covered most (but not all) of the following topics: calculus applied to problems in biology, economics, psychology, and geometry. A course for non-physical science and non-mathematics majors. Suitable for some pre-medical programs.",
+    "course-prerequsities": [
+      "MATH 134"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Calculus I",
+    "courseid": "MATH140",
+    "coursedescription": "The first in the sequence of calculus courses for science and math majors. Topics include limits, continuity, derivatives and their applications, and definite and indefinite integrals with applications to geometric and physical problems.",
+    "course-prerequsities": [
+      "MATH 130",
+      "MATH 140",
+      "MATH 134",
+      "MATH 135"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Calculus I - Reduced Credit",
+    "courseid": "MATH140R",
+    "coursedescription": "The first in the sequence of calculus courses for science and math majors who have received credit in a course which covered most (but not all) of the following topics: limits, continuity, derivatives and their applications, and definite and indefinite integrals with applications to geometric and physical problems.",
+    "course-prerequsities": [
+      "MATH 134",
+      "MATH 135"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Calculus II",
+    "courseid": "MATH141",
+    "coursedescription": "Continuation of MATH 140. Topics include transcendental functions, techniques of integration, applications of the integral, improper integrals, L'Hospital's rule, sequences, and series. Note: Because MATH 141 is the second part of a three-semester calculus sequence, it should be taken as soon as possible after MATH 140.",
+    "course-prerequsities": [
+      "MATH 140",
+      "MATH 145"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Calculus II - Reduced Credit",
+    "courseid": "MATH141R",
+    "coursedescription": "Continuation of MATH 140 for students who have received credit in a course which covered most (but not all) of the following topics: transcendental functions, techniques of integration, applications of the integral, improper integrals, L'Hospital's rule, sequences, and series.",
+    "course-prerequsities": [
+      "MATH 146"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Multivariable Calculus",
+    "courseid": "MATH240",
+    "coursedescription": "Differential and integral calculus of functions of several variables. Topics include Euclidean, polar, cylindrical, and spherical coordinates; dot product, cross-product, equations of lines and planes; continuity, partial derivatives, directional, gradient; optimization in several variables; multiple integrals, integrated integrals, change of coordinates, Jacobians, general substitution rule.",
+    "course-prerequsities": [
+      "MATH 141"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Multivariable and Vector Calculus",
+    "courseid": "MATH242",
+    "coursedescription": "Differential and integral calculus of functions of several variables and of vector fields. Topics include Euclidean, polar, cylindrical, and spherical coordinates; dot product, cross-product, equations of lines and planes; continuity, partial derivatives, directional derivatives, optimization in several variables; multiple integrals, iterated integrals, change of coordinates, Jacobians, general substitution rule; curves and surfaces, parametrizations, line integrals, surface integrals; gradient, circulation, flux divergence; conservative, solenoidal vector fields; scalar, vector potential; Green, Gauss, and Stokes theorems. Please note: Because MATH 242 is the final part of a three-semester calculus sequence, it should be taken as soon as possible after MATH 141.",
+    "course-prerequsities": [
+      "MATH 141",
+      "MATH 240",
+      "MATH 242"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Multivariable and Vector Calculus - Reduced Credit",
+    "courseid": "MATH242R",
+    "coursedescription": "Curves and surfaces, parametrizations, line integrals, surface integrals; gradient, circulation, flux, divergence; conservative, solenoidal vector fields; scalar, vector potential; Green, Gauss, and Stokes theorems.",
+    "course-prerequsities": [
+      "MATH 240"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Linear Algebra",
+    "courseid": "MATH260",
+    "coursedescription": "This is an introductory class in Linear Algebra. Topics include basic algebraic operations of Matrices, Linear systems of equations, Gauss-Jordan elimination, subspaces, linear independence, bases, dimension, linear maps, determinants, orthogonality, orthogonalization process, eigenvalues and eigenvectors, as well as a brief discussion on abstract vector spaces.",
+    "course-prerequsities": [
+      "MATH 140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Discrete Structures in Mathematics",
+    "courseid": "MATH265",
+    "coursedescription": "This course is an introduction to discrete structures in mathematics. Topics include, but are not limited to: basic combinatorial structures and analysis; elementary number theory; sequences and operations with sequences; graphs and trees; equivalence and partial orders.",
+    "course-prerequsities": [
+      "MATH 140"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics include, but are not limited to: basic combinatorial structures and analysis; elementary number theory; sequences and operations with sequences; graphs and trees; equivalence and partial orders."
+      ]
+    }
+  },
+  {
+    "coursename": "Applied Ordinary Differential Equations",
+    "courseid": "MATH270",
+    "coursedescription": "A comprehensive study of the nature of ordinary differential equations. The course includes qualitative analysis of properties of solutions, as well as standard methods for finding explicit solutions to important classes of differential equations. It presents many applications, particularly for linear equations.",
+    "course-prerequsities": [
+      "MATH 240",
+      "MATH 242",
+      "MATH 242R",
+      "MATH 260",
+      "PHYSIC 114"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Proofs: a Transition to Advanced Mathematics",
+    "courseid": "MATH314",
+    "coursedescription": "The course is designed to aid students in making the transition from calculus, differential equations and linear algebra to the more advanced and more abstract mathematics courses, such as abstract algebra and real analysis. The course will cover mathematical logic, mathematical proofs, mathematical induction, set theory, relations, functions, cardinality and applications of proofs in the study of such areas as number theory, calculus and group theory, as time permits.",
+    "course-prerequsities": [
+      "MATH 141"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Probability and Statistics",
+    "courseid": "MATH345",
+    "coursedescription": "Introduction to the fundamental ideas and techniques of probability theory. Topics covered: properties of probability, independence, conditional probability, discrete and continuous random variables, density and distribution function, expectation, variance, covariance, moments, correlation, joint distribution, marginal, some common distributions such as uniform, Bernoulli, binomial, exponential, Poisson and normal distribution, and the Central Limit Theorem. The course also introduces some basic ideas of statistical analysis, e.g. parameter estimation and hypothesis testing.",
+    "course-prerequsities": [
+      "MATH 141"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Abstract Algebra II",
+    "courseid": "MATH361",
+    "coursedescription": "Introduction to ring and field theory. Topics include: commutative rings, ideals, integral domains, polynomial fields, the theory of extension fields, vector spaces, Galois groups, and the fundamental theorem of Galois theory. Applications include insolvability of certain higher degree polynomials, and other topics as time permits.",
+    "course-prerequsities": [
+      "MATH 360"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "History of Mathematics",
+    "courseid": "MATH370",
+    "coursedescription": "This course traces the development of mathematics from ancient times up to and including 17th century developments in the calculus. Emphasis is on the development of mathematical ideas and methods of problem solving.",
+    "course-prerequsities": [
+      "MATH 141",
+      "260"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Numerical Linear Algebra",
+    "courseid": "MATH426",
+    "coursedescription": "This course is a continuation of linear algebra, towards topics relevant to applications as well as theoretical concepts. Topics to be discussed are algebraic systems, the singular value decomposition (SVD) of a matrix and some of its modern applications. We will discuss Principal Component Analysis (PCA) and its applications to data analysis. We will study linear transformations and change of basis. We will discuss complex vector spaces and Jordan canonical form of Matrices. We will discuss non-negative matrices and Perron-Frobenius Theory. We will explain multiple matrix factorisations, such as LU, QR, NMF. Finally we will discuss other applications such as the Fast Discrete Fourier Transform. For each of these topics we will discuss numerical computer algorithms and their implementations. In particular we will discuss in detail eigenvalue estimation, including iterative and direct methods, such as Hausholder methods, tri-diagonalzation, power methods, and power method with shifts. We will explain concepts of numerical analysis that are important to consider when we talk about the implementation of algorithms, such as stability and convergence. We will discuss iterative methods as well as direct ones, their advantages and disadvantages. The methods are their applications will be illustrated using a common programming language such as python and/or R.",
+    "course-prerequsities": [
+      "MATH 260",
+      "CS 110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "General Topology",
+    "courseid": "MATH440",
+    "coursedescription": "This course is an introduction to the abstract theory of continuity and convergence, otherwise known as general (or point-set) topology. Topics include metric spaces and topological spaces, continuity, subspaces, product and quotient spaces, sequences, nets and filters, separation and countability, compactness, connectedness, and the fundamental group.",
+    "course-prerequsities": [
+      "MATH 260",
+      "MATH 314"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computational Statistics",
+    "courseid": "MATH448",
+    "coursedescription": "This course is an introduction to the fundamental ideas and techniques of statistical inference. The course demonstrates how and when to use statistical methods, explains the mathematical background behind them and illustrates them with case studies. Topics covered include the Central Limit Theorem, parameter estimation, confidence intervals, hypothesis testing, type I and II errors, power, significance level, p-value, likelihood ration tests, t-test, paired and 2-population t-tests, goodness-of-fit tests, chi-square tests, contingency tables, exact tests, nonparametric tests, ANOVA and regression models. Statistical software such as R, Matlab, or Python, will be used to analyze real-world data.",
+    "course-prerequsities": [
+      "MATH 345"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "An Introduction to Real Analysis",
+    "courseid": "MATH450",
+    "coursedescription": "A rigorous treatment of the calculus of functions of one real variable. Emphasis is on proofs. Includes discussion of topology of real line, limits, continuity, differentiation, integration and series.",
+    "course-prerequsities": [
+      "MATH 314",
+      "MATH 270",
+      "354"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theory of Numbers",
+    "courseid": "MATH458",
+    "coursedescription": "This course is an introduction to elementary theory of numbers. Topics include, but are not limited to: divisibility and prime numbers, Euclidean algorithm and applications, congruence arithmetic, primitive roots, quadratic residues, continued fractions, Diophantine linear and quadratic equations, approximations by rationals.",
+    "course-prerequsities": [
+      "MATH 291",
+      "CS 110",
+      "MATH 260",
+      "MATH 314"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics include, but are not limited to: divisibility and prime numbers, Euclidean algorithm and applications, congruence arithmetic, primitive roots, quadratic residues, continued fractions, Diophantine linear and quadratic equations, approximations by rationals."
+      ]
+    }
+  },
+  {
+    "coursename": "Probability & Statistics I for Secondary Teachers",
+    "courseid": "MATH545",
+    "coursedescription": "This course presents the mathematical laws of random phenomena, including discrete and continuous random variables, expectation and variance, and common probability distributions such as the binomial, Poisson, and normal distributions. Topics also include basic ideas and techniques of statistical analysis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "History of Mathematics for Secondary Teachers",
+    "courseid": "MATH570",
+    "coursedescription": "This course traces the development of mathematics from ancient times up to and including 17th century developments in the calculus. Emphasis is on the development of mathematical ideas and methods of problems solving. Attention will also be paid to the relevance of history to mathematics teaching as well as investigation into the origins of non-Euclidean geometry even though this comes well after Newton and Leibniz, because of its relatively elementary character and fascinating nature.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Numerical Linear Algebra",
+    "courseid": "MATH626",
+    "coursedescription": "This course introduces the essential ideas and computational techniques that modern scientists or engineers will need in order to carry out their work. In most scientific modeling projects, investigators have to deal with very large systems of linear equations, understanding of which requires powerful computers, and a firm understanding of the vast number of existing pertinent algorithms. The main goal of the course is to provide an introduction to algorithmic and mathematical foundations of high-performance matrix computations. Topics include linear algebraic systems, the singular value decomposition (SVD) of a matrix and some of its modern applications. We will discuss Principal Component Analysis (PCA) and its applications to data analysis. We will study linear transformations and change of basis. We will discuss complex vector spaces and the Jordan canonical form of Matrices. We will discuss non-negative matrices and Perron-Frobenius Theory. We will explain multiple matrix factorizations, such as LU, QR, NMF. For each of these topics we will discuss numerical computer algorithms and their implementations. In particular we will discuss in detail eigenvalue estimation, including iterative and direct methods, such as Hausholder methods, tri-diagonalization, power methods, and power methods with shifts. We will explain concepts of numerical analysis that are important to consider when we talk about the implementation of algorithms, such as stability and convergence. We will discuss iterative methods as well as direct ones, their advantages and disadvantages. The methods and their applications will be illustrated using a common programming language such as python and/or R. The course will emphasize mathematical and software engineering methods that will allow students to fully participate at all levels of algorithm design and implementation.",
+    "course-prerequsities": [
+      "MATH 625"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Computational Statistics",
+    "courseid": "MATH648",
+    "coursedescription": "This course is an introduction to the fundamental ideas and techniques of statistical inference. The course demonstrates how and when to use statistical methods, explains the mathematical background behind them and illustrates them with case studies. Topics covered include the Central Limit Theorem, parameter estimation, confidence intervals, hypothesis testing, type I and II errors, power, significance level, p-value, likelihood ratiotests, t-test, paired and 2-population t-test, goodness-of-fit tests, contingency tables, exact tests, nonparametric tests, ANOVA and regression models. Statistical software such as R, Matlab, or Python, will be used to analyze real-world data.",
+    "course-prerequsities": [
+      "MATH 647"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

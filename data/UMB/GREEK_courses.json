@@ -1,0 +1,54 @@
+[
+  {
+    "coursename": "Elementary Classical Greek II",
+    "courseid": "GREEK102",
+    "coursedescription": "A continuation of Greek 101.",
+    "course-prerequsities": [
+      "GREEK 101",
+      "GREEK 120",
+      "GREEK 151"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Greek II: Homer",
+    "courseid": "GREEK222",
+    "coursedescription": "Introductory reading in the Iliad or Odyssey; continuation of Greek 211.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "GREEK479",
+    "coursedescription": "Directed projects in Greek language and literature.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors",
+    "courseid": "GREEK490",
+    "coursedescription": "Special projects in Greek language and literature for honors candidates.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "History of Greek Literature",
+    "courseid": "GREEK660",
+    "coursedescription": "A survey of the major authors and genres of Greek literature from the archaic period to the empire. Readings in Greek will help students appreciate the differences of style among the authors.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "GREEK695",
+    "coursedescription": "Directed projects in Greek language and literature.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

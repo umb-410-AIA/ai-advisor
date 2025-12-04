@@ -1,0 +1,300 @@
+[
+  {
+    "coursename": "Environmental Concerns and Chemical Solutions",
+    "courseid": "CHEM111L",
+    "coursedescription": "Human society is constantly facing such environmental issues and problems as ozone depletion, air pollution, acid rain, environmental toxins, and renewable energy resources. This course provides students with a foundation in chemistry that can be used to examine these and other environmental concerns. A combination of lecture and group discussion illustrates the science behind these issues, and helps students develop an unbiased view.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Chemical Principles I Lecture",
+    "courseid": "CHEM115",
+    "coursedescription": "Introduction to the fundamental principles of chemistry including atomic structure, stoichiometry, the periodic table of the elements, chemical bonding, molecular structure, and states of matter based on kinetic theory. This course is intended for majors in any of the sciences, including pre-dental, pre-medical, and pre-engineering students",
+    "course-prerequsities": [
+      "MATH 130",
+      "MATH 140",
+      "CHEM 117"
+    ],
+    "course-corequisites": [
+      "MATH 130",
+      "MATH 140",
+      "CHEM 117"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Chemical Principles II Lecture",
+    "courseid": "CHEM116",
+    "coursedescription": "Introduction to acid-base systems, elementary thermodynamics, chemical kinetics and equilibria, electrochemistry, oxidation-reduction reactions, and a survey of the chemical properties of elements based on principles already introduced. This course is intended for majors in any of the sciences, including pre-dental, pre-medical, and pre-engineering students.",
+    "course-prerequsities": [
+      "CHEM 115",
+      "MATH 130",
+      "CHEM 118"
+    ],
+    "course-corequisites": [
+      "CHEM 118"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Chemical Principles I Laboratory",
+    "courseid": "CHEM117",
+    "coursedescription": "Laboratory (accompanies CH 115, the lecture component of the course) presents an introduction to methods of quantitative chemical techniques.",
+    "course-prerequsities": [
+      "CHEM 103"
+    ],
+    "course-corequisites": [
+      "CHEM 115",
+      "CHEM 103"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Chemical Principles II Laboratory",
+    "courseid": "CHEM118",
+    "coursedescription": "Laboratory (accompanies CH 116, the lecture component of the course) presents an introduction to qualitative and quantitative analysis.",
+    "course-prerequsities": [
+      "CHEM 117"
+    ],
+    "course-corequisites": [
+      "CHEM 116"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Physiological Chemistry",
+    "courseid": "CHEM130",
+    "coursedescription": "This course provides a foundation of the chemistry principles relevant to physiological systems and processes. Quantitative and descriptive tools are presented and developed so as to provide a basis for understanding metabolic pathways and biological structures at the molecular level. Fundamentals of atomic and molecular structure, energetics, and reaction dynamics will be studied in a context that illustrates the molecular mechanisms of life processes.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Organic Chemistry I Lecture",
+    "courseid": "CHEM251",
+    "coursedescription": "Introduction to the structure and synthesis of organic molecules, the reactions of the principal functional groups, and the basis theory of organic chemistry. The prediction of reaction products using reaction mechanisms, and the determination of organic structure using spectroscopy. The underlying role of stereochemistry in organic structure and reactions will be emphasized.",
+    "course-prerequsities": [
+      "CHEM 116",
+      "CHEM 104",
+      "CHEM 118",
+      "CHEM 255"
+    ],
+    "course-corequisites": [
+      "CHEM 255"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Organic Chemistry II Lecture",
+    "courseid": "CHEM252",
+    "coursedescription": "Fundamental principles and advanced topics in organic chemistry. Carbonyl chemistry is covered in particular detail, using principles of stereochemistry, stereoelectronic theory, and molecular orbital theory as a foundation. Students learn about strategies in multi-step organic synthesis and are given an introduction into organometallic chemistry.",
+    "course-prerequsities": [
+      "CHEM 251",
+      "CHEM 253",
+      "CHEM 255",
+      "CHEM 256"
+    ],
+    "course-corequisites": [
+      "CHEM 256"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Organic Chemistry I Laboratory",
+    "courseid": "CHEM255",
+    "coursedescription": "Laboratory (accompanies Chem 251, the lecture component of the course) presents an introduction to organic laboratory techniques such as extraction, distillation, and recrystallization.",
+    "course-prerequsities": [
+      "CHEM 116",
+      "118",
+      "CHEM 104"
+    ],
+    "course-corequisites": [
+      "CHEM 251"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Organic Chemistry II Laboratory",
+    "courseid": "CHEM256",
+    "coursedescription": "Laboratory (accompanies Chem 252, the lecture component of the course) presents an introduction to organic synthesis.",
+    "course-prerequsities": [
+      "CHEM 255",
+      "CHEM 252"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Physical Chemistry",
+    "courseid": "CHEM312",
+    "coursedescription": "This is an introductory course in chemical thermodynamics, kinetic theory and classical chemical kinetics. Topics include the First, Second, and Third Laws of Thermodynamics with special application to chemical transformations. Phase equilibria and the phase rule are discussed in detail. A discussion of chemical kinetics includes rate laws, order, molecularity, and activation parameters.",
+    "course-prerequsities": [
+      "CHEM 311"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Physical Chemistry Laboratory",
+    "courseid": "CHEM314",
+    "coursedescription": "This is a laboratory course designed to illustrate various topics discussed in Chemistry 312 and to introduce data analytical methods including statistics and error propagation.",
+    "course-prerequsities": [
+      "PHYSIC 181",
+      "CHEM 313",
+      "ENGL 102"
+    ],
+    "course-corequisites": [
+      "CHEM 312"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Analytical Instrumentation",
+    "courseid": "CHEM361",
+    "coursedescription": "Principles and use of instrumental methods in analysis.",
+    "course-prerequsities": [
+      "CHEM 313",
+      "CHEM 379"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Inorganic Chemistry",
+    "courseid": "CHEM370",
+    "coursedescription": "Discussion of the fundamental principles of theoretical and descriptive modern inorganic chemistry.",
+    "course-prerequsities": [
+      "CHEM 369"
+    ],
+    "course-corequisites": [
+      "CHEM 371"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Inorganic Chemistry Laboratory",
+    "courseid": "CHEM371",
+    "coursedescription": "This course provides practical laboratory experience in synthesis, reactivity, and characterization of inorganic compounds.",
+    "course-prerequsities": [
+      "CHEM 379"
+    ],
+    "course-corequisites": [
+      "CHEM 370"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Green Chemistry",
+    "courseid": "CHEM471",
+    "coursedescription": "This course probes aspects of chemistry that are designed to benefit society and that search for pathways to minimize environmental impact. The course first studies a specific environmental problem in depth, then probes the pragmatic implications of discoveries in the field, and finally provides an array of representative green chemistry examples.",
+    "course-prerequsities": [
+      "CHEM 312",
+      "CHEM 254"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Readings in Chemistry",
+    "courseid": "CHEM479",
+    "coursedescription": "Topics vary depending on instructor.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Laboratory in Chemistry I",
+    "courseid": "CHEM481",
+    "coursedescription": "Special laboratory topics under individual guidance by faculty member. (Course offered in the fall only.)",
+    "course-prerequsities": [
+      "CHEM 254",
+      "256",
+      "CHEM 311"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Laboratory in Chemistry II",
+    "courseid": "CHEM482",
+    "coursedescription": "Special laboratory topics under individual guidance by faculty member.",
+    "course-prerequsities": [
+      "CHEM 254",
+      "256",
+      "CHEM 311"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Senior Thesis II",
+    "courseid": "CHEM499",
+    "coursedescription": "This course, the second in a two-part sequence, contains both laboratory and classroom components. In the classroom, topics of interest to practicing chemists are discussed, including segments on scientific presentations (e.g., posters, PowerPoint, seminar talks) and career preparation. Students will regularly attend departmental research seminars, as well as continuing on their capstone research project.",
+    "course-prerequsities": [
+      "CHEM 498"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In the classroom, topics of interest to practicing chemists are discussed, including segments on scientific presentations (e.g., posters, PowerPoint, seminar talks) and career preparation."
+      ]
+    }
+  },
+  {
+    "coursename": "Organic Synthesis & Mechanisms",
+    "courseid": "CHEM621",
+    "coursedescription": "Discussion of the mechanisms of fundamental reactions used in organic synthesis. Critical analysis of the tactics and strategy of the use of these reactions for the construction of organic compounds.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Analytical Instrumentation",
+    "courseid": "CHEM661",
+    "coursedescription": "This course provides a survey of the different types of instrumentation that is in the chemist's tool box. The advantages and disadvantages will be stressed in effort to develop the insight necessary to choose the right tool for the problem at hand. We will use several of these tools in the laboratory portion of the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Green Chemistry",
+    "courseid": "CHEM671",
+    "coursedescription": "The goal of this course is to provide a global perspective on Green Chemistry. The first of three sections will identify an environmental problem such as global warming, ozone depletion, or water pollution. The second section will look at real-world implications of Green Chemistry-for example, from a manufacturing, toxicological, or economic perspective. The third section will present an array of representative topics: renewable energy, atmospheric chemistry, chemical reactions in water and soil, or benign chemical syntheses, for example. Combined, the three sections provide an understanding of chemistry designed to benefit society and provide pathways to minimize environmental impact.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Seminar II",
+    "courseid": "CHEM692",
+    "coursedescription": "Students take CHEM 691 or 692 during every semester they are enrolled in the program.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "CHEM696",
+    "coursedescription": "Study of a particular area of chemistry under the supervision of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Master's Thesis",
+    "courseid": "CHEM699",
+    "coursedescription": "Open to degree candidates.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Research",
+    "courseid": "CHEM899",
+    "coursedescription": "Research, conducted under faculty supervision, which leads to the presentation of a doctoral dissertation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]
