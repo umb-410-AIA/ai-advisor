@@ -27,7 +27,8 @@ export interface MessageBox {
     data: any;
   };
   mermaid?: string;
-  tool?: string;
+  tool_id?: string;
+  tool_calls?: string[];
 }
 
 const CHAT_API = "/api/chat"
@@ -115,42 +116,51 @@ export default function Home() {
 
     setLoading(true);
     try {
-      // Determine which API to call
-      const res = await fetch(CHAT_API, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "Authorization": `Bearer ${token}`
-        },
-        body: JSON.stringify({ message: input }),
-      });
-      
-      if (!res.ok) {
-        const errorData = await res.json().catch(() => ({}));
-        console.error('API request failed:', res.status, res.statusText, errorData);
-        throw new Error(`API request failed: ${res.status}`);
-      }
-
-      // get response from llm
-      const llmRes = await res.json();
-
-      // show llm response
-      setChat((chat) => { return [...chat, llmRes] });
-
-      // tool call update profile
-      if (llmRes.tool === "updateUserProfile") { 
-        setOnboarding(false);
-        // look for user profile
-        var userprofile = await fetch("/api/userprofile", {
+      let message = input;
+      while (true) {
+          const res = await fetch(CHAT_API, {
           method: "POST",
           headers: {
-          "Content-Type": "application/json",
-          "Authorization": `Bearer ${token}`
+            "Content-Type": "application/json",
+            "Authorization": `Bearer ${token}`
           },
+          body: JSON.stringify({ message: message }),
         });
-        var { chats, profile } = await userprofile.json();
-        setProfile(profile)
-      } 
+        
+        if (!res.ok) {
+          const errorData = await res.json().catch(() => ({}));
+          console.error('API request failed:', res.status, res.statusText, errorData);
+          throw new Error(`API request failed: ${res.status}`);
+        }
+
+        // get response from llm
+        const llmRes = await res.json();
+
+        if (llmRes.tool_id) {
+          setChat((chat) => { return [...chat, llmRes] });
+          message = "tool";
+          continue;
+        } else {
+          // show llm response
+          setChat((chat) => { return [...chat, llmRes] });
+          break;
+        }
+      }
+
+      // // tool call update profile
+      // if (llmRes.tool === "updateUserProfile") { 
+      //   setOnboarding(false);
+      //   // look for user profile
+      //   var userprofile = await fetch("/api/userprofile", {
+      //     method: "POST",
+      //     headers: {
+      //     "Content-Type": "application/json",
+      //     "Authorization": `Bearer ${token}`
+      //     },
+      //   });
+      //   var { chats, profile } = await userprofile.json();
+      //   setProfile(profile)
+      // } 
 
       setInput('');
     } catch (error) {

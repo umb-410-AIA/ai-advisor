@@ -5,7 +5,7 @@ import { upsertUserData, fetchUserData } from "@/utils/userdata";
 import { insertChatMessage, fetchChatMessages } from "@/utils/chats";
 import { getUserId } from "@/utils/auth";
 import { get } from "http";
-import { llm, reload_prompt, default_system_prompt } from "@/utils/llm";
+import { llm, reload_prompt, default_system_prompt, tool_prompt } from "@/utils/llm";
 import { UNIVERSITIES } from "@/utils/universityDB"; 
 import { getCoursesByMajor } from "@/utils/universityDB";
 
@@ -66,6 +66,9 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       var reply;
       if (message === "init") {
         const system_prompt = userContext + "\n" + reload_prompt 
+        reply = await llm(user_id, null, system_prompt);
+      } else if (message === "tool") {
+        const system_prompt = userContext + "\n" + tool_prompt 
         reply = await llm(user_id, null, system_prompt);
       } else {
         const system_prompt = userContext + "\n" + default_system_prompt 

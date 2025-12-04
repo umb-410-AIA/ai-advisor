@@ -1,13 +1,14 @@
 import OpenAI from "openai";
 import { insertChatMessage, fetchChatMessages, getChatID } from "./chats";
 import { fetchUserData, upsertUserData } from "./userdata";
+import { LLMResponse } from "./chats";
 import { getCoursesByMajor, getMajorByUniversity, UNIVERSITIES } from "./universityDB";
 import { extractMermaidFromText } from "./extractMermaid";
 import { MessageBox } from "@/pages";
 
 const MESSAGE_LIMIT = 10 // limit open ai API to 10 message history
 
-const UNIVERSITY_MAP = UNIVERSITIES.map((u, i) => `${i}: ${u}`).join("\n") // map university name to int (UMB is 0)
+const UNIVERSITY_MAP = UNIVERSITIES.map((u, i) => `${i + 1}: ${u}`).join("\n") // map university name to int (UMB is 1)
 
 const APP_DESCRIPTION = `You are an AI-powered college advisor designed to help students plan their academic journeys.
       Your primary functions include:
@@ -28,42 +29,147 @@ export const reload_prompt = `
         Never guess. Ask for clarification instead of calling the tool if invalid.
         Use a medium amount of words.
     `;
+
+export const tool_prompt = `You've just made a toolcall to do something. 
+                            Try to find the next toolcall you should make 
+                            or return to the previous context.`
+// Source: CHATGPT
+// Prompt: Rewrite this LLM system prompt to be more reliable and follow a clear step by step process
+// so my model does not hallucinate
 export const default_system_prompt = `
-    ${APP_DESCRIPTION}
+
     UNIVERSITY_MAP = ${UNIVERSITY_MAP}
 
-    Check the last MESSAGE_COUNT messages for relevant information.
-    
-    Anytime the user provides a university name (even vaguely), you MUST normalize University name first.
-    You are not allowed to call any university-related tool until you have a valid normalized university_id,
-    according to UNIVERSITY_MAP. Then you can continue with the original request.
-    
-    If the user provides a piece of data marked as "UNKNOWN" in the profile, immediately save user profile 
-    with the updateUserProfile tool. If you see "UNKNOWN" info in the last MESSAGE_COUNT messages, you must save
-    this info as well. 
+    MESSAGE_COUNT = number of user messages since page load (provided at runtime).
 
-    When a user asks for course recommendations, paths, or visualizations, use the visualizeCoursePath tool.
-    Always refer to the VALID_MAJORS list for the user's selected or saved university.
-    To get the valid majors list for a university, use the getMajorByUniversity tool.
-    Use that list to guide your next tool calls and responses.
+    APP_DESCRIPTION:
+    ${APP_DESCRIPTION}
 
-    If you ever call a tool that requires university_id using a raw string instead of an ID returned from the map, that is considered an invalid action.
-    If you ever call a tool that requires major using a raw major string instead of a major string matching one in MAJOR_LIST, returned from getMajorByUniversity, 
-      that is considered an invalid action.
+    ACADEMIC DATA REQUIREMENTS:
+    If a user provides major/university information and visualization or saving is
+    required, the full set of needed tools is:
 
-    IMPORTANT RULES: 
-      When passing major anywhere for any tool call
-      - Use exact major names from the valid majors list for that university.
-          If you do not know what majors the university has, make a toolcall to getMajorByUniversity
-          If the major the user mentioned isn't in the valid majors list, ask the user
-          to try a different major, and tell them what choices they can make from the valid majors list.
-      - Never make up a major or university.
-      - Never make up course names or course codes.
-      - Never provide incorrect information or harmful advice.
-      - Always verify information before providing it.
-      - Always respond in a friendly and helpful tone.
-      - Do not end early; make sure user request is fulfilled using as many tool calls as necessary
-      `;
+    1. getMajorByUniversity
+    2. getCoursesByMajor
+    3. saveUserData (if updating profile)
+    4. visualizeCoursePath (if generating a plan)
+
+    TOOLCALL RULES:
+    You may only use one tool call at a time.
+    Split multiple toolcalls across messages
+
+    ====================================================================
+    PRIORITY STACK (Follow these steps in strict order)
+    ====================================================================
+
+    1. **Ambiguity Check**
+      If the user provides ambiguous, unclear, or conflicting information:
+        → Ask a clarification question.
+        → Do NOT call any tool yet.
+
+    2. **University Normalization**
+      Any time the user mentions a university (even vaguely):
+        → First call normalizeUniversity.
+        → All subsequent toolcalls must use the returned university_id.
+      Using raw university strings for toolcalls is invalid.
+
+    3. **Unknown-Field Completion**
+      If the user provides information that fills a profile field currently marked as UNKNOWN:
+        → Immediately call updateUserProfile with that new data.
+
+    4. **Major Validation**
+      Before ANY course-recommendation or visualization step:
+        → Call getMajorByUniversity(university_id) to retrieve valid majors.
+        → The user major MUST match one of the returned majors exactly.
+      Using a raw major string not in that list is invalid.
+
+    5. **Autonomous Multi-Step Toolcalling**
+      If the user request requires multiple steps (e.g., normalize → fetch majors → visualize):
+        → Perform all needed toolcalls in order.
+        → Do NOT wait for extra user input if the intent is clear.
+
+    6. **Page Reload Behavior**
+      If MESSAGE_COUNT <= 1:
+        → Give a friendly intro summarizing APP_DESCRIPTION.
+        → Begin onboarding by asking ONE missing profile question at a time.
+      If MESSAGE_COUNT > 1:
+        → Briefly remind them of context.
+        → If any profile field is UNSAVED or UNKNOWN but user data exists, call updateUserProfile immediately.
+
+    7. **History Awareness**
+      Always reference the last MESSAGE_COUNT messages for context, prior answers, or missing fields.
+
+    ====================================================================
+    STRICT RULES
+    ====================================================================
+
+    - Never make up a university, major, or course.
+    - Never guess qualifications; ask instead.
+    - Never provide fictitious course codes or structures.
+    - Always verify through tools before responding.
+    - Maintain a helpful, concise, friendly tone.
+    - Never end with statements like “hold on,” “wait,” “let me think,” etc.
+    - If a tool requires university_id or major:
+        → You must use the values from tools, not raw strings.
+    - Do not assume data exists unless returned by a tool.
+
+    MANDATORY TOOLCALL ORDER:
+    1. You MUST call getMajorByUniversity(university_id) BEFORE any other academic tool.
+    2. You MUST then call getCoursesByMajor(major, university_id) to retrieve all official courses for that major.
+    3. You may NOT call visualizeCoursePath or saveUserData until both steps above have successfully completed.
+    4. If a user enters a major in any freeform text (e.g., “CS”, “Computer Science”, “CompSci”), you MUST normalize it by calling getMajorByUniversity first.
+
+    REASONING REQUIREMENT:
+    You cannot assume the user-provided major is valid. ALWAYS normalize it via getMajorByUniversity.
+
+    VISUALIZATION RULE:
+    Never call visualizeCoursePath without validated course data obtained from getMajorByUniversity → getCoursesByMajor.
+
+
+    ====================================================================
+    TOOL RETURN FORMATS (STRICT)
+    Do NOT invent fields. Do NOT infer. Do NOT rename fields.
+    ====================================================================
+
+    normalizeUniversity(name: string)
+      → { university_id: number, normalized_name: string }
+
+    getMajorByUniversity(university_id: number)
+      → { majors: string[] }
+
+    updateUserProfile(profile: object)
+      → { success: boolean }
+
+    getUserProfile()
+      → { profile: object }
+
+    visualizeCoursePath(university_id: number, major: string)
+      → { visualization_data: VISUALIZATION_DATA }
+
+    listUniversities()
+      → { universities: { id: number, name: string }[] }
+
+    listCourses(university_id: number, major: string)
+      → { courses: { id: string, name: string, prerequisites: string[] }[] }
+
+    getJobOutlook(major: string)
+      → { careers: { title: string, description: string, salary_range: string }[] }
+
+    ====================================================================
+    BEHAVIORAL GUIDELINES
+    ====================================================================
+
+    - Prefer shorter, clear explanations.
+    - Use multiple toolcalls only when required to complete user intent.
+    - Remain proactive: if the user implicitly needs a tool, use it.
+    - Use Mermaid diagrams only through visualizeCoursePath.
+    - When onboarding, never ask more than one profile question at a time.
+    - Always surface contradictions politely and ask for clarification.
+
+    ====================================================================
+    END OF SYSTEM PROMPT
+    ====================================================================
+    `
 
 const SAVED_REPROMPT = ` (Use 50 words or less)
                   Tell the user their profile was just updated with new data. 
@@ -97,9 +203,9 @@ const openai = new OpenAI({
 // summarizes chat history to keep token usage low
 async function summarizeChatHistory(messages: any[]) {
   const summaryPrompt = `
-    Summarize the following conversation between a user and an AI assistant in 100 words or less.
+    Summarize the following conversation between a user and an AI assistant in 500 words or less.
     Focus on the main topics discussed, user preferences, and any important context that would help continue the conversation.
-    Provide the summary in plain text without any additional commentary.`
+    Provide the summary in plain text without any additional commentary. You must capture all context from the whole conversation`
 
   const summaryMessages = [
     {
@@ -123,6 +229,7 @@ async function summarizeChatHistory(messages: any[]) {
 }
 
 // add message count metadata to read history
+
 const tagMessages = (messages) => {
   const tagged_messages = [...messages]
   tagged_messages.push({
@@ -136,30 +243,30 @@ export async function llm(user_id: string,
                           prompt: string, 
                           system_prompt: string) 
 {
-  const llmRes: MessageBox = {
-      user: prompt,
-      bot: null,
-      visualization: null,
-      mermaid: null,
-      tool: null
-  };
-
-  // get user data
-  
-
   // get chat history
   let chat_id = await getChatID(user_id);
   let messages = [];
   if (chat_id) {
-    const chats = await fetchChatMessages(user_id, chat_id)
-    messages = chats
-        .filter(m => m.role !== "system")
-        .map(m => ({
-          role: m.role,
-          content: m.message
-        }));
+    const chats = await fetchChatMessages(user_id, chat_id);
+
+    messages = chats.map(m => ({
+      role: m.role,
+      content: m.content,
+      tool_call_id: m.tool_call_id,
+      tool_calls: JSON.parse(m.tool_calls) 
+    }));
   } else {
     chat_id = crypto.randomUUID(); 
+  }
+
+  // Create base message object
+  const llmRes: MessageBox = {
+    user: prompt,
+    bot: null,
+    visualization: null,
+    mermaid: null,
+    tool_id: null,
+    tool_calls: null,
   }
 
   // push current prompt to old message history
@@ -175,7 +282,10 @@ export async function llm(user_id: string,
       role: "user",
       content: prompt
     });
-    await insertChatMessage(user_id, chat_id, prompt, "user")
+    await insertChatMessage({user_id: user_id, 
+                            chat_id: chat_id, 
+                            content: prompt,
+                            role: "user"})
   }
 
   // // prune messages from getting too long
@@ -195,10 +305,9 @@ export async function llm(user_id: string,
         function: {
           name: "getCoursesByMajor",
           description: `
-                        Retrieves a list of courses from the database
-                        with matching "major" and "university_id" argument.
-                        Requires a validated university_id from normalizeUniversity. 
-                        Major must match MAJOR_LIST from previous tool call.`,
+                        May only be invoked AFTER getMajorByUniversity.
+                        Retrieves the official course list for that university + major.
+                      `,
           parameters: {
             type: "object",
             additionalProperties: false,
@@ -218,8 +327,7 @@ export async function llm(user_id: string,
                         Updates user profile fields. 
                         Only include the fields that should be updated.
                         Omit fields that should remain unchanged.
-                        Must run everytime user enters info not
-                        present in USER_PROFILE
+                        Must be called AFTER the user's major has been validated and AFTER course data is fetched.
                       `,
           parameters: {
             type: "object",
@@ -243,9 +351,9 @@ export async function llm(user_id: string,
         function: {
           name: "visualizeCoursePath",
           description: `Generates a visualization request for a course path.
-                        Both major and university_id MUST be validated:
-                        - normalized university_id from normalizeUniversity UNIVERSITY_ID
-                        - major from getMajorByUniversity MAJOR_LIST`,
+                        NEVER call before course data exists.
+                        Requires validated major AND confirmed course list.
+                        `,
           parameters: {
             type: "object",
             additionalProperties: false,
@@ -261,10 +369,10 @@ export async function llm(user_id: string,
         type: "function",
         function: {
           name: "getMajorByUniversity",
-          description: `Retrieves a list of valid majors for a given university ID.
-                        Requires a validated university_id value. 
-                        ID must match UNIVERSITY_ID from previous tool call.
-                        Never use raw or unverified user inputs.`,
+          description: `Use this tool to normalize ANY major string provided by the user.
+                        This MUST be called whenever a user references a major.
+                        Output is the canonical major name for that university.
+                        `,
           parameters: {
             type: "object",
             additionalProperties: false,
@@ -282,102 +390,97 @@ export async function llm(user_id: string,
   // get reply
   let reply = completion.choices[0]?.message;
   
-  // push initial message
-  messages.push(reply);
+  const assistantContent = reply.content ?? "";
 
-  // Save to DB if not a toolcall
-  if (reply.content && !reply.tool_calls) {
-    console.log("SAVE\n")
-    await insertChatMessage(user_id, chat_id, reply.content, "assistant");
-  } 
+  console.log(reply.tool_calls)
 
+  messages.push({
+    role: "assistant",
+    content: assistantContent,
+    tool_calls: reply.tool_calls
+  });
+
+  await insertChatMessage({
+    user_id,
+    chat_id,
+    role: "assistant",
+    content: assistantContent,
+    tool_calls: JSON.stringify(reply.tool_calls),
+    tool_call_id: null
+  });
+
+  // set ui response
+  llmRes.bot = reply.content;
   console.log("MESSAGES:\n", messages)
 
   // Source ChatGPT:
   // Prompt: Rewrite this code to handle multiple tool calls in a loop until no tool calls are left.
   // Current code only handles one tool call.
   // *-- begin llm tool call loop --*
-  while (true) { // loop until no tool calls left
-    if (!reply) break;
-    
-    // check for tool calls
-    if (reply.tool_calls?.length > 0) {
-      const toolCall = reply.tool_calls[0];
+  // check for tool calls
+  if (reply.tool_calls?.length > 0) {
+    for (const toolCall of reply.tool_calls) {
       console.log("TOOL CALL\n", toolCall.function.name);
       const args = JSON.parse(toolCall.function.arguments);
-      
-      let result = {
-        data: null,
-        control: {}
-      };
-
+        
+      let result;
       // Parse tool call
       const functionName = toolCall.function.name
       if (functionName == "getMajorByUniversity") {
         console.log(args.university_id)
-        result.data = {
+          result = {
           MAJOR_LIST: await getMajorByUniversity(args.university_id)
         };
-        console.log(result.data.MAJOR_LIST)
       }
 
       else if (functionName == "getCoursesByMajor") {
-        result.data = {
+        result = {
           COURSE_LIST: await getCoursesByMajor(args.major, args.university_id)
         };
       } 
 
       else if (functionName == "updateUserProfile") {
         await upsertUserData(user_id, args);
-        result.control = {
+        result = {
           success: true,
           reprompt: SAVED_REPROMPT
         };
       }
 
       else if (functionName == "visualizeCoursePath") {
-        result.data = {
-          COURSE_LIST: await getCoursesByMajor(args.major, args.university_id)
-        };
-        result.control = {
+        result = {
+          COURSE_LIST: await getCoursesByMajor(args.major, args.university_id),
           reprompt: VISUALIZATION_REPROMPT
         };
       }
 
-
-      // Push toolcall response to DB if necessary
-      const toolRes = JSON.stringify(result.data)
-      if (toolRes) {
-        await insertChatMessage(user_id, chat_id, toolRes, "system")
-      }
-
       // REPROMPT AFTER TOOL CALL
-      const msg = {
+      const msg: LLMResponse = {
+        user_id: user_id,
+        chat_id : chat_id,
         role: "tool",
         tool_call_id: toolCall.id,
         content: JSON.stringify(result)
       }
-      messages.push(msg);
+      messages.push({role: "tool", content: msg.content, tool_call_id: msg.tool_call_id});
+      await insertChatMessage(msg);
 
-      const completion = await openai.chat.completions.create({
-        model: "gpt-4o-mini",
-        messages: tagMessages(messages)
-      });
-      reply = completion.choices[0]?.message;
-
-      // process mermaid if present
-      const { cleanedText, mermaid } = extractMermaidFromText(reply.content);
-
-      // update llmRes
-      llmRes.bot = cleanedText;
-      llmRes.tool = toolCall.function.name;
-      llmRes.mermaid = mermaid;
-      continue;
-    } else {
-      llmRes.bot = reply.content; // if no toolcalls found use reply content
-      await insertChatMessage(user_id, chat_id, llmRes.bot, "assistant")
-      break;
+      llmRes.tool_id = functionName
     }
+
+    const completion = await openai.chat.completions.create({
+      model: "gpt-4o-mini",
+      messages: messages
+    });
+    reply = completion.choices[0]?.message;
+    reply.content = reply.content ?? "";
+
+    // process mermaid if present
+    const { cleanedText, mermaid } = extractMermaidFromText(reply.content);
+
+    // update llmRes
+    llmRes.bot = cleanedText;
+    llmRes.mermaid = mermaid;
   }
   // *-- end llm tool call loop --*
 

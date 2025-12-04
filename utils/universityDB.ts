@@ -1,10 +1,17 @@
 import fs from "fs";
 
 const jsonDataPath = "./data/" 
-export const UNIVERSITIES = ["UMASS_BOSTON"]; // only umass boston for now
+export const UNIVERSITIES = [
+    null, // index 0 unused so IDs can start at 1
+    {
+        name: "UMASS_BOSTON",
+        majors: ["CS"],
+    },
+] as const;
         
 export async function getCoursesByMajor(major: string, university_id: number) {
-    const jsonPath = jsonDataPath + UNIVERSITIES[university_id] + "_coursecatalogstructured.json";
+    const name = UNIVERSITIES[university_id]?.name
+    const jsonPath = jsonDataPath + name + "_coursecatalogstructured.json";
     const raw = fs.readFileSync(jsonPath, "utf8");
     const data = JSON.parse(raw);
     
@@ -25,10 +32,6 @@ export async function getCoursesByMajor(major: string, university_id: number) {
 
 }
 
-export async function getMajorByUniversity(university: number) {
-    if (university === 0) { // UMASS_BOSTON
-        return [
-            "CS", // just cs for now
-        ];
-    }
+export async function getMajorByUniversity(university_id: number) {
+    return UNIVERSITIES[university_id]?.majors ?? [];
 }

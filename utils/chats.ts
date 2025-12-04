@@ -6,26 +6,33 @@ Then, write me some typescript example functions to insert into and read from th
  */
 import supabase from './supabaseClient';
 
-// Inserts a new message for a chat session
-export async function insertChatMessage(
+export interface LLMResponse {
   user_id: string,
   chat_id: string,
-  message: string,
-  role: 'user' | 'assistant' | 'system' | 'tool'
-) {
+  role: "assistant" | "tool" | "system" | "user";
+  content: string | null;
+  tool_call_id?: string; // for tool responses
+  tool_calls?: string;
+}
+
+
+// Inserts a new message for a chat session
+export async function insertChatMessage(msg: LLMResponse) {
   const { data, error } = await supabase
-    .from('chats')
-    .insert([{ user_id: user_id, 
-               chat_id: chat_id,
-               message: message, 
-               role: role }])
+    .from("chats")
+    .insert([
+      {
+        user_id: msg.user_id,
+        chat_id: msg.chat_id,
+        role: msg.role,
+        content: msg.content,
+        tool_call_id: msg.tool_call_id ?? null,
+        tool_calls: msg.tool_calls
+      }
+    ])
     .select();
 
-  if (error) {
-    console.error('Error inserting chat message:', error);
-    throw error;
-  }
-
+  if (error) throw error;
   return data;
 }
 
@@ -35,7 +42,7 @@ export async function getChatID(user_id: string) {
     .from('chats')
     .select('*')
     .eq('user_id', user_id)
-    .order('created_at', { ascending: true });
+    .order('created_at', { ascending: false });
 
     if (error) {
       console.error('Error fetching chat messages:', error);
