@@ -1,0 +1,404 @@
+[
+  {
+    "coursename": "PUBH 5010 Introduction to Biostatistics",
+    "courseid": "PUBH 5010",
+    "coursedescription": "This course is designed to provide a broad overview of biostatistics and its applications to public health research and practice. Topics covered will include techniques for describing and summarizing observations, for assessing associations among variables, and for determining the extent to which chance may be explaining and/or influencing the observed results. An emphasis will be placed on the practical application of biostatistics to address public health issues, rather than the underlying theoretical and mathematical concepts. Students will learn how to choose, apply, and interpret commonly used statistical tests. In addition, students will gain experience using STATA, a statistical software package, to analyze data. Upon completion of this course, students will be able to explain the (1) role of quantitative methods and sciences in describing and assessing a population’s health and (2) the critical importance of evidence in advancing public health knowledge. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5020 Introduction to the Principles and Methods of Epidemiology",
+    "courseid": "PUBH 5020",
+    "coursedescription": "This course is designed to introduce students in all branches of public health to the principles and methods of epidemiology and its approaches and applications. The course introduces the basic epidemiological study designs, including randomized trials and observational studies (cohort, case-control, cross-sectional, ecological), and presents the foundations to understand risk, disease surveillance, and modeling. At the completion of this course, the student will be able to: (1) identify key data sources for epidemiology; (2) understand the principles of public health screening and surveillance programs; (3) describe public health problems in terms of magnitude, people, time, and place; (4) explain the importance of epidemiology for informing scientific, ethical, economic, and political discussions on health issues. Homework and in-class assignments focus on building skills in locating, interpreting, assessing, synthesizing, and communicating evidence from the epidemiologic literature, with an emphasis on critical thinking, causal inference, and understanding bias and confounding. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5040 Public Health Theories & Frameworks",
+    "courseid": "PUBH 5040",
+    "coursedescription": "This introductory course is intended to provide students with a foundation in behavioral and social science theory in the context of public health research, policy, and practice. The content of this course will provide exposure to a broad range of theories and frameworks commonly employed in the field of public health for understanding health behaviors. These theories will be discussed using examples of their applications to numerous public health problems including, but not limited to: tobacco use, exercise, obesity, HIV/AIDS, violence, cancer, cardiovascular disease, diabetes, environmental hazards, COVID-19, and global health. Importantly, in order to consider the value and application of the theories and frameworks to these various health behaviors, this class also encourages students to critically consider the role of larger structural influences such as racism and other forms of discrimination on health behaviors. Fall, Spring, and Summer Terms 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These theories will be discussed using examples of their applications to numerous public health problems including, but not limited to: tobacco use, exercise, obesity, HIV/AIDS, violence, cancer, cardiovascular disease, diabetes, environmental hazards, COVID-19, and global health."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 5050 Public Health Policy & Administration",
+    "courseid": "PUBH 5050",
+    "coursedescription": "This course is an introduction to health policy and management. It examines both the historical and current state of health policy in America and integrates these concepts within the context of public health practice. We will examine key concepts in understanding US health care organization, financing and delivery, the Patient Protection and Affordable Care Act (PPACA) examining the role and management issues of public health departments, and case studies in public health policy and management. At the completion of this course, the student will be able to: (1) understand the policymaking process–both legislative and administrative; (2) understand the major national health and health insurance programs: Medicare and Medicaid, PPACA and private insurance; (3) explain current concepts of health policy around costs, quality and access to care; (4) describe the current problems in public health at clinical and system levels and discuss future needs; (5) introduce management skills in evidence-based health policy, budgeting, and legislative and administrative policymaking and advocacy. Fall, Spring, and Summer Terms 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5060 Methods for Public Health Practice",
+    "courseid": "PUBH 5060",
+    "coursedescription": "This course provides students with a foundation in public health practice methods with a focus on program planning. The course leads the student through the key phases of program planning from the identification of the public health problem, to assessing community needs, designing an intervention, and planning for implementation and evaluation. Public health practice methods employed throughout the course include: locating evidence through a variety of search mechanisms; collecting and assessing community data via qualitative research methods, surveys, and geo-spatial mapping; and planning and pitching intervention ideas via logic models, project narratives, and elevator speeches. This course is intended to provide an overview of the methods employed in public health and does not go into detail about one method verse the other. Students will have the opportunity to explore methods of their own through the design and presentation of a unique intervention targeting a health problem of their choice. Group work and case studies are used to compliment material. Course assignments are designed to add practical examples to the student’s public health career portfolio. Fall, Spring, and Summer Terms 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5070 Public Health Law & Ethics",
+    "courseid": "PUBH 5070",
+    "coursedescription": "Law has played an indispensable role in the promotion of population health over the last hundred years. Legal interventions represent some of the most popular tools for increasing the quality and length of life. Law also plays an important role in structuring the delivery of health services including but not limited to the financing and regulation of health professionals working within hospitals and out in the community. This course introduces legal, ethical, and political concepts essential to the use of law and legal reform in promoting public health. Using current examples, the course introduces the authority of government to act, the limits on government action, and the legal and ethical implications when that authority and those limits collide. While exploring the tension between individual liberty and community health, it introduces the distinction between government action and inaction, the distribution of power and responsibility between levels and branches of government, and principles like consent. The course combines lecture, interactive class exercises, and group discussion. Fall, Spring, and Summer Terms 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Law also plays an important role in structuring the delivery of health services including but not limited to the financing and regulation of health professionals working within hospitals and out in the community.",
+        "While exploring the tension between individual liberty and community health, it introduces the distinction between government action and inaction, the distribution of power and responsibility between levels and branches of government, and principles like consent."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 5170 Geography & Public Health",
+    "courseid": "PUBH 5170",
+    "coursedescription": "Geography can have a profound effect on health. Through this class, students will gain conceptual and technical understandings of: (1) how geography and health are related; and (2) how the public health toolbox, including geographic information systems (GIS) and spatial epidemiology, can be used to understand the places people live, work, and play and how these places either add to or detract from health. This class combines GIS laboratories and select lectures demonstrating how geographic methods can be used to address public health issues, hands-on computer and small group activities, and in-class training in ArcGIS software. Students will learn through an overt multidisciplinary approach that connects public health, geography, epidemiology, planning, medicine, and the social sciences. Spring Also Offered As: EPID 5180 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5190 Foundations of Global Health",
+    "courseid": "PUBH 5190",
+    "coursedescription": "This course provides an introductory overview of global health, with the primary aim to engage and inspire students about the opportunities and challenges of global health. Using an interdisciplinary approach to global health with an emphasis on addressing both global and local health disparities, learning formats include case-based analysis, small group discussion, faculty presentations, panels, and debates. Using the lens of health equity, this course provides an overview of many current issues in global public health and frameworks to address them, including: measures of disease burden; frameworks for health equity and rights; determinants of health; environmental health and safe water; control of infectious diseases; non-communicable disease programs, nutritional challenges; harm reduction and behavioral modifications; women’s reproductive rights; health economics and cost-effective interventions; health manpower and capacity development; globalization challenges and potentials. At the completion of this course, the student will be able to: (1) understand that global health involves multiple academic disciplines, and identify many of these; (2) understand that global health theory involves many, sometimes conflicting, belief systems, and identify some of these; (3) understand that global health can be conceived as a complex ecosystem, which involves issues that are much broader than the traditional health disciplines; (4) cite examples of specific issues and case studies in global health; (5) understand some of the potential interventions that can be used to ameliorate problems in global health, particularly in low-income countries. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5230 Epidemics, Emergencies, and Environmental Threats",
+    "courseid": "PUBH 5230",
+    "coursedescription": "This course will examine the fundamental challenges of public health, focusing on outbreaks, emergencies, and environmental threats, as well as the actions required to remedy those threats. Using a case-based framework, the class will study historical and recent epidemics, methods used to identify the sources of those epidemics, actions taken to protect the public, and the social and economic ramifications of each epidemic. The course will center on the actions and policies that are central to public health. Course readings and cases are designed to illustrate a major challenge of public health: that policy decisions often must be made in the setting of sparse or inadequate data. How do researchers, practitioners, and policymakers weigh the information available, secure necessary resources, build political will, and confront vested interests in order to protect or promote population health? Students who participate in this class will become proficient in applied epidemiological reasoning. The emphasis will be on evaluating the empirical base for public health decision-making. What data are available? Can we trust the quality of those data? What additional information would be desirable/essential? Research methods training will be embedded as the students learn to critique the quality of evidence used to support public actions. Students will develop (1) an understanding of basic epidemiological concepts, (2) familiarity with major historical and recent epidemics and the social forces that shaped those epidemics, (3) an ability to evaluate data critically and present data clearly, and (4) a capacity to apply a range of data sources to inform appropriate public health action. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "How do researchers, practitioners, and policymakers weigh the information available, secure necessary resources, build political will, and confront vested interests in order to protect or promote population health?"
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 5250 Health & Human Rights",
+    "courseid": "PUBH 5250",
+    "coursedescription": "This course will explore the interplay between health and human rights, enabling students to critically apply human rights to public health practice, particularly in the global health domain. We will explore the development of health as a human right and how public health research and policy can affect human rights. Students will learn about core human rights principles and mechanisms and the international development agenda. The class will examine topics at the intersection of global health and human rights including HIV/AIDS, harm reduction, migration, sexual and reproductive health, and climate change. Class material will primarily focus on public health challenges internationally; however, we will also discuss health and human rights issues faced by vulnerable populations in the United States. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5310 Public Health Nutrition",
+    "courseid": "PUBH 5310",
+    "coursedescription": "The course is designed to introduce students to the core concepts, policies, and practice of public health nutrition using an explicitly antiracist, non-diet framework. Drawing upon real world examples, the lived experience of course participants, and guest speakers, we will interrogate the current and historic events, forces, and policy changes that have shaped the traditional diet-culture paradigm used throughout the field and the inequalities and injustices this paradigm has perpetuated. In addition to an introduction to nutrition science, students will be offered a foundational understanding of federal, state, and local agriculture, nutrition, and emergency food related legislation and policy—including, but not limited to—the Farm Bill, Child Nutrition Reauthorization, the Pennsylvania Fresh Food Financing Fund, the State Food Purchase Program, and Philadelphia’s citywide sugar sweetened beverage tax. Together, we will examine and critically analyze the intention, implementation, and impacts of these policies and their resulting programs. Throughout the course we explore topics and issues including hunger and food insecurity, diet and wellness culture, disordered eating and eating disorders, the “obesity epidemic,” as well as alternative frameworks, approaches, and movements such as Health at Every Size, Intuitive Eating, and the food justice and sovereignty movements. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to an introduction to nutrition science, students will be offered a foundational understanding of federal, state, and local agriculture, nutrition, and emergency food related legislation and policy—including, but not limited to—the Farm Bill, Child Nutrition Reauthorization, the Pennsylvania Fresh Food Financing Fund, the State Food Purchase Program, and Philadelphia’s citywide sugar sweetened beverage tax."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 5320 Humans, Animals, & the Environment: An Interdisciplinary One Health Seminar Course",
+    "courseid": "PUBH 5320",
+    "coursedescription": "This introductory course is intended to provide students with a foundation in topics relevant to human, animal, environmental health, and the interactions between the three. The course will provide students with an overview of the concept of One Health, with the goal of understanding how human, animal, and environmental well-being are interconnected. This course is open to students in any graduate program and will provide the opportunity to work collaboratively and form connections across disciplines. Each week will consist of both didactic lectures from professionals across various fields and small group discussions among peers. Topics discussed may include, but are not limited to: climate change and health, sustainable design, political ecology, interspecies relationships, sustainable business, antimicrobial resistance, urban planning, zoonotic disease, research methods in One Health, and biodiversity. These topics will be explored by lecturers with diverse fields of expertise, including human medicine, veterinary medicine, design, social policy and practice, business, anthropology, and environmental sciences. Not Offered Every Year Mutually Exclusive: VPTH 6320 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics discussed may include, but are not limited to: climate change and health, sustainable design, political ecology, interspecies relationships, sustainable business, antimicrobial resistance, urban planning, zoonotic disease, research methods in One Health, and biodiversity."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 5350 Race & Public Health",
+    "courseid": "PUBH 5350",
+    "coursedescription": "This seminar course will provide a broad overview of the social conditions that engender racial health disparities in the United States. Using the concept of racial capitalism and the fundamental cause of disease theory as starting points, we will explore the ways in which racism and capitalism have shaped the social conditions we swim in; how those social conditions have produced what Ruth Wilson Gilmore calls “group-differentiated vulnerability to premature death”; and how collective action and policy have, both historically and in the present moment, aimed to address racialized health inequities. We will draw from writings in public health, economics, history, sociology, feminist studies, and critical geography studies; grey literature from community organizations, government agencies, and non-profit organizations; and various media, including news, books, music, and film. Students will engage in active student participation and leadership, self-reflection, and intensive reading that emphasizes foundational texts. Ultimately, this course aims to give students the competency to use racial capitalism as a lens to identify, make sense of, and address racial health disparities in their areas of public health interest. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Ultimately, this course aims to give students the competency to use racial capitalism as a lens to identify, make sense of, and address racial health disparities in their areas of public health interest."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 5420 Parallel Plagues: Infectious Diseases and their Control in Peru and The United States",
+    "courseid": "PUBH 5420",
+    "coursedescription": "Infectious agents continue to emerge, killing and harming humans and animals with unrelenting regularity. The emergence and control of these agents are, in some ways, remarkably different in different geographies. In other ways the patterns and consequences of infectious agents are very similar. The course will be structured around a series of pairings of infectious disease problems that affect Peru and the United States. Some pairings will be in terms of the agents themselves; others will be more thematic. In each case we will trace two lines of inquiry, one in each country, but always with an eye to the harmonics--where these lines resonate--even if they do not interact. The primary goal of the course is to investigate the historical, political and economic forces driving infectious disease in Peru and the US. A co-primary goal is to bring students and faculty from Penn and our partner institutions in Peru, Universidad Peruana Cayetano Heredia, to work their way through topics in infectious disease control, which are inherently challenging. The course will be taught in English but a workable knowledge of Spanish will be helpful. Fall Also Offered As: LALS 5420 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5510 Global Health Policy & Delivery",
+    "courseid": "PUBH 5510",
+    "coursedescription": "This participatory, interdisciplinary seminar course examines contemporary issues in global health policy and delivery. Students will develop skills in policy analysis, development of evidence-based policy, and effective delivery of global health interventions. The class will explore the health delivery and policy process using a variety of contemporary global health case studies, which focus on content areas such as maternal health, HIV policy, global child health, family planning and medication access. At the completion of this course, the student will be able to: (1) critically examine key issues in global health policy and delivery; (2) understand how epidemiology and various factors influence the design of evidence-based policy and interventions; (3) analyze frameworks for effective health intervention delivery in low-resource and middle-income countries; (4) develop skills to assess policy and program impact for continuous improvement and best practice dissemination. Spring Also Offered As: NURS 6400, SWRK 7930 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5530 Science & Politics of Food",
+    "courseid": "PUBH 5530",
+    "coursedescription": "This course explores the many complex forces that shape what we eat and why. We will examine the relationships between individual-level influences like our biology and psychological make-up and broader, societal influences like culture, policy and politics, economics, and structural racism and bias. We will discuss and critically evaluate scientific research on food policies and interventions designed to prevent nutrition-related chronic diseases. This course has a strong focus on understanding how we can create a more just and equitable food system. In addition, course assignments, activities, and lectures are designed to help students develop skills related to critiquing research and communicating evidence-based opinions in a clear and compelling manner. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5550 A Public Health Approach to Behavioral Health",
+    "courseid": "PUBH 5550",
+    "coursedescription": "This course is designed to focus on the public health issue of behavioral health, with a focus on mental health and its relation to substance use. The course will apply public health approaches beyond individual clinical treatment to take a population level approach to behavioral health. In addition to learning the prevalence and impact of behavioral health conditions, this course will also look at: the historical impact of mental health policy, including the Community Mental Health Services Act of 1963, on behavioral health services and public health issues like homelessness; strategies to address behavioral health taking a public health approach, e.g., widespread universal screening, community activation, community level interventions, and health promotion in addition to prevention; and local examples of community level interventions to address behavioral health including Mural Arts' Porch Light Program, a partnership with the City of Philadelphia Department of Behavioral Health. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5680 Philanthropy & Public Health Justice",
+    "courseid": "PUBH 5680",
+    "coursedescription": "There has been a long history of systemic racism that has marginalized Black and Brown communities from accessing capital and philanthropic resources to support their communities, institutions, and organizations. The internal structures, processes, and approach of philanthropy can work to break down these barriers or they can work to perpetuate these harms and injustices. The philanthropic sector has been actively reflecting and working on how best to breakdown these barriers and identify avenues to leverage their resources to support justice and equity. This course will aim to understand how the history of philanthropy has a direct impact on our current non-profit and public health landscape and infrastructure. The course will lift up contemporary discussions regarding the role of philanthropy in public health justice and power building. This course will also explore the role of philanthropy in changing systems as complex as early childhood education, food justice, and health care. Some of the questions this course will explore include: How do funders understand and define racial equity, racial justice, and power building? How do funders hold themselves accountable to transformative racial justice goals? What do public health justice activists what funders to know and change to increase effective and sustainable support for their work? How do funders center power-building in grantmaking? How are funders dismantling inequities in grantmaking processes and decision making? What is trust-based philanthropy? The role of intersectionality, race, and power in philanthropy? What is the difference between private, public, and corporate philanthropy? How can we leverage grantmaking tools and approaches, like communications, research, and evaluation, to center the voice and experience of those directly impacted? How do we transition from charity to justice? Guest lectures will include philanthropic experts working locally, nationally, and globally. In addition the course will highlight the voice of grassroot activists and organizers leveraging philanthropic investments to bring about social change. This course will be of interest to students wanting to learn more about philanthropy, non-profits, social justice, and power building. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course will be of interest to students wanting to learn more about philanthropy, non-profits, social justice, and power building."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 5700 Evidence-Based Strategies to Improve Adolescent & Young Adult Health",
+    "courseid": "PUBH 5700",
+    "coursedescription": "This course examines the health and well-being of young people between 10 and 26 years of age in the United States and the influence of evidence-based practice, programs, and policy within a life-course and socio-ecological framework. In this class we will underscore the importance of public health professionals’ role in seeking solutions to improve health outcomes for disadvantaged adolescents and develop and advocate for structures and processes that support health equity. Using intersectionality as a lens, we will examine how racism and systemic discrimination combine with multiple aspects of identity, such as gender, sexual orientation, socio-economic status, and ability, resulting in health disparities among adolescents. The focus on health equity requires evidence-based solutions to health differences that are a result of social-ecological factors. We will examine the influence of systems (family, school, community, health care systems) and policy on key adolescents and young adults (AYA) health issues. Specific seminars will be dedicated to examining the impact of positive youth development and trauma-informed care, AYA and their families and advocacy and policy related to topics such as reproductive health, substance use, suicide and depression and motor vehicle accidents. Didactic topical presentations will be followed by student discussions and guided small group conversations. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5730 Substance Use as a Public Health Issue",
+    "courseid": "PUBH 5730",
+    "coursedescription": "Over 70,000 people died from drug overdoses in the US in 2017 alone, exceeding the number of US soldiers who died in the twenty years of the Vietnam War. This course will provide an overview of the contemporary challenges in addressing substance use as a public health problem. Students will learn about the personal and environmental factors that often contribute to substance use, as well as the downstream consequences, including HIV and hepatitis C. Students will also learn public health strategies to address substance use, including primary prevention and ahrm reduction. Finally, issues around drug policy at the local, state, and federal level will be discussed. While this course will use opioids and the crisis in Philadelphia as the primary case study, other drugs will be touched upon as well. The course combines lecture, interactive class exercise, and group discussion. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5750 Intimate Partner Violence",
+    "courseid": "PUBH 5750",
+    "coursedescription": "Intimate partner violence (IPV), defined as physical, sexual or psychological harm imposed by a current or former intimate partner, is a public health problem leading to increased morbidity and mortality worldwide. The purpose of this course is to familiarize students with the definition, theories, dynamics, scope, consequences of, and interventions to prevent and address, violence among intimate partners. Through this course, students will gain insight into the epidemiology of IPV across the life course, including risk and protective factors and examine unique considerations for vulnerable populations. The course will highlight current measurement issues in the field of IPV assessment and address IPV-related policies to address screening, prevention, and response to IPV. Using a social-ecological framework, we will examine the issue of IPV prevention and intervention from the individual, relationship, community, and societal perspectives, and explore approaches to and need for screening, as well as universal, selected, and indicated prevention efforts. Spring Also Offered As: SWRK 7750 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5800 Leadership Skills in Community Health",
+    "courseid": "PUBH 5800",
+    "coursedescription": "This course offers a comprehensive introduction to community health, equipping students with essential leadership and advocacy skills. Students will learn to assess community landscapes, engage and collaborate with constituents, and mobilize communities around shared priorities. By adopting an assets-based approach, the course highlights the strengths of communities and their leaders, enabling students to identify diverse leadership roles within communities. Additionally, students will explore opportunities for community leadership across various settings, including academic institutions, community organizations, and health agencies. The course emphasizes developing skills and techniques for leading effective, collaborative, health-focused interventions, particularly for marginalized populations. By the end of the course, students will be well-prepared to lead and be trusted allies in community health improvement activities. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5890 The Public Health Challenges of Alzheimer's Disease and Cognitive Aging",
+    "courseid": "PUBH 5890",
+    "coursedescription": "Once upon a time, Alzheimer's disease was a rare disease, and then it became common, but soon thereafter, it turned into a crisis. What happened, and what do we need to do? This course will lead students to find the answers to this question, answers that are at the intersections of medicine, ethics, public policy, culture and health care. Topics covered include the histories of Alzheimer's disease and cognitive aging and their changing definitions, the concepts of cognition and function and how they are assessed, the contested science and practice of measuring the disease's prevalence and mortality, autonomy and capacity, risk and preventative factors for cognitive decline, the demography and economics of caregiving, and the creative public health initiatives and models of care that could reduce stigma, enhance cognition and maintain independence. Students will apply biostatistical and epidemiological methods to critique papers, close textual analysis to understand concepts and their shifting meanings, and writing to clearly and succinctly frame a problem, its costs and solutions. The course will include lectures, readings from the literature, group discussions and in-class exercises, and interviews with guest experts. Evaluation will be based on participation, presentations, written assignments, and exam results. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 5950 Special Topics in Public Health",
+    "courseid": "PUBH 5950",
+    "coursedescription": "This course is a place holder for unique public health courses, created in collaboration with the program and instructor/s, that will run for one semester only. Topics can range from community engagement to education to global health to policing and carceral spaces to policy and advocacy. If offered in a given semester, students should refer to the specific section of a Special Topics course on Path@Penn for more information. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 6040 Qualitative Research Methods in Public Health",
+    "courseid": "PUBH 6040",
+    "coursedescription": "This elective course explores the theories, methods, ethics, and practical applications of qualitative research. It builds upon the foundational research methodology taught in the MPH core curriculum with the central goal of preparing students to lead their own qualitative projects, including capstones, theses, or future research. Qualitative analysis is utilized broadly throughout various fields, such as anthropology, sociology, psychology, communications, business, medicine, and public health. Through readings from diverse disciplines, students will explore how qualitative approaches have been applied in different settings to address diverse research questions. The course begins by clarifying the knowledge generated by qualitative methods and demystifying the role of theory, emphasizing its importance in project quality. It then covers key aspects of preparing a qualitative study; identifying suitable sites and samples, effectively communicating with stakeholders, and ensuring a reflexive mindset attuned to the ethical issues. Students will learn various methods for collecting qualitative data, such as observation, interviews, virtual ethnography, document analysis, and photo-elicitation. The course also includes instruction on analyzing the data using an iterative coding process facilitated by software. Finally, students will work on developing explanatory theory from this analysis in order to engage meaningfully with the research community about a given topic. Spring Prerequisite: PUBH 5060 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5060"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 6050 Epidemiology & Control of Infectious Diseases",
+    "courseid": "PUBH 6050",
+    "coursedescription": "This course will focus on the application of epidemiological methods to the discovery, detection, and evaluation of infectious disease threats together with an evidence based assessment of the value of public health interventions intended to reduce prevalence and severity of disease in people. In-class assignments are intended to build skills in location, interpreting, assessing, and synthesizing evidence from the epidemiologic literature, with an emphasis on critical thinking, causal inference, and understanding bias and confounding. Prerequisite: PUBH 5020 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 6060 Interpreting Epidemiologic Literature to Inform & Influence",
+    "courseid": "PUBH 6060",
+    "coursedescription": "This course is designed for students interested in further exploration of epidemiologic methods and the challenge of establishing a causal relationship between exposure and outcome using an observational science. We will utilize case studies to address the application of epidemiologic data to specific issues of relevance to public health. The nature of observational data will be explored through these case studies and specific methodological challenges will be highlighted and examined. Also Offered As: NURS 6160 Prerequisite: PUBH 5020 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5020"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students interested in further exploration of epidemiologic methods and the challenge of establishing a causal relationship between exposure and outcome using an observational science."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 6070 Advanced Local Policymaking",
+    "courseid": "PUBH 6070",
+    "coursedescription": "This course is designed to simulate the local public health policymaking process, providing the foundational context and practical skills necessary to effectively design and advocate for evidence-based public health policy change. Class members will debate potential public policy solutions to pressing health problems and hone their skills through public health advocacy exercises. We will focus on persuasive communication in multiple forms, both oral and written. We will explore the entire policy process from the identification of a problem and evaluation of possible policy solutions to utilizing the full range of advocacy tools to promote policy change. We will be using real-time and historical examples of public health challenges affecting the health, safety and well-being of children and families here in Philadelphia and in communities across the country. The goal of the course is to prepare students to participate meaningfully in policymaking during their public health careers, regardless of whether or not they plan to work directly in policy or law. Summer Term Prerequisite: PUBH 5050 AND PUBH 5070 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5050",
+      "PUBH 5070"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 6080 Design for Health Behavior Change",
+    "courseid": "PUBH 6080",
+    "coursedescription": "How might we get users of HIV self-tests to report their test results on a mobile app? How might vending machine design reduce soda consumption? How might we reduce alert fatigue in bedside nursing? How might tapping into social norms boost rates of mammography screening or reduce overprescribing of antibiotics? This course explores the answers to these questions and many more through the complementary lenses of design thinking and behavioral economics. Design thinking is a structured approach to innovation and problem solving that puts human needs at the center of solutioning. Behavioral economics, a field at the intersection of psychology and economics, helps us understand the fundamental psychological forces—including cognitive biases, mental shortcuts, and inconsistent time preferences—that might lead us to act against our best interest. With the theoretical insights of behavioral economics and the pragmatic, solutions-focused orientation of design thinking, we will develop and prototype desirable, feasible, and viable interventions to change health-related behaviors. Through lectures on behavioral economics theory, critical discussions of the empirical literature (including ethical and equity considerations), and hands-on practice applying human-centered design techniques to multiple design challenges, students will build relevant, practical expertise in behavioral design for public health and health care innovation. It is recommended students have prior coursework in, or a working knowledge of, epidemiology. Fall Also Offered As: NURS 6130 Prerequisite: PUBH 5060 OR PUBH 5040 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5060",
+      "PUBH 5040"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Behavioral economics, a field at the intersection of psychology and economics, helps us understand the fundamental psychological forces—including cognitive biases, mental shortcuts, and inconsistent time preferences—that might lead us to act against our best interest.",
+        "It is recommended students have prior coursework in, or a working knowledge of, epidemiology."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 6100 Mathematical Modeling of Infectious Diseases",
+    "courseid": "PUBH 6100",
+    "coursedescription": "As infectious diseases are transmitted from one host to another, the dynamics of transmission in the population of hosts follow certain basic rules. If one knows and understands these rules, one can plan rational strategies to prevent or control infections. One of the principal tools of those interested in public health interventions to control or ameliorate infectious diseases is the mathematical model. A model is just a means of representing and manipulating something that would not otherwise be accessible. This course provides students with the opportunity to construct models of the transmission of infectious diseases and to use these models to plan or compare disease control strategies. The course is predicated upon the notion that the act of building a mathematical model of disease transmission is often the best way of understanding what is going on. This understanding will be further refined by the examination of more complicated and sophisticated model structures as they appear in the recent published literature. A disproportionate number of emerging infectious diseases and recent disease outbreaks in the United States and elsewhere have shared a common characteristic; they affect veterinary as well as human populations. Many are also vector-borne, passing between different species of hosts through insects and other invertebrates. In some cases, humans are only “spillover hosts” whose infection is incidental to the transmission cycle. Interdisciplinary approaches are especially important to control such diseases. As a particular focus of the course, students will learn the tools needed for successful collaborations to address the growing problem of zoonotic and vector-borne diseases. Fall, odd numbered years only Also Offered As: EPID 5160 Prerequisite: PUBH 5020 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5020"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "One of the principal tools of those interested in public health interventions to control or ameliorate infectious diseases is the mathematical model."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 6150 Principles of Injury & Violence Prevention",
+    "courseid": "PUBH 6150",
+    "coursedescription": "This course will introduce students to the principles of injury and violence prevention broadly with a focus on understanding study designs used in injury and violence research, and important concepts used in designing, analyzing, and interpreting these studies to prioritize evidence-based prevention strategies. Students will analyze injury/violence as a preventable public health issue by synthesizing information on historical, cultural, systemic, and structural causes. Students will use public-access injury and violence data, peer- reviewed literature and other credible resources to identify the magnitude of the problem to the degree that it is known, describe injury/violence problems based on specific sub-populations, assess associated consequences to individuals, families, and communities and critique prevention and intervention strategies. Finally, students will have the opportunity to focus on one specific injury/violence topic and delve into its problem, causes, and public health intervention/prevention best practices. Fall Prerequisite: PUBH 5020 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 6210 Program Evaluation in Public Health",
+    "courseid": "PUBH 6210",
+    "coursedescription": "There are many public health programs developed to promote change. The question most funders, participants, and organizations have for public health programs is: Did it work? And how do we know? This course is designed to review the principles of identifying short-term, mid-term, and long-term outcomes and methods of measurement, with a focus on equity in evaluation. Students learn about the application of data collection skills to all phases of developing a public health program or service innovation, from stakeholder engagement to analysis of findings to implementation of changes based on results. Students learn to appreciate how these skills can be used as practical tools for identifying public health problems, program development, program implementation, including taking a reflective practice approach, ensuring equity and fairness in program delivery (i.e. combating disparities), and generally promoting public health through effective and efficient programmatic efforts. Students will participate in a field exercise by developing an evaluation plan for a local nonprofit program. Spring Prerequisite: PUBH 5060 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5060"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 6250 Public Health, Cities, & the Climate Crisis",
+    "courseid": "PUBH 6250",
+    "coursedescription": "Climate change has been called the most pressing public health crisis of the 21st century. The impact of climate change can be seen directly, through elevated temperatures that exacerbate chronic disease to an increase in severe storms that dramatically increase the risk of injury. But there are also indirect effects, from the increase in vector-borne diseases to the disruption of food production. These health impacts are not felt equally, with a greater brunt on disadvantaged, vulnerable, and/or marginalized populations. Given the current state, we need to think about climate mitigation and climate adaptation, with an eye towards strategies that address health impacts. We must consider how to reduce further climate change while recognizing that some change is already irreversible and in doing so, improve our ability to protect the health, safety, and welfare of the public. The breadth of this issue will require collaboration from diverse sets of professionals who understand design, engineering, policy, and health. This course will tackle the intersectional issues that climate change requires us to consider for public health and the design of cities. As such, the course will be offered jointly between the MPH program and the School of Design. The course will be purposefully interdisciplinary, recognizing that initial group projects must include developing a shared vocabulary between the different students. Key to our success is a more holistic integration of climate change thinking into professional student training and a common ground on which to collaborate both to raise climate change risk awareness across disciplines and to identify strategies (policies, programs, projects) to ameliorate or adapt to those risks with health outcomes used as the benchmark for success. In this way, the course touches on both Climate Action and Societal Resilience. The geographic focus of the course will be the Urban environment, with a strong focus on Philadelphia through projects related to the Hazard Mitigation Plan from the Office of Emergency Preparedness. Spring Prerequisite: PUBH 5060 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5060"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As such, the course will be offered jointly between the MPH program and the School of Design."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 6320 Using Public Health Innovation to Achieve Equity & Impact",
+    "courseid": "PUBH 6320",
+    "coursedescription": "This course is an introduction to innovation across public health and the delivery of health and social services in the US system. It examines ideas of what innovation can be and explores methods for how to achieve them. The lessons in this seminar course seek to broaden the student’s understanding of the macro-level role of the public and private sectors in health care innovation, and determine ways of evaluating \"impact\" and \"equity.\" As a seminar, students will participate in robust discussions about various topics in public health innovation, including with guest speakers who represent their respective domains. They will also learn how to craft an innovation proposal and mock pitch it by the end of the semester. Summer Term Prerequisite: PUBH 5050 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5050"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 6370 Advocacy & Public Health: Legislative Advocacy to Advance Injury & Violence Prevention",
+    "courseid": "PUBH 6370",
+    "coursedescription": "This course is designed to provide the foundational context and practical skills necessary to effectively identify public health problems as they relate to field of injury and violence prevention (IVP), craft evidence-based solutions and advocate for those solutions in furtherance of public health objectives via legislative advocacy. This interactive class hosts speakers, practices skills, has students make visits to national and regional lawmakers, and results in a final product of an advocacy packet to address an IVP topic of their choosing. We will explore the entire legislative advocacy process from the identification of a problem and evaluation of possible public health policy solutions to utilizing the full range of advocacy tools to promote policy change. The class is broken into two parts. Part one focuses on federal budgeting and consists of pass-fail assignments preparing students for the required Hill Visits with national partners to Washington, D.C. on March 20th to advocate Congress for IVP funding in the FY26 budget. Part two builds on the knowledge and skills gain in part one so students can identify an evidence-based policy solution for which they will prepare a final advocacy packet to address a local (state or city) need. This includes a local visit to a lawmaker students set up on their own and final recommendations on how to advance the policy. The final product receives a letter grade. Not Offered Every Year Also Offered As: HPR 6370, NURS 5650 Prerequisite: PUBH 5050 AND PUBH 5070 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5050",
+      "PUBH 5070"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 6400 Global Reproductive Health Law & Policy",
+    "courseid": "PUBH 6400",
+    "coursedescription": "The promise of reproductive rights and the impact of law and policy are the themes of this course, which will explore how governments can limit or promote reproductive health. We’ll consider global health policy, international human rights, and national law (within and outside of the United States). This course will examine topics including abortion, contraception, and assisted reproduction in the contexts of human rights, gender equity, racial justice, and political movements. Students will walk away from this course with the skills to (1) understand the history and current legal and policy frameworks underpinning global reproductive rights; (2) apply principles in international human rights law, foreign law, and US law to specific issues in reproductive health, and; (3) compare the state of reproductive health, law, and justice in national law inside and outside the US. Spring Prerequisite: PUBH 5050 AND PUBH 5070 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5050",
+      "PUBH 5070"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 6500 Planning & Designing Health Communication Interventions",
+    "courseid": "PUBH 6500",
+    "coursedescription": "Effective health communication is essential for shaping behaviors, influencing social norms, and driving public health change at local and global levels. This course provides an introduction to key theories in health communication and behavior change, equipping students with practical skills to design, implement, and evaluate communication interventions. This course will draw on case studies from both international global health initiatives and domestic campaigns, as well as the instructors own experience on topics such as gender and health, reproductive health, community empowerment, and violence prevention. Students will examine emerging trends, including digital technologies, behavioral economics, and human-centered design, and critically assess how communication strategies can be adapted across diverse cultural and social contexts. The course will also address power dynamics in health communication practice, encouraging students to reflect on ethical considerations and their own role in fostering equitable and community-driven health initiatives. Through real-world applications and interactive discussions, students will gain a deeper understanding of how strategic communication can be leveraged to improve health outcomes. Not Offered Every Year Prerequisite: PUBH 5040 1 Course Unit",
+    "course-prerequsities": [
+      "PUBH 5040"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 6950 Advanced Special Topics in Public Health",
+    "courseid": "PUBH 6950",
+    "coursedescription": "This course is a place holder for unique public health courses, created in collaboration with the program and instructor/s, that will run for one semester only. Topics can range from community engagement to education to global health to policing and carceral spaces to policy and advocacy. As an Advanced-level Special Topics class, there will be prerequisite coursework specified at the section level. If offered in a given semester, students should refer to the specific section of a Special Topics course on Path@Penn for more information. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PUBH 7080 Capstone Seminar I",
+    "courseid": "PUBH 7080",
+    "coursedescription": "The Capstone Project is the culminating experience for the Master of Public Health degree in which MPH students apply the knowledge and skills learned throughout the curriculum to public health problems in a chosen area of interest or skillset. To support this process, students are required to take two semester-long Capstone courses, Capstone I and Capstone II. During Capstone I, students will identify, design, and plan their project under the guidance of their Capstone Instructor. Students will also identify a Capstone Mentor/s, a public health professional with expertise in the field who will oversee the design and development of the project. Each student is required to conduct a comprehensive review of the relevant literature to ensure they understand the social, cultural, and environmental context of their public health problem of interest. Additionally, students are asked to pay particular attention to the relevant policy environment, the concept of evidence-based practice, and to the needs of vulnerable populations. The nature and scope of the project is determined jointly by the student, Capstone Mentor, and Capstone Instructor. By the end of Capstone I, students should have a solid idea of what their Capstone Project is and how to complete it. Fall, Spring, and Summer Terms 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The Capstone Project is the culminating experience for the Master of Public Health degree in which MPH students apply the knowledge and skills learned throughout the curriculum to public health problems in a chosen area of interest or skillset.",
+        "Each student is required to conduct a comprehensive review of the relevant literature to ensure they understand the social, cultural, and environmental context of their public health problem of interest.",
+        "The nature and scope of the project is determined jointly by the student, Capstone Mentor, and Capstone Instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PUBH 7090 Capstone Seminar II",
+    "courseid": "PUBH 7090",
+    "coursedescription": "Upon completion of Capstone I, students in Capstone II will finally carry out their planned Capstone Project. Throughout the course, students will engage their peers in scholarly discussion to workshop overcoming project hurdles. At the end of the course, students will deliver a professional presentation to public health practitioners and submit a written paper on their Capstone Project. Fall, Spring, and Summer Terms 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

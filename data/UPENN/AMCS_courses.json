@@ -1,0 +1,168 @@
+[
+  {
+    "coursename": "AMCS 5100 Complex Analysis",
+    "courseid": "AMCS 5100",
+    "coursedescription": "Complex numbers, DeMoivre's theorem, complex valued functions of a complex variable, the derivative, analytic functions, the Cauchy-Riemann equations, complex integration, Cauchy's integral theorem, residues, computation of definite integrals by residues, and elementary conformal mapping. Mutually Exclusive: MATH 4100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 5141 Advanced Linear Algebra",
+    "courseid": "AMCS 5141",
+    "coursedescription": "Topics will include: Vector spaces, Basis and dimension, quotients; Linear maps and matrices; Determinants, Dual spaces and maps; Invariant subspaces, Cononical forms; Scalar products; Euclidean, unitary and symplectic spaces; Orthogonal and Unitary operators; Tensor products and polylinear maps; Symmetric and skew-symmetric tensors and exterior algebra. Also Offered As: MATH 5140 Mutually Exclusive: MATH 3140 Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 5200 Ordinary Differential Equations",
+    "courseid": "AMCS 5200",
+    "coursedescription": "After a rapid review of the basic techniques for solving equations, the course will discuss one or more of the following topics: stability of linear and nonlinear systems, boundary value problems and orthogonal functions, numerical techniques, Laplace transform methods. Fall or Spring Mutually Exclusive: MATH 4200 Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 5250 Partial Dif Equations",
+    "courseid": "AMCS 5250",
+    "coursedescription": "Method of separation of variables will be applied to solve the wave, heat, and Laplace equations. In addition, one or more of the following topics will be covered: qualitative properties of solutions of various equations (characteristics, maximum principles, uniqueness theorems), Laplace and Fourier transform methods, and approximation techniques. Fall Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 5461 Advanced Applied Probability",
+    "courseid": "AMCS 5461",
+    "coursedescription": "The required background is (1) enough math background to understand proof techniques in real analysis (closed sets, uniform covergence, fourier series, etc.) and (2) some exposure to probability theory at an intuitive level (a course at the level of Ross's probability text or some exposure to probability in a statistics class). Fall Also Offered As: MATH 5460 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 5681 Mathematical Modeling in Physiology and Cell Biology",
+    "courseid": "AMCS 5681",
+    "coursedescription": "Mathematical modeling is increasingly becoming a standard technique in physiology and cell biology. In this class, we will cover some classical models in physiology and cell biology. Half of the course will be devoted to electrophysiology (Hodgkin-Huxley model, action potential propagation and related topics), which has arguably been the most successful area of application of mathematical techniques to biology. We will then consider models of molecular motors and muscle mechanics, of pattern formation and cell polarization. Not Offered Every Year Also Offered As: BIOL 5568 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 5840 The Mathematics of Medical Imaging and Measurement",
+    "courseid": "AMCS 5840",
+    "coursedescription": "The last several decades have seen major revolutions in both medical and non-medical and imaging technologies. Underlying all of these advances are sophisticated mathematical tools to model the measurement process and reconstruct images. This course begins with an introduction of the mathematical models and then proceeds to discuss the integral transforms that underlie these models: the Fourier transform, the Radon transform and the Laplace transform. We discuss how each of these transforms is inverted, both in theory and in practice. Along the way we study interpolation, sampling, approximation theory, filtering and noise analysis. This course assumes a thorough knowledge of linear algebra and a knowledge of analysis at the undergraduate level ( MATH 3140 and MATH 3600 and MATH 3610 , or MATH 5080 and MATH 5090 ). Not Offered Every Year Also Offered As: BE 5840 , MATH 5840 Prerequisite: MATH 1410 AND ( MATH 3600 OR MATH 5080 ) AND ( MATH 3610 OR MATH 5090 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410",
+      "MATH 3600",
+      "MATH 5080",
+      "MATH 3610",
+      "MATH 5090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 5999 Independent Study",
+    "courseid": "AMCS 5999",
+    "coursedescription": "Independent Study allows students to pursue academic interests not available in regularly offered courses. Students must consult with their academic advisor to formulate a project directly related to the student’s research interests. All independent study courses are subject to the approval of the AMCS Graduate Group Chair. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Independent Study allows students to pursue academic interests not available in regularly offered courses.",
+        "Students must consult with their academic advisor to formulate a project directly related to the student’s research interests."
+      ]
+    }
+  },
+  {
+    "coursename": "AMCS 6025 Numerical and Applied Analysis I",
+    "courseid": "AMCS 6025",
+    "coursedescription": "We turn to linear algebra and the structural properties of linear systems of equations relevant to their numerical solution. In this context we introduce eigenvalues and the spectral theory of matrices. Methods appropriate to the numerical solution of very large systems are discussed. We discuss modern techniques using randomized algorithms for fast matrix-vector multiplication, and fast direct solvers. Topics covered include the classical Fast Multipole Method, the interpolative decomposition, structured matrix algebra, randomized methods for low-rank approximation, and fast direct solvers for sparse matrices. These techniques are of central importance in applications of linear algebra to the numerical solution of PDE, and in Machine Learning. The theoretical content of this course is illustrated and supplemented throughout the year with substantial computational examples and assignments. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 6035 Numerical and Applied Analysis II",
+    "courseid": "AMCS 6035",
+    "coursedescription": "We will cover asymptotic methods, primarily for differential equations. In many problems of applied mathematics, there is a small parameter in the problem. Asymptotic analysis represents a collection of methods that takes advantage of the smallness of this parameter. After a brief discussion of non-dimensionalization, we will discuss regular perturbation methods, matched asymptotics, method of multiple scales, WKB approximation, and homogenization. Other topics will be discussed, time permitting. The prerequisite for this class is some familiarity with differential equations, but required background will be reviewed in class. 1 Course Unit",
+    "course-prerequsities": [
+      "CLASS. 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 6045 Topics in Numerical Analysis and Scientific Computing",
+    "courseid": "AMCS 6045",
+    "coursedescription": "Scientific computing involves leveraging computers to analyze and address scientific and engineering challenges. It often requires the development and analysis of new computational algorithms aimed at solving mathematical models, so that scientists can simulate physical processes and enhance their understanding of natural phenomena. In this course, we will introduce a series of fundamental or latest algorithms to understand the tools needed at the research level for various numerical methods for PDEs. Tentative topics include finite difference methods, spectral and pseudo-spectral methods, and neural network methods for solving ODEs/PDEs, and immersed boundary/interface methods for simulating fluid-structure interaction problems. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 6081 Analysis",
+    "courseid": "AMCS 6081",
+    "coursedescription": "Complex analysis: analyticity, Cauchy theory, meromorphic functions, isolated singularities, analytic continuation, Runge's theorem, d-bar equation, Mittlag-Leffler theorem, harmonic and sub-harmonic functions, Riemann mapping theorem, Fourier transform from the analytic perspective. Introduction to real analysis: Weierstrass approximation, Lebesgue measure in Euclidean spaces, Borel measures and convergence theorems, C0 and the Riesz-Markov theorem, Lp-spaces, Fubini Theorem. Fall or Spring Also Offered As: MATH 6080 Prerequisite: MATH 5080 AND MATH 5090 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 5080",
+      "MATH 5090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 6091 Analysis",
+    "courseid": "AMCS 6091",
+    "coursedescription": "Real analysis: general measure theory, outer measures and Cartheodory construction, Hausdorff measures, Radon-Nikodym theorem, Fubini's theorem, Hilbert space and L2-theory of the Fourier transform. Functional analysis: normed linear spaces, convexity, the Hahn-Banach theorem, duality for Banach spaces, weak convergence, bounded linear operators, Baire category theorem, uniform boundedness principle, open mapping theorem, closed graph theorem, compact operators, Fredholm theory, interpolation theorems, Lp-theory for the Fourier transform. Fall or Spring Also Offered As: MATH 6090 Prerequisite: MATH 6080 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 6080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 6481 Probability Theory",
+    "courseid": "AMCS 6481",
+    "coursedescription": "Measure theoretic foundations, laws of large numbers, large deviations, distributional limit theorems, Poisson processes, random walks, stopping times. Fall Also Offered As: MATH 6480 , STAT 9300 Prerequisite: STAT 4300 OR STAT 5100 OR MATH 6080 1 Course Unit",
+    "course-prerequsities": [
+      "STAT 4300",
+      "STAT 5100",
+      "MATH 6080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 6491 Stochastic Processes",
+    "courseid": "AMCS 6491",
+    "coursedescription": "Continuation of MATH 6480 / STAT 9300 , the 2nd part of Probability Theory for PhD students in the math or statistics department. The main topics include Brownian motion, martingales, Ito's formula, and their applications to random walk and PDE. Not Offered Every Year Also Offered As: MATH 6490 , STAT 9310 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 8105 Reading Seminar",
+    "courseid": "AMCS 8105",
+    "coursedescription": "Reading Seminar 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMCS 9999 Independent Study & Research",
+    "courseid": "AMCS 9999",
+    "coursedescription": "Study under the direction of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-4 Course Units"
+    }
+  }
+]

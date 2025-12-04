@@ -1,0 +1,252 @@
+[
+  {
+    "coursename": "NSCI 1600a / NSCI 160 / PSYC 160 / PSYC 1600a, The Human Brain Robb Rutledge",
+    "courseid": "NSCI 1600a",
+    "coursedescription": "Introduction to the neural bases of human psychological function, including social, cognitive, and affective processing. Preparation for more advanced courses in cognitive and social neuroscience. Topics include memory, reward processing, neuroeconomics, individual differences, emotion, social inferences, and clinical disorders. Neuroanatomy, neurophysiology, and neuropharmacology are also introduced. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* NSCI 2400b / PSYC 2600b, Research Methods in Human Neuroscience Gregory McCarthy",
+    "courseid": "NSCI 2400b",
+    "coursedescription": "Primary focus on structural, functional, and diffusion magnetic resonance imaging, with a secondary emphasis upon brain stimulation, electroencephalography, and evoked potentials. Students learn the fundamentals of each method and the experimental designs for which they are most applicable. Prerequisites: PSYC 160 / NSCI 160 and a course in statistics, or permission of instructor. SC MW 10am-11:15am",
+    "course-prerequsities": [
+      "PSYC 160",
+      "NSCI 160",
+      "10AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: PSYC 160 / NSCI 160 and a course in statistics, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* NSCI 2600a / PSYC 2760a, Research Methods in Psychopathology: Psychotic Disorders Tyrone Cannon",
+    "courseid": "NSCI 2600a",
+    "coursedescription": "Methods of research in psychopathology. Focus on longitudinal designs, high-risk sampling approaches, prediction of outcomes, and modeling change over time. Students design and perform analyses of clinical, cognitive, genetic, neuroimaging and other kinds of measures as predictors of psychosis and related outcomes, using existing datasets supplied by the instructor. SO W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* NSCI 2700a / NSCI 270 / PSYC 2670a, Research Methods in Cognitive Neuroscience Stephanie Lazzaro",
+    "courseid": "NSCI 2700a",
+    "coursedescription": "This course introduces methods used by cognitive neuroscientists to discover the structural and functional features of the nervous system. A combination of lectures and hands-on lab activities help students understand the structure and function of the human brain. WR , SC F 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NSCI 3200a / MCDB 3200a, Neurobiology Haig Keshishian and Harry McNamara",
+    "courseid": "NSCI 3200a",
+    "coursedescription": "The excitability of the nerve cell membrane as a starting point for the study of molecular, cellular, and systems-level mechanisms underlying the generation and control of behavior. At least 1 semester of college chemistry is strongly recommended. SC 0 Course cr MWF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "At least 1 semester of college chemistry is strongly recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "NSCI 3210La / MCDB 3210La, Laboratory for Neurobiology Haig Keshishian",
+    "courseid": "NSCI 3210La",
+    "coursedescription": "Introduction to the neurosciences. Projects include the study of neuronal excitability, sensory transduction, CNS function, synaptic physiology, and neuroanatomy. Concurrently with or after MCDB 320. SC ½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NSCI 3240a / BENG 3230a / MB&B 3300a and MB&B 3310a / MB&B 3310a / MCDB 3310a, Modeling Biological Systems I Thierry Emonet and Kathryn Miller-Jensen",
+    "courseid": "NSCI 3240a",
+    "coursedescription": "Biological systems make sophisticated decisions at many levels. This course explores the molecular and computational underpinnings of how these decisions are made, with a focus on modeling static and dynamic processes in example biological systems. This course is aimed at biology students and teaches the analytic and computational methods needed to model genetic networks and protein signaling pathways. Students present and discuss original papers in class. They learn to model using MatLab in a series of in-class hackathons that illustrate the biological examples discussed in the lectures. Biological systems and processes that are modeled include: (i) gene expression, including the kinetics of RNA and protein synthesis and degradation; (ii) activators and repressors; (iii) the lysogeny/lysis switch of lambda phage; (iv) network motifs and how they shape response dynamics; (v) cell signaling, MAP kinase networks and cell fate decisions; and (vi) noise in gene expression. Prerequisites: MATH 115 or 116. BIOL 101-104, or with permission of instructors. This course also benefits students who have taken more advanced biology courses (e.g. MCDB 200, MCDB 310, MB&B 300/301). QR , SC 0 Course cr TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 115",
+      "116",
+      "BIOL 101",
+      "MCDB 200",
+      "MCDB 310",
+      "B 300",
+      "SC 0",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "BIOL 101-104, or with permission of instructors."
+      ]
+    }
+  },
+  {
+    "coursename": "NSCI 3290a / MCDB 3290a, Sensory Neuroscience Through Illusions Damon Clark and Michael O'Donnell",
+    "courseid": "NSCI 3290a",
+    "coursedescription": "Animals use sensory systems to obtain and process information about the environment around them. Sensory illusions occur when our sensory systems provide us with surprising or unexpected percepts of the world. The goal of this course is to introduce students to sensory neuroscience at the levels of sensor physiology and of the neural circuits that process information from sensors. The course is centered around sensory illusions, which are special cases of sensory processing that can be especially illustrative, as well as delightful. These special cases are used to learn about the general principles that organize sensation across modalities and species. Prerequisites: BIOL 101-104; NSCI 160 or NSCI 320 or permission of instructor. SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "BIOL 101",
+      "NSCI 160",
+      "NSCI 320",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: BIOL 101-104; NSCI 160 or NSCI 320 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "NSCI 3380b / CGSC 3380b / PSYC 3380b, Minds, Brains, and Machines Julian Jara-Ettinger",
+    "courseid": "NSCI 3380b",
+    "coursedescription": "Leibniz compared the brain to a mill, Freud to a hydraulic system, and now we think of it as a computer. Have we gotten it right? If so, what kind of computer is the brain? And what kind of software is the mind? This course explores these questions by integrating classical and cutting-edge findings from artificial intelligence, cognitive science, neuroscience, philosophy, and psychology. In this course you learn how modern artificial intelligence works—including deep neural networks, program synthesis, and neuro-symbolic approaches. You learn how to think about artificial intelligence from the perspectives of cognitive science and neuroscience. And you learn how current advances in AI are helping us understand how the mind and brain works. Conversely, you also learn how advances in psychology and neuroscience have played a key role in the biggest ideas in AI. This course is ideal for a variety of students: Psychology and cognitive science majors that want to learn about AI. CS students that want to know how to think about AI from a cognitive perspective. And anyone who wants to know how to think critically about all the advances in the study of minds, brains, and machines. Students are strongly encouraged to have taken either Introduction to Psychology (PSYC 110), or Introduction to Cognitive Science (CGSC 110). Introduction to Computer Science (CPSC 201) is also ideal. SO MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NSCI 3550b / PSYC 3630b, Social Neuroscience Stephanie Lazzaro",
+    "courseid": "NSCI 3550b",
+    "coursedescription": "Exploration of the psychological and neural mechanisms that enable the formation, maintenance, and dissolution of social relationships. Topics include the neuroscience of how we form impressions and decide whether to instigate relationships with others; how we build relationships through trust, cooperation, attachment, conflict, and reconciliation; and group-level processes including intergroup bias, moral judgment, and decision making. Prerequisite: PSYC 160 SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "PSYC 160",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NSCI 3610a / CGSC 274 / CGSC 2740a / PSYC 2610a, Algorithms of the Mind Ilker Yildirim",
+    "courseid": "NSCI 3610a",
+    "coursedescription": "This course introduces computational theories of psychological processes, with a pedagogical focus on perception and high-level cognition. Each week students learn about new computational methods grounded in neurocognitive phenomena. Lectures introduce these topics conceptually; lab sections provide hands-on instruction with programming assignments and review of mathematical concepts. Lectures cover a range of computational methods sampling across the fields of computational statistics, artificial intelligence and machine learning, including probabilistic programming, neural networks, and differentiable programming. Students must have a fairly strong programming background, ideally in a high-level programming language such as Julia, Python or C++. (The course will use Julia and Python substantially). Familiarity with bash scripting and HPC use are desirable. College-level calculus is required, in addition to some exposure to probability and Bayesian inference, or more broadly (probabilistic) machine learning. QR , SC , SO 0 Course cr TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* NSCI 4400b / CBIO 4200b / CGSC 4200b / PSYC 4200b, Topics in Clinical Neuroscience Tyrone Cannon",
+    "courseid": "NSCI 4400b",
+    "coursedescription": "An overview and examination of the neuroscience of psychiatric illness. We focus on cutting-edge research in humans and animals aimed at understanding the biological mechanisms that underlie psychiatric illness. Although these questions date back to early philosophical texts, only recently have experimental psychologists and neuroscientists begun to explore this vast and exciting domain of study. We discuss the evolutionary and developmental origins of individual differences in human personality, measurement issues, fundamental dimensions of psychopathology, stability/plasticity, heritability, and implications therapeutic interventions as well as the associated broader implications for public policy. A major focus is on the neurobiology of fear and anxiety, including brain circuits, molecular genetic pathways, and epigenetics. A secondary focus is on differences in behavior and biology that confer risk for the development of depression and addiction, including the biological systems involved in hedonic pleasure, motivated goal pursuit, and the regulation of impulses in the face of everyday temptation. Students should have some background in psychology; PSYC 110 and PSYC 160 preferred. SO W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* NSCI 4420b / PSYC 4280b, Neuroscience of Decision-Making Stephanie Lazzaro",
+    "courseid": "NSCI 4420b",
+    "coursedescription": "An overview and examination of the neuroscience of decision making. Interdisciplinary course highlighting research from cognitive neuroscience, psychology, behavioral economics, finance, marketing, computer science, and public health. Topics include utility and value, reinforcement learning, risky decision making, impulsivity and self control, social decision making, psychopathology, and commercial applications (e.g., neuromarketing and neurofinance). Permission of the instructor. SC F 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* NSCI 4430a / NSCI 443 / PSYC 4430a, Topics in the Neuroscience of Memory Stephanie Lazzaro",
+    "courseid": "NSCI 4430a",
+    "coursedescription": "A seminar style overview and examination of the neuroscience of memory. In this seminar, we discuss some significant historical findings in the study of memory, as well as focus on more recent, current research. How memory works and how memories can be altered and improved are discussed. Topics may include sleep and memory consolidation, re-consolidation, false memories, superior autobiographical memory, as well as the the effects of rewards, novelty, exercise, and social cues on various types of memory. Goals for this course include acquiring an in-depth and integrative understanding of the current research and directions surrounding the neuroscience of memory, and thinking critically about the methodology and evidence in the research papers that are read and discussed. We discuss strengths and limitations of the research and theories, as well as real-world applications. Prerequisites: PSYC 110, PSYC 160 , or PSYC 130 F 9:25am-11:15am",
+    "course-prerequsities": [
+      "PSYC 110",
+      "PSYC 160",
+      "PSYC 130",
+      "F 9",
+      "25AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* NSCI 4490a / PSYC 4490a, Neuroscience of Social Interaction Steve Chang",
+    "courseid": "NSCI 4490a",
+    "coursedescription": "This seminar covers influential studies that inform how the brain enables complex social interactions from the perspectives of neural mechanisms. Students thoroughly read selected original research papers in the field of social neuroscience across several animal species and multiple modern neuroscience methodologies. In class, the instructor and students work together to discuss these studies in depth. Focused topics include neural mechanisms behind brain-to-brain coupling, empathy, prosocial decision-making, oxytocin effects, and social dysfunction. Prerequisite: PSYC 160 or permission from the instructor. SC T 9:25am-11:15am",
+    "course-prerequsities": [
+      "PSYC 160",
+      "T 9",
+      "25AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PSYC 160 or permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* NSCI 4550a / PSYC 4320a, Under Pressure: The Psychology of Stress Dylan Gee",
+    "courseid": "NSCI 4550a",
+    "coursedescription": "While stress serves an adaptive function that is critical for survival, chronic or extreme stress can have a negative impact on mental and physical health. Understanding the broad range of factors that can exacerbate or reduce stress, how we respond to stress, and the ways that experiences and effects of stress can differ across people and across stages of development can provide foundational insights for dealing with stress in our lives. This seminar integrates psychological, neurobiological, social, developmental, and clinical perspectives on stress. In addition to developing a foundation in the theoretical and empirical literature on stress, students will have the opportunity to engage in experiential learning related to coping skills drawn from evidence-based interventions in psychology. Priority given to seniors. Prerequisites: There are no formal prerequisites for the course, but one of the following is strongly recommended: PSYC 110, PSYC 160 , PSYC 230, PSYC 335, PSYC 352, or PSYC 376. SO M 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "PSYC 110",
+      "PSYC 160",
+      "PSYC 230",
+      "PSYC 335",
+      "PSYC 352",
+      "PSYC 376",
+      "M 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: There are no formal prerequisites for the course, but one of the following is strongly recommended: PSYC 110, PSYC 160 , PSYC 230, PSYC 335, PSYC 352, or PSYC 376."
+      ]
+    }
+  },
+  {
+    "coursename": "* NSCI 4620a / PSYC 4620a, Infantile Amnesia Nick Turk-Browne",
+    "courseid": "NSCI 4620a",
+    "coursedescription": "Memory is essential to who we are, how we behave, and what we value. It is therefore striking that humans lack memories for the first few years of life. Such infantile amnesia was first described a century ago and many theories have been proposed since then. However, there has been major empirical progress over the past decade. This seminar draws broadly on behavioral and neuroscientific research in humans and animals to understand infantile amnesia. Through this topic, students learn about different types of memory, the underlying brain systems, how memory and other cognitive abilities develop, and state-of-the-art tools for studying remembering and forgetting. Prerequisite: PSYC 160 / NSCI 160 , The Human Brain. SC , SO T 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "PSYC 160",
+      "NSCI 160",
+      "T 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* NSCI 4700a, Independent Research Damon Clark and Steve Chang",
+    "courseid": "NSCI 4700a",
+    "coursedescription": "Research project under faculty supervision taken Pass/Fail; does not count toward the major, but does count toward graduation requirements. Students are expected to spend approximately ten hours per week in the laboratory. A final research report and/or presentation is required by end of term. Students who take this course more than once must reapply each term. To register, students must submit a form and written plan of study with bibliography, approved by the faculty research adviser and DUS, by the end of the first week of class. More detailed guidelines and forms can be obtained from http://neuroscience.yale.edu. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* NSCI 4790b / PSYC 4790b, Computational Basis of Seeing and Thinking Ilker Yildirim",
+    "courseid": "NSCI 4790b",
+    "coursedescription": "This seminar aims to discuss the computational basis of seeing and thinking in the mind and brain. The course be organized around three central questions in brain and cognitive sciences. First, we start with this question of how perception gets us to cognition: How is it that perception transforms raw, unstructured incoming sensory signals arising from our physical environments -- the light that bounces off surfaces and arrives at the retina, raw audio waves hitting the ears, or the vibro-tactile sensations felt at the fingertips when touching a surface -- into things like objects, scenes, events, and agents, into things that we can think about? We draw upon readings and classroom discussions, primarily computational literature, to explore representational and algorithmic hypothesis about seeing and thinking in the mind. Second, we observe that these cognitive hypotheses about mental representations are typically developed in rather sterile, or as scientists we like to call it \"controlled\", settings. We proceed to ask how these cognitive hypotheses about mental representations can be scaled to the messiness and complexity of the real world. This leads us to issues at the intersection of AI, psychology, and cognitive science. Finally, we observe that in most cases, cognitive representations about mental representations don't plausibly or at least readily map onto a brain implementation. So, we ask: How is it that through the distributed and dynamic activity in our brain’s neural circuits, we come to think thoughts about objects and agents, mentally simulate what will happen next, and plan actions accordingly? We explore multi-level theories of intelligence, that make bridges across AI, neuroscience and cognitive science. SO W 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* NSCI 4800a, Senior Non-empirical Research Damon Clark and Steve Chang",
+    "courseid": "NSCI 4800a",
+    "coursedescription": "Research survey under faculty supervision fulfills the senior requirement for the B.A. degree and awards a letter grade. For NSCI seniors only (and second term juniors with DUS permission). Students are expected to conduct a literature review, to complete written assignments, and to present their research once in either the fall or spring term. Students are encouraged to pursue the same research project for two terms. The final research paper is due in the hands of the sponsoring faculty member, with a copy submitted to the department, by the stated deadline near the end of the term. To register, students submit a form and written plan of study with bibliography, approved by the faculty research adviser and DUS, by the end of the first week of classes. More detailed guidelines and forms can be obtained from http://neuroscience.yale.edu. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For NSCI seniors only (and second term juniors with DUS permission)."
+      ]
+    }
+  },
+  {
+    "coursename": "* NSCI 4900a and NSCI 4910a, Senior Empirical Research Damon Clark and Steve Chang",
+    "courseid": "NSCI 4900a",
+    "coursedescription": "Laboratory or independent empirical research project under faculty supervision to fulfill the senior requirement for the B.S. degree. For NSCI seniors only (and second term juniors with DUS permission); this course awards a letter grade. Students are expected to spend at least ten hours per week in the laboratory, to complete written assignments, and to present their research once in either the fall or the spring term. Written assignments include a short research proposal summary due at the beginning of the term and a full research report due at the end of the term. Students are encouraged to pursue the same research project for two terms, in which case, the first term research report and the second term proposal summary may be combined into a full research proposal due at the end of the first term. Final papers are due by the stated deadline. Students should reserve a research laboratory during the term preceding the research. To register, students must submit a form and written plan of study with bibliography, approved by the faculty research adviser and DUS, by the end of the first week of classes. More detailed guidelines and forms can be obtained from http://neuroscience.yale.edu. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For NSCI seniors only (and second term juniors with DUS permission); this course awards a letter grade."
+      ]
+    }
+  }
+]

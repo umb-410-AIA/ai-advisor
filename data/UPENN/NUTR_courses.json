@@ -1,0 +1,138 @@
+[
+  {
+    "coursename": "NUTR 6000 Nutrition Essentials: Bridging Disciplines for Better Health",
+    "courseid": "NUTR 6000",
+    "coursedescription": "This 7-week online introductory course in nutrition offers a comprehensive exploration of the fundamental principles of nutrition, focusing on how diet impacts overall health. Designed for students from diverse academic backgrounds, the course highlights the role of nutrition in disease prevention, treatment, and health optimization through an asynchronous learning format. Whether pursuing a career in healthcare or seeking to understand the essential components of a healthy lifestyle, this course provides valuable insights into the connections between nutrition, biology, and well-being. Spring Prerequisite: None",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "NUTR 6010 Nutritional Epidemiology",
+    "courseid": "NUTR 6010",
+    "coursedescription": "This online course in nutritional epidemiology aims to draw on understanding epidemiologic studies of diet, nutrition, and chronic disease in populations. Students are introduced to study designs for research in nutritional epidemiology through an asynchronous learning format. Students critically evaluate strengths and weaknesses of diet assessment methodologies and learn about statistical methods for analyzing diet-disease associations. Critical analysis of the literature and the review of population-based dietary data support students’ ability to determine best practices and evidence-based approaches. Fall Prerequisite: None 1 Course Unit",
+    "course-prerequsities": [
+      "NONE 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6020 Advanced Micronutrient Metabolism",
+    "courseid": "NUTR 6020",
+    "coursedescription": "This required 14-week online course introduces the student to the food sources, functions, deficiency and toxicity states, digestion, metabolism, and excretion of micronutrients (vitamins, minerals, and trace elements) in humans. This series of asynchronous sessions focuses on the biological and molecular bases of human micronutrient metabolism in states of health and disease across the lifespan. Pertinent research methodology, interpretation of peer-reviewed literature and integration of research into evidence-based practice will be included. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6030 Advanced Medical Nutrition Therapy I",
+    "courseid": "NUTR 6030",
+    "coursedescription": "This online course introduces the student to fundamental principles and applications of medical nutrition therapy (MNT) in human health across the life cycle in outpatient clinical settings. In this first of a two-course series, content delivered asynchronously focuses on foundations of MNT and the nutrition care process for the provision of evidence-based nutrition care. Students explore MNT as it relates to assessment and disease prevention in caring for individuals during pregnancy and lactation as well as childhood, the aging process and oral health. Students gain an understanding of and appreciation for nutrition science, anatomy and physiology, synthesis of research findings, and trends in health care. Through case studies, students integrate and apply their knowledge to effectively plan and manage the nutritional care of a variety of patients using a critical thinking approach for evidence-based MNT. Fall Prerequisite: None 1 Course Unit",
+    "course-prerequsities": [
+      "NONE 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6040 Advanced Macronutrient Metabolism",
+    "courseid": "NUTR 6040",
+    "coursedescription": "This required 14-week online course introduces the student to the food sources, functions, digestion, metabolism, and excretion of macronutrients (carbohydrates, fiber, lipids, proteins) and alcohol in humans across the lifespan. This series of asynchronous sessions focuses on the biological and molecular bases of human macronutrient metabolism in states of health and disease. Pertinent research methodology, interpretation of peer-reviewed literature and integration of research into evidence-based practice will be included. Fall Prerequisite: None 1 Course Unit",
+    "course-prerequsities": [
+      "NONE 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6050 Advanced Medical Nutrition Therapy II",
+    "courseid": "NUTR 6050",
+    "coursedescription": "This asynchronous online course expands on the content from Medical Nutrition Therapy I to expand principles behind and applications of medical nutrition therapy (MNT) in human diseases and conditions including cardiovascular, metabolic, neoplastic, renal, pulmonary, critical illness, gastrointestinal/liver, and HIV disease, and organ transplantation. Students examine dietary guidelines for diseases and conditions, as well as the evidence behind the use of oral nutritional supplements, tube feeding, and intravenous (parenteral) nutrition. Students gain an understanding of and appreciation for pathophysiological bases of disease and injury within a context of evidence-based nutrition practice considerations. Through case studies, students integrate and apply their knowledge of nutrition science, metabolism, and physiology to effectively plan and manage the nutritional care of a variety of patients using a critical thinking approach to evidence-based MNT. Spring Prerequisite: NUTR 6020 1 Course Unit",
+    "course-prerequsities": [
+      "NUTR 6020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6060 Effective Nutrition Counseling and Health Education Skills",
+    "courseid": "NUTR 6060",
+    "coursedescription": "This online asynchronous course is designed to prepare future healthcare professionals on gaining effective nutrition counseling and health education skills. The essence of the course entails theory and application for promoting effective behavior change and cultural humility while addressing health care bias. Each session builds sequentially on the skills from each preceding session. The culmination of these skills will allow students to effectively develop skills for the role as nutrition counselor or health educator. Summer Term Also Offered As: NURS 6230 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6070 Capstone Project Planning",
+    "courseid": "NUTR 6070",
+    "coursedescription": "This required 14-week online seminar course is the first of a 2-semester seminar experience required for graduation with the Master of Science in Nutrition Science (MSNS) degree. Over the course of the two Capstone Project courses, students will develop, propose, revise, implement, and present their projects. The projects may vary from secondary analysis of existing data to applied or translational projects that demonstrate nutrition science knowledge and recommendations for policy change or quality improvement. This first course is designed to provide didactic content, support, and guidance to the development of a capstone scientific project which synthesizes the knowledge and professional competencies gained from other MSNS courses. The student will identify a faculty mentor to work closely with on the capstone project. The course will culminate in any necessary ethical approval and a detailed project proposal. Spring Prerequisite: NUTR 6040 AND NUTR 6020 AND NUTR 6010 1 Course Unit",
+    "course-prerequsities": [
+      "NUTR 6040",
+      "NUTR 6020",
+      "NUTR 6010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6080 Capstone Project Completion",
+    "courseid": "NUTR 6080",
+    "coursedescription": "Through didactic content and faculty mentorship, this second capstone course serves as a final component in achieving the MSNS degree. This asynchronous online course culminates in the completion of a capstone scientific project and the development of a professional quality final report and presentation. Sufficient time is provided for students to complete the capstone scientific project that was proposed in the NUTR 6070 Capstone Project Planning course. Summer Term Prerequisite: NUTR 6070 1 Course Unit",
+    "course-prerequsities": [
+      "NUTR 6070"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6090 Nutrition Equity",
+    "courseid": "NUTR 6090",
+    "coursedescription": "This asynchronous online course introduces students to nutrition equity from both a local (community) and global perspective. Students in the course will learn about the complexity and inequity of food systems as a social determinant of health, which can lead to food insecurity and nutrition- and health-related disparities. Students will critically evaluate structural and intermediate determinants of nutrition equity, explore how neighborhood conditions can affect access to healthy foods and, through critical analysis of the literature, review frameworks and theories relevant to nutrition equity. Spring Prerequisite: None 1 Course Unit",
+    "course-prerequsities": [
+      "NONE 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6100 Omics of Nutrition Science",
+    "courseid": "NUTR 6100",
+    "coursedescription": "This online course introduces students to the applications of new technologies including genomics, epigenomics, transcriptomics, and metabolomics as investigative approaches to understand the impact of diet and nutrition on human health and disease. Students will learn basic ‘omics analysis skills using publicly available data resources. Emphasis will be placed on integration of multi-omics approaches with a role for collaborative team science. Spring Prerequisite: None 1 Course Unit",
+    "course-prerequsities": [
+      "NONE 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6120 Culinary Nutrition",
+    "courseid": "NUTR 6120",
+    "coursedescription": "This online asynchronous course exposes students to the fundamentals of food preparation designed to improve health outcomes in various health states. Students will explore the application of medical nutrition therapy interventions within recipe development and cooking methods to better understand barriers to adhering to clinical nutrition recommendations. The importance of cultural, ethnic, food access, and economic considerations relevant to food preparation and eating habits will be examined in detail. Summer Term Prerequisite: None 1 Course Unit",
+    "course-prerequsities": [
+      "NONE 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6130 Precision Nutrition",
+    "courseid": "NUTR 6130",
+    "coursedescription": "This online asynchronous course will present content aimed at uncovering the role of precision nutrition in improving health, wellness, and disease prevention in humans. Students will learn the effects of the interactions of diet with genetics/epigenetics, microbiome, metabolism, environment, physical activity, and economical, social, and behavioral factors that contribute to overall health. Individualized nutritional plans to optimize health and reduce metabolic disease risk will be planned. This course will cover the growing field of precision nutrition with a focus on current methods and applications of individual disease risk assessments to design personalized recommendations for optimal health outcomes. It is based on assigned topics and readings covering a variety of emerging concepts in precision nutrition and in broader precision medicine approaches. Students will advance their knowledge in understanding dietary recommendations for population subgroups and how to refine recommendations informed by genetic background and deep phenotyping, coupled with emerging nutrition science findings in the peer-reviewed literature. Spring Prerequisite: None 1 Course Unit",
+    "course-prerequsities": [
+      "NONE 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NUTR 6760 Obesity and Health",
+    "courseid": "NUTR 6760",
+    "coursedescription": "This 14-week online course introduces the learner to the etiology, prevalence, and pathophysiology of obesity in children and adults. This series of asynchronous sessions focuses on the biological, genetic, and environmental causes of obesity and highlights the impact of obesity on chronic disease. Spring Also Offered As: NURS 6760 Mutually Exclusive: NURS 3130 , NURS 5130 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

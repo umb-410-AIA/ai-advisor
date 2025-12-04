@@ -1,0 +1,538 @@
+[
+  {
+    "coursename": "* MATH 1030b, Mathematics of Voting Meghan Anderson",
+    "courseid": "MATH 1030b",
+    "coursedescription": "This course explores applications of mathematics to politics. Students consider historical and contemporary questions about voting methods and districting through a mathematical lens, at an accessible level. These explorations engage with ideas of proof and cultivate relevant quantitative reasoning skills. Topics include ranked choice voting methods and gerrymandering. Permission of instructor required. Enrollment limited to 25 students who have not previously taken a high school or college calculus course. Assumes fluency in high school algebra. QR TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of instructor required.",
+        "Enrollment limited to 25 students who have not previously taken a high school or college calculus course."
+      ]
+    }
+  },
+  {
+    "coursename": "* MATH 1070a, Mathematics in the Real World Timothy Ablondi and Miki Havlickova",
+    "courseid": "MATH 1070a",
+    "coursedescription": "The use of mathematics to address real-world problems. Applications of exponential functions to compound interest and population growth; geometric series in mortgage payments, amortization of loans, present value of money, and drug doses and blood levels; basic probability, Bayes's rule, and false positives in drug testing; elements of logic. Permission of instructor required. Enrollment limited to 25 students who have not previously taken a high school or college calculus course. QR TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Applications of exponential functions to compound interest and population growth; geometric series in mortgage payments, amortization of loans, present value of money, and drug doses and blood levels; basic probability, Bayes's rule, and false positives in drug testing; elements of logic.",
+        "Permission of instructor required.",
+        "Enrollment limited to 25 students who have not previously taken a high school or college calculus course."
+      ]
+    }
+  },
+  {
+    "coursename": "* MATH 1100a, Introduction to Functions and Calculus I Sarah Days-Merrill",
+    "courseid": "MATH 1100a",
+    "coursedescription": "Comprehensive review of precalculus, limits, differentiation and the evaluation of definite integrals, with applications. Precalculus and calculus topics are integrated. Emphasis on conceptual understanding and problem solving. Successful completion of MATH 1100 and 1110 is equivalent to MATH 1120 . No prior acquaintance with calculus is assumed; some knowledge of algebra and precalculus mathematics is helpful. The course includes mandatory weekly workshops, scheduled at the beginning of term. Placement into MATH 1100 on the Mathematics placement exam is required. Enrollment in MATH 1100 is through preference selection, except during April registration (where sections are open to everyone who has placement in the course). QR HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 1110b, Introduction to Functions and Calculus II Sarah Days-Merrill",
+    "courseid": "MATH 1110b",
+    "coursedescription": "Continuation of MATH 1100 . Comprehensive review of precalculus, limits, differentiation and evaluation of definite integrals, with applications. Precalculus and calculus topics are integrated. Emphasis on conceptual understanding and problem solving. Successful completion of both MATH 1100 and 1110 is equivalent to MATH 1120 . The course includes mandatory weekly workshops, scheduled at the beginning of term. Prerequisite: MATH 1100 . Enrollment in MATH 1110 is through preference selection. QR HTBA",
+    "course-prerequsities": [
+      "MATH 1100",
+      "MATH 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 1120a or b, Calculus of Functions of One Variable I Staff",
+    "courseid": "MATH 1120a",
+    "coursedescription": "This course introduces the notions of derivative and of definite integral for functions of one variable, with some of their physical and geometrical motivation and interpretations. Emphasis is placed on acquiring an understanding of the concepts that underlie the subject, and on the use of those concepts in problem solving. This course also focuses on strategies for problem solving, communication and logical reasoning. Placement into MATH 1120 on the Mathematics placement exam is required. No prior acquaintance with calculus or computing assumed. May not be taken after MATH 1110 , MATH 1150 , MATH 1160 , MATH 1200 , or MATH 1210 . Enrollment in MATH 1120 is through preference selection, except during April registration (where sections are open to everyone who has placement in the course). QR HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 1150a or b, Calculus of Functions of One Variable II Staff",
+    "courseid": "MATH 1150a",
+    "coursedescription": "A continuation of MATH 1120 , this course develops concepts and skills at the foundation of the STEM disciplines. In particular, we introduce Riemann sums, integration strategies, series convergence, and Taylor polynomial approximation. We use these tools to measure lengths of parametric curves, areas of polar regions and volumes of solids of revolution, and we explore applications of calculus to other disciplines including physics, economics, and statistics. MATH 1150 also focuses on strategies for problem solving, communication, and logical reasoning. Prerequisite: MATH 1110 or MATH 1120 , or placement into MATH 1150 on the Mathematics placement exam. May not be taken after MATH 1160 , MATH 1200 , or MATH 1210 . Enrollment in MATH 1150 is through preference selection, except during April registration (in this case sections are open to everyone who has placement in the course). QR HTBA",
+    "course-prerequsities": [
+      "MATH 1110",
+      "MATH 1120",
+      "MATH 1150",
+      "MATH 1160",
+      "MATH 1200",
+      "MATH 1210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 1160a, Mathematical Models in the Biosciences I: Calculus Techniques John Hall",
+    "courseid": "MATH 1160a",
+    "coursedescription": "Techniques and applications of integration, approximation of functions by polynomials, modeling by differential equations. Introduction to topics in mathematical modeling that are applicable to biological systems. Discrete and continuous models of population, neural, and cardiac dynamics. Stability of fixed points and limit cycles of differential equations. Prerequisite: MATH 1120 , or placement into MATH 1150 / MATH 1160 on the Mathematics placement exam. May not be taken after MATH 1150 , MATH 1200 , or MATH 1210 . QR TTh 9am-10:15am",
+    "course-prerequsities": [
+      "MATH 1120",
+      "MATH 1150",
+      "MATH 1160",
+      "MATH 1200",
+      "MATH 1210",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 1180a or b, Introduction to Functions of Several Variables Staff",
+    "courseid": "MATH 1180a",
+    "coursedescription": "A combination of linear algebra and differential calculus of several variables. Matrix representation of linear equations, Gauss elimination, vector spaces, independence, basis and dimension, projections, least squares approximation, and orthogonality. Three-dimensional geometry, functions of two and three variables, level curves and surfaces, partial derivatives, maxima and minima, and optimization. Intended for students in the social sciences, especially Economics. May not be taken after MATH 1200 , 2220 , 2250 , or 2260. Prerequisite: MATH 1120 . QR HTBA",
+    "course-prerequsities": [
+      "MATH 1120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 1200a or b, Calculus of Functions of Several Variables John Hall",
+    "courseid": "MATH 1200a",
+    "coursedescription": "Analytic geometry in three dimensions, using vectors. Real-valued functions of two and three variables, partial derivatives, gradient and directional derivatives, level curves and surfaces, maxima and minima. Parametrized curves in space, motion in space, line integrals; applications. Multiple integrals, with applications. Divergence and curl. The theorems of Green, Stokes, and Gauss. Prerequisite: MATH 1150 or 1160 , or placement into MATH 1200 on the Mathematics placement exam. May not be taken after MATH 1210 or after MATH 3020 . Enrollment in MATH 1200 is through preference selection, except during April registration (where sections are open to everyone who has placement in the course). QR HTBA",
+    "course-prerequsities": [
+      "MATH 1150",
+      "1160",
+      "MATH 1200",
+      "MATH 1210",
+      "MATH 3020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 1210b, Mathematical Models in the Biosciences II: Advanced Techniques Staff",
+    "courseid": "MATH 1210b",
+    "coursedescription": "Mathematical modeling for the biosciences, with a strong focus on multivariable calculus techniques. Applications may include epidemiological models, mathematical foundations of virus and antiviral dynamics, ion channel models and cardiac arrhythmias, and evolutionary models of disease. Prerequisite: MATH 1150 or 1160 , or placement into MATH 1200 /1210 on the Mathematics placement exam. May not be taken after MATH 1200 . QR HTBA",
+    "course-prerequsities": [
+      "MATH 1150",
+      "1160",
+      "MATH 1200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2220a or b / AMTH 2220a or b, Linear Algebra with Applications Staff",
+    "courseid": "MATH 2220a",
+    "coursedescription": "Matrix representation of linear equations. Gauss elimination. Vector spaces. Linear independence, basis, and dimension. Orthogonality, projection, least squares approximation; orthogonalization and orthogonal bases. Extension to function spaces. Determinants. Eigenvalues and eigenvectors. Diagonalization. Difference equations and matrix differential equations. Symmetric and Hermitian matrices. Orthogonal and unitary transformations; similarity transformations. Students who plan to continue with upper level math courses should instead consider MATH 2250 or 2260 . After MATH 1150 or equivalent. May not be taken after MATH 2250 or 2260 . May not be counted toward the Math, CPSC + Math, or Econ + Math major. QR HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2250a or b, Linear Algebra Staff",
+    "courseid": "MATH 2250a",
+    "coursedescription": "An introduction to the theory of vector spaces, matrix theory and linear transformations, determinants, eigenvalues, inner product spaces, spectral theorem. The course focuses on conceptual understanding and serves as an introduction to writing mathematical proofs. For an approach focused on applications rather than proofs, consider MATH 222. Students with a strong mathematical background or interest are encouraged to consider MATH 226. Prerequisite: MATH 1150 or equivalent. May not be taken after MATH 2220 , or 2260. QR HTBA",
+    "course-prerequsities": [
+      "MATH 1150",
+      "MATH 2220",
+      "2260"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students with a strong mathematical background or interest are encouraged to consider MATH 226."
+      ]
+    }
+  },
+  {
+    "coursename": "* MATH 2260a, Linear Algebra (Intensive) Tianqi Wang",
+    "courseid": "MATH 2260a",
+    "coursedescription": "A fast-paced introduction to the theory of vector spaces, matrix theory and linear transformations, determinants, eigenvalues, inner product spaces, spectral theorem. Topics are covered at a deeper level than in MATH 2250 , and additional topics may be covered, for example canonical forms or the classical groups. The course focuses on conceptual understanding. Familiarity with writing mathematical proofs is recommended. For a less intensive course, consider MATH 2250 . For an approach focused on applications, consider MATH 2220 . Prerequisite: MATH 1150 or equivalent. May not be taken after MATH 2220 , or 2250. QR MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 1150",
+      "MATH 2220",
+      "2250",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Familiarity with writing mathematical proofs is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 2320b / AMTH 2320b, Advanced Linear Algebra with Applications Ian Adelstein",
+    "courseid": "MATH 2320b",
+    "coursedescription": "This course is a natural continuation of MATH 2220 . The core content includes eigenvectors and the Spectral Theorem for real symmetric matrices; singular value decomposition (SVD) and principle component analysis (PCA); quadratic forms, Rayleigh quotients and generalized eigenvalues. We also consider a number of applications: optimization and stochastic gradient descent (SGD); eigen-decomposition and dimensionality reduction; graph Laplacians and data diffusion; neural networks and machine learning. A main theme of the course is using linear algebra to learn from data. Students complete (computational) projects on topics of their choosing. Prerequisites: MATH 1200 and MATH 2220 , 2250 , or 2260. This is not a proof-based course. May not be taken after MATH 3400 . QR MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MATH 1200",
+      "MATH 2220",
+      "2260",
+      "MATH 3400",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2410a / S&DS 2410a, Probability Theory Sinho Chewi",
+    "courseid": "MATH 2410a",
+    "coursedescription": "Introduction to probability theory. Topics include probability spaces, random variables, expectations and probabilities, conditional probability, independence, discrete and continuous distributions, central limit theorem, Markov chains, and probabilistic modeling. After or concurrently with MATH 120 or equivalent. QR MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2420b / S&DS 2420b, Theory of Statistics Zhou Fan",
+    "courseid": "MATH 2420b",
+    "coursedescription": "Study of the principles of statistical analysis. Topics include maximum likelihood, sampling distributions, estimation, confidence intervals, tests of significance, regression, analysis of variance, and the method of least squares. Some statistical computing. After S&DS 241 and concurrently with or after MATH 222 or 225, or equivalents. QR MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2440a or b / AMTH 2440a or b, Discrete Mathematics Staff",
+    "courseid": "MATH 2440a",
+    "coursedescription": "Basic concepts and results in discrete mathematics: graphs, trees, connectivity, Ramsey theorem, enumeration, binomial coefficients, Stirling numbers. Properties of finite set systems. Prerequisite: MATH 1150 or equivalent. Some prior exposure to proofs is recommended (ex. MATH 2250 ). QR HTBA",
+    "course-prerequsities": [
+      "MATH 1150",
+      "MATH 2250"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Some prior exposure to proofs is recommended (ex."
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 2460a or b, Ordinary Differential Equations Staff",
+    "courseid": "MATH 2460a",
+    "coursedescription": "First-order equations, second-order equations, linear systems with constant coefficients. Numerical solution methods. Geometric and algebraic properties of differential equations. After MATH 1200 or equivalent; after or concurrently with MATH 2220 or 2250 or 2260 . QR HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2470b / AMTH 2470b, Intro to Partial Differential Equations Ruoyu Wang",
+    "courseid": "MATH 2470b",
+    "coursedescription": "Introduction to partial differential equations, wave equation, Laplace's equation, heat equation, method of characteristics, calculus of variations, series and transform methods, and numerical methods. Prerequisites: MATH 2220 or 2250 or 2260 , MATH 2460 or ENAS 1940 . QR MWF 10:30am-11:20am",
+    "course-prerequsities": [
+      "MATH 2220",
+      "2250",
+      "2260",
+      "MATH 2460",
+      "ENAS 1940",
+      "MWF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2510b / EENG 434 / S&DS 3510b, Stochastic Processes Ilias Zadik",
+    "courseid": "MATH 2510b",
+    "coursedescription": "Introduction to the study of random processes including linear prediction and Kalman filtering, Poison counting process and renewal processes, Markov chains, branching processes, birth-death processes, Markov random fields, martingales, and random walks. Applications chosen from communications, networking, image reconstruction, Bayesian statistics, finance, probabilistic analysis of algorithms, and genetics and evolution. Prerequisite: S&DS 241 or equivalent. QR MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "DS 241",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2550a or b, Analysis 1 Staff",
+    "courseid": "MATH 2550a",
+    "coursedescription": "Introduction to Analysis. Properties of real numbers, limits, convergence of sequences and series. Power series, Taylor series, and the classical functions. Differentiation and Integration. Metric spaces. The course focuses on conceptual understanding. Familiarity with writing mathematical proofs is assumed, and is further developed in the course. Prerequisite: MATH 1150 or equivalent, and MATH 2250 or 2260 . May not be taken after MATH 2560 . QR HTBA",
+    "course-prerequsities": [
+      "MATH 1150",
+      "MATH 2250",
+      "2260",
+      "MATH 2560"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 2560b, Analysis 1 (Intensive) Michail Louvaris",
+    "courseid": "MATH 2560b",
+    "coursedescription": "Fast-paced introduction to Analysis. Properties of real numbers, limits, convergence of sequences and series. Power series, Taylor series, and the classical functions. Differentiation and Integration. Metric spaces. The course focuses on conceptual understanding. Familiarity with writing mathematical proofs is assumed, and is further developed in the course. Prerequisite: MATH 1150 or equivalent, and MATH 2250 or 2260 . May not be taken after MATH 2550 . QR TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MATH 1150",
+      "MATH 2250",
+      "2260",
+      "MATH 2550",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 2700b, Set Theory Meghan Anderson",
+    "courseid": "MATH 2700b",
+    "coursedescription": "Algebra of sets; finite, countable, and uncountable sets. Cardinal numbers and cardinal arithmetic. Order types and ordinal numbers. The axiom of choice and the well-ordering theorem. After MATH 1200 or equivalent. QR TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3020a or b, Vector Analysis and Integration on Manifolds Staff",
+    "courseid": "MATH 3020a",
+    "coursedescription": "A rigorous treatment of the modern toolkit of multivariable calculus. Differentiation and integration in R^n. Inverse function theorem. Fubini's theorem. Multilinear algebra and differential forms. Manifolds in R^n. Generalized Stokes' Theorem. The course focuses on conceptual structure and proofs, and serves as a gateway to more advanced courses which use the language of manifolds. Prerequisites: MATH 2250 or 2260 , and MATH 2550 or 2560 . QR HTBA",
+    "course-prerequsities": [
+      "MATH 2250",
+      "2260",
+      "MATH 2550",
+      "2560"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3050b, Analysis 2: Lebesgue Integration and Fourier Series Charles Smart",
+    "courseid": "MATH 3050b",
+    "coursedescription": "The Lebesgue integral, Fourier series, applications to differential equations. Prerequisites: MATH 2250 or 2260 , and MATH 2550 or 2560 . QR MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "MATH 2250",
+      "2260",
+      "MATH 2550",
+      "2560",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3100a, Introduction to Complex Analysis Hee Oh",
+    "courseid": "MATH 3100a",
+    "coursedescription": "An introduction to the theory and applications of functions of a complex variable. Differentiability of complex functions. Complex integration and Cauchy's theorem. Series expansions. Calculus of residues. Conformal mapping. Prerequisites: MATH 2250 or 2260 , MATH 2550 or 2560 , and MATH 3020 or 1200 . QR MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "MATH 2250",
+      "2260",
+      "MATH 2550",
+      "2560",
+      "MATH 3020",
+      "1200",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 3150b, Intermediate Complex Analysis Alexander Goncharov",
+    "courseid": "MATH 3150b",
+    "coursedescription": "Continuation of MATH 3100 . Topics may include argument principle, Rouché's theorem, Hurwitz theorem, Runge's theorem, analytic continuation, Schwarz reflection principle, Jensen's formula, infinite products, Weierstrass theorem. Functions of finite order, Hadamard's theorem, meromorphic functions. Mittag-Leffler's theorem, subharmonic functions. After MATH 3100 . QR MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 3200a, Measure Theory and Integration Sebastian Hurtado - Salazar",
+    "courseid": "MATH 3200a",
+    "coursedescription": "Construction and limit theorems for measures and integrals on general spaces; product measures; Lp spaces; integral representation of linear functionals. After MATH 3050 or equivalent. QR MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MATH 3250b, Introduction to Functional Analysis Hanwen Zhang",
+    "courseid": "MATH 3250b",
+    "coursedescription": "Hilbert, normed, and Banach spaces; geometry of Hilbert space, Riesz-Fischer theorem; dual space; Hahn-Banach theorem; Riesz representation theorems; linear operators; Baire category theorem; uniform boundedness, open mapping, and closed graph theorems. After MATH 3200 , or after MATH 3050 with permission of instructor. QR TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "After MATH 3200 , or after MATH 3050 with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 3300a / S&DS 4000a, Advanced Probability Shuangping Li",
+    "courseid": "MATH 3300a",
+    "coursedescription": "Measure theoretic probability, conditioning, laws of large numbers, convergence in distribution, characteristic functions, central limit theorems, martingales. Some knowledge of real analysis assumed. QR TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3400b, Advanced Linear Algebra Ivan Danilenko",
+    "courseid": "MATH 3400b",
+    "coursedescription": "The course continues the study of linear algebra from MATH 2250 . It discusses several aspects of linear algebra that are of crucial importance for the subject and its applications to abstract algebra, geometry and number theory. Topics include generalized eigenspaces and Jordan normal form theorem, dual vector spaces, bilinear and hermitian forms, symmetric and hermitian operators, Hom spaces and tensor products. After MATH 2250 or 2260 . Two semesters of proof-based mathematics courses are strongly recommended. MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Two semesters of proof-based mathematics courses are strongly recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "* MATH 3450a, Modern Combinatorics Van Vu",
+    "courseid": "MATH 3450a",
+    "coursedescription": "Recent developments and important questions in combinatorics. Relations to other areas of mathematics such as analysis, probability, and number theory. Topics include probabilistic method, random graphs, random matrices, pseudorandomness in graph theory and number theory, Szemeredi's theorem and lemma, and Green-Tao's theorem. Prerequisite: Either MATH 2440 , or another full-semester course in discrete math together with MATH 2250 . QR TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 2440",
+      "MATH 2250",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3500a or b, Introduction to Abstract Algebra Staff",
+    "courseid": "MATH 3500a",
+    "coursedescription": "Group theory: isomorphism theorems, subgroups and quotient groups, group actions, Sylow theorems, direct and semidirect products. Ring theory: ideals and quotient rings, Euclidean domains, principal ideal domains, unique factorization domains. Prerequisites: one term of linear algebra and two terms of proof-based mathematics courses. (For example, MATH 2250 and 2550 , or MATH 2250 and 2440 .) QR HTBA",
+    "course-prerequsities": [
+      "MATH 2250",
+      "2550",
+      "2440"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3700b, Fields and Galois Theory Miki Havlickova",
+    "courseid": "MATH 3700b",
+    "coursedescription": "Galois theory studies the correspondence between group theory and the theory of fields. The topics will include finite and infinite fields, their extensions and automorphisms, as well as applications such as solvability of equations by radicals or constructions with ruler and compass. The course is a direct continuation of MATH 3500 . After MATH 3500 . QR TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3730b, Algebraic Number Theory Sam Raskin",
+    "courseid": "MATH 3730b",
+    "coursedescription": "Structure of fields of algebraic numbers (solutions of polynomial equations with integer coefficients) and their rings of integers; prime decomposition of ideals and finiteness of the ideal class group; completions and ramification; adeles and ideles; zeta functions. Prerequisites: MATH 3100 and 3700 . QR TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "MATH 3100",
+      "3700",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 3800a, Algebra Ivan Loseu",
+    "courseid": "MATH 3800a",
+    "coursedescription": "The course serves as an introduction to commutative algebra and category theory. Topics include commutative rings, their ideals and modules, Noetherian rings and modules, constructions with rings, such as localization and integral extension, connections to algebraic geometry, categories, functors and functor morphisms, tensor product and Hom functors, projective modules. Other topics may be discussed at instructor's discretion. After MATH 3500 and 3700 . QR MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4210a / AMTH 4200a, The Mathematics of Data Science Gilles Mordant",
+    "courseid": "MATH 4210a",
+    "coursedescription": "This course aims to be an introduction to the mathematical background that underlies modern data science. The emphasis is on the mathematics but occasional applications are discussed (in particular, no programming skills are required). Covered material may include (but is not limited to) a rigorous treatment of tail bounds in probability, concentration inequalities, the Johnson-Lindenstrauss Lemma as well as fundamentals of random matrices, and spectral graph theory. Prerequisite: MATH 3050 . QR , SC TTh 9am-10:15am",
+    "course-prerequsities": [
+      "MATH 3050",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Covered material may include (but is not limited to) a rigorous treatment of tail bounds in probability, concentration inequalities, the Johnson-Lindenstrauss Lemma as well as fundamentals of random matrices, and spectral graph theory."
+      ]
+    }
+  },
+  {
+    "coursename": "MATH 4300a, Introduction to Topology Richard Kenyon",
+    "courseid": "MATH 4300a",
+    "coursedescription": "The theory of fundamental groups and covering spaces, with particular reference to two-dimensional manifolds. Prerequisites: MATH 3500 , and MATH 2550 or 2560 . QR TTh 9am-10:15am",
+    "course-prerequsities": [
+      "MATH 3500",
+      "MATH 2550",
+      "2560",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4350b, Differential Geometry John Schotland",
+    "courseid": "MATH 4350b",
+    "coursedescription": "Applications of calculus to the study of the geometry of curves and surfaces in Euclidean space, intrinsic differential geometric properties of manifolds, and connections with non-Euclidean geometries and topology. Prerequisites: MATH 2250 or 2260 , MATH 2550 or 2560 , and MATH 3020 . QR TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 2250",
+      "2260",
+      "MATH 2550",
+      "2560",
+      "MATH 3020",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4400a, Introduction to Algebraic Geometry Junliang Shen",
+    "courseid": "MATH 4400a",
+    "coursedescription": "Algebraic geometry is the study of algebraic varieties, which are the spaces described by zero sets of polynomial equations. This course is an introduction to algebraic geometry with a focus on algebraic curves. These are 1-dimensional varieties, which can also be viewed as Riemann surfaces, lying at the crossroads of many branches of mathematics. We develop the theory of algebraic curves including divisors, Hurwitz's theorem, Riemann-Roch theorem, Jacobians, and Abel-Jacobi theory. We also discuss some aspects of higher dimensional varieties. Prerequisites: MATH 3100 and MATH 3500 . QR TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MATH 3100",
+      "MATH 3500",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4700a or b, Individual Studies Miki Havlickova",
+    "courseid": "MATH 4700a",
+    "coursedescription": "Individual investigation of an area of mathematics outside of those covered in regular courses, involving directed reading, discussion, and either papers or an examination. A written plan of study approved by the student's adviser and the director of undergraduate studies is required. The course may normally be elected for only one term. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MATH 4750a or b, Senior Essay Miki Havlickova",
+    "courseid": "MATH 4750a",
+    "coursedescription": "Interested students may write a senior essay under the guidance of a faculty member, and give an oral report to the department. Students wishing to write a senior essay should consult the director of undergraduate studies at least one semester in advance of the semester in which they plan to write the essay. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Interested students may write a senior essay under the guidance of a faculty member, and give an oral report to the department."
+      ]
+    }
+  },
+  {
+    "coursename": "* MATH 4800a or b, Senior Seminar: Mathematical Topics Staff",
+    "courseid": "MATH 4800a",
+    "coursedescription": "A number of mathematical topics are chosen each term—e.g., differential topology, Lie algebras, mathematical methods in physics—and explored in one section of the seminar. Students give several presentations on the chosen topic. Available for credit only to seniors majoring in Mathematics, Economics and Mathematics, or Mathematics and Philosophy, for the purpose of fulfilling the senior requirement. Prior experience with mathematics courses at level 3000 or higher is recommended. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prior experience with mathematics courses at level 3000 or higher is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "* MATH 4810b, Senior Seminar: Topics in Economics and Mathematics Pei-Chun Su",
+    "courseid": "MATH 4810b",
+    "coursedescription": "A number of topics at the intersection of economics and mathematics are chosen each term—e.g., the theory of networks, market design and equilibrium, information economics and probability —and explored in the seminar. Students present several talks on the chosen topic. This section is devoted to topics of interest to majors in Economics or Mathematics majors, and in particular to students in the joint major Economics and Mathematics. The seminar is co-taught by a member of the Economics Department. Available for credit only to seniors majoring in Mathematics, Economics and Mathematics, or Mathematics and Philosophy, for the purpose of fulfilling the senior requirement. MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This section is devoted to topics of interest to majors in Economics or Mathematics majors, and in particular to students in the joint major Economics and Mathematics."
+      ]
+    }
+  },
+  {
+    "coursename": "* MATH 4820a / EDST 3820a, Senior Seminar: Math Education Topics Miki Havlickova",
+    "courseid": "MATH 4820a",
+    "coursedescription": "The goal of the seminar is to explore topics of mathematics education at the college level, and work on presentation and teaching skills that can be useful in the classroom and in other settings. Everyone has several opportunities to practice teaching in the seminar, with guidance about explaining new material, choosing examples, implementing active learning strategies, and other skills. In other lessons, we discuss papers on pedagogy and classroom case studies. We also have sessions on public speaking, belonging in math, grading, and other topics relevant to mathematics instruction. The course is open to students in any major. It cannot be used as a mathematics elective. Seniors majoring in Mathematics or Mathematics + Philosophy may use the seminar to fulfill the senior requirement. In the pilot year, enrollment will be limited to 12 students, selected through an application process during April registration. MATH 2250 or MATH 2260 , and MATH 2550 or MATH 2560 TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In the pilot year, enrollment will be limited to 12 students, selected through an application process during April registration."
+      ]
+    }
+  }
+]

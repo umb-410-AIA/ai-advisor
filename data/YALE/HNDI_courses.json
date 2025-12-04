@@ -1,0 +1,57 @@
+[
+  {
+    "coursename": "* HNDI 1100a, Elementary Hindi I Swapna Sharma",
+    "courseid": "HNDI 1100a",
+    "coursedescription": "An in-depth introduction to modern Hindi, including the Devanagari script. A combination of graded texts, written assignments, audiovisual material, and computer-based exercises provides cultural insights and increases proficiency in understanding, speaking, reading, and writing Hindi. Emphasis on spontaneous self-expression in the language. No prior background in Hindi assumed. L1 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HNDI 1300a, Intermediate Hindi I Mansi Bajaj",
+    "courseid": "HNDI 1300a",
+    "coursedescription": "The first half of a two-term sequence designed to develop proficiency in the four language skills. Extensive use of cultural documents including feature films, radio broadcasts, and literary and nonliterary texts to increase proficiency in understanding, speaking, reading, and writing Hindi. Focus on cultural nuances and Hindi literary traditions. Emphasis on spontaneous self-expression in the language. After HNDI 120 or equivalent. L3 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* HNDI 1320a, Accelerated Hindi I Mansi Bajaj",
+    "courseid": "HNDI 1320a",
+    "coursedescription": "A fast-paced course designed for students who are able to understand basic conversational Hindi but who have minimal or no literacy skills. Introduction to the Devanagari script; development of listening and speaking skills; vocabulary enrichment; attention to sociocultural rules that affect language use. Students learn to read simple texts and to converse on a variety of everyday personal and social topics. L3 TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HNDI 1500a, Advanced Hindi Swapna Sharma",
+    "courseid": "HNDI 1500a",
+    "coursedescription": "An advanced language course aimed at enabling students to engage in fluent discourse in Hindi and to achieve a comprehensive knowledge of formal grammar. Introduction to a variety of styles and levels of discourse and usage. Emphasis on the written language, with readings on general topics from newspapers, books, and magazines. Prerequisite: HNDI 140 or permission of instructor. L5 MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "HNDI 140",
+      "L5",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: HNDI 140 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* HNDI 1980a, Advanced Tutorial Swapna Sharma",
+    "courseid": "HNDI 1980a",
+    "coursedescription": "For students with advanced Hindi language skills who wish to engage in concentrated reading and research on material not otherwise offered by the department. Work must be supervised by an adviser and must terminate in a term paper or the equivalent. Permission to enroll requires submission of a detailed project proposal and its approval by the language studies coordinator. Prerequisite: HNDI 150 or equivalent. HTBA",
+    "course-prerequsities": [
+      "HNDI 150"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission to enroll requires submission of a detailed project proposal and its approval by the language studies coordinator."
+      ]
+    }
+  }
+]

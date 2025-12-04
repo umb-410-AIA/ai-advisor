@@ -1,0 +1,59 @@
+[
+  {
+    "coursename": "ZULU 1110a, Beginning isiZulu I Nandipa Sipengane",
+    "courseid": "ZULU 1110a",
+    "coursedescription": "A beginning course in conversational isiZulu, using Web-based materials filmed in South Africa. Emphasis on the sounds of the language, including clicks and tonal variation, and on the words and structures needed for initial social interaction. Brief dialogues concern everyday activities; aspects of contemporary Zulu culture are introduced through readings and documentaries in English. L1 1½ Course cr MTWThF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ZULU 1120b, Beginning isiZulu II Staff",
+    "courseid": "ZULU 1120b",
+    "coursedescription": "Development of communication skills through dialogues and role play. Texts and songs are drawn from traditional and popular literature. Students research daily life in selected areas of South Africa. Prerequisite: ZULU 110. L2 1½ Course cr MTWThF 11:35am-12:25pm",
+    "course-prerequsities": [
+      "ZULU 110",
+      "L2",
+      "MTWTHF 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ZULU 1130a, Intermediate isiZulu I Nandipa Sipengane",
+    "courseid": "ZULU 1130a",
+    "coursedescription": "Development of fluency in speaking, listening, reading, and writing, using Web-based materials filmed in South Africa. Students describe and narrate spoken and written paragraphs. Review of morphology; concentration on tense and aspect. Materials are drawn from contemporary popular culture, folklore, and mass media. After ZULU 120. L3 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ZULU 1140b, Intermediate isiZulu II Staff",
+    "courseid": "ZULU 1140b",
+    "coursedescription": "Students read longer texts from popular media as well as myths and folktales. Prepares students for initial research involving interaction with speakers of isiZulu in South Africa and for the study of oral and literary genres. After ZULU 130. L4 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ZULU 1150a, Advanced isiZulu I Nandipa Sipengane",
+    "courseid": "ZULU 1150a",
+    "coursedescription": "Development of fluency in using idioms, speaking about abstract concepts, and voicing preferences and opinions. Excerpts from oral genres, short stories, and television dramas. Introduction to other South African languages and to issues of standardization, dialect, and language attitude. After ZULU 140. Course includes students from Cornell University via videoconference. L5 MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ZULU 1160b, Advanced isiZulu II Staff",
+    "courseid": "ZULU 1160b",
+    "coursedescription": "Readings may include short stories, a novel, praise poetry, historical texts, or contemporary political speeches, depending on student interests. Study of issues of language policy and use in contemporary South Africa; introduction to the Soweto dialect of isiZulu. Students are prepared for extended research in South Africa involving interviews with isiZulu speakers. After ZULU 150. Course includes students from Cornell University via videoconference. L5 MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Readings may include short stories, a novel, praise poetry, historical texts, or contemporary political speeches, depending on student interests."
+      ]
+    }
+  }
+]

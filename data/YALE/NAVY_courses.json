@@ -1,0 +1,76 @@
+[
+  {
+    "coursename": "NAVY 1000a, Naval Science Laboratory Staff",
+    "courseid": "NAVY 1000a",
+    "coursedescription": "Leadership and practical application skills from the Professional Core Competency objectives that are not covered in other Naval Science courses. Emphasis on professional training that is not of an academic nature. Includes both classroom instruction and physical training. Topics and special briefings as determined by Naval Science faculty and the Naval Service Training Command. Required for NROTC students each term. Receives no credit; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree. Grades earned in this course do not count toward GPA or eligibility for General Honors. 0 Course cr F 12:30pm-2:30pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Receives no credit; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree."
+      ]
+    }
+  },
+  {
+    "coursename": "* NAVY 1110a, Introduction to Naval Science Sean Cooper",
+    "courseid": "NAVY 1110a",
+    "coursedescription": "An overview of the naval service for first-year Naval ROTC students and others interested in pursuing the NROTC program. Organization, missions, customs and traditions, leadership principles, ethics, duties of a junior officer, and career options in the U.S. Navy and Marine Corps. Discussion of shipboard organization and procedures, safety, and damage control prepares students for summer training aboard naval vessels. For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree. Grades earned in this course do not count toward GPA or eligibility for General Honors. Th 7:15am-8:45am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "An overview of the naval service for first-year Naval ROTC students and others interested in pursuing the NROTC program.",
+        "For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree."
+      ]
+    }
+  },
+  {
+    "coursename": "* NAVY 2110a, Seapower and Maritime Affairs William Johnson",
+    "courseid": "NAVY 2110a",
+    "coursedescription": "This course is a study of the U.S. Navy and the influence of U.S. sea power on world history that incorporates both a historical and political science process to explore the major events, attitudes, personalities, and circumstances that have imbued the U.S. Navy with its proud history and rich tradition. This course introduces grand strategy, evaluating key components, and examples from ancient history and modern U.S. history. It deals with issues of national imperatives in peacetime, as well as war, varying maritime philosophies that were interpreted into naval strategies/doctrines, budgetary concerns which shaped force realities, and the pursuit of American diplomatic objectives. It concludes with a discussion of the Navy’s strategic and structural changes post-Cold War, the evolution of its focus, mission, and strategy both in the post-September 11, 2001 world and post-Global War on Terrorism era. TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NAVY 2120b, Leadership and Management Sean Cooper",
+    "courseid": "NAVY 2120b",
+    "coursedescription": "A study of leadership, ethics, resource management, and organizational behavior, with emphasis on situations commonly encountered by junior officers in the naval service. Classical theories of management, motivation, and communication; development of skills in organizational thinking and problem solving. Required for second-year NROTC students. For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree. Grades earned in this course do not count toward GPA or eligibility for General Honors. TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree."
+      ]
+    }
+  },
+  {
+    "coursename": "NAVY 3110a, Naval Engineering Paige Miles",
+    "courseid": "NAVY 3110a",
+    "coursedescription": "An overview of Naval engineering systems and a detailed study of the principles behind ship construction. Topics include ship design, hydrodynamic forces, stability, conventional and nuclear propulsion, electrical theory and systems, interior communications, damage control, hydraulics, and ship control. Basic concepts in the theory and design of steam, gas turbine, and diesel propulsion. For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree. Grades earned in this course do not count toward GPA or eligibility for General Honors. T 7:30am-8:45am, Th 7:30am-8:45am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree."
+      ]
+    }
+  },
+  {
+    "coursename": "NAVY 4110a, Naval Operations and Seamanship Nick Gioia",
+    "courseid": "NAVY 4110a",
+    "coursedescription": "Study of relative motion, formation tactics, and ship employment. Introductions to Naval operations and operations analysis, ship behavior and characteristics in maneuvering, applied aspects of ship handling, afloat communications, Naval command and control, Naval warfare areas, and joint warfare. Analysis of case studies involving related moral, ethical, and leadership issues. Prerequisites: NAVY 111 and 112. For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree. Grades earned in this course do not count toward GPA or eligibility for General Honors. T 7:15am-8:45am",
+    "course-prerequsities": [
+      "NAVY 111",
+      "112",
+      "T 7",
+      "15AM-8"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree."
+      ]
+    }
+  }
+]

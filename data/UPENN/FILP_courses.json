@@ -1,0 +1,42 @@
+[
+  {
+    "coursename": "FILP 0100 Beginning Filipino I",
+    "courseid": "FILP 0100",
+    "coursedescription": "An introduction to the spoken and written Tagalog (Filipino) language. This will prepare and develop students' basic skills in speaking, listening, reading and writing Filipino at its beginning level. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FILP 0200 Beginning Filipino II",
+    "courseid": "FILP 0200",
+    "coursedescription": "A continuation of Beginning Filipino I, this class building on previous lessons on speaking, listening, reading and writing Filipino at its beginning level. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FILP 0300 Intermediate Filipino I",
+    "courseid": "FILP 0300",
+    "coursedescription": "A continuation of Beginning Filipino II, the spoken and written Tagalog (Filipino) language. This course will develop the communicative competence of the students in handling limited communicative tasks, reading simple connected texts and writing short dialogues. Two Term Class, Student must enter first term; credit given even if second term not complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FILP 0400 Intermediate Filipino II",
+    "courseid": "FILP 0400",
+    "coursedescription": "A continuation of Intermediate Filipino I, the goal of this course is for students to be semi-fluent in handling everyday tasks like asking and giving directions, talking about vacation, and narrating news and events. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FILP 0500 Filipino Language and Culture",
+    "courseid": "FILP 0500",
+    "coursedescription": "The Filipino Language and Culture is an advanced language and culture course offered to students who are in the upper immediate level of Filipino Language or those who had been certified to be proficient in Filipino language. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

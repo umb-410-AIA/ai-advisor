@@ -1,0 +1,54 @@
+[
+  {
+    "coursename": "WOLF 0100 Elementary Wolof I",
+    "courseid": "WOLF 0100",
+    "coursedescription": "The main objective of this course is to allow students to study an African language of their choice, depending on the availability of the instructor. The course will provide students with linquistics tools which will facilitate their research work in the target country. Cultural aspects of the speakers of the language will be introduced and reinforced. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "WOLF 0200 Elementary Wolof II",
+    "courseid": "WOLF 0200",
+    "coursedescription": "Continuation of AFST 490. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "WOLF 0300 Intermediate Wolof I",
+    "courseid": "WOLF 0300",
+    "coursedescription": "Intermediate level courses in a variety of African languages: Igbo, Shona, Wolof, Malagasy, Chichewa, Setswana, Manding, Afrikaans, Setswana. Focus on oral proficiency and productive language skills. All course are langauge specfic and follow ACTFL proficiency guidelines. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "WOLF 0400 Intermediate Wolof II",
+    "courseid": "WOLF 0400",
+    "coursedescription": "Continuation of AFST 492. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "WOLF 1100 Advanced Wolof I",
+    "courseid": "WOLF 1100",
+    "coursedescription": "Language specific sections for students interested in doing country-specific research in a target language. Courses cover project-based skills for AFST research. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Language specific sections for students interested in doing country-specific research in a target language."
+      ]
+    }
+  },
+  {
+    "coursename": "WOLF 1200 Advanced Wolof II",
+    "courseid": "WOLF 1200",
+    "coursedescription": "Continuation of AFST 494. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

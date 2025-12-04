@@ -1,0 +1,788 @@
+[
+  {
+    "coursename": "EESC 1000 Earth Systems Science",
+    "courseid": "EESC 1000",
+    "coursedescription": "An introduction to Earth as a complex system through examination of its atmosphere, hydrosphere, lithosphere and biosphere, the interactions among these spheres, and of the human impacts on the planet and its responses. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 1002 Geology Laboratory",
+    "courseid": "EESC 1002",
+    "coursedescription": "Hands-on study of earth materials and processes. Identification and interpretation of rocks, minerals and fossils. Topographic and geologic maps. Evolution of landscapes. Field trips lead to a synthesis of the geologic history of southeastern Pennsylvania. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 1030 Oceanography",
+    "courseid": "EESC 1030",
+    "coursedescription": "The oceans cover over 2/3 of the Earth's surface. This course introduces basic oceanographic concepts such as plate tectonics, marine sediments, physical and chemical properties of seawater, ocean circulation, air-sea interactions, waves, tides, nutrient cycles in the ocean, biology of the oceans, and environmental issues related to the marine environment. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 1050 Earth and Life Through Time",
+    "courseid": "EESC 1050",
+    "coursedescription": "Origin of Earth, continents, and life. Continental movements, changing climates, and evolving life. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 1060 Natural Disturbances and Disasters",
+    "courseid": "EESC 1060",
+    "coursedescription": "Natural disasters play a fundamental role in shaping landscapes and structuring ecosystems. The purpose of this course is to introduce you to both the natural and social science of disasters. This course will explore the geologic processes that cause natural disasters, the ecological and social consequences of disasters, and the role of human behavior in disaster management and mitigation. Through exploring these concepts, this class will provide you with a broad background in the geosciences and the basic tools needed to understand: how earthquakes, volcanoes, landslides, and hurricanes occur; the myriad of ways that we can mitigate against their impacts; and the way in which we can \"calculate the cost\" of these disasters. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 1090 Introduction to Geotechnical Science",
+    "courseid": "EESC 1090",
+    "coursedescription": "Open to architectural and engineering majors as well as Ben Franklin Scholars. Field trips. Relations of rocks, rock structures, soils, ground water, and geologic agents to architectural, engineering, and land-use problems. Fall 1.5 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 1500 Paleontology",
+    "courseid": "EESC 1500",
+    "coursedescription": "Geologic history of invertebrates and their inferred life habits, paleoecology, and evolution. Introduction to paleobotany and vertebrate paleontology. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 2100 Mineralogy",
+    "courseid": "EESC 2100",
+    "coursedescription": "Crystallography, representative minerals, their chemical and physical properties. Use of petrographic microscope in identifying common rock-forming minerals in thin section. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 2120 Earth Materials: Minerals and Rocks",
+    "courseid": "EESC 2120",
+    "coursedescription": "This course will provide an overview of systematic mineralogy as well as petrology of igneous, sedimentary and metamorphic rocks. It will include weekly microscopy sessions, during which each student will learn how to identify minerals in the polarizing microscope and then apply this knowledge to the description of igneous, sedimentary and metamorphic rocks. Spring Prerequisite: EESC 1000 1 Course Unit",
+    "course-prerequsities": [
+      "EESC 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 2300 Global Climate Change",
+    "courseid": "EESC 2300",
+    "coursedescription": "Public perceptions and attitudes concerning the causes and importance of globalwarming have changed. Global Climate Change provides a sound theoretical understanding of global warming through an appreciation of the Earth's climate system and how and why this has changed through time. We will describe progress in understanding of the human and natural drivers of climate change, climate pr0cesses and attribution, and estimates of projected future climate change. We will assess scientific, tehnical, and socio-economic information relevant for the understanding of climate change, its potential impacts and options for adaptation and mitigation. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 2500 Earth and Life Through Geologic Time",
+    "courseid": "EESC 2500",
+    "coursedescription": "This course covers Earth System dynamics from the viewpoint of deep time. Specifically, the course focuses on (i) the history of our planet and its life, (ii) the physical, chemical and biological feedbacks driving evolution and (iii) the evidence that has given us access into the understanding of the Geologic Time Scale. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 2600 Stratigraphy",
+    "courseid": "EESC 2600",
+    "coursedescription": "Introductory sedimentary concepts, stratigraphic principles, depositional environments, and interpretation of the rock record in a paleoecological setting. Fall Mutually Exclusive: EESC 5600 Prerequisite: EESC 1000 1 Course Unit",
+    "course-prerequsities": [
+      "EESC 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 2704 Earth and Environmental Field Studies",
+    "courseid": "EESC 2704",
+    "coursedescription": "This course will introduce students to Philadelphia’s local geology and environment, as well as some sites further afield in NJ and PA. The course aims to give students the opportunity to develop and execute fundamental field skills and techniques in the earth and environmental sciences. The course will involve field trips, workshops, and assignments developed around the field exercises. Spring Prerequisite: EESC 1000 1 Course Unit",
+    "course-prerequsities": [
+      "EESC 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 2800 Earth's Interior",
+    "courseid": "EESC 2800",
+    "coursedescription": "Introduction to deformation as a fundamental geologic process. Stress and strain; rock mechanics. Definition, measurement, geometrical and statistical analysis, and interpretation of structural features. Structural problems in the field. Maps, cross-sections, and three-dimensional visualization; regional structural geology. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 2999 Independent Study",
+    "courseid": "EESC 2999",
+    "coursedescription": "Directed study for individuals or small groups under close supervision of a faculty member. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 3003 Penn in the Alps",
+    "courseid": "EESC 3003",
+    "coursedescription": "The aim of this 10-day summer program is to introduce inquisitive students to the nature, culture, history and languages of the European Alps in Switzerland and Italy. We will be exploring the geology of the Alps and how it influences the development of wildlife, flora, history, religion, culture and of entire regions, how humans have altered the environment, and how humans respond to climate change in Alpine ecosystems. We will learn how to observe nature in a spectacular landscape, visit cultural sites off the beaten track and explore some of the well-known localities, such as Zurich, Valtellina, Bellinzona, and the Engadine. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 3100 Petrology and Petrography",
+    "courseid": "EESC 3100",
+    "coursedescription": "Occurrences and origins of igneous and metamorphic rocks; phase equilibria in heterogeneous systems. Laboratory study of rocks and thin sections as a tool ininterpretation of petrogenesis. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 3300 Glaciers,Ice & Climate",
+    "courseid": "EESC 3300",
+    "coursedescription": "All forms of frozen water at Earth's surface define the cryosphere. These icy environmnets are an integral part of the global climate system, with important linkages and feedbacks resulting from their influences on surface energy and moisture fluxes, clouds, precipitation, hydrology, and circulation in the atmosphere and oceans. This course will survey the various components of the cryosphere and their interactions with climate, with a strong emphasis on the dynamics of glaciers and ice sheets. Broad topics to be covered are 1)the rudimentary mechanics of glacier and ice sheet flow, 2)fast-flowing ice streams and factors limiting their motion, 3)ice-quakes and their origins, 4)the nature of climate data recorded in natural ice bodies, 5)the influence of climate on the stability of ice sheets and glaciers, and 6)glacier-like flow on other planetary bodies. This will be a lecture-based course with written assignmnets and problems sets. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 3376 Climate and Big Data",
+    "courseid": "EESC 3376",
+    "coursedescription": "This course will cover some fundamental topics in Climate Sciences, while also teaching how to program & work with big data in Python. We will analyze big climate data (output from the newest generation climate models CMIP6 and NASA satellite datasets) remotely on a National Center for Atmospheric Research (NCAR) supercomputer. Spring Mutually Exclusive: EESC 6376 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 3600 Earth's Surface",
+    "courseid": "EESC 3600",
+    "coursedescription": "Patterns on the Earth's surface arise due to the transport of sediment by water and wind, with energy that is supplied by climate and tectonic deformation of the solid Earth. This course presents a treatment of the processes of erosion and deposition that shape landscapes. Emphasis will be placed on using simple physical principles as a tool for (a) understanding landscape patterns including drainage networks, river channels and deltas, desert dunes, and submarine channels, (b) reconstructing past environmental conditions using the sedimentary record, and (c) the management of rivers and landscapes under present and future climate scenarios. The course will conclude with a critical assessment of landscape evolution on other planets, including Mars. Not Offered Every Year Mutually Exclusive: EESC 6600 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 3997 Environmental Studies Research Seminar for Juniors",
+    "courseid": "EESC 3997",
+    "coursedescription": "This seminar is designed to help Juniors prepare for the Senior Thesis research. Topic selection, advisor identification, funding options, and basic research methods will be discussed. Spring Also Offered As: ENVS 3997 Prerequisite: ENVS 1000 1 Course Unit",
+    "course-prerequsities": [
+      "ENVS 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4200 Geochemistry",
+    "courseid": "EESC 4200",
+    "coursedescription": "This course provides a comprehensive introduction to theory and applications of chemistry in the earth and environmental sciences. Theory covered will include atomic structure, chemical bonding, cosmic abundances, nucleosynthesis,radioactive decay, dating of geological materials, stable isotopes, acid-base equilibria, salts and solutions, and oxidation-reduction reactions. Applications will emphasize oceanography, atmospheric sciences and environmental chemistry, as well as other topics depending on the interests of the class. Although we will review the basics, this course is intended to supplement, rather than to replace, courses offered in the Department of Chemistry. It is appropriate for advanced undergraduate as well as graduate students in Geology, Environmental Science, Chemistry and other sciences, who wish to have a better understanding of these important chemical processes. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Applications will emphasize oceanography, atmospheric sciences and environmental chemistry, as well as other topics depending on the interests of the class."
+      ]
+    }
+  },
+  {
+    "coursename": "EESC 4250 Our Water Planet",
+    "courseid": "EESC 4250",
+    "coursedescription": "Water, the “universal solvent”, is a miraculous substance that makes Earth unique in the solar system and, possibly, the galaxy. This course will dive into the wonderous physical and chemical properties of water from the micro (water properties and composition) to macro (global water resources) scale and highlight its role in sculpting almost every facet of Earth’s environment. Water will be examined within a scientific framework, from wicked water problems to wonderous water bodies to the paradox of an abundant yet incredibly precious resource. We will study the vital role of water in life, its movement across around our planet, its part in the growth (and downfall) of civilizations, and the ways in which humans are having profound impacts on all aspects of the water cycle. We will also look at how water interacts with other Earth systems, use topical case studies to examine water issues in the Anthropocene and examine what lies in store for water quality and availability in the twenty-first century during an era of rapid environmental change. Assignments will include class presentations, an opinion piece, and a review article for a leading journal. This course will include a local field trip. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4320 Atmospheric Chemistry",
+    "courseid": "EESC 4320",
+    "coursedescription": "An introduction to the chemistry of the earth's atmosphere. Covers evolution of the earth's atmosphere, its physical and chemical structure, its natural chemical composition and oxidative properties, and human impacts, including photochemistry, and aerosols; stratospheric ozone loss, tropospheric pollution; climate change, and acidic deposition. Chemistry in the atmosphere of other planets in our solar system will be covered. Fall Mutually Exclusive: EESC 6320 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4336 Ocean-Atmosphere Dynamics and Implications for Future Climate Change",
+    "courseid": "EESC 4336",
+    "coursedescription": "This course covers the fundamentals of atmosphere and ocean dynamics, and aims to put these in the context of climate change in the 21st century. Large-scale atmospheric and oceanic circulation, the global energy balance, and the global energy balance, and the global hydrological cycle. We will introduce concepts of fluid dynamics and we will apply these to the vertical and horizontal motions in the atmosphere and ocean. Concepts covered include: hydrostatic law, buoyancy and convection, basic equations of fluid motions, Hadley and Ferrel cells in the atmosphere, thermohaline circulation, Sverdrup ocean flow, modes of climate variability (El-Nino, North Atlantic Oscillation, Southern Annular Mode). The course will incorporate student led discussions based on readings of the 2007 Intergovernmental Panel on Climate Change (IPCC) report and recent literature on climate change. Aimed at undergraduate or graduate students who have no prior knowledge of meteorology or oceanography or training in fluid mechanics. Previous background in calculus and/or introductory physics is helpful. This is a general course which spans many subdisciplines (fluid mechanics, atmospheric science, oceanography, hydrology). Spring, even numbered years only Also Offered As: PHYS 3314 Mutually Exclusive: EESC 6336 Prerequisite: MATH 1410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4360 Environmental Fluid Dynamics",
+    "courseid": "EESC 4360",
+    "coursedescription": "Environmental Fluid Dynamics (EFD) is an applied branch of fluid mechanics devoted to studying fluid systems in nature, including atmospheric boundary layers and aquatic environments, such as lakes, rivers, and coastal seas. In particular, EFD aims to characterize the mechanisms governing the transport of heat, dissolved, and suspended matter in fluid environments, which together play a critical role in the functioning of ecosystems. This course will introduce the underlying physics governing motion in natural fluids, with emphasis on water bodies. We will discuss the transport equations that model fluid flows affected by vertical and horizontal density gradients, the effect of Earth rotation in fluid trajectories, and the main natural drivers responsible for energizing fluid flows, such as wind and heat fluxes. The course will revisit analytical results characterizing specific type flows in nature, and we will discuss open topics that are under development. Spring Mutually Exclusive: EESC 6360 Prerequisite: MATH 1410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4400 Biogeochemistry",
+    "courseid": "EESC 4400",
+    "coursedescription": "Humans have an enormous impact on the global movement of chemical materials. Biogeochemistry has grown to be the principal scientific discipline to examine the flow of elements through the global earth systems and to examine human impacts on the global environment. This course will introduce and investigate processes and factor controlling the biogeochemical cycles of elements with and between the hydrosphere, lithosphere, atmosphere and biosphere. Students will apply principles learned in lectures by building simple computer-based biogeochemical models. Spring Mutually Exclusive: EESC 6400 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4440 Geomicrobiology",
+    "courseid": "EESC 4440",
+    "coursedescription": "Microorganisms inhabit almost every conceivable environment on the planet's surface, and extent the biosphere to depths of several kilometers into the crust. Significantly, the chemical reactivity and metabolic diversity displayed by microbial communities make them integral components of global elemental cycles, from mineral dissolution and precipitation reactions, to aqueous reduction-oxidation processes. In that regard, microorganisms have helped shape our planet overthe past 4 billion years and made it habitable for higher forms of life. In this course we will evaluate the geological consequences of microbial activities, by taking am interdisciplinary and \"global\" view of microbe-environment interactions. Mutually Exclusive: EESC 6440 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4510 Introduction to Vertebrate Paleontology",
+    "courseid": "EESC 4510",
+    "coursedescription": "Geologic history of invertebrates and their inferred life habits, paleoecology, and evolution. Introduction to paleobotany and vertebrate paleontology. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4540 Paleoecology Discovering Lost Ecosystems",
+    "courseid": "EESC 4540",
+    "coursedescription": "Paleoecology, or ecology in the fossil record,is the study of how interactions between species have developed over time and how ecosystems and environmental change have shaped the evolution of life and biodiversity.It also involves rebuilding lost communities from fossil evidence to provide context for the origins of modern life and modern ecosystems.This seminar course will survey major topics in Paleoecology, including of ecosystems,the long-term connections between habitat, life mode and biodiversity as well as the distribution of life (e.g. paleobiogeography), escalation between predatorsand prey, competition between invasive and resident species, and how we can infer the ecology and behavior of long-dead organisms. Students will lead discussions on select concepts and choose one topic to investigate in depth. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4550 Macroevolution",
+    "courseid": "EESC 4550",
+    "coursedescription": "Macroevolution, or evolution above the population level and on long timescales,as a field addresses fundamental questions about the origins of life, past and present.These include but are not limited to: How are highly dissimilar speciesrelated? Why are animals on distant continents so similar? How and when did major groups, like birds or mammals, originate? What drives evolutionary arms races? Why are there so many more species of beetle than crocodile? Why are there more species in the tropics than the arctic? Did dinosaursprevent the diversification of mammals? Why do some animals survive mass extinction? How can invasive species spread so rapidly? Students will learn importantconcepts underlying our understanding of modern biodiversity and the fossil record, as well as how to use different methods and lines of evidence, including evolutionary trees (phylogeny), fossil databases, past climate and global events,mathematical modeling, and even modern genomics, to answer fundamental questions about the evolution of life. Spring, even numbered years only Also Offered As: BIOL 4450 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Macroevolution, or evolution above the population level and on long timescales,as a field addresses fundamental questions about the origins of life, past and present.These include but are not limited to: How are highly dissimilar speciesrelated?"
+      ]
+    }
+  },
+  {
+    "coursename": "EESC 4630 Hydrology",
+    "courseid": "EESC 4630",
+    "coursedescription": "Introduction to the basic principles of the hydrologic cycle and water budgets, precipitation and infiltration, evaporation and transpiration, stream flow, hydrograph analysis (floods), subsurface and groundwater flow, well hydraulics, water quality, and frequency analysis. Fall Mutually Exclusive: EESC 6630 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4660 Soil Science",
+    "courseid": "EESC 4660",
+    "coursedescription": "Soil is considered the \"skin of the Earth\", with interfaces between the lithosphere, hydrosphere, atmosphere, and biosphere. It is a mixture of minerals, organic matter, gases, liquids and a myriad of organisms that can support plant life. As such, soil is a natural body that exists as part of the environment. This course will examine the nature, properties, formation and environmental functions of soil. Mutually Exclusive: EESC 5660 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4700 Remote Sensing",
+    "courseid": "EESC 4700",
+    "coursedescription": "This course will introduce students to the principles of remote sensing, characteristics of remote sensors, and remote sensing applications. Image acquisition, data collection in the electromagnetic spectrum, and data set manipulations for earth and environmental science applications will be emphasized. We will cover fundamental knowledge of the physics of remote sensing; aerial photographic techniques; multispectral, hyperperspectral, thermal, and other image analysis. Students will pursue an independent research project using remote sensing tools, and at the end of the semester should have a good understanding and the basic skills of remote sensing. Mutually Exclusive: EESC 6700 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4800 Geophysics",
+    "courseid": "EESC 4800",
+    "coursedescription": "This course will cover the application of geophysical investigation techniques to problems of the earth's plantary structure, local subsurface structure and mineral prospecting. The topics will include principles of geophysical measurements and interpretation with emphasis on gravity measurement, isostasy, geomagnitism, sesmic refraction and reflection,electrical prospecting, electromagnetics and groung radar. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4991 Topics in Earth Science",
+    "courseid": "EESC 4991",
+    "coursedescription": "In depth examination of special topics in Earth Science. Topics will change with instructor and course offerings. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 4997 Senior Thesis",
+    "courseid": "EESC 4997",
+    "coursedescription": "The culmination of the Earth Science major. Students, while working with an advisor in their concentration, conduct research and write a thesis. Two Term Class, Student may enter either term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 5010 The Geology and Geography of Energy Resources",
+    "courseid": "EESC 5010",
+    "coursedescription": "This course will survey the way geology controls the formation and location of energy resources. Questions we'll address include, \"How are oil and gas fields formed?\", \"Why does the Middle East have so much oil?\", \"What are the best locations in the US for wind and solar energy generation, and why?\". We will discuss hydrocarbon, nuclear, solar, wind, and tidal energy sources. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 5100 Mineralogy",
+    "courseid": "EESC 5100",
+    "coursedescription": "Crystallography, representative minerals, their chemical and physical properties. Use of petrographic microscope in identifying common rock-forming minerals in thin section. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 5200 Aqueous Geochemistry",
+    "courseid": "EESC 5200",
+    "coursedescription": "This course is designed to provide the graduate student with an understanding of the fundamentals of aqueous geochemistry.The chemistry of water,air and soil will be studied from an environmental perspective.The nature, composition, structure, and properties of pollutants coupled with the major chemical mechanisms controlling the occurrence and mobility of chemicals in the environment will also be studied.Upon completion of this course, students should expect to have attained a broad understanding of and familiarity with aqueous geochemistry concepts applicable to the environmental field. Environmental issues that will becovered include acid deposition, toxic metal contamination, deforestation,and anthropogenic perturbed aspects of the earth's hydrosphere. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Environmental issues that will becovered include acid deposition, toxic metal contamination, deforestation,and anthropogenic perturbed aspects of the earth's hydrosphere."
+      ]
+    }
+  },
+  {
+    "coursename": "EESC 5320 Fundamentals of Air Pollution",
+    "courseid": "EESC 5320",
+    "coursedescription": "This course will cover various topics related to Air Quality. Initial lectures will cover the history of air pollution, discussions of the Clean Air Act and composition of the atmosphere. We will then progress to discussion of atmospheric pollutants and sources of those pollutants. Additional topics will include: fate of atmospheric pollutants (transport and dispersion mechanis will include: fate of atmospheric pollutants (transport and mechanisms), effects of air pollution (health and environmental effects), urban smog, acid rain, climate change, ozone depletion in the stratosphere, air quality criteria, and engineering controls. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 5400 Evolution/Revolution of Land Ecosystems",
+    "courseid": "EESC 5400",
+    "coursedescription": "Origin and diversification of land ecosystems. Interaction between plants and animals. Effects of past climatic change and other external factors. The importance of past changes in land ecosystems to our understanding of current global change. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 5630 Hydrology",
+    "courseid": "EESC 5630",
+    "coursedescription": "Introduction to the basic principles of the hydrologic cycle and water budgets, precipitation and infiltration, evaporation and transpiration, stream flow, hydrograph analysis (floods), subsurface and groundwater flow, well hydraulics, water quality, and frequency analysis. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 5660 Advanced Soil Science",
+    "courseid": "EESC 5660",
+    "coursedescription": "Soil is considered the \"skin of the Earth\", with interfaces between the lithosphere, hydrosphere, atmosphere, and biosphere. It is a mixture of minerals, organic matter, gases, liquids and a myriad of organisms that can support plant life. As such, soil is a natural body that exists as part of the environment. This course will examine the nature, properties, formation and environmental functions of soil. Mutually Exclusive: EESC 4660 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 5700 Data Analysis in Earth Science",
+    "courseid": "EESC 5700",
+    "coursedescription": "This course will introduce numerical techniques for analyzing data and formulating models in Earth Science. Students will first be introduced to Octave, a high level computer programming language (equivalent to Matlab, but free of cost) that allows data analysis and manipulation, sophisticated plotting and numerical modeling from the same interface. Data analysis will focus on time series, pattern recognition, image/topography analysis, and correlation statistics; modeling will include groundwater and surface water flow, random processes, diffusion, and erosion and deposition. This will be a seminar-style course where discussion will be encouraged, and additional topicsmay be covered depending on student interest. Through project-based learning exercises students will gain proficiency in Octave which will be useful for allaspects of Earth science. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This will be a seminar-style course where discussion will be encouraged, and additional topicsmay be covered depending on student interest."
+      ]
+    }
+  },
+  {
+    "coursename": "EESC 5704 Geologic Field Methods",
+    "courseid": "EESC 5704",
+    "coursedescription": "During six Saturday field trips, students will study field methods for the collection of geologic data. Use of the Brunton compass for basic surveying and collection of rock strata orientation will be stressed. Students will have an opportunity for field study of rocks and minerals, geomorphology, and geologic structures. This course is intended for MSAG students who do not have a degree in geology or need a field methods course for PG licensure. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 5720 Role of the Environmental Professional in Managing Contaminated Site Liability",
+    "courseid": "EESC 5720",
+    "coursedescription": "Evaluation of environmental contamination and liability is an important tool during acquisition of real estate property, and a standard work product in the environmental consulting field. This course will cover the purpose and history of the Superfund law, the various classifications of Superfund liable parties, and protections against Superfund liability, specifically with regard to bona fide prospective purchasers (BFPP). In the context of the BFPP liability defense the course will focus on the performance of \"All Appropriate Inquiry\" for the presence of environmental contamination (e.g. Phase I environmental site assessment). Our study of \"All Appropriate Inquiry\" will include evaluation of historical maps and other resources, aerial photography, chain-of-title documentation, and governmental database information pertaining to known contaminated sites in the area of select properties on or near campus. Site visits will be performed to gain experience and knowledge for the identification of recognized environmental conditions. Students will prepare environmental reports for select properties and will have an opportunity to hone technical writing skills. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 5800 Geotectonics",
+    "courseid": "EESC 5800",
+    "coursedescription": "Bulk structure of the Earth. Plate tectonics and plate boundaries. Plumes, rifting, and intraplate tectonics. Geotectonics and seismicity. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 5810 Earthquakes: from top to bottom",
+    "courseid": "EESC 5810",
+    "coursedescription": "Earthquakes affect the lives of billions of people on Earth but are also an important mechanism that continuously shapes the land and oceans. This course will introduce major and current research topics related to earthquakes, from the microphysics behind them to plate tectonics. This seminar class will introduce earthquakes from different perspectives spanning different scales, including rock friction, fault zone structure, human-induced earthquakes, subduction zone earthquakes, and extraterrestrial quakes. The interdisciplinary approach of this class will integrate mechanics, geochemistry, structural geology, seismology and environmental science and how they all relate to the study of earthquakes. Class assignments will include reading book sections, research and review papers, class presentations and participating in class discussions. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This seminar class will introduce earthquakes from different perspectives spanning different scales, including rock friction, fault zone structure, human-induced earthquakes, subduction zone earthquakes, and extraterrestrial quakes."
+      ]
+    }
+  },
+  {
+    "coursename": "EESC 5830 Geophysical Fluid Dynamics",
+    "courseid": "EESC 5830",
+    "coursedescription": "This class will discuss physical principles fundamental to the theoretical,observational, and experimental study of geophysical fluids, the equations of motion for rotating fluids; hydrostatic and Boussinesq approximations; circulation theorem; conservation of potential vorticity; scale analysis, geostrophic wind, quasigeostrophic system; wave theory and applications, flow instabilities, geophysical boundary layers. Depending on student interest, the class will be adapted to include applications from Oceanography, Meteorology, Geophysics or Engineering. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Depending on student interest, the class will be adapted to include applications from Oceanography, Meteorology, Geophysics or Engineering."
+      ]
+    }
+  },
+  {
+    "coursename": "EESC 5999 Independent Study",
+    "courseid": "EESC 5999",
+    "coursedescription": "Directed study for individuals or small groups under supervision of a faculty member. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6001 Topics Course in Applied Geosciences",
+    "courseid": "EESC 6001",
+    "coursedescription": "This course will explore topics related to the Applied Geosciences Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6100 Petrology and Petrography",
+    "courseid": "EESC 6100",
+    "coursedescription": "Occurrences and origins of igneous and metamorphic rocks; phase equilibria in heterogeneous systems. Laboratory study of rocks and thin sections as a tool ininterpretation of petrogenesis. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6200 Advanced Geochemistry",
+    "courseid": "EESC 6200",
+    "coursedescription": "This course provides a comprehensive introduction to theory and applications of chemistry in the earth and environmental sciences. Theory covered will include atomic structure, chemical bonding, cosmic abundances, nucleosynthesis,radioactive decay, dating of geological materials, stable isotopes, acid-base equilibria, salts and solutions, and oxidation-reduction reactions. Applications will emphasize oceanography, atmospheric sciences and environmental chemistry, as well as other topics depending on the interests of the class. Although we will review the basics, this course is intended to supplement, rather than to replace, courses offered in the Department of Chemistry. It is appropriate for advanced undergraduate as well as graduate students in Geology, Environmental Science, Chemistry and other sciences, who wish to have a better understanding of these important chemical processes. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Applications will emphasize oceanography, atmospheric sciences and environmental chemistry, as well as other topics depending on the interests of the class."
+      ]
+    }
+  },
+  {
+    "coursename": "EESC 6206 Geochemical Modeling",
+    "courseid": "EESC 6206",
+    "coursedescription": "This course is designed to introduce the major concepts regarding geochemistry and geochemical modeling. The course introduces two United States Geological Survey (USGS) computer models, PHREEQC, a geochemical speciation model, and PHAST, a transport module which is coupled with PHREEQC output. These are highly respected, world-renowned models that are free-ware via the USGS, complete with documentation. Once familiar with the models, the student can continue to work with them beyond the course experience. PHREEQC is designed to perform a wide variety of aqueous geochemical calculations and can be used to simulate chemical reactions and transport processes in natural or polluted waters. PHREEQC is capable of modeling both equilibrium and kinetic reactions. Some of the simulations pursued during the course include: Speciation of precipitation water; Iron speciation; Zinc sorption onto hydrous ferric oxide; Oxidation of organic carbon and the sequence of electron donors in natural waters; Benzene advective transport in groundwater; TCE transport and degradation. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6320 Advanced Atmospheric Chemistry",
+    "courseid": "EESC 6320",
+    "coursedescription": "An introduction to the chemistry of the earth's atmosphere. Covers evolution of the earth's atmosphere, its physical and chemical structure, its natural chemical composition and oxidative properties, and human impacts, including photochemistry, and aerosols; stratospheric ozone loss, tropospheric pollution; climate change, and acidic deposition. Chemistry in the atmosphere of other planets in our solar system will be covered. Fall Mutually Exclusive: EESC 4320 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6360 Advanced Environmental Fluid Dynamics",
+    "courseid": "EESC 6360",
+    "coursedescription": "Advanced Environmental Fluid Dynamics (EFD) is an applied branch of fluid mechanics devoted to studying fluid systems in nature, including atmospheric boundary layers and aquatic environments, such as lakes, rivers, and coastal seas. In particular, EFD aims to characterize the mechanisms governing the transport of heat, dissolved, and suspended matter in fluid environments, which together play a critical role in the functioning of ecosystems. This course will introduce the underlying physics governing motion in natural fluids, with emphasis on water bodies. We will discuss the transport equations that model fluid flows affected by vertical and horizontal density gradients, the effect of Earth rotation in fluid trajectories, and the main natural drivers responsible for energizing fluid flows, such as wind and heat fluxes. The course will revisit analytical results characterizing specific type flows in nature, and we will discuss open topics that are under development. Spring Mutually Exclusive: EESC 4360 Prerequisite: MATH 1410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6376 Advanced Climate and Big Data",
+    "courseid": "EESC 6376",
+    "coursedescription": "This course will cover some fundamental topics in Climate Sciences, while also teaching how to program & work with big data in Python. We will analyze big climate data (output from the newest generation climate models CMIP6 and NASA satellite datasets) remotely on a National Center for Atmospheric Research (NCAR) supercomputer. Spring Mutually Exclusive: EESC 3376 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6400 Advanced Biogeochemistry",
+    "courseid": "EESC 6400",
+    "coursedescription": "Humans have an enormous impact on the global movement of chemical materials. Biogeochemistry has grown to be the principal scientific discipline to examine the flow of elements through the global earth systems and to examine human impacts on the global environment. This course will introduce and investigate processes and factor controlling the biogeochemical cycles of elements with and between the hydrosphere, lithosphere, atmosphere and biosphere. Students will apply principles learned in lectures by building simple computer-based biogeochemical models. Spring Mutually Exclusive: EESC 4400 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6404 Field Methods in Biogeochemistry",
+    "courseid": "EESC 6404",
+    "coursedescription": "This field- and lab-based course will examine a set of methods for the study and quantification of biochemical processes in terrestrial and aquatic systems. We will focus on field-based measurements, as well as sample collection and laboratory analyses of fluxes of carbon and nutrient elements, including photosynthesis, respiration, dissolved and suspended nutrient fluxes in streams. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This field- and lab-based course will examine a set of methods for the study and quantification of biochemical processes in terrestrial and aquatic systems."
+      ]
+    }
+  },
+  {
+    "coursename": "EESC 6440 Advanced Geomicrobiology",
+    "courseid": "EESC 6440",
+    "coursedescription": "Microorganisms inhabit almost every conceivable environment on the planet's surface, and extent the biosphere to depths of several kilometers into the crust. Significantly, the chemical reactivity and metabolic diversity displayed by microbial communities make them integral components of global elemental cycles, from mineral dissolution and precipitation reactions, to aqueous reduction-oxidation processes. In that regard, microorganisms have helped shape our planet overthe past 4 billion years and made it habitable for higher forms of life. In this course we will evaluate the geological consequences of microbial activities, by taking an interdisciplinary and \"global\" view of microbe-environment interactions. Mutually Exclusive: EESC 4440 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6510 Advanced Vertebrate Paleontology Seminar",
+    "courseid": "EESC 6510",
+    "coursedescription": "Topics in vertebrate paleontology and paleoecology. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6540 Advanced Paleoecology Discovering Lost Ecosystems",
+    "courseid": "EESC 6540",
+    "coursedescription": "Paleoecology, or ecology in the fossil record,is the study of how interactions between species have developed over time and how ecosystems and environmental change have shaped the evolution of life and biodiversity.It also involves rebuilding lost communities from fossil evidence to provide context for the origins of modern life and modern ecosystems.This seminar course will survey major topics in Paleoecology, including of ecosystems,the long-term connections between habitat, life mode and biodiversity as well as the distribution of life (e.g. paleobiogeography), escalation between predatorsand prey, competition between invasive and resident species, and how we can infer the ecology and behavior of long-dead organisms. Students will lead discussions on select concepts and choose one topic to investigate in depth. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6550 Advanced Macroevolution",
+    "courseid": "EESC 6550",
+    "coursedescription": "Macroevolution, or evolution above the population level and on long timescales,as a field addresses fundamental questions about the origins of life, past and present.These include but are not limited to: How are highly dissimilar speciesrelated? Why are animals on distant continents so similar? How and when did major groups, like birds or mammals, originate? What drives evolutionary arms races? Why are there so many more species of beetle than crocodile? Why are there more species in the tropics than the arctic? Did dinosaursprevent the diversification of mammals? Why do some animals survive mass extinction? How can invasive species spread so rapidly? Students will learn importantconcepts underlying our understanding of modern biodiversity and the fossil record, as well as how to use different methods and lines of evidence, including evolutionary trees (phylogeny), fossil databases, past climate and global events,mathematical modeling, and even modern genomics, to answer fundamental questions about the evolution of life. Spring, even numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Macroevolution, or evolution above the population level and on long timescales,as a field addresses fundamental questions about the origins of life, past and present.These include but are not limited to: How are highly dissimilar speciesrelated?"
+      ]
+    }
+  },
+  {
+    "coursename": "EESC 6600 Advanced Earth's Surface",
+    "courseid": "EESC 6600",
+    "coursedescription": "Patterns on the Earth's surface arise due to the transport of sediment by water and wind, with energy that is supplied by climate and tectonic deformation of the solid Earth. This course presents a treatment of the processes of erosion and deposition that shape landscapes. Emphasis will be placed on using simple physical principles as a tool for (a) understanding landscape patterns including drainage networks, river channels and deltas, desert dunes, and submarine channels, (b) reconstructing past environmental conditions using the sedimentary record, and (c) the management of rivers and landscapes under present and future climate scenarios. The course will conclude with a critical assessment of landscape evolution on other planets, including Mars. Not Offered Every Year Mutually Exclusive: EESC 3600 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6606 Fate and Transport of Pollutants",
+    "courseid": "EESC 6606",
+    "coursedescription": "This course covers basic groundwater flow and solute transport modeling in one-,two- and three-dimensions. After first reviewing the principles of modeling, the student will gain hands-on experience by conducting simulations on the computer. The modeling programs used in the course are MODFLOW (USGS), MT3D, and the US Army Corps of Engineers GMS (Groundwater Modeling System). Students enrolled in this course will be required to review pertinent groundwater hydrogeology material and perform associated assignments prior to the start of the course. This material comprises Parts 1 and 2 of the course and will be posted to a pre-course Module on the course Canvas website. The pre-course materials will open to students two weeks prior to the start of class. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6610 Sustainable Development of Water Resource Systems",
+    "courseid": "EESC 6610",
+    "coursedescription": "The evaluation of technical, social, and economic constraints on the implementation of water supply and sanitation projects. The development of sustainable technical solutions that fit within the appropriate social context. Discussion draws insight from successful small rural community system approaches to inform practical larger regional and watershed approaches in the US and internationally. Case studies are used to demonstrate these principles across a range of examples from developed and developing countries including detailed studies from rural communities with limited financial resources. Spring Also Offered As: CBE 5430 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6620 Environmental Groundwater Hydrology",
+    "courseid": "EESC 6620",
+    "coursedescription": "This course is designed to introduce the major definitions and concepts regarding groundwater flow and contaminant transport. The theory and underlying concepts, including mathematical derivations of governing equations used to model groundwater flow and contaminant transport, will be discussed and applications to environmental problems addressed. Upon completion of this course, students should expect to have attained a broad understanding of and familiarity with groundwater flow and contaminant transport concepts, and to have acquired the skills necessary to pursue work in flow and transport modeling. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6664 Field Study of Soils",
+    "courseid": "EESC 6664",
+    "coursedescription": "Processes of soil development in a variety of temperate environments. Effects of lithology and climate on soil properties. This is a field course with 5 required field days. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6700 Advanced Remote Sensing",
+    "courseid": "EESC 6700",
+    "coursedescription": "This course will introduce students to the principles of remote sensing, characteristics of remote sensors, and remote sensing applications. Image acquisition, data collection in the electromagnetic spectrum, and data set manipulations for earth and environmental science applications will be emphasized. We will cover fundamental knowledge of the physics of remote sensing; aerial photographic techniques; multispectral, hyperperspectral, thermal, and other image analysis. Students will pursue an independent research project using remote sensing tools, and at the end of the semester should have a good understanding and the basic skills of remote sensing. Mutually Exclusive: EESC 4700 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6702 Instrumentation for the Geosciences",
+    "courseid": "EESC 6702",
+    "coursedescription": "An introduction to the theory, operation and application of modern analytical instrumentation used in geo- and environmental sciences. Primarily focused on laboratory instrumentation such as mass spectroscopy, elemental analyses and x-ray techniques. Some field instruments will be introduced as well. Students will be expected to develop projects utilizing the various instruments. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6704 Advanced Geologic Field Methods",
+    "courseid": "EESC 6704",
+    "coursedescription": "The purpose of this course is advanced study in geologic field methods. Field methods will include use of air monitoring, soil sampling, geophysics and remote sensing equipment. Each of the field methods will be implemented on a Pennsylvania Site. This course will meet during five Saturdays over the course of the semester. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6705 Hazardous waste management, U.S. and international perspectives",
+    "courseid": "EESC 6705",
+    "coursedescription": "Industrial and economic development bring increased quality of life, but also increased waste generation and need for effective waste management. The majority of severely contaminated sites in the United States have a common characteristic: they were created by unsafe industrial and hazardous waste management before the passage of the Resource Conservation and Recovery Act (RCRA). RCRA often refers to the statute, regulations, and federal program which have been implemented to ensure a national, uniform, safe approach to hazardous waste management. This course will explore the many components of RCRA that are utilized to ensure the safe and effective management of hazardous waste, from “cradle to grave.” Rapid economic development, and coincident increased waste generation, is currently occurring elsewhere in the world; therefore, this course will also include discussion of the current status of waste generation, and hazardous waste management within developing countries and economies. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6710 Environmental Statistical Analysis",
+    "courseid": "EESC 6710",
+    "coursedescription": "Statistical analysis of data from geological, geotechnical, and geohydrologic sources. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6711 Contaminated site investigation, remediation, and long-term stewardship”",
+    "courseid": "EESC 6711",
+    "coursedescription": "The superfund law authorizes the president to respond to releases of hazardous substances into the environment in order to protect public health and the environment. This course will focus on topics related to such responses, including environmental investigation and risk assessment, environmental remediation techniques, and related topics. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6715 Water Resources for Geologists and Environmental Scientists",
+    "courseid": "EESC 6715",
+    "coursedescription": "This class will provide an overview of water topics and issues and is intended to provide geologists and environmental scientists with a working understanding of current water resource issues and challenges ranging from stormwater and flooding to stream restoration, water re-use and ecological restoration. Starting with an understanding of hydrology, streams, and related ecosystems, the class will look at the various ways we use and depend on water, the ways in which water resources are degraded, and practices to restore and protect the resource. Topics to be covered include green infrastructure, water and wastewater sources and water reuse, stream health, stream channel restoration, riparian buffers, floodplains, best practices, and the concept of “one water”. We will also cover current regulations, changing water policies, sustainability, and the implications of climate change Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This class will provide an overview of water topics and issues and is intended to provide geologists and environmental scientists with a working understanding of current water resource issues and challenges ranging from stormwater and flooding to stream restoration, water re-use and ecological restoration.",
+        "Starting with an understanding of hydrology, streams, and related ecosystems, the class will look at the various ways we use and depend on water, the ways in which water resources are degraded, and practices to restore and protect the resource.",
+        "Topics to be covered include green infrastructure, water and wastewater sources and water reuse, stream health, stream channel restoration, riparian buffers, floodplains, best practices, and the concept of “one water”."
+      ]
+    }
+  },
+  {
+    "coursename": "EESC 6720 Landslides",
+    "courseid": "EESC 6720",
+    "coursedescription": "Landslides are important geomorphic agents in mountainous terrain, mobilizing sediment and playing a key role in controlling relief and elevation. The work of landslides is often characterized by their magnitude-frequency, which also has direct implications for people, property, and infrastructure in mountainous terrain, and for the approaches taken to minimize the risk from landslides. This course will introduce students to a conceptual understanding of landslides at a range of spatial scales, including the mechanics of the processes governing landslides from trigger to deposition. Methods of slope monitoring and the varied approaches to landslide risk mitigation and management will be explored, with a range of geotechnical and environmental applications. This course includes lab-based sessions to demonstrate simple techniques to understand fundamental landslide processes, and applications of GIS technology to explore slope monitoring and failure prediction. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6730 Process Geomorphology",
+    "courseid": "EESC 6730",
+    "coursedescription": "Geomorphology, the study of the Earth's landforms and surface processes that have formed them, have evolved rapidly over the past decades. Traditionally, this sub-discipline of geology was largely descriptive, with the shape and relationships of various landforms attributed to the interplay of tectonic and climatic forces. In the 1950-60s, scientists began to quantify the processes operating at different spatial and temporal scales, and the field of Process Geomorphology replaced the descriptive framework. A quantitative approach is now integrating regional structural framework, climatology, and biologically mediated (including anthropogenic) processes to generate predictive models of landscape change. This course will include applications of high-resolution near-surface geophysical method, ground-penetrating radar (GPR), to help visualize the subsurface aspects of landform analysis. Along with understanding the morphodynamic feedbacks based on sediment transport, this geophysical application will help integrate the active earth surface processes with antecedent conditions (paleo-landscape). Lecture material will be complemented with manuscript analysis and the course will culminate with a rigorous research-based term project. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6770 Geocomputations",
+    "courseid": "EESC 6770",
+    "coursedescription": "Review and applications of selected methods from differential equations, advanced engineering mathematics and geostatistics to problems encountered in geology, engineering geology, geophysics and hydrology. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6800 Advanced Geophysics",
+    "courseid": "EESC 6800",
+    "coursedescription": "This course will cover the application of geophysical investigation techniques to problems of the earth's plantary structure, local subsurface structure and mineral prospecting. The topics will include principles of geophysical measurements and interpretation with emphasis on gravity measurement, isostasy, geomagnitism, sesmic refraction and reflection,electrical prospecting, electromagnetics and groung radar. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6810 Applied and Environmental Geophysics",
+    "courseid": "EESC 6810",
+    "coursedescription": "The application of geophysical investigation techniques to problems of the local and shallow subsurface structure of the earth. The application of geophysical measurements and interpretation for environmental site characterizations, locating buried structures, groundwater investigations, and identifying geotechnical hazards with emphasis on gravity methods, seismic refraction and reflection, electrical resistivity, electromagnetic methods, ground penetrating radar, and borehole nuclear logging. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6820 Geomechanics",
+    "courseid": "EESC 6820",
+    "coursedescription": "This course focuses on the mechanical properties of earth materials and teaching analytical methods through the analysis of equilibrium force systems within the context of environmental and engineering geology. The course will explore how rocks deform in response to tensor stress, fluid pressure, and temperature, and how these deformations and fluid flows can alter the state of stress, leading to significant feedback effects. The understanding of these processes will assist in predicting the behavior of geological materials under various forces and environmental conditions, which is crucial for stable infrastructure and mitigating hazards such as landslides and sinkholes. Throughout the course, the fundamental principles of mechanics and their practical applications will be explored through problem definition and solving strategies working on real-life projects. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6830 Geomechanics: Fluids",
+    "courseid": "EESC 6830",
+    "coursedescription": "Static and Dynamic mechanical properties of fluid in earth materials, as applied to the Hydrologic Sciences; Principles of Fluid Mechanics and Hydraulics applied to open channel flow in earth materials; flow through gates, weirs, spillways, and culverts; Applications of Darcy's Law to subsurface flow and seepage. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6840 Engineering Geology and Applied Structural Geology",
+    "courseid": "EESC 6840",
+    "coursedescription": "The combined branches of Engineering Geology and Structural Geology enable thorough site characterization to assure the safety, efficiency, and economy of engineering and environmental projects. Engineering geology applies the understanding of geologic context to engineering problems in construction, infrastructure development and resource management. Applied structural geology requires a fundamental understanding of how rocks behave both in the deformation and failure of the earth’s crust and under current and changing conditions in the built environment. Geologists provide an essential service as human population expands into less hospitable areas and climate resilience adaptation is required, while building, protecting, remediating, and mitigating the environment, and sustainably extracting earth’s resources when needed. Engineering and Structural Geology interfaces closely with Civil Engineering to assist in site selections, desktop site investigations, subsurface site investigations, development of three-dimensional engineering, structural and stratigraphic models, and assistance with soil and rock lithological engineering and geochemical design parameters. This course will focus on the occurrence and distribution of Earth's rocks and soils, delving into their engineering and structural attributes. Emphasis will be placed on the engineering categorization, testing, and application of these materials. Additionally, the course will explore geohazards within structural geology, analyzing geotechnical engineering factors in rocks and soil, and other natural geological risks like floods and earthquakes. These topics will be contextualized within geological history, highlighting their significance in planning and design within the geological environment. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6850 Engineering Geology: Surficial Materials & Processes",
+    "courseid": "EESC 6850",
+    "coursedescription": "As the human population continues to grow, the environment and earths resources become more important. This course will concentrate on the occurrence and distribution of earth's surficial materials and their engineering and environmental properties. The engineering classification, testing, and use of the earth materials will be emphasized. The geohazards of surficial processes will also be studied in the context of geologic history and the planning and use of the geologic environment. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6870 Interpretation of Near-surface Geologic Structure for Engineering and Environment",
+    "courseid": "EESC 6870",
+    "coursedescription": "The course introduces the basic principles of structural geology and their applications to engineering and environmental site characterization. Includes the mechanisms for the deformation and failure of the earth's crust, folded and faulted structures, and the orthogonal and stereographic solutions to characterize near-surface geologic structure. It also includes the construction and interpretation of geologic maps, geologic cross sections and block diagrams. Emphasis is placed on the graphical representation of subsurface data, including the use of selected computer programs, and the integration of the data to solve problems encountered in engineering and environmental projects. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6904 Geology Field Work",
+    "courseid": "EESC 6904",
+    "coursedescription": "Directed independent field work. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 6998 Project Design",
+    "courseid": "EESC 6998",
+    "coursedescription": "This course is designed to prepare Master of Science in Applied Geosciences students to undertake their Project Design exercise. In this course, we discuss how to identify an appropriate research project, how to design a research plan, and how to prepare a detailed proposal. By the end of the course, each student is expected to have completed a Project Design proposal. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 7911 Research Topics in Earth Science",
+    "courseid": "EESC 7911",
+    "coursedescription": "This seminar will familiarize new PhD students in Earth Science with the skills and knowledge needed to develop as professionals. Topics will include research ethics, the publication process, writing proposal for research funding, etc. Two Term Class, Student may enter either term; credit given for either 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 7991 Topics in Earth Science",
+    "courseid": "EESC 7991",
+    "coursedescription": "This course will use the weekly EES seminar series to survey historic breakthrogh papers or topics in the earth sciences, as well as modern papers - written by the seminar speakers - that often put the classics in perspective. Graduate students (Ph.D. only) in the Department of Earth and Environmental Science will engage in the material through reading, presentation, and discussion. The course has several goals. (1.) To engender an understanding and appreciation of major breakthroughs in our field. (2.) To develop skills in presenting and discussing scientific results. And (3.) to refine students' understanding of what constitutes great science. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EESC 9999 Independent Study and Research",
+    "courseid": "EESC 9999",
+    "coursedescription": "Directed study for individuals or small groups under supervision of a faculty member. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  }
+]

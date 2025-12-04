@@ -1,0 +1,324 @@
+[
+  {
+    "coursename": "* EPS 0300a, Mass Extinctions Lidya Tarhan",
+    "courseid": "EPS 0300a",
+    "coursedescription": "Mass extinctions have repeatedly reshaped life in the oceans and on land over our planet’s history. These extinctions, although all massive, have ranged widely in magnitude, and were followed by different tempos and modes of ecosystem recovery. This course explores historical conceptualization and recent investigations of mass extinctions. We interrogate potential drivers—and the tools used to diagnose them—of some of Earth’s most severe extinctions, including the emergence of new species and new behaviors, meteorite impacts, volcanism, the configuration of tectonic plates, global warming and glaciation. Drawing upon a combination of scientific literature, popular science and works of fiction, we also discuss whether we are in the midst of a sixth mass extinction and explore predicted and imagined post-extinction landscapes. Enrollment limited to first-year students. WR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 0800b / APHY 0800b and APHY 1000b / ENAS 0800b / EVST 0080b and EVST 1000b / PHYS 0800b and PHYS 1000b, Energy, Environment, and Public Policy Daniel Prober",
+    "courseid": "EPS 0800b",
+    "coursedescription": "The technology and use of energy. Impacts on the environment, climate, security, and economy. Application of scientific reasoning and quantitative analysis. Intended for non–science majors with strong backgrounds in math and science. Tours are be conducted of major examples of good energy design at Yale, including the Yale Power Plant and Kroon Hall. Students who take this course are not eligible to take APHY 100. Prerequisites: High school chemistry, physics, and Math. Calculus is not required. Enrollment limited to first-year students. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 1010a, Climate Change Noah Planavsky",
+    "courseid": "EPS 1010a",
+    "coursedescription": "An introductory course that explores the science of global climate change. We analyze processes that regulate the climate on Earth, assess the scientific evidence for global warming, and discuss consequences of climate change. We explore Earth’s climate history as it relates to the present climate as well as future climate projections. Uncertainty in the interpretation of climate observations and future projections are examined. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EPS 1020b, Understanding Climate Change Solutions Staff",
+    "courseid": "EPS 1020b",
+    "coursedescription": "This seminar explores the scientific, technological, economic, and social aspects of potential solutions to global climate change. We briefly survey the full range of possible solutions, including emissions reduction, mitigation, and adaptation, but focus on understanding mitigation approaches such as carbon dioxide removal at a deeper level. We explore the scientific underpinnings, technological and societal challenges, economics, potential risks and co-benefits, and commercialization pathways of various climate change mitigation solutions. In addition, we quantify the enormous scale required to meaningfully address climate change and place this effort into historical context. SC HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EPS 1050b / APHY 1000b / ENAS 1000 / EVST 1000b / PHYS 1000b, Energy, Environment, and Public Policy Daniel Prober",
+    "courseid": "EPS 1050b",
+    "coursedescription": "The technology and use of energy. Impacts on the environment, climate, security, and economy. Application of scientific reasoning and quantitative analysis. Intended for non–science majors with strong backgrounds in math and science. QR , SC RP MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 1100a, Dynamic Earth David Evans",
+    "courseid": "EPS 1100a",
+    "coursedescription": "An introduction to the Earth as a planetary system, from its atmosphere to its core; and how the constantly changing surface environment controls both the foundation and fate of industrial society. Topics include planetary structure; plate tectonics, earthquakes and volcanoes; minerals, rocks and soils; evolution of landscapes; hydrology and floods; coasts and oceans; climate and weather; Earth history and biological evolution; humanity's economic dependence on natural resources; and human influences on the natural environment. SC MWF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 1110Lb, Dynamic Earth Laboratory and Field Methods David Evans",
+    "courseid": "EPS 1110Lb",
+    "coursedescription": "Practical exercises in the laboratory and in the field to complement EPS 110 or 115. Identification of minerals and rocks; construction of geologic maps and cross sections to determine Earth-system processes and histories. Includes a field trip to the northern Appalachians during the October recess. After or concurrently with EPS 1100 . SC ½ Course cr F 1pm-4pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 1260Lb, Laboratory for the History of Life Derek Briggs, Pincelli Hull, and Bhart-Anjan Bhullar",
+    "courseid": "EPS 1260Lb",
+    "coursedescription": "A survey of the diversification of life using suites of fossils and related modern organisms drawn from critical evolutionary stages. Emphasis on direct observation and description of specimens, the solution of problems posed by the instructor, and the generation and testing of hypotheses by the students. To be taken concurrently with or following EPS 1250 . SC ½ Course cr Th 2:30pm-5:30pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 1400b, Atmosphere, Ocean, and Climate Change Juan Lora",
+    "courseid": "EPS 1400b",
+    "coursedescription": "Physical processes that control Earth's atmosphere, ocean, and climate. Quantitative methods for constructing energy and water budgets. Topics include clouds, rain, severe storms, regional climate, the ozone layer, air pollution, ocean currents and productivity, the seasons, El Niño, the history of Earth's climate, global warming, energy, and water resources. QR , SC MW 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EPS 2120b, Global Tectonics Mark Brandon",
+    "courseid": "EPS 2120b",
+    "coursedescription": "The course provides an overview of the theory of plate tectonics, which accounts for the long-term evolution of the rigid exterior of the earth, and the formation and distribution of oceans, continents, mountain belts, volcanoes, and earthquakes at the earth’s surface. The course emphasizes the interdisciplinary approaches used to study the interactions between the mantle, crust, hydrosphere, atmosphere, and biosphere. EPS 110 Dynamic Earth is recommended (but not required) as a prerequisite. SC MWF 10:30am-11:20am",
+    "course-prerequsities": [
+      "MWF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "EPS 110 Dynamic Earth is recommended (but not required) as a prerequisite."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 2160b, Global Warming: Climate Physics Elizabeth Yankovsky and John Wettlaufer",
+    "courseid": "EPS 2160b",
+    "coursedescription": "Lectures on the basics of global warming and presentations and discussions of some of the classic papers that combined have led to our current understanding of global warming. The knowns and the unknowns of global warming; the paper trail of cutting-edge climate science through time, from the late 1800s to the present. Recommended preparation: basic calculus and physics. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: basic calculus and physics."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 2200b, Mineralogy Jay Ague",
+    "courseid": "EPS 2200b",
+    "coursedescription": "Study of the structures, chemistry, and physical properties of minerals, including common rock-forming minerals found in sedimentary, metamorphic, and igneous rocks, as well as rare and valuable minerals such as precious metals and gemstones. Recommended preparation: Introductory chemistry. SC TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: Introductory chemistry."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 2320b, Earth Surface Processes Lidya Tarhan",
+    "courseid": "EPS 2320b",
+    "coursedescription": "Introduction to sedimentary rocks as paleoenvironmental archives. Reconstruction of depositional environments and paleoclimatic and paleoecological conditions using sedimentological tools. Topics include sedimentology and stratigraphy and an introduction to how 'reading' the sedimentary record can be used to infer Earth's environmental, biological, climatic, chemical and tectonic history Prerequisite: EPS 0100 , 1100 or 1250 or permission of the instructor. SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "EPS 0100",
+      "1250",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics include sedimentology and stratigraphy and an introduction to how 'reading' the sedimentary record can be used to infer Earth's environmental, biological, climatic, chemical and tectonic history Prerequisite: EPS 0100 , 1100 or 1250 or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 2400b, Forensic Geoscience Maureen Long",
+    "courseid": "EPS 2400b",
+    "coursedescription": "Approaches and technologies developed for geoscience that have been adapted and applied in criminal, environmental, historical, and archaeological investigations. Methods related to seismology, geophysics, geomorphology, geochemistry, and radiometric dating. Case studies include nuclear treaty verification, detection of unexploded ordnance and clandestine graves, military history, soil and groundwater contamination, archaeological controversies, art and antiquities fraud, and narcotics provenance. SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 2740a, Fossil Fuels and World Energy Michael Oristaglio",
+    "courseid": "EPS 2740a",
+    "coursedescription": "The origins, geologic settings, exploration, distribution, and extraction of coal, oil, and natural gas as finite Earth resources. The role of fossil fuels in the world's energy systems; environmental impacts of fossil fuels, including climate change; the transition to low-carbon energy sources. Prerequisites: high school chemistry, mathematics, and Earth science. Recommended preparation: EPS 1100 or 2050 . SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "EPS 1100",
+      "2050",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: EPS 1100 or 2050 ."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 3100a, Isotope Geochemistry Alan Rooney and Jordan Wostbrock",
+    "courseid": "EPS 3100a",
+    "coursedescription": "An overview of the fundamental principles of stable and radiogenic isotope geochemistry. Emphasis is placed on applications of such systems to the evolution of the planet and life on Earth. Specific topics include marine geochemistry, geochronology, and biogeochemistry. Prerequisites: CHEM1650 or with permission of instructor. QR , SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "CHEM1650",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: CHEM1650 or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 3120a, Structural Geology Staff",
+    "courseid": "EPS 3120a",
+    "coursedescription": "An introduction to the origin and structure of the lithosphere and continental and oceanic crust. Topics include what controls the solid versus fluid behavior of rocks during deformation, and what controls the character and motion of tectonic plates. Laboratory exercises and field trips. QR , SC 0 Course cr MWF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 3220a, Physics of Weather and Climate Juan Lora",
+    "courseid": "EPS 3220a",
+    "coursedescription": "The climatic system; survey of atmospheric behavior and climatic change; meteorological measurements and analysis; formulation of physical principles governing weather and climate with selected applications to small- and large-scale phenomena. After PHYS 1810 and MATH 1200 or equivalents. QR , SC MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 3250a, Vertebrate Paleontology Jacques Gauthier",
+    "courseid": "EPS 3250a",
+    "coursedescription": "Phylogeny and evolution of the major clades of vertebrates from Cambrian to Recent, as inferred mainly from the fossilized remains of the musculoskeletal system (cranial, axial, and appendicular skeletons). Special attention given to the evolution of vertebrate feeding, locomotor, and sensory systems. Prerequisite: E&EB 225, or with permission of instructor. SC 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "EB 225"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: E&EB 225, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 3260a, Introduction to Earth and Planetary Physics Shun-ichiro Karato",
+    "courseid": "EPS 3260a",
+    "coursedescription": "An introduction to the structure and dynamics of Earth and other planets in the context of cosmic evolution. Review of basic physical principles and their applications to geophysics and planetary physics. Star formation and nucleosynthesis; planetary accretion and the birth of the solar system; heat flow, plate tectonics, and mantle dynamics; seismology and geodesy; core dynamics, geomagnetism, and planetary magnetism. Prerequisites: PHYS 1810 and MATH 1200 or equivalents. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHYS 1810",
+      "MATH 1200",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 3350a, Physical Oceanography Alexey Fedorov",
+    "courseid": "EPS 3350a",
+    "coursedescription": "An introduction to ocean dynamics and physical processes controlling large-scale ocean circulation, the Gulf Stream, wind-driven waves, tsunamis, tides, coastal upwelling, and other phenomena. Modern observational, theoretical, and numerical techniques used to study the ocean. The ocean's role in climate and global climate change. After PHYS 1810 and MATH 1200 or equivalents, or with permission of instructor. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "After PHYS 1810 and MATH 1200 or equivalents, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 3360b / ANTH 3136b / ARCG 3136b, Geoarchaeology Ellery Frahm",
+    "courseid": "EPS 3360b",
+    "coursedescription": "A survey of the numerous ways in which theories, approaches, techniques, and data from the earth and environmental sciences are used to address archaeological research questions. A range of interfaces between archaeology and the geological sciences are considered. Topics include stratigraphy, geomorphology, site formation processes, climate reconstruction, site location, and dating techniques. Prior introductory coursework in archaeology or geology (or instructor permission) suggested. SC , SO W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prior introductory coursework in archaeology or geology (or instructor permission) suggested."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 3420a / PHYS 3420a, Introduction to Earth and Environmental Physics John Wettlaufer",
+    "courseid": "EPS 3420a",
+    "coursedescription": "A broad introduction to the processes that affect the past, present, and future features of the Earth. Examples include climate and climate change and anthropogenic activities underlying them, planetary history, and their relation to our understanding of Earth's present dynamics and thermodynamics. Prerequisite: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610, MATH 1200 , 2460 , or ENAS 1940 , or permission of instructor. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 1700",
+      "1800",
+      "2000",
+      "2600",
+      "MATH 1200",
+      "ENAS 1940",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PHYS 1700 , 1710 , or 1800, 1810, or 2000, 2010, or 2600, 2610, MATH 1200 , 2460 , or ENAS 1940 , or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 3450a, Paleoecology Pincelli Hull",
+    "courseid": "EPS 3450a",
+    "coursedescription": "How organisms have interacted with one another and the environment has changed dramatically through the history of life. The species and ecosystems we see today, with their myriad interactions and influences, are in many ways very unusual in a historical context. What’s more, the evolution of ecosystems has profoundly shaped and driven the evolution of species and the earth system over billions of years. For students of (macro)evolution, geobiology, paleontology, and earth system science, a foundation in paleoecology is essential for understanding the dynamics and drivers of these interrelated systems. To this end, this course is designed to provide students with i) a basic literacy in core concepts of paleoecology, ii) deeper insights into a few major topics, and iii) basic analytical methods with which to ask and answer novel questions of the fossil record. Prerequisite: EPS 1250 , BIOL 1040 , or permission of the instructor. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "EPS 1250",
+      "BIOL 1040",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: EPS 1250 , BIOL 1040 , or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPS 3550a, Extraordinary Glimpses of Past Life Derek Briggs",
+    "courseid": "EPS 3550a",
+    "coursedescription": "Study of exceptionally well-preserved fossil deposits ( lagerstaetten ) that contain nonmineralized animal skeletons and casts of the soft parts of organisms. Examples such as the Burgess Shale and Solnhofen limestones; what they can reveal about the history and evolution of life, ancient lifestyles and environments, and preservational processes. SC MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPS 4210b, Geophysical Fluid Dynamics Mary-Louise Timmermans",
+    "courseid": "EPS 4210b",
+    "coursedescription": "An examination of the equations governing rotating stratified flows with application to atmospheres and oceans. Mathematical models are used to illustrate the dynamical principles of geophysical fluid phenomena such as waves, boundary layers, flow stability, and large-scale circulations. Concepts are investigated through laboratory experiments in a rotating water tank. Prerequisites: Familiarity with differential equations and introductory fluid mechanics, or permission of the instructor. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: Familiarity with differential equations and introductory fluid mechanics, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EPS 4900a and EPS 4910b, Research and Senior Thesis Pincelli Hull",
+    "courseid": "EPS 4900a",
+    "coursedescription": "Two terms of independent library, laboratory, field, or modeling-based research under faculty supervision. To register for this course, each student must submit a written plan of study, approved by a faculty adviser, to the director of undergraduate studies by the start of the senior year. The plan requires approval of the full EPS faculty. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EPS 4920a or b, The Senior Essay Pincelli Hull",
+    "courseid": "EPS 4920a",
+    "coursedescription": "One term of independent library, laboratory, field, or modeling-based research under faculty supervision. To register for this course, each student must submit a written plan of study, approved by a faculty adviser, to the director of undergraduate studies at the beginning of the term in which the essay is to be written. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

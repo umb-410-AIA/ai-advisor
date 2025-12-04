@@ -1,0 +1,230 @@
+[
+  {
+    "coursename": "* CHNS 1100a, Elementary Modern Chinese I Staff",
+    "courseid": "CHNS 1100a",
+    "coursedescription": "Intended for students with no background in Chinese. An intensive course with emphasis on spoken language and drills. Pronunciation, grammatical analysis, conversation practice, and introduction to reading and writing Chinese characters. L1 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHNS 1120a, Elementary Modern Chinese for Heritage Speakers Staff",
+    "courseid": "CHNS 1120a",
+    "coursedescription": "First level of the advanced learner sequence. Intended for students with some aural proficiency but very limited ability in reading and writing Chinese. Training in listening and speaking, with emphasis on reading and writing. Placement confirmed by placement test and by instructor. L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1200b, Elementary Modern Chinese II Staff",
+    "courseid": "CHNS 1200b",
+    "coursedescription": "Continuation of CHNS 110. After CHNS 110 or equivalent. L2 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHNS 1220b, Elementary Modern Chinese for Heritage Speakers Staff",
+    "courseid": "CHNS 1220b",
+    "coursedescription": "Continuation of CHNS 112. L2 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1300a, Intermediate Modern Chinese I Staff",
+    "courseid": "CHNS 1300a",
+    "coursedescription": "An intermediate course that continues intensive training in listening, speaking, reading, and writing and consolidates achievements from the first year of study. Students improve oral fluency, study more complex grammatical structures, and enlarge both reading and writing vocabulary. After CHNS 120 or equivalent. L3 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1320a, Intermediate Modern Chinese for Heritage Speakers Staff",
+    "courseid": "CHNS 1320a",
+    "coursedescription": "The second level of the advanced learner sequence. Intended for students with intermediate oral proficiency and elementary reading and writing proficiency. Students receive intensive training in listening, speaking, reading, and writing, supplemented by audio and video materials. The objective of the course is to balance these four skills and work toward attaining an advanced level in all of them. Prerequisite: CHNS 122b or equivalent. L3 RP 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "CHNS 122B",
+      "L3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1400b, Intermediate Modern Chinese II Staff",
+    "courseid": "CHNS 1400b",
+    "coursedescription": "Continuation of CHNS 130. To be followed by CHNS 150. After CHNS 130 or equivalent. L4 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1420b, Intermediate Modern Chinese for Heritage Speakers Staff",
+    "courseid": "CHNS 1420b",
+    "coursedescription": "Continuation of CHNS 132. After CHNS 132 or equivalent. L4 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1500a, Advanced Modern Chinese I Staff",
+    "courseid": "CHNS 1500a",
+    "coursedescription": "Third level of the standard foundational sequence of modern Chinese, with study in speaking, listening, reading, and writing. Use of audiovisual materials, oral presentations, skits, and longer and more frequent writing assignments to assimilate more sophisticated grammatical structures. Further introduction to a wide variety of written forms and styles. Use of both traditional and simplified forms of Chinese characters. After CHNS 140 or equivalent. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1510b, Advanced Modern Chinese II Staff",
+    "courseid": "CHNS 1510b",
+    "coursedescription": "Continuation of CHNS 150. After CHNS 150 or equivalent. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1520a and CHNS 1530b, Advanced Modern Chinese for Heritage Speakers Staff",
+    "courseid": "CHNS 1520a",
+    "coursedescription": "This course is intended for heritage speakers with intermediate high to advanced low speaking and listening skills and with intermediate reading and writing skills. The class follows CHNS 142 in the heritage track. The goal of the course is to help students effectively expand their skills in reading and writing while concurrently addressing the need to improve their listening and oral skills in formal environments. The materials cover a variety of topics relating to Chinese culture, society, and cultural differences, supplemented with authentic video materials. Prerequisite: CHNS 142 or equivalent. L5 HTBA",
+    "course-prerequsities": [
+      "CHNS 142",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1570b, Advanced Modern Chinese through Film for Heritage Speakers Wen Zhang",
+    "courseid": "CHNS 1570b",
+    "coursedescription": "This course is designed to consolidate students’ grasp of the language through the use of films, TV programs, videos on social media, and authentic written materials. Activities include presentations, group discussions, written assignments, and projects. Open to heritage learners with intermediate to advanced oral proficiency and intermediate-low reading and writing proficiency. After CHNS 152, CHNS 156 or equivalent L5 TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1580a, Advanced Chinese III through Films and Stories Staff",
+    "courseid": "CHNS 1580a",
+    "coursedescription": "Fourth level of the standard foundational sequence of modern Chinese, with study in speaking, listening, reading, and writing. Readings in a wide range of subjects form the basis of discussion and other activities. Students consolidate their skills, especially speaking proficiency, at an advanced level. Materials use both simplified and traditional characters. (Previously CHNS 154.) After CHNS 151 or equivalent. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1590b, Advanced Chinese IV through Films and Stories Staff",
+    "courseid": "CHNS 1590b",
+    "coursedescription": "Continuation of CHNS 158. (Previously CHNS 155.) After CHNS 158 or equivalent. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1600a, Chinese Through the Lens: Discovering Modern China Ninghui Liang",
+    "courseid": "CHNS 1600a",
+    "coursedescription": "This course invites students to explore contemporary Chinese society, culture, and language through films, TV programs, and social media videos. By engaging with authentic visual narratives and written materials, students will not only enhance their Chinese language skills in listening, speaking, reading, and writing but also gain deeper insights into everyday life, values, and social changes in modern China. Each unit combines film-based discussions, vocabulary development, and cultural reflection, encouraging learners to think critically and communicate meaningfully in Chinese. After CHNS 153, or 159, or equivalent. L5 TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1610b, Chinese for the Food Culture of China Fan Liu",
+    "courseid": "CHNS 1610b",
+    "coursedescription": "This course aims to improve advanced-level Chinese learners’ conversational, reading, and writing skills by engaging them with diverse topics related to Chinese food and food culture. The class is suitable for students who have completed CHNS 153, 157, 159, or the equivalent of one of these classes elsewhere. Through readings, lectures, discussion, video screenings, and interviews, students explore China’s food culture through these topics: 1) Chinese culinary history; 2) Regional specialties; 3) Chinese food in the context of globalization; 4) Food safety and environmental protection; 5) Food and health. After CHNS 153, 157, 159, or equivalent. L5 MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1620a, Advanced Chinese through History and Culture Rongzhen Li",
+    "courseid": "CHNS 1620a",
+    "coursedescription": "This course is intended for both heritage and non heritage learners with advanced proficiency. Students develop sophisticated language skills through working with authentic written materials, images, and videos concerning historical events, historical figures, artists, writers, and philosophers. Activities include working with translation tools, discussions, debates, presentations, oral and written exercises on platforms such as Playposit and Perusall, and collaborative projects. After CHNS 153, or 157, or 159, or equivalent. L5 TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1630b, Advanced Chinese through History and Art Rongzhen Li",
+    "courseid": "CHNS 1630b",
+    "coursedescription": "This course is intended for both heritage and non heritage learners with advanced proficiency. Students develop sophisticated language skills through working with authentic written materials, images, and videos concerning historical events, historical figures, artists, writers, and philosophers. Activities include working with translation tools, discussions, debates, presentations, oral and written exercises on platforms such as Playposit and Perusall, and collaborative projects. After CHNS 153, 157, 159 or equivalent. L5 TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1640a, Chinese for Reading Contemporary Fiction Wei Su",
+    "courseid": "CHNS 1640a",
+    "coursedescription": "Selected readings in Chinese fiction of the 1980s and 1990s for the purpose of developing advanced language skills in reading, speaking, and writing. After CHNS 153, or 157, or 159, or equivalent. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1650b, Readings in Modern Chinese Fiction Wei Su",
+    "courseid": "CHNS 1650b",
+    "coursedescription": "We read and discuss modern short stories, most written prior to 1949, for the purpose of developing advanced language skills in reading, speaking, and writing. After CHNS 153, or 157, or 159, or equivalent. L5 MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1660a and CHNS 1670b, Chinese for Current Affairs Staff",
+    "courseid": "CHNS 1660a",
+    "coursedescription": "Advanced language course with a focus on speaking and writing in formal styles. Current affairs are used as a vehicle to help students learn advanced vocabulary, idiomatic expressions, complex sentence structures, news writing styles and formal stylistic register. Materials include texts and videos selected from news media worldwide to improve students’ language proficiency for sophisticated communications on a wide range of topics. After CHNS 153, 157, or 159. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1680a and CHNS 1690b, Chinese for Global Enterprises Haiwen Wang",
+    "courseid": "CHNS 1680a",
+    "coursedescription": "Advanced language course that familiarizes students with Chinese business terminology and discourse through discussion of China's economic and management reforms, marketing, economic laws, business culture and customs, and economic relations with other countries. Case studies from international enterprises that have successfully entered the Chinese market. Prerequisite: After CHNS 153, or CHNS 157, or CHNS 159, or equivalent. L5 MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "CHNS 153",
+      "CHNS 157",
+      "CHNS 159",
+      "L5",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHNS 1700a, Introduction to Literary Chinese I Pauline Lin",
+    "courseid": "CHNS 1700a",
+    "coursedescription": "Reading and interpretation of texts in various styles of literary Chinese ( wenyan ), with attention to basic problems of syntax and literary style. Course conducted in English. After CHNS 151, 153, 157, or equivalent. L5 TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHNS 1710b, Introduction to Literary Chinese II Pauline Lin",
+    "courseid": "CHNS 1710b",
+    "coursedescription": "Continuation of CHNS 170. After CHNS 170. L5 TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHNS 1720a, Chinese for Scholarly Conversation Yu-Lin Saussy",
+    "courseid": "CHNS 1720a",
+    "coursedescription": "This course aims to prepare students for the language requirements of advanced research or employment in a variety of China-related fields. Materials include readings on contemporary social, cultural, and political issues, which are written by prominent scholars in related fields. This level is suitable for students who have had four years of college Chinese or who have taken three years of an accelerated program for heritage speakers. After CHNS 153, 159, 157, or equivalent, or permission of the instructor. L5 MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "After CHNS 153, 159, 157, or equivalent, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "CHNS 2000a / EALL 2000a / EAST 2202a / HUMS 4527a, The Chinese Tradition Staff",
+    "courseid": "CHNS 2000a",
+    "coursedescription": "An introduction to the literature, culture, and thought of premodern China, from the beginnings of the written record to the turn of the twentieth century. Close study of textual and visual primary sources, with attention to their historical and cultural backdrops. Students enrolled in CHNS 200 join a weekly Mandarin-language discussion section. No knowledge of Chinese required for students enrolled in EALL 200. Students enrolled in CHNS 200 must have L5 proficiency in Mandarin or permission of the course instructor. HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students enrolled in CHNS 200 must have L5 proficiency in Mandarin or permission of the course instructor."
+      ]
+    }
+  }
+]

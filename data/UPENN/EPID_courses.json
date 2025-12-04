@@ -1,0 +1,745 @@
+[
+  {
+    "coursename": "EPID 5100 Introductory Epidemiology",
+    "courseid": "EPID 5100",
+    "coursedescription": "This course provides an introduction to the fundamentals of research in clinical epidemiology. It covers definitions of epidemiology; measures of disease frequency; measures of effect and association; epidemiologic study designs, including randomized clinical trials, cohort and case-control studies, cross-sectional surveys, and meta-analysis; and an overview of the conduct and analysis of epidemiologic studies. The course is composed of a series of 2-hour lectures and in-class lab sessions, designed to reinforce concepts introduced in the lectures. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 5260 Biostatistics for Epidemiologic Methods I",
+    "courseid": "EPID 5260",
+    "coursedescription": "The first half of this course will cover graphical methods, probability, discrete and continuous distributions, estimation, confidence intervals, and one-sample hypothesis testing. Emphasis is placed on understanding the proper application and interpretation of the methods. The second half of this course will cover two-sample hypothesis testing, nonparametric techniques, sample size determination, correlation, regression, analysis of variance, and analysis of covariance. Emphasis is placed on understanding the proper application and underlying assumptions of the methods presented. Laboratory sessions focus on the use of the STATA statistical package and applications to clinical data. Prerequisite: Permission of instructor. This course runs from mid summer to mid fall term. There is a corresponding lab. 1 Course Unit",
+    "course-prerequsities": [
+      "LAB. 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 5260A Biostatistics for Epidemiologic Methods I",
+    "courseid": "EPID 5260A",
+    "coursedescription": "The first half of this will cover graphical methods, probability, discrete and continuous distributions, estimation, confidence intervals, and one sample hypothesis testing. Emphasis is placed on understanding the proper application and interpretation of the methods. The second half of this course will cover two sample hypothesis testing, nonparametric techniques, sample size determination, correlation, regression, analysis of variance, and analysis of covariance. Emphasis is placed on understanding the proper application and underlying assumptions of the methods presented. Laboratory sessions focus on the use of the STATA statistical package and applications to clinical data. Prerequisite: Permission of instructor. This course runs from mid summer to mid fall term. There is a corresponding lab. 1 Course Unit",
+    "course-prerequsities": [
+      "LAB. 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 5260B Biostatistics for Epidemiologic Methods I",
+    "courseid": "EPID 5260B",
+    "coursedescription": "The first half of this will cover graphical methods, probability, discrete and continuous distributions, estimation, confidence intervals, and one sample hypothesis testing. Emphasis is placed on understanding the proper application and interpretation of the methods. The second half of this course will cover two sample hypothesis testing, nonparametric techniques, sample size determination, correlation, regression, analysis of variance, and analysis of covariance. Emphasis is placed on understanding the proper application and underlying assumptions of the methods presented. Laboratory sessions focus on the use of the STATA statistical package and applications to clinical data. Prerequisite: Permission of instructor. This course runs from mid summer to mid fall term. There is a corresponding lab.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 5270 Biostatistics for Epidemiologic Methods II",
+    "courseid": "EPID 5270",
+    "coursedescription": "The first half of this course covers concepts in biostatistics as applied to epidemiology, primarily categorical data analysis, analysis of case-control, cross-sectional, cohort studies, and clinical trials. Topics include simple analysis of epidemiologic measures of effect; stratified analysis; confounding; interaction, the use of matching, and sample size determination. Emphasis is placed on understanding the proper application and underlying assumptions of the methods presented. Laboratory sessions focus on the use of the STATA and other statistical packages and applications to clinical data. The second half of this course covers concepts in biostatistics as applied to epidemiology, primarily multivariable models in epidemiology for analyzing case-control, cross-sectional, cohort studies, and clinical trials. Topics include logistic, conditional logistic, and Poisson regression methods; and simple survival analyses including Cox regression. Emphasis is placed on understanding the proper application and underlying assumptions of the methods presented. Laboratory sessions focus on the use of STATA and other statistical packages and applications to clinical data. Prerequisite: This course runs from mid fall to mid spring term. There is a corresponding lab. Prerequisite: EPID 5260 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5260"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 5270A Biostatistics for Epidemiologic Methods II",
+    "courseid": "EPID 5270A",
+    "coursedescription": "The first half of this covers concepts in biostatistics as applied to epidemiology, primarily categorical data analysis, analysis of case-control, cross-sectional, cohort studies, and clinical trials. Topics include simple analysis of epidemiologic measures of effect; stratified analysis; confounding; interaction, the use of matching, and sample size determination. The second half of this course covers concepts in biostatistics as applied to epidemiology, primarily multivariable models in epidemiology for analyzing case-control, cross-sectional, cohort studies, and clinical trials. Topics include logistic, conditional logistics, and Poisson regression methods; simple survival analyses including Cox regression. Emphasis is placed on understanding the proper application and underlying assumptions of the methods presented. Laboratory sessions focus on the use of the STATA statistical package and applications to clinical data. Prerequisite: This course runs from mid fall to mid spring term. There is a corresponding lab. Prerequisite: EPID 5260A AND EPID 5260B 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5260A",
+      "EPID 5260B"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 5270B Biostatistics for Epidemiologic Methods II",
+    "courseid": "EPID 5270B",
+    "coursedescription": "The first half of this covers concepts in biostatistics as applied to epidemiology, primarily categorical data analysis, analysis of case-control, cross-sectional, cohort studies, and clinical trials. Topics include simple analysis of epidemiologic measures of effect; stratified analysis; confounding; interaction, the use of matching, and sample size determination. The second half of this course covers concepts in biostatistics as applied to epidemiology, primarily multivariable models in epidemiology for analyzing case-control, cross-sectional, cohort studies, and clinical trials. Topics include logistic, conditional logistics, and Poisson regression methods; simple survival analyses including Cox regression. Emphasis is placed on understanding the proper application and underlying assumptions of the methods presented. Laboratory sessions focus on the use of the STATA statistical package and applications to clinical data. Prerequisite: This course runs from mid fall to mid spring term. There is a corresponding lab. Prerequisite: EPID 5260A AND EPID 5260B",
+    "course-prerequsities": [
+      "EPID 5260A",
+      "EPID 5260B"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "EPID 5340 Qualitative Methods in the Study of Health, Disease and Medical Systems",
+    "courseid": "EPID 5340",
+    "coursedescription": "This course combines informal lecture and discussion with practical exercises to build specific skills for conducting qualitative research on healthcare, broadly defined. Readings include books and papers about research methodology and articles that provide exemplars and pitfalls of qualitative research. Specific topics covered include: the role of theory in qualitative research, method-research question fit, collecting different types of qualitative data (observation, interview, focus group, text, video), ethical issues in qualitative research, establishing rigor in qualitative research, introduction to qualitative data analysis using software, mixing methods, approaches for obtaining grant funding for qualitative research and writing up qualitative research studies for publication. Prerequisite: Previous course work in researh methods or permission of course director. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Previous course work in researh methods or permission of course director."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 5360 Data Management and Visualization I",
+    "courseid": "EPID 5360",
+    "coursedescription": "The objective of this two-course series is to enhance MSCE students' comfort and acumen in all aspects of clinical epidemiological data management and presentation, particularly graphical representation of results. The course progresses from best practices in data collection and database use to advanced data management, summarization of results, and data visualization, all of which are grounded in the prioritization of producing efficient and reproducible research processes. The course will cover and develop skills in: basic data collection, harmonization, and integration with Stata software; best practices for data variable derivation and creation; assessing and dealing with missing data; merging and appending datasets; management of dates and times; assessing free text data; dealing with specific data types such as ICD-9 and 10 codes, cost data, management of longitudinal and time-to-event data; production of descriptive and regression tables (for all regression types); descriptive and regression model visualization; and the use of Stata Markdown files such that research reports can be created directly from Stata. By the end of the two-course series, students will become fluent in the Stata statistical language and be uniquely positioned to advance their independent clinical epidemiological careers through best research and data presentation practices. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EPID 5370 Data Management and Visualization II",
+    "courseid": "EPID 5370",
+    "coursedescription": "The objective of this two-course series is to enhance MSCE students' comfort and acumen in all aspects of clinical epidemiological data management and presentation, particularly graphical representation of results. The course progresses from best practices in data collection and database use to advanced data management, summarization of results, and data visualization, all of which are grounded in the prioritization of producing efficient and reproducible research processes. The course will cover and develop skills in: basic data collection, harmonization, and integration with Stata software; best practices for data variable derivation and creation; assessing and dealing with missing data; merging and appending datasets; management of dates and times; assessing free text data; dealing with specific data types such as ICD-9 and 10 codes, cost data, management of longitudinal and time-to-event data; production of descriptive and regression tables (for all regression types); descriptive and regression model visualization; and the use of Stata Markdown files such that research reports can be created directly from Stata. By the end of the two-course series, students will become fluent in the Stata statistical language and be uniquely positioned to advance their independent clinical epidemiological careers through best research and data presentation practices. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EPID 5420 Measurement of Health in Epidemiology",
+    "courseid": "EPID 5420",
+    "coursedescription": "This course addresses the measurement of epidemiological variables, which broadly encompasses the tasks involved in obtaining data, without which analyses cannot proceed. Course topics to be discussed include: defining the concepts of exposure, disease, and health; approaches to measuring exposures, which may be personal (i.e., psychological, behavioral, biological, or genetic) or environmental (i.e., physical, chemical, social, or organizational); approaches to measuring disease and health status; assessing the validity and reliability of measurement instruments; problems of misclassification of exposure status and disease status; missing data; instrument (e.g., questionnaire) development; and qualitative methods. Prerequisite: If course requirement not met, permission of course director. Fall Prerequisite: EPID 5100 AND EPID 5260",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of course director."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 5460 Clinical Database Research Methodology",
+    "courseid": "EPID 5460",
+    "coursedescription": "This course will discuss appropriate selection of healthcare databases for research questions of interest; assessment of drug exposures; validation of health outcomes of interest; and addressing biases, confounding, and missing data in databases. We will also review key aspects of research protocol development for database studies and discuss research grant applications related to these studies. Prerequisite: If course requirement not met, permission of course director required. Prerequisite: EPID 5100 AND EPID 5260",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "This course will discuss appropriate selection of healthcare databases for research questions of interest; assessment of drug exposures; validation of health outcomes of interest; and addressing biases, confounding, and missing data in databases.",
+        "Prerequisite: If course requirement not met, permission of course director required."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 5500 Clinical Economics and Decision Making",
+    "courseid": "EPID 5500",
+    "coursedescription": "This course focuses on the application of decision analysis and economic analysis to clinical and policy research. It provides an introduction to the general tools for decision analysis, including decision trees and Markov models, assessment of costs and patient preferences, and assessment of cost-effectiveness. Special emphasis is placed on second-order Monte Carlo analysis and its use in the construction of measures of sampling uncertainty for cost-effectiveness analysis. Seminars will include didactic material, practical exercises that include problem solving, critically analyzing published articles and learning to use computer software that facilitates decision and economic analyses. Spring Also Offered As: HPR 5500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 5600 Issues in Research Protocol Development",
+    "courseid": "EPID 5600",
+    "coursedescription": "This seminar focuses on major issues in research protocol development, including methodologic issues regarding different research designs, development of research questions, and plans for analysis. Each student will present his or her research protocol for open discussion during one of the seminar sessions. Prerequisite: Restricted to MSCE degree students. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units",
+      "notes": [
+        "Prerequisite: Restricted to MSCE degree students."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 5700 Critical Appraisal of the Medical Literature",
+    "courseid": "EPID 5700",
+    "coursedescription": "This seminar focuses on techniques for critical appraisal of the medical literature. Each student will be responsible for at least one critical appraisal session covering different epidemiologic topics (including the evaluation of diagnostic tests, clinical course and prognosis of disease, disease etiology or causation, therapy, quality of clinical care, economic evaluation, and meta-analysis). Each week, a student will critically appraise a journal article and lead the discussion concerning that article. Prereqisite: Resticted to MSCE degree students. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units",
+      "notes": [
+        "Prereqisite: Resticted to MSCE degree students."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 5750 Introduction to Genetic Epidemiology",
+    "courseid": "EPID 5750",
+    "coursedescription": "Recent advances have made it feasible to incorporate data on potential genetic risk factors into traditional epidemiologic studies. Hence, there is an increasing need for epidemiologists to understand the genetic basis of disease, read, and interpret genetic studies, and incorporate the collection and analysis of genetic information into studies of disease etiology. The objectives of this course are to provide epidemiologists with an understanding of: 1) basic genetics, 2) the tools used by geneticists and genetic epidemiologists, and 3) the integration of genetic data into traditional epidemiologic study designs. After completing this course, students will be able to read and interpret genetic epidemiologic studies. In addition, they will be able to design epidemiologic studies that incorporate genetic data collection and analysis. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 5800 Outcomes Research",
+    "courseid": "EPID 5800",
+    "coursedescription": "This course is divided into two main parts. The first part addresses issues related to the measurement of quality in health care. Included is a review of the classical structure-process-outcome quality paradigm. The paradigm’s strengths and limitations are addressed. This part especially focuses on outcome measures of quality, and examines the validity of alternative measures. The second part deals with observational, or quasi-experimental, research studies. It addresses the advantages and limitations of alternative designs, and covers the role of clinical risk adjustment in observational studies of medical interventions. It focuses on the problem of selection bias, and reviews recent methods for dealing with this bias, such as instrumental variables. Prerequisite: Introductory course in statistics including regression methods. Permission of instructor if prerequisite is not met. Fall Also Offered As: HPR 5800 1 Course Unit",
+    "course-prerequsities": [
+      "HPR 5800"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of instructor if prerequisite is not met."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 5820 Systematic Review and Meta-Analysis",
+    "courseid": "EPID 5820",
+    "coursedescription": "This course will provide an introduction to the fundamentals of systematic reviews and meta-analysis. It will cover introductory principles of meta-analysis; protocol development; search strategies; data abstraction methods; quality assessment; meta-analytic methods; and applications of meta-analysis. Fall, odd numbered years only Prerequisite: EPID 5100 AND EPID 5260 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 5840 Health Disparities Research",
+    "courseid": "EPID 5840",
+    "coursedescription": "This course will provide an overview of research in health disparities. It will cover the historical aspects, concepts, policy, economic, genomic and social perspectives of health disparities. It will provide students with methodological tools for health disparities research and introduce students to ongoing health disparities research by current Penn and affiliated faculty members.The course is composed of a series of weekly small group lectures and discussion, including critical appraisal of published papers, guest faculty presentations, and student presentations. Students will be expected to attend weekly meetings and participate in class discussions, prepare and lead discussions of assigned papers, review assigned readings, and draft and present a scientific protocol of their choosing related to health disparities. Summer Term Also Offered As: HPR 5840 Prerequisite: EPID 5100 AND EPID 5260 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 6000 Data Science for Biomedical Informatics",
+    "courseid": "EPID 6000",
+    "coursedescription": "In this course, we will use RStudio/R and other freely available software to learn fundamental data science applied to a range of biomedical informatics topics, including those making use of health and genomic data. After completing this course, students will be able to retrieve and clean data, perform explanatory analyses, build and evaluate models to answer scientific questions, and present visually appealing results to accompany data analyses; be familiar with various biomedical data types and resources related to them; and know how to create reproducible and easily shareable results with RStudio/R and GitHub. Recommended prerequisite: Introductory-level statistics course. Familiarity with programming or a willingness to devote time to learn it. NOTE: Non-majors need permission from the department. Fall Also Offered As: BMIN 5030 1 Course Unit",
+    "course-prerequsities": [
+      "BMIN 5030"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended prerequisite: Introductory-level statistics course.",
+        "NOTE: Non-majors need permission from the department."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6100 Tutorial in Epidemiologic Research",
+    "courseid": "EPID 6100",
+    "coursedescription": "This is a tutorial given by each student’s MSCE mentor. The mentor and student meet regularly, usually weekly. Topics include discussion and review of epidemiologic concepts and principles, guided readings in the epidemiology of a specific health area, and the development of the research protocol. Credit for this course is awarded upon completion of a research project protocol, the one to be used to fulfill the MSCE thesis requirement, which must be approved by the student’s mentor. Evaluation is based on the grade received for the protocol. Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 6199 Testing Course",
+    "courseid": "EPID 6199",
+    "coursedescription": "Testing Course Attributes 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 6210 Longitudinal and Clustered Data in Epidemiologic Research",
+    "courseid": "EPID 6210",
+    "coursedescription": "An introduction to the principles of and methods for longitudinal and clustered data analysis with special emphasis on clinical, epidemiologic, and public health applications. Designed for advanced MS and PhD-level students in epidemiology and related fields. Marginal and conditional methods for continuous and binary outcomes. Mixed effects and hierarchical models. Simulations for power calculations. Software will include Stata and R. Prerequisite: Completion of EPID 5260 and 5270 or equivalent preparation in biostatistics, including generalized linear models. Completion of semester curse in principles of epidemiology or equivalent. Good working knowledge of Stata and SAS and familiarity with principles of first-year calculus and matrix algebra. Permission of course director. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5260",
+      "5270",
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of course director."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6220 Applied Regression Models for Categorical Data",
+    "courseid": "EPID 6220",
+    "coursedescription": "This course will provide in-depth treatment of several topics in categorical data analysis. After a brief review of methods for contingency tables, we will introduce the idea of generalized linear models, and focus on two special cases – multiple logistic regression and log-linear models. Each topic will be presented in detail by stating the model and covering parameter estimation and interpretation, inference, model building, regression diagnostics, and assessment of model fit. Finally, we will cover extensions to both models, including models for multinomial data, analysis of matched-pair data, and random effects models. Topics will be illustrated in class with examples, and we will discuss the use of Stata to conduct the analyses. Offered first half of fall term. Fall Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EPID 6230 Survival Data Analysis",
+    "courseid": "EPID 6230",
+    "coursedescription": "This course will focus on the specialized issues related to the analysis of survival or time-to-event data. The course begins by closely examining the features unique to survival data that distinguish these data from other more familiar types. Topics include non-parametric survival analysis methods, common survival functions, parametric survival models, the proportional hazards model, and common model-checking methods. All methods will be illustrated by in-class examples and homework sets. Prerequisite: Students should be comfortable with basic calculus concepts (e.g., derivatives, integrals, etc). Fall Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EPID 6240 Methods in Patient-Centered Outcomes and Effectiveness Research",
+    "courseid": "EPID 6240",
+    "coursedescription": "The goal of this course is to provide a broad overview of methods used in patient centered outcomes and effectiveness research. Expert faculty will lecture on topics such as standards for research questions, systematic reviews, patient/stakeholder engagement, causal inference, heterogeneity of treatment effect, handling missing data, data registries, pragmatic trials, diagnostic tests, health care disparities, evaluating the impact of communication interventions, and testing innovations in health care systems. Grading will largely be based on participation in class discussions. Prerequisite: Permission of instructor Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of instructor Spring 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6250 Advanced Biostatistical Methods for Multivariable Prediction Models",
+    "courseid": "EPID 6250",
+    "coursedescription": "This course is an introduction to statistical methods that can be used to evaluate biomarker prognostic studies and multivariate prediction models. Topics will include biostatistical evaluation of biomarkers, predictive models based on various regression modeling strategies and classification trees, assessing the predictive ability of a model; internal and external validation of models; and updating prognostic models with new variables or for use in different populations. Students will learn about the statistical methods that are required by current reporting guidelines for biomarker prognostic studies or the reporting guidelines for multivariable prediction models. Prerequisite: Working knowledge of either Stata, SAS or R to fit regression, logistic regression and/or Cox regression models. Permission of course director for students outside of School of Medicine graduate programs. Fall Prerequisite: EPID 5260 AND EPID 5270 AND ( EPID 6220 OR EPID 6230 )",
+    "course-prerequsities": [
+      "EPID 5260",
+      "EPID 5270",
+      "EPID 6220",
+      "EPID 6230"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Permission of course director for students outside of School of Medicine graduate programs."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6300 Clinical Trials",
+    "courseid": "EPID 6300",
+    "coursedescription": "This course is to serve as a general introduction to clinical trials and will emphasize trial design issues. This is not a course on the biostatistics of clinical trials. It is expected that at the conclusion of the course, a student will be able to plan a clinical trial. Each class will consist of a two-hour lecture followed by a one-hour discussion. The weekly session will focus on either a group discussion of the assigned reading or a practical application based on the material presented during the two-hour lecture. Students will be evaluated on their participation in class (20%); a clinical trial document (50%), which should include the rationale for the study, study design, objectives and endpoints, sample size and analysis sections, and consent form; and a class presentation of their trial or another topic (30%). Prerequisite: Permission of instructor. Spring Also Offered As: REG 6300 Prerequisite: EPID 5100 AND EPID 5260 1 Course Unit",
+    "course-prerequsities": [
+      "REG 6300",
+      "EPID 5100",
+      "EPID 5260"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will be evaluated on their participation in class (20%); a clinical trial document (50%), which should include the rationale for the study, study design, objectives and endpoints, sample size and analysis sections, and consent form; and a class presentation of their trial or another topic (30%).",
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6320 Introduction to Biomedical and Health Informatics",
+    "courseid": "EPID 6320",
+    "coursedescription": "This course is designed to provide a survey of the major topic areas in medical informatics, especially as they apply to clinical research. Through a series of lectures and demonstrations, students will learn about topics such as databases, natural language, clinical information systems, networks, artificial intelligence and machine learning applications, decision support, imaging and graphics, and the use of computers in education. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 6340 Clinical Trial Outcomes: Measurement, Analysis and Interpretation",
+    "courseid": "EPID 6340",
+    "coursedescription": "This course is intended to teach students the skills necessary to select and/or design appropriate outcomes for a clinical trial. Students will focus on recent changes in our understanding of clinical trial outcome measurements, analyses, and interpretation for both subjective and objective phenomena, such as adherence, use of multiple outcomes, and clinical importance. While design issues for clinical trials are the main focus, other types of clinical studies will be considered as appropriate. Students will be expected to learn about the problems inherent in the design of outcome measures of health and how to apply different epidemiologic and biostatistical concepts toward a solution. It is expected that at the conclusion of the course, students will be able to plan a clinical trial with a valid, responsive and interpretable outcome. The class will meet once weekly for a 60-minute lecture on a topic, followed by a 60- to 90-minute discussion of how that topic applies to the specific issues of interest to the students or the instructor. Prerequisite: Permission of instructor Fall Prerequisite: EPID 5100 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The class will meet once weekly for a 60-minute lecture on a topic, followed by a 60- to 90-minute discussion of how that topic applies to the specific issues of interest to the students or the instructor.",
+        "Prerequisite: Permission of instructor Fall Prerequisite: EPID 5100 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6360 Epidemiological Methods in Acute Care Research",
+    "courseid": "EPID 6360",
+    "coursedescription": "This is an advanced course addressing epidemiologic issues as they apply to important clinical topics in acute care, including emergency, hospital, and critical care medicine. Lectures and discussions will have two primary goals: 1) to explore epidemiologic methods specific to acute care settings (i.e., choice of outcomes, risk adjustment); and 2) to explore the epidemiology of particular diseases (e.g., sepsis, acute lung injury, hospital acquired infections) and research questions of current importance in these areas. This course will acquaint students with the classic literature in the field of adult and pediatric urgent care, emergency medicine, and critical care epidemiology, teach advanced epidemiologic principles using a problem-based approach, and demonstrate the strengths and weaknesses of epidemiologic research methodologies as they have been applied to acute care. Prerequisite: Permission of instructor. Not Offered Every Year Prerequisite: EPID 5100 AND EPID 5260 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6380 Topics in Clinical Trial Design and Analysis",
+    "courseid": "EPID 6380",
+    "coursedescription": "This course is intended to follow and be complementary to EPID 6300 : Clinical Trials. It will build on the basic principles of design, conduct, and analysis introduced in that course and will go into more detail on particular approaches. Topics covered will include noninferiority trials, phase 1 designs, multi-stage and other adaptive designs, graphical data presentations and current ethical controversies in clinical trials. Fall Prerequisite: EPID 6300 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 6300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 6400 Advanced Topics in Epidemiology",
+    "courseid": "EPID 6400",
+    "coursedescription": "This course is designed to introduce students to advanced epidemiologic methods through a series of readings and discussions. The course aims to deepen the students’ understanding of important concepts and controversies in contemporary epidemiology and to enhance their ability to think critically about empirical epidemiologic research. The course is intended for students who are already familiar with the fundamentals of epidemiology and biostatistics, and who wish to gain an understanding of the complex issues underlying epidemiologic study design and interpretation. Each week, one student will be responsible for leading a portion of the discussion of the assigned readings, in conjunction with a faculty member. Topics include: causal inference; study designs; use of large databases for research; predicting outcomes; and complex sampling methods. Prerequisite: Permission of instructor. Spring Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6440 Cardiopulmonary Epidemiology",
+    "courseid": "EPID 6440",
+    "coursedescription": "This is an advanced course that addresses epidemiologic research issues as they apply to important clinical topics in cardiovascular and pulmonary medicine. Lectures and workshops are designed to acquaint students with the classic literature in the fields of cardiovascular and pulmonary epidemiology, to use a body of literature to demonstrate the strengths and weaknesses of epidemiologic research designs as they have been applied to cardiovascular and pulmonary medicine, to expose students to the range of topics studied, to teach advanced epidemiologic principles using a problem-based approach, and to stimulate students to develop independent research questions. Prerequisite: Permission of instructor. Summer Term Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6450 Research Methods in Cancer Epidemiology",
+    "courseid": "EPID 6450",
+    "coursedescription": "Research in cancer etiology, prevention, treatment, and control includes a wide range of subject matter science, from the initial molecular changes that precede the development of cancer to issues of primary care guidelines for cancer survivors. The course reviews the possible study designs applied to cancer etiology, prevention, treatment, and control. These include randomized controlled trials and multiple types of observational studies (cohort, case-control, cross-sectional). Other topics will include causal inference, bias, and effect modification. Prerequisite: Permission of instructor. Spring Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6460 Reproductive Epidemiology",
+    "courseid": "EPID 6460",
+    "coursedescription": "This is an advanced course that addresses epidemiologic research issues as they apply to important clinical topics in obstetrics and gynecology and related clinical disciplines. Lectures and workshops are designed to acquaint students with important issues in the field of reproductive epidemiology, to use a body of literature to demonstrate the strengths and weaknesses of epidemiologic research designs as they have been applied to obstetrics and gynecology and related clinical disciplines, to expose students to the range of topics studied, to teach advanced epidemiologic principles using a problem-based approach, and to stimulate students interested in reproductive epidemiology to develop independent research questions. Spring, even numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Lectures and workshops are designed to acquaint students with important issues in the field of reproductive epidemiology, to use a body of literature to demonstrate the strengths and weaknesses of epidemiologic research designs as they have been applied to obstetrics and gynecology and related clinical disciplines, to expose students to the range of topics studied, to teach advanced epidemiologic principles using a problem-based approach, and to stimulate students interested in reproductive epidemiology to develop independent research questions."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6520 Renal and Urologic Epidemiology",
+    "courseid": "EPID 6520",
+    "coursedescription": "The objective of this course is to prepare students to function as effective, independent researchers in the fields of renal and urologic epidemiology by providing the students an understanding of how epidemiologic research can and has advanced the knowledge of diseases in treatments of renal and urologic medicine. The structure of the course consists of a lecture series, accompanying workshops, and student presentations. The goals of the course are to acquaint students with some of the classic literature in the fields of renal and urologic epidemiology; to use a body of literature to demonstrate the strengths and weaknesses of epidemiologic research designs as they have been applied to renal and urologic medicine; to teach advanced epidemiologic principles using a problem-based approach; to expose students to the rationale of topics studied by faculty in the CCEB and the adult and pediatric nephrology and urology divisions at Penn and CHOP; and to stimulate students interested in renal and urologic epidemiology so that they may develop independent research questions. Prerequisite: Permission of instructor. Spring, odd numbered years only Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The goals of the course are to acquaint students with some of the classic literature in the fields of renal and urologic epidemiology; to use a body of literature to demonstrate the strengths and weaknesses of epidemiologic research designs as they have been applied to renal and urologic medicine; to teach advanced epidemiologic principles using a problem-based approach; to expose students to the rationale of topics studied by faculty in the CCEB and the adult and pediatric nephrology and urology divisions at Penn and CHOP; and to stimulate students interested in renal and urologic epidemiology so that they may develop independent research questions.",
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6560 Research Methods in Infectious Diseases Epidemiology",
+    "courseid": "EPID 6560",
+    "coursedescription": "This will be an advanced course addressing epidemiologic issues as they apply to important clinical topics in infectious diseases. Lectures and discussions will serve two primary goals: 1) to explore epidemiologic methods specific to infectious diseases (e.g., adherence to therapy) or that have important applications to infectious diseases (e.g., molecular epidemiology); and 2) to explore the epidemiology of particular infectious diseases or syndromes (e.g., HIV). This course will acquaint students with the classic literature in the field of infectious diseases epidemiology, teach advanced epidemiologic principles using a problem-based approach, and demonstrate the strengths and weaknesses of research methodologies as they have been applied to infectious diseases. Prerequisite: Permission from instructor is needed. Summer Term Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission from instructor is needed."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6580 Gastroenterology Epidemiology",
+    "courseid": "EPID 6580",
+    "coursedescription": "This course provides an in-depth presentation of advanced methodologic issues in conducting clinical epidemiologic research in the field of gastroenterology. Prerequisite: Permission of instructor. Spring, odd numbered years only Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6640 Methods in Neurologic Clinical Epidemiology",
+    "courseid": "EPID 6640",
+    "coursedescription": "This course will introduce students to methods and study design principles that are specific or unique to clinical research and trials in neurology, child neurology, neuro-ophthalmology, neurosurgery, and related fields. Prerequisite: Permission of instructor Spring, even numbered years only",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Prerequisite: Permission of instructor Spring, even numbered years only"
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6660 Methods for Real-World Evidence on Therapeutics",
+    "courseid": "EPID 6660",
+    "coursedescription": "While randomized clinical trials are crucial for generating evidence about the efficacy and safety of therapeutic agents (i.e., drugs), they have limitations. Their limitations include infeasibility in certain settings, limited generalizability, and limited power to identify rare adverse effects. Real-world evidence (RWE) is evidence derived from the review and/or analysis of real-world data, which can be defined as data derived from the provision of healthcare outside of clinical trials. There is significant overlap between RWE and pharmacoepidemiology, which is the study of the health effects of drugs and other medical products in populations, and the application of this knowledge to improve health. The purpose of this course is to explore and integrate concepts essential to planning, conducting, and interpreting pharmacoepidemiologic studies to produce RWE. Methods to produce RWE are advancing rapidly. This course will provide students with: 1) a broad-based appreciation of current approaches to generating RWE; and 2) proficiency and confidence in learning and applying new pharmacoepidemiologic methods. Exemplar topics covered include: confounding control in causal inference, propensity scores, the prevalent new user design, instrumental variables, emulated trial designs, self-controlled study designs, and the use of RWE for regulatory decision making. Spring Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 6720 Biostatistical Methods for Addressing Confounding",
+    "courseid": "EPID 6720",
+    "coursedescription": "This course is designed to teach epidemiology students the statistical principles of analysis specific to pharmacoepidemiology study designs including the use of propensity scores, inverse probability weighting, instrumental variables and time varying covariates. Each of the twelve sessions includes both a lecture component and a laboratory component. Students will learn the statistical principles and then apply them to example study datasets. Students must participate in all sessions and must have previously completed biostatistics for epidemiologic methods I and II ( EPID 5260 A/B and 5270 A/B). Laboratory sessions will be conducted on students’ laptops using STATA software. Prerequisite: Permission of the instructor(s). Summer Term Prerequisite: EPID 5260 AND EPID 5270 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of the instructor(s)."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6740 Measuring the Microbiome: Methods and Tools",
+    "courseid": "EPID 6740",
+    "coursedescription": "This is an advanced course addressing the methods and tools used to analyze microbiome data, as well as their implications for clinical study design. The course will include: (1) lectures focused on how the microbiome is measured, approaches to the analysis of highly multivariate microbiome data, and the bioinformatic tools used to execute these analyses; (2) hands-on R and command-line coding to build familiarity with commonly used tools and analytic methods; and (3) short, practical assignments to reinforce the lectures and classwork. The course will acquaint students with classic literature in the field of microbiome research and prepare students to integrate microbiome data collection and analysis with epidemiologic research methodologies. Prerequisite: Permission of instructor if course prerequisites not met Not Offered Every Year Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5270"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of instructor if course prerequisites not met Not Offered Every Year Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5270 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6750 Advanced Methods for Analysis of Complex Genetic Traits",
+    "courseid": "EPID 6750",
+    "coursedescription": "The advent of high-throughput genotyping has created unprecedented opportunities to characterize in detail information related to genome, epigenome and transcriptome. Such technological advancements have offered exciting opportunities for biological discovery as well as translation of biological data for targeted therapies. However, investigation of genetic polymorphisms, epigenetic signatures, gene transcription, biomarkers and their relationship with environmental factors and disease outcomes requires a thorough understanding of a wide range of experimental methods and statistical approaches. Through critical review of the current literature, this course willprovide understanding on various \"-OMICS\" approaches for the study of complex disorders and traits. Students will also understand and present advanced statistical methods and how such concepts can be applied. Prerequisition: Introduction to Genetic Epidemiology or equivalent; training in study design and statistical analysis related to statistical genetics and molecular epidemiology, and permission of course directors. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisition: Introduction to Genetic Epidemiology or equivalent; training in study design and statistical analysis related to statistical genetics and molecular epidemiology, and permission of course directors."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 6990 Lab Rotation",
+    "courseid": "EPID 6990",
+    "coursedescription": "Student lab rotation. 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 7000 Doctoral Seminar in Epidemiology",
+    "courseid": "EPID 7000",
+    "coursedescription": "The course is intended to meet the needs of PhD students over the entire program from the coursework phase through the dissertation defense, and is intended to optimize cross-fertilization between the students at all phases of their program. Restricted to Epidemiology Doctoral Students. Prerequisite: Permission of instructor. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Restricted to Epidemiology Doctoral Students.",
+        "Prerequisite: Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 7010 Introduction to Epidemiologic Research",
+    "courseid": "EPID 7010",
+    "coursedescription": "This course is intended to provide in-depth, exposure to the theory and methods of epidemiologic research. Topics to be covered include causal inference, measures of disease frequency and association, study design, bias and confounding, validity, and epidemiologic analysis. Prerequisite: Quantitative proficiency. Knowledge and/or experience in working in biomedical research. Permission of instructor. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 7012 Nutritional Epidemiology",
+    "courseid": "EPID 7012",
+    "coursedescription": "This course introduces students to key concepts and methods in Nutritional Epidemiology to equip them with the tools needed to design, analyze, and critically evaluate population-based nutrition research. The course also reviews several specific diet/disease relationships, integrating information from secular trends, cohort studies, clinical trials, and animal experiments. Knowledge in nutrition is useful but not required. Prerequisites include introductory epidemiology. Fall Prerequisite: EPID 7010 AND EPID 5100 AND PUBH 5020 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 7010",
+      "EPID 5100",
+      "PUBH 5020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 7013 Epidemiology of Substance Use and Related Complex Health Behaviors",
+    "courseid": "EPID 7013",
+    "coursedescription": "The course presents an overview of the epidemiology of substance use and related complex health behaviors within a public health framework. Students will explore a range of contributors to substance use, considering mechanisms ranging from biological to societal/structural. The course will introduce the historical background of the “war on drugs” and racial underpinnings of policies towards substance use; mental health definitions of addiction; substance use prevention strategies; substance use policies and their impacts; intervention and treatment approaches; barriers to treatment access and adherence; and structural risk factors for substance use and related problems. Students will critically evaluate methods for studying hidden and hard-to-reach populations—including sources of bias, measurement issues, and ethical considerations—as well as explore new and emerging innovations in studying substance use. We will also discuss the application of cross-cutting methods to the study of substance use (e.g., population surveillance and surveys, case-control studies, quasi-experimental designs such as difference-in-difference, mixed/qualitative methods). Spring Also Offered As: PUBH 6130 Prerequisite: EPID 7010 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 7010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 7020 Advanced topics in Epidemiologic Research",
+    "courseid": "EPID 7020",
+    "coursedescription": "The overarching goal of this course is to expose doctoral students in epidemiology to advanced epidemiologic and statistical research methods and theories that are limitedly or not otherwise covered in courses available in the curriculum. Topics that will be covered include reporting guidelines and best practices for reporting statistical methods and results, handling missing data, purposeful selection and application of propensity scores, selected topics in longitudinal and clustered data analysis, contemporary topics in statistical inference and use of p-values and other Frequentist statistical methods, Bayesian theory and inference, and topics selected in collaboration with students and the Graduate Group in Epidemiology and Biostatistics (GGEB) each term. This course is intended for doctoral students in the PhD program in Epidemiology. However, students from other graduate groups are welcome, as long as they meet the pre-requisites; such students are welcome during any year of study. Three learning objectives have been developed for this course; (i) provide students with an understanding of modern and cutting-edge quantitative methods, advanced topics, and best practices in epidemiologic, statistical, and biomedical research; (ii) develop students competence and confidence in statistical programing to support accurate and reproducible epidemiologic and biostatistical analyses; (iii) improve the ability of students to make informed decisions regarding the selection of analytic methods in their individual and collaborative research projects. This course emphasizes the following core competencies: knowledge within program area (epidemiologic and biostatistical methods); research skills (study planning, critically appraising published research); quantitative and computational methodologies (data manipulation, data analysis, statistical coding and debugging, Bayesian inference, data visualization, purposeful statistical inference, and model selection). Through technical lectures, reading of carefully selected peer-reviewed tutorials, critical appraisal of published research studies, and in-class statistical coding laboratory sessions, this course will provide instruction on rigorous and informed statistical model selection, estimation, and interpretation. Spring Prerequisite: EPID 5260 AND EPID 5270 AND EPID 7010 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 5260",
+      "EPID 5270",
+      "EPID 7010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 7030 Implementation Science Foundations in Theory and Methods",
+    "courseid": "EPID 7030",
+    "coursedescription": "This 1-course unit course presents an introduction to the theoretical and methodological foundations in implementation science with a focus on health equity. This course will provide opportunities for learners to apply implementation science theory, methods, and principles to the field of epidemiology and for methods used in epidemiology to be applied to implementation science. Students will critically engage with the historical foundations of implementation science as well as recent innovations. The course will introduce the primary theories of implementation science and take a critical lens to the ways in which this theoretical foundation promotes equitable implementation. The course will also introduce current qualitative and quantitative methods used in implementation science. Learners will have the opportunity to critically apply theories and methodologies originating from epidemiology and other fields to topics in implementation science. Prerequisite: Instructor permission; a basic understanding of the scientific process and study design. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Instructor permission; a basic understanding of the scientific process and study design."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 7040 Methods for Social Epidemiologic Research",
+    "courseid": "EPID 7040",
+    "coursedescription": "This course is intended to provide students in epidemiology, biostatistics, and other disciplines with an in-depth introduction to the principles and methods of social epidemiology. Spring Prerequisite: EPID 7010 AND EPID 7020 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 7010",
+      "EPID 7020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 7050 Grantwriting and Scientific Writing",
+    "courseid": "EPID 7050",
+    "coursedescription": "This course is a two-part training course providing students with (a) guidance and hands-on experience with grant writing; and (b) writing and reviewing scientific papers and abstracts as well as core skills in scientific presentation. The first part of the course will provide a comprehensive overview of and experience with the grant writing process. The second part of the course will expose students to the key elements of scientific writing in epidemiology, with an emphasis on constructing each component of a scientific paper (introduction, methods, results, discussion); adhering to widely-used reporting standards; elements of the peer review process; and selection of appropriate journals for reporting their work. Fall Prerequisite: EPID 7010 AND EPID 7020 AND EPID 6000 AND HPR 6080 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 7010",
+      "EPID 7020",
+      "EPID 6000",
+      "HPR 6080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EPID 7110 Environmental Epidemiology",
+    "courseid": "EPID 7110",
+    "coursedescription": "Environmental Epidemiology is an advanced epidemiology course that addresses epidemiological research methods used to study environmental exposures from air pollution to heavy metals, and from industrial pollutants to consumer product chemicals. The course will provide an overview of major study designs in environmental epidemiology, including cohort studies, panel studies, natural experiments, randomized controlled trials, time-series, and case-crossover studies. The course will discuss disease outcomes related to environmental exposures, including cancer and diseases of cardiovascular, respiratory, urinary, reproductive, and nervous systems. Case studies in environmental epidemiology will be discussed to provide details of research methods and findings. Prerequisite: It is recommended, although not required, that students had an introductory epidemiology course and an introductory biostatistics course. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: It is recommended, although not required, that students had an introductory epidemiology course and an introductory biostatistics course."
+      ]
+    }
+  },
+  {
+    "coursename": "EPID 7140 Grant Writing/Review",
+    "courseid": "EPID 7140",
+    "coursedescription": "This course is designed to provide background and guidance on writing and submitting NIH grants. Students will submit a mini-protocol proposal at the beginning of the term. Each protocol will be reviewed by a group of 3 students from the class and scores will be given. The final project will be a full NIH protocol proposal ready for submission. Summer Term Also Offered As: HPR 7140 Prerequisite: EPID 5100 AND EPID 5260 AND EPID 5600 AND EPID 5700",
+    "course-prerequsities": [
+      "EPID 5100",
+      "EPID 5260",
+      "EPID 5600",
+      "EPID 5700"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "EPID 8990 Pre-Dissertation Lab Rot",
+    "courseid": "EPID 8990",
+    "coursedescription": "Pre-Dissertation Lab Rotation",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-3 Course Units"
+    }
+  },
+  {
+    "coursename": "EPID 9900 Master's Thesis",
+    "courseid": "EPID 9900",
+    "coursedescription": "These are a series of tutorial sessions conducted by the student’s mentor intended to support the student’s efforts in developing a research protocol, designing a research project, and completing the study. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-5 Course Units"
+    }
+  },
+  {
+    "coursename": "EPID 9950 Dissertation",
+    "courseid": "EPID 9950",
+    "coursedescription": "Ph.D. students enroll in this course after passing their candidacy exam. They work on their dissertation full-time under the guidance of their dissertation supervisor and other members of their dissertation committee.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  }
+]

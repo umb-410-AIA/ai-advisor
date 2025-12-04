@@ -1,0 +1,714 @@
+[
+  {
+    "coursename": "GADS 5001 Biostatistics",
+    "courseid": "GADS 5001",
+    "coursedescription": "Intro to Biostatistics 0.75-2.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5002 Biostatistics",
+    "courseid": "GADS 5002",
+    "coursedescription": "The course will provide a summary of the main statistical concepts. Some of the topics will include data displays, summary statistics, probability distributions and expectation, statistical inference procedures for univariate and bivariate data, linear regression models, and analysis of variance. 1-2.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5010 Ethics, Professionalism and Jurisprudence",
+    "courseid": "GADS 5010",
+    "coursedescription": "The program includes the core basic science courses, designed to encompass the the various disciplines basic to advanced studies in the science and practice of dentistry. They are designed to expose students to modern concepts in the areas covered with the objective of updating and expanding upon their predoctoral knowledge. Practice Management Lectures and clinical experiences provide students with foundation knowledge regarding the policies and procedure governing practice. In the workshop portion of the course, participants will assess their beliefs and awareness around cross cultural communication and diversity and inclusiveness. Through lecture, group participation, skill practice, role-play, case studies, and coaching they learn to advance their skill levels and take communication to the next level. Participants will also be recorded at the opening and conclusion of the to assess skill development. This course is the didactic course for the MADS core curriculum. Fall 1-4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5011 Systematic Reviews",
+    "courseid": "GADS 5011",
+    "coursedescription": "The course introduces methods to perform systematic reviews and meta-analysis of clinical trials. 0.5-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5012 Systematic Review",
+    "courseid": "GADS 5012",
+    "coursedescription": "An introduction to Evidence-Based Dentistry (EBD) Steps and description of the EBD process, benefits and challenges for the dental profession. Review EBD publications and how commentaries can be useful for understanding study methodology. Discuss the overall architecture of The Cochrane Library, introduction to formulation of the research question (PICO). Interactive discussion for selecting possible search terms in preparation for the database searches Introduction to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) tools. 2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5020 Evidence-based clinical practice",
+    "courseid": "GADS 5020",
+    "coursedescription": "This course will provide a summary of the main statistical concepts needed to to make decisions based on data. Some of the material that will be covered includes: data displays, summary statistics, probability distributions and expectation, statistical inference procedures for univariate and bivariate data, linear regression models, and analysis of variance. You will learn how to test a hypothesis, which includes phrasing a hypothesis, making a rationale choice of experimental design, choosing the statistics best suited to test the hypothesis, and assessing the results with standard errors, confidence intervals, and p-values. This course is part of the MADS core curriculum. Fall 2.25-5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5021 Head and Neck Anatomy",
+    "courseid": "GADS 5021",
+    "coursedescription": "The course will provide a review of principal anatomy comprising the stomatognathic system. 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5030 Oral and systemic diseases",
+    "courseid": "GADS 5030",
+    "coursedescription": "The Oral and Systematic Diseases course follows several distinct topics, including Genetics, congenital malformation/embrology, pharmacology, head and neck anatomy, among others. The treatment of patients with cleft lip/palate and other types of craniofacial anomalies in the United States has improved dramatically, many children still receive care that is substantially inferior to what can or should be provided. Inadequate care results from diagnostic errors, failure to recognize and treat the full spectrum of health problems associated with these anomalies, unnecessary and poorly timed treatment, and inappropriate or poorly performed procedures. This course will inform of these persistent problems. Embryology lecture is an overview of the field from its 19th Century with Hegel and \"Ontogeny recapitulates Phylogeny\" to the 21st century research on \"Evo-Devo\" and the HOX development genes and their relations to the contemporary understanding of embryological development including stem cells. Pathology is a course that will apply what students have already learned to the study of disease. It is an essential link between the basic and clinical sciences concerned with the mechanisms of disease (e.g., inflammation, neoplasia, annd immunopathology) and the disease processes that students will encounter during their careers in dentistry. While the emphasis will be on oral pathology, one must also be familiar with systemic diseases that may impact on the health of the patients. Pharmacology is both a basic science and a clinical science. It builds on the foundation of anatomy, biochemistry, physiology, and pathology and bridges the gap into clinical dentistry. This course in basic pharmacology will give the students a better understanding of drugs, interpreting complicated drug/medical histories, and understanding drug reactions This course is for the MADS core curriculum Fall 7-9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5032 Osteoimmunology",
+    "courseid": "GADS 5032",
+    "coursedescription": "The course will provide information about bone biology and metabolism and how it interfaces with the host immune response. 0.75-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5042 Pharmacology",
+    "courseid": "GADS 5042",
+    "coursedescription": "The course will provide information about basic pharmacology and give the students a better understanding of drugs, interpreting complicated drug/medical histories, and understanding drug reactions. 0.75-2.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5052 Wound Healing",
+    "courseid": "GADS 5052",
+    "coursedescription": "The course includes information given by experts in the basic and/or clinical sciences. The first seven lectures cover the basic biologic aspects of wound healing. These are followed by a series of five lectures discussing wound healing in a more clinical context covering the topics of fracture repair, osseointegration, orthodontics, endodontics and periodontics. 0.5-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5061 Maxillofacial Radiology",
+    "courseid": "GADS 5061",
+    "coursedescription": "The course will provide in depth discussion about radiographic interpretation and differential diagnosis of various pathological conditions which show similarities on x-rays. 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5071 Ethics",
+    "courseid": "GADS 5071",
+    "coursedescription": "The courses is to impart a general knowledge of fundamental concepts in principles of professionalism and ethical decision making with emphasis on care-based discussions. 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5081 Grand Rounds Conference",
+    "courseid": "GADS 5081",
+    "coursedescription": "This conference based course will provide an understanding of the sequential management of multidisciplinary cases from a diagnostic and treatment basis. It will involve student presentations from each specialty followed by panel discussion. 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5082 Interdisciplinary Seminars Grand Rounds",
+    "courseid": "GADS 5082",
+    "coursedescription": "This conference based course will provide an understanding of the sequential management of multidisciplinary cases from a diagnostic and treatment basis. It will involve student presentations from each specialty followed by panel discussion. 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5111 Adv Oral Surgery",
+    "courseid": "GADS 5111",
+    "coursedescription": "Advanced oral surgery 0.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5201 Topic Presentation I",
+    "courseid": "GADS 5201",
+    "coursedescription": "The students deliver evidence based Keynote or PowerPoint presentations on a topic of their choice followed by discussion. 6-9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5212 Topics Presentation II",
+    "courseid": "GADS 5212",
+    "coursedescription": "The students deliver evidence based Keynote or PowerPoint presentations on a topic of their choice followed by discussion. 1-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5221 Literature Review I",
+    "courseid": "GADS 5221",
+    "coursedescription": "Review and discussion of current and classic literature topics Fall 5-8 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5232 Literature Review II",
+    "courseid": "GADS 5232",
+    "coursedescription": "Review and discussion of current and classic literature topics 1-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5241 Literature Review III",
+    "courseid": "GADS 5241",
+    "coursedescription": "Review and discussion of current and classic literature topics 5-8 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5252 Literature Review IV",
+    "courseid": "GADS 5252",
+    "coursedescription": "Review and discussion of current and classic literature topics Spring 1-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5262 In-Service Exam",
+    "courseid": "GADS 5262",
+    "coursedescription": "Pediatric dentistry comprehensive exam 0.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5271 Endodontic Rotation Fall",
+    "courseid": "GADS 5271",
+    "coursedescription": "Clinical rotations in specific specialty clinics will provide clinical experience in diagnosis, treatment planning, and patient care through observation. 10-14 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5272 Endodontic Rotation",
+    "courseid": "GADS 5272",
+    "coursedescription": "Endodontic Rotation 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5302 Pathology",
+    "courseid": "GADS 5302",
+    "coursedescription": "The course will provide information about the link between the basic and clinical sciences concerned with the mechanisms of disease (e.g., inflammation, neoplasia, and immunopathology). While the emphasis will be on oral pathology, systemic diseases and their impact on overall health will also be discussed. 0.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5311 Biological Systems",
+    "courseid": "GADS 5311",
+    "coursedescription": "The course combines an introduction to the general principles of anatomy, histology, and physiology of the human cardiovascular, pulmonary and renal systems, with an extensive study of the pathology and therapeutics of these systems, with an explicit emphasis on their relationship to dental practice. 6-9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5322 Oral Medicine",
+    "courseid": "GADS 5322",
+    "coursedescription": "The purpose of this course is to provide foundational and applied knowledge of common oral medicine-related conditions as well as an understanding of medical conditions which directly affect the oral and maxillofacial structures. 0.5-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5331 Brightman Conference",
+    "courseid": "GADS 5331",
+    "coursedescription": "This conference provides residents with didactic training in the fundamentals of oral medicine. 1.75-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5332 Brightman Conference II",
+    "courseid": "GADS 5332",
+    "coursedescription": "The conference provides information about the fundamentals of oral medicine. 1-2.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5341 S. Gary Cohen Conference",
+    "courseid": "GADS 5341",
+    "coursedescription": "The course will allow academic discussion of disease, disease processes, and therapeutic management of a wide range of topics related to oral medicine. 2-4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5342 Cohen Conference II",
+    "courseid": "GADS 5342",
+    "coursedescription": "The course will allow academic discussion of disease, disease processes, and therapeutic management of a wide range of topics related to oral medicine. 1.5-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5351 Oral and Maxillofacial Complex I",
+    "courseid": "GADS 5351",
+    "coursedescription": "The Diagnostic Oral pathology and Radiology course is designed to give the dental student an understanding of the diagnosis of diseases pertaining to head and neck as well as interpreting histologic and radiographic investigations. 2.5-5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5352 Oral and Maxillofacial Complex",
+    "courseid": "GADS 5352",
+    "coursedescription": "The course will provide in depth discussion about the link between the basic and clinical sciences concerned with the mechanisms of disease (e.g., inflammation, genetic disease, neoplasia, and immunopathology). The emphasis will be on oral soft and hard tissue pathology, including oral manifestations of systemic diseases that may impact overall health of the patients. 2-3.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5362 Oral Medicine Rotation",
+    "courseid": "GADS 5362",
+    "coursedescription": "Clinical rotations in specific specialty clinics will provide clinical experience in diagnosis, treatment planning, and patient care through observation. 6 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5492 Clinicopathologic Conference",
+    "courseid": "GADS 5492",
+    "coursedescription": "Oral Surgery conference 0.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5501 Orthodontics",
+    "courseid": "GADS 5501",
+    "coursedescription": "The course provides information about the growth and development, concentrating on child somatic, craniofacial, and dental growth and development. The students will build a solid foundation along the lines of diagnosing problems and understanding the etiology of malocclusion and space maintenance. 4-7 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5502 Adjunctive Ortho Technique",
+    "courseid": "GADS 5502",
+    "coursedescription": "This course is designed to expose the student to basic orthodontic laboratory and clinical procedures and encourages the development of technical abilities in banding, bonding, wire bending, and removable appliance fabrication. 0.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5511 Penn Orthodontics CE – Fall",
+    "courseid": "GADS 5511",
+    "coursedescription": "pending 0.75 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5512 Orthodontics II",
+    "courseid": "GADS 5512",
+    "coursedescription": "The course will provide the student with experience in early orthodontic treatment, exposing him/her to malocclusions arising in a normally developing craniofacial complex. Management of these problems aims at providing an unimpeded eruption and alignment of the permanent dentition. Other topics include biological and mechanical principles of tooth movement as well as corrective orthodontics. 0.5-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5521 Case Presentation I",
+    "courseid": "GADS 5521",
+    "coursedescription": "The students attend the case presentation seminars. 0.5-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5522 Case Presentation II",
+    "courseid": "GADS 5522",
+    "coursedescription": "The students attend the case presentation seminars. 0.25-1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5531 Growth & Development II",
+    "courseid": "GADS 5531",
+    "coursedescription": "pending 2-5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5532 Biomechanics",
+    "courseid": "GADS 5532",
+    "coursedescription": "pending 0.75 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5541 Interceptive Orthodontics",
+    "courseid": "GADS 5541",
+    "coursedescription": "pending 1-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5542 Literature Review",
+    "courseid": "GADS 5542",
+    "coursedescription": "pending 0.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5551 Comprehensive Orthodontic Treatment",
+    "courseid": "GADS 5551",
+    "coursedescription": "pending 1-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5552 Orthognathic Surgery/TMJ Lecture Series",
+    "courseid": "GADS 5552",
+    "coursedescription": "The students attend the orthognathic surgery seminars and TMJ lecture series. 0.25-1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5561 Penn Orthodontic Department Lecture Series I",
+    "courseid": "GADS 5561",
+    "coursedescription": "The course will provide the students various topics in Orthodontics described above. Fall 1-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5562 Case Presentation I",
+    "courseid": "GADS 5562",
+    "coursedescription": "pending 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5571 Orthognathic Surgery/TMJ Lecture Series I",
+    "courseid": "GADS 5571",
+    "coursedescription": "The students attend the orthognathic surgery seminars and TMJ lecture series. 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5572 TMD Diagnosis & Therapy",
+    "courseid": "GADS 5572",
+    "coursedescription": "pending 0.75 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5582 Orthodontics Rotations",
+    "courseid": "GADS 5582",
+    "coursedescription": "Clinical rotations in specific specialty clinics will provide clinical experience in diagnosis, treatment planning, and patient care through observation. 4-7 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5591 Orthodontics II",
+    "courseid": "GADS 5591",
+    "coursedescription": "The course will provide the student with experience in early Orthodontic treatment, exposing them to malocclusions arising in a normally developing craniofacial complex. Other topics include biological and mechanical principles of tooth movement as well as interceptive and comprehensive corrective Orthodontics. 1-2.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5592 Penn Orthodontic Department Lecture Series II",
+    "courseid": "GADS 5592",
+    "coursedescription": "The course will provide the students various topics in Orthodontics described above. Spring 0.5-2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5601 Pathology",
+    "courseid": "GADS 5601",
+    "coursedescription": "Pathology is a course that will apply what students have already learned to the study of disease. It is an essential link between the basic and clinical sciences concerned with the mechanisms of disease (e.g., inflammation, neoplasia, and immunopathology) and the disease processes that students will encounter during their careers in dentistry. While the emphasis will be on oral pathology, one must also be familiar with systemic diseases that may impact on the health of the patients. 1-4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5602 Maxillofacial Trauma",
+    "courseid": "GADS 5602",
+    "coursedescription": "pending 0.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5611 Embryology, Genetics, Congenital Malformation",
+    "courseid": "GADS 5611",
+    "coursedescription": "The program includes the core basic science courses, designed to encompass the various disciplines basic to advanced studies in the science and practice of dentistry. They are designed to expose students to modern concepts in the areas covered with the objective of updating and expanding upon their predoctoral knowledge of oral biology. The courses are designed to meet the requirements of the different specialty organizations. All programs are presented on an academic term basis. 0.5-4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5612 Nitrous Oxide Nitrous Oxygen Analgesia",
+    "courseid": "GADS 5612",
+    "coursedescription": "This course is designed to provide didactic and clinical instruction in nitrous oxide/oxygen analgesia in accordance with American Dental Association Guidelines. Upon completion of this course, the participant will be eligible for an Anesthesia Restricted Permit II from the Pennsylvania State Board of Dentistry. Participants will have the opportunity to administer (to each other and patients) and undergo nitrous oxide sedation under close supervision. The course is geared to general dentists and dental specialists. 1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Upon completion of this course, the participant will be eligible for an Anesthesia Restricted Permit II from the Pennsylvania State Board of Dentistry."
+      ]
+    }
+  },
+  {
+    "coursename": "GADS 5621 Introduction to Pediatric Dentistry Fall",
+    "courseid": "GADS 5621",
+    "coursedescription": "A comprehensive course to provide an overview of main topics in Pediatric Dentistry including diagnosis, rationale for treatment and description of basic treatment techniques. 1.5-4.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5622 Introduction to Pediatric Dentistry Spring",
+    "courseid": "GADS 5622",
+    "coursedescription": "A comprehensive course to provide an overview of main topics in Pediatric Dentistry including diagnosis, rationale for treatment and description of basic treatment techniques. 2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5631 Comprehensive Review of Pediatric Dentistry I",
+    "courseid": "GADS 5631",
+    "coursedescription": "The course is a more in depth/advanced presentations in several areas of Pediatric Dentistry through case presentations by medical and dental professionals. Spring 5-8 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5632 Comprehensive Review of Pediatric Dentistry II",
+    "courseid": "GADS 5632",
+    "coursedescription": "The course is a continuation of the Introduction to Pediatric Dentistry course and includes a more in depth/advanced presentations in several areas of Pediatric Dentistry through case presentations by medical and dental professionals. 4-7 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5642 Pediatric Rotation",
+    "courseid": "GADS 5642",
+    "coursedescription": "Clinical rotations in specific specialty clinics will provide clinical experience in diagnosis, treatment planning, and patient care through observation. 4-7 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5652 Embryology, Genetics, and Congenital Malformation",
+    "courseid": "GADS 5652",
+    "coursedescription": "This course will provide information about the persistent problems associated with cleft lip/palate and other types of craniofacial anomalies throughout lifetime of patients and include a thorough discussion of past and current concepts. 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5662 Trauma",
+    "courseid": "GADS 5662",
+    "coursedescription": "The course provides students with an understanding of how to evaluate a patient presenting with dental trauma, the review of biological sequelae, and formulate a treatment plan and prognosis. 0.25-1.5 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5701 Implant Dentistry",
+    "courseid": "GADS 5701",
+    "coursedescription": "Begin to develop a didactic basis for the development of a clinical competency in providing patient care to dentate, as well as partially and totally edentulous patients. Utilizing operative dentistry, fixed prosthodontics, removable prosthodontics and dental implants as restorative modalities will be emphasized. 1-4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Utilizing operative dentistry, fixed prosthodontics, removable prosthodontics and dental implants as restorative modalities will be emphasized."
+      ]
+    }
+  },
+  {
+    "coursename": "GADS 5702 Classic and Current Literature Review Spring",
+    "courseid": "GADS 5702",
+    "coursedescription": "Students gain a fundamental knowledge of periodontal diseases and treatments through review of classic periodontal literature 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5711 Introduction to Periodontology",
+    "courseid": "GADS 5711",
+    "coursedescription": "The course will provide information about the current basic biological concepts applied to the healthy and diseased periodontium, the etiology, pathogenesis, and epidemiology of periodontal diseases. Different forms of periodontal diseases, non-surgical and surgical therapeutic modalities, multidisciplinary treatment approaches, and information on the prognosis of periodontal therapy will be discussed. 7-11 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5712 Periodontics Case Presentation Spring",
+    "courseid": "GADS 5712",
+    "coursedescription": "Critical review and discussion of current concepts of surgical techniques and treatment in periodontology through case presentation. 1.25 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5721 Classic and Current Literature Review",
+    "courseid": "GADS 5721",
+    "coursedescription": "This course aims to review and critically analyze classic and current periodontal literature, to acquire thorough knowledge of periodontal disease onset, progression, and treatment modalities, and to prepare those who are eligible for certification by the American Board of Periodontology. 4-9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5722 Periodontal Prosthesis Case Presentation Spring",
+    "courseid": "GADS 5722",
+    "coursedescription": "Critical review and discussion of current concepts of surgical techniques and treatment in Periodontal Prosthesis through case presentation. 2.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5731 Periodontics Case Presentation",
+    "courseid": "GADS 5731",
+    "coursedescription": "Critical review and discussion of current concepts of surgical techniques and treatment in periodontology through case presentation. 2-5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5732 Fundamentals of Periodontics Spring",
+    "courseid": "GADS 5732",
+    "coursedescription": "A comprehensive course to provide an overview of periodontal anatomy, diagnosis and classification, rationale and basic techniques for periodontal therapy. Special emphasis is given to the correlation between histologic and clinical characteristics. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5741 Periodontal Prosthesis Case Presentation Fall",
+    "courseid": "GADS 5741",
+    "coursedescription": "Critical review and discussion of current concepts of surgical techniques and treatment in Periodontal Prosthesis through case presentation. 2.25-5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5742 Periodontics Rotation",
+    "courseid": "GADS 5742",
+    "coursedescription": "Two 3 week observational periods in the Periodontics Clinic 6.25 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5751 Fundamentals of Periodontics Fall",
+    "courseid": "GADS 5751",
+    "coursedescription": "A comprehensive course to provide an overview of periodontal anatomy, diagnosis and classification, rationale and basic techniques for periodontal therapy. Special emphasis is given to the correlation between histologic and clinical characteristics. 3-5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5801 Introduction to Advanced Fixed Prosthodontics",
+    "courseid": "GADS 5801",
+    "coursedescription": "The art and science of Fixed Prosthodontics is discussed with emphasis on the fundamental biomechanical principles, materials and techniques required to rehabilitate oral function and form with single and multiple unit fixed prostheses at the level of a specialist. Conventional and digital workflow for clinical and laboratory fixed prosthodontic procedures, concepts of occlusion, articulators, esthetics as well as implant-supported fixed prosthesis are also included. 1-3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5802 Literature Review Seminar II",
+    "courseid": "GADS 5802",
+    "coursedescription": "The seminar includes the review, critical evaluation and discussion of prosthodontic classic and current literature with an intent to help participants develop and comprehend an evidence-based approach to oral health care and patient management with a focus on prosthodontic procedures. 5-7 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5811 Introduction to Advanced Removable Prosthodontics",
+    "courseid": "GADS 5811",
+    "coursedescription": "The fundamentals of removable prosthodontics (complete denture and partial removable dental prosthesis) and the concepts of occlusion, articulators as well as implant retained and supported removable prosthesis laboratory steps are discussed. 1-4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5812 Treatment Plan Seminar II",
+    "courseid": "GADS 5812",
+    "coursedescription": "The course involves clinical case presentations and aims to develop skills in diagnosis, prognosis, and treatment planning and maintenance and treatment outcomes assessment of patients with complex prosthodontic needs. 5-7 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5821 Literature Review Seminar",
+    "courseid": "GADS 5821",
+    "coursedescription": "The seminar includes the review, critical evaluation and discussion of prosthodontic classic and current literature with an intent to help participants develop and comprehend an evidence-based approach to oral health care and patient management with a focus on prosthodontic procedures. 3-5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5822 Occlusion",
+    "courseid": "GADS 5822",
+    "coursedescription": "n The Diagnostic Oral pathology and Radiology course is designed to give the dental student an understanding of the diagnosis of diseases pertaining to head and neck as well as interpreting histologic and radiographic investigations. 0.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5831 Treatment Plan Seminar",
+    "courseid": "GADS 5831",
+    "coursedescription": "The course involves clinical case presentations and aims to develop skills in diagnosis, prognosis, and treatment planning and maintenance and treatment outcomes assessment of patients with complex prosthodontic needs. 2-5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5832 Prosthodontics Rotation",
+    "courseid": "GADS 5832",
+    "coursedescription": "Clinical rotations in specific specialty clinics will provide clinical experience in diagnosis, treatment planning, and patient care through observation. 5-7 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5841 Current Literature Review Seminar",
+    "courseid": "GADS 5841",
+    "coursedescription": "A monthly seminar series discussing current literature in the full scope of prosthodontics and relevant sciences. 0.25-2.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5842 Current Literature Review Seminar II",
+    "courseid": "GADS 5842",
+    "coursedescription": "A monthly seminar series discussing current literature in the full scope of prosthodontics and relevant sciences. 5-7 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GADS 5852 Current Literature Review Seminar",
+    "courseid": "GADS 5852",
+    "coursedescription": "pending 0.5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

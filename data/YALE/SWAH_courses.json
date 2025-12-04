@@ -1,0 +1,34 @@
+[
+  {
+    "coursename": "SWAH 1110a, Beginning Kiswahili I John Wa'Njogu",
+    "courseid": "SWAH 1110a",
+    "coursedescription": "A beginning course with intensive training and practice in speaking, listening, reading, and writing. Initial emphasis is on the spoken language and conversation. L1 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 1130a, Intermediate Kiswahili I Veronica Waweru",
+    "courseid": "SWAH 1130a",
+    "coursedescription": "Further development of students' speaking, listening, reading, and writing skills. Prepares students for further work in literary, language, and cultural studies as well as for a functional use of Kiswahili. Study of structure and vocabulary is based on a variety of texts from traditional and popular culture. Emphasis on command of idiomatic usage and stylistic nuance. After SWAH 120 . L3 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 1150a, Advanced Kiswahili I John Wa'Njogu",
+    "courseid": "SWAH 1150a",
+    "coursedescription": "Development of fluency through readings and discussions on contemporary issues in Kiswahili. Introduction to literary criticism in Kiswahili. Materials include Kiswahili oral literature, prose, poetry, and plays, as well as texts drawn from popular and political culture. After SWAH 140. L5 MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 1170a, Topics in Kiswahili Literature John Wa'Njogu",
+    "courseid": "SWAH 1170a",
+    "coursedescription": "Advanced readings and discussion with emphasis on literary and historical texts. Reading assignments include materials on Kiswahili poetry, Kiswahili dialects, and the history of the language. After SWAH 160. L5 , HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,825 @@
+[
+  {
+    "coursename": "PHYS 0008 Physics for Architects I",
+    "courseid": "PHYS 0008",
+    "coursedescription": "An introduction to the classical laws of mechanics, including static equilibrium, elasticity, and oscillations, with emphasis on topics most relevant to students in architecture. Credit is awarded for only one of the following courses: PHYS 0008 , PHYS 0101 , PHYS 0150 , or PHYS 0170 . Students with AP or Transfer Credit for PHYS 091 or 093 who complete PHYS 0008 will thereby surrender the AP or Transfer Credit. Fall, odd numbered years only Mutually Exclusive: PHYS 0101 , PHYS 0150 , PHYS 0170 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 0009 Physics for Architects II",
+    "courseid": "PHYS 0009",
+    "coursedescription": "Briefly reviews Newton's laws, then introduces waves, sound, light, fluids, heat, electricity, magnetism, and circuits, with emphasis on topics most relevant to students in architecture. Illustrates physics principles using examples drawn from architecture. Students with a strong high-school physics background may take PHYS 0008 and PHYS 0009 in either order. Credit is awarded for only one of the following courses: PHYS 0009 , PHYS 0102 , PHYS 0151 , or PHYS 0171 . Students with AP or Transfer Credit for PHYS 092 or 094 who complete PHYS 0009 will surrender the AP or Transfer Credit. Fall, even numbered years only Mutually Exclusive: PHYS 0102 , PHYS 0151 , PHYS 0171 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 0016 Energy, Oil, and Global Warming",
+    "courseid": "PHYS 0016",
+    "coursedescription": "The developed world's dependence on fossil fuels for energy production has extremely undesirable economic, environmental, and political consequences, and is likely to be mankind's greatest challenge in the 21st century. We describe the physical principles of energy, its production and consumption, and environmental consequences, including the greenhouse effect. We will examine a number of alternative modes of energy generation - fossil fuels, biomass, wind, solar, hydro, and nuclear - and study the physical and technological aspects of each, and their societal, environmental and economic impacts over the construction and operational lifetimes. No previous study of physics is assumed. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 0050 Physics Laboratory I",
+    "courseid": "PHYS 0050",
+    "coursedescription": "Experiments in classical mechanics. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "PHYS 0051 Physics Laboratory II",
+    "courseid": "PHYS 0051",
+    "coursedescription": "Experiments in electromagnetism and optics. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "PHYS 0080 Physics and Consciousness",
+    "courseid": "PHYS 0080",
+    "coursedescription": "We will explore the basic classical and quantum physics concepts, and link themto newly observed physical phenomena and technologies, as well as to brain research, in the context of tools that physicists helped bring about like the seminal magnetic resonance imaging. The course content is mostly physics, although we link it to cognitive sciences, but the main focus is on motivating and explaining the basic physical laws behind new phenomena and related technologies. Examples include wave-particle duality and its relevance for technological applications, behavior of spin particles in a magnetic field to explain magnetic resonance imaging, ion flow through ion channels and ohm's law to explain electrical signal flow in our body, and other examples within the core of physics and bridging to interdisciplinary areas of material science and devices, biology and neuroscience. As we learn about particle spins, we will talk about brain imaging studies enabled by Nobel winning physics research. We will then discuss consciousness and free will, and read original texts by Schrodinger, Einstein and other physicists, and our course discussion will be uniquely motivated by related physical phenomena and experiments, including quantum entanglement and relativity of space and time. I will explain the basic ideas behind quantum computing and information processing, and we we learn about basic quantum logicgates and Dirac's matrix formalism in quantum mechanics. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 0090 How Things Work",
+    "courseid": "PHYS 0090",
+    "coursedescription": "This course uses everyday objects to teach the principles of physics and physical reasoning to students who do not intend to major in the sciences. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 0101 General Physics: Mechanics, Heat and Sound",
+    "courseid": "PHYS 0101",
+    "coursedescription": "An introduction to the classical laws of motion, including kinematics, forces in nature, Newton's laws of motion, conservation of energy and momentum, fluid statics and dynamics, oscillations, and waves. Suggested for students in a pre-health program. Credit is awarded for only one of the following courses: PHYS 0008 , PHYS 0101 , PHYS 0150 , or PHYS 0170 . Students with AP or Transfer Credit for PHYS 0101 , or PHYS 0150 who complete PHYS 0101 will thereby surrender the AP or Transfer Credit. Fall, Spring, and Summer Terms Mutually Exclusive: PHYS 0008 , PHYS 0150 , PHYS 0170 1.5 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 0102 General Physics: Electromagnetism, Optics, and Modern Physics",
+    "courseid": "PHYS 0102",
+    "coursedescription": "A continuation of PHYS 0101 emphasizing an introduction to classical electricity and magnetism, light and optics, special relativity, the quantum theory of matter, and nuclear physics. Suggested for students in a pre-health program. Credit is awarded for only one of the following courses: PHYS 0009 , 0102 , 0151 , 0171 . Students with AP or Transfer Credit for PHYS who complete PHYS 0102 will thereby surrender the AP or Transfer Credit. Fall, Spring, and Summer Terms Mutually Exclusive: PHYS 0009 , PHYS 0151 , PHYS 0171 Prerequisite: PHYS 0101 OR PHYS 0150 OR PHYS 0170 1.5 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0101",
+      "PHYS 0150",
+      "PHYS 0170"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 0137 Community Physics Initiative",
+    "courseid": "PHYS 0137",
+    "coursedescription": "This is an Academically Based Community Service Course (ABCS). The central purpose is to work in partnership with a local high school to improve physics education outcomes for their students. An immersive classroom experience will be enriched through instructional design work and grounded in a study of science education scholarship. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 0140 Principles of Physics I (without laboratory)",
+    "courseid": "PHYS 0140",
+    "coursedescription": "The topics of this calculus-based course are: Classical laws of motions; interactions between particles; conservation laws and symmetry principles; particle and rigid body motion; gravitation, harmonic motion, and applications of mechanics to real-world problems. Prerequisite: Students in PHYS 0140 should already have taken MATH 1400 or the equivalent, or be taking it simultaneously with PHYS 0140 . Engineering students only. Fall or Spring Prerequisite: MATH 1400 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0140",
+      "MATH 1400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 0141 Principles of Physics II (without laboratory)",
+    "courseid": "PHYS 0141",
+    "coursedescription": "The topics of this calculus-based course are electric and magnetic fields; Coulomb's, Gauss's, Ampere's, and Faraday's laws; DC and AC circuits; Maxwell's equations and electromagnetic radiation. Engineering students only. Fall, Spring, and Summer Terms Prerequisite: PHYS 0140 AND MATH 1410 Corequisite: MATH 1410 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0140",
+      "MATH 1410"
+    ],
+    "course-corequisites": [
+      "MATH 1410"
+    ],
+    "other": {
+      "notes": [
+        "Fall, Spring, and Summer Terms Prerequisite: PHYS 0140 AND MATH 1410 Corequisite: MATH 1410 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 0150 Principles of Physics I: Mechanics and Wave Motion",
+    "courseid": "PHYS 0150",
+    "coursedescription": "This calculus-based course is recommended for science majors and engineering students. Classical laws of motion; interactions between particles; conservation laws and symmetry principles; particle and rigid body motion; gravitation, harmonic motion, and applications of mechanics to real-world problems. Credit is awarded for only one of the following courses: PHYS 0008 , PHYS 0101 , 0150 , 0170 . Students with AP or Transfer Credit for PHYS 0101 , or PHYS 0150 who complete PHYS 0150 will thereby surrender the AP or Transfer Credit. Prerequisite: Students in PHYS 0150 should already have taken MATH 1400 or the equivalent, or be taking it simultaneously with PHYS 0150 . Fall or Spring Mutually Exclusive: PHYS 0008 , PHYS 0101 , PHYS 0170 1.5 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0150",
+      "MATH 1400",
+      "PHYS 0008",
+      "PHYS 0101",
+      "PHYS 0170"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This calculus-based course is recommended for science majors and engineering students."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 0151 Principles of Physics II: Electromagnetism and Radiation",
+    "courseid": "PHYS 0151",
+    "coursedescription": "The topics of this calculus-based course are electric and magnetic fields; Coulomb's, Gauss's, Ampere's, and Faraday's laws; DC and AC circuits; Maxwell's equations and electromagnetic radiation. Credit is awarded for only one of the following courses. PHYS 0009 , PHYS 0102 , PHYS 0151 , PHYS 0171 . Students with AP or Transfer Credit for PHYS 0102 or PHYS 0151 who complete PHYS 0151 will thereby surrender the AP or Transfer Credit. Prerequisite: Students in PHYS 0151 should already have taken MATH 1410 or the equivalent, or betaking it simultaneously with PHYS 0151 . Fall, Spring, and Summer Terms Mutually Exclusive: PHYS 0009 , PHYS 0102 , PHYS 0171 Prerequisite: PHYS 0150 1.5 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0151",
+      "MATH 1410",
+      "PHYS 0009",
+      "PHYS 0102",
+      "PHYS 0171",
+      "PHYS 0150"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 0170 Honors Physics I: Mechanics and Wave Motion",
+    "courseid": "PHYS 0170",
+    "coursedescription": "This course parallels and extends the content of PHYS 0150 , at a significantly higher mathematical level. Recommended for well-prepared students in engineering and the physical sciences, and particularly for those planning to major in physics. Classical laws of motion: interaction between particles; conservation laws and symmetry principles; rigid body motion; non-inertial reference frames; oscillations. Prerequisite: Benjamin Franklin Seminar. Credit is awarded for only one of the following courses: PHYS 0008 , PHYS 0101 , PHYS 0150 , PHYS 0170 . Students with AP or Transfer Credit for PHYS 0101 or PHYS 0150 who complete PHYS 0170 will thereby surrender the AP or Transfer Credit. Fall Mutually Exclusive: PHYS 0008 , PHYS 0101 , PHYS 0150 Prerequisite: MATH 1400 AND ( MATH 1410 OR MATH 1610 ) 1.5 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0008",
+      "PHYS 0101",
+      "PHYS 0150",
+      "PHYS 0170",
+      "MATH 1400",
+      "MATH 1410",
+      "MATH 1610"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for well-prepared students in engineering and the physical sciences, and particularly for those planning to major in physics."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 0171 Honors Physics II: Electromagnetism and Radiation",
+    "courseid": "PHYS 0171",
+    "coursedescription": "This course parallels and extends the content of PHYS 0151 , at a somewhat higher mathematical level. Recommended for well-prepared students in engineering and the physical sciences, and particularly for those planning to major in physics. Electric and magnetic fields; Coulomb's, Ampere's, and Faraday's laws; special relativity; Maxwell's equations, electromagnetic radiation. Credit is awarded for only one of the following courses: PHYS 0009 , PHYS 0102 , PHYS 0151 , or PHYS 0171 . Students with AP or Transfer Credit for PHYS 0102 or PHYS 0151 who complete PHYS 0171 will thereby surrender the AP or Transfer Credit. Spring Mutually Exclusive: PHYS 0009 , PHYS 0102 , PHYS 0151 Prerequisite: ( MATH 1410 OR MATH 1610 ) AND ( PHYS 0150 OR PHYS 0170 ) AND ( MATH 2400 OR MATH 2600 ) 1.5 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410",
+      "MATH 1610",
+      "PHYS 0150",
+      "PHYS 0170",
+      "MATH 2400",
+      "MATH 2600"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for well-prepared students in engineering and the physical sciences, and particularly for those planning to major in physics."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 1100 Foundations of Data Science",
+    "courseid": "PHYS 1100",
+    "coursedescription": "This is a gateway course in programming, data analysis, and data science in Python appropriate for all College students. The course will cover a range of topics from basic programming, data manipulation, data visualization, randomness, probability, statistics, predictions, interpreting results, and data ethics. Some advanced topics including time-series and image analysis will also be covered. No prior exposure to programming is assumed. Registration for a separate coding lab section is required. Spring Mutually Exclusive: CIS 1050 , ENGL 1670 , PHYS 2260 , STAT 4770 Prerequisite: MATH 1300 1.5 Course Unit",
+    "course-prerequsities": [
+      "MATH 1300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 1230 Principles of Physics III: Vibrations and Waves, Special Relativity, and Thermal Physics",
+    "courseid": "PHYS 1230",
+    "coursedescription": "Vibrations and waves on a string and in other media. Electromagnetic waves including optical phenomena such as refraction, interference and diffraction. Introduction to special relativity including time dilation, length contraction, simultaneity, Lorentz transforms and relativistic energy and momentum. Laws of thermodynamics, gas laws and heat engines. Students are encouraged but not required to take Math 2400 concurrently or in advance. Fall Prerequisite: ( PHYS 0150 OR PHYS 0151 OR PHYS 0170 OR PHYS 0171 ) AND ( MATH 1400 OR MATH 1410 OR MATH 1610 ) Corequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0150",
+      "PHYS 0151",
+      "PHYS 0170",
+      "PHYS 0171",
+      "MATH 1400",
+      "MATH 1410",
+      "MATH 1610"
+    ],
+    "course-corequisites": [
+      "MATH 2400"
+    ],
+    "other": {
+      "notes": [
+        "Fall Prerequisite: ( PHYS 0150 OR PHYS 0151 OR PHYS 0170 OR PHYS 0171 ) AND ( MATH 1400 OR MATH 1410 OR MATH 1610 ) Corequisite: MATH 2400 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 1240 Principles of Physics IV: Modern Physics (without laboratory)",
+    "courseid": "PHYS 1240",
+    "coursedescription": "An introduction to the experimental basis for and principles of quantum mechanics, properties of electrons, protons, neutrons, and the elements of atomic structure and nuclear structure. Electromagnetic radiation and photons; interaction of photons with electrons, atoms, and nuclei. Students are encouraged but not required to take MATH 2410 concurrently or in advance. Spring Prerequisite: ( PHYS 0150 OR PHYS 0151 OR PHYS 0170 OR PHYS 0171 ) AND MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0150",
+      "PHYS 0151",
+      "PHYS 0170",
+      "PHYS 0171",
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 1250 Principles of Physics IV: Modern Physics",
+    "courseid": "PHYS 1250",
+    "coursedescription": "An introduction to the experimental basis for and principles of quantum mechanics, properties of electrons, protons, neutrons, and the elements of atomic structure and nuclear structure. Electromagnetic radiation and photons; interaction of photons with electrons, atoms, and nuclei. Students are encouraged but not required to take MATH 2410 concurrently or in advance. Spring Prerequisite: ( PHYS 0150 OR PHYS 0151 OR PHYS 0170 OR PHYS 0171 ) AND MATH 2400 1.5 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0150",
+      "PHYS 0151",
+      "PHYS 0170",
+      "PHYS 0171",
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 2200 Applied Data Science - Deep Learning and Artificial Intelligence",
+    "courseid": "PHYS 2200",
+    "coursedescription": "This is the second of a two-semester gateway course on programming, data analysis, and data science in Python. This semester will focus on big data, machine learning, and artificial intelligence and we will dive deeper into the practical applications of these data science methodologies using real-world data. Topics covered include supervised and unsupervised machine learning, decision trees, random forests, neural networks, and deep learning. Some modern methods such as transformers and generative AI will also be discussed. Finally, we will explore effective ways of using AI chatbots such as ChatGPT for efficiently building software. Fall Prerequisite: PHYS 1100 AND MATH 1400 (may be taken concurrently) 1.5 Course Unit",
+    "course-prerequsities": [
+      "PHYS 1100",
+      "MATH 1400"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics covered include supervised and unsupervised machine learning, decision trees, random forests, neural networks, and deep learning."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 2260 Introduction to Computational Physics",
+    "courseid": "PHYS 2260",
+    "coursedescription": "This course will familiarize students with computational tools that are utilized to solve common problems that arise in physics. The programming language that will be used in this class is Python. No prior programming knowledge is assumed and the semester will begin with learning basic programming skills. This course will introduce computational methods for graphing and visualization of data, solving integrals, derivatives, systems of linear equations and differential equations. Spring Mutually Exclusive: PHYS 1100 Prerequisite: PHYS 0150 OR PHYS 0151 OR MATH 1410 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0150",
+      "PHYS 0151",
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 2280 Physical Models of Biological Systems",
+    "courseid": "PHYS 2280",
+    "coursedescription": "Classic case studies of successful reductionistic models of complex phenomena, emphasizing the key steps of making estimates, using them to figure out which physical variables and phenomena will be most relevant to a given system, finding analogies to purely physical systems whose behavior is already known, and embodying those in a mathematical model, which is often implemented in computer code. Topics may include bacterial genetics, genetic switches and oscillators; systems that sense or utilize light; superresolution and other newmicroscopy methods; and vision and other modes of sensory transduction. Fall Also Offered As: BCHE 2280 Prerequisite: ( PHYS 0101 OR PHYS 0151 ) AND MATH 1400 AND ( MATH 1410 OR MATH 1610 ) 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0101",
+      "PHYS 0151",
+      "MATH 1400",
+      "MATH 1410",
+      "MATH 1610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 2999 Independent Study",
+    "courseid": "PHYS 2999",
+    "coursedescription": "Special projects and independent study under the direction of faculty member. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3314 Ocean-Atmosphere Dynamics and Implications for Future Climate Change",
+    "courseid": "PHYS 3314",
+    "coursedescription": "This course covers the fundamentals of atmosphere and ocean dynamics, and aims to put these in the context of climate change in the 21st century. Large-scale atmospheric and oceanic circulation, the global energy balance, and the global energy balance, and the global hydrological cycle. We will introduce concepts of fluid dynamics and we will apply these to the vertical and horizontal motions in the atmosphere and ocean. Concepts covered include: hydrostatic law, buoyancy and convection, basic equations of fluid motions, Hadley and Ferrel cells in the atmosphere, thermohaline circulation, Sverdrup ocean flow, modes of climate variability (El-Nino, North Atlantic Oscillation, Southern Annular Mode). The course will incorporate student led discussions based on readings of the 2007 Intergovernmental Panel on Climate Change (IPCC) report and recent literature on climate change. Aimed at undergraduate or graduate students who have no prior knowledge of meteorology or oceanography or training in fluid mechanics. Previous background in calculus and/or introductory physics is helpful. This is a general course which spans many subdisciplines (fluid mechanics, atmospheric science, oceanography, hydrology). Spring, even numbered years only Also Offered As: EESC 4336 Mutually Exclusive: EESC 6336 Prerequisite: MATH 1410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3351 Analytical Mechanics",
+    "courseid": "PHYS 3351",
+    "coursedescription": "An intermediate course in the statics and dynamics of particles and rigid bodies. Langrangian dynamics, central forces, non-inertial reference frames, and rigid bodies. Spring Prerequisite: (( PHYS 0150 AND PHYS 0151 ) OR ( PHYS 0170 AND PHYS 0171 )) AND ( MATH 1400 OR MATH 1410 ) AND MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0150",
+      "PHYS 0151",
+      "PHYS 0170",
+      "PHYS 0171",
+      "MATH 1400",
+      "MATH 1410",
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3358 Data Analysis for the Natural Sciences I: Fundamentals",
+    "courseid": "PHYS 3358",
+    "coursedescription": "This is a course on the fundamentals of data analysis and statistical inference for the natural sciences. Topics include probability distributions, linear and non-linear regression, Monte Carlo methods, frequentist and Bayesian data analysis, parameter and error estimation, Fourier analysis, power spectra, and signal and image analysis techniques. Students will obtain both the theoretical background in data analysis and also get hands-on experience analyzing real scientific data. Prerequisite: Prior programming experience. Fall, even numbered years only Prerequisite: MATH 2400 AND PHYS 2260 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "PHYS 2260"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3359 Data Analysis for the Natural Sciences II: Machine Learning",
+    "courseid": "PHYS 3359",
+    "coursedescription": "This is a course on data analysis and statistical inference for the natural sciences focused on machine learning techniques. The main topics are: Review of modern statistics, including probability distribution functions and their moments, conditional distributions and Bayes' theorem, parameter estimation, Markov chains; Fundamentals of machine learning, including training/validation samples, cross-validation, supervised vs. unsupervised learning, regularization and resampling methods, tree-based methods, support vector machines, neural networks, deep learning and image analysis with convolutional neural networks. Students will obtain both the theoretical background in data analysis and get hands-on experience analyzing real scientific data. This course forms a two-course sequence with PHYS 3358 . Students must also have prior programming experience in python. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3361 Electromagnetism I: Electricity and Potential Theory",
+    "courseid": "PHYS 3361",
+    "coursedescription": "First term course in intermediate electromagnetism. Topics include electrostatics, static potential theory, multipole expansions, Laplace equation, image solutions, fields in polarized matter. Fall Prerequisite: ( PHYS 0151 OR PHYS 0171 ) AND MATH 2410 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0151",
+      "PHYS 0171",
+      "MATH 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3362 Electromagnetism II: Magnetism, Maxwell's Equations, and Electromagnetic Waves",
+    "courseid": "PHYS 3362",
+    "coursedescription": "Second term course in intermediate electromagnetism. Topics include magnetostatic forces and fields, magnetized media, Maxwell's equations, Poynting and stress theorems, free field solutions to Maxwell's equations, and radiation from separable and nonseparable time dependent charge and current distributions. Spring Prerequisite: PHYS 3361 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 3361"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 3364 Laboratory Electronics",
+    "courseid": "PHYS 3364",
+    "coursedescription": "A laboratory-intensive survey of analog and digital electronics, intended to teach students of physics or related fields enough electronics to be effective in experimental research and to be comfortable learning additional topics from reference textbooks. Analog topics include voltage dividers, impedance, filters, operational amplifier circuits, and transistor circuits. Digital topics may include logic gates, finite-state machines, programmable logic devices, digital-to-analog and analog-to-digital conversion, and microcomputer concepts. Recommended for students planning to do experimental work in physical science. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for students planning to do experimental work in physical science."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 3370 Order of magnitude Physics: the art of approximation",
+    "courseid": "PHYS 3370",
+    "coursedescription": "This course focuses on the art of estimating physical quantities. Problem solving techniques such as dimensional analysis, symmetry principles and scaling relations will be covered and applied to a range of topics including fluid mechanics, waves and sound, material properties, astrophysics, design principles of living organisms, and how to handle complexity. The course will teach tools for discarding less important aspects of a problem and for selecting the essential ones. The course is intended for undergraduate students with background in advanced first-year physics: mechanics, electromagnetism, waves and optics. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4401 Thermodynamics and the Introduction to Statistical Mechanics and Kinetic Theory",
+    "courseid": "PHYS 4401",
+    "coursedescription": "Entropy, temperature, and introduction to ensemble theory, distribution functions, and phase transitions. Fall Prerequisite: PHYS 1240 OR PHYS 1250 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 1240",
+      "PHYS 1250"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4411 Introduction to Quantum Mechanics I",
+    "courseid": "PHYS 4411",
+    "coursedescription": "An introduction to the principles of quantum mechanics designed for physics majors and graduate students in physics-related disciplines. The Schrodinger equation operator formalism, central field problem, angular momentum, and spin.Application to one-dimensional and central field problems. Fall Prerequisite: ( PHYS 0150 OR PHYS 0170 ) AND ( PHYS 1240 OR PHYS 1250 ) AND ( MATH 2400 OR MATH 2600 ) 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0150",
+      "PHYS 0170",
+      "PHYS 1240",
+      "PHYS 1250",
+      "MATH 2400",
+      "MATH 2600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4412 Introduction to Quantum Mechanics II",
+    "courseid": "PHYS 4412",
+    "coursedescription": "Perturbation theory, variational principle, application of the quantum theory to atomic, molecular, and nuclear systems, and their interaction with radiation. Spring Prerequisite: PHYS 4411 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 4411"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4414 Laboratory in Modern Physics",
+    "courseid": "PHYS 4414",
+    "coursedescription": "In this course you will have the opportunity to do a variety of experiments, ranging from \"classic experiments\" such as measuring G with a torsion balance, determining the relativistic mass of the electron, and muon lifetime, to experiments studying atomic spectroscopy, NMR, Optical pumping, Mossbauer effect, nuclear energy levels, interaction of gamma rays with matter, single photon interference, and magnetic susceptibility. There are also experiments using a High-Tc superconducting tunnel junction and a PET scanner. You will learn basic statistics, become proficient in analysis using Python, acquire an understanding of systematic errors, and learn how to write a professional report. Many of the laboratories provide excellent opportunities to exercise, and expand upon, the knowledge you have gained in your physics courses. Spring Prerequisite: PHYS 1250 OR PHYS 4411 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 1250",
+      "PHYS 4411"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4421 Modern Optics",
+    "courseid": "PHYS 4421",
+    "coursedescription": "Interaction of light with matter. Traditional imaging and polarization optics. Interference, diffraction, coherence, absorption, dispersion, spectroscopy, stimulated emission, introduction to lasers and non-linear processes. Not Offered Every Year Prerequisite: ( PHYS 1240 OR PHYS 1250 ) AND PHYS 3362 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 1240",
+      "PHYS 1250",
+      "PHYS 3362"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 4498 Senior Honor Thesis",
+    "courseid": "PHYS 4498",
+    "coursedescription": "Experimental and theoretical research projects in various areas of physics planned by student in consultation with a member of faculty. A journal-style written thesis is required. Fall or Spring Prerequisite: PHYS 4412 AND PHYS 4414 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 4412",
+      "PHYS 4414"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5500 Mathematical Methods of Physics",
+    "courseid": "PHYS 5500",
+    "coursedescription": "A discussion of those concepts and techniques of classical analysis employed inphysical theories. Topics include complex analysis. Fourier series and transforms, ordinary and partial equations, Hilbert spaces, among others. Fall Also Offered As: MATH 5940 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5501 Introduction to Research",
+    "courseid": "PHYS 5501",
+    "coursedescription": "Introduction to research in particle, nuclear, condensed matter and astrophysics. Selected current topics from journals. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "PHYS 5503 General Relativity",
+    "courseid": "PHYS 5503",
+    "coursedescription": "This is a graduate level, introductory course in general relativity. The basics of general relativity will be covered with a view to understanding the mathematical background, the construction of the theory, and applications to the solar system, black holes, gravitational waves and cosmology. The latter part of the course will cover some of the basic modern topics in modern cosmology, including the current cosmological model, the accelerating universe, and open questions driving current research. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5505 Introduction to Cosmology",
+    "courseid": "PHYS 5505",
+    "coursedescription": "Introduction to physical cosmology emphasizing recent ideas on the very early evolution of the universe. The course will introduce standard big bang cosmology, new theories of the very early universe, and the key observations that have tested and will be testing these ideas. No prior knowledge of astrophysics, cosmology, general relativity, or particle physics will be assumed, although aspects of each will be introduced as part of the course. The course is intended for graduate students and advanced undergraduates. Spring, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5516 Electromagnetic Phenomena",
+    "courseid": "PHYS 5516",
+    "coursedescription": "Survey of electrodynamics, focusing on applications to research done in the Department. Topics include mathematical structure and relativistic invariance properties of Maxwell equations, tensor methods, and the generation and scattering of radiation, in vacuum and in materials. Applications vary from year to year but include optical manipulation, astrophysical phenomena, and the generalizations from Maxwell's theory to those of other fundamental interactions (strong, electroweak, and gravitational forces). Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5517 Particle Cosmology",
+    "courseid": "PHYS 5517",
+    "coursedescription": "This introduction to cosmology will cover standard big bang cosmology, formation of large-scale structure, theories of the early universe and their observational predictions, and models of dark energy. It is intended for graduate students or advanced undergraduates. No prior knowledge of general relativity or field theory will be assumed, although aspects of each will be introduced as part of the course. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5518 Introduction to Condensed Matter Physics",
+    "courseid": "PHYS 5518",
+    "coursedescription": "An introduction to condensed matter physics designed primarily for advanced undergraduate and graduate students desiring a compact survey of the field. Band theory of solids, phonons, electrical magnetic and optical properties of matter, and superconductivity. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5521 Advanced Laboratory",
+    "courseid": "PHYS 5521",
+    "coursedescription": "In this course you will have the opportunity to do a variety of experiments, ranging from \"classic experiments\" such as measuring G with a torsion balance, determining the relativistic mass of the electron, and muon lifetime, to experiments studying atomic spectroscopy, NMR, Optical pumping, Mossbauer effect, nuclear energy levels, interaction of gamma rays with matter, single photon interference, and magnetic susceptibility. There are also experiments using a High-Tc superconducting tunnel junction and a PET scanner. You will learn basic statistics, become proficient in analysis using Python, acquire an understanding of systematic errors, and learn how to write a professional report. Many of the laboratories provide excellent opportunities to exercise, and expand upon, the knowledge you have gained in your physics courses. Spring Prerequisite: PHYS 1250 OR PHYS 4411 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 1250",
+      "PHYS 4411"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5522 Introduction to Elementary Particle Physics",
+    "courseid": "PHYS 5522",
+    "coursedescription": "An introduction to elementary particles (photons, leptons, hadrons, quarks), their interactions, and the unification of the fundamental forces. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5526 Astrophysical Radiation",
+    "courseid": "PHYS 5526",
+    "coursedescription": "This is a course on the theory of the interaction of light and matter designed primarily for graduate and advanced undergraduate students to build the basic tools required to do research in astrophysics. Topics to be discussed include structure of single- and multi-electron atoms, radiative and collisional processes, spectral line formation, opacity, radiation transfer, analytical and numerical methods, and a selection of applications in astrophysics based on student research interest. Fall, even numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics to be discussed include structure of single- and multi-electron atoms, radiative and collisional processes, spectral line formation, opacity, radiation transfer, analytical and numerical methods, and a selection of applications in astrophysics based on student research interest."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 5528 Introduction to Liquid Crystals",
+    "courseid": "PHYS 5528",
+    "coursedescription": "Overview of liquid crystalline phases, their elasticity, topology, and dynamics. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5529 Modern Optics",
+    "courseid": "PHYS 5529",
+    "coursedescription": "Interaction of light with matter. Traditional imaging and polarization optics. Interference, diffraction, coherence, absorption, dispersion, spectroscopy, stimulated emission, introduction to lasers and non-linear processes. Spring, even numbered years only Prerequisite: ( PHYS 1240 OR PHYS 1250 ) AND PHYS 3362 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 1240",
+      "PHYS 1250",
+      "PHYS 3362"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5530 Modern Optical Physics and Spectroscopy",
+    "courseid": "PHYS 5530",
+    "coursedescription": "Introduction to contemporary optics. Topics include propagation and guiding of light waves, interaction of electromagnetic radiation with matter, lasers, non-linear optics, coherent transcient phenomena, photon correlation spectroscopies and photon diffusion. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5531 Quantum Mechanics I",
+    "courseid": "PHYS 5531",
+    "coursedescription": "Graduate-level introduction to quantum theory. Topics covered include the postulates of quantum mechanics, unitary operators, time evolution and Schrodinger's equation, theory of angular momentum, density matrices, and Bell's inequalities. Other topics may include semi-classical (WKB) approximation, bound state techniques, periodic potentials and resonance phenomena. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5532 Quantum Mechanics II",
+    "courseid": "PHYS 5532",
+    "coursedescription": "Continuation of PHYS 5531 . Topics covered include the path integral formulation, symmetries in quantum mechanics, scattering theory, and decoherence. Other topics may include time independent and time dependent perturbation theory, and atomic and molecular systems. Spring Prerequisite: PHYS 5531 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 5531"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5533 Topics in Cosmology",
+    "courseid": "PHYS 5533",
+    "coursedescription": "This course aims to survey three or four topics of current research interest in cosmology, mostly at the level of review articles. The topics will be covered in greater depth and with more connections to ongoing research than an introductory cosmology course. The course will be largely accessible to first and second year graduate students. Some exposure to cosmology and general relativity will be helpful but the first two weeks will attempt to bridge that gap. The topic selection will be done in part with input from the students. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course aims to survey three or four topics of current research interest in cosmology, mostly at the level of review articles."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 5561 Electromagnetism I",
+    "courseid": "PHYS 5561",
+    "coursedescription": "First term course in intermediate electromagnetism. Topics include electrostatics, static potential theory, multipole expansions, Laplace equation, image solutions, fields in polarized matter. Fall Prerequisite: ( PHYS 0151 OR PHYS 0171 ) AND MATH 2410 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0151",
+      "PHYS 0171",
+      "MATH 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5562 Electromagnetism II: Magnetism, Maxwell's Equations, and Electromagnetic Waves",
+    "courseid": "PHYS 5562",
+    "coursedescription": "Second term course in intermediate electromagnetism. Topics include magnetostatic forces and fields, magnetized media, Maxwell's equations, Poynting and stress theorems, free field solutions to Maxwell's equations, and radiation from separable and nonseparable time dependent charge and current distributions. Spring Prerequisite: PHYS 3361 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 3361"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5564 Laboratory Electronics",
+    "courseid": "PHYS 5564",
+    "coursedescription": "A laboratory-intensive survey of analog and digital electronics, intended to teach students of physics or related fields enough electronics to be comfortable learning additional topics on their own from a reference such as Horowitz and Hill. Specific topics will vary from year to year from the selection of topics listed below. Analog topics may include voltage dividers, impedance, filters, operational amplifier circuits, and transistor circuits. Digital topics may include logic gates, finite-state machines, programmable logic devices, digital-to-analog and analog-to-digital conversion, and microcomputer concepts. Recommended for students planning to do experimental work in physical science. Prerequisite: Familiarity with electricity and magnetism at the level of PHYS 0102 , PHYS 0141 , PHYS 0151 , and PHYS 0171 . Fall or Spring 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0102",
+      "PHYS 0141",
+      "PHYS 0151",
+      "PHYS 0171",
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for students planning to do experimental work in physical science."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 5566 Machine Learning Methods in Natural Science Modeling",
+    "courseid": "PHYS 5566",
+    "coursedescription": "This is a course for PhD students in natural sciences with interests in applying latest machine learning and AI approaches to their problem domains. The course will consist of directed readings and covering available tutorials with weekly discussions. The goal is to motivate mutual self-learning through guided discussions. Weekly participation and completion of readings or other assigned materials is essential and lack of attendance will be graded. Topics to be covered will be decided after the first meeting. Prerequisites: multivariate calculus, linear algebra, statistics, and probability. Not Offered Every Year Also Offered As: BIOL 5566 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 5566"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This is a course for PhD students in natural sciences with interests in applying latest machine learning and AI approaches to their problem domains."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 5570 Physical networks: living matter to data science",
+    "courseid": "PHYS 5570",
+    "coursedescription": "Physics, engineering, and biology are rife with examples of physical, or material, networks, such as mechanical networks, resistor networks, and flow networks. In these structures, the networks are geometrically embedded, and the physical limitation of space, the position of the nodes, is an important consideration. This course provides an introduction to such systems. The course will cover the basic mathematical tools for network theory, graph theory, and the physics of flow and mechanical networks. Specific systems of great relevance to physics, engineering, and biology, such as mechanical (spring) networks, force chains in jammed packings, the cytoskeleton and other intercellular structural networks, (biological) flow networks, resistor networks, and truss systems will be discussed, as well as dynamics and optimization as applied to these structures. Since these networks are typically complex, the second part of the course will cover a broad array of data analytic techniques to characterize and quantify these structures, such as topological data analysis (TDA) and machine learning. Spring, even numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5580 Biological Physics",
+    "courseid": "PHYS 5580",
+    "coursedescription": "The course will explore the basic physical principles behind the structure and function of life across many length and time scales (molecule, cell, organism, population). Emphasis will be given on overarching physical themes such as entropy and biological noise, and how they affect the organization of living matter and its emergent properties. Topics may include biopolymers and single molecule biophysics, molecular motors, gene and transcription networks, pattern formation in biological systems, phyllotaxis, neural computing and evolution. Not Offered Every Year Prerequisite: MATH 2400 AND MATH 2410 AND PHYS 4401 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "MATH 2410",
+      "PHYS 4401"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5581 Thermodynamics",
+    "courseid": "PHYS 5581",
+    "coursedescription": "Entropy, temperature, and introduction to ensemble theory, distribution functions, and phase transitions. Fall Prerequisite: PHYS 1240 OR PHYS 1250 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 1240",
+      "PHYS 1250"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 5585 Theoretical and Computational Neuroscience",
+    "courseid": "PHYS 5585",
+    "coursedescription": "This course will develop theoretical and computational approaches to structural and functional organization in the brain. The course will cover: (i) the basic biophysics of neural responses, (ii) neural coding and decoding with an emphasis on sensory systems, (iii) approaches to the study of networks of neurons, (iv) models of adaptation, learning and memory, (v) models of decision making, and (vi) ideas that address why the brain is organized the way that it is. The course will be appropriate for advanced undergraduates and beginning graduate students. A knowledge of multi-variable calculus, linear algebra and differential equations is required (except by permission of the instructor). Prior exposure to neuroscience and/or Matlab programming will be helpful. Spring Also Offered As: BE 5300 , NGG 5940 , NRSC 5585 , PSYC 5390 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A knowledge of multi-variable calculus, linear algebra and differential equations is required (except by permission of the instructor)."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 5598 Senior Honors Thesis for Submatriculants",
+    "courseid": "PHYS 5598",
+    "coursedescription": "Experimental and theoretical research projects in various areas of physics planned by student in consultation with a member of faculty. A journal-style written thesis is required. This course is the graduate-level version of PHYS4498 for students who are submatriculating in Physics and counting this course towards that requirement. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 6601 Introduction to Field Theory",
+    "courseid": "PHYS 6601",
+    "coursedescription": "Elementary relativistic quantum field theory of scalar, fermion, and Abelian gauge fields. Feynman Diagrams. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 6611 Statistical Mechanics",
+    "courseid": "PHYS 6611",
+    "coursedescription": "Introduction to the canonical structure and formulation of modern statistical mechanics. The thermodynamic limit. Entropic and depletion forces. Gas and liquid theory. Phase transitions and critical phenomena. The virial expansion. Quantum statistics. Path integrals, the Fokker-Planck equation and stochastic processes. Fall Prerequisite: PHYS 4401 AND PHYS 5531 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 4401",
+      "PHYS 5531"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 6612 Advanced Statistical Mechanics",
+    "courseid": "PHYS 6612",
+    "coursedescription": "In depth study of classical and quantum lattice spin models, perturbation techniques, and the renormalization group. Not Offered Every Year Prerequisite: PHYS 6611 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 6611"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 6622 Introduction to Elementary Particle Physics",
+    "courseid": "PHYS 6622",
+    "coursedescription": "Introduction to the phenomenology of elementary particles, strong and weak interactions, symmetries. Not Offered Every Year Prerequisite: PHYS 6601 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 6601"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 6632 Relativistic Quantum Field Theory",
+    "courseid": "PHYS 6632",
+    "coursedescription": "Advanced topics in field theory, including renormalization theory. Not Offered Every Year Prerequisite: PHYS 6601 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 6601"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 6633 Relativistic Quantum Field Theory",
+    "courseid": "PHYS 6633",
+    "coursedescription": "A continuation of PHYS 6632 , dealing with non-Abelian gauge theories. Not Offered Every Year Prerequisite: PHYS 6632 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 6632"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 6661 Solid State Theory I",
+    "courseid": "PHYS 6661",
+    "coursedescription": "This course is intended to be an introductory graduate course on the physics of solids, crystals and liquid crystals. There will be a strong emphasis on the use and application of broken and unbroken symmetries in condensed matter physics. Topics covered include superconductivity and superfluidity. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 6662 Solid State Theory II",
+    "courseid": "PHYS 6662",
+    "coursedescription": "A continuation of PHYS 6661 . Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHYS 6696 Advanced Topics in Theoretical Physics",
+    "courseid": "PHYS 6696",
+    "coursedescription": "This course aims to survey three or four topics of current research interest in Theoretical Physics. The topics will be covered in greater depth and with more connections to ongoing research. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course aims to survey three or four topics of current research interest in Theoretical Physics."
+      ]
+    }
+  },
+  {
+    "coursename": "PHYS 9900 Masters Thesis",
+    "courseid": "PHYS 9900",
+    "coursedescription": "Masters Thesis Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "PHYS 9950 Dissertation",
+    "courseid": "PHYS 9950",
+    "coursedescription": "Dissertation Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "PHYS 9999 Independent Study",
+    "courseid": "PHYS 9999",
+    "coursedescription": "Independent Study Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-3 Course Units"
+    }
+  }
+]

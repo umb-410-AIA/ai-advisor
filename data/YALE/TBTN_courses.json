@@ -1,0 +1,89 @@
+[
+  {
+    "coursename": "TBTN 1100a, Elementary Classical Tibetan I Staff",
+    "courseid": "TBTN 1100a",
+    "coursedescription": "First half of a two-term introduction to classical Tibetan. The script and its Romanization, pronunciation, normative dictionary order, and basic grammar. Readings from Tibetan literature and philosophy. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L1 1½ Course cr MW 4:10pm-6pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "TBTN 1200b, Elementary Classical Tibetan II Staff",
+    "courseid": "TBTN 1200b",
+    "coursedescription": "Second half of a two-term introduction to classical Tibetan. The script and its Romanization, pronunciation, normative dictionary order, and basic grammar. Readings from Tibetan literature and philosophy. Prerequisite: TBTN 110 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L2 1½ Course cr MW 4:10pm-6pm",
+    "course-prerequsities": [
+      "TBTN 110",
+      "L2",
+      "MW 4"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* TBTN 1300a, Intermediate Classical Tibetan I Staff",
+    "courseid": "TBTN 1300a",
+    "coursedescription": "Continuation of TBTN 120. Introduction to more complex grammatical constructions. Further development of reading ability in various genres of Tibetan literature written prior to 1959. Prerequisite: TBTN 120 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information. L3 RP 1½ Course cr TTh 2:10pm-4pm",
+    "course-prerequsities": [
+      "TBTN 120",
+      "L3",
+      "TTH 2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* TBTN 1400b, Intermediate Classical Tibetan II Staff",
+    "courseid": "TBTN 1400b",
+    "coursedescription": "Continuation of TBTN 130. Complex grammatical constructions. Further development of reading ability in various genres of Tibetan literature written prior to 1959. Prerequisite: TBTN 130 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information. L4 RP 1½ Course cr TTh 2:10pm-4pm",
+    "course-prerequsities": [
+      "TBTN 130",
+      "L4",
+      "TTH 2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "TBTN 1500a, Advanced Classical Tibetan I Staff",
+    "courseid": "TBTN 1500a",
+    "coursedescription": "This two-semester sequence, of which this class is the first half, is designed to assist students who already have the equivalent of at least two-years of Classical Tibetan language study. The course is intended to build on this foundation so that students gain greater proficiency in reading a variety of classical Tibetan writing styles and genres, including texts relevant to their research. The course readings focus primarily on texts written during the Ganden Phodrang period up through the 19th century. Over two semesters, the class covers three sets of materials: 1) famous or otherwise influential classical works (mostly historical, some literary); 2) important historical texts that have come to light in recent years but are scarcely known in western scholarship; and 3) classical language texts that support the research needs of enrolled students. Classical Tibetan grammar and other conventions are identified and discussed in the course of the readings. Prerequisite: TBTN 140, or equivalent. L5 RP TTh 12:10pm-2pm",
+    "course-prerequsities": [
+      "TBTN 140",
+      "L5",
+      "TTH 12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TBTN 1600b, Advanced Classical Tibetan II Staff",
+    "courseid": "TBTN 1600b",
+    "coursedescription": "This is the second half of the two-semester class that is designed to assist students who already have the equivalent of at least two-years of Classical Tibetan language study. The course is intended to build on this foundation so that students gain greater proficiency in reading a variety of classical Tibetan writing styles and genres, including texts relevant to their research. The course readings focus primarily on texts written during the Ganden Phodrang period up through the 19th century. Over the two semesters, the class covers three sets of materials: 1) famous or otherwise influential classical works (mostly historical, some literary); 2) important historical texts that have come to light in recent years but are scarcely known in western scholarship; and 3) classical language texts that support the research needs of the enrolled students. Classical Tibetan grammar and other conventions are identified and discussed in the course of the readings. Depending on student interest, we will draw from a range of historical and literary genres: poetry ( snyan ngag ), biographies ( rnam thar ), avadanas ( rtogs brjod ), religious histories ( chos ’byung ), administrative documents ( gzhung yig ), epistolary writings (e.g. chab shog ), etc. Students also gain facility in kāvya-derived ornamental vocabulary and rhetorical devices. Prerequisite: L5, or equivalent. L5 RP TTh 12:10pm-2pm",
+    "course-prerequsities": [
+      "L5",
+      "TTH 12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Depending on student interest, we will draw from a range of historical and literary genres: poetry ( snyan ngag ), biographies ( rnam thar ), avadanas ( rtogs brjod ), religious histories ( chos ’byung ), administrative documents ( gzhung yig ), epistolary writings (e.g."
+      ]
+    }
+  }
+]

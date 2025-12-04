@@ -1,0 +1,95 @@
+[
+  {
+    "coursename": "SOCW 6300 Quantitative Reasoning/Social Statistics",
+    "courseid": "SOCW 6300",
+    "coursedescription": "This course provides an introduction to statistical inference. We will learn the fundamental tools of data science and apply them to a wide range of social science and policy-oriented questions. The objective of the course is to develop two broad skill sets: (1) an understanding of the conceptual foundations for why we might manage or analyze data in one way versus another, and (2) learning the computing and programming tools (using R) to manage, visualize, and analyze data. The topics covered in the course include descriptive statistics, measure of association for categorical and continuous variables, introduction to t-tests, ANOVA and linear regression, research design (e.g., sampling, measurement, and causal inference), and the language of data analysis. Students will learn how to apply statistical tools to data sources, to design research studies, to test hypotheses, and to interpret the results of quantitative studies. The lecture focuses on the conceptual foundations of statistical inference; R programming instruction is covered in the weekly lab sections. Fall Also Offered As: MSSP 6300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCW 8030 Advanced History and Philosophy of Social Welfare",
+    "courseid": "SOCW 8030",
+    "coursedescription": "The course discusses the emergence of the welfare state and its development, the structural and ideological forces that have shaped and challenged it. We will examine the historical contexts and discuss how the different philosophical and ideological positions are influenced by diverse class, gender racial, ethnic, and cultural perspectives. Integrated throughout the discussions long standing conflicts and tensions in the field such as the role of social responsibility vs. social control vs. social exclusion based on race, ethnicity, and gender, how needs are recognized and determined, the nature of helping, perspectives on social justice and charity, the professional role of social workers, and organizational arrangements for social work and social welfare. To understand the US welfare state, we will also use a comparative, cross-national and multicultural lens. The course is to help students gain a critical understanding of social welfare taking a historical lens. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCW 8110 Social Theory",
+    "courseid": "SOCW 8110",
+    "coursedescription": "Course reading consists of the original works of theorists who offer classical, contemporary and postmodern perspectives on social thought, social interaction and issues germane to social welfare. Through intensive examination of multiple theoretical frameworks, students are expected to increase their analytical and critical orientation to theory. This more nuanced understanding about epistemology, underlying assumptions, and theory construction can then be used to inform the student's substantive field of study and methodological orientation to research. This course is conducted in mixed lecture-seminar format. Students have the opportunity to practice pedagogical techniques and exercise class leadership. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCW 8520 Social Welfare Research Methods",
+    "courseid": "SOCW 8520",
+    "coursedescription": "This course is designed to provide the students with knowledge about the scientific method, theory construction, and the relationship of theory to research. Students will learn the steps involved in designing a research proposal, including problem formulation, the development of conceptual frameworks, researchable questions, hypothesis development, justification and significance of the research study, research designs, instrument construction, measurement issues, sampling procedures, and ethical issues involved in research. Various types of experimental, quasi-experimental, and non-experimental designs will be presented. Specific methods such as survey research, single system design, and evaluation research will be covered. The course will deal with issues related to the feasibility and practicality of designing, implementing, and conducting proposed research. Students will understand the connection between this course and their required statistics, theory, and policy analysis courses. By the end of the course, students will know how to design a sound scientific research study that is ethical, practical, and feasible. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCW 8550 Advanced Social Welfare Research Methods",
+    "courseid": "SOCW 8550",
+    "coursedescription": "The course is intended to augment and fine tune what students already know about the design, development, and execution of sound scientific practices. Emphasis will be placed on greater depth in areas of sampling, measurement, proposal writing and special topics. Topics that will be included are practical sampling design, question formation, questionnaire/interview construction and format, scaling, critiquing proposals, budget development, budget justification, timelines, etc. In addition, special topics to be covered will be randomized clinical trials (RCTs), fidelity assessment, treatment manuals, meta-analysis and systematic reviews, evidence-based practice, comparative effectiveness, translational & implementation science, community based participatory research, qualitative methods, and mixed methodology. Class discussion will involve critiquing students’ own research proposals, NIH funded research proposals, and published literature in peer reviewed journals. The class will focus on the application of research methodology to increase the student’s understanding of the tradeoffs and limitations of various designs within the parameters of naturalistic settings. The importance of balancing rigorous scientific methods with ethics, practicality, and feasibility to answer important questions for social work practice and social welfare policy will be emphasized. This course will be conducted in a seminar format (not a lecture) where each student is expected to discuss the topic for the week. One student will take responsibility for leading the discussion on the topic(s) for a given class and will also have half a class session devoted to their own research topic to seek classmates input. Spring Prerequisite: SOCW 8520 1 Course Unit",
+    "course-prerequsities": [
+      "SOCW 8520"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCW 8610 Advanced Policy Analysis Research Methods",
+    "courseid": "SOCW 8610",
+    "coursedescription": "This course examines how policy research methods are applied to the study of contemporary social issues. The course is intended for students with a basic knowledge of regression, and will be especially useful for students with practical experience in a policy setting who want to learn about advanced research methods. The course begins by exploring policy analysis frameworks, and the contexts of social policy and social policy research. The remainder of the course explores a variety of common approaches to the conduct of social policy research by looking at the types of questions social policy analysts most frequently ask, and the types of answers that they are most often able to provide. The policy analysis approaches we will examine include: needs assessment methodologies (e.g. the “epidemiology” of social problems); analyses of client-level service utilization patterns (e.g. creating “typologies”); modeling trends in demand for services over time (e.g. forecasting); locational and other spatial factors associated with need, service use, and resource allocation decisions (e.g. block grant formula funding); machine learning (e.g. predictive analytics); the roles of qualitative research methods in policy research; comparative research on social welfare policy; performance management applications of administrative data; and longitudinal, multisectoral research using integrated administrative data systems. The application of these various methods is illustrated with studies of mental health, homelessness, criminal justice, child welfare, housing and segregation, welfare reform, income inequality and social service planning. Students participate as discussants of weekly readings, and as presenters of an assigned paper. Fall Also Offered As: MSSP 8610 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCW 8970 Applied Linear Modeling",
+    "courseid": "SOCW 8970",
+    "coursedescription": "This course deals with how to critically and responsibly model real-world data to answer social science, education, and social policy-related questions, using the framework of the general linear model. Linear modeling (which, in statistics, is synonymous with regression analysis) is the workhorse of much of quantitative social science and, despite its enormous flaws and powerful limitations (which this course will also cover!), it remains an important tool to understand and be able to use. The course builds up multiple regression from correlation and bi-variate regression, and then covers categorical independent variables, nonlinear transformations and polynomial terms, diagnostic checks, model-building and model iteration, interaction effects, mediation analysis, and logistic regression. Mathematical (e.g., Gauss-Markov) assumptions are covered but the emphasis is on deeper epistemic assumptions and more immediate practical limitations. While not covered in detail, pointers will be given to techniques for specific types of data (especially multilevel modeling for nested data) and to important modern developments (especially structural causal modeling, non-parametrics, and machine learning). Throughout, the course will return to and emphasize critiques of linear modeling, to encourage students to be able to use (or choose not to use and oppose) regression analysis rigorously, critically, and responsibly. The course will be taught using R. This course includes an introduction to R. Background in R or in programming is not strictly necessary for this course but it is helpful. Prerequisite: MSSP 6300 Quantitative Reasoning/Social Statistics, or another Introductory graduate statistics course. Fall or Spring Also Offered As: MSSP 8970 Prerequisite: MSSP 6300 1 Course Unit",
+    "course-prerequsities": [
+      "MSSP 6300",
+      "MSSP 8970"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCW 8990 Independent Study",
+    "courseid": "SOCW 8990",
+    "coursedescription": "Independent study allows students to pursue academic interests not available in regularly offered courses. Fall or Spring 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Independent study allows students to pursue academic interests not available in regularly offered courses."
+      ]
+    }
+  },
+  {
+    "coursename": "SOCW 9010 Proseminar",
+    "courseid": "SOCW 9010",
+    "coursedescription": "Four terms of Proseminar—once weekly, 90-minute (.5 course unit) courses—are required of all students, to be taken (usually) during the first two years of the program. The overall purpose of the proseminar is the facilitation of doctoral students’ socialization to academic and research careers. The specific content of the course—a mix of sessions designed to enhance the development of a variety of skills and capacities necessary for students’ success as scholars, teachers, and colleagues— will vary across the four semesters. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "SOCW 9950 Dissertation Status",
+    "courseid": "SOCW 9950",
+    "coursedescription": "All students on dissertation status are registered for year-long dissertation status courses. These courses will receive a temporary mark of PR in the fall to indicate the course is in progress and a permanent mark of S (satisfactory progress) or U (unsatisfactory) at the end of the spring semester (or fall semester if that is the student’s last enrolled term). The mark will be a reflection of the evaluation by the Graduate Group of the student’s progress based, in part, on the student’s Annual Progress Report. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  }
+]

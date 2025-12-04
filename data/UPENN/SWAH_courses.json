@@ -1,0 +1,111 @@
+[
+  {
+    "coursename": "SWAH 0100 Elementary Swahili I",
+    "courseid": "SWAH 0100",
+    "coursedescription": "The Elementary Swahili I course can be taken to fulfill a language requirement, or for linguistic preparation to do research on East Africa/Africa-related topics. The course emphasizes communicative compentence to enable the students to acquire linguistic and extra-linguistic skills in Swahili. The content of the course is selected from various everyday life situations to enable the students to communicate in predictable common daily settings. Culture, as it relates to language use, is also part of the course content. Students will acquire the speaking, listening, reading, and writing skills at the mid-high novice level, based on the ACTFL scale. The mid-high level proficiency skills that the students will acquire constitute threshold capabilities of the second semester range of proficiency to prepare students for Elementary Swahili II course materials. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 0200 Elementary Swahili II",
+    "courseid": "SWAH 0200",
+    "coursedescription": "This course continues to introduce basic grammar, vocabulary, and the reading and writing of Swahili to new speakers. During this term, folktales, other texts, and film selections are used to help introduce important aspects of Swahili culture and the use of the language in wide areas of Africa. Spring Prerequisite: SWAH 0100 1 Course Unit",
+    "course-prerequsities": [
+      "SWAH 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 0300 Intermediate Swahili I",
+    "courseid": "SWAH 0300",
+    "coursedescription": "The objectives of this course are: to strengthen students' knowledge of speaking, listening, reading, and writing Swahili and to compare it with the language of the students; to learn more about the cultures of East Africa and to compare it with the culture(s) of the students; to consider the relationship between that knowledge and the knowledge of other disciplines; and using that knowledge, to unite students with communities outside of class. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 0400 Intermediate Swahili II",
+    "courseid": "SWAH 0400",
+    "coursedescription": "At the end of the course students will be at Level 2 on the ILR (Interagency Language Roundtable) scale. Spring Prerequisite: SWAH 0300 1 Course Unit",
+    "course-prerequsities": [
+      "SWAH 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 1100 Advanced Swahili I",
+    "courseid": "SWAH 1100",
+    "coursedescription": "This is an advanced Kiswahili course which will engage learners in extended spoken and written discourse. Advanced learners of Kiswahili will listen to, read about, write and speak on authentic video materials, contemporary novels, and newspapers. They will also participate in various discussions on cultural and political issues. Fall Prerequisite: SWAH 0300 1 Course Unit",
+    "course-prerequsities": [
+      "SWAH 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 1200 Advanced Swahili II",
+    "courseid": "SWAH 1200",
+    "coursedescription": "The objectives are to continue to strengthen students' knowledge of speaking, listening, reading, and writing Swahili and to compare it with the language of the students; to continue learning about the cultures of East Africa and to continue making comparisons with the culture(s) of the students; to continue to consider the relationship between that knowledge and the knowledge of other disciplines; and using that knowledge, to continue to unite students with communities outside of class. Level 3 on the ILR (Interagency Language Roundtable) scale. Spring Also Offered As: AFRC 2851 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 1300 Swahili Lang/Culture I",
+    "courseid": "SWAH 1300",
+    "coursedescription": "This course taught in Swahili will focus on reading/writing skills and speaking/listening skills as well as structural and cultural information. The course will be structured around three thematic units: History, Politics, and Education. The course will provide background on the Swahili-speaking world: Who were the first Swahili speakers and what varieties of the language did they speak? How did Swahili spread from the coast to other Swahili-speaking areas as far inland as Uganda, Rwanda, and Congo? Swahili is a lingua franca and has importance in the spread of religion and trade movements. Influences of other languages on Swahili and influences of Swahili on local languages will be discussed. Political and educational systems will be discussed as well. Not Offered Every Year Prerequisite: SWAH 1100 AND SWAH 1200 1 Course Unit",
+    "course-prerequsities": [
+      "SWAH 1100",
+      "SWAH 1200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 1400 Swahili Lang/Culture II",
+    "courseid": "SWAH 1400",
+    "coursedescription": "Continuation of Swahili Language & Culture I. Course is taught in Swahili and focuses on reading/writing skills and speaking/listening skills, as well as structural and cultural information. The course is structured around three thematic units: History, Politics, and Education. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 5100 Intermediate Swahili I",
+    "courseid": "SWAH 5100",
+    "coursedescription": "The objectives of this course are: to strengthen students' knowledge of speaking, listening, reading, and writing Swahili and to compare it with the language of the students; to learn more about the cultures of East Africa and to compare it with the culture(s) of the students; to consider the relationship between that knowledge and the knowledge of other disciplines; and using that knowledge, to unite students with communities outside of class. Prerequisite: Offered through Penn Language Center Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 5200 Intermediate Swahili II",
+    "courseid": "SWAH 5200",
+    "coursedescription": "This is part II of the Intermediate Swahili sequence I/II. The objectives of this course are: to strengthen students' knowledge of speaking, listening, reading, and writing Swahili and to compare it with the language of the students; to learn more about the cultures of East Africa and to compare it with the culture(s) of the students; to consider the relationship between that knowledge and the knowledge of other disciplines; and using that knowledge, to unite students with communities outside of class. At the end of the course students will be at Level 2 on the ILR (Interagency Language Roundtable) scale. Offered through the Penn Language Center Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 5300 Advanced Swahili I",
+    "courseid": "SWAH 5300",
+    "coursedescription": "This is an advanced Kiswahili course which will engage learners in extended spoken and written discourse. Advanced learners of Kiswahili will listen to, read about, write and speak on authentic video materials, contemporary novels, and newspapers. They will also participate in various discussions on cultural and political issues. Prerequisite: Offered through Penn Language Center. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 5400 Advanced Swahili II",
+    "courseid": "SWAH 5400",
+    "coursedescription": "The objectives are to continue to strengthen students' knowledge of speaking, listening, reading, and writing Swahili and to compare it with the language of the students; to continue learning about the cultures of East Africa and to continue making comparisons with the culture(s) of the students; to continue to consider the relationship between that knowledge and the knowledge of other disciplines; and using that knowledge, to continue to unite students with communities outside of class. Level 3 on the ILR (Interagency Language Roundtable) scale. Offered through Penn Language Center. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

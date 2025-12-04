@@ -1,0 +1,73 @@
+[
+  {
+    "coursename": "PERS 1100a, Elementary Persian I Farkhondeh Shayesteh",
+    "courseid": "PERS 1100a",
+    "coursedescription": "Introduction to modern Persian, with emphasis on all four language skills: reading, writing, listening, and speaking. L1 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PERS 1200b, Elementary Persian II Farkhondeh Shayesteh",
+    "courseid": "PERS 1200b",
+    "coursedescription": "Continuation of PERS 1100 , with emphasis on all four language skills: reading, writing, listening, and speaking. Prerequisite: PERS 1100 or permission of instructor. L2 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [
+      "PERS 1100",
+      "L2",
+      "MTWTHF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PERS 1100 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 1300a, Intermediate Persian I Farkhondeh Shayesteh",
+    "courseid": "PERS 1300a",
+    "coursedescription": "Continuation of PERS 1200 , with emphasis on expanding vocabulary and understanding more complex grammatical forms and syntax. Prerequisite: PERS 1200 or permission of instructor. L3 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [
+      "PERS 1200",
+      "L3",
+      "MTWTHF 9",
+      "25AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PERS 1200 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PERS 1400b, Intermediate Persian II Farkhondeh Shayesteh",
+    "courseid": "PERS 1400b",
+    "coursedescription": "Continuation of PERS 1300 , with emphasis on expanding vocabulary and understanding more complex grammatical forms and syntax. Prerequisite: PERS 1300 or permission of instructor. L4 1½ Course cr MTWThF 11:35am-12:25pm",
+    "course-prerequsities": [
+      "PERS 1300",
+      "L4",
+      "MTWTHF 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PERS 1300 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* PERS 1500a / MMES 1152a, Thematic Survey of Modern Persian Literature Farkhondeh Shayesteh",
+    "courseid": "PERS 1500a",
+    "coursedescription": "A content-base advanced course focusing on continuing development of language skills for nonnative speakers. Emphasis on reading, writing, and discussion through modern Persian literary prose and poetry. PERS 1400 and permission from the instructor. L5 , HU TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "PERS 1400 and permission from the instructor."
+      ]
+    }
+  }
+]

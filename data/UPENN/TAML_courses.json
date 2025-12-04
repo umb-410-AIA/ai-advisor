@@ -1,0 +1,96 @@
+[
+  {
+    "coursename": "TAML 0100 Beginning Tamil Part I",
+    "courseid": "TAML 0100",
+    "coursedescription": "This course introduces students to colloquial Tamil and formal written Tamil. A balance between production skills, namely writing and speaking, and comprehension skills, namely reading and listening, will be maintained throughout the course. Reading materials will introduce students to customs and habits of the Tamil speakers in Tamil Nadu, Sri Lanka, Malaysia, and Singapore. Lessons in the class will be based on a set of Tamil learning lessons and videos made available at http://www.southasia.upenn.edu/tamil and the book by the Instructor titled \"Tamil Language in Context\", information available at http://www.thetamillanguage.com. By the end of the semester, students will have a working knowledge in reading Tamil text with a basic skill to write and speak the language at ACTFL's Beginner mid level. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TAML 0200 Beginning Tamil Part II",
+    "courseid": "TAML 0200",
+    "coursedescription": "This course is a continuation of the Beginner Tamil TAMIL406. It continues to teach grammar and spoken sill from semester I. Lessons in the class will be based on a set of Tamil learning lessons and videos made available at http://www.southasia.upenn.edu/tamil and the book by the Instructor titled \"Tamil Language in Context\", information available at http://www.thetamillanguage.com. By the end of the semester, students will have a working knowledge in reading Tamil text with a basic skill to write and speak the language at ACTFL's Beginner High level. Spring Prerequisite: TAML 0100 OR TAML 5100 1 Course Unit",
+    "course-prerequsities": [
+      "TAML 0100",
+      "TAML 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TAML 0300 Intermediate Tamil Part I",
+    "courseid": "TAML 0300",
+    "coursedescription": "This course develops the skills obtained either from the Beginning Tamil course or from students' prior exposure to Tamil by some other means. Basic knowledge of Tamil script, reading and writing in Tamil is required to take this course. Heavy emphasis will be made on using the language in actual environments both in spoken medium and in written medium. Multimedia materials such as audio and video facilities from the book and the website Tamil Language in Context (http://www.southasia.upenn.edu/tamil) will be used extensively to provide students an exposure to the Tamil culture and customs as followed in Tamilnadu, India. Besides improving their speech and writing, students will also be introduced gradually to Tamil literature, which has two thousand years of literary history. The learning process in this course will be facilitated by the lessons and videos as provided in the website and the book. By the end of this course, students will have ACTFL's intermediate mid level proficiency in Tamil. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TAML 0400 Intermediate Tamil Part II",
+    "courseid": "TAML 0400",
+    "coursedescription": "This course is a continuation of Intermediate Tamil I (TAMIL426) and it continue to develop the skills obtained either from the Beginning Tamil course or from students' prior exposure to Tamil by other means. The emphasis will be on using the language in actual environments both in spoken medium and in written medium. Multimedia materials such as audio and videos as provided in the website http://www.southasia.upenn.edu/tamil or http://www.thetamillanguage.com will be extensively used to provide students an exposure to the Tamil culture and customs as authentic as possible. Besides improving their speech and writing, students will also be introduced gradually to Tamil literature, which has two thousand years of literary history. By the end of this course, students will have ACTFL's intermediate high proficiency level. Spring Prerequisite: TAML 0400 or TAML 5400 1 Course Unit",
+    "course-prerequsities": [
+      "TAML 0400",
+      "TAML 5400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TAML 1500 Advanced Tamil",
+    "courseid": "TAML 1500",
+    "coursedescription": "This course is a continuation of the Advance Tamil Course I and its primary focus is to concentrate particularly on any one of the genres of the Tamil language namely Sangam, medieval or modern Tamil, which span a vast variety of texts from Aham, Puram, religious poems along with a whole array of Tamil inscriptions. The familiarity from Advanced Tamil I course will be adequately used to master in any aspect of these three genres of the Tamil language. Based on the general interests of the students who are enrolled in this course specific variety of the text to concentrate upon will be selected. In the past, we have read poems from the Sangam genre Purananuru, Ahananuru, Silappatikaram, Manimekalai etc., along with the parallel religious poems from Tirumurai, Nalayira Divyaprabandam and so on. We have also read as part of this course texts from Islam literature, Tamil inscriptions and other related kinds. Text from the instructors book (to be published), \"Ilakkiyap payaNangkaL\" will be used to give a birds eye view to students about Tamil literature and the transitions that took place from Sangam, medieval and modern period. This course will train students to have a near-native proficiency in Tamil along with a professional skill in any particular variety of the Tamil language. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Based on the general interests of the students who are enrolled in this course specific variety of the text to concentrate upon will be selected."
+      ]
+    }
+  },
+  {
+    "coursename": "TAML 5100 Beginning Tamil Part I",
+    "courseid": "TAML 5100",
+    "coursedescription": "This course introduces students to colloquial Tamil and formal written Tamil. A balance between production skills, namely writing and speaking, and comprehension skills, namely reading and listening, will be maintained throughout the course. Reading materials will introduce students to customs and habits of the Tamil speakers in Tamil Nadu, Sri Lanka, Malaysia, and Singapore. Lessons in the class will be based on a set of Tamil learning lessons and videos made available at http://www.southasia.upenn.edu/tamil and the book by the Instructor titled \"Tamil Language in Context\", information available at http://www.thetamillanguage.com. By the end of the semester, students will have a working knowledge in reading Tamil text with a basic skill to write and speak the language at ACTFL's Beginner mid level. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TAML 5200 Beginning Tamil Part II",
+    "courseid": "TAML 5200",
+    "coursedescription": "This course is a continuation of the Beginner Tamil TAMIL406. It continues to teach grammar and spoken sill from semester I. Lessons in the class will be based on a set of Tamil learning lessons and videos made available at http://www.southasia.upenn.edu/tamil and the book by the Instructor titled \"Tamil Language in Context\", information available at http://www.thetamillanguage.com. By the end of the semester, students will have a working knowledge in reading Tamil text with a basic skill to write and speak the language at ACTFL's Beginner High level. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TAML 5300 Intermediate Tamil Part I",
+    "courseid": "TAML 5300",
+    "coursedescription": "This course develops the skills obtained either from the Beginning Tamil course or from students' prior exposure to Tamil by some other means. Basic knowledge of Tamil script, reading and writing in Tamil is required to take this course. Heavy emphasis will be made on using the language in actual environments both in spoken medium and in written medium. Multimedia materials such as audio and video facilities from the book and the website Tamil Language in Context (http://www.southasia.upenn.edu/tamil) will be used extensively to provide students an exposure to the Tamil culture and customs as followed in Tamilnadu, India. Besides improving their speech and writing, students will also be introduced gradually to Tamil literature, which has two thousand years of literary history. The learning process in this course will be facilitated by the lessons and videos as provided in the website and the book. By the end of this course, students will have ACTFL's intermediate mid level proficiency in Tamil. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TAML 5400 Intermediate Tamil Part II",
+    "courseid": "TAML 5400",
+    "coursedescription": "This course is a continuation of Intermediate Tamil I (TAMIL426) and it continue to develop the skills obtained either from the Beginning Tamil course or from students' prior exposure to Tamil by other means. The emphasis will be on using the language in actual environments both in spoken medium and in written medium. Multimedia materials such as audio and videos as provided in the website http://www.southasia.upenn.edu/tamil or http://www.thetamillanguage.com will be extensively used to provide students an exposure to the Tamil culture and customs as authentic as possible. Besides improving their speech and writing, students will also be introduced gradually to Tamil literature, which has two thousand years of literary history. By the end of this course, students will have ACTFL's intermediate high proficiency level. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TAML 5500 Advanced Tamil",
+    "courseid": "TAML 5500",
+    "coursedescription": "This course is a continuation of the Advance Tamil Course I and its primary focus is to concentrate particularly on any one of the genres of the Tamil language namely Sangam, medieval or modern Tamil, which span a vast variety of texts from Aham, Puram, religious poems along with a whole array of Tamil inscriptions. The familiarity from Advanced Tamil I course will be adequately used to master in any aspect of these three genres of the Tamil language. Based on the general interests of the students who are enrolled in this course specific variety of the text to concentrate upon will be selected. In the past, we have read poems from the Sangam genre Purananuru, Ahananuru, Silappatikaram, Manimekalai etc., along with the parallel religious poems from Tirumurai, Nalayira Divyaprabandam and so on. We have also read as part of this course texts from Islam literature, Tamil inscriptions and other related kinds. Text from the instructors book (to be published), \"Ilakkiyap payaNangkaL\" will be used to give a birds eye view to students about Tamil literature and the transitions that took place from Sangam, medieval and modern period. This course will train students to have a near-native proficiency in Tamil along with a professional skill in any particular variety of the Tamil language. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Based on the general interests of the students who are enrolled in this course specific variety of the text to concentrate upon will be selected."
+      ]
+    }
+  }
+]

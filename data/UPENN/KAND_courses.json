@@ -1,0 +1,88 @@
+[
+  {
+    "coursename": "KAND 0100 Beginning Kannada I",
+    "courseid": "KAND 0100",
+    "coursedescription": "This is a systematic introduction to the Kannada language and culture for beginners. The course aims at developing listening and comprehension and a real life interactive speaking ability in a variety of everyday topics. The Kannada script is introduced from the beginning and the language is presented in its socio-cultural context for achieving a meaningful and operational control of the language. Students acquire basic rules for structural and socio-cultural appropriateness. Students learn vocabulary related to a variety of topics during the semester. Class activities include watching videos, role-playing, language games and group work. Evaluation is based on class participation, performance in quizzes and tests and completed assignments. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KAND 0200 Beginning Kannada II",
+    "courseid": "KAND 0200",
+    "coursedescription": "This is a systematic introduction to the Kannada language and culture for beginners. The course aims at developing listening and comprehension and a real life interactive speaking ability in a variety of everyday topics. The Kannada script is introduced from the beginning and the language is presented in its socio-cultural context for achieving a meaningful and operational control of the language. Students acquire basic rules for structural and socio-cultural appropriateness. Students learn vocabulary related to a variety of topics during the semester. Class activities include watching videos, role-playing, language games and group work. Evaluation is based on class participation, performance in quizzes and tests and completed assignments. Two Term Class, Student must enter first term; credit given after both terms are complete Prerequisite: KAND 0100 1 Course Unit",
+    "course-prerequsities": [
+      "KAND 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KAND 0300 Intermediate Kannada I",
+    "courseid": "KAND 0300",
+    "coursedescription": "This course continues the study of the Kannada language and culture from where the beigginers II course ended. The course continues developing listening and comprehension and a real life interactive speaking ability in a variety of everyday topics. The Kannada script is learned in its socio-cultural context for achieving a meaningful and operational control of the language. Students acquire rules for structural and socio-cultural appropriateness. Students learn vocabulary related to a variety of topics during the semester. Class activities include watching videos, role-playing, language games and group work. Evaluation is based on class participation, performance in quizzes and tests and completed assignments. Fall Prerequisite: KAND 0200 1 Course Unit",
+    "course-prerequsities": [
+      "KAND 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KAND 0400 Intermediate Kannada II",
+    "courseid": "KAND 0400",
+    "coursedescription": "Students continue their study of Intermediate Kannada I, both in language and culture. The course aims at honeing listening and comprehension and a real life interactive speaking ability in a variety of everyday topics. The Kannada script is learned in its socio-cultural context for achieving a meaningful and operational control of the language. Students acquire basic rules for structural and socio-cultural appropriateness. Students learn vocabulary related to a variety of topics during the semester. Class activities include watching videos, role-playing, language games and group work. Evaluation is based on class participation, performance in quizzes and tests and completed assignments. Spring Prerequisite: KAND 0300 1 Course Unit",
+    "course-prerequsities": [
+      "KAND 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KAND 1500 Advanced Kannada: Selected Topics",
+    "courseid": "KAND 1500",
+    "coursedescription": "Directed topics vary by semester in advanced level Kannada. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KAND 5100 Beginning Kannada I",
+    "courseid": "KAND 5100",
+    "coursedescription": "This is a systematic introduction to the Kannada language and culture for beginners. The course aims at developing listening and comprehension and a real life interactive speaking ability in a variety of everyday topics. The Kannada script is introduced from the beginning and the language is presented in its socio-cultural context for achieving a meaningful and operational control of the language. Students acquire basic rules for structural and socio-cultural appropriateness. Students learn vocabulary related to a variety of topics during the semester. Class activities include watching videos, role-playing, language games and group work. Evaluation is based on class participation, performance in quizzes and tests and completed assignments. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KAND 5200 Beginning Kannada II",
+    "courseid": "KAND 5200",
+    "coursedescription": "This is a systematic introduction to the Kannada language and culture for beginners. The course aims at developing listening and comprehension and a real life interactive speaking ability in a variety of everyday topics. The Kannada script is introduced from the beginning and the language is presented in its socio-cultural context for achieving a meaningful and operational control of the language. Students acquire basic rules for structural and socio-cultural appropriateness. Students learn vocabulary related to a variety of topics during the semester. Class activities include watching videos, role-playing, language games and group work. Evaluation is based on class participation, performance in quizzes and tests and completed assignments. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KAND 5300 Intermediate Kannada I",
+    "courseid": "KAND 5300",
+    "coursedescription": "This course continues the study of the Kannada language and culture from where the beigginers II course ended. The course continues developing listening and comprehension and a real life interactive speaking ability in a variety of everyday topics. The Kannada script is learned in its socio-cultural context for achieving a meaningful and operational control of the language. Students acquire rules for structural and socio-cultural appropriateness. Students learn vocabulary related to a variety of topics during the semester. Class activities include watching videos, role-playing, language games and group work. Evaluation is based on class participation, performance in quizzes and tests and completed assignments. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KAND 5400 Intermediate Kannada II",
+    "courseid": "KAND 5400",
+    "coursedescription": "Students continue their study of Intermediate Kannada I, both in language and culture. The course aims at honeing listening and comprehension and a real life interactive speaking ability in a variety of everyday topics. The Kannada script is learned in its socio-cultural context for achieving a meaningful and operational control of the language. Students acquire basic rules for structural and socio-cultural appropriateness. Students learn vocabulary related to a variety of topics during the semester. Class activities include watching videos, role-playing, language games and group work. Evaluation is based on class participation, performance in quizzes and tests and completed assignments. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KAND 5500 Advanced Kannada: Selected Topics",
+    "courseid": "KAND 5500",
+    "coursedescription": "Directed topics vary by semester in advanced level Kannada. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

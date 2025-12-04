@@ -1,0 +1,305 @@
+[
+  {
+    "coursename": "* SPAN 0560a, First-Year Colloquium: Literary Studies in Spanish Noel Valis",
+    "courseid": "SPAN 0560a",
+    "coursedescription": "Introduction to the study of literature in general and to some of the most important texts in Hispanic literature. Selected texts in Spanish include short stories, novels, lyric, and theater. Open to students who have placed into L5 courses. Counts toward the requirements of the Spanish major. Enrollment limited to first-year students. L5 , HU MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* SPAN 1100a, Elementary Spanish I Staff",
+    "courseid": "SPAN 1100a",
+    "coursedescription": "For students who wish to begin study of the Spanish language. Development of basic skills in understanding, speaking, reading, and writing through a functional approach to the teaching of Spanish grammar. Includes an introduction to the cultures (traditions, art, literature, music) of the Spanish-speaking world. Audiovisual materials are incorporated into class sessions. Conducted in Spanish. To be followed immediately by SPAN 120. L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SPAN 1200a, Elementary Spanish II Staff",
+    "courseid": "SPAN 1200a",
+    "coursedescription": "Further development of understanding, speaking, reading, and writing skills. Class sessions incorporate short authentic texts in Spanish, audiovisual materials, and film. Cultural topics of the Spanish-speaking world (traditions, art, literature, music) are included. Conducted in Spanish. After SPAN 110 or in accordance with placement results. Admits to SPAN 130 or 145. L2 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 1250a, Intensive Elementary Spanish Lourdes Sabé",
+    "courseid": "SPAN 1250a",
+    "coursedescription": "An intensive beginning course in spoken and written Spanish that covers the material of SPAN 110 and 120 in one term. Conducted in Spanish. Admits to SPAN 130 or 145. Not open to students who have completed SPAN 110 or 120. L1 , L2 RP 2 Course cr MTWThF 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SPAN 1300a, Intermediate Spanish I Staff",
+    "courseid": "SPAN 1300a",
+    "coursedescription": "Development of language proficiency in listening, speaking, reading, and writing through communicative activities rather than a sequence of linguistic units. Authentic Spanish language texts, films, and videos serve as the basis for the functional study of grammar and the acquisition of a broader vocabulary. Cultural topics are presented throughout the term. Prerequisites: Conducted in Spanish. Admits to SPAN 140. L3 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "SPAN 140",
+      "L3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SPAN 1400a, Intermediate Spanish II Staff",
+    "courseid": "SPAN 1400a",
+    "coursedescription": "Continuation of SPAN 130. Development of increased proficiency in the four language skills. Greater precision in grammar usage, vocabulary enrichment, and expanded cultural awareness are achieved through communicative activities based on authentic Spanish-language texts, including a short novel. Conducted in Spanish. Admits to L5 courses. L4 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 1500a, Spanish for Heritage Speakers Staff",
+    "courseid": "SPAN 1500a",
+    "coursedescription": "SPAN 142 is exclusively designed for Spanish heritage language speakers. In this course, we analyze a wide array of compelling multimodal texts and genres (e.g., visual arts, music, film, literature, mythological narratives) to shed light on and celebrate the cultural productions and worldviews of four communities at the center of contemporary discussions pertaining to social justice and representation in Latin America and Latinx USA: women, indigenous communities, Afro-Latinos/as, and immigrants. The tasks and projects created around these texts will further advance your literacy and your command of mechanical aspects of the language while fostering a deeper understanding of various cultures in the Spanish-speaking world. After SPAN 130 or in accordance with placement results. L4 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2010a, Policies and Politics in the Spanish-Speaking World María Pilar Asensio-Manrique",
+    "courseid": "SPAN 2010a",
+    "coursedescription": "This course is a content-based course that looks to further increase your language proficiency and critical cultural awareness by engaging you with a wide array of compelling texts and media (e.g., legal texts, journalistic and opinion pieces, film, podcasts, literature) from various communities in Latin America and Spain. Through critical analyses of these texts and media, as well as through conversations with native speakers of Spanish in different countries, this course gives you an insider’s perspective of some of the most pressing political, social, and cultural issues in the Spanish-speaking world today. This course is organized into the following 4 thematic units: local perspectives from Latin American & Spanish cities; when quality education speaks a minority/minoritized language; healthcare as culture, healthcare as right; and let us write a Latin American constitution for all. Prerequisite: SPAN 140 or SPAN 142 or SPAN 145 or L5 placement L5 HTBA",
+    "course-prerequsities": [
+      "SPAN 140",
+      "SPAN 142",
+      "SPAN 145",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2015a, Spanish Language and Culture through Art Rosamaria Leon",
+    "courseid": "SPAN 2015a",
+    "coursedescription": "An advanced course designed to increase student’s fluency in oral and written skills. Through the exploration of five art themes relevant to Spanish speaking countries, students review advanced points of Spanish grammar, focus on vocabulary enrichment, and learn the basic principles of academic composition. The course approach for learning is a project-based model which introduces a wide variety of texts: readings, visual art, podcast, music, videos. Students are required to register for a recitacion practice that consists of a weekly 40-minute conversation with students from Pontificia Universidad Católica del Perú. Prerequisite: AP with score of 5/ IB score of 7, Placement in L5 through Spanish Department placement exam or by having completed L4. L5 , HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "L5",
+      "L4",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2020a / LAST 2223a, Spanish in Film: An Introduction to the New Latin American Cinema Staff",
+    "courseid": "SPAN 2020a",
+    "coursedescription": "Development of proficiency in Spanish through analysis of critically acclaimed Latin American films. Includes basic vocabulary of film criticism in Spanish as well as discussion and language exercises. Enrollment limited to 18. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to 18."
+      ]
+    }
+  },
+  {
+    "coursename": "* SPAN 2040a, Languaging in Latino America Jorge Méndez-Seijas",
+    "courseid": "SPAN 2040a",
+    "coursedescription": "This interdisciplinary seminar explores the dynamic nature of the languages and identities that shape and are shaped by Latino communities in the United States. Critical sociolinguistics, literature, art, history, and politics are some of the disciplines that guide our discussions as we try to better understand how different groups of Latinos/as have developed some of their linguistic and cultural products, practices, and perspectives. While engaging with the intricacies of language use, identity, and power dynamics in Latino America, this course seamlessly integrates a series of activities and assignments intended to help students hone their knowledge of Spanish while further expanding their multiple literacies. Prerequisite: SPAN 1400 , SPAN 1450 , SPAN 1500 , or L5 placement. L5 , HU HTBA",
+    "course-prerequsities": [
+      "SPAN 1400",
+      "SPAN 1450",
+      "SPAN 1500",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2050a / LAST 2222a, Legal Spanish Mercedes Carreras",
+    "courseid": "SPAN 2050a",
+    "coursedescription": "An introduction to Spanish and Latin American legal culture with a focus on the specific traits of legal language and on the development of advanced language competence. Issues such as human rights, the death penalty, the jury, contracts, statutory instruments, and rulings by the constitutional courts are explored through law journal articles, newspapers, the media, and mock trials. Enrollment limited to 18. A maximum of one course in the 200-230 range may count as an elective toward the Spanish major. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to 18."
+      ]
+    }
+  },
+  {
+    "coursename": "SPAN 2090a / FILM 2167a / LAST 2165a / PORT 2165a / WGSS 2165a, Through the Lens of Memory: Other Perspectives on Dictatorships in Latin America and Iberia Giseli Tordin",
+    "courseid": "SPAN 2090a",
+    "coursedescription": "This course examines the cinematic portrayals of military dictatorships in Brazil, Argentina, Chile, Spain, and Portugal, exploring how film serves as both a historical document and a means to reinterpret and reconstruct the past. As a language course, it allows students to engage with multiple modes of meaning–linguistic, visual, auditory, tactile, gestural, and spatial–through which cinema conveys its narratives. Students analyze how films reconstruct memory, challenge hegemonic historiography, and reinscribe erased or silenced perspectives. The course reflects on the relevance of these works in contemporary struggles against violence and oppression, considering how they teach us to critically engage with power, resistance, and collective memory. It also focuses on women's cinematic productions and representations, examining how gender, race, and political resistance intersect in the visual representation of repression, violence, and memory. The course incorporates both Spanish and Portuguese, encouraging students to express their ideas and develop projects in either language. Languages: Portuguese and Spanish. Prerequisite: PORT 1400 (or equivalent) or SPAN 1400 (or equivalent). L5 , HU MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "PORT 1400",
+      "SPAN 1400",
+      "L5",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2100a / LAST 2227a, Creative Writing Mayte López",
+    "courseid": "SPAN 2100a",
+    "coursedescription": "An introduction to the writing of fiction, poetry, and creative nonfiction, with a focus on developing techniques and abilities that are essential for crafting imaginative texts and honing self-expression. Through in-class tasks, substantive discussions on composition and craft, and analyses of contemporary Latinx, Latin American, and Spanish works, students enhance their writing skills and nurture their unique voices as writers. This course takes on the format of a workshop, with students receiving constructive feedback from both the instructor and their fellow writers. Conducted in Spanish. Enrollment limited to 15. A maximum of one course in the 200-230 range may count as an elective toward the Spanish major. L5 , HU HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to 15."
+      ]
+    }
+  },
+  {
+    "coursename": "SPAN 2145a / ER&M 1678a / LAST 2228a, Borders & Globalization in Hispanophone Cultures Luna Najera",
+    "courseid": "SPAN 2145a",
+    "coursedescription": "The borders that constitute the geographical divisions of the world are contingent, but they can have enormous ordering power in the lives of people and other beings. Human-made borders can both allow and disallow the flow of people and resources (including goods, knowledge, information, technologies, etc.). Like geographical borders, social borders such as race, caste, class, and gender can form and perpetuate privileged categories of humans that constrain the access of excluded persons to resources, education, security, and social mobility. Thus, bordering can differentially value human lives. Working with the premise that borders are sites of power, in this course we study bordering and debordering practices in the Hispanic cultures of Iberia, Latin America, and North America, from the 1490s to the present. Through analyses of a wide range of texts that may include treatises, maps, travel literature, visual culture, material culture (e.g., currency), law, music, and performance art, students investigate the multiple ways in which social, cultural, and spatial borders are initiated, expressed, materialized, and contested. More broadly, we explore, describe, and trace the entanglements of bordering, globalizations, and knowledge production in Hispanophone cultures. Some of the questions that will guide our conversations are: What are (social) borders and what are the processes through which they persist? How do the effects of practices that transcend borders (e.g., environmental pollution, deforestation) change our understanding of borders? What can we learn from indigenous peoples’ responses to bordering process and globalization? Prerequisite: SPAN 140 or 145, or in accordance with placement results. The course is conducted entirely in Spanish. Readings are available electronically through Canvas and the University Library. To be conducted in Spanish. L5 , HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "SPAN 140",
+      "145",
+      "L5",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "How do the effects of practices that transcend borders (e.g., environmental pollution, deforestation) change our understanding of borders?"
+      ]
+    }
+  },
+  {
+    "coursename": "* SPAN 2155a / EVST 2232a, Ecological Mindfulness: Poetics and Praxis in the Spanish-Speaking World Sarah Glenski",
+    "courseid": "SPAN 2155a",
+    "coursedescription": "What is our relationship with nature? What constitutes ecological mindfulness? Does the practice of ecological mindfulness constitute a poetics? Is art a form of ecological mindfulness? These are some of the questions that we consider as we examine the concept of ecological mindfulness as an intersection of poetics and praxis. Throughout the semester, we explore a wide array of artistic expressions (essays, short stories, sound, poetry, photography, painting, etc.), which allows us to both appreciate and interrogate the many ways in which interactions with nature are depicted and performed in different Hispanophone cultures. Our analysis of these texts is complemented by carrying out and reflecting upon our own practice of ecological mindfulness. This course is taught in Spanish. Prerequisite: SPAN 140, or SPAN 142, or SPAN 145, or equivalent L5 , HU MW 9am-10:15am",
+    "course-prerequsities": [
+      "SPAN 140",
+      "SPAN 142",
+      "SPAN 145",
+      "L5",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2200a, Cultural Inquiries: Spain, Latin America, and the Latinx World Olivia Lott",
+    "courseid": "SPAN 2200a",
+    "coursedescription": "This course offers an in-depth exploration of the cultural landscapes of Latin America, Spain, and the Latinx world, providing students with specialized terminology and methodologies essential for studying cultural production. Organized around four thematic modules, students engage with a variety of cultural forms, including literature, film, and visual art, spanning different historical periods and geographical regions. This course is mandatory for Spanish majors, bridging previous language and culture courses with advanced levels of study. HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2310a / LAST 2266a, Critical Contexts in Colonial Latin America Lisa Voigt",
+    "courseid": "SPAN 2310a",
+    "coursedescription": "This course offers a panoramic introduction to the written and visual cultural production of colonial Latin America (ca. 1492-1800). Organized chronologically and guided by the methodology of close reading, we analyze works of various genres and formats whose creators were of Indigenous, African, Spanish, and mestizo descent. We investigate how these texts reveal, critique, reimagine, or participate in the power relations of multiethnic societies founded on conquest, colonization, and slavery. Among our objectives is the development of the skills of critical analysis of texts written in Spanish, which we pursue through class discussion, oral presentations, and written and creative projects. L5 , HU MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2510a / LAST 2261a, Critical Contexts in Medieval and Early Modern Iberia Jesus Velasco",
+    "courseid": "SPAN 2510a",
+    "coursedescription": "This course offers a panoramic introduction to Iberian written cultures from the medieval to early modern period (ca. 800-1700). Organized chronologically and guided by the methodology of close reading, we will analyze a wide range of concepts and topics relevant for understanding the multilingual, multireligious contexts in which literary and non-literary works were produced, including knowledge and hospitality; borders and negotiation; authority and power; autobiography and eyewitness narrative accounts; courtly love and love sickness; makeup and cosmetic theory; prostitution and public health; gender dissidence and transgressive bodies; masculinities and misogyny; economic crisis and decline; black Africans and the African diaspora; the Inquisition and religious orthodoxy. Open to students who have placed into L5 courses or who have successfully completed an L4 course in Spanish. Counts toward the major in Spanish. L5 , HU MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 3385a / CPLT 3385a, Hemispheric Poetics & Politics Olivia Lott",
+    "courseid": "SPAN 3385a",
+    "coursedescription": "This course offers a survey of hemispheric poetics and politics. We examine pivotal moments of US-Latin American history and their subsequent representation or interrogation in Latin American and US Latinx poetry. We cover much of the 20th and 21st centuries, including the so-called Banana Wars, the disintegration of the Good Neighbor era, the inter-American Cold War, US-backed dictatorships and occupations, the neoliberal national security complex, and how these foreign policies “come home.” Writing in real time or decades later, we consider how poets “sing,” witness, document, confront, or denaturalize these hemispheric realities, write in tension or collaboration with others across borders, and create transformative knowledges that allows us to see—and read—the American hemisphere differently. We aim to cultivate a South-to-North comparative approach, centering Latin American and US Latinx poets, and Spanish-language poetic accounts of these hemispheric encounters. Taught in Spanish. Prerequisites: Open to students who have placed into L5 courses or who have successfully completed an L4 course in Spanish. Counts toward the Spanish major. First-year students will not be admitted into the course. L5 , HU TTh 9am-10:15am",
+    "course-prerequsities": [
+      "L5",
+      "L4",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 3525a / WGSS 4403a, Women Writers of Spain Noel Valis",
+    "courseid": "SPAN 3525a",
+    "coursedescription": "The development of women's writing in Spain, with a focus on the modern era. Equal attention to the sociohistorical and cultural contexts of women writers and to the narrative and poetic strategies the authors employed. Some readings from critical and theoretical works. L5 , HU MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 3565a / CPLT 3565a / PORT 3230a / TDPS 3051a, Staging Early Iberian Drama Nicholas Jones",
+    "courseid": "SPAN 3565a",
+    "coursedescription": "This course examines the construction and representation of class, gender, power, race, and sexuality in early Iberian drama. Taking a chronological frame, we cover these themes beginning with medieval Iberian pageantry and ending with the works of Pedro Calderón de la Barca and Sor Juana Inés de la Cruz. To guide and nuance our class discussions and readings, we interrogate the staging and performance of class, gender, race, and sexuality along the lines of: courtly and civic coronations, pageantry, and tournaments; the Renaissance underworld of La Celestina ; the short-skit interludes of Lope de Rueda; Lope de Vega and the comedia nueva ; African dances and blackface performance; cross-dressing and gender dissidence in Tirso de Molina and Sor Juana; queer readings of Agustín Moreto’s El lindo Don Diego ; celebrity and the stardom of actors; clothing, cosmetics, and stage props; and, architecture, urban space and cities. L5 , HU MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 3570a, Revolutionary Barcelona Aurelie Vialette",
+    "courseid": "SPAN 3570a",
+    "coursedescription": "This course explores the many facets of Barcelona, a city through which students can understand social tensions, working-class revolts, Spain’s civil war and the legacies of slavery in today’s world. L5 , HU MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 4600a / ER&M 3592a / HSAR 4492a, Visual Encounters in the Early Modern Atlantic Catalina Ospina and Lisa Voigt",
+    "courseid": "SPAN 4600a",
+    "coursedescription": "This course examines the visual, material, and human flows that connected Africa, Europe, and the Americas between 1450 and 1850 and gave its contours to the early modern Atlantic World. Students explore the role of the visual in key institutions and phenomena that emerged in the circum-Atlantic and continue to cast their long shadow over the contemporary world. Topics include: colonialism, the slave trade, blackness and indigeneity, scientific exploration, religious encounters, and revolt. HU T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 4605a / LAST 2605a, Pacific Bridges: Asian Diasporas Across Latin America Inês Forjaz de Lacerda and Anibal González-Pérez",
+    "courseid": "SPAN 4605a",
+    "coursedescription": "What do Borges and Bashō have in common? Why is K-Pop so popular in places like Chile and Brazil? And what can Shōgun teach us about the world? In this course, we dive into the unexpected connections between Asia and Latin America, tracing stories of migration, cultural fusion, and artistic exchange from colonial encounters to today’s global pop culture. Our travels take us from early modern Japan, India, and the Philippines to today’s Cuba, Brazil, Peru, and Argentina, with several other stops along the way. Through literature, film, music, and anime, we explore how Asian diasporas shaped, and were shaped by, the Spanish- and Portuguese-speaking worlds. Readings include Jorge Luis Borges, Cristina García, Chen Li, Augusto Higa Oshiro, Octavio Paz, Adriana Lisboa, and José Watanabe, among others. All materials are in English, with optional readings in Spanish and Portuguese for those interested in the original texts. Taught in English. TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "All materials are in English, with optional readings in Spanish and Portuguese for those interested in the original texts."
+      ]
+    }
+  },
+  {
+    "coursename": "* SPAN 4610a / RLST 3400a, The World(ing) of Tarot Todne Thomas and Nicholas Jones",
+    "courseid": "SPAN 4610a",
+    "coursedescription": "This course takes an interdisciplinary approach to the exploration of tarot. It joins together religious studies, social scientific, historical, and aesthetic approaches to teach about contexts of practice, genealogies of tarot phenomena, and their visuality. It establishes a foundational knowledge of tarot by exploring popular culture (mis)representations, tracing its longstanding eclectic history, and studying its archetypes. Conceptually, the course uses tarot as an avenue to discuss conceptual themes of materiality and aesthetics, esotericism, politics, gender, culture, and worlding. Through this guided study of tarot, we explore tarot’s enduring, yet contested appeal and relativize Western epistemologies, including that of the academy itself. MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 4618b / ANTH 4818b / ER&M 4518b and ER&M 6606b / WGSS 4518b, Multi-Sited Ethnography: Trans-Atlantic Port Cities in Colombia and Spain Eda Pepi and Ana Ramos-Zayas",
+    "courseid": "SPAN 4618b",
+    "coursedescription": "Critical to colonial, imperial, and capitalist expansion, the Atlantic offers a dynamic setting for adapting ethnographic practices to address questions around interconnected oppressions, revolts, and revolutions that are foundational to global modernity. Anchored in a Spanish and a Colombian port city, this course engages trans-Atlantic 'worlding' through a multi-sited and historically grounded ethnographic lens. Las Palmas—the earliest mid-Atlantic port and Europe's first settler colony in Africa—and Cartagena—once the principal gateway connecting Spain and its American empire—illuminate urgent contemporary issues such as climate, displacement, inter-regional subjectivities, and commerce. During a spring recess field experience (March 8–16, 2026), students immerse themselves for four nights each in Las Palmas and Cartagena, developing critical \"tracking\" skills that bridge ethnographic practice with cultural theory. Preparation for fieldwork includes an on-campus curriculum, organized around Cartagena and Las Palmas, and sessions with Yale Ethnography Hub faculty, covering different methodologies. As part of this broader programming, the curriculum delves into trans-Atlantic migrations from the Middle East, South Asia, and Africa that have transformed port cities, labor and aesthetic practices, class-making racial formations, and global geopolitics. After recess, the course shifts toward independent work, as students synthesize field-collected data and insights into a collaborative multimodal group project and individual ethnographic papers. Interested students must apply by November 1st via the course website. Students may withdraw by the university deadlines in April. Prerequisite: Conversational and reading proficiency in Spanish. Readings are in English and Spanish, with assignments accepted in either language. HU Th 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "TH 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Interested students must apply by November 1st via the course website."
+      ]
+    }
+  },
+  {
+    "coursename": "* SPAN 4900a, The Senior Project Aurelie Vialette",
+    "courseid": "SPAN 4900a",
+    "coursedescription": "A research project completed under faculty supervision and resulting in an essay of considerable length, or its equivalent in another medium, in Spanish. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 4903a, Directed Readings and/or Individual Research Aurelie Vialette",
+    "courseid": "SPAN 4903a",
+    "coursedescription": "Individual study under faculty supervision. The student must submit a bibliography and a written plan of study approved by the faculty adviser to the director of undergraduate studies. No reading or research course credit is granted without prior approval from the director of undergraduate studies. The student must meet with the instructor at least one hour a week. A final examination or essay is required. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

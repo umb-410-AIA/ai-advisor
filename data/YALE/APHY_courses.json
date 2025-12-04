@@ -1,0 +1,219 @@
+[
+  {
+    "coursename": "* APHY 0500a / ENAS 0500a / PHYS 0500a, Science of Modern Technology and Public Policy Daniel Prober",
+    "courseid": "APHY 0500a",
+    "coursedescription": "Examination of the science behind selected advances in modern technology and implications for public policy, with focus on the scientific and contextual basis of each advance. Topics are developed by the participants with the instructor and with guest lecturers, and may include nanotechnology, quantum computation and cryptography, renewable energy technologies, optical systems for communication and medical diagnostics, transistors, satellite imaging and global positioning systems, large-scale immunization, and DNA made to order. Enrollment limited to first-year students. SC MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* APHY 0800b and APHY 1000b / ENAS 0800b / EPS 0800b / EVST 0080b and EVST 1000b / PHYS 0800b and PHYS 1000b, Energy, Environment, and Public Policy Daniel Prober",
+    "courseid": "APHY 0800b",
+    "coursedescription": "The technology and use of energy. Impacts on the environment, climate, security, and economy. Application of scientific reasoning and quantitative analysis. Intended for non–science majors with strong backgrounds in math and science. Tours are be conducted of major examples of good energy design at Yale, including the Yale Power Plant and Kroon Hall. Students who take this course are not eligible to take APHY 100. Prerequisites: High school chemistry, physics, and Math. Calculus is not required. Enrollment limited to first-year students. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "APHY 1100a / ENAS 110, The Technological World Owen Miller",
+    "courseid": "APHY 1100a",
+    "coursedescription": "How does modern technology work? This course introduces the scientific concepts underpinning a wide variety of technologies, including smartphones, medical-imaging techniques, solar-energy conversion, and virtual-reality headsets. Pivotal to each of these example technologies is electromagnetism—the study of electric and magnetic fields and waves—which will comprise the scientific foundation of the course, with additional forays into quantum mechanics (solar cells, medical imaging), information theory (digital communication), and cryptography (code-breaking, cryptocurrency). The course is open to all students. We use trigonometry (sines and cosines, angles, etc.) throughout. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "APHY 1510a or b / ENAS 1510a or b / PHYS 1510a or b, Multivariable Calculus for Engineers Staff",
+    "courseid": "APHY 1510a",
+    "coursedescription": "An introduction to multivariable calculus focusing on applications to engineering problems. Topics include vector-valued functions, vector analysis, partial differentiation, multiple integrals, vector calculus, and the theorems of Green, Stokes, and Gauss. Prerequisite: MATH 115 or equivalent. QR HTBA",
+    "course-prerequsities": [
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "APHY 1940a or b / ENAS 1940a or b, Ordinary and Partial Differential Equations with Applications Staff",
+    "courseid": "APHY 1940a",
+    "coursedescription": "Basic theory of ordinary and partial differential equations useful in applications. First- and second-order equations, separation of variables, power series solutions, Fourier series, Laplace transforms. Prerequisites: ENAS 151 or MATH 120 or equivalent, and knowledge of matrix-based operations. QR HTBA",
+    "course-prerequsities": [
+      "ENAS 151",
+      "MATH 120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "APHY 3200a / ECE 3200a, Semiconductor Devices Hong Tang",
+    "courseid": "APHY 3200a",
+    "coursedescription": "An introduction to the physics of semiconductors and semiconductor devices. Topics include crystal structure; energy bands in solids; charge carriers with their statistics and dynamics; junctions, p-n diodes, and LEDs; bipolar and field-effect transistors; and device fabrication. Additional lab one afternoon per week. Prepares for EENG 325 and 401. Recommended preparation: EENG 200. PHYS 180 and 181 or permission of instructor QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: EENG 200.",
+        "PHYS 180 and 181 or permission of instructor QR , SC TTh 1pm-2:15pm"
+      ]
+    }
+  },
+  {
+    "coursename": "APHY 3220a, Electromagnetic Waves and Devices Michael Hatridge",
+    "courseid": "APHY 3220a",
+    "coursedescription": "Introduction to electrostatics and magnetostatics, time varying fields, and Maxwell's equations. Applications include electromagnetic wave propagation in lossless, lossy, and metallic media and propagation through coaxial transmission lines and rectangular waveguides, as well as radiation from single and array antennas. Occasional experiments and demonstrations are offered after classes. Prerequisites: PHYS 180, 181, or 200, 201. QR , SC TTh 9am-10:15am",
+    "course-prerequsities": [
+      "PHYS 180",
+      "200",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "APHY 3930a / PHYS 3930a, Einstein and the Birth of Modern Physics A Douglas Stone",
+    "courseid": "APHY 3930a",
+    "coursedescription": "The first twenty-five years of the 20th century represent a turning point in human civilization as for the first time mankind achieved a systematic and predictive understanding of the atomic level constituents of matter and energy, and the mathematical laws which describe the interaction of these constituents. In addition, the General Theory of Relativity opened up for the first time a quantitative study of cosmology, of the history of the universe as a whole. Albert Einstein was at the center of these breakthroughs, and also became an iconic figure beyond physics, representing scientist genius engaged in pure research into the fundamental laws of nature. This course addresses the nature of the transition to modern physics, underpinned by quantum and relativity theory, through study of Einstein’s science, biography, and historical context. It also presents the basic concepts in electromagnetic theory, thermodynamics and statistical mechanics, special theory of relativity, and quantum mechanics which were central to this revolutionary epoch in science. Prerequisites: Two terms of PHYS 170, 171, or PHYS 180, 181, or PHYS 200, 201, or PHYS 260, 261, or one term of any of these course with permission of instructor. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHYS 170",
+      "PHYS 180",
+      "PHYS 200",
+      "PHYS 260",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: Two terms of PHYS 170, 171, or PHYS 180, 181, or PHYS 200, 201, or PHYS 260, 261, or one term of any of these course with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "APHY 4180b / ECE 4021b, Advanced Electron Devices Mengxia Liu",
+    "courseid": "APHY 4180b",
+    "coursedescription": "The science and technology of semiconductor electron devices. Topics include compound semiconductor material properties and growth techniques; heterojunction, quantum well and superlattice devices; quantum transport; graphene and other 2D material systems. Formerly EENG 418. Prerequisite: EENG 320 or equivalent. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "EENG 320",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* APHY 4200a / PHYS 4500a, Thermodynamics and Statistical Mechanics Nir Navon",
+    "courseid": "APHY 4200a",
+    "coursedescription": "This course is subdivided into two topics. We study thermodynamics from a purely macroscopic point of view and then we devote time to the study of statistical mechanics, the microscopic foundation of thermodynamics. Prerequisites: PHYS 4000 , 4100 , and 4400 or permission of instructor. QR , SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHYS 4000",
+      "4400",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: PHYS 4000 , 4100 , and 4400 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "APHY 4390a / PHYS 4390a, Basic Quantum Mechanics John Sous",
+    "courseid": "APHY 4390a",
+    "coursedescription": "The basic concepts and techniques of quantum mechanics essential for solid-state physics and quantum electronics. Topics include the Schrödinger treatment of the harmonic oscillator, atoms and molecules and tunneling, matrix methods, and perturbation theory. Prerequisites: PHYS 181 or 201, PHYS 301, or equivalents, or permission of instructor. QR , SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "PHYS 181",
+      "201",
+      "PHYS 301",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: PHYS 181 or 201, PHYS 301, or equivalents, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "APHY 4480a / PHYS 4480a, Solid State Physics I Yu He",
+    "courseid": "APHY 4480a",
+    "coursedescription": "The first term of a two-term sequence covering the principles underlying the electrical, thermal, magnetic, and optical properties of solids, including crystal structure, phonons, energy bands, semiconductors, Fermi surfaces, magnetic resonances, phase transitions, dielectrics, magnetic materials, and superconductors. Prerequisites: APHY 322, 439, PHYS 420. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "APHY 322",
+      "PHYS 420",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "APHY 4490b / PHYS 4490b, Solid State Physics II Vidvuds Ozolins",
+    "courseid": "APHY 4490b",
+    "coursedescription": "The second term of the sequence described under APHY 448. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "APHY 4580a / PHYS 4580a, Principles of Optics with Applications Hui Cao",
+    "courseid": "APHY 4580a",
+    "coursedescription": "Introduction to the principles of optics and electromagnetic wave phenomena with applications to microscopy, optical fibers, laser spectroscopy, and nanostructure physics. Topics include propagation of light, reflection and refraction, guiding light, polarization, interference, diffraction, scattering, Fourier optics, and optical coherence. Prerequisite: PHYS 430. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "PHYS 430",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* APHY 4690a or b, Special Projects Owen Miller",
+    "courseid": "APHY 4690a",
+    "coursedescription": "Faculty-supervised individual or small-group projects with emphasis on research (laboratory or theory). Students are expected to consult the director of undergraduate studies and appropriate faculty members to discuss ideas and suggestions for suitable topics. This course may be taken more than once, is graded pass/fail, is limited to Applied Physics majors, and does not count toward the senior requirement. Prerequisites: Permission of the faculty adviser and of the director of undergraduate studies is required. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course may be taken more than once, is graded pass/fail, is limited to Applied Physics majors, and does not count toward the senior requirement.",
+        "Prerequisites: Permission of the faculty adviser and of the director of undergraduate studies is required."
+      ]
+    }
+  },
+  {
+    "coursename": "* APHY 4700a / ECON 4446a, Statistical Methods with Applications in Science and Finance Sohrab Ismail-Beigi",
+    "courseid": "APHY 4700a",
+    "coursedescription": "Introduction to key methods in statistical physics with examples drawn principally from the sciences (physics, chemistry, astronomy, statistics, biology) as well as added examples from finance. Students learn the fundamentals of Monte Carlo, stochastic random walks, and analysis of covariance analytically as well as via numerical exercises. Prerequisites: ENAS 194, MATH 222, and ENAS 130, or equivalents. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "ENAS 194",
+      "MATH 222",
+      "ENAS 130",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* APHY 4710a and APHY 4720b, Senior Special Projects Owen Miller",
+    "courseid": "APHY 4710a",
+    "coursedescription": "Faculty-supervised individual or small-group projects with emphasis on research (laboratory or theory). Students are expected to consult the director of undergraduate studies and appropriate faculty members to discuss ideas and suggestions for suitable topics. This course may be taken more than once and is limited to Applied Physics majors in their junior and senior years. Permission of the faculty adviser and of the director of undergraduate studies is required. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course may be taken more than once and is limited to Applied Physics majors in their junior and senior years.",
+        "Permission of the faculty adviser and of the director of undergraduate studies is required."
+      ]
+    }
+  }
+]

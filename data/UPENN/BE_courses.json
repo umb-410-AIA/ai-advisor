@@ -1,0 +1,1560 @@
+[
+  {
+    "coursename": "BENG 0100 Beginning Bengali Part I",
+    "courseid": "BENG 0100",
+    "coursedescription": "This course introduces students to colloquial Bengali. It gives equal emphasis to each of the four skills, reading, writing, listening, and speaking. Language will be studied in the context of socio-cultural aspects of West Bengal and Bangladesh. Besides lessons from the text, a major portion of the syllabus will be based on topics drawn from films, cultural events, festivals, food, and religion. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 0200 Beginning Bengali Part II",
+    "courseid": "BENG 0200",
+    "coursedescription": "This course introduces students to colloquial Bengali. It gives equal emphasis to each of the four skills, reading, writing, listening, and speaking. Language will be studied in the context of socio-cultural aspects of West Bengal and Bangladesh. Besides lessons from the text, a major portion of the syllabus will be based on topics drawn from films, cultural events, festivals, food, and religion. Spring Prerequisite: BENG 0100 OR BENG 5100 1 Course Unit",
+    "course-prerequsities": [
+      "BENG 0100",
+      "BENG 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 0300 Intermediate Bengali Part I",
+    "courseid": "BENG 0300",
+    "coursedescription": "This course develops the student's prior knowledge of Bengali. An attempt is made to gear the syllabus to meet the specific needs of students. The focus of the course is to develop the oral and aural skills of the learner as well as improve writing skills and reading strategies. Emphasis is also laid on increasing the sociolinguistic and strategic competence of the learners so that they will be able to function in the target culture. Besides discussions on various aspects of Bengali life, students read some short literary texts in the original Bengali version. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 0400 Intermediate Bengali Part II",
+    "courseid": "BENG 0400",
+    "coursedescription": "This course develops the student's prior knowledge of Bengali. An attempt is made to gear the syllabus to meet the specific needs of students. The focus of the course is to develop the oral and aural skills of the learner as well as improve writing skills and reading strategies. Emphasis is also laid on increasing the sociolinguistic and strategic competence of the learners so that they will be able to function in the target culture. Besides discussions on various aspects of Bengali life, students read some short literary texts in the original Bengali version. Spring Prerequisite: BENG 0300 OR BENG 5300 1 Course Unit",
+    "course-prerequsities": [
+      "BENG 0300",
+      "BENG 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 1500 Advanced Bengali",
+    "courseid": "BENG 1500",
+    "coursedescription": "The objective of this course is to develop the proficiency level of the students in all the four skills by using different genres of Bengali literature (West Bengal and Bangladesh) s its course content. Reading comprehension will be enhanced as students learn to understand authentic texts at the linguistic and cultural level while discussion (description, narration, supporting opinion) on issues related to these texts aim to hone the oral and written skills. Studentswill be allowed to work on individual texts & topics(with the instructors permission)for their final project. This is a one semester course. Spring: Bengali Popular Culture- This course aims to use as its content, different aspects of popular Bengali culture as they are represented in media (film, television, magazines, newspapers) and arts (fashion, local and regional art, music). Students will be expected to develop their linguistic skills (description, narration, supporting opinion) and socio-cultural awareness while interacting with these varied types of texts. Students will be allowed to work on individual texts & topics (with the instructors permission) for their final project. This is a one semester course. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Studentswill be allowed to work on individual texts & topics(with the instructors permission)for their final project.",
+        "Students will be allowed to work on individual texts & topics (with the instructors permission) for their final project."
+      ]
+    }
+  },
+  {
+    "coursename": "BENG 5100 Beginning Bengali Part I",
+    "courseid": "BENG 5100",
+    "coursedescription": "This course introduces students to colloquial Bengali. It gives equal emphasis to each of the four skills, reading, writing, listening, and speaking. Language will be studied in the context of socio-cultural aspects of West Bengal and Bangladesh. Besides lessons from the text, a major portion of the syllabus will be based on topics drawn from films, cultural events, festivals, food, and religion. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 5200 Beginning Bengali Part II",
+    "courseid": "BENG 5200",
+    "coursedescription": "This course introduces students to colloquial Bengali. It gives equal emphasis to each of the four skills, reading, writing, listening, and speaking. Language will be studied in the context of socio-cultural aspects of West Bengal and Bangladesh. Besides lessons from the text, a major portion of the syllabus will be based on topics drawn from films, cultural events, festivals, food, and religion. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 5300 Intermediate Bengali Part I",
+    "courseid": "BENG 5300",
+    "coursedescription": "This course develops the student's prior knowledge of Bengali. An attempt is made to gear the syllabus to meet the specific needs of students. The focus of the course is to develop the oral and aural skills of the learner as well as improve writing skills and reading strategies. Emphasis is also laid on increasing the sociolinguistic and strategic competence of the learners so that they will be able to function in the target culture. Besides discussions on various aspects of Bengali life, students read some short literary texts in the original Bengali version. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 5400 Intermediate Bengali Part II",
+    "courseid": "BENG 5400",
+    "coursedescription": "This course develops the student's prior knowledge of Bengali. An attempt is made to gear the syllabus to meet the specific needs of students. The focus of the course is to develop the oral and aural skills of the learner as well as improve writing skills and reading strategies. Emphasis is also laid on increasing the sociolinguistic and strategic competence of the learners so that they will be able to function in the target culture. Besides discussions on various aspects of Bengali life, students read some short literary texts in the original Bengali version. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENG 5500 Advanced Bengali",
+    "courseid": "BENG 5500",
+    "coursedescription": "The objective of this course is to develop the proficiency level of the students in all the four skills by using different genres of Bengali literature (West Bengal and Bangladesh) s its course content. Reading comprehension will be enhanced as students learn to understand authentic texts at the linguistic and cultural level while discussion (description, narration, supporting opinion) on issues related to these texts aim to hone the oral and written skills. Studentswill be allowed to work on individual texts & topics(with the instructors permission)for their final project. This is a one semester course. Spring: Bengali Popular Culture- This course aims to use as its content, different aspects of popular Bengali culture as they are represented in media (film, television, magazines, newspapers) and arts (fashion, local and regional art, music). Students will be expected to develop their linguistic skills (description, narration, supporting opinion) and socio-cultural awareness while interacting with these varied types of texts. Students will be allowed to work on individual texts & topics (with the instructors permission) for their final project. This is a one semester course. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Studentswill be allowed to work on individual texts & topics(with the instructors permission)for their final project.",
+        "Students will be allowed to work on individual texts & topics (with the instructors permission) for their final project."
+      ]
+    }
+  },
+  {
+    "coursename": "BENF 2230 Philanthropy and Health",
+    "courseid": "BENF 2230",
+    "coursedescription": "This course that brings together the recent literature from the social sciences and health sciences as well as other disciplines to explore how philanthropy impacts health care in society at large, and in particular, the health of the donor and volunteer. Furthermore, the course will include an \"ideas in action\" component. Students will examine philanthropic donations at work in Philadelphia, as well as engage in philanthropic activities alongside the instructor. The course consists of three parts: Part 1) Philanthropy and Healthcare in Society: The US has a long tradition of channeling philanthropic resources to augment healthcare in society, as the demand for health care exceeds the capacity of individuals or government to fully satisfy the demand. Philanthropic resources, which include both time and money, are emerging as significant means by which the capacity of the healthcare sector is fortified; these include resources for service providers, health care researchers, and health care policy advocates. To understand the heterogeneous impact of philanthropy on healthcare, this part of the course will examine the \"who, what, when, where, and how\" of philanthropic inputs into healthcare and their impact. Part 2) Health Effects on the Individual Philanthropist: The second part of the course examines individuals who give of their time and money. From decreased mortality to better health outcomes, researchers have carefully documented the effect on individual givers. Recent findings from the health sciences also show what mechanisms might be involved in an individual's psychology and physiology that can explain the beneficial health effects of philanthropic behavior. We will examine recent experimental research along these lines provides further evidence along these lines. Part 3) Ideas in Action: The course will include three specific volunteering events and do so by selecting a healthcare related organization of their choice that uses philanthropic resources. Students will gain first-hand experience as volunteers (and if feasible, as donors) and discuss their experiences with philanthropy in class presentations and relate them to course content. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENF 2260 Health and Social Justice (SNF Paideia Program Course)",
+    "courseid": "BENF 2260",
+    "coursedescription": "This course considers various theoretical approaches to justice and health, motivated by the idea that a moral framework is needed to address the ethical challenges posed by inequalities in access, quality, financial burdens, and resource priorities, as well as rising health care costs. The course includes four parts. The first part examines ethical frameworks that involve various approaches to medical and public health ethics. The second part presents an alternative theory of justice and health, the health capability paradigm (HCP), grounded in human flourishing. The third part explores domestic health policy applications, including equal access, equitable and efficient health financing and insurance, rising costs and allocating resources. The fourth and final part of the course investigates domestic health reform, particularly a normative theory of health policy decision making grounded in political and moral legitimacy. The course scrutinizes the relevance of health justice for governing health at the domestic level, that is within countries, offers a new theory of health and social justice, the health capability paradigm, and of health governance, shared health governance, evaluating current domestic health systems and proposals for reforming them in light of these alternative theoretical frameworks. Also Offered As: SOCI 2952 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENF 2270 Global Health Justice and Governance",
+    "courseid": "BENF 2270",
+    "coursedescription": "This course considers various theoretical approaches to global justice and global governance and analyzes their implications for global health. The course includes two parts. The first part examines accounts of cosmopolitanism, nationalism and other theories of global justice, critically assessing duties ascribed by each that may be owed universally to all persons or confined within associative boundaries of communities or nations. The second part explores applications to global health governance encompassing consideration of human rights and the operation and accountability of global institutions such as the United Nations, the World Bank, and the World Health Organization and national health systems. The course scrutinizes the relevance of global justice for governing the global health realm, proposes a new theory of global health justice, provincial globalism, and of global health governance, shared health governance, evaluating the current global health system and proposals for reforming it in light of these alternative theoretical frameworks Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BENF 2280 Education and International Development",
+    "courseid": "BENF 2280",
+    "coursedescription": "Educational development is central to the policies of every country in the world, and to children, youth and adults everywhere, as the participants in educational systems and agents of change for broader economic and social development. With increased globalization, population migration, and information exchange, there is increasing interest in the differing ways that learning education is organized and experienced around the world. High GNP countries like the U.S. are interested in understanding how they sometimes fail to serve students when compared with other high GNP countries, while many developing countries are struggling to put into place educational systems that assure a basic education for all. Much of this may be usefully understood in the context of the United Nations Sustainable Development Goals (for more detail on the SDGs, see http://www.un.org/sustainabledevelopment/). Both access to schooling and the quality of learning are central to these goals. This course will explore, compare and contrast education and international development models, as they affect the lives and development of children, youth and adults, with an emphasis on poor and developing countries. The course will work from primary and secondary materials on theories, research, and applications used to promote human development and basic education. Some programs are carried out by multinational/bilateral agencies such as World Bank, Unicef, UNESCO, and USAID, while others are undertaken by intermediary organizations (such as NGOs and universities) and local organizations or individual specialists. Issues include a range of social, economic and ethno-political dimensions in the provision of quality education. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "With increased globalization, population migration, and information exchange, there is increasing interest in the differing ways that learning education is organized and experienced around the world.",
+        "are interested in understanding how they sometimes fail to serve students when compared with other high GNP countries, while many developing countries are struggling to put into place educational systems that assure a basic education for all."
+      ]
+    }
+  },
+  {
+    "coursename": "BENF 2990 Health Capability",
+    "courseid": "BENF 2990",
+    "coursedescription": "This course examines the idea of health capability. Health capability is the ability to be healthy; it integrates health functioning and health agency. Health capability helps us understand the conditions that facilitate and barriers that impede health and the ability to make healthy choices. Health capabilities are key strengths resulting from individual and societal commitment of human, financial, and physical resources with the goal of helping people thrive. Differences in health capability explain why, for example, personal skills and determination or health beliefs are not enough to achieve health, why people with even the best external conditions can still have poor health, and why a narrow biomedical model of disease is insufficient. Health capability captures the dynamic, interactive, multidimensionality of health and flourishing. Health capability has the effect of creating a virtuous circle; developing people's health capability enables them to create and support the conditions for their own and other's health capability and so forth. It offers an evaluation of the aim and success of public policies in terms of people's lived experiences. The course is motivated by the idea that health capabilities ought to be a primary dimension in which equity in health and public policy is sought. The course includes three parts. The first part engages with the health capability model. The second part examines the health capability profile. The third part explores health capability applications. Twin goals of the course include cultivating the development of students' knowledge base, values and competencies as well as aiding students in identifying, assessing and expanding their own health capabilities for individual and community health and flourishing. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 1000 Introduction to Bioengineering",
+    "courseid": "BE 1000",
+    "coursedescription": "Survey course introducing students to the breadth of bioengineering. Course consists of introductory lectures, guest speakers/panelists, and a series of small assignments that allow students to explore different facets of bioengineering and the Penn Bioengineering program. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BE 2000 Introduction to Biomechanics",
+    "courseid": "BE 2000",
+    "coursedescription": "This course investigates the application of statics and strength of materials to soft and hard biologic tissues. The course will cover simple force analyses of the musculoskeletal system and introduces the fundamentals of the mechanics of materials including axial loading, torsion and bending and their application to biomechanics. The lecture and recitation will be complemented with hands-on examples emphasizing connections between theoretical principles and practical applications. Fall Prerequisite: MATH 1410 AND ( PHYS 0140 OR PHYS 0150 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410",
+      "PHYS 0140",
+      "PHYS 0150"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 2200 Biomaterials",
+    "courseid": "BE 2200",
+    "coursedescription": "This course investigates the application of materials science and engineering to biomedical applications, with a focus on polymers, ceramics, and metals. The course will cover concepts related to basic material fabrication and synthesis, structure and property characterization, as well as applications of biomaterials. The lecture and recitation will be complemented with laboratory examples of material assessment and characterization. Spring Prerequisite: BE 2000 AND CHEM 1022 1 Course Unit",
+    "course-prerequsities": [
+      "BE 2000",
+      "CHEM 1022"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 2700 Bioengineering Laboratory Principles",
+    "courseid": "BE 2700",
+    "coursedescription": "This course will cover a variety of bioengineering laboratory principles and techniques including data collection, analysis and reporting. Students will explore tools related to mechanics, materials and electronics with applications in the bioengineering field. Corequisite with BE 2200 . Spring Prerequisite: BE 2000 AND ( ENGR 1050 OR CIS 1200 OR CIS 1210 ) 1 Course Unit",
+    "course-prerequsities": [
+      "BE 2000",
+      "ENGR 1050",
+      "CIS 1200",
+      "CIS 1210"
+    ],
+    "course-corequisites": [
+      "BE 2200"
+    ],
+    "other": {
+      "notes": [
+        "Corequisite with BE 2200 ."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 3010 Bioengineering Signals and Systems",
+    "courseid": "BE 3010",
+    "coursedescription": "Properties of signals and systems; Examples of biological and biomedical signal and systems; Signal operations, continuous and discrete signals; Linear, time invariant systems; Time domain analysis; Systems characterized by linear constant-coefficient differential equations; Fourier analysis with applications to biomedical signals and systems; Introduction to filtering; Sampling and the sampling theorem. Examples vary from year to year, but usually include signals such as the ECG and blood pressure wave, principles of signal coding in the auditory system and cochlear implants, and simple applications in biomedical imaging. Fall or Spring Prerequisite: ( MATH 2400 OR ENM 2400 ) AND ( PHYS 0141 OR PHYS 0151 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "ENM 2400",
+      "PHYS 0141",
+      "PHYS 0151"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 3060 Cellular Engineering",
+    "courseid": "BE 3060",
+    "coursedescription": "The biological cell is a complex machine and its function is at the root of all physiology and many pathologies. Recent advances in molecular and cell biology enable the redesign of cell function. This course aims to develop a quantitative understanding of cell function, and how we might go about changing cell function through intelligent redesign. The course covers topics ranging from receptor binding and endocytosis, cell adhesion and motility, cell function in the immune system, systems and synthetic biology, genetic knockdown and manipulation using CRISPR and gene therapy, and strategies for immunotherapy including chimeric antigen receptor therapy (carT). Fall Prerequisite: CHEM 1022 AND ( MATH 2400 OR ENM 2400 ) AND ( PHYS 0140 OR PHYS 0150 ) AND ( PHYS 0141 OR PHYS 0151 ) AND BIOL 1121 AND ( ENGR 1050 OR CIS 1200 OR CIS 1210 ) 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1022",
+      "MATH 2400",
+      "ENM 2400",
+      "PHYS 0140",
+      "PHYS 0150",
+      "PHYS 0141",
+      "PHYS 0151",
+      "BIOL 1121",
+      "ENGR 1050",
+      "CIS 1200",
+      "CIS 1210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 3090 Bioengineering Modeling, Analysis and Design Laboratory I",
+    "courseid": "BE 3090",
+    "coursedescription": "BE 3090 is a one course-unit laboratory course with a focus on combining experimental and mathematical approaches to understand biological systems and solve bioengineering problems. The course content integrates concepts from mathematics, physics, signal analysis, control engineering , mass transport, and heat transfer with applications in physiology and pharmacology. Areas of emphasis are model development and validation, statistical analysis, experimental design, error analysis and uncertainty, and scientific writing. Fall Prerequisite: ( ENGR 1050 OR CIS 1200 OR CIS 1210 ) AND ( PHYS 0141 OR PHYS 0151 ) AND ( MATH 2400 OR ENM 2400 ) AND BE 2000 AND BE 2200 AND BE 2700 AND ( ENM 3750 OR ENGR 3440 OR STAT 4310 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ENGR 1050",
+      "CIS 1200",
+      "CIS 1210",
+      "PHYS 0141",
+      "PHYS 0151",
+      "MATH 2400",
+      "ENM 2400",
+      "BE 2000",
+      "BE 2200",
+      "BE 2700",
+      "ENM 3750",
+      "ENGR 3440",
+      "STAT 4310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 3100 Bioengineering Modeling, Analysis and Design Laboratory II",
+    "courseid": "BE 3100",
+    "coursedescription": "BE 3100 is a one course-unit laboratory course on the design of technology to measure and control biological systems. The course is divided into four modules: (i) microfluidics for point of care diagnostics, (ii) synthetic biology for predicting cellular behavior, (iii) electronics and signal analysis of bioelectrical signals, and (iv) bioanalytical spectroscopy for low-cost diagnostics. Each module will have two components: (i) a series of structured learning exercises to teach key concepts and methods of the topic that we are studying, and (ii) a design challenge, in which the understanding gained in the first component is used to design a solution to an open ended bioengineering challenge. Spring Prerequisite: ( ENGR 1050 OR CIS 1200 OR CIS 1210 ) AND ( PHYS 0141 OR PHYS 0151 ) AND ( MATH 2400 OR ENM 2400 ) AND BE 2000 AND BE 2200 AND BE 2700 AND AND BE 3010 AND ( ENM 3750 OR ENGR 3440 OR STAT 4310 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ENGR 1050",
+      "CIS 1200",
+      "CIS 1210",
+      "PHYS 0141",
+      "PHYS 0151",
+      "MATH 2400",
+      "ENM 2400",
+      "BE 2000",
+      "BE 2200",
+      "BE 2700",
+      "BE 3010",
+      "ENM 3750",
+      "ENGR 3440",
+      "STAT 4310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 3300 Self-Assembly of Soft Materials",
+    "courseid": "BE 3300",
+    "coursedescription": "Soft matter is found in diverse applications including sports (helmets & cloths); food (chocolate, egg); consumer products (e.g., lotions and shampoo); and devices (displays, electronics). Whereas solids and liquids are typically hard and crystalline or soft and fluid, respectively, soft matter can exhibit both solid and liquid like behavior. In this class, we investigate the thermodynamic and dynamic principles common to soft matter as well as soft (weak) forces, self-assembly and phase behavior. Classes of matter include colloidal particles, polymers, liquid crystalline molecules, amphiphilic molecules, biomacromolecules/membranes, and food. Fall Also Offered As: MSE 3300 Prerequisite: ( MSE 2200 OR BE 2200 ) AND CHEM 1022 or equivalent 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200",
+      "BE 2200",
+      "CHEM 1022"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 3500 Introduction to Biotransport Processes",
+    "courseid": "BE 3500",
+    "coursedescription": "Introduction to basic principles of fluid mechanics and of energy and mass transport with emphasis on applications to living systems and biomedical devices. Spring Prerequisite: ( MATH 2400 OR ENM 2400 ) AND ( PHYS 0140 OR PHYS 0150 ) AND BE 2000 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400",
+      "ENM 2400",
+      "PHYS 0140",
+      "PHYS 0150",
+      "BE 2000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 4000 Preceptorship in Clinical Bioengineering",
+    "courseid": "BE 4000",
+    "coursedescription": "Introduction to the integration of biomedical engineering in clinical medicine through lectures and a preceptorship with clinical faculty. This course is for BE majors ONLY, with preference given to BSE students. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is for BE majors ONLY, with preference given to BSE students."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 4260 Immunology for Bioengineers",
+    "courseid": "BE 4260",
+    "coursedescription": "Immunology is fast growing field that is critical to human health and therapeutic development and engineering. To better prepare bioengineers for a career in immunotherapy and biotech areas, it is essential for them to learn the fundamental knowledge of the immune system and the diseases associated as well as common and emerging technologies used in immunological research. This will not only enable the students to communicate more effectively in a multidisciplinary team, it will also empower them to take advantage of their training in engineering and mathematics to develop tools to analyze the immune system with great depth, solve important questions in immunology, and engineering new therapeutics. Therefore, the goal of this course is to provide the immunology foundation for engineering students and technical background of commonly used tools and emerging technologies in immunological research. The course is open to upper level undergraduate students who have taken courses in biochemistry and/or cell biology. Fall Mutually Exclusive: BE 5260 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 4700 Medical Devices",
+    "courseid": "BE 4700",
+    "coursedescription": "Lab-based course where students learn the fundamentals of medical device design through hands-on projects using microcontrollers. Students first learn basic design building blocks regularly employed in microcontroller-based medical devices, and then carry out a small design project using those building blocks. Projects are informed by reverse-engineering of competing products, FDA regulations, and marketplace considerations. Prerequisite: Junior or Senior BE Majors only. Students who have taken ESE 3500 or a similar course may not enroll. Permission of instructor required if course prerequisites not met. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 3500",
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Junior or Senior BE Majors only.",
+        "Permission of instructor required if course prerequisites not met."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 4720 Medical Device Development",
+    "courseid": "BE 4720",
+    "coursedescription": "Students will learn the process of developing medical devices that fulfill unmet patient needs. Students will be equipped with an understanding of what is required to lead a startup venture in medical devices including regulatory, legal, fundraising, team building and leadership. In lab, students will develop a proof-of-concept prototype device. Students will pitch their ideas to real med tech investors . The successful student will leave the class with the knowledge, skills and confidence to lead a startup venture in medical devices. If desired by the student, the proof-of-concept device can be used as the basis for their senior design project. Junior standing in Bioengineering or permission of the instructor if course prerequisite is not met. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Junior standing in Bioengineering or permission of the instructor if course prerequisite is not met."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 4800 Introduction to Biomedical Imaging",
+    "courseid": "BE 4800",
+    "coursedescription": "Introduction to the mathematical, physical and engineering design principles underlying modern medical imaging systems including x-ray computed tomography, ultrasonic imaging, and magnetic resonance imaging. Mathematical tools including Fourier analysis and the sampling theorem. The Radon transform and related transforms. Filtered backprojection and other reconstruction algorithms. Bloch equations, free induction decay, spin echoes and gradient echoes. Applications include one-dimensional Fourier magnetic resonance imaging, three-dimensional magnetic resonance imaging and slice excitation. Spring Prerequisite: BE 3010 OR ESE 3250 1 Course Unit",
+    "course-prerequsities": [
+      "BE 3010",
+      "ESE 3250"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 4830 Physics of Medical/Molecular Imaging",
+    "courseid": "BE 4830",
+    "coursedescription": "This course will provide a comprehensive survey of modern medical imaging modalities and the emerging field of molecular imaging. The basic principles of X-ray, ultrasound, nuclear imaging, and magnetic resonance imaging will be reviewed. The course will also cover concepts related to contrast media and targeted molecular imaging. Topics to be covered include the chemistry and mechanisms of various contrast agents, approaches to identifying molecular markers of disease, ligand screening strategies, and the basic principles of toxicology and pharmacology relevant to imaging agents. Fall Mutually Exclusive: BE 5830 Prerequisite: MATH 2410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 4900 Independent Project in Bioengineering",
+    "courseid": "BE 4900",
+    "coursedescription": "An intensive independent study experience on an engineering or biological science problem related to bioengineering. Requires preparation of a proposal, literature evaluation, and preparation of a paper and presentation. Regular progress reports and meetings with faculty advisor are required. Sophomore, Junior and Senior BE majors only. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Sophomore, Junior and Senior BE majors only."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 4920 Independent Project in Bioengineering",
+    "courseid": "BE 4920",
+    "coursedescription": "Second semester of an independent project. Sophomore, Junior and Senior BE majors only. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Sophomore, Junior and Senior BE majors only."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 4950 Senior Design Project",
+    "courseid": "BE 4950",
+    "coursedescription": "Group design projects in various areas of bioengineering. Project ideas are proposed by the students in the Spring semester of the Junior year and refined during the Fall semester. The course guides the students through choosing and understanding an impactful biomedical problem, defining characteristics of a successful design solution to eliminate or mitigate a problem or fulfill a need, identifying and prioritizing constraints, creatively developing potential design solutions, iteratively refining design options, defining and implementing an optimal solution , and evaluating how well the solution fulfills the need. Final oral and written reports are required. Also emphasized are teamwork, project management, time management, regulations/standards, and effective communication. Seniors in BE or Department Permission. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Seniors in BE or Department Permission."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 4960 Senior Design Project",
+    "courseid": "BE 4960",
+    "coursedescription": "Second semester of a two semester design project. Seniors in BE or Department Permission. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Seniors in BE or Department Permission."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 4970 Senior Thesis in Biomedical Science",
+    "courseid": "BE 4970",
+    "coursedescription": "An intensive independent project experience incorporating both technical and non-technical aspects of the student's chosen career path. Chosen topic should incorporate elements from the student's career path electives, and may involve advisors for both technical and non-technical elements. Topics may range from biomedical research to societal, technological and business aspects of Bioengineering. A proposal, regular progress reports and meetings with a faculty advisor, a written thesis, and a presentation are required. Seniors in BAS or Department Permission. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Seniors in BAS or Department Permission."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 4980 Senior Thesis in Biomedical Science",
+    "courseid": "BE 4980",
+    "coursedescription": "Second semester of a year-long project. Seniors in BAS or Department Permission. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Seniors in BAS or Department Permission."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5020 From Biomedical Science to the Marketplace",
+    "courseid": "BE 5020",
+    "coursedescription": "This course explores, through own work (this is, own discovery) the transition from fundamental knowledge to its ultimate application in a clinical device or drug. Emphasis is placed upon factors that influence this transition and upon the integrative requirements across many fields necessary to achieve commercial success. Special emphasis is placed upon entrepreneurial strategies, intellectual property, and the FDA process of proving safety and efficacy. Graduate students or permission of the instructor. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Graduate students or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5040 Biological Data Science II: Data Mining Principles for Epigenomics",
+    "courseid": "BE 5040",
+    "coursedescription": "This course will teach upper level undergraduates and graduate students how to answer biological questions by harnessing the wealth of genomic and epigenomic data sets generated by high-throughput sequencing technologies. Graduate students or permission of the instructor Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Graduate students or permission of the instructor Spring 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5060 Introduction to Neuroengineering",
+    "courseid": "BE 5060",
+    "coursedescription": "This graduate-level course offers a comprehensive introduction to the interdisciplinary field of neuroengineering, focusing on the integration of neuroscience and engineering principles to advance our understanding of the nervous system and develop innovative technologies for neural interfacing and control. Through in-class lectures and focused hands-on problems, students will learn the fundamentals of neurophysiology, as well as statistical analysis of neural signals. The course will also provide the students with an overview of non-electrical neural I/O modalities, such as neurophotonics, magnetic, mechanical, and chemical methods. By the end of the course, students will gain a deeper understanding of the state-of-the art methods used in modern system neuroscience, neuromodulation systems, neuroprosthetics, and brain-computer interfaces. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5100 Biomechanics and Biotransport",
+    "courseid": "BE 5100",
+    "coursedescription": "The course is intended as an introduction to continuum mechanics in both solid and fluid media, with special emphasis on the application to biomedical engineering. Once basic principles are established, the course will cover more advanced concepts in biosolid mechanics that include computational mechanics and bio-constitutive theory. Applications of these advanced concepts to current research problems will be emphasized. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5120 Bioengineering III: Biomaterials",
+    "courseid": "BE 5120",
+    "coursedescription": "This course provides a comprehensive background in biomaterials. It covers surface properties, mechanical behavior and tissue response of ceramics, polymers and metals used in the body. It also builds on this knowledge to address aspects of tissue engineering, particularly the substrate component of engineering tissue and organs. General Chemistry, basic biomechanics. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5130 Human Centered Design for Clinical Emergency Medicine",
+    "courseid": "BE 5130",
+    "coursedescription": "This capstone course is a project-based experience for graduate students where they will effectively serve as design consultants for Penn Department of Emergency Medicine. Selected students should have familiarity of technical fundamentals, such as engineering design and data analysis, and will have the opportunity to use those skills to solve challenges facing two premier emergency departments. This flipped-classroom course combines lectures and significant asynchronous laboratory and clinical immersion experiences. By the end of the course, students will use human centered design to develop a functional prototype and collect preliminary data on their solution, which will be presented to Emergency Medicine Leadership. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5140 Rehab Engineering and Design",
+    "courseid": "BE 5140",
+    "coursedescription": "Students will learn about problems faced by disabled persons and medical rehabilitation specialists, and how engineering design can be used to solve and ameliorate those problems. The course combines lectures, multiple design projects and exercises, and field trips to clinical rehabilitation facilities. Students will have substantial interaction with clinical faculty, as well as with patients. Prerequisite: Graduate students or permission of the instructor. Fall Also Offered As: IPD 5040 1 Course Unit",
+    "course-prerequsities": [
+      "IPD 5040"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Graduate students or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5160 Introduction to High-Performance Scientific Computing",
+    "courseid": "BE 5160",
+    "coursedescription": "Research problems in the domain of physical, biological and biomedical sciences and engineering often span multiple time and length-scales from the molecular to the organ/organism, owing to the complexity of information transfer underlying biological mechanisms. Multiscale modeling (MSM) and high-performance scientific computing (HPC) have emerged as indispensable tools for tackling such complex problems. However, a paradigm shift in training is now necessary to leverage the rapid advances, and emerging paradigms in HPC --- GPU, cloud, exascale supercomputing, quantum computing --- that will define the 21st century. This course is a collaboration between Penn, UC Berkeley, and the Extreme Science and Engineering Discovery Environment (XSEDE) which administers several of the federally funded research purpose supercomputing centers in the US. It will be taught as a regular 1 CU course at Penn by adopting a flip-classroom/active learning format. The course is designed to teach students how to program parallel architectures to efficiently solve challenging problems in science and engineering, where very fast computers are required either to perform complex simulations or to analyze enormous datasets. The course is intended to be useful for students from many departments and with different backgrounds, e.g., scholar of Penn Institute for Computational Science, although we will assume reasonable programming skills in a conventional (non-parallel) language, as well as enough mathematical skills to understand the problems and algorithmic solutions presented. Fall or Spring Also Offered As: CBE 5060 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5180 Optical Microscopy",
+    "courseid": "BE 5180",
+    "coursedescription": "An introduction to the fundamental concepts of optics and microscopy. Geometrical optics: ray tracing, optical elements, imaging systems, optical aberrations. Physical optics: the electromagnetic spectrum, the wave equation, diffraction, interference and interferometers, optical resolution limits, optical coherence, lasers. Microscopy methods: phase contrast, differential interference contrast, fluorescence microscopy, confocal microscopy, multiphoton microscopy, optical coherence tomography, superresolution microscopy. Fall Prerequisite: MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5210 Brain-Computer Interfaces",
+    "courseid": "BE 5210",
+    "coursedescription": "The course is geared to advanced undergraduate and graduate students interested in understanding the basics of implantable neuro-devices, their design, practical implementation, approval, and use. Reading will cover the basics of neuro signals, recording, analysis, classification, modulation, and fundamental principles of Brain-Machine Interfaces. The course will be based upon twice weekly lectures and \"hands-on\" weekly assignments that teach basic signal recording, feature extraction, classification and practical implementation in clinical systems. Assignments will build incrementally toward constructing a complete, functional BMI system. Fundamental concepts in neurosignals, hardware and software will be reinforced by practical examples and in-depth study. Guest lecturers and demonstrations will supplement regular lectures. BE 3010 (Signals and Systems) or equivalent, computer programming experience, preferably MATLAB (e.g., as used the BE labs, BE 3100 ). Some basic neuroscience background (e.g. BIOL 2310, BE 3050, INSC core course), or independent study in neuroscience, is required. This requirement may be waived based upon practical experience on a case by case basis by the instructor. Spring Also Offered As: NGG 5210 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is geared to advanced undergraduate and graduate students interested in understanding the basics of implantable neuro-devices, their design, practical implementation, approval, and use."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5260 Immunology for Bioengineers",
+    "courseid": "BE 5260",
+    "coursedescription": "Immunology is fast growing field that is critical to human health and therapeutic development and engineering. To better prepare bioengineers for a career in immunotherapy and biotech areas, it is essential for them to learn the fundamental knowledge of the immune system and the diseases associated as well as common and emerging technologies used in immunological research. This will not only enable the students to communicate more effectively in a multidisciplinary team, it will also empower them to take advantage of their training in engineering and mathematics to develop tools to analyze the immune system with great depth, solve important questions in immunology, and engineering new therapeutics. Therefore, the goal of this course is to provide the immunology foundation for engineering students and technical background of commonly used tools and emerging technologies in immunological research. The course is open to upper level undergraduate students who have taken courses in biochemistry and/or cell biology. Fall Mutually Exclusive: BE 4260 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5270 Immune Engineering",
+    "courseid": "BE 5270",
+    "coursedescription": "This course would target graduate students and upper level undergraduate students. This course introduces to students the concept of immune engineering that ranges from vaccine design to cancer immunotherapy and cutting edge tools recently developed in these areas. It is best suited for graduate students and upper level undergraduate students who have had cell biology and immunology. We will build on the topics covered in Immunology and explore deeper questions and applications in cancer immunotherapy, infection, and auto-immune diseases, and high-throughput immune profiling technologies. The course will use a combination of lectures, journal clubs, and a final project presentation that will be discussed mirroring NIH study section format. The course is open to graduate students and upper level undergraduate students who have taken courses in biochemistry and/or cell biology. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5280 Applied Medical Innovation I",
+    "courseid": "BE 5280",
+    "coursedescription": "Applied Medical Innovation I: Bedside to Bench is a hands-on, project-based team design experience for graduate students, offered in partnership with the Center for Health, Devices, and Technology (Penn Health Tech). The course acts as an idea INCUBATOR for projects originating from unmet clinical needs, identified by clinical collaborators, industry sponsors, and Penn Health Tech partners. By the end of this course, students will understand all aspects of medical device design, innovation, and entrepreneurship, including the importance of a clear problem definition and stakeholder input, an introduction to engineering design principles, and how to navigate the complex pathway by which these products reach patients. The end point of the semester is a final pitch (outlining the need, the solution, and the business opportunity) and a functional prototype with initial proof of concept data. The course is open to all graduate and senior undergraduate students (pre-application required). Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5290 Applied Medical Innovation II",
+    "courseid": "BE 5290",
+    "coursedescription": "Applied Medical Innovation II: Bench to Bedside is a hands-on, interdisciplinary, project experience for graduate students, offered in partnership with the Center for Health, Devices, and Technology (Penn Health Tech). The course acts as device ACCELERATOR for projects originating from Applied Medical Innovation I and Penn Health Tech. Students partner with experienced technical teams (clinicians + engineers) to create a commercialization plan for real-world, cutting-edge medical technologies under development at Penn. Students work closely with their interdisciplinary team to identify and validate the clinical need, stakeholder requirements, and business case in order to de-risk the technology, increase commercial potential, and package the idea for follow-on investment. In the second half of the course, students will also gain exposure to medical technology entrepreneurship and investing. The course is open to all graduate and senior undergraduate students (pre-application required). 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5300 Theoretical and Computational Neuroscience",
+    "courseid": "BE 5300",
+    "coursedescription": "This course will develop theoretical and computational approaches to structural and functional organization in the brain. The course will cover: (i) the basic biophysics of neural responses, (ii) neural coding and decoding with an emphasis on sensory systems, (iii) approaches to the study of networks of neurons, (iv) models of adaptation, learning and memory, (v) models of decision making, and (vi) ideas that address why the brain is organized the way that it is. The course will be appropriate for advanced undergraduates and beginning graduate students. A knowledge of multi-variable calculus, linear algebra and differential equations is required (except by permission of the instructor). Prior exposure to neuroscience and/or Matlab programming will be helpful. Spring Also Offered As: NGG 5940 , NRSC 5585 , PHYS 5585 , PSYC 5390 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A knowledge of multi-variable calculus, linear algebra and differential equations is required (except by permission of the instructor)."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5320 Computational Biophysics",
+    "courseid": "BE 5320",
+    "coursedescription": "This course targets graduate students and upper level undergraduates with a background in physical chemistry. Proteins and other biomolecules perform all of the active functions that we associate with life, from muscle contraction to sensing light and sound. Like the machines we are used to operating on macroscopic scales, these molecular machines have many moving parts that are essential to their function and dysfunction. This course introduces a framework for reasoning about such dynamics and computational tools for interrogating them. Also Offered As: BBCB 5320 , BMB 5320 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5370 Biomedical Image Analysis",
+    "courseid": "BE 5370",
+    "coursedescription": "This course covers the fundamentals of advanced quantitative image analysis that apply to all of the major and emerging modalities in biological/biomaterials imaging and in vivo biomedical imaging. While traditional image processing techniques will be discussed to provide context, the emphasis will be on cutting edge aspects of all areas of image analysis (including registration, segmentation, and high-dimensional statistical analysis). Significant coverage of state-of-the-art biomedical research and clinical applications will be incorporated to reinforce the theoretical basis of the analysis methods. Prerequisite: Mathematics through multivariate calculus ( MATH 2410 ), programming experience, as well as some familiarity with linear algebra, basic physics, and statistics. Fall or Spring Also Offered As: CIS 5370 , MPHY 6090 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2410",
+      "CIS 5370",
+      "MPHY 6090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5400 Principles of Molecular and Cellular Bioengineering",
+    "courseid": "BE 5400",
+    "coursedescription": "This course aims to provide theoretical and conceptual principles underlying biomolecular and biological systems. The course will start with basic and advanced concepts in physical chemistry and thermodynamics and introduce statistical mechanics as a tool to understand molecular interactions. The applications will be of relevance to bioengineering and biology disciplines. The course will not shy away from mathematical formulations and will stress the molecular perspective. This course explores physical biology of the cell across several length and timescales, while simultaneously emphasizing molecular specificity and clinical implications such as disease outcome or biomedical applications. The course emphasizes how the basic tools and insights of engineering, physics, chemistry, and mathematics can illuminate the study of molecular and cell biology to make predictive biomedical models and subject them to clinical validation. Drawing on key examples and seminal experiments from the current bioengineering literature, the course demonstrates how quantitative models can help refine our understanding of existing biological data and also be used to make useful clinical predictions. The course blends traditional models in cell biology with the quantitative approach typical in engineering, in order to introduce the student to both the possibilities and boundaries of the emerging field of physical systems biology. While teaching physical model building in cell biology through a practical, case-study approach, the course explores how quantitative modeling based on engineering principles can be used to build a more profound, intuitive understanding of cell biology. Worksheets will be integral to this course. Recitation will comprise of biweekly illustrations of problems and concepts from the worksheets and biweekly quizzes Fall or Spring Also Offered As: CBE 5400 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5440 Computational Science of Energy and Chemical Transformations",
+    "courseid": "BE 5440",
+    "coursedescription": "Our theoretical and computational capabilities have reached a point where we can do predictions of materials on the computer. This course will introduce students to fundamenta l concepts and techniques of atomic scale computational modeling. The material will cover electronic structure theory and chemical kinetics. Several well-chosen applications in energy and chemical transformations including study and prediction of properties of chemical systems (heterogeneous, molecular, and biological catalysts) and physical properties of materials will be considered. This course will have modules that will include hands-on computer lab experience and teach the student how to perform electronic structure calculations of energetics which form the basis for the development of a kinetic model for a particular problem, which will be part of a project at the end of the course. Thermodynamics, Kinetics, Physical Chemistry, Quantum Mechanics. Undergraduates should consult and be given permission by the instructor. Fall or Spring Also Offered As: CBE 5440 , MSE 5440 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Undergraduates should consult and be given permission by the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5470 Fundamental Techniques of Imaging",
+    "courseid": "BE 5470",
+    "coursedescription": "This laboratory course covers the fundamentals of modern medical imaging techniques. Students will participate in a series of hands-on exercises, covering the principals of X-ray imaging, CT imaging, photoacoustic imaging, diffusion tensor imaging, localized magnetic resonance (MR) spectroscopy, MR contrast agents, diffuse optical spectroscopy, and bioluminescence imaging. Each lab is designed to reinforce and expand upon material taught in BE 4830 / BE 5830 Molecular Imaging and MMP 5070 Physics of Medical Imaging. Graduate students or permission of the instructor. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Graduate students or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5500 Continuum Tissue Mechanics",
+    "courseid": "BE 5500",
+    "coursedescription": "This course introduces tensor calculus and continuum mechanics, with a focus on finite-deformation behavior of biological tissues including skin, tendon/ligament, cartilage, bone, blood vessels, nerves. Senior/Graduate Student in Bioengineering or permission of the instructor. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Senior/Graduate Student in Bioengineering or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5510 Biomicrofluidics",
+    "courseid": "BE 5510",
+    "coursedescription": "The focus of this course is on microfluidics for biomedical applications. Topics to be covered in the first half of this course include microscale phenomena, small-scale fabrication techniques, and sensing technologies that are often leveraged in the development of microfluidic systems for the study of biomolecules, cells, tissues, and organs in living biological systems. In the second half of this course, strong emphasis will be placed on the application of microfluidics in cell biology, bioanalytical chemistry, molecular biology, tissue engineering, and drug discovery. Prereqisite: Experience with an undergraduate level fluid mechanics course is preferred. Examples of relevant SEAS courses include BE 3500 (Biotransport), CBE 3500 (Fuild Mechanics), and MEAM 3020 Fluid Mechanics). Fall 1 Course Unit",
+    "course-prerequsities": [
+      "BE 3500",
+      "CBE 3500",
+      "MEAM 3020",
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5530 Principles, Methods, and Applications of Tissue Engineering",
+    "courseid": "BE 5530",
+    "coursedescription": "Tissue engineering demonstrates enormous potential for improving human health. This course explores principles of tissue engineering, drawing upon diverse fields such as developmental biology, cell biology, physiology, transport phenomena, material science, and polymer chemistry. Current and developing methods of tissue engineering, as well as specific applications will be discussed in the context of these principles. A significant component of the course will involve review of current literature within this developing field. Graduate Standing or instructor's permission. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Graduate Standing or instructor's permission."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5550 Nanoscale Systems Biology",
+    "courseid": "BE 5550",
+    "coursedescription": "Nano-science and engineering approaches to systems in biology are of growing importance. They extend from novel methods, especially microscopies that invite innovation to mathematical and/or computational modeling which incorporates the physics and chemistry of small scale biology. Proteins and DNA, for example, are highly specialized polymers that interact, catalyze, stretch and bend, move, and/or store information. Membranes are also used extensively by cells to isolate, adhere, deform, and regulate reactions. In this course, students will become familiar with cell & molecular biology and nano-biotechnology through an emphasis on nano-methods, membranes, molecular machines, and 'polymers' - from the quantitative perspectives of thermodynamics, statistical physics, and mechanics. We specifically elaborate ideas of energetics, fluctuations and noise, force, kinetics, diffusion, etc. on the nano- thru micro- scale, drawing from very recent examples in the literature. Laboratory experiments will provide hands-on exposure to microscopies in a biological context (eg. fluorescence down to nano-scale, AFM), physical methods (eg. micromanipulation, tracking virus-scale particles or quantum dots), and numerical problems in applied biophysics, chemistry, and engineering. A key goal of the course is to familiarize students with the concepts and technology (plus their limitations) as being employed in current research problems in nanoscale systems biology, extending to nanobiotechnology. Prerequisite: Background in Biology, Physics, Chemistry or Engineering with coursework in Thermodynamics or permission of the instructor. Fall Also Offered As: CBE 5550 , MEAM 5550 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 5550",
+      "MEAM 5550"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Background in Biology, Physics, Chemistry or Engineering with coursework in Thermodynamics or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5560 Molecular Diagnostics for Precision Medicine",
+    "courseid": "BE 5560",
+    "coursedescription": "This course provides a broad overview of current molecular diagnostics that have been implemented in clinical settings. Students will gain knowledge in the field and they will apply the knowledge to come up with their own ideas on next generation molecular diagnostics that can resolve currently intractable clinical problems. The course also introduces key concepts and emerging concepts in the area of diagnostics. Topics covered in this course include point-of-care diagnostics, microfluidics, microscopy, liquid biopsy, digital assays, microfabrication, molecular probe design, biomarkers, biosensing, commercialization, and machine learning based data analysis. Upon completion of the course, students will have the ability to design their own diagnostic platforms. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5570 Quantitative Principles of Drug Design",
+    "courseid": "BE 5570",
+    "coursedescription": "An application of fundamental quantitative principles to biological problems across a wide range of scales. Through an engineering lens, we examine biology on the genetic, molecular, cellular, and population level. Using this information, we can begin to rationally engineer safe and effective biologics. Emphasis is placed on quantitative modeling in MATLAB/Python and immunotherapy design. Prerequisites: Pre-reqs for UG students ENM 2400 or Math 2400, BE 3090 , BE 3100 or by permission of the instructor. Recommended: Introduction to Coding Course for MATLAB or Python at the level of ENGR 1050 1 Course Unit",
+    "course-prerequsities": [
+      "ENM 2400",
+      "MATH 2400",
+      "BE 3090",
+      "BE 3100",
+      "ENGR 1050"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: Pre-reqs for UG students ENM 2400 or Math 2400, BE 3090 , BE 3100 or by permission of the instructor.",
+        "Recommended: Introduction to Coding Course for MATLAB or Python at the level of ENGR 1050 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5580 Principles of Biological Fabrication",
+    "courseid": "BE 5580",
+    "coursedescription": "BE 558 introduces methodological approaches that are currently used for the de novo construction of biological molecules - primarily, nucleic acids and proteins - and how to use these molecules to engineer the properties of cells and intact tissue. By the end of the semester, students should (i) possess a molecular-scale understanding of key biological synthesis (ii) and assembly processes, (ii) gain an intuition for how to create novel (iii) methodologies based on these existing processes, and (iii) appreciate (iv) the drivers of technology adoption (e.g. cost, time, ease, and (v) reproducibility). Throughout the course, we will place the material in context of applications in bioengineering and human health, including: protein engineering, drug discovery, synthetic biology & optogenetics, bio-inspired materials, and bio-electronic devices. Graduate standing or permission of the instructor. Undergraduate level biology, physics and chemistry. Fall, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Graduate standing or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5590 Multiscale Modeling of Chemical and Biological Systems",
+    "courseid": "BE 5590",
+    "coursedescription": "This course provides theoretical, conceptual, and hands-on modeling experience on three different length and time scales - (1) electronic structure (A, ps); (2) molecular mechanics (100A, ns); and (3) deterministic and stochastic approaches for microscale systems (um, sec). Students will gain hands-on experience, i.e., running codes on real applications together with the following theoretical formalisms: molecular dynamics, Monte Carlo, free energy methods, deterministic and stochastic modeling, multiscale modeling. Prerequisite: Undergraduate courses in numerical analysis and physical chemistry. Not Offered Every Year Also Offered As: CBE 5590 , SCMP 5590 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 5590",
+      "SCMP 5590"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5610 Musculoskeletal Biology and Bioengineering",
+    "courseid": "BE 5610",
+    "coursedescription": "The goal of this course is to educate students in core principles and expose them to cutting-edge research in musculoskeletal biology and bioengineering through (1) lectures covering the basic engineering principles, biological fundamentals, and clinical practices involved in the function, repair, and regeneration of the musculoskeletal tissues; (2) critical review and presentation by student groups of recent and seminal publications in the field related to the basic science, translation, and clinical practice of musculoskeletal biology and bioengineering, with discussion input by faculty members with relevant expertise. This course will place an emphasis on delivering multidisciplinary knowledge of cell and molecular biology, mechanics, material science, imaging, and clinical medicine as it relates to the field of musculoskeletal bioengineering and science. Graduate student standing in Engineering and/or CAMB. Undergraduate students with permission of the instructor. Fall, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Undergraduate students with permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5620 Drug Discovery and Development",
+    "courseid": "BE 5620",
+    "coursedescription": "Intro to Drug Discovery; Overview of Pharmaceutical Industry and Drug Development Costs, Timelines; High Throughput Screening (HTS): Assay Design and Sensitivity Solid Phase Synthesis and Combinatorial Chemistry; Enzyme Kinetics; Fluorescence, Linearity, Inner-filter effect, quenching; Time dynamics of a Michaelis-Menton Reaction; Competitive Inhibitor; FLINT, FRET, TRF, FP, SPA, alpha-screen; Enzyme HTS (protease); Cell based screening; Fura-2 ratio, loading signaling; Gfpcalmodulin-gfp integrated calcium response; Estrogen/ERE-Luc HTS; Problems with cell based screening (toxicity, permeability, nonspecificity); Instrumentation, Robotics/Automation; Z-factor; SAR, Positioning Scanning; Microarray HTS; IC50, % Conversion in HTS and IC50, Assay Optimization. Fall Also Offered As: CBE 5620 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5630 Advanced Topics in Musculoskeletal Biology & Bioengineering",
+    "courseid": "BE 5630",
+    "coursedescription": "This course is designed to build on core principles from BE5610 and will expose students to cutting-edge research in musculoskeletal engineering and science through (1) short lectures on key concepts and assays followed by (2) critical review and presentation by student groups of recent publications in the field, with discussion input by faculty members with relevant expertise. The course will prepare students for advanced doctoral studies in the field of musculoskeletal biology and bioengineering. Spring, odd numbered years only Prerequisite: BE 5610 1 Course Unit",
+    "course-prerequsities": [
+      "BE 5610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5650 Developmental Engineering of Tissues",
+    "courseid": "BE 5650",
+    "coursedescription": "This course discusses systems biology approaches to understanding tissue development, homeostasis, and organogenesis. Emphasis is placed on modern technologies, models, and approaches to understanding collective cell behaviors that sculpt tissue form and function, placing developmental principles within an engineering framework. We will consider morphogenetic, mechanobiology, and micro-engineering/sensing analyses. Senior Standing in Bioengineering or permission of the instructor. In keeping with modern graduate-level engineering classes, this course will assume some basic knowledge of coding and/or willingness to learn coding practices. The course will not attempt to serve as a comprehensive introduction to developmental biology ( CAMB 5110 : Principles of Development is a recommended potential companion course). However, your success in the course will not require familiarity with developmental biology. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Senior Standing in Bioengineering or permission of the instructor.",
+        "The course will not attempt to serve as a comprehensive introduction to developmental biology ( CAMB 5110 : Principles of Development is a recommended potential companion course)."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5660 Networked Neuroscience",
+    "courseid": "BE 5660",
+    "coursedescription": "The human brain produces complex functions using a range of system components over varying temporal and spatial scales. These components are couples together by heterogeneous interactions, forming an intricate information-processing network. In this course, we will cover the use of network science in understanding such large-scale and neuronal-level brain circuitry. Prerequisite: Graduate standing or permission of the instructor. Experience with Linear Algebra and MATLAB. Spring Also Offered As: ESE 5660 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5660"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Graduate standing or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5690 Systems Biology of Cell Signaling Behavior",
+    "courseid": "BE 5690",
+    "coursedescription": "This course discusses the principles of cell signaling and cell decisions. We start from a molecular description of cell signaling components. The course builds towards understanding how their interactions govern cell and tissue behavior and how these processes can breakdown in disease. We conclude with a survey of modern approaches to analyze and manipulate signaling networks to study and control biological systems. Graduate, Junior or Senior standing in Bioengineering or permission of the instructor. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Graduate, Junior or Senior standing in Bioengineering or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5700 Biomechatronics",
+    "courseid": "BE 5700",
+    "coursedescription": "Mechatronics is the combination of mechanical, electrical and computer engineering principles in the design of electromechanical systems. Biomechatronics is the application of these principles to human biology and includes orthopaedic, hearing, respiratory, vision and cardiovascular applications. In this hands-on, project-based course, these biomechatronic systems will be explored. Students will learn the basic mechanical and electrical elements needed to complete a biomechatronic design challenge including basic circuits, design considerations, material fabrication, microcontrollers and mechanisms (e.g. converting rotational motion into linear motion). Students will carry out a final design project utilizing these building blocks. A first course in programming (Matlab and/or C++ preferred) , Senior standing in BE or permission of the instructor Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A first course in programming (Matlab and/or C++ preferred) , Senior standing in BE or permission of the instructor Fall 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5710 The Goals of Scientific Inquiry",
+    "courseid": "BE 5710",
+    "coursedescription": "A key skill needed for a successful career in engineering and applied science is the ability to capitalize on current advances in technology (e.g., big data, data science, machine learning) to solve important problems. To gain this ability a student must go beyond an understanding of the technology itself, and instead must achieve the more challenging capacity to identify tractable problems, to formulate good questions, to initiate big ideas, to guide the advancement of science. In this course, we provide a broad and rich perspective on science as a field, laying the critical groundwork for just such achievements. Prerequisites: The course is open to all graduate students. Undergraduates must have passed Math 2410, ENM 3750 or equivalent, CIS 1200 or higher, and PHYS 0141 . PHIL 1800 or similar is beneficial but not required. Spring, even numbered years only 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2410",
+      "ENM 3750",
+      "CIS 1200",
+      "PHYS 0141",
+      "PHIL 1800",
+      "ONLY 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5730 Soft Skills for Bioengineering PhDs",
+    "courseid": "BE 5730",
+    "coursedescription": "This is a required course for BE PhD candidates and covers topics related to bioengineering and the PhD level graduate studies. The goal is to expose students to a breadth of bioengineering topics beyond their specific dissertation work. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BE 5740 Special Topics in Bioengineering",
+    "courseid": "BE 5740",
+    "coursedescription": "This special topics course will focus on emerging topics in Bioengineering at the macroscale from organ to population level covering genomics, epigenetics, molecular and cellular systems with focus on immunology, cancer, neuroengineering, biomechanics, and other facets of bioengineering. This course is intended for PhD students in their first year of study. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5760 The Cell as a Machine",
+    "courseid": "BE 5760",
+    "coursedescription": "The course is a general survey of cell mechanics, emphasizing problem-based and hypothesis-testing approaches. It is based on the concept that the cell is a complex machine, and that the cell can therefore be understood by first understanding principles of complex functions in robust machines, and then understanding the design and operation of complex functions specifically in cells. The course has been offered internationally for many years using a reverse-classroom format. Lectures, which are given primarily by Michael Sheetz, former director of the Mechanobiology Institute at the National University of Singapore, are pre-recorded and viewed independently by students, who also do outside reading and prepare questions in advance of a live, remote, 2 hour question/discussion session with Dr. Sheetz. The Penn course directors are present at all question/discussion sections, and lead tutorials on site. Homework and exams are graded, and Penn course directors will review them for consistency. Other sites that will be involved in the course in the coming year include Columbia, MIT, and Berkeley. Graduate Standing or permission of the instructor. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Graduate Standing or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5780 Principles of Controlled Release Systems",
+    "courseid": "BE 5780",
+    "coursedescription": "This course provides a basic understanding of the engineering of controlled release systems specifically geared towards the development of formulations for drug delivery, which stands as a 114 billion dollar industry. The course focuses on topics at the interface between engineering and medicine, such as biomaterials, pharmacokinetics, polymer chemistry, reaction kinetics, and transport phenomena. Design of controlled release systems for transdermal, aerosol, oral, gene, and targeted cellular delivery are discussed with emphasis placed on fabrication, US FDA regulatory considerations, and the relevant physiological milieu. The course comprises (1) foundational lectures that provide the basic tools for the student to elaborate a controlled delivery system, (2) an overview of key current research on biomedical controlled release systems for different pathologies and body compartments, (3) an elevator pitch competition for original ideas that use controlled release systems, and (4) a project; plan and presentation to implement the pitched controlled release; system idea to practice design and problem-solving skills and practice basic elements of business proposal. Graduate students and senior standing in Bioengineering, Chemical and Biomolecular Engineering, or permission of the instructor. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Graduate students and senior standing in Bioengineering, Chemical and Biomolecular Engineering, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 5810 Techniques of Magnetic Resonance Imaging",
+    "courseid": "BE 5810",
+    "coursedescription": "Detailed introduction to the physics and engineering of magnetic resonance imaging as applied to medical diagnosis. Covered are magnetism spatial encoding principles, Fourier analysis, spin relaxation, imaging pulse sequences and pulse design, contrast mechanisms, chemical shift, flow encoding, diffusion and perfusion, and a discussion of the most relevant clinical applications. Also Offered As: BMB 5810 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5830 Physics of Medical / Molecular Imaging",
+    "courseid": "BE 5830",
+    "coursedescription": "Physical principles of diagnostic radiology, fluoroscopy, computed tomography; principles of ultrasound and magnetic resonance imaging; radioisotope production, gamma cameras, SPECT systems, PET systems; diagnostic and nuclear medicine facilities and regulations. The course includes a component emphasizing the emerging field of molecular imaging. Fall Mutually Exclusive: BE 4830 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5840 The Mathematics of Medical Imaging and Measurement",
+    "courseid": "BE 5840",
+    "coursedescription": "The last several decades have seen major revolutions in both medical and non-medical and imaging technologies. Underlying all of these advances are sophisticated mathematical tools to model the measurement process and reconstruct images. This course begins with an introduction of the mathematical models and then proceeds to discuss the integral transforms that underlie these models: the Fourier transform, the Radon transform and the Laplace transform. We discuss how each of these transforms is inverted, both in theory and in practice. Along the way we study interpolation, sampling, approximation theory, filtering and noise analysis. This course assumes a thorough knowledge of linear algebra and a knowledge of analysis at the undergraduate level ( MATH 3140 and MATH 3600 and MATH 3610 , or MATH 5080 and MATH 5090 ). Not Offered Every Year Also Offered As: AMCS 5840 , MATH 5840 Prerequisite: MATH 1410 AND ( MATH 3600 OR MATH 5080 ) AND ( MATH 3610 OR MATH 5090 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410",
+      "MATH 3600",
+      "MATH 5080",
+      "MATH 3610",
+      "MATH 5090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5850 Materials for Bioelectronics",
+    "courseid": "BE 5850",
+    "coursedescription": "Bioelectronics is an emerging field that involves the use of engineering principles to create devices for applications in biology, medicine, and health sciences. One of the most important aspects of bioelectronics is the development of communication interfaces between biological materials (cells, tissues and organs) and manmade devices for optimal energy delivery and signal transduction efficacies. Progress in materials science and engineering is bringing revolutionary advances to the biointerface design and has unlocked unprecedented applications in various biomedical fields. This course focuses on the materials science and engineering concepts that are of relevance to bioelectronics. It also introduces basic biochemical, biophysical and physiological principles that are required to understand the design and application of bioelectronic devices. Spring Also Offered As: MSE 5850 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5950 Advanced Systems Neuroengineering",
+    "courseid": "BE 5950",
+    "coursedescription": "An introduction to systems neuroscience and neuroengineering applications to systems neuroscience and computational neuroscience. The focus will be on the \"virtuous cycle\" between advanced neuroengineering to develop technology to measure and manipulate brain function; this increases our understanding of brain function, which in turn, leads to improved devices, and eventual application to clinical problems. The course spans human and non-human primate research. The core brain systems for sensory, motor, cognitive, emotional functions will be introduced and their relevance for neuroengineering discussed. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 5990 Master's Independent Study",
+    "courseid": "BE 5990",
+    "coursedescription": "The purpose of BE 5990 is to allow a student to create a customized curriculum to study material beyond or outside the scope of our standard BE course offerings. Independent study is NOT a research or design project, it is a one-on-one or small-group course with a professor. The course should require an effort comparable to that of a regular course, about 10-12 hours per week. A paper or presentation is required. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-4 Course Units"
+    }
+  },
+  {
+    "coursename": "BE 6080 Medical Entrepreneurship: Commercializing Translational Science",
+    "courseid": "BE 6080",
+    "coursedescription": "This course provides in depth insight into the process by which health technology platforms including scientific discoveries are transformed into viable commercial entities. This includes methods to evaluate market opportunities and derisk critical assumptions within the rapidly changing academic and healthcare environment. Topics include intellectual property creation and licensing, technology transfer, regulatory pathways, raising capital/NIH SBIR/STTR grant funding, go to market strategy, market sizing, formation equity, and recruiting co-founders. The major project will involve the formation of teams that will create a defendable business plan and consummate in a presentation (pitch deck) intended to raise capital. The course will be especially valuable for students who may be considering entrepreneurial career paths including starting a company, working for an early stage venture, healthcare consulting, or assuming innovation leadership roles. Spring Also Offered As: MTR 6200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 6100 Special Topics - NeuroAI - A Principled Understanding of the Human Brain",
+    "courseid": "BE 6100",
+    "coursedescription": "Traditional neuroscience courses present a fragmented view of the field, cataloging empirical observations and theoretical constructs without providing strong conceptual links between them. The discipline has yet to establish core principles that promise an overarching understanding. This course, heavily leaning on deep learning, will provide such an overarching way of thinking about brains. The classes will mostly be lecture based, building on an upcoming textbook. Homework will primarily be the coding up and analyzing of models. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 6400 Mechanobiology of the Cell and its Microenvironment",
+    "courseid": "BE 6400",
+    "coursedescription": "This course is geared towards first and second-year graduate students in BGS/CAMB and SEAS/BE with an interest in the interface of extracellular matrix (ECM) cell biology and biomechanics. Students will learn about the ECM and adhesion receptors and their impact on the cytoskeleton and signaling, as well as fundamental concepts in biomechanics and engineered materials. We will discuss how these topics can inform the study of cell biology, physiology, and disease. An additional objective of the course is to give students experience in leading critical discussions and writing manuscript reviews. Invited outside speakers will complement the strengths of the Penn faculty. Offered in the spring semester of even years only. Spring, even numbered years only Also Offered As: CAMB 7030 Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is geared towards first and second-year graduate students in BGS/CAMB and SEAS/BE with an interest in the interface of extracellular matrix (ECM) cell biology and biomechanics."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 6500 Advanced Biomedical Imaging Applications",
+    "courseid": "BE 6500",
+    "coursedescription": "The course will cover a broad range of biomedical imaging technologies including X-ray, MRI, US, molecular and optical imaging. The curriculum will focus on the design of biomedical imaging based research studies spanning from basic technology development through clinical trials. This discussion oriented course is expected prepare students for integrating imaging technology and biomedical concepts to answer biological and medical questions. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 6620 Advanced Molecular Thermodynamics",
+    "courseid": "BE 6620",
+    "coursedescription": "This course begins with a brief review of classical thermodynamics, including the development of Maxwell relationships and stability analysis. The remainder of the course develops the fundamental framework of statistical mechanics, then reviews various related topics including ideal and interacting gases, Einstein and Debye models of crystals, lattice models of liquids, and the basis of distribution function theory. Fall Also Offered As: CBE 6180 , MEAM 6620 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BE 6990 Bioengineering Graduate Seminar",
+    "courseid": "BE 6990",
+    "coursedescription": "This is a required course for BE PhD candidates and covers topics related to bioengineering and the PhD level graduate studies. The goal is to expose students to a breadth of bioengineering topics beyond their specific dissertation work. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "BE 7110 Integrative plant and animal mechanobiology",
+    "courseid": "BE 7110",
+    "coursedescription": "This course aims to provide students with an understanding of biomechanics that spans the plant and animal kingdoms, with the goal of emphasizing principles common to both. Major concepts include 1) Plant and Animal Cell Biology; 2) Solid, Fluid, and Transport Mechanics; and 3) Integrating Biology and Mechanics - Big Questions. In addition to lectures, there will be two journal article discussion sections. Most lectures will be given by Penn faculty, although selected topics (particularly in plant biology and mechanics) will be covered by faculty at other sites through lectures broadcast remotely. The Penn director will be present at all sessions of the class. Undergraduates require special permission from the director. Fall Also Offered As: CAMB 7110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Undergraduates require special permission from the director."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 9950 Doctoral Dissertation Status",
+    "courseid": "BE 9950",
+    "coursedescription": "Ph.D. Students register for Doctoral Dissertation Status after they have advanced to Ph.D. candidacy by completing the Candidacy Exam which consists of the Dissertation Proposal Defense.. Permission required. For PhD candidates only. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "Permission required."
+      ]
+    }
+  },
+  {
+    "coursename": "BE 9990 Master's Thesis",
+    "courseid": "BE 9990",
+    "coursedescription": "For students working on an advanced research program leading to the completion of master's thesis requirements. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1,2 Course Units"
+    }
+  },
+  {
+    "coursename": "BE 9999 Independent Study Research",
+    "courseid": "BE 9999",
+    "coursedescription": "For Bioengineering doctoral students studying a specific advanced subject area. Students should discuss with the faculty supervisor the scope of the independent study/research and know the expectations and work involved. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-3 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 0001 Introduction to Behavioral Economics",
+    "courseid": "BEPP 0001",
+    "coursedescription": "Governments and firms set policy in a world of behavioral agents. This course will present economic approaches to these policy problems when individuals act in behavioral ways. Readings will be newspaper articles that will be discussed in class. Assignments -- three problem sets -- will include qualitative and quantitative analysis. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 1000 Introductory Economics for Business Students",
+    "courseid": "BEPP 1000",
+    "coursedescription": "Microeconomics is the study of the behavior of households and firms, whose collective decisions determine how resources are allocated in a free market economy. We will study when markets are likely to produce \"efficient\" outcomes, and when government intervention may improve on or harm the competitive market outcome. We will use economic theory to analyze issues like a gas tax to change reliance on oil, minimum wages to increase salaries of the working poor, and government subsidies to increase education. Macroeconomics is the study of the economy as a whole. We will understand how the size of the US economy is determined, how unemployment is measured, how inflation affects life. We will look at policy options that the government and the Federal Reserve Bank face, and discuss pros and cons of their actions. Economic arguments are often used in debates about government policies, discussion of business strategies, and many of life's other arenas. The goal of the course is to teach you to \"think like an economist,\" which I hope will help you to understand the world around you, make better economic decisions in your own life, and be a more informed citizen and voter. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2010 American Public Policy through an Economic Lens",
+    "courseid": "BEPP 2010",
+    "coursedescription": "This course explores the economics and politics of public policy to provide an analytic framework for considering why, how, and with what success/failure government intervenes in a variety of policy areas. Particular attention will be paid to important policy issues relating to taxation, social security, low-income assistance, health insurance, education (both K-12 and higher ed), the environment, and government deficits. The costs and benefits of alternative policies will be explored along with the distribution of responsibilities between the federal, state and local governments. While the course will focus primarily on U.S. policies, the topics covered (e.g. tax reform, deficits versus austerity, etc.) are currently at the center of the policy debate in many other industrialized countries as well. Fall or Spring Mutually Exclusive: BEPP 7700 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2020 Consumer Financial Decision Making",
+    "courseid": "BEPP 2020",
+    "coursedescription": "Research shows that many individuals are profoundly underinformed about important financial facts and financial products, which frequently lead them to make mistakes and lose money. Moreover, consumer finance comprises an enormous sector of the economy, including products like credit cards, student loans, mortgages, retail banking, insurance, and a wide variety of retirement savings vehicles and investment alternatives. Additionally, recent breakthroughs in the FinTech arena are integrating innovative approaches to help consumers. Though virtually all people use these products, many find financial decisions to be confusing and complex, rendering them susceptible to fraud and deception. As a result, government regulation plays a major role in these markets. This course intended for Penn undergraduates considers economic models of household decisions and examines evidence on how consumers are managing (and mismanaging) their finances. Although academic research has historically placed more attention on corporate finance, household finance is receiving a brighter spotlight now-- partly due to its role in the recent financial crisis. Thus the course is geared toward those seeking to take charge of their own financial futures, anyone interested in policy debates over consumer financial decision making, and future FinTech entrepreneurs. Fall Also Offered As: FNCE 2020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Thus the course is geared toward those seeking to take charge of their own financial futures, anyone interested in policy debates over consumer financial decision making, and future FinTech entrepreneurs."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 2030 Business in the Global Political Environment.",
+    "courseid": "BEPP 2030",
+    "coursedescription": "This course examines the non-market components of business and the broader political, regulatory, and civil context in which companies function. This course addresses how businesses interact with political and regulatory institutions, as well as the general public, with a focus on the global economy. The first portion examines the realities associated with political economy and the actual making of laws and regulations by imperfect politicians and regulators. The second portion analyzes the economic rationale for legislation and regulation in the presence of market failures. The course covers specific market failures and potential solutions including government regulation. Fall or Spring Prerequisite: ECON 0100 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2080 Housing Markets",
+    "courseid": "BEPP 2080",
+    "coursedescription": "This course is designed for students interested in the economics and operations of housing markets. It is primarily a U.S.-focused course. The class is divided into five sections: (1) economic analysis of housing market fundamentals (supply and demand); (2) a policy analysis section on housing affordability issues in the U.S.; (3) operations of homebuilders and rental landlords, as well as the single family rental sector; this section includes a series of guest lecturers from industry executives; (4) the nature of housing cycles; and (5) a discussion of factors that have affected the evolution of housing markets over the long run. This course presumes knowledge of intermediate microeconomics. For Wharton students, this means you must have passed BEPP 2500 . Non-Wharton students should have taken the equivalent course in the College. The class is primarily lecture based, although we will have one flipped class, as well as a number of guest lecturers from industry. There are two in-class midterms and two assignments. Spring Also Offered As: REAL 2080 Prerequisite: BEPP 2500 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 2500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students interested in the economics and operations of housing markets."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 2110 Tax Policy and Practice in the Philadelphia Community",
+    "courseid": "BEPP 2110",
+    "coursedescription": "The academic component of the course will focus on several areas: (1) The Color of Money: Black Banks and the Racial Wealth Gap. Students will read this book throughout the semester to support their understanding of the community that they will be serving. (2) Statutory tax system. Students will learn about the tax system as it relates to individuals and sole proprietors. The VITA training covers general tax preparation, with a specific focus on tax credits available to VITA-eligible taxpayers and the use of VITA software. In addition, one session of the course will include a guest lecture/discussion. It will focus on statutory tax issues related to organizational form choice for self-employed and gig economy workers, which is an important statutory issue in low-income communities. (3) Social policy debate. Tax policy, including deductions, subsidies and credits, are one tool that lawmakers can use to get more cash in the hands of individuals and families, especially for low-income groups. Students will consider the effectiveness and usefulness of tax policies relative to other tools that the government has available. There are three guest lecturers for the sessions on tax policy. (4) Working with people. Volunteering with VITA requires students to work with people from a low-income community on the sensitive issue of personal finances. Students will learn to discuss sensitive financial issues with lower-income adults (including many seniors) through readings and in-class discussions, and by reflecting on their real-life experiences in the local community. This skill is important in a variety of roles such as healthcare (physicians and nurses), business (e.g., the HR function), and education. The community service part of the course is volunteering with VITA, which is the IRS’s “Volunteer Income Tax Assistance” program. Following training, students will perform tax services for the West Philadelphia community during the tax season. The course will meet once a week in three-hour sessions for 8-9 weeks during the Spring semester. Students are expected to be in the field performing service throughout a significant portion of the semester. As described on the IRS website, the VITA program has operated for over 50 years. Volunteers offer free tax help to people who need assistance in preparing their own tax returns, including: • People who generally make $58,000 or less • Persons with disabilities; and • Limited English-speaking taxpayers. Spring Also Offered As: ACCT 2110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2200 Behavioral Economics, Markets, and Public Policy",
+    "courseid": "BEPP 2200",
+    "coursedescription": "Behavioral economics has revealed a variety of systematic ways in which people deviate from being perfectly selfish, rational, optimizing agents. These findings have important implications for government policy and firm behavior. This course will explore these implications by answering two main questions: (1) what does behavorial economics imply for when and how the government should intervene in markets? (2) What does behavioral economics imply for firms' pricing and production decisions? The course will present the standard economic approaches to answering these questions and then explore how answers change when we consider that people act in behavioral ways. Towards the end of the course, we will investigate specific policy questions, allowing us to debate solutions while hearing from policy makers operating in a world of behavioral agents. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2300 Urban Fiscal Policy",
+    "courseid": "BEPP 2300",
+    "coursedescription": "This course will examine the provision of public services for firms and people through cities and other local governments. Why cities exist, when fiscal policy fails, investments in infrastructure, how to improve school quality, realities of local governments such as inequality, crime, corruption, high cost of living, congestion, and unfunded pensions will be covered. We will pay special attention to recent topics, such as the impact of the Covid-19 pandemic on city and public school finances, racial differences in police use of force, partnerships with the private sector, enterprise zones, the role of technology, and real estate policies that may (or may not!) promote housing affordability, such as inclusionary zoning and rent control. Fall Also Offered As: FNCE 2300 , REAL 2300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2330 Consumers, Firms and Markets in Developing Countries",
+    "courseid": "BEPP 2330",
+    "coursedescription": "Nearly four-fifths of the world's population lives in low income or developing countries. Though currently far behind the U.S., the 15 fastest growing economies/markets in the world are all developing countries. And developing countries already account for 6 of the world's 15 largest economies. This course will examine economic life, including consumers, firms and markets, in low income countries. We will apply both economic theory and empirical analysis for analyzing the roles of both business and government in consumption, production and market equilibria. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2360 International Housing Comparisons",
+    "courseid": "BEPP 2360",
+    "coursedescription": "This course analyzes housing finance systems and housing market outcomes across the globe. In the US, the course focuses on the development of securitization markets and addresses the current challenges of housing finance reform, including the future of Fannie Mae and Freddie Mac. Internationally, the course covers issues of access to housing and housing informality in developing countries, financial crises arising out of the housing sector, and market-oriented and public policy solutions. The course features a wide array of speakers in finance, government and academia who contribute their perspectives to pressing issues of mortgage market design. REAL 2360 can be counted toward the Wharton Undergraduate Global Economy, Business, and Society (GEBS) requirement. Spring Also Offered As: REAL 2360 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2500 Managerial Economics",
+    "courseid": "BEPP 2500",
+    "coursedescription": "This course will introduce you to \"managerial economics\" which is the application of microeconomic theory to managerial decision-making. Microeconomic theory is a remarkably useful body of ideas for understanding and analyzing the behavior of individuals and firms in a variety of economic settings. The goal of the course is for you to understand this body of theory well enough so that you can effectively analyze managerial (and other) problems in an economic framework. While this is a \"tools\" course, we will cover many real-world applications, particularly business applications, so that you can witness the usefulness of these tools and acquire the skills to use them yourself. We will depart from the usual microeconomic theory course by giving more emphasis to prescription: What should a manager do in order to achieve some objective? That course deliverable is to compare with description: Why do firms and consumers act the way they do? The latter will still be quite prominent in this course because only by understanding how other firms and customers behave can a manager determine what is beswt for him or her to do. Strategic interaction is explored both in product markets and auctions. Finally, the challenges created by asymmetric information - both in the market and within the firm - are investigated. Fall or Spring Mutually Exclusive: BEPP 2508 , BEPP 9500 Prerequisite: ECON 0100 AND MATH 1300 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "MATH 1300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2508 Managerial Economics",
+    "courseid": "BEPP 2508",
+    "coursedescription": "This course will introduce you to \"managerial economics\" which is the application of microeconomic theory to managerial decision-making. Microeconomic theory is a remarkably useful body of ideas for understanding and analyzing the behavior of individuals and firms in a variety of economic settings. The goal of the course is for you to understand this body of theory well enough so that you can effectively analyze managerial (and other) problems in an economic framework. While this is a \"tools\" course, we will cover many real-world applications, particularly business applications, so that you can witness the usefulness of these tools and acquire the skills to use them yourself. We will depart from the usual microeconomic theory course by giving more emphasis to prescription: What should a manager do in order to achieve some objective? That course deliverable is to compare with description: Why do firms and consumers act the way they do? The latter will still be quite prominent in this course because only by understanding how other firms and customers behave can a manager determine what is beswt for him or her to do. Strategic interaction is explored both in product markets and auctions. Finally, the challenges created by asymmetric information - both in the market and within the firm - are investigated. Mutually Exclusive: BEPP 2500 , BEPP 9500 , ECON 2100 Prerequisite: ECON 0100 AND MATH 1300 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "MATH 1300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2610 Risk Analysis and Environmental Management",
+    "courseid": "BEPP 2610",
+    "coursedescription": "This course will introduce students to concepts in risk governance. We will delve into the three pillars of risk analysis: risk assessment, risk management, and risk communication. The course will spend time on risk financing, including insurance markets. There will be particular emphasis on climate risks, although the course will also discuss several other examples, including pandemics, biodiversity loss, and systemic risks, among others. The course will cover how people perceive risks and the impact this has on risk communication and management. We will explore public policy surrounding risk management and how the public and private sectors can successfully work together to build resilience, particularly to changing risks. Fall or Spring Also Offered As: OIDD 2610 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2630 Environmental & Energy Economics and Policy",
+    "courseid": "BEPP 2630",
+    "coursedescription": "This course examines environmental and energy issues from an economist's perspective. Over the last several decades, energy markets have become some of the most dynamic markets of the world economy, as they experienced a shift from heavy regulation to market-driven incentives. First, we look at scarcity pricing and market power in electricity and gasoline markets. We then study oil and gas markets, with an emphasis on optimal extraction and pricing, and geopolitical risks that investors in hydrocarbon resources face. We then shift gears to the sources of environmental problems, and how policy makers can intervene to solve some of these problems. We talk about the economic rationale for a broad range of possible policies: environmental taxes, subsidies, performance standards and cap-and-trade. In doing so, we discuss fundamental concepts in environmental economics, such as externalities, valuation of the environment and the challenge of designing international agreements. At the end of the course, there will be special attention for the economics and finance of renewable energy and policies to foster its growth. Finally, we discuss the transportation sector, and analyze heavily debated policies such as fuel-economy standards and subsidies for green vehicles. Prerequisites: An introductory microeconomics course (ECON1, or another course approved by the instructor) will be sufficient in most cases; BEPP 250 or an equivalent intermediate microeconomics course is recommended. Also Offered As: OIDD 2630 1 Course Unit",
+    "course-prerequsities": [
+      "ECON1",
+      "BEPP 250",
+      "OIDD 2630"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: An introductory microeconomics course (ECON1, or another course approved by the instructor) will be sufficient in most cases; BEPP 250 or an equivalent intermediate microeconomics course is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 2640 Climate and Financial Markets",
+    "courseid": "BEPP 2640",
+    "coursedescription": "Climate change might be the defining challenge of our times, with a wide range of effects on financial markets and the broader economy. At the same time, financial markets play an important role in financing the transition to a net-zero economy, and incentivizing firms and investors to adapt their strategies. In this course, we examine how climate risks—both physical and regulatory—affect firms, financial markets (including equity, corporate debt, green bonds, municipal bonds, insurance, and carbon markets), and markets for energy, real estate and mortgages. We also examine the role that firms’ disclosures and third-party information sources play. Because financial markets are shaped by the information that is available to market participants, we investigate the impact of ESG reporting and rating agencies, including the costs and benefits of regulating ESG reporting and the impact of greenwashing. In the second part of the course, we study how governments and private investors finance investments in climate technologies. Here, we discuss various financial instruments that have been developed to address climate-change concerns. Given the enormous importance of electrification as a pathway towards a low-carbon future, there is special emphasis on renewable energy finance and economics. We also discuss the latest evidence of how climate risk has shaped decisions inside organizations, such as spin-offs, hedging, and the structure of executive-compensation contracts. Spring Also Offered As: ACCT 2640 Mutually Exclusive: BEPP 7640 Prerequisite: ACCT 1010 AND BEPP 2500 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "ACCT 1010",
+      "BEPP 2500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2800 Applied Data Analysis",
+    "courseid": "BEPP 2800",
+    "coursedescription": "This course will examine how and when data can be used specifically to infer whether there is a causal relationship between two variables. We will emphasize (a) the critical role of an underlying economic theory of behavior in interpreting data and guiding analysis, as well as (b) a range of advanced techniques for inferring causality from data, such as randomized controlled trials, regression discontinuity, difference-in-difference, audit study (mystery shopping) approaches and stock-market event studies. The issue of causality, and the relevance of thinking about models and methods for inferring causality, is just as central and important for \"Big Data\" as it is when working with traditional data sets in business and public policy. The emphasis will not be on proofs and derivations but rather on understanding the underlying concepts, the practical use, implications and limitations of techniques. Students will work intensively with data, drawing from examples in business and public policy, to develop the skills to use data analysis to make better decisions. All analysis will be conducted using R. The goals of the course are for students to become expert consumers able to interpret and evaluate empirical studies as well as expert producers of convincing empirical analysis themselves. Fall or Spring Mutually Exclusive: BEPP 7800 Prerequisite: STAT 1020 OR STAT 1120 OR STAT 4310 OR ECON 2310 OR PSCI 1801 OR SOCI 2010 1 Course Unit",
+    "course-prerequsities": [
+      "STAT 1020",
+      "STAT 1120",
+      "STAT 4310",
+      "ECON 2310",
+      "PSCI 1801",
+      "SOCI 2010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2840 Game Theory for Business and Life",
+    "courseid": "BEPP 2840",
+    "coursedescription": "The objective of this course is to make you more skilled in strategic reasoning. Strategic situations permeate our lives and we will examine many such situations through the lens of game theory. The course is composed of game-theoretic concepts, applications, and experiential learning. The bulk of the applications are to business situations including product entry, bargaining, managerial incentive contracts, and network effects. Given the ubiquitous presence of strategic situations in human societies, applications will also extend to politics, war, sports, history, crime, theology, and every day life, and cover such topics as steroid use in sports, traffic congestion, corruption, racial discrimination, and sexual harassment. Students will regularly participate in experiments involving strategic reasoning, and form teams to compete in a simulated industry environment. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2890 Economic Globalization: Policy, History and Contemporary Issues",
+    "courseid": "BEPP 2890",
+    "coursedescription": "This course is intended to deepen understanding of the major contemporary issues in the world economy. The focus is on the \"big picture\" of global economic developments and the evolution of economic thought over the last one hundred years. The topics include: financial market booms and busts; business cycles; monetary and fiscal policies; inequality; the social welfare state; technological change and economic growth; and international trade and financial arrangements. The time period covers: the Roaring Twenties; the Great Depression, the post war Golden Age (1945-1973); the stagflation of the 1970s; the Washington Consensus era of the market liberalization (1980-2007); and the 2008 financial crisis and Great Recession of 2007-2010 and its aftermath. The course also explores different schools of thought. The course will chronicle and compare economic policy and performance of the United States, Europe, Japan and emerging markets (Asia, Latin America, Africa). Spring Mutually Exclusive: BEPP 7890 Prerequisite: ECON 0200 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 2990 Independent Study",
+    "courseid": "BEPP 2990",
+    "coursedescription": "Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 3050 Risk Management",
+    "courseid": "BEPP 3050",
+    "coursedescription": "The last financial crisis and subsequent recession provide ample evidence that failure to properly manage risk can result in disaster. Individuals and firms confront risk in nearly all decisions they make. People face uncertainty in their choice of careers, spending and saving decisions, family choices and many other facets of life. Similarly, the value that firms create by designing and marketing good products is at risk from a variety of sources. The bankruptcy of a key supplier, sharp rise in cost of financing, destruction of an important asset, impact of global warming, or a liability suit can quickly squander the value created by firms. In extreme cases, risky outcomes can bankrupt a firm, as has happened recently to manufacturers of automobile parts and a variety of financial service firms. The events since the Global Financial Crisis also offer stark reminders that risk can impose significant6 costs on individuals, firms, governments, and society as a whole. This course explores how individuals and firms assess and evaluate risk, examines the tolls available to successfuly mange risk and discusses real-world phenomena that limit the desired amount of risk-sharing. Our focus is primarily on explaining the products and institutions that will serve you better when making decisions in your future careers and lives. Fall or Spring Also Offered As: OIDD 3050 Mutually Exclusive: BEPP 8050 Prerequisite: BEPP 2500 AND FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 2500",
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 4010 Public Policy Analysis",
+    "courseid": "BEPP 4010",
+    "coursedescription": "BEPP 4010 fulfills the Wharton capstone requirement by giving students an opportunity to apply their skills to assess a vital public policy question at the local, state, national, or global level. The policy topics the students can choose from will vary from year to year in order to ensure that they are topical and relevant. The course will also provide students with background on relevant conceptual/methodological topics for assessing policy, including experimental and quasi-experimental approaches, frameworks for policy analysis, behavioral economics, and data science (as appropriate for a given topic). Students will work in groups to produce a capstone report which provides a policy analysis for their chosen topic, along with policy recommendations. Not Offered Every Year Not Offered Every Year Prerequisite: BEPP 2500 AND WH 1010 AND WH 2010 AND MGMT 3010",
+    "course-prerequsities": [
+      "BEPP 2500",
+      "WH 1010",
+      "WH 2010",
+      "MGMT 3010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 6110 Microeconomics for Managers: Foundations",
+    "courseid": "BEPP 6110",
+    "coursedescription": "This course covers microeconomic foundations for understanding business decision-making. The first unit, “Operating a Firm,” covers demand estimation, cost minimization, and pricing with market power. Unit two, “Markets and Equilibrium,” covers supply and demand, market equilibrium, taxes and tax incidence, and externalities. Unit three presents an introduction to game theory, including simultaneous-move and sequential games. Students are expected to have mastered these materials before enrolling in the second-quarter course, Microeconomics for Managers: Advanced Applications. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 6120 Microeconomics for Managers: Advanced Applications",
+    "courseid": "BEPP 6120",
+    "coursedescription": "This course will cover the economic foundations of business strategy and decision-making in market environments with other strategic actors and less than full information, as well as advanced pricing strategies. Topics include oligopoly models of market competition, creation, and protection, sophisticated pricing strategies for consumers with different valuations or consumers who buy multiple units (e.g. price discrimination, bundling, two-part tariffs), strategies for managing risk and making decisions under uncertainty, asymmetric information and its consequences for markets, and finally moral hazard and principle-agent theory with application to incentive contacts. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 6130 Business Analytics with Data for Non-Coders",
+    "courseid": "BEPP 6130",
+    "coursedescription": "This 0.5 CU course merges the instruction offered in Managerial Economics with data to flesh out related concepts with practical business applications. The purpose of the course is to close the gap between the theory of business analytics and its actual practice, i.e., how you can really use it in your practice. More than ever, there is a need for business leaders to become more data literate: “Business leaders at every level need to become data literate and be able to understand data and analytical concepts that may have previously seemed out of reach, including statistical methods, machine learning, and data manipulation. With this spread of data literacy comes the powerful ability to make educated business decisions that rely on the smart use of data, rather than on an individual’s opinions. In the past, these tasks were extremely complex and would be handed off to engineers. With the tools that exist today, business leaders are able to dive into their own analytics and uncover powerful insights.” (Microsoft) You will learn how to conduct in-depth business analytics based on sensible economics reasoning. As the main project, you will build an end-to-end business workflow. The problem and data can come from a current employer, from your own startup idea, or, from the instructor to represent a hypothetical setting. In the tradition of MGEC, the course will also motivate future electives to refine components of your analysis. Ultimately, you will walk away from the course with a fuller understanding of how different business and economics concepts “fit together” to answer big, relevant questions. Your new skillset is repeatable for your future projects. You will also learn key ideas that allow you to work with future coding teams in your future work, thereby closing the language gap between business economic goals and coding implementation. Normally, this type of comprehensive problem solving would require using coding languages like Python or R. However, the instructor for this course has developed a no-code toolbox that can be used with Microsoft Excel that allows for end-to-end analytics, making data analytics accessible to a much wider audience. This software will be provided for free to you. Fall Prerequisite: BEPP 6110",
+    "course-prerequsities": [
+      "BEPP 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 6200 Behavioral Economics, Markets and Public Policy",
+    "courseid": "BEPP 6200",
+    "coursedescription": "Behavioral economics has revealed a variety of systematic ways in which people deviate from being perfectly selfish, rational, optimizing agents. These findings have important implications for government policy and firm behavior. This course will explore these implications by answering two main questions: (1) what does behavioral economics imply for when and how the government should intervene in markets? (2) What does behavioral economics imply for firms' pricing and production decisions? The course will present the standard economic approaches to answering these questions and then explore how answers change when we consider that people act in behavioral ways. Towards the end of the course, we will investigate specific policy questions, allowing us to debate solutions while hearing from policy makers operating in a world of behavioral agents. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7080 Housing Markets",
+    "courseid": "BEPP 7080",
+    "coursedescription": "This course is designed for students interested in the economics and operations of housing markets. It is primarily a U.S.-focused course. The class is divided into five sections: (1) economic analysis of housing market fundamentals (supply and demand); (2) a policy analysis section on housing affordability issues in the U.S.; (3) operations of homebuilders and rental landlords, as well as the single family rental sector; this section includes a series of guest lecturers from industry executives; (4) the nature of housing cycles; and (5) a discussion of factors that have affected the evolution of housing markets over the long run. This course presumes knowledge of intermediate microeconomics. For Wharton students, this means you must have passed MGEC 6110. Non-Wharton students should have taken the equivalent course in the College. The class is primarily lecture based, although we will have one flipped class, as well as a number of guest lecturers from industry. There are two in-class midterms and two assignments. Spring Also Offered As: REAL 7080 Prerequisite: BEPP 6110 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students interested in the economics and operations of housing markets."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 7610 Risk Analysis and Environmental Management",
+    "courseid": "BEPP 7610",
+    "coursedescription": "This course will introduce students to concepts in risk governance. We will delve into the three pillars of risk analysis: risk assessment, risk management, and risk communication. The course will spend time on risk financing, including insurance markets. There will be particular emphasis on climate risk management, including both physical impact risk and transition risk, although the course will also discuss several other examples, including management of environmental risks, terrorism, and cyber-security, among other examples. The course will cover how people perceive risks and the impact this has on risk management. We will explore public policy surrounding risk management and how the public and private sector can successfully work together to build resilience, particularly to changing risks. Fall or Spring Also Offered As: ESE 5670 , OIDD 7610 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7630 Energy Markets & Policy",
+    "courseid": "BEPP 7630",
+    "coursedescription": "Over the last several decades, energy markets have become some of the most dynamic markets of the world economy. Traditional fossil fuel and electricity markets have been seen a partial shift from heavy regulation to market-driven incentives, while rising environmental concerns have led to a wide array of new regulations and \"environmental markets\". The growth of renewable energy could be another source of rapid change, but brings with it a whole new set of technological and policy challenges. This changing energy landscape requires quick adaptation from energy companies, but also offers opportunities to turn regulations into new business. The objective of this course is to provide students with the economist's perspective on a broad range of topics that professionals in the energy industry will encounter. Topics include the effect of competition, market power and scarcity on energy prices, the impact of deregulation on electricity and fossil fuel markets, extraction and pricing of oil and gas, geopolitical uncertainty and risk in hydrocarbon investments, the environmental impact and policies related to the energy sector, environmental cap-and-trade markets, energy efficiency, the economics and finance of renewable energy, and recent developments in the transportation sector. Also Offered As: OIDD 7630 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7640 Climate and Financial Markets",
+    "courseid": "BEPP 7640",
+    "coursedescription": "Climate change might be the defining challenge of our times, with a wide range of effects on financial markets and the broader economy. At the same time, financial markets play an important role in financing the transition to a net-zero economy, and incentivizing firms and investors to adapt their strategies. In this course, we examine how climate risks—both physical and regulatory—affect firms, financial markets (including equity, corporate debt, green bonds, municipal bonds, insurance, and carbon markets), and markets for energy, real estate and mortgages. We also examine the role that firms’ disclosures and third-party information sources play. Because financial markets are shaped by the information that is available to market participants, we investigate the impact of ESG reporting and rating agencies, including the costs and benefits of regulating ESG reporting and the impact of greenwashing. In the second part of the course, we study how governments and private investors finance investments in climate technologies. Here, we discuss various financial instruments that have been developed to address climate-change concerns. Given the enormous importance of electrification as a pathway towards a low-carbon future, there is special emphasis on renewable energy finance and economics. We also discuss the latest evidence of how climate risk has shaped decisions inside organizations, such as spin-offs, hedging, and the structure of executive-compensation contracts. Spring Also Offered As: ACCT 7640 Mutually Exclusive: BEPP 2640 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7700 American Public Policy through an Economic Lens",
+    "courseid": "BEPP 7700",
+    "coursedescription": "This course explores the economics and politics of public policy to provide an analytic framework for considering why, how, and with what success/failure government intervenes in a variety of policy areas. Particular attention will be paid to important policy issues relating to taxation, social security, low-income assistance, health insurance, education (both K-12 and higher ed), the environment, and government deficits. The costs and benefits of alternative policies will be explored along with the distribution of responsibilities between the federal, state, and local governments. While the course will focus primarily on U.S. policies, the topics covered (e.g. tax reform, deficits versus austerity, etc.) are currently at the center of the policy debate in many other industrialized countries as well. Two Term Class, Student may enter either term; credit given for either Mutually Exclusive: BEPP 2010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7730 Urban Fiscal Policy",
+    "courseid": "BEPP 7730",
+    "coursedescription": "This course will examine the provision of public services for firms and people through cities and other local governments. Why cities exist, when fiscal policy fails, investments in infrastructure, how to improve school quality, realities of local governments such as inequality, crime, corruption, high cost of living, congestion, and unfunded pensions will be covered. We will pay special attention to recent topics, such as the impact of the Covid-19 pandemic on city and public school finances, racial differences in police use of force, partnerships with the private sector, enterprise zones, the role of technology, and real estate policies that may (or may not!) promote housing affordability, such as inclusionary zoning and rent control. Fall Also Offered As: FNCE 7300 , REAL 7300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 7890 Economic Globalization: Policy, History and Contemporary Issues",
+    "courseid": "BEPP 7890",
+    "coursedescription": "This course is intended to deepen understanding of the major contemporary issues in the world economy. The focus is on the \"big picture\" of global economic developments and the evolution of economic thought over the last one hundred years. The topics include: financial market booms and busts; business cycles; monetary and fiscal policies; inequality; the social welfare state; technological change and economic growth; and international trade and financial arrangements. The time period covers: the Roaring Twenties; the Great Depression, the post war Golden Age (1945-1973); the stagflation of the 1970s; the Washington Consensus era of the market liberalization (1980-2007); and the 2008 financial crisis and ensuing Great Recession; and the recent rise of populism. This course also explores different schools of thought. The course will chronicle and compare economic policy and performance of the United States, Europe, Japan and emerging markets (Asia, Latin America, Africa). Fall or Spring Mutually Exclusive: BEPP 2890 Prerequisite: BEPP 6110 AND BEPP 6120 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 6110",
+      "BEPP 6120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 8050 Risk Management",
+    "courseid": "BEPP 8050",
+    "coursedescription": "The last financial crisis and subsequent recession provide ample evidence that failure to properly manage risk can result in disaster. Individuals and firms confront risk in nearly all decisions they make. People face uncertainty in their choice of careers, spending and saving decisions, family choices, and many other facets of life. Similarly, the value that firms create by designing and marketing good products is at risk from a variety of sources. The bankruptcy of a key supplier, sharp rise in cost of financing, destruction of an important asset, impact of global warming, or a liability suit can quickly squander the value created by firms. In extreme cases, risky outcomes can bankrupt a firm, as has happened recently to manufacturers of automobile parts and a variety of financial service firms. The events since the Global Financial Crisis also offer stark reminders that risk can impose significant costs on individuals, firms, governments, and societ6y as a whole. This course explores how individuals and firms assess and evaluate risk, examines the tools available to successfully manage risk, and discusses real-world phenomena that limit the desired amount of risk-sharing. Our focus is primarily on explaining the products and institutions that will serve you better when making decisisions in your future careers and lives. Fall or Spring Also Offered As: OIDD 8050 Mutually Exclusive: BEPP 3050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 8360 International Housing Comparisons",
+    "courseid": "BEPP 8360",
+    "coursedescription": "This course analyzes housing finance systems and housing market outcomes across the globe. In the US, the course focuses on the development of securitization markets and addresses the current challenges of housing finance reform, including the future of Fannie Mae and Freddie Mac. Internationally, the course covers issues of access to housing and housing informality in developing countries, financial crises arising out of the housing sector, and market-oriented and public policy solutions. The course features a wide array of speakers in finance, government and academia who contribute their perspectives to pressing issues of mortgage market design. Spring Also Offered As: REAL 8360 Prerequisite: FNCE 6130 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 8930 Advanced Study Projects",
+    "courseid": "BEPP 8930",
+    "coursedescription": "“This course closes the gap between the theory of business economics analytics and its actual practice, i.e., how you can really use it in your practice. Normally, this type of comprehensive problem solving would require using coding languages like Python or R. However, the instructor for this course has developed a plugin no-code toolbox for Microsoft Excel that allows for end-to-end analytics, making data analytics accessible to a much wider audience. This software plugin will be provided for free to you. You will learn how to conduct in-depth business analytics based on sensible economics reasoning within Excel. The hands-on experience does not require in-depth software coding, and your new skillset is repeatable for your future projects.” Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 8950 Global Business Week",
+    "courseid": "BEPP 8950",
+    "coursedescription": "In the second year of the Executive MBA program, students embark on a required Global Business Week in a country facing business challenges of interest. During this intensive week of corporate visits and lectures, students engage with senior management to discuss topics relevant to the region. Following the trip, they have the opportunity to reflect on the insights gained from the experience and present their findings. Also Offered As: HCMG 8950",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "In the second year of the Executive MBA program, students embark on a required Global Business Week in a country facing business challenges of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 8970 Special Topics",
+    "courseid": "BEPP 8970",
+    "coursedescription": "Course titles and descriptions for Special Topics courses can be found in Path@Penn for the term in which they are offered. See \"SECTION DETAILS\" in Path@Penn for the course description and use the Syllabi@Wharton app to see the course syllabus. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 8980 Global Modular Course",
+    "courseid": "BEPP 8980",
+    "coursedescription": "Global Modular Course - MBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "BEPP 9000 Research Seminar",
+    "courseid": "BEPP 9000",
+    "coursedescription": "Of the many ways that doctoral students typically learn how to do research, two that are important are watching others give seminar presentations (as in Applied Economics Seminars) and presenting one's own research. The BEPP 9000 course provides a venue for the latter. Wharton doctoral students enrolled in this course present applied economics research. Presentations both of papers assigned for other classes and of research leading toward a dissertation are appropriate in BEPP 9000 . This course aims to help students further develop a hands-on understanding of the research process. All doctoral students with applied microeconomic interests are encouraged to attend and present. Second and third year Applied Economic Ph.D. students are required to enroll in BEPP 9000 and receive one-semester credit per year of participation. Two Term Class, Student may enter either term; credit given after both terms are complete Also Offered As: REAL 9000",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "All doctoral students with applied microeconomic interests are encouraged to attend and present."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 9040 Experimental Economics",
+    "courseid": "BEPP 9040",
+    "coursedescription": "This course will help prepare you to run your own economics laboratory and field experiments. Experimental methods have been widely adopted by economists to develop new insights, and some economic theories and hypotheses are uniquely well-suited for testing with experimental tools and data. Achieving high internal and external validity requires careful experimental design. Substantive areas of application in the course will include market equilibrium, asset bubbles, learning in games, public good provision, and labor market relationships. Additional topics may include biases in individual decision-making; field experiments in development economics; and happiness, neuroeconomics, and behavioral/experimental welfare economics. Economists' typical interests in strategic and market-based interactions raise particular methodological challenges and opportunities. Not Offered Every Year Also Offered As: OIDD 9040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Economists' typical interests in strategic and market-based interactions raise particular methodological challenges and opportunities."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 9110 Empirical Public Policy",
+    "courseid": "BEPP 9110",
+    "coursedescription": "This course examines econometric research on a variety of topics related to public policy, with the goal of preparing students to undertake academic-caliber research. The course is not an econometrics or statistics course per se; rather, it focuses on research designs with observational data and how econometric techniques are applied in practice. The course aims to train students to do applied economic research that involves measuring effects of theoretical or practical interest. It proceeds in two major parts. The first part examines endogeneity and inference about causal relationships, instrumental variables methods and critiques, and panel data methods. The second part of the course addresses 'structural' econometric modeling. Topics covered in this part include sorting and selection, entry models, and counterfactual analyses of policy changes. The course proceeds by analyzing, in detail, approximately 24 well-known empirical research papers in applied economics or related fields. These include public economics and tax policy, labor economics, law and economics, health care policy, industrial organization and competition, transportation demand and policy, and others. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course aims to train students to do applied economic research that involves measuring effects of theoretical or practical interest."
+      ]
+    }
+  },
+  {
+    "coursename": "BEPP 9150 Behavioral Economics and Policy Analysis",
+    "courseid": "BEPP 9150",
+    "coursedescription": "In this course we will be surveying the ways in which behavioral economics ideas are influencing economic analysis in different \"applied micro\" fields. A guiding focus of the course will be studying the role of behavioral economics when conducting welfare or policy analysis. The course will begin with a high-level overview of the common themes seen across all the fields we will discuss, and then we will proceed through a series of modules in which we examine the specifics in different applications. Over the course of the semester, we will dive into public finance, health economics, market design, labor economics, and industrial organization. Fall or Spring Prerequisite: ECON 7110 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9310 Numerical Methods in Economics",
+    "courseid": "BEPP 9310",
+    "coursedescription": "The objective of this course is to introduce graduate students to computational approaches for solving economic models. We will formulate economic problems in computationally tractable form and use techniques from numerical analysis to solve them. Examples of computational techniques in the current economics literature as well as discuss areas where these techniques may be useful in future research will be disclosed. We will pay particular attention to methods for solving dynamic optimization problems and computing equilibria of games. The substantive applications will cover a wide range of problems including industrial organization, game theory, macroecomics, finance, and econometrics. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9320 Contract Theory and Applications",
+    "courseid": "BEPP 9320",
+    "coursedescription": "The course provides an advanced introduction to the theory of contracts and its mixture of foundational theories and applications to fields such as labor, reguindustrial organization. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9330 Public Economics: Social Insurance and Government Expenditures",
+    "courseid": "BEPP 9330",
+    "coursedescription": "The first part of this course will examine the rationale for and economic impact (e.g. on saving, labor supply, etc.) of social insurance programs such as social security, unemployment insurance and disability insurance. The next major part of the course will explore these same issues for government interventions in health insurance markets. The course will then cover research on public goods, externalities, fiscal federalism, and econmic stimulus (including the government's recent response to the \"Great Recession\") before proceeding to an exploration of the government's role in K-12 and high education. Both theoretical and empirical evidence will be covered along with a mix of classic studies and more cutting-edge research. Throughout the course we will discuss the tradoffs - for example between the protection and distortion of social insurance programs -- that influence government's optional role. While the focus will be on evidence from the U.S., some research from other industrialized and developing countries will also be covered. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9410 Development Economics",
+    "courseid": "BEPP 9410",
+    "coursedescription": "This course will cover current microeconomic issues of developikng countries including poverty, risk, savings, human capital, and institutions. We will also explore the causes and consequences of market failures that are common in many developing countries with a focus on credit, land, and labor markets. The course is designed to introduce recent research with focus on empirical methods and testing theories with data. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9500 Managerial Economics",
+    "courseid": "BEPP 9500",
+    "coursedescription": "Public goods, externalities, uncertainty, and income redistribution as sources of market failures; private market and collective choice models as possible correcting mechanisms. Microeconomic theories of taxation and public sector expenditures. The administration and organization of the public sector. Fall or Spring Mutually Exclusive: BEPP 2500 Prerequisite: (MGEC 6110 AND MGEC 6120) OR ( ECON 7100 AND ECON 7110 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MGEC 6110",
+      "MGEC 6120",
+      "ECON 7100",
+      "ECON 7110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9520 Economics and Law",
+    "courseid": "BEPP 9520",
+    "coursedescription": "1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9610 Risk Analysis and Environmental Management",
+    "courseid": "BEPP 9610",
+    "coursedescription": "This course will introduce students to concepts in risk governance. We will delve into the three pillars of risk analysis: risk assessment, risk management, and risk communication. The course will spend time on risk financing, including insurance markets. There will be particular emphasis on climate risk management, including both physical impact risk and transition risk, although the course will also discuss several other examples, including management of environmental risks, terrorism, and cyber-security, among other examples. The course will cover how people perceive risks and the impact this has on risk management. We will explore public policy surrounding risk management and how the public and private sector can successfully work together to build resilience, particularly to changing risks. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9620 Applied Economics Seminar",
+    "courseid": "BEPP 9620",
+    "coursedescription": "The goal of this course is to help doctoral students develop critical thinking skills through both seminar participation and writing of referee reports. To this end, students will attend the Wharton Applied Economics seminar when it meets each Wednesday at noon; prepare two written referee reports on WAE papers per semester, due before the seminar is presented. After attending the seminar and the ensuing discussion of the paper, students will prepare follow-up evaluations of their referee reports, due one week after the seminar. Fall, Spring, and Summer Terms Also Offered As: REAL 9620 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9710 Market Design",
+    "courseid": "BEPP 9710",
+    "coursedescription": "The course covers Market Design, the analysis and engineering of market rules and institutions. In the last 60 years practitioners and academics have deliberately engineered the rules of an increasing number of markets, with classic examples including medical resident matching (e.g., NRMP), spectrum auctions (e.g., FCC auctions), and organ donation exchanges. In the last few years, very large markets have been created from scratch, such as eBay, Adwords, and smaller markets like odesk.com and sittercity.com. These designs use a broad set of tools, including economic theory, empirical analysis and experiments (and a fair dose of trial-and-error). With this experience, useful principles have emerged, on what market failures typically have to be addressed, and on which rules work and which do not. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BEPP 9870 Industrial Organization and Competition Policy",
+    "courseid": "BEPP 9870",
+    "coursedescription": "This course focuses on empirical methods and applications of research topics in Industrial Organization. Although not exclusively, the course will focus mostly on the application of econometric techniques used to study specific markets and antitrust policies. The topics that will be covered include the evaluationof market power and mergers, product differentiation, investment and innovation, collusion, price discrimination, vertical relations, entry and product positioning, and the dynamics of industries. The course will also discuss research methodologies related to microeconomic theory, computational methods, and econometric analysis. The applicability of the techniques goes beyond the field of Industrial Organization, and include the Labor, Health, Trade and Public economics. Fall or Spring Prerequisite: ( ECON 7100 AND ECON 7110 ) OR ( ECON 6100 AND ECON 6110 ) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 7100",
+      "ECON 7110",
+      "ECON 6100",
+      "ECON 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

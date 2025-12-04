@@ -1,0 +1,473 @@
+[
+  {
+    "coursename": "HCMG 0001 Introduction to Health Economics",
+    "courseid": "HCMG 0001",
+    "coursedescription": "HCMG 001- In Introduction to Health Economics, you will explore the application of economic principles to the health care sector. The course emphasizes the importance of scarcity and incentives in guiding the decision and interactions of key players, including care providers, payers, patients and producers. Course content highlights the critical economic issues in producing, delivering, and financing health care. Through video lectures, synchronous class meetings and discussions with your peers, you will learn to analyze determinants of demand for medical care, the unique role of physicians in resource allocation, the role of health insurance, and competition in medical care markets. The course focuses on the US health care context, but the economic principles applied are relevant to a range of systems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCMG 1010 Health Care Systems",
+    "courseid": "HCMG 1010",
+    "coursedescription": "This introductory course takes a policy and politics angle to health care's three persistent issues - access, cost and quality. The roles of patients, physicians, hospitals, insurers, and pharmaceutical companies will be established. The interaction between the government and these different groups will also be covered. Current national health care policy initiatives and the interests of class members will steer the specific topics covered in the course. The course aims to provide skills for critical and analytical thought about the U.S. health care system and the people in it. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Current national health care policy initiatives and the interests of class members will steer the specific topics covered in the course."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 2020 The Economics and Financing of Health Care Delivery",
+    "courseid": "HCMG 2020",
+    "coursedescription": "The course provides an application of economic models to demand, supply, and their interaction in the medical economy. Influences on demand, especially health status, insurance coverage, and income will be analyzed. Physician decisions on the pricing and form of their own services, and on the advice they offer about other services, will be considered. Competition in medical care markets, especially for hospital services, will be studied. Special emphasis will be placed on government as demander of medical care services. Changes in Medicare and regulation of managed care are among the public policy issues to be addressed. Prerequisite: If course requirement not met, permission of instructor required. Fall or Spring Also Offered As: ECON 0390, ECON 0630 Prerequisite: ECON 0100 OR ECON 0110 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0390",
+      "ECON 0630",
+      "ECON 0100",
+      "ECON 0110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 2040 Comparative Health Care Systems",
+    "courseid": "HCMG 2040",
+    "coursedescription": "This course examines the structure of health care systems in different countries, focusing on financing, reimbursement, delivery systems and adoption of new technologies. We study the relative roles of private sector and public sector insurance and providers, and the effect of system design on cost, quality, efficiency and equity of medical services. Some issues we address are normative: Which systems and which public/private sector mixes are better at achieving efficiency and equity? Other issues are positive: How do these different systems deal with tough choices, such as decisions about new technologies? Our main focus is on the systems in four large, prototypical OECD countries--Germany, Canada, Japan, and the United Kingdom--and then look at other countries with interesting systems- including Italy, Chile, Singapore, Brazil, China and India. We draw lessons for the U.S. from foreign experience and vice versa. Spring Mutually Exclusive: HCMG 8590 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Our main focus is on the systems in four large, prototypical OECD countries--Germany, Canada, Japan, and the United Kingdom--and then look at other countries with interesting systems- including Italy, Chile, Singapore, Brazil, China and India."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 2130 Health Care Strategy and Management: the Business of Health Care",
+    "courseid": "HCMG 2130",
+    "coursedescription": "This course presents an overview of the business of health and how a variety of health care organizations have gained, sustained, and lost competitive advantage amidst intense competition, widespread regulation, high interdependence, and massive technological, economic, social and political changes. Specifically, we evaluate the challenges facing health care organizations using competitive analysis, identify their past responses, and explore the current strategies they are using to manage these challenges (and emerging ones) more effectively. Students will develop generalized skills in competitive analysis and the ability to apply those skills in the specialized analysis of opportunities in producer (e.g. biopharmaceutical, medical product, information technology), purchaser (e.g. insurance), and provider (e.g. hospitals, nursing homes, physician) organizations and industry sectors. The course is organized around a number of readings, cases, presentations, and a required project. Fall Prerequisite: HCMG 1010 1 Course Unit",
+    "course-prerequsities": [
+      "HCMG 1010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 2150 Management and Economics of Pharmaceutical and Biotech Industries",
+    "courseid": "HCMG 2150",
+    "coursedescription": "This course explores the key phases of the pharmaceutical and biotechnology product lifecycle. The product journey begins in the lab where scientists explore a vast array of compounds against diseases (therapeutic targets). Compounds that perform best enter the capital-intensive clinical trial phase aimed at assessing the product’s safety and efficacy. In parallel, regulatory agencies guide and govern these trials and ultimately decide which products are approved for use in patients. Once approved, launched, and priced, products face many dynamic market forces including competitors trying to steal share, government and private payers placing downward pressure on price, regulatory agencies controlling what manufacturers can and cannot say about their products, generic manufacturers challenging existing patents, and finally patients and physicians who behave both rationally and irrationally when deciding which product to use. While the course perspective is global in nature, the emphasis is on the U.S., the largest and most profitable market. In addition, we will delve into the world of biotech start-ups from company creation and financing, to how they make decisions which compounds to advance. We will also explore how large pharma views the biotech industry to bolster their existing pipelines and drive shareholder value. Through case studies, readings, guest speakers, and in-class exercises, students will learn concepts and analytical frameworks and acquire the tools and skills necessary to become the future leaders of the pharmaceutical and biotech industry. Spring Prerequisite: HCMG 1010 OR ECON 0100 OR ECON 0110 1 Course Unit",
+    "course-prerequsities": [
+      "HCMG 1010",
+      "ECON 0100",
+      "ECON 0110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 2500 Health Care Reform and the Future of the American Health Care System",
+    "courseid": "HCMG 2500",
+    "coursedescription": "This course provides students with a rigorous understanding of the current American health care system and how it is likely to evolve over the next decade. The course will focus on six topics: 1) the development of the current health care system; 2) challenges of health care costs, quality, and access; 3) lessons of previous attempts to reform the system including the Affordable Care Act (ACA); 4) analysis of current policies regarding provider payment, technology, and electronic health records and how various sectors (e.g. public health and hospitals) are evolving in the current system; 5) drug pricing and potential strategies for reform, and 6) future megatrends in American health care system. Throughout the course, lessons will integrate basic health economics, history, health policy, and politics to elucidate key principles for understanding the health care system. The course will also examine at least one other country’s health system for comparison. The course will end with a consideration of the long-term outlook for the structure of the US health system and potential reform. Numerous expert guest speakers will give their perspectives throughout the semester. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 3220 The Health Care Ecosystem: Evolution, Structure and Current Issues",
+    "courseid": "HCMG 3220",
+    "coursedescription": "This course provides an application of economic principles to the health care ecosystem, focusing primarily on the US health care sector. By recognizing the importance of scarcity and incentives, this course will focus on the critical economic issues in producing, financing, and delivering efficient and equitable health care. In particular, the course will discuss the tension between cost, access and quality of care; analyze the determinants of demand for medical care; discuss the role of health insurance and the complexities it brings; study the unique role of physicians in guiding and shaping the allocation of resources in medical care markets; and analyze competition in medical care markets, especially among hospitals. Special emphasis will be placed on the evaluation of policy instruments such as government regulation, antitrust laws, and public health programs. Knowledge of calculus and basic microeconomics is highly recommended. Students who take HCMG 3220 may not also take HCMG 3520 for further credit. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Knowledge of calculus and basic microeconomics is highly recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 3330 Leading the Health Care Workforce",
+    "courseid": "HCMG 3330",
+    "coursedescription": "The nature of the healthcare industry presents a unique set of managerial challenges. The health care workforce operates in a complex, fast-paced, uncertain, and interdependent environment. Power dynamics, hierarchy, and specialization make coordination particularly difficult in this setting. The course will provide students with frameworks and tools from management science tailored to the health care setting. At the end of course, students will: (1) be able to apply evidence-based management principles to health care contexts and (2) have practical skills for leading, managing, and thriving in health care. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 3490 The Structure & Functions of a Modern Health Plan",
+    "courseid": "HCMG 3490",
+    "coursedescription": "Health insurance companies serve as crucial intermediaries in the healthcare ecosystem, managing financial risk, facilitating care delivery, and coordinating services among various stakeholders. Their effectiveness in these roles fundamentally shapes healthcare access, quality, and affordability for millions of Americans. This course provides a comprehensive examination of health insurance operations through the lens of data and analytics. Students will explore how modern health plans leverage data across all aspects of their business - from clinical services and operations to provider partnerships and regulatory compliance. The course emphasizes the increasingly central role of data analytics, machine learning, and artificial intelligence in driving strategic decisions, improving operational efficiency, and enhancing member outcomes. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCMG 3520 Health Services Delivery: A Managerial Economic Approach",
+    "courseid": "HCMG 3520",
+    "coursedescription": "The purpose of this course is to apply economics to an analysis of the health care industry, with special emphasis on the unique characteristics of the US healthcare markets, from pre-hospital to post-acute care. This course focuses on salient economic features of health care delivery, including: the role of nonprofit providers, the effects of regulation and antitrust activity on hospitals, the degree of input substitutability within hospitals, the nature of competition in home health care, public versus private provision of emergency medical services, the effect of specialty hospitals and ambulatory surgery centers, the economics of direct-to-consumer advertising and its effect on drug safety, defining and improving medical performance in hospitals, specialization and investment in physical and human capital, and shifting of services between inpatient and outpatient settings and its effect on health care costs and quality. Spring Mutually Exclusive: HCMG 8520 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 3530 Medical Technology: Markets, Policy, and Strategy",
+    "courseid": "HCMG 3530",
+    "coursedescription": "Medical technology represents a $500 billion global market that sits at the intersection of engineering, medicine, and business. This course provides a comprehensive examination of the economic forces and business strategies that drive this dynamic industry. We explore how medical devices move from innovation through commercialization, analyzing the unique market structures and economic incentives that shape success and failure. The medical technology sector operates under distinctive constraints that differentiate it from other healthcare markets. Each innovation must navigate complex regulatory requirements, demonstrate value to multiple stakeholders, and develop sustainable business models within healthcare delivery systems. Through this course, students will gain insight into how companies evaluate market opportunities, develop pricing strategies, and build evidence to support technology adoption. A central focus will be understanding the economic relationships between key players: device manufacturers, healthcare providers, insurers, regulators, and patients. We examine how payment systems influence technology development, how market dynamics affect innovation incentives, and how successful companies build competitive advantages. Special attention is given to emerging technologies and new business models that are reshaping traditional medical device markets. Through case studies drawn from real market experiences and and hands-on analyses, students will develop practical frameworks for evaluating medical technology opportunities and understanding this vital sector of the healthcare economy. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCMG 3570 Healthcare Data and Analytics",
+    "courseid": "HCMG 3570",
+    "coursedescription": "Health care data creates unparalleled opportunities to save lives, improve health, strengthen the health care workforce, reduce costs, and increase efficiency. But it also presents a unique set of challenges ranging from privacy to data consistency. In this course, we begin by surveying the health care data landscape and then turn to how to use this rich data to better manage care and organizations. We will refine the art of asking good questions and gain first-hand experience applying analytics to answer them. We will also examine innovative businesses focused on health care data and analytics. At the end of this course, students will: (1) Understand the topography of the health care data landscape, (2) Have the skills necessary to be thoughtful consumers of evidence on health care, (3) Be able to use data and analytics to improve care and health care management, and (4) Anticipate business opportunities in health care data and analytics. Fall Mutually Exclusive: HCMG 8570 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 6530 Health Care Management Field Application Project",
+    "courseid": "HCMG 6530",
+    "coursedescription": "This course focuses on leadership and management issues in health care organizations while providing students with a practice setting to examine and develop their own management skills. Each team acts as a consultant to a healthcare organization which has submitted a project proposal to the course. The teams define the issue and negotiate a contract with the client organization. By the end of the semester, teams present assessments and recommendations for action to their clients and share their experience and key lessons learned in a final presentation to their classmates. Spring Prerequisite: HCMG 8410 1 Course Unit",
+    "course-prerequsities": [
+      "HCMG 8410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 8410 Introduction to Health Management and Economics",
+    "courseid": "HCMG 8410",
+    "coursedescription": "This course provides an introduction to the field of health care economics and management. Using an economic approach, the course will provide an overview of the evolution, structure and current issues in the health care ecosystem. It examines the unique features of health care services, products and markets, with a specific focus on the changing relationships between patients, physicians, hospitals, insurers, employers, communities, and government. In particular, the course focuses on three broad segments of the health care industry: payors, providers, and producers. NOTE: This is a required course for Wharton Graduate Health Care Management majors. Fall 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 8450 US Payer and Provider Strategy",
+    "courseid": "HCMG 8450",
+    "coursedescription": "This course, co-taught with Brad Fluegel (former Chief Strategy Officer at Aetna, Anthem, and Walgreens and presently on the boards of several health care firms, including Fitbit and Premera Blue Cross), provides an overview of the challenges facing payers and providers in US healthcare as well as the strategies they use (or should use) to succeed. We cover all major aspects of the healthcare sector as seen from the perspective of payers and providers, starting from their core products and services (consumer preferences and health plan design, provider quality), the market environment they operate in (regulation and the role of public insurers, payment reforms, rising costs, and consolidation), and their strategic and operational responses (new organization models, mergers and acquisitions, and new ventures). The pedagogy is accordingly a mix of faculty lectures and talks by senior industry leaders to balance theory and practice. Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 8500 Health Care Reform and the Future of the American Health Care System",
+    "courseid": "HCMG 8500",
+    "coursedescription": "This course provides students with a rigorous understanding of the current American health care system and how it is likely to evolve over the next decade. The course will focus on six topics: 1) the development of the current health care system; 2) challenges of health care costs, quality, and access; 3) lessons of previous attempts to reform the system including the Affordable Care Act (ACA); 4) analysis of current policies regarding provider payment, technology, and electronic health records and how various sectors (e.g. public health and hospitals) are evolving in the current system; 5) drug pricing and potential strategies for reform, and 6) future megatrends in American health care system. Throughout the course, lessons will integrate basic health economics, history, health policy, and politics to elucidate key principles for understanding the health care system. The course will also examine at least one other country’s health system for comparison. The course will end with a consideration of the long-term outlook for the structure of the US health system and potential reform. Numerous expert guest speakers will give their perspectives throughout the semester. Fall Also Offered As: BIOE 5750 0.5,1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 8520 Health Services Delivery: A Managerial Economic Approach",
+    "courseid": "HCMG 8520",
+    "coursedescription": "The purpose of this course is to apply economics to an analysis of the health care industry, with special emphasis on the unique characteristics of the US healthcare markets, from pre-hospital to post-acute care. This course focuses on salient economic features of health care delivery, including: the role of nonprofit providers, the effects of regulation and antitrust activity on hospitals, the degree of input substitutability within hospitals, the nature of competition in home health care, public versus private provision of emergency medical services, the effect of specialty hospitals and ambulatory surgery centers, defining and improving medical performance in hospitals, specialization and investment in physical and human capital, shifting of services between inpatient and outpatient settings and its effect on health care costs and quality, and innovation in primary care from retail clinics to patient-centered medical homes and retainer-based medicine. Spring Mutually Exclusive: HCMG 3520 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 8530 Management and Strategy in Medical Devices and Technology",
+    "courseid": "HCMG 8530",
+    "coursedescription": "Successful medical devices are an amalgamation of creative and innovative thinking, clinical expertise, and engineering know-how that endures intense regulatory and reimbursement scrutiny. This course will provide a foundation for understanding the nuances of the medical device industry. It will cover topics ranging from device design and discovery, software as a medical device, applications of artificial intelligence and machine learning, regulatory issues, marketing, reimbursement, management, and strategy. Classroom activities will be supplemented with optional tours of hospitals, research and manufacturing facilities, and hands-on demonstrations of devices. Though the course is intended primarily for MBA students, it will be open to medical and engineering students as well as to hospital house staff. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 8550 Management of Health Care for the Elderly",
+    "courseid": "HCMG 8550",
+    "coursedescription": "This half-credit course is designed to provide students with an appreciation of the good, the bad and the ugly of how our current health care system cares for one of our nation's most precious resources - our seniors! This course will review care provided to seniors within a variety of institutional settings (hospitals, nursing facilities, various senior housing levels) as well as outpatient and home care services. Special attention will be paid to nursing homes and senior housing options and their past, present and future role within the overall health care system in the United States. The course will start with an overview of the senior population with special attention to their health and social needs. Several classes will be held off campus at selected nursing facilities and senior housing complexes. In addition, a broad range of special programs and services will be reviewed such as sub-acute care, long term care insurance, Medicare Risk Programs, elderly housing, adult day care, managed care, Medicare Part D, case management, hospice and other recent developments. Throughout the course, emphasis will be placed on entrepreneurial opportunities to serve the senior market at all levels. Students are required to produce a paper for this course that focuses on a specific area impacting the senior market. This is a wonderful opportunity for students to select an area of personal interest and conduct an in depth review of that area including making direct contact with national experts within the topic selected. All student topics must be approved during the first two weeks of class and the depth of research required agreed upon by the by the student and the instructor. Interested students not in the HCMG major are urged to speak to the instructor before enrolling in the course. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "This is a wonderful opportunity for students to select an area of personal interest and conduct an in depth review of that area including making direct contact with national experts within the topic selected.",
+        "Interested students not in the HCMG major are urged to speak to the instructor before enrolling in the course."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 8570 Healthcare Data and Analytics",
+    "courseid": "HCMG 8570",
+    "coursedescription": "Health care data creates unparalleled opportunities to save lives, improve health, strengthen the health care workforce, reduce costs, and increase efficiency. But it also presents a unique set of challenges ranging from privacy to data consistency. In this course, we begin by surveying the health care data landscape and then turn to how to use this rich data to better manage care and organizations. We will refine the art of asking good questions and gain first-hand experience applying analytics to answer them. We will also examine innovative businesses focused on health care data and analytics. At the end of this course, students will: (1) Understand the topography of the health care data landscape, (2) Have the skills necessary to be thoughtful consumers of evidence on health care, (3) Be able to use data and analytics to improve care and health care management, and (4) Anticipate business opportunities in health care data and analytics. Fall Mutually Exclusive: HCMG 3570 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 8580 Health AI: Strategy, Design, and Execution",
+    "courseid": "HCMG 8580",
+    "coursedescription": "Artificial intelligence (AI) is promising to revolutionize healthcare, offering unprecedented opportunities to develop new treatments and diagnostic tools, reduce costs, and transform care delivery. However, successfully applying AI in the complex healthcare ecosystem requires not only technical expertise but also a clear understanding of clinical, operational, and strategic context. Healthcare leaders must grasp not only the potential of AI but also its limitations, ethical implications, and operational challenges. This course invites students to explore these issues, equipping them with the tools to think strategically and methodically about the role of AI in the healthcare. This is a practical course that emphasizes what can be achieved today and how to navigate real-world implementation challenges. By focusing on the realities of applying AI on the ground—technical hurdles, clinician collaboration, and organizational readiness—students will develop a nuanced and pragmatic understanding of how to leverage AI to drive concrete impact in healthcare organizations. Through a combination of lectures, case studies, and guest speakers, students will explore the full lifecycle of healthcare AI projects. Topics include evaluating AI use cases, navigating technical and clinical implementation challenges, and designing a roadmap for scaling AI within an organization. The course also addresses broader considerations such as bias and equity, intellectual property, and regulation in healthcare AI. Students will gain practical, hands-on experience by analyzing real-world case studies and engaging in discussions with leaders in healthcare and AI. By the end of the course, participants will be prepared to (1) critically assess AI opportunities, (2) collaborate effectively with technical and clinical teams, and (3) develop strategies for implementing AI solutions that create measurable value in healthcare. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCMG 8590 Comparative Health Care Systems",
+    "courseid": "HCMG 8590",
+    "coursedescription": "This course examines the structure of health care systems in different countries, focusing on financing, reimbursement, delivery systems and adoption of new technologies. We study the relative roles of private sector and public sector insurance and providers, and the effect of system design on cost, quality, efficiency and equity of medical services. Some issues we address are normative: Which systems and which public/private sector mixes are better at achieving efficiency and equity? Other issues are positive: How do these different systems deal with the tough choices, such as decisions about new technologies? Our focus first on the systems in four large, prototypical OECD countries- Germany, Canada, Japan, and the United Kingdom -and then look at other developed and emerging countries with interesting systems - including Italy, Chile, Singapore, Brazil, China and India. We will draw lessons for the U.S. from foreign experience and vice versa. Spring Mutually Exclusive: HCMG 2040 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Our focus first on the systems in four large, prototypical OECD countries- Germany, Canada, Japan, and the United Kingdom -and then look at other developed and emerging countries with interesting systems - including Italy, Chile, Singapore, Brazil, China and India."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 8600 Leading Health Care Organizations",
+    "courseid": "HCMG 8600",
+    "coursedescription": "This course aims to improve enrollees' ability to effectively manage and lead health care organizations (HCOs, including hospitals, medical groups, insurers, biopharmaceutical firms, etc.). The course is designed to integrate previous course work in general managment, health care, and health policy to further participants' understanding of organizational, managerial, and strategic issues facing HCOs and the health care workforce. The course will provide participants with a foundation for developing, implementing, and analyzing efforts to improve HCOs' performance. A major objective of the course is to sharpen the leadership, problem-solving, and presentation skills of those who aim to hold operational and strategic positions in health care organizations. Another objective is to introduce enrollees to leading HCOs. Through case studies, readings, in-class exercises and class discussions, particpants will learn analytic frameworks, concepts, tools and skills necessary for leading and managing organizational learning, quality improvement, innovation, and overall performance in HCOs. Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 8630 Management and Economics of Pharmaceutical and Biotech Industries",
+    "courseid": "HCMG 8630",
+    "coursedescription": "This course explores the key phases of the pharmaceutical and biotechnology product lifecycle. The product journey begins in the lab where scientists explore a vast array of compounds against diseases (therapeutic targets). Compounds that perform best enter the capital-intensive clinical trial phase aimed at assessing the product’s safety and efficacy. In parallel, regulatory agencies guide and govern these trials and ultimately decide which products are approved for use in patients. Once approved, launched, and priced, products face many dynamic market forces including competitors trying to steal share, government and private payers placing downward pressure on price, regulatory agencies controlling what manufacturers can and cannot say about their products, generic manufacturers challenging existing patents, and finally patients and physicians who behave both rationally and irrationally when deciding which product to use. While the course perspective is global in nature, the emphasis is on the U.S., the largest and most profitable market. In addition, we will delve into the world of biotech start-ups from company creation and financing, to how they make decisions which compounds to advance. We will also explore how large pharma views the biotech industry to bolster their existing pipelines and drive shareholder value. Through case studies, readings, guest speakers, and in-class exercises, students will learn concepts and analytical frameworks and acquire the tools and skills necessary to become the future leaders of the pharmaceutical and biotech industry. Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 8660 The Digital Transformation of Health Care",
+    "courseid": "HCMG 8660",
+    "coursedescription": "Healthcare is in the early stages of extraordinary change in the business model of care delivery and financing. This transformation will lead to a system based on the proactive management of health, integration of care across the continuum, blurred boundaries between care providers and purchasers and the placement of the consumer at the center. As has been the case in other industries, this new business model will be based on a foundation of diverse, potent, and well implemented information technology. This course will help prepare students to lead a digital health future. Specifically, the course will cover three major areas. (1)The context of health care information technology: the size, composition and evolution of the digital health market; federal government agencies, and related regulations, that shape the market; leadership roles and factors that enable healthcare organizations to effectively implement and leverage information technology. (2)Emerging technologies that will fuel the transformation of healthcare: artificial intelligence and advanced analytics; interoperability; telehealth; consumer-directed digital health; use of behavioral economics to influence patient and provider decisions. (3)Digital health use by specific sectors of the healthcare industry: healthcare providers; health plans; retail-based primary care; life sciences; wellness and chronic disease management. The course will include lectures from industry leaders who will share their ideas and experiences. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCMG 8670 Health Care Entrepreneurship",
+    "courseid": "HCMG 8670",
+    "coursedescription": "The course focuses on the creation, funding, and management of digital health, biotech, medtech, and other health services enterprises. The course is designed to supplement other offerings in the Health Care Systems and Management Departments for those students with entrepreneurial interest in such ventures, and will focus on special issues surrounding the conceptualization, planning, diligence, and capitalization of these ventures and also includes management and compensation practices. In addition, course offers methods for self-assessment & development of business models and plans, techniques for technology assessment and strategy, develops foundation for capitalization and partnering strategies, and creates a basis for best practices in company launch and plan execution. Students must apply to take this course. Please see the Health Care Management Department for the application. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "The course is designed to supplement other offerings in the Health Care Systems and Management Departments for those students with entrepreneurial interest in such ventures, and will focus on special issues surrounding the conceptualization, planning, diligence, and capitalization of these ventures and also includes management and compensation practices."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 8680 Private Sector Role in Global Health",
+    "courseid": "HCMG 8680",
+    "coursedescription": "Issues surrounding global health have captivated the attention of the public sector and foundations for many decades. Many of their initiatives are realizing progress on the health-related Millennium Development Goals. The private sector has been less engaged in global health, but has a significant role to play in providing resources and in building infrastructure, human resource capacity and sustainability. This course explores entrepreneurial and other private sector solutions for health services and access to medicines and technologies in the developing world and other underserved areas. The course also encompasses study of creative programs to engage the private sector in development of vaccines and medicines for tropical and neglected diseases. Furthermore, the course addresses novel care systems and therapeutic strategies for the rapidly growing burden of chronic, non-communicable diseases in the developing world. In short, the course builds on the content of conventional global health courses from a managerial and entrepreneurial perspective. Learning is driven through readings, class discussion and a series of guest speakers representing a wide range of global health issues. Evaluation is largely based on a student group project. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCMG 8700 The Business of Behavioral Health",
+    "courseid": "HCMG 8700",
+    "coursedescription": "This half-credit course will provide an overview of the behavioral health care landscape. There are three modules: (1) delivery, e.g., deinstitutionalization, the provider shortage, collaborative care; (2) financing, e.g., managed care, the shift to value-based care; and (3) recent trends, e.g., digital health, venture capital. Each module will include a guest lecturer with industry expertise. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCMG 8740 Building Value-Oriented Healthcare Services Companies",
+    "courseid": "HCMG 8740",
+    "coursedescription": "The vast majority of new healthcare services companies fail, while a very small minority scale nationally, reaching their potential to serve patients and impact the healthcare system. The companies that defy the odds serve an important function in advancing our healthcare system: addressing unmet social and medical needs; bringing innovation in clinical models, technology, or service models; building workplaces that are more attractive for employees; and/or inspiring incumbent organizations to evolve their models. This course follows the process of designing, launching and scaling value-oriented healthcare services companies – i.e., companies that aspire to advance the triple aim of healthcare (improving quality, experience and total cost of care). The course has a particular focus on assessing which NewCo ideas will be viable, designing of the clinical and economic models, partnering with providers (primary care, specialists and hospitals) and payers, building strong teams and culture, attracting capital, and ensuring long-term economic viability. We will follow the perspective of a practitioner, leveraging real-world examples and case studies, including guest speakers who share current experiences. The course is directly relevant to students contemplating building or joining early-stage healthcare services companies; and, the course is also designed to be relevant to students who will be in roles that interact with these types of companies throughout their careers (e.g., as investors, consultants, investment bankers, hospital executives, health plan executives). Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCMG 8770 Funding Biotech",
+    "courseid": "HCMG 8770",
+    "coursedescription": "The biotechnology (biotech) industry is one of the most capital-intensive segments of the health care industry. The actual cost to bring a drug from the research labs to patients is estimated to be in the hundreds of millions of dollars, and yet only 10% of all drugs that enter human testing are ever approved, often failing due poor safety or lackluster efficacy. Therefore, when you factor in the cost of these drug failures, the cost to get a drug approved can reach into the billions. And that’s not even considering the cost to market the drug once approved. Despite these inherent risks and high costs of drug development and marketing, there were $500 billion of equity capital invested annually into biotech companies over the past 10 years signaling a robust market where returns are disproportionate to risk. This course will explore funding these risky biotech ventures from two perspectives: the biotech CEO (primary focus of the course) and the biotech investor (secondary focus of the course). Students will learn about the various ways biotech companies are capitalized (e.g., equity, convertible/structured debt, licensing partnerships, clinical trial financing, royalty monetization, etc.) and the tradeoffs a biotech CEO considers when deciding which options to pursue at various stages of the company’s evolution. We will also explore first-hand how the biotech investor thinks about the firm’s capital structure when deciding to make an equity investment as well as understand the quantitative (e.g., market & competitive assessments, total financing needs of the firm, NPV) and qualitative (e.g., physician’s proclivity to prescribe, strength of management, etc.) diligence the biotech investor performs prior to making an investment. For the final project, students will analyze the capital requirements for a biotech company make recommendations based on the financing options available to the firm. Through readings, lectures, case studies, guest speakers, and a final project, students will learn concepts and analytical frameworks and acquire the tools and skills necessary to make important financing decisions as a biotech CEO. Prerequisite: FNCE 6110",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCMG 8900 Advanced Study Project: Management of Health Care Service Businesses",
+    "courseid": "HCMG 8900",
+    "coursedescription": "HCMG 8900 -001: This course examines issues related to the Services Sector of the health care industry. For those interested in management, investing, or banking in the health care industry, the services sector will likely be the largest and most dynamic sector within all of health care. We will study key management issues related to a number of different health care services businesses with a focus on common challenges related to reimbursement, regulatory, margin, growth, and competitive issues. We will look at a number of different businesses and subsectors that may have been unfamiliar to students prior to taking the course. We will make extensive use of outside speakers, many of whom are true industry leaders within different sectors of the health care services industry. Speakers will address the current management issues they face in running their businesses as well as discuss the career decisions and leadership styles that enables them to reach the top of their profession. Students will be asked to develop a plan to both buy out and manage a specific health care services business of their choosing and will present their final plans to a panel of leading Health Care Private Equity investors who will evaluate their analysis. Prerequisites: HCMG 8410 . Health Care Management MBA majors only Fall Mutually Exclusive: WH 2170 1 Course Unit",
+    "course-prerequsities": [
+      "HCMG 8410",
+      "WH 2170"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For those interested in management, investing, or banking in the health care industry, the services sector will likely be the largest and most dynamic sector within all of health care.",
+        "Health Care Management MBA majors only Fall Mutually Exclusive: WH 2170 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 8950 Global Business Week",
+    "courseid": "HCMG 8950",
+    "coursedescription": "In the second year of the Executive MBA program, students embark on a required Global Business Week in a country facing business challenges of interest. During this intensive week of corporate visits and lectures, students engage with senior management to discuss topics relevant to the region. Following the trip, they have the opportunity to reflect on the insights gained from the experience and present their findings. Also Offered As: BEPP 8950",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "In the second year of the Executive MBA program, students embark on a required Global Business Week in a country facing business challenges of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 8980 Global Modular Course",
+    "courseid": "HCMG 8980",
+    "coursedescription": "Global Modular Course (GMC) - see description in section details",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "HCMG 8990 INDEPENDENT STUDY",
+    "courseid": "HCMG 8990",
+    "coursedescription": "Arranged with members of the Faculty of the Health Care Systems Department. For further information contact the Department office, Room 204, Colonial Penn Center, 3641 Locust Walk, 898-6861. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 9000 Proseminar in Health Economics: Models and Methods",
+    "courseid": "HCMG 9000",
+    "coursedescription": "This course is intended to provide entering doctoral students with information on the variety of health economics models, methods, topics, and publication outlets valued and used by faculty in the HCMG doctoral program and outside of it. The course has two main parts: the first, to acquaint students with theoretical modeling tools used frequently by health economists. This part of the course involves a number of lectures coupled with students' presentations from the health economics, management and operations research community at Penn on a research method or strategy they have found helpful and they think is important for all doctoral students to know. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 9010 Proseminar in Health Economics: Health Econometrics",
+    "courseid": "HCMG 9010",
+    "coursedescription": "This course will cover empirical methods used in economics research with an emphasis on applications in health care and public economics. The methods covered include linear regression, matching, panel data models, instumental variables, regression discontinuity, bunching, qualitative and limited dependent variable models, count data, quantile regressions, and duration models. the discussion will be a mix of theory and application, with emphasis on the latter. The readings consist of a blend of classic and recent methodological and empirical papers in economics. Course requirements include several problem sets, paper presentations, an econometric analysis project and a final exam. The course is open to doctoral students from departments other than Health Care Management with permission from the instructor. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is open to doctoral students from departments other than Health Care Management with permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 9020 Special Topics in Health Economics: The Industrial Organization of Health Care",
+    "courseid": "HCMG 9020",
+    "coursedescription": "This advanced PhD seminar will explore topics in the industrial organization of health care and structural econometric approaches in health economics. The focus in this course is the development of advanced econometric tools. The (tentative) topics covered include health insurance and hospital demand estimation, the analysis of hospital competition, insurer competition, quality competition, technology adoption, models of entry and exit and dynamic oligopoly games. The readings will focus on recent advances in economics. Students are required to present recent research from the field and write an empirical research paper that broadly based on the topics covered in the course. With the permission of the instructor, the seminar is open to doctoral students from departments other than Health Care Management. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "With the permission of the instructor, the seminar is open to doctoral students from departments other than Health Care Management."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 9030 Economics of Health Care and Policy",
+    "courseid": "HCMG 9030",
+    "coursedescription": "This course applies basic economic concepts to analyze the health care market and evaluate health policies. The course begins with a discussion of productivity in health care and of the theoretical and empirical effects of asymmetric information and market failure. The second part of the course explores several topic areas in the health care economics literature: health insurance and the labor market; health policy interventions; and health as human capital. The third part of the course examines competition and the behavior of health care providers, with emphasis on the impact of policy on competition, behavior, and finally, bringing us full circle, health care productivity. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 9040 Doctoral Seminar in Organizational Behavior and Theory in Health Care",
+    "courseid": "HCMG 9040",
+    "coursedescription": "This course introduces students to organizational behavior and theory (OBT) by examining key issues in OBT, different perspectives on key issues, and how OBT informs health services research and practice. This course examines \"micro\" theories (i.e., social psychological theories of organizational behavior) and \"macro\" theories (i.e., theories focused on the structural and environmental aspects of organizations). We will examine the strengths and weaknesses of various theories, how they can be used as a foundation for research, methods used to study them, and the implications for health policy and management. Examples of published health services research grounded in OBT will be discussed so that students become familiar with the theories-in-use and various publication outlets for health care management (HCM) research. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HCMG 9051A Health Care Management PhD Research Seminar",
+    "courseid": "HCMG 9051A",
+    "coursedescription": "Graduate research seminar for doctoral students in health care management. The goal of this seminar is to develop doctoral students' research and presentation skills. Presenting students will receive feedback on their research in progress and their presentation skills. Discussions of student presentations will develop doctoral students' understanding of the research process and give them an opportunity to learn about and develop their presentation skills. Other doctoral students interested in health economics and health care management are encouraged to attend. HCMG 9051 must be taken prior to HCMG 9052. Two Term Class, Student must enter first term; credit given after both terms are complete",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units",
+      "notes": [
+        "Other doctoral students interested in health economics and health care management are encouraged to attend."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 9051B Health Care Management PhD Research Seminar",
+    "courseid": "HCMG 9051B",
+    "coursedescription": "Graduate research seminar for doctoral students in health care management. The goal of this seminar is to develop doctoral students' research and presentation skills. Presenting students will receive feedback on their research in progress and their presentation skills. Discussions of student presentations will develop doctoral students' understanding of the research process and give them an opportunity to learn about and develop their presentation skills. Other doctoral students interested in health economics and health care management are encouraged to attend. HCMG 9051 must be taken prior to HCMG 9052. Two Term Class, Student must enter first term; credit given after both terms are complete Prerequisite: HCMG 9051A",
+    "course-prerequsities": [
+      "HCMG 9051A"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units",
+      "notes": [
+        "Other doctoral students interested in health economics and health care management are encouraged to attend."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 9052A Health Care Management PhD Research Seminar",
+    "courseid": "HCMG 9052A",
+    "coursedescription": "Graduate research seminar for doctoral students in health care management. The goal of this seminar is to develop doctoral students' research and presentation skills. Presenting students will receive feedback on their research in progress and their presentation skills. Discussions of student presentations will develop doctoral students' understanding of the research process and give them an opportunity to learn about and develop their presentation skills. Other doctoral students interested in health economics and health care management are encouraged to attend. HCMG 9051 must be taken prior to HCMG 9052. Two Term Class, Student must enter first term; credit given after both terms are complete",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units",
+      "notes": [
+        "Other doctoral students interested in health economics and health care management are encouraged to attend."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 9052B Health Care Management PhD Research Seminar",
+    "courseid": "HCMG 9052B",
+    "coursedescription": "Graduate research seminar for doctoral students in health care management. The goal of this seminar is to develop doctoral students' research and presentation skills. Presenting students will receive feedback on their research in progress and their presentation skills. Discussions of student presentations will develop doctoral students' understanding of the research process and give them an opportunity to learn about and develop their presentation skills. Other doctoral students interested in health economics and health care management are encouraged to attend. HCMG 9051 must be taken prior to HCMG 9052. Two Term Class, Student must enter first term; credit given after both terms are complete Prerequisite: HCMG 9052A",
+    "course-prerequsities": [
+      "HCMG 9052A"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units",
+      "notes": [
+        "Other doctoral students interested in health economics and health care management are encouraged to attend."
+      ]
+    }
+  },
+  {
+    "coursename": "HCMG 9999 Independent Study",
+    "courseid": "HCMG 9999",
+    "coursedescription": "Independent Study 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

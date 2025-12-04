@@ -1,0 +1,99 @@
+[
+  {
+    "coursename": "PASH 0100 Elementary Pashto I",
+    "courseid": "PASH 0100",
+    "coursedescription": "The first semester is focused on mastering the writing system, basic structures, and simple conversation using texts, writing samples, and numerous structure and dialogue drills.We remain within the present and future tenses only, developing vocabulary with lessons and discussions centered around greetings, family, weather, foods, and directions. Students use authentic online and textbook materials. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PASH 0200 Elementary Pashto II",
+    "courseid": "PASH 0200",
+    "coursedescription": "The second semester covers more advanced structures with reinforcing drills, and begin reading longer texts of an assorted variety, mostly short stories and some news articles.The past tense is introduced, as well as longer more complex texts. Topics within simple simulated contexts (taxi, hotel, restaurant, food shopping, time, family). Short writing exercises and dictations are expected at this time, as well as simultaneous translations to and from Pashto. Spring Prerequisite: PASH 0100 OR PASH 5100 1 Course Unit",
+    "course-prerequsities": [
+      "PASH 0100",
+      "PASH 5100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics within simple simulated contexts (taxi, hotel, restaurant, food shopping, time, family)."
+      ]
+    }
+  },
+  {
+    "coursename": "PASH 0300 Intermediate Pashto I",
+    "courseid": "PASH 0300",
+    "coursedescription": "A more in-depth study of the Pashto language. Reading, writing, speaking, and listening comprehension are all stressed in this more advanced course which also builds on the grammer of beginning level. Fall Prerequisite: PASH 0200 OR PASH 5200 1 Course Unit",
+    "course-prerequsities": [
+      "PASH 0200",
+      "PASH 5200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PASH 0400 Intermediate Pashto II",
+    "courseid": "PASH 0400",
+    "coursedescription": "The second semester of intermediate study and a more in-depth study of the Pashto language. Reading, writing, speaking, and listening comprehension are all stressed in this more advanced course which also continues to build on grammer skills. Two Term Class, Student must enter first term; credit given after both terms are complete Prerequisite: PASH 0300 OR PASH 5300 1 Course Unit",
+    "course-prerequsities": [
+      "PASH 0300",
+      "PASH 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PASH 1500 Advanced Pashto Readings",
+    "courseid": "PASH 1500",
+    "coursedescription": "Advanced Pashtu Reading course for undergraduates. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PASH 5100 Elementary Pashto I",
+    "courseid": "PASH 5100",
+    "coursedescription": "The first semester is focused on mastering the writing system, basic structures, and simple conversation using texts, writing samples, and numerous structure and dialogue drills.We remain within the present and future tenses only, developing vocabulary with lessons and discussions centered around greetings, family, weather, foods, and directions. Students use authentic online and textbook materials. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PASH 5200 Elementary Pashto II",
+    "courseid": "PASH 5200",
+    "coursedescription": "The second semester covers more advanced structures with reinforcing drills, and begin reading longer texts of an assorted variety, mostly short stories and some news articles.The past tense is introduced, as well as longer more complex texts. Topics within simple simulated contexts (taxi, hotel, restaurant, food shopping, time, family). Short writing exercises and dictations are expected at this time, as well as simultaneous translations to and from Pashto. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics within simple simulated contexts (taxi, hotel, restaurant, food shopping, time, family)."
+      ]
+    }
+  },
+  {
+    "coursename": "PASH 5300 Intermediate Pashto I",
+    "courseid": "PASH 5300",
+    "coursedescription": "A more in-depth study of the Pashto language. Reading, writing, speaking, and listening comprehension are all stressed in this more advanced course which also builds on the grammer of beginning level. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PASH 5400 Intermediate Pashto II",
+    "courseid": "PASH 5400",
+    "coursedescription": "The second semester of intermediate study and a more in-depth study of the Pashto language. Reading, writing, speaking, and listening comprehension are all stressed in this more advanced course which also continues to build on grammer skills. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PASH 5500 Advanced Pashto Readings",
+    "courseid": "PASH 5500",
+    "coursedescription": "Advanced Pashtu Reading course for graduate students. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

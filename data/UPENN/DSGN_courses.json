@@ -1,0 +1,716 @@
+[
+  {
+    "coursename": "DSGN 0010 Art, Design and Digital Culture",
+    "courseid": "DSGN 0010",
+    "coursedescription": "This course is an introduction to the fundamental perception, representation, aesthetics, and design that shape today's visual culture. It addresses the way artists and designers create images; design with analog and digital tools; communicate, exchange, and express meaning over a broad range of media; and find their voices within the fabric of contemporary art, design, and visual culture. Emphasis is placed on building an extended form of visual literacy by studying and making images using a variety of representation techniques; learning to organize and structure two-dimenstional and three-dimensional space, and designing with time-based and procedural media. Students learn to develop an individual style of idea-generation, experimentation, iteration, and critique as part of their creative and critical responses to visual culture. Fall or Spring Also Offered As: VLST 2640 Mutually Exclusive: DSGN 5001 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 0020 Design 21: Design After the Digital",
+    "courseid": "DSGN 0020",
+    "coursedescription": "Last century, the digital revolution transformed every aspect of our lives. It shaped every design discipline and defined the ways we imagine and fabricate anything from images to everyday products to clothing, cars, buildings and and megacities. Today, design is going through other technical and conceptual revolutions. We design with biotechnologies, fall in love in Virtual Reality with AI bots, rent our cognitive labor through cryptocurriencies. Our creative capabilities, on the other hand, are bounded by a polluted, over-crowded, and resource-constrained planet that is suffering major income and educational inequality. Design After the Digital interrogates the role of design for this century. The seminar survyes the conceptual and technical developments in the past decade to develop an interdisciplinary understanding of design, science and technology. We will study how new design and fabrication methods shape what we eat, what we wear, how we form opinions and express ourselves. The goal will be to develop new literacies of design that will help us acclimate better to the realities of the century as creative and critical citizens who can shape its products and values. Fall Mutually Exclusive: DSGN 5002 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 1010 Digital Illustration",
+    "courseid": "DSGN 1010",
+    "coursedescription": "Digital Illustration is a course designed to expose students to the diverse techniques and approaches used in creating digital illustration for print publication. Course assignments will include two-dimensional animation storybord rendering, figure illustration, technical diagram illustration, photographic retouching and enhancing. Digital applications will include morphing with layers, surface cloning, three-dimensional modeling and spatial transformation of scences and objects. Students completing this course will possess the capability to design and place creatively and skillfully execute finished artwork. Fall or Spring Mutually Exclusive: DSGN 5003 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 1011 Introduction to Design",
+    "courseid": "DSGN 1011",
+    "coursedescription": "An investigation of an object-oriented design process utilizing digital drawings, rapid prototyping, and digital fabrication techniques. This course introduces design as a creative act marking out a synthesis based on observation of a problem, interpretation of possibilities, and translation of a concept into meaningful three-dimensional objects that engage with society and social justice. The course includes a weekly lecture and studio component. Fall Also Offered As: ARCH 1010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 1020 Art of the web: Interactive Concepts for Art & Design",
+    "courseid": "DSGN 1020",
+    "coursedescription": "Art of the Web: Interactive concepts for art and design is a first step in learning how to create,analyze and discuss interactive content, as a visual creator. It is an exploration of the culture of the internet, the ideas behind its quirks, the dreams and freedoms it encapsulates, and the creative power it gives us. Students will be assigned projects that will challenge their current understanding of the web, and the ways it shapes human connectivity and interaction. Upon completion of this course, studnets will possess a working knowledge how to organize and design websites and learn to critique web-content including navigation, UX design and information architecture. The course will require analytical conceptual skills and foster creative thinking. Fall or Spring Mutually Exclusive: DSGN 5004 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 1030 3-D Computer Modeling",
+    "courseid": "DSGN 1030",
+    "coursedescription": "Students will develop a comprehensive knowledge of how virtual worlds are constructed using contemporary computer graphics technique with a fine arts perspective. The course will offer the opportunity to explore the construction, texturing, and rendering of forms, environments, and mechanisim while conforming to modeling specifications required for animation, real-time simultions or gaming environements, and rapid protogyping. Fall or Spring Mutually Exclusive: DSGN 5005 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 1040 Open Book",
+    "courseid": "DSGN 1040",
+    "coursedescription": "\"Open Book\" will focus on visual communication of information. It will address two methods of inquiry and the corresponding means of visual representaion: the objective, well structured research of facts and images, and the creative process of their subjective evaluation and restatement. Students will propose a topic based on their area of interest and engage in a focused, semester-long exploration, which they will present in the form of a designed and printed book. Fall Mutually Exclusive: DSGN 5006 Prerequisite: DSGN 0010 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 0010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It will address two methods of inquiry and the corresponding means of visual representaion: the objective, well structured research of facts and images, and the creative process of their subjective evaluation and restatement.",
+        "Students will propose a topic based on their area of interest and engage in a focused, semester-long exploration, which they will present in the form of a designed and printed book."
+      ]
+    }
+  },
+  {
+    "coursename": "DSGN 1050 Typography",
+    "courseid": "DSGN 1050",
+    "coursedescription": "This course explores typography in the context of other arts, styles and movements to understand how aesthetic and cultural values of a given period manifest themselves in the typographic form. We explore typography both as a means to organize information and as an expressive visual medium. The course format is divided between studio projects and seminar (lectures and discussions), including visits to the Rare Book Collection and the Common Press for presentations and workshops. Fall or Spring Mutually Exclusive: DSGN 5007 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 1070 Graphic Design I: Creative Technologies",
+    "courseid": "DSGN 1070",
+    "coursedescription": "This aim this course is to introduce students creative ways to use color, typography, and layout across new materials and media, ranging from print to physical objects. Students will explore visual design through a set of assignments and projects that are geared towards exploring the role of design in visual arts, interaction design, media design and architecture. The course introduces a number of design concepts such as content organization, navigation, interaction and date-driven design and show ways to develop new desigh metaphors, presentation techniques, and imagery using old and new technologies. Course is structured as a combination of lectures and hands on workshops where students will have the chance to work both individually and collaboratively to realize their projects. Fall, Spring, and Summer Terms Mutually Exclusive: DSGN 5018 Prerequisite: DSGN 0010 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 0010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 1200 Procedural Design Systems for Virtual Environments",
+    "courseid": "DSGN 1200",
+    "coursedescription": "\"Procedural Design Systems for Virtual Environments\" challenges students to reconceptualize 3D design within digital and virtual ecosystems, not just as production but as concept creation. Embracing system-based workflows, the course delves into procedural modeling, shader creation, and optimization, all set within a software-agnostic framework. Central to this studio course is the concept of assets as \"units of language\" within larger digital narratives, driven by the use of design systems to ensure these assets are contextually coherent and resource-efficient. Through hands-on workshops, discussions, and tutorials, participants will master procedural workflows, preparing them to craft assets that are both technically robust and culturally relevant. Mutually Exclusive: DSGN 5200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2010 Digital Figure Modeling",
+    "courseid": "DSGN 2010",
+    "coursedescription": "This course introduces methods of modeling, texturing, and rendering human and animal figures. Students will study anatomical bone and muscle structures, and then employ this knowledge as they develop polygonal models for real-time 3D simulations or gaming environments, high-resolution rendersing, and rapid prototyping. Spring Mutually Exclusive: DSGN 5009 Prerequisite: DSGN 1020 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 1020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2030 Book and Publication Design",
+    "courseid": "DSGN 2030",
+    "coursedescription": "Book and Publication Design will focus on the theory and profesional practice of designing multi-page publications. Students will analyze formal structures of different types of books-literature and poetry, fiction and non-fiction compilations, illustrated volumes such as art catalogues, monographs and textsbooks, and serial editions-discussing both traditional and experimental approaches. The format of the course will be split between theoretical and historical evaluations of book formats by drawing on the Van Pelt Rare Book Collection - and studio time where students will design books with attention to the format's conceptual relationship to the material at hand with a focus on typography and page layout, as well as on understanding production methods of printing and binding. In addition to the conventions of page layout, students will examine paratextual elements (title page, practice of pagination and other internal structuring, content lists and indexes, colophons, notes, and marginalia, and end-leaves binding, etc.). Fall Mutually Exclusive: DSGN 5011 Prerequisite: DSGN 0010 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 0010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2040 Environmental Animation",
+    "courseid": "DSGN 2040",
+    "coursedescription": "Animation can be disarming and effective when used for climate communication. The animation toolkit includes the implementation of metaphor within stories, alluring hand-drawn visualizations, illustrative views, dynamic transformations of visual forms, and cinematic sequences that reveal the cause and effect of human action. As the instructors of this studio have discovered in their own work, it is crucial that animators collaborate with climate scientists and that research be a component throughout the whole process, from script-writing and storyboarding to the animatic and the final product. This collaboration guarantees accuracy, relevance, and effective audience-targeting. What scientists value is the ability of animation to convey complex information in engaging and comprehensible ways. In this course, we will form small production teams that will partner with climate researchers at Penn and other centers and institutions to produce animated videos that meet their communication needs. Students in the course will use hand-drawn and collage animation to produce persuasive videos that communicate emerging risks and obstacles to climate action as well as solutions and new perspectives. Spring Mutually Exclusive: DSGN 5012 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2050 Graphic Design Practicum",
+    "courseid": "DSGN 2050",
+    "coursedescription": "Practicum provides a real world experience for students interested in solving design problems for non-profit and community organizations. The studio works with two clients each semester, and previous projects have included print design, web design, interpretive signage and exhibit interactives. All projects are real and will result in portfolio-ready finished product. Students will participate in full design experience including design, client interaction, presentations, production and project management. In addition, students will take field trips, meet professionals and go on studio visits. Fall or Spring Mutually Exclusive: DSGN 5013 Prerequisite: DSGN 1040 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 1040"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Practicum provides a real world experience for students interested in solving design problems for non-profit and community organizations."
+      ]
+    }
+  },
+  {
+    "coursename": "DSGN 2060 Advanced 3-D Modeling",
+    "courseid": "DSGN 2060",
+    "coursedescription": "Advanced 3-D Modeling will give students the opportunity to refind skills in modeling, texturing, lighting and rendering with an emphasis on the evolution of ideas through constant revision based class critique. Students will use a variety of industry standard software packages, including but not limited to Maya and Mudbox to compose complex environments. Projects are designed to give students the opportunity to work with orginial content within a simulated production environment. Fall or Spring Prerequisite: DSGN 1020 OR DSGN 6350 OR DSGN 2010 OR DSGN 5360 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 1020",
+      "DSGN 6350",
+      "DSGN 2010",
+      "DSGN 5360"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will use a variety of industry standard software packages, including but not limited to Maya and Mudbox to compose complex environments."
+      ]
+    }
+  },
+  {
+    "coursename": "DSGN 2070 Graphic Design II",
+    "courseid": "DSGN 2070",
+    "coursedescription": "This course will explore advanced commercial, public and personal forms of visual communication. Emphasis will be placed on creative problem solving with consideration for audience. Discussion of design history, current ideology and future design applications will inform individual student projects. Work generated in this studio can be used to build a portfolio. Fall Prerequisite: DSGN 1070 AND DSGN 1040 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 1070",
+      "DSGN 1040"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2090 Projection as a Tool for Expression and Communication in the Public Space",
+    "courseid": "DSGN 2090",
+    "coursedescription": "The course will introduce students to projection as a tool of artistic expression and cultural communication. The purpose of the course is to prepare designers and artists for the projection-based Installations, and performances. Students' projects will take form of projections-animations of interior or exterior architectural and sculptural sites as well as inventions and presentations of wearable, portable, or mobile performative projects. The projects may require specific cultural research and a creative use of basic software, hardware, and physical modeling. Students will be encouraged to experiment with video projectors and micro-projectors in connection with available media devices, such as smart phones, speakers, monitors, sensors, or other input and output components, as well as the use of unconventional materials, and forms as projection “screens. Mutually Exclusive: DSGN 5090 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2220 Immersive Media Studio",
+    "courseid": "DSGN 2220",
+    "coursedescription": "This immersive media course explores the design and application of virtual, augmented, and mixed realities. It combines project-based learning with an understanding of the historical and cultural impacts of these technologies. Focused on immersive design principles and user experience, the course equips students with the necessary technical and artistic skills for creating interactive virtual environments. Through practical exercises and discussions, students will master immersive tools and techniques. The course culminates in a significant project that demonstrates students' critical perspective on immersive media and their ability to produce work with an artistic or design function relevant to their wider practice. Prerequisite: DSGN 1030 AND FNAR 2100 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 1030",
+      "FNAR 2100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2230 Embodied Interfaces for Immersion",
+    "courseid": "DSGN 2230",
+    "coursedescription": "“Embodied Interfaces for Immersion” explores the design of Natural User Interfaces (NUIs) for Extended Realities (VR, AR, Projection Mapping) to create immersive, human-centered, and embodied experiences in physical and virtual spaces. NUIs in this context not only aim to lower cognitive load but also serve as creative tools for crafting fluid, expressive, and accessible interactions. Students will explore artistic approaches to interface design, working with a range of technologies like spatial computing, circuit bending, scripting, and fabrication, to construct human-centered, inclusive interfaces that enable meaningful, artistic experiences that deepen the connection between users and their surrounding environment. Prerequisite: DSGN 1200 AND DSGN 2220 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 1200",
+      "DSGN 2220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2260 Pixel to Print",
+    "courseid": "DSGN 2260",
+    "coursedescription": "This studio course introduces students to the world of print media and circulation through techniques in Risograph (a high-speed digital printing system developed in Japan in the 1980s), xerography, and letterpress, focusing particularly on the format of posters and artists' ephemera. Beginning with the Adobe Creative Suite, students will create their own broadsides, flyers, announcement cards, and print-based installations throughout the course, exploring ways in which artists and designers make use of the printed form to disseminate information; initiate happenings; advertise events; or foment change. Students will learn about some of the most significant producers working within this realm--from Dada to punk bands in the '70s to contemporary hybrid publishing collectives--and develop skills in page layout, typography, and design; digital to analog pre-press and post-print production methods; and mechanized and hand-pulled press operations. The course includes a field trip to NYC. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2500 Cultures of Making",
+    "courseid": "DSGN 2500",
+    "coursedescription": "Cultures of Making is an integrative studio that explores new frontiers of design that enable, empower, and interrogate the human in the 21st century. We will take the human body, identity, or image as a site of investigation and design new types of products for it. Through our designs, we will raise questions about the motivations behind quantifying ourselves, desires for being permanently available and connected, complacency with not having privacy or intimacy, and eagerness to substitute craft, labor, and decision-making with intelligent systems from self-driving cars to painting bots and trading algorithms. This studio will pursue a research - and production-oriented format. We will incorporate techniques and technologies from fields as diverse as printed electronics, biochemical fabrication, machine learning and robotics to develop applications that respond to the emergent perceptions of the human for its individual, social, or environmental identity. Mutually Exclusive: DSGN 5016 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2510 Biological Design",
+    "courseid": "DSGN 2510",
+    "coursedescription": "This course is a research-based design studio that introduces new materials, fabrication, and prototyping techniques to develop a series of design proposals in response to the theme: Biological Design. The studio introduces life sciences and biotechnologies to designers, artists, and non-specialists to develop creative and critical propositions that address the social, cultural, and environmental needs of the 21st century. Fall or Spring Prerequisite: DSGN 0010 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 0010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2530 Functions for Form and Material",
+    "courseid": "DSGN 2530",
+    "coursedescription": "This studio course will introduce methods of material selection and fabrication with the goal of developing evocative and effective designs. We will learn parametric modeling techniques that allow visualization to begin before all the requirements of design are known. We will implement techniques that allow us to structurally test and optimize forms to be stronger, lighter, to fail more predictably, or to function efficiently. The class will work identity to materials with properties that introduce new structural or conceptual possibilities for our designs. For each project, we will use a broad range or fabrication techniques for metals, natural and syntheic materials. The goal of this course is to develop a creative approach towards learning to work with unfamiliar tools and materials. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2540 Information Design and Visualization",
+    "courseid": "DSGN 2540",
+    "coursedescription": "Information Design and Visualization is an introductory course that explores the structures of information (text, numbers, images, sounds, video, etc.) and presents strategies for designing effective visual communication appropriate for various users and audiences. The course seeks to articulate a vocabulary of information visualization and find new design forms for an increasingly complex culture. Fall or Spring Prerequisite: DSGN 0010 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 0010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2550 Interfacing Cultures: Designing for Mobile, Web and Public Media",
+    "courseid": "DSGN 2550",
+    "coursedescription": "This course introduces students to advanced interface design topics. We’ll examine digital interfaces in relation to contemporary media technologies such as mobile applications, websites, and new technology. Structured as a studio class, students will work to understand the impact interface design decisions have on people and society at varying scales. At the end of this course, students will have a basic working knowledge of equity-centered, trauma-informed, and accessible design practices to carry out research and present strategic concepts utilizing social and/or speculative design. Through theory and practice, students will cultivate skills to carry forward as critical design thinkers, makers, and leaders. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2560 Design Future(s)",
+    "courseid": "DSGN 2560",
+    "coursedescription": "Design Future(s) is production-oriented studio which explores the relationship between critical design and emerging technologies. Students learn how to work with sensing, machine learning, robotics, and biofabrication to explore what it means to design in response to the social, cultural, and environmental realities of our times. The course is organized through hands-on workshops, lectures, design and critique sessions to develop both technical skills and learn about new design methodologies. Every semester, the studio is developed around a specific theme (i.e., future of body and labor, future of identity, future interfaces) and work towards developing a discursive and multi-disciplinary understanding of \"future\" that is informed by methodologies outside the traditional Western design canon. Mutually Exclusive: DSGN 5010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2570 User Experience (UX) and User Interface (UI) Design",
+    "courseid": "DSGN 2570",
+    "coursedescription": "Great user experience and user interface design are essential for creating digital products that people love. In this course, we'll cover a range of topics from user research through designing visual interfaces, as well as principles of human-centered design and the design process. We'll study existing products to understand the problems they solve and the elements that make them succeed. Lectures and coursework will include practical exercises with user journeys, flowcharts, style sheets, and prototyping tools. No design experience necessary. Mutually Exclusive: DSGN 5023 Prerequisite: DSGN 0010 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 0010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 2580 Artificial Intelligence in Art: Redefining Creativity in the 21st Century",
+    "courseid": "DSGN 2580",
+    "coursedescription": "In the era of artificial intelligence, artists, designers, and creators confront a transformative shift that challenges their roles within their professional fields. With the introduction of AI visual tools like DALL·E, Midjourney, Stable Diffusion, alongside the emergence of language model-based chatbots such as ChatGPT, the creative landscape has undergone profound changes in recent years. Now, anyone can step into the role of a creator with a simple act: typing a prompt to generate visually stunning images, compose music across all genres, and write original poetry within a minute. The journey began in 2016 with AlphaGo's historic victory over the professional Go player Lee Sedol, which continued with the remarkable sale of an AI-created painting at Christie’s in 2018, and the recognition of the first AI-generated illustrative photography to win an art prize in 2022. These events sparked an ongoing debate with questions about the evolving dynamics between Machine vs. Human creativity. We find ourselves in the midst of the artificial intelligence era, a period reshaping our daily lives and challenging conventional notions of creativity and artistry. This studio class will be a combination of lectures, in-class exercises utilizing AI-generated visual and sound tools, group discussions on the societal and ethical dimensions of AI-generated content, and independent research for project creation. The goal is to explore limitless possibilities of AI tools, pushing boundaries of artistic practice, and participating in a collaborative group exhibition at the end of the course. Prerequisite: DSGN 0010 AND DSGN 0020 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 0010",
+      "DSGN 0020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 3020 Contemporary Theories of Design",
+    "courseid": "DSGN 3020",
+    "coursedescription": "This seminar explores a range of theories, concepts, and thought patterns that shape different disciplines of design. From critical science studies to object-orient ontology and speculative design, it discusses how theoretical frameworks drive innovation, critique, and user experience. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 3030 Creative Research",
+    "courseid": "DSGN 3030",
+    "coursedescription": "This seminar explores different aspects of research--knowledge production and dissemination--across a variety of creative practices from the arts to the humanities, engineering, and sciences. Students investigate what it means to observe, measure, analyze, test, study, experiment, diagram, prototype, speculate, generate and criticize; apply multiple modes of inquiry; be conceptual, analytical, propositional and critical at the same time, all in order to develop their work from different perspectives. As students work across different methodologies, they also explore ways of making their work public through various social protocols, publications, and exhibitions that address different audiences. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 3040 Language of Design",
+    "courseid": "DSGN 3040",
+    "coursedescription": "The course will explore the changing relationship during the modern era between design (structure, model, plan of a work of art) and language (metaphor for a system of communication; speech, writing, literature). Our readings and visual presentations will focus on topics in the decorative arts, painting, architecture, typography and visual communication. We will focus on primary sources in order to situate our inquiry in a larger historical context. The discussion will center on claims about the inherent meaning of form, discuss different roles for design - as an ideological statement, as an agent of social change, and as an idiosyncratic expression. Topics will also include the search for a universal language, attempts at bridging the perceived gap between spoken and written language, and the impact of visual form on the meaning of literary texts (particularly when the author has been involved in the publication process). Students can suggest additional topics related to their field of study. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 3050 Design Tools and Technologies",
+    "courseid": "DSGN 3050",
+    "coursedescription": "This studio focuses on providing digital skills to conceptualize, produce and disseminate design products. Through workshops, software training sessions and labs, students will engage with different design professionals and learn state-of-the art tools used in interactive media, UI/UX, modeling and fabrication design. Students will also learn ways to work with open source software and have a chance to build their own design tools through creative programming exercises. The course does not require any technical background, but assumes basic familiarity with visual design tools (i.e., Adobe Creative Suite). 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 3060 Futures for All: Reimagining social equality through art and technology",
+    "courseid": "DSGN 3060",
+    "coursedescription": "How can art become a form of activism? How does design shape social equality? This course investigates how technological media shape culture and society, and how artists and designers can actively reshape these dynamics through art and design. We will engage in the practice of \"speculative design\", and tactical design using various digital tools to envision different futures, reflecting on social, political, and ethical implications of various technologies. Exploring the relationship between digital and physical realities, students will utilize their skills in art and design while applying them to critical social discourse and activism. Students will also develop skills in active reading, critical analysis, and scholarly writing. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 3070 Feminist Technoscience: Art, Technology, & Gender",
+    "courseid": "DSGN 3070",
+    "coursedescription": "How does scientific research produce and reinforce concepts of gender? How is sexism propagated through technological media? This course investigates how scientific and technological media shape culture and society, particularly through the lens of gender and sexuality. Engaging in interdisciplinary art making, students will use various technological media to reflect on the social, political, and ethical domains of technoscientific feminism. Exploring the relationship between digital and physical realities, students will engage art and design with critical social discourse and gender theory. Students will also develop skills in active reading, critical analysis, and scholarly writing. By the end of the course, students will have created a unique work of art that imagines more empowered, equitable futures. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 3080 Care as Revolution: Socially Engaged Art and Design",
+    "courseid": "DSGN 3080",
+    "coursedescription": "In the exploitative cycles of production and consumption fueled by late stage capitalism, are there alternative ways to reimagine systems of support and mutual care? Through the lens of socially engaged art and design, students will look at a range of primary sources from artists and designers who have created participatory works that challenge traditional structures of power and integrate practices of care into their local communities. With a focus on decommodified labor and care work, students will analyze why and how certain types of labor have been devalued historically. Students will read and analyze historical and current texts related to femnist economics, art as social action, and socially engaged design. Through a scholarly lens, we will evaluate the radical nature of acts of care as a critical framework through which we can imagine more equitable futures. At the end of the semester, students will present their own unique works that contribute to this discourse. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 3100 Interrogative Design: Cultural Prosthetics",
+    "courseid": "DSGN 3100",
+    "coursedescription": "The course is open to students interested in pursuing artistic, design and research projects that interrogate, and proactively respond to the existential, communicative and survival needs of the estranged, marginalized and excluded persons and social groups, while addressing the unacceptability of conditions that produce such needs. In the words of art theorist Rosalyn Deutsche, the ‘utopia’ of interrogative design is ‘based on the hope that its very function will render it obsolete'. The course will consist of readings, discussions, and presentations related to the fields and methods of interrogative, critical and speculative design, 'cultural prosthetics', 'scandalizing functionalism', forensic design, monument participatory animation, and, most importantly, on the ideation, experimentation, development, and presentation of students’ original projects. After a short introductory assignment, the students -individually or in teams- will work on a selected by them project to be advanced and discussed in class during the semester, presented at the midterm and at the final review, with the response and input from guest critics. Mutually Exclusive: DSGN 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is open to students interested in pursuing artistic, design and research projects that interrogate, and proactively respond to the existential, communicative and survival needs of the estranged, marginalized and excluded persons and social groups, while addressing the unacceptability of conditions that produce such needs."
+      ]
+    }
+  },
+  {
+    "coursename": "DSGN 3120 Anthropology of Futurity",
+    "courseid": "DSGN 3120",
+    "coursedescription": "How should we think about the future amid worlds on edge? What is an inevitable versus a contingent course of events? What role do humans and non-humans, machines, animals, and plants play as agents of futurity in the context of the Anthropocene? This seminar explores these pressing questions, linking multiple sources of knowledge production—biological, medical, ecological, engineering, economic, and anthropological—with manifestations of the future. It starts with the basic premise that futures are made, molded by competing material, economic, and creative desires and possibilities, and not foreordained. Innovating futures also entails unexpected ethical and technical entanglements that current forms of knowledge cannot always anticipate. Drawing from readings in anthropology, the social studies of science and technology, Indigenous studies, as well as from engineering, AI, and scientific journals and films, we explore tensions between knowledge and uncertainty on the one hand, and ethics and innovation on the other. With these tensions in mind, we consider the myriad of agents whose role will be vital to shaping planetary futures—as well as how alternative futures, especially among communities confronting systemic inequalities and colonial and race-based injustices, are imagined and realized. From the climate crises to the ongoing pandemics, militarization, and mass migrations that have torn apart social fabrics, we will learn to become ‘technologists of the future’—that is, individuals and collectives with the tools to realize more inclusive, flourishing, and just futurities. Not Offered Every Year Also Offered As: ANTH 2080 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 3250 MATTERS: Connecting Arts + Design to Materials, and Materials to Labor + Land",
+    "courseid": "DSGN 3250",
+    "coursedescription": "How does matter transform into material, and back again? What hidden labor, sites, social and ecological costs and processes go into the production of a “blank” canvas and other “raw” materials? And why-- for artists, designers, architects, preservationists, creative educators, builders, and anyone working with materials-- do these realities matter? This course connects arts and design learners to considerations, sites, and cycles around production and disposal of the defining materials of their creative fields (ex. paper, wood, glass, pigment, \"the internet\"), laying groundwork for creative practice rooted in social and ecological awareness, repair and care. A hybrid research seminar, field exploration, and studio investigation, the structure of this course alternates between reading/response/research, field trips and guest visitors (including a partnership affiliation with RAIR Philly), and time for responsive “making” and material experimentation/synthesis. In this course, students will collaboratively define key terms and concerns around material sustainability, discard studies, land and labor relations vis-a-vis creative work. Students will experience local sites of material extraction, production and disposal (through approx 5 field trips taking place during class time). Students will formulate individual or group questions around a specific material, leading to a final independent project, and class exhibition. This course will engage students in forming a material ethics to guide future creative work. Also Offered As: FNAR 3250 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 4010 Independent Study",
+    "courseid": "DSGN 4010",
+    "coursedescription": "Undergraduate Fine Arts independent study course for students pursuing advanced, specialized, indecently-driven course work. This course must be taught by a full-time faculty member. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 4020 Design Senior Seminar Project (Fall)",
+    "courseid": "DSGN 4020",
+    "coursedescription": "This rigorous pair of courses, one offered in the Fall and one offered in the Spring semester, are designed as the capstone of the Design major and are required for all graduating Design seniors. They can only be taken in the senior year. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 4030 Design Senior Seminar Project (Spring)",
+    "courseid": "DSGN 4030",
+    "coursedescription": "This rigorous pair of courses, one offered in the Fall and one offered in the Spring semester, are designed as the capstone of the Design major and are required for all graduating Design seniors. They can only be taken in the senior year. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5001 Art, Design and Digital Culture",
+    "courseid": "DSGN 5001",
+    "coursedescription": "This course is an introduction to the fundamental perception, representation, aesthetics, and design that shape today's visual culture. It addresses the way artists and designers create images; design with analog and digital tools; communicate, exchange, and express meaning over a broad range of media; and find their voices within the fabric of contemporary art, design, and visual culture. Emphasis is placed on building an extended form of visual literacy by studying and making images using a variety of representation techniques; learning to organize and structure two-dimensional and three-dimensional space, and designing with time-based and procedural media. Students learn to develop an individual style of idea-generation, experimentation, iteration, and critique as part of their creative and critical responses to visual culture. Fall or Spring Mutually Exclusive: DSGN 0010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5002 Design 21: Design After the Digital",
+    "courseid": "DSGN 5002",
+    "coursedescription": "Last century, the digital revolution transformed every aspect of our lives. It shaped every design discipline and defined the ways we imagine and fabricate anything from images to everyday products to clothing, cars, buildings, and megacities. Today, design is going through other technical and conceptual revolutions. We design with biotechnologies, fall in love in Virtual Reality with AI bots, rent our cognitive labor through crytocurrencies. Our creative capabilities, on the other hand, are bounded by a polluted, over-crowded, and resource-constrained planet that is suffering major income and educational inequality. Design After the Digital interrogates the role of design for this century. This seminar surveys the conceptual and technical developments in the past decade to devlop an interdisciplinary understanding of design, science, and technology. We will study how new design and fabrication methods shape what we eat, what we wear, how we form opinions and express ourselves. The goal will be to develop new literacies of design that will help us acclimate better to realities of the century as creative and critical citizens who can shape its products and values. Fall Mutually Exclusive: DSGN 0020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5003 Digital Illustration",
+    "courseid": "DSGN 5003",
+    "coursedescription": "Digital Illustration is a course designed to expose students to the diverse techniques and approaches used in creating digital illustration for print publication. Course assignments will include two-dimensional animation storyboard rendering, figure illustration, technical diagram illustration, photographic retouching and enhancing. Ditial applications will include morphing with layers, surface cloning, three-dimensional modeling and spatial transformation of scenes and objects. Students completing this course will possess the capability to design and plan creatively and skillfully execute finished artwork. Fall or Spring Mutually Exclusive: DSGN 1010 Prerequisite: DSGN 6640 AND FNAR 0010 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 6640",
+      "FNAR 0010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5004 Art of the Web: Interactive Concepts for Art & Design",
+    "courseid": "DSGN 5004",
+    "coursedescription": "Art of the Web: Interactive concepts for art and design is a first step in learning how to create, analyze and discuss interactive content, as a visual creator. It is an exploration of the culture of the internet, the ideas behind its quirks, the dreams and freedoms it encapsulates, and the creative power it gives us. Students will be assigned projects that will challenge their current understanding of the web, and the ways it shapes human connectivity and interaction. Upon completion of this course, students will possess a working knowledge how to organize and design websites and learn to critique web-content including navigation, UX design and information architecture. The course will require analytical conecptual skills and foster creative thinking. Fall or Spring Mutually Exclusive: DSGN 1020 Prerequisite: FNAR 0010 1 Course Unit",
+    "course-prerequsities": [
+      "FNAR 0010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5005 3-D Computer Modeling",
+    "courseid": "DSGN 5005",
+    "coursedescription": "Students will develop a comprehensive knowledge of how virtual worlds are constructed using contemporary computer graphics technique with a fine arts perspective. The course will offer the opportunity to explore the construction, texturing, and rendering of forms, environments, and mechanisms while conforming to modeling specifications required for animation, real-time simulations or gaming environments, and rapid prototyping. Fall or Spring Mutually Exclusive: DSGN 1030 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5006 Open Book",
+    "courseid": "DSGN 5006",
+    "coursedescription": "\"Open Book\" will focus on visual communication of information. It will address two methods of inquiry and the corresponding means of visual representation: the objective, wll structured research of facts and images, and the creative process of their subjective evaluation and restatement. STudents will propose a topic based on their area of interest and engage in a focused, semster-long exploration, which they will present in the form of a designed and printed book. Fall Mutually Exclusive: DSGN 1040 Prerequisite: DSGN 0010 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 0010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It will address two methods of inquiry and the corresponding means of visual representation: the objective, wll structured research of facts and images, and the creative process of their subjective evaluation and restatement.",
+        "STudents will propose a topic based on their area of interest and engage in a focused, semster-long exploration, which they will present in the form of a designed and printed book."
+      ]
+    }
+  },
+  {
+    "coursename": "DSGN 5007 Typography",
+    "courseid": "DSGN 5007",
+    "coursedescription": "This course explores typography in the context of other arts, styles and movements to understand how aesthetic and cultural values of a given period manifest themselves in the typographic form. We explore typography both as a means to organize information and as an expressive visual medium. The course format is divided between studio projects and seminar (lectures and discussions), including visits to the Rare Book Collection and the Common Press for presentations and workshops. Spring Mutually Exclusive: DSGN 1050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5008 Visual Narrative",
+    "courseid": "DSGN 5008",
+    "coursedescription": "Visual Narrative is an introduction to the practice of storytelling with images. From news and information to art, law, and science, visual storytelling is a critical aspect of creating and navigating contemporary culture. This course is situated at the intersection of design, art, and visual culture, focusing on relevant forms and topics including the photo essay, information design and visual explanation, the photograhic sequence in contemporary art, scenario design and concept visulization. It proposes that studying and making sequential images and visual essays in a wide range of meda- comics and graphic novels, propaganda, environements and installations, social media, animation, video, and digital media- are critical to understanding culture. The course immerses students in the study of narrative craft and creation of isual stories covering topics relevant to designers and photographers. Beginning with the phto series an the photo documentary tradition, the course evolves through multimedia narrative and non-narrative forms. STudents will explore principles of narrative construction in design and photography through lecture, studio projects, and with presentations by visiting artists, designers, and photographers. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5009 Digital Figure Modeling",
+    "courseid": "DSGN 5009",
+    "coursedescription": "This course introduces methods of modeling, texturing, and rendering human and animal figures. Students will study anatomical bone and muscle structures, and then employ this knowledge as they develop polygonal models for real-time 3D simulations or gaming environments, high-resolution renderings, and rapid prototyping. Spring Mutually Exclusive: DSGN 2010 Prerequisite: DSGN 1020 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 1020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5011 Book and Publication Design",
+    "courseid": "DSGN 5011",
+    "coursedescription": "Book and Publication Design will focus on the theory and professional practice of designing multi-page publications. Students will analyze formal structures of different types of book-literature and poetry, fiction and non-fiction compilations, illustrated volumes such as art catalogues, monographs, and textbooks, and serial editions-discussing both traditional and experimental approaches. The format of the course will be split between theoretical and historical evaluations of book formats by drawing on the Van Pelt Rare Book collection - and studio time where students will design books with attention to the format's conceptual relationship to the material at hand with a focus on typography and page layout, as well as understanding production methods of printing and binding. In addition to the conventions of page layout students will examine paratextual elements (title page, practices of pagination and other internal structuring, content lists and indexes, and colophons, notes and marginalia, end-leaves, binding etc.). Prerequisite: DSGN 0010 or permission from the instructor. Fall Mutually Exclusive: DSGN 2030 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 0010",
+      "DSGN 2030"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: DSGN 0010 or permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "DSGN 5012 Environmental Animation",
+    "courseid": "DSGN 5012",
+    "coursedescription": "Animation can be disarming and effective when used for climate communication. The animation toolkit includes the implementation of metaphor within stories, alluring hand-drawn visualizations, illustrative views, dynamic transformations of visual forms, and cinematic sequences that reveal the cause and effect of human action. As the instructors of this studio have discovered in their own work, it is crucial that animators collaborate with climate scientists and that research be a component throughout the whole process, from script-writing and storyboarding to the animatic and the final product. This collaboration guarantees accuracy, relevance, and effective audience-targeting. What scientists value is the ability of animation to convey complex information in engaging and comprehensible ways. In this course, we will form small production teams that will partner with climate researchers at Penn and other centers and institutions to produce animated videos that meet their communication needs. Students in the course will use hand-drawn and collage animation to produce persuasive videos that communicate emerging risks and obstacles to climate action as well as solutions and new perspectives. Spring Mutually Exclusive: DSGN 2040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5013 Graphic Design Practicum",
+    "courseid": "DSGN 5013",
+    "coursedescription": "Practicum provides a real world experience for students interested in solving design problems for non-profit and community organizations. The studio works with two clients each semester, and previous projects have included print design, web design, interpretive signage and exhibit interactives. All projects are real and will result in a portfolio-ready finished product. Students will particpate in a full design experience including design, client interaction, prsentations, production, and project management. In addition, students will take field trips, meet professionals and go on studio visits. Fall or Spring Mutually Exclusive: DSGN 2050 Prerequisite: DSGN 1020 OR DSGN 2010 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 1020",
+      "DSGN 2010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Practicum provides a real world experience for students interested in solving design problems for non-profit and community organizations."
+      ]
+    }
+  },
+  {
+    "coursename": "DSGN 5014 Advanced 3D Modeling",
+    "courseid": "DSGN 5014",
+    "coursedescription": "Advanced 3D Modeling will give students the opportunity to refind skills in modeling, texturizing, lighting, and rendering with an emphasis on the evolution of ideas through constant revision based on class critique. Students will use a variety of industry standard software packages, including but not limited to Maya and Mudbox to compose complex environments. Projects are designed to give students the opportunity to work with original content with a simulated production environment. Fall or Spring Prerequisite: DSGN 2520 AND DSGN 1040 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 2520",
+      "DSGN 1040"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will use a variety of industry standard software packages, including but not limited to Maya and Mudbox to compose complex environments."
+      ]
+    }
+  },
+  {
+    "coursename": "DSGN 5015 Graphic Design II",
+    "courseid": "DSGN 5015",
+    "coursedescription": "This course will explore advanced commercial, public and personal forms of visual communication. Emphasis will be placed on creative problem solving with consideration for audience. Discussion of design history, current ideology and future design applications will inform individual student projects. Work generated in this studio can be used build a portfolio. Prerequisite: Permission from instructor if prerequites are not met. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission from instructor if prerequites are not met."
+      ]
+    }
+  },
+  {
+    "coursename": "DSGN 5016 Cultures of Making",
+    "courseid": "DSGN 5016",
+    "coursedescription": "Cultures of Making is an integrative studio that explores new frontiers of design that enable, empower, and interrogate the human in the 21st century. We will take the human body, identity, or image as a site of investigation and design new types of products for it. Through our designs, we will raise questions about the motivations behind quantifying ourselves, desires for being permanently available and connected, complacency with not having privacy or intimacy, and eagerness to substitute craft, labor, and decision-making with intelligent systems from self-driving cars to painting bots and trading algorithms. This studio will pursue a research - and production-oriented format. We will incorporate techniques and technologies from fields as diverse as printed electronics, biochemical fabrication, machine learning and robotics to develop applications that respond to the emergent perceptions of the human for its individual, social, or environmental identity. Spring Mutually Exclusive: DSGN 2500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5017 Biological Design",
+    "courseid": "DSGN 5017",
+    "coursedescription": "This course is a research-based design studio that introduces new materials, fabrication, and prototyping techniques to develop a series of design proposals in response to the theme: Biological Design. The studio introduces life sciences and biotechnologies to designers, artists, and non-specialists to develop creative and critical propositions that address the social, cultural, and environmental needs of the 21st century. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5018 Graphic Design I: Creative Technologies",
+    "courseid": "DSGN 5018",
+    "coursedescription": "The aim of this course is to introduce students creative ways to use color, typography, and layout across materials and media, ranging from print to physical objects. Students will explore visual design through a set of assignments and projects that are geared towards exploring the role of design in visual arts, interaction design, media design and architecture. The course introduces a number of design concepts such as content organization, navigation, interaction and ddata-driven design and show ways to develop new design metaphors, presentation techniques, and imagery using old and new technologies. Course is structured as a combination of lectures and hands on workshops where students will have the chance to work both individually and collaboratively to realize their projects. Fall or Spring Mutually Exclusive: DSGN 1070 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5019 Functions for Form and Material",
+    "courseid": "DSGN 5019",
+    "coursedescription": "This studio course will introduce methods of material selection and fabrication with the goal of developing evocative and effective designs. We will learn parametric modeling techniques that allow visulization to begin before all the requirements of a design are known. We will implement techniques that allow us to structurally test and optimize forms to be stronger, lighter, to fail more predictably, or to function efficiently. The class will work to identify materials with properties that introduce new structural or conceptual possibilities for our designs. For each project, we will use a broad range of fabrication techniques for metals, natural and synthetic materials. The goal of the course is to develop a creative approach towards learning to work with unfamiliar tools and materials. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5021 Information Design and Visualization",
+    "courseid": "DSGN 5021",
+    "coursedescription": "Information design and visualization is an introductory course that explores the structure of information (text, numbers, images, sounds, video, etc.) and presents strategies for designing effective visual communication appropriate for various users and audiences. The course seeks to articulate a vocabulary of information visualization and find new design forms for an increasingly complex culture. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5022 Interfacing Culture: Designing for Mobile, Web and Public Media",
+    "courseid": "DSGN 5022",
+    "coursedescription": "This course introduces students to advanced interface design topics. We’ll examine digital interfaces in relation to contemporary media technologies such as mobile applications, websites, and new technology. Structured as a studio class, students will work to understand the impact interface design decisions have on people and society at varying scales. At the end of this course, students will have a basic working knowledge of equity-centered, trauma-informed, and accessible design practices to carry out research and present strategic concepts utilizing social and/or speculative design. Through theory and practice, students will cultivate skills to carry forward as critical design thinkers, makers, and leaders. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5023 User Experience (UX) and User Interface (UI) Design",
+    "courseid": "DSGN 5023",
+    "coursedescription": "Great user experience and user interface design are essential for creating digital products that people love. In this course, we'll cover a range of topics from user research through designing visual interfaces, as well as principles of human-centered design and the design process. We'll study existing products to understand the problems they solve and the elements that make them succeed. Lectures and coursework will include practical exercises with user journeys, flowcharts, style sheets, and prototyping tools. No design experience necessary. Mutually Exclusive: DSGN 2570 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5024 Contemporary Theories of Design",
+    "courseid": "DSGN 5024",
+    "coursedescription": "This seminar explores a range of theories, concepts, and thought patterns that shape different disciplines of design. From critical science studies to object-orient ontology and speculative design, it discusses how theoretical frameworks drive innovation, critique, and user experience. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5025 Creative Research",
+    "courseid": "DSGN 5025",
+    "coursedescription": "This seminar explores what it means to do research in creative and critical practices. Students learn about different researh methods from design, engineering, humanities and sciences; utilize them for developing and evaluating their individual creative work as cultural producers. This is an interdisciplinary course that encourages students to observe, measure, analyze, test, study, experiment, diagram, prototype, speculate, generate and criticize; apply multiple modes of inquiry; be conceptual, analytical, propositional and critical at the same time to develop their work from different perspectives. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5026 Language of Design",
+    "courseid": "DSGN 5026",
+    "coursedescription": "The course will explore the changing relationship during the modern era between design (structure, model, plan of a work of art) and language (metaphor for a system of communication; speech, writing, literature). Our readings and visual presentations will focus on topics in decorative arts, painting, architecture, typography and visual communication. We will focus on primary sources in order to situate our inquiry in a larger historical context. The discussion will center on claims about the inherent meaning of form, discuss different roles for design - as an ideological statement, as an agent of social change, and as an idiosycratic expression. Topics will also include the search for a universal visual language, attempts at bridging the perceived gap between spoken and written language, and the impact of visual form on the meaning of literary texts (particularly when the author has been involved in the publication process). Students can suggest additional topics to their field of study. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5027 Design Tools and Technologies",
+    "courseid": "DSGN 5027",
+    "coursedescription": "This studio focuses on providing digital skills to conceptualize, produce and disseminate design products. Through workshops, software training sessions and labs, students will engage with different design professionals and learn state-of-the art tools used in interactive media, UI/UX, modeling and fabrication design. Students will also learn ways to work with open source software and have a chance to build their own design tools through creative programming exercises. The course does not require any technical background, but assumes basic familiarity with visual design tools (i.e., Adobe Creative Suite). 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5028 Futures for All: Reimagining social equality through art and technology",
+    "courseid": "DSGN 5028",
+    "coursedescription": "How can art become a form of activism? How does design shape social equality? This course investigates how technological media shape culture and society, and how artists and designers can actively reshape these dynamics through art and design. We will engage in the practice of \"speculative design\", and \"tactical design\" using various digital tools to envision different futures, reflecting on social, political, and ethical implications of various technologies. Exploring the relationship between digital and physical realities, students will utilize their skills in art and design while applying them to critical social discourse and activism. Students will also develop skills in active reading, critical analysis, and scholarly writing. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5029 Feminist Technoscience: Art, Technology, & Gender",
+    "courseid": "DSGN 5029",
+    "coursedescription": "How does scientific research produce and reinforce concepts of gender? How is sexism propagated through technological media? This course investigates how scientific and technological media shape culture and society, particularly through the lens of gender and sexuality. Engaging in interdisciplinary art making, students will use various technological media to reflect on the social, political, and ethical domains of technoscientific feminism. Exploring the relationship between digital and physical realities, students will engage art and design with critical social discourse and gender theory. Students will also develop skills in active reading, critical analysis, and scholarly writing. By the end of the course, students will have created a unique work of art that imagines more empowered, equitable futures. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5042 Pixel to Print",
+    "courseid": "DSGN 5042",
+    "coursedescription": "This studio course introduces students to the world of print media and circulation through techniques in Risograph (a high-speed digital printing system developed in Japan in the 1980s), xerography, and letterpress, focusing particularly on the format of posters and artists' ephemera. Beginning with the Adobe Creative Suite, students will create their own broadsides, flyers, announcement cards, and print-based installations throughout the course, exploring ways in which artists and designers make use of the printed form to disseminate information; initiate happenings; advertise events; or foment change. Students will learn about some of the most significant producers working within this realm--from Dada to punk bands in the '70s to contemporary hybrid publishing collectives--and develop skills in page layout, typography, and design; digital to analog pre-press and post-print production methods; and mechanized and hand-pulled press operations. The course includes a field trip to NYC. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5080 Care as Revolution: Socially Engaged Art and Design",
+    "courseid": "DSGN 5080",
+    "coursedescription": "In the exploitative cycles of production and consumption fueled by late stage capitalism, are there alternative ways to reimagine systems of support and mutual care? Through the lens of socially engaged art and design, students will look at a range of primary sources from artists and designers who have created participatory works that challenge traditional structures of power and integrate practices of care into their local communities. With a focus on decommodified labor and care work, students will analyze why and how certain types of labor have been devalued historically. Students will read and analyze historical and current texts related to femnist economics, art as social action, and socially engaged design. Through a scholarly lens, we will evaluate the radical nature of acts of care as a critical framework through which we can imagine more equitable futures. At the end of the semester, students will present their own unique works that contribute to this discourse. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5090 Projection as a Tool for Expression and Communication in the Public Space",
+    "courseid": "DSGN 5090",
+    "coursedescription": "The course will introduce students to projection as a tool of artistic expression and cultural communication. The purpose of the course is to prepare designers and artists for the projection-based Installations, and performances. Students' projects will take form of projections-animations of interior or exterior architectural and sculptural sites as well as inventions and presentations of wearable, portable, or mobile performative projects. The projects may require specific cultural research and a creative use of basic software, hardware, and physical modeling. Students will be encouraged to experiment with video projectors and micro-projectors in connection with available media devices, such as smart phones, speakers, monitors, sensors, or other input and output components, as well as the use of unconventional materials, and forms as projection “screens. Mutually Exclusive: DSGN 2090 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5100 Interrogative Design: Cultural Prosthetics",
+    "courseid": "DSGN 5100",
+    "coursedescription": "The course is open to students interested in pursuing artistic, design and research projects that interrogate, and proactively respond to the existential, communicative and survival needs of the estranged, marginalized and excluded persons and social groups, while addressing the unacceptability of conditions that produce such needs. In the words of art theorist Rosalyn Deutsche, the ‘utopia’ of interrogative design is ‘based on the hope that its very function will render it obsolete'. The course will consist of readings, discussions, and presentations related to the fields and methods of interrogative, critical and speculative design, 'cultural prosthetics', 'scandalizing functionalism', forensic design, monument participatory animation, and, most importantly, on the ideation, experimentation, development, and presentation of students’ original projects. After a short introductory assignment, the students -individually or in teams- will work on a selected by them project to be advanced and discussed in class during the semester, presented at the midterm and at the final review, with the response and input from guest critics. Mutually Exclusive: DSGN 3100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is open to students interested in pursuing artistic, design and research projects that interrogate, and proactively respond to the existential, communicative and survival needs of the estranged, marginalized and excluded persons and social groups, while addressing the unacceptability of conditions that produce such needs."
+      ]
+    }
+  },
+  {
+    "coursename": "DSGN 5200 Procedural Design Systems for Virtual Environments",
+    "courseid": "DSGN 5200",
+    "coursedescription": "\"Procedural Design Systems for Virtual Environments\" challenges students to reconceptualize 3D design within digital and virtual ecosystems, not just as production but as concept creation. Embracing system-based workflows, the course delves into procedural modeling, shader creation, and optimization, all set within a software-agnostic framework. Central to this studio course is the concept of assets as \"units of language\" within larger digital narratives, driven by the use of design systems to ensure these assets are contextually coherent and resource-efficient. Through hands-on workshops, discussions, and tutorials, participants will master procedural workflows, preparing them to craft assets that are both technically robust and culturally relevant. Mutually Exclusive: DSGN 1200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5220 Immersive Media Studio",
+    "courseid": "DSGN 5220",
+    "coursedescription": "This immersive media course explores the design and application of virtual, augmented, and mixed realities. It combines project-based learning with an understanding of the historical and cultural impacts of these technologies. Focused on immersive design principles and user experience, the course equips students with the necessary technical and artistic skills for creating interactive virtual environments. Through practical exercises and discussions, students will master immersive tools and techniques. The course culminates in a significant project that demonstrates students' critical perspective on immersive media and their ability to produce work with an artistic or design function relevant to their wider practice. Prerequisite: DSGN 5005 AND FNAR 5025 1 Course Unit",
+    "course-prerequsities": [
+      "DSGN 5005",
+      "FNAR 5025"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5230 Embodied Interfaces for Immersion",
+    "courseid": "DSGN 5230",
+    "coursedescription": "“Embodied Interfaces for Immersion” explores the design of Natural User Interfaces (NUIs) for Extended Realities (VR, AR, Projection Mapping) to create immersive, human-centered, and embodied experiences in physical and virtual spaces. NUIs in this context not only aim to lower cognitive load but also serve as creative tools for crafting fluid, expressive, and accessible interactions. Students will explore artistic approaches to interface design, working with a range of technologies like spatial computing, circuit bending, scripting, and fabrication, to construct human-centered, inclusive interfaces that enable meaningful, artistic experiences that deepen the connection between users and their surrounding environment. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5250 MATTERS: Connecting Arts + Design to Materials, and Materials to Labor + Land",
+    "courseid": "DSGN 5250",
+    "coursedescription": "How does matter transform into material, and back again? What hidden labor, sites, social and ecological costs and processes go into the production of a “blank” canvas and other “raw” materials? And why-- for artists, designers, architects, preservationists, creative educators, builders, and anyone working with materials-- do these realities matter? This course connects arts and design learners to considerations, sites, and cycles around production and disposal of the defining materials of their creative fields (ex. paper, wood, glass, pigment, \"the internet\"), laying groundwork for creative practice rooted in social and ecological awareness, repair and care. A hybrid research seminar, field exploration, and studio investigation, the structure of this course alternates between reading/response/research, field trips and guest visitors (including a partnership affiliation with RAIR Philly), and time for responsive “making” and material experimentation/synthesis. In this course, students will collaboratively define key terms and concerns around material sustainability, discard studies, land and labor relations vis-a-vis creative work. Students will experience local sites of material extraction, production and disposal (through approx 5 field trips taking place during class time). Students will formulate individual or group questions around a specific material, leading to a final independent project, and class exhibition. This course will engage students in forming a material ethics to guide future creative work. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DSGN 5580 Artificial Intelligence in Art: Redefining Creativity in the 21st Century",
+    "courseid": "DSGN 5580",
+    "coursedescription": "In the era of artificial intelligence, artists, designers, and creators confront a transformative shift that challenges their roles within their professional fields. With the introduction of AI visual tools like DALL·E, Midjourney, Stable Diffusion, alongside the emergence of language model-based chatbots such as ChatGPT, the creative landscape has undergone profound changes in recent years. Now, anyone can step into the role of a creator with a simple act: typing a prompt to generate visually stunning images, compose music across all genres, and write original poetry within a minute. The journey began in 2016 with AlphaGo's historic victory over the professional Go player Lee Sedol, which continued with the remarkable sale of an AI-created painting at Christie’s in 2018, and the recognition of the first AI-generated illustrative photography to win an art prize in 2022. These events sparked an ongoing debate with questions about the evolving dynamics between Machine vs. Human creativity. We find ourselves in the midst of the artificial intelligence era, a period reshaping our daily lives and challenging conventional notions of creativity and artistry. This studio class will be a combination of lectures, in-class exercises utilizing AI-generated visual and sound tools, group discussions on the societal and ethical dimensions of AI-generated content, and independent research for project creation. The goal is to explore limitless possibilities of AI tools, pushing boundaries of artistic practice, and participating in a collaborative group exhibition at the end of the course. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

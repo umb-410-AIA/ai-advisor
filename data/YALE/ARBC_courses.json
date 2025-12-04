@@ -1,0 +1,235 @@
+[
+  {
+    "coursename": "ARBC 1100a, Elementary Modern Standard Arabic I Staff",
+    "courseid": "ARBC 1100a",
+    "coursedescription": "Development of a basic knowledge of Modern Standard Arabic. Emphasis on grammatical analysis, vocabulary acquisition, and the growth of skills in speaking, listening, reading, and writing. L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARBC 1200b, Elementary Modern Standard Arabic II Staff",
+    "courseid": "ARBC 1200b",
+    "coursedescription": "Continuation of ARBC 1100 . Prerequisite: ARBC 1100 or requisite score on a placement test. L2 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "ARBC 1100",
+      "L2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ARBC 1220a, Modern Standard Arabic for Heritage Learners I Sarab Al Ani",
+    "courseid": "ARBC 1220a",
+    "coursedescription": "This course is designed for students who have been exposed to Arabic—either at home or by living in an Arabic speaking country —but who have little or no formal training in the language. The main purpose of the course is to: build on the language knowledge students bring to the classroom to improve their skills and performance in the three modes of communication (Interpersonal, Presentational, and Interpretive), to fulfill various needs. Particular attention is paid to building, controlling, and mastering language structures. Effective study strategies are used in this course to strengthen writing skills in MSA. Various assignments and tasks are designed to improve the learner's understanding of several issues related to culture in various Arabic speaking countries. Prerequisite: Students must take the placement test or with permission of the instructor. L2 MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "L2",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Students must take the placement test or with permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* ARBC 1300a, Intermediate Modern Standard Arabic I Muhammad Aziz",
+    "courseid": "ARBC 1300a",
+    "coursedescription": "Intensive review of grammar; readings from contemporary and classical Arab authors with emphasis on serial reading of unvoweled Arabic texts, prose composition, and formal conversation. Prerequisite: ARBC 120 or requisite score on a placement test. L3 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "ARBC 120",
+      "L3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ARBC 1320b, Modern Standard Arabic for Heritage Learners II Sarab Al Ani",
+    "courseid": "ARBC 1320b",
+    "coursedescription": "Continuation of ARBC 1220 , MSA for Heritage Learners I. This course is designed for students who have been exposed to Arabic—either at home or by living in an Arabic-speaking country —but who have little or no formal training in the language. The main purpose of the course is to build on the language knowledge students bring to the classroom to improve their skills and performance in the three modes of communication (Interpersonal, Presentational, and Interpretive) in MSA to fulfill various needs. Particular attention is paid to building, controlling, and mastering language structures. Effective study strategies are used in this course to strengthen writing skills. Various assignments and tasks are designed to improve the learner's understanding of several issues related to culture in various Arabic speaking countries. Prerequisite: ARBC 1220 or successful completion of placement test or instructor permission. L3 MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "ARBC 1220",
+      "L3",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: ARBC 1220 or successful completion of placement test or instructor permission."
+      ]
+    }
+  },
+  {
+    "coursename": "ARBC 1360a, Beginning Classical Arabic I Jonas Burkhard",
+    "courseid": "ARBC 1360a",
+    "coursedescription": "Introduction to classical Arabic, with emphasis on grammar to improve analytical reading skills. Readings include Qur'anic passages, literary material in both poetry and prose, biographical entries, and religious texts. Prerequisite: ARBC 1200 or permission of instructor. May be taken concurrently with ARBC 1300 or 1500 . L3 RP TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "ARBC 1200",
+      "ARBC 1300",
+      "1500",
+      "L3",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: ARBC 1200 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ARBC 1400b, Intermediate Modern Standard Arabic II Muhammad Aziz",
+    "courseid": "ARBC 1400b",
+    "coursedescription": "Continuation of ARBC 1300 . Prerequisite: ARBC 1300 or requisite score on a placement test. L4 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [
+      "ARBC 1300",
+      "L4",
+      "MTWTHF 9",
+      "25AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARBC 1460b, Beginning Classical Arabic II Staff",
+    "courseid": "ARBC 1460b",
+    "coursedescription": "Continuation of ARBC 1360 . Prerequisite: ARBC 1360 or permission of instructor. May be taken concurrently with ARBC 1400 or 1510 . L4 RP TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "ARBC 1360",
+      "ARBC 1400",
+      "1510",
+      "L4",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: ARBC 1360 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* ARBC 1500a, Advanced Modern Standard Arabic I Jonas Elbousty",
+    "courseid": "ARBC 1500a",
+    "coursedescription": "Further development of listening, writing, and speaking skills. For students who already have a substantial background in Modern Standard Arabic. Prerequisite: ARBC 1400 or requisite score on a placement test. L5 MWF 3:30pm-4:20pm",
+    "course-prerequsities": [
+      "ARBC 1400",
+      "L5",
+      "MWF 3",
+      "30PM-4"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ARBC 1510b, Advanced Modern Standard Arabic II Jonas Elbousty",
+    "courseid": "ARBC 1510b",
+    "coursedescription": "Continuation of ARBC 1500 . Prerequisite: ARBC 1500 or requisite score on a placement test. L5 MWF 2:30pm-3:20pm",
+    "course-prerequsities": [
+      "ARBC 1500",
+      "L5",
+      "MWF 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARBC 1560a, Intermediate Classical Arabic I Shawkat Toorawa",
+    "courseid": "ARBC 1560a",
+    "coursedescription": "A course on Arabic grammar and morphology that builds on the skills acquired in ARBC 1460 or 5100 , with emphasis on vocabulary, grammar, and reading skills and strategies. Readings drawn from a variety of genres, such as biography, history, hadith, and poetry. Previously ARBC 1580. Prerequisite: ARBC 1460 or 1510 . L5 , HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "ARBC 1460",
+      "1510",
+      "L5",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ARBC 1610a, Arabic Narrative Prose Muhammad Aziz",
+    "courseid": "ARBC 1610a",
+    "coursedescription": "Close reading of selected novels by Naguib Mahfouz. Attention to idiomatic expressions, structural patterns, and literary analysis. Prerequisite: ARBC 1510 or requisite score on a placement test. May be repeated for credit. L5 MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "ARBC 1510",
+      "L5",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ARBC 1650b / MMES 4465b, Arabic Seminar: Early Adab Kevin van Bladel",
+    "courseid": "ARBC 1650b",
+    "coursedescription": "Study and interpretation of classical Arabic texts for advanced students. The subtitle of this course changes depending on the materials covered. This term the course focuses on \"Early Adab.\" Prerequisite: ARBC 1460 , 1510 , or permission of instructor. May be repeated for credit. W 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "ARBC 1460",
+      "W 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This term the course focuses on \"Early Adab.\" Prerequisite: ARBC 1460 , 1510 , or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ARBC 1660b, Intermediate Classical Arabic II Kevin van Bladel",
+    "courseid": "ARBC 1660b",
+    "coursedescription": "A continuation of Intermediate Classical Arabic grammar and morphology that builds on the skills acquired in ARBC 1560 or 5110 , with emphasis on vocabulary, grammar, and reading skills and strategies. Readings drawn from a variety of genres, such as biography, history, hadith, and poetry.” Previously ARBC 1590. Prerequisite: ARBC 1560 . L5 , HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "ARBC 1560",
+      "L5",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ARBC 1730b / ARBC 5980b, Tracing the Image of the Arab \"Other\" Jonas Elbousty",
+    "courseid": "ARBC 1730b",
+    "coursedescription": "This advanced Arabic language course places the modern Arabic novel in conversation with the west in an effort to uncover both dominant narratives regarding Arab identity, as well as counter narratives that present a challenge to these dominant narratives. We study the tradition of modern Arabic literature, looking specifically to the ways in which the image of the “other” is presented in Arabic narratives as well as the ways in which the image of the Arab is constructed through the others’ literature. Readings, discussions, and written assignments will be in Arabic. Prerequisite: ARBC 1510 . L5 , HU MW 6pm-7:15pm",
+    "course-prerequsities": [
+      "ARBC 1510",
+      "L5",
+      "6PM-7"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ARBC 1910a, Egyptian Arabic Randa Muhammed",
+    "courseid": "ARBC 1910a",
+    "coursedescription": "A basic course in the Egyptian dialect of Arabic. Principles of grammar and syntax; foundations for conversation and listening comprehension. Prerequisite: ARBC 1300 or equivalent. MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "ARBC 1300",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ARBC 4500b / LING 3270b / NELC 4530b, History of the Arabic Language Kevin van Bladel",
+    "courseid": "ARBC 4500b",
+    "coursedescription": "This course covers the development of the Arabic language from the earliest epigraphic evidence through the formation of the Classical 'Arabiyya and further, to Middle Arabic and Neo-Arabic. Readings of textual specimens and survey of secondary literature. Prerequisite: ARBC 1400 and permission of instructor. MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "ARBC 1400",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: ARBC 1400 and permission of instructor."
+      ]
+    }
+  }
+]

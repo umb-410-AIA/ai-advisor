@@ -1,0 +1,52 @@
+[
+  {
+    "coursename": "NETS 1120 Networked Life",
+    "courseid": "NETS 1120",
+    "coursedescription": "How do infectious diseases spread? Why do some memes spread virally while others do not? Why do some teams or organizations perform better than others? Are we all really connected by six degrees of separation and, if so, how is that are our neighborhoods, workplaces, and social circles are so segregated? The answers to these questions and many more are all part of Network Science, a fascinating subject at the intersection of many disciplines, including computer science, communications, psychology, sociology, mathematics, and economics. This course will provide an introduction to the technical language of network science as well as to a collection of applications such as mathematical epidemiology, social contagion, games of cooperation and coordination, and collective problem solving. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NETS 1500 Market and Social Systems on the Internet",
+    "courseid": "NETS 1500",
+    "coursedescription": "Want to understand the sociological and algorithmic aspects of friend recommendation? Want to know how Google decides what 10 answers to return, out of the 10 million matching results? Want to understand how search engines have revolutionized advertising? Then this is the course for you! NETS 150 provides an overview of the issues, theoretical foundations, and existing techniques in networks (social, information, communication) and markets on the Internet. Subsequent NETS courses are available for students wishing to explore any of these topics in greater detail. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NETS 2120 Scalable and Cloud Computing",
+    "courseid": "NETS 2120",
+    "coursedescription": "What is the \"cloud\"? How do we build software systems and components that scale to millions of users and petabytes of data, and are \"always available\"? In the modern Internet, virtually all large Web services run atop multiple geographically distributed data centers: Google, Yahoo, Facebook, iTunes, Amazon, EBAY, Bing, etc. Services must scale across thousands of machines, tolerate failures, and support thousands of concurrent requests. Increasingly, the major providers (including Amazon, Google, Microsoft, HP, and IBM) are looking at \"hosting\" third-party applications in their data centers - forming so-called \"cloud computing\" services. This course, aimed at a sophomore with exposure to basic programming within the context of a single machine, focuses on the issues and programming models related to such cloud and distributed data processing technologies: how to think about dividing both data and work across large clusters of machines, both within and across data centers, how to design algorithms that do this parallel computation, and how to implement the algorithms in new frameworks such as MapReduce. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NETS 2130 Crowdsourcing and Human Computation",
+    "courseid": "NETS 2130",
+    "coursedescription": "Crowdsourcing and human computation are emerging fields that sit squarely at the intersection of economics and computer science. They examine how people can be used to solve complex tasks that are currently beyond the capabilities of artificial intelligence algorithms. Online marketplaces like Mechanical Turk and CrowdFlower provide an infrastructure that allows micropayments to be given to people in return for completing human intelligence tasks. This opens up previously unthinkable possibilities like people being used as function calls in software We will investigate how crowdsourcing can be used for computer science applications like machine learning, next-generation interfaces, and data mining. Beyond these computer science aspects, we will also delve into topics like prediction markets, how businesses can capitalize on collective intelligence, and the fundamental principles that underlie democracy and other group decision-making processes. Fall or Spring Prerequisite: CIS 1200 1 Course Unit",
+    "course-prerequsities": [
+      "CIS 1200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NETS 3120 Theory of Networks",
+    "courseid": "NETS 3120",
+    "coursedescription": "Want to understand how memes spread across the Internet? How organisms exhibit flocking behavior? How the structure of a network can help predict behavior among the nodes? This course is a rigorous study of the structure and function of complex networks. From World Wide Web to networks of banks and lenders that form the financial sector, to friendship networks that influence our opinion and everyday decision-making, networks have become an integral part of our daily lives. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NETS 4120 Algorithmic Game Theory",
+    "courseid": "NETS 4120",
+    "coursedescription": "How should an auction for scarce goods be structured if the sellers wish to maximize their revenue? How badly will traffic be snarled if drivers each selfishly try to minimize their commute time, compared to if a benevolent dictator directed traffic? How can couples be paired so that no two couples wish to swap partners in hindsight? How can you be as successful as the best horse-racing expert at betting on horse races, without knowing anything about horse racing? In this course, we will take an algorithmic perspective on problems in game theory, to solve problems such as the ones listed above. Game theory has applications in a wide variety of settings in which multiple participants with different incentives are placed in the same environment, must interact, and each \"player\"'s actions affect the others. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "coursename": "* DUTC 1300a, Intermediate Dutch I Staff",
+    "courseid": "DUTC 1300a",
+    "coursedescription": "Continued development of reading, writing, and speaking proficiency in Dutch. Students review and improve grammar skills, expand their vocabulary, read newspaper articles, and watch and listen to Dutch newscasts. Prerequisite: DUTC 120 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L3 RP 1½ Course cr MW 6pm-8pm",
+    "course-prerequsities": [
+      "DUTC 120",
+      "L3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "DUTC 1400b, Intermediate Dutch II Staff",
+    "courseid": "DUTC 1400b",
+    "coursedescription": "Use of authentic Dutch texts to expand proficiency in the language and familiarity with the culture. Focus on Dutch cultural themes that reflect students' interests and fields of study. Readings include a novel and news articles on current events. Prerequisite: DUTC 130. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L4 RP 1½ Course cr MW 6:10pm-8pm",
+    "course-prerequsities": [
+      "DUTC 130",
+      "L4",
+      "MW 6"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Focus on Dutch cultural themes that reflect students' interests and fields of study.",
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* DUTC 1500a, Advanced Dutch Staff",
+    "courseid": "DUTC 1500a",
+    "coursedescription": "Continuation of DUTC 140. Focus on improvement of grammatical knowledge; proficiency in reading, writing, and speaking Dutch; and cultural insight and knowledge of Amsterdam and the Netherlands. Prerequisite: DUTC 140 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L5 RP TTh 6pm-7:15pm",
+    "course-prerequsities": [
+      "DUTC 140",
+      "L5",
+      "6PM-7"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  }
+]

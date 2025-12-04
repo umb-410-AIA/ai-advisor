@@ -1,0 +1,97 @@
+[
+  {
+    "coursename": "MALG 0100 Elementary Malagasy",
+    "courseid": "MALG 0100",
+    "coursedescription": "The main objective of this course is to allow students to study an African language of their choice, depending on the availability of the instructor. The course will provide students with linquistics tools which will facilitate their research work in the target country. Cultural aspects of the speakers of the language will be introduced and reinforced. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MALG 0200 Elementary Malagasy II",
+    "courseid": "MALG 0200",
+    "coursedescription": "Continuation of AFST 490. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MALG 0201 Malagasy (Elementary II) Language in a Cultural Context",
+    "courseid": "MALG 0201",
+    "coursedescription": "This class will create a communicative language environment where students will explore the language and culture of Madagascar. The course offers a unique opportunity for students to deepen their understanding of an island that has remained largely isolated from the rest of the world while fulfilling a language requirement. Emphasis will be placed on exposing students to Malagasy culture through speaking, reading, writing and listening, and students will be expected to use the target language in class as much as possible. At the end of the semester, students will travel to become fully immersed in the Malagasy language and to deepen their understanding of the history, environment, and unique culture of Madagascar. Students who are interested in taking this seminar must complete Malagasy Elementary I or Malagasy Intermediate I in the preceding fall. Malagasy Elementary I is available to all students. Not Offered Every Year Prerequisite: MALG 0100 1 Course Unit",
+    "course-prerequsities": [
+      "MALG 0100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course offers a unique opportunity for students to deepen their understanding of an island that has remained largely isolated from the rest of the world while fulfilling a language requirement.",
+        "Students who are interested in taking this seminar must complete Malagasy Elementary I or Malagasy Intermediate I in the preceding fall."
+      ]
+    }
+  },
+  {
+    "coursename": "MALG 0300 Intermediate Malagasy I",
+    "courseid": "MALG 0300",
+    "coursedescription": "Intermediate level courses in a variety of African languages: Igbo, Shona, Wolof, Malagasy, Chichewa, Setswana, Manding, Afrikaans, Setswana. Focus on oral proficiency and productive language skills. All course are langauge specfic and follow ACTFL proficiency guidelines. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MALG 0400 Intermediate Malagasy II",
+    "courseid": "MALG 0400",
+    "coursedescription": "Continuation of AFST 492. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MALG 0401 Intermediate Malagasy II: Language in a Cultural Context",
+    "courseid": "MALG 0401",
+    "coursedescription": "As part of this Intermediate II levels of Malagasy, the content will create a communicative language environment where students will explore the language and culture of Madagascar. The course offers a unique opportunity for students to deepen their understanding of an island that has remained largely isolated from the rest of the world while fulfilling a language requirement. Emphasis will be placed on exposing students to Malagasy culture through speaking, reading, writing and listening, and students will be expected to use the target language in class as much as possible. At the end of the semester, students will travel to become fully immersed in the Malagasy language and to deepen their understanding of the history, environment, and unique culture of Madagascar. Students who are interested in taking this seminar must complete Malagasy Intermediate I in the preceding fall. . Not Offered Every Year Prerequisite: MALG 0300 1 Course Unit",
+    "course-prerequsities": [
+      "MALG 0300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course offers a unique opportunity for students to deepen their understanding of an island that has remained largely isolated from the rest of the world while fulfilling a language requirement.",
+        "Students who are interested in taking this seminar must complete Malagasy Intermediate I in the preceding fall."
+      ]
+    }
+  },
+  {
+    "coursename": "MALG 0496 Malagasy (Elementary II/Intermediate II): Language in a Cultural Context",
+    "courseid": "MALG 0496",
+    "coursedescription": "Combining the Elementary II and Intermediate II levels of Malagasy, this class will create a communicative language environment where students will explore the language and culture of Madagascar. The course offers a unique opportunity for students to deepen their understanding of an island that has remained largely isolated from the rest of the world while fulfilling a language requirement. Emphasis will be placed on exposing students to Malagasy culture through speaking, reading, writing and listening, and students will be expected to use the target language in class as much as possible. At the end of the semester, students will travel to become fully immersed in the Malagasy language and to deepen their understanding of the history, environment, and unique culture of Madagascar. Students who are interested in taking this seminar must complete Malagasy Elementary I or Malagasy Intermediate I in the preceding fall. Malagasy Elementary I is available to all students. Not Offered Every Year Also Offered As: AFRC 0496 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course offers a unique opportunity for students to deepen their understanding of an island that has remained largely isolated from the rest of the world while fulfilling a language requirement.",
+        "Students who are interested in taking this seminar must complete Malagasy Elementary I or Malagasy Intermediate I in the preceding fall."
+      ]
+    }
+  },
+  {
+    "coursename": "MALG 1100 Advanced Malagasy I",
+    "courseid": "MALG 1100",
+    "coursedescription": "Language specific sections for students interested in doing country-specific research in a target language. Courses cover project-based skills for AFST research. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Language specific sections for students interested in doing country-specific research in a target language."
+      ]
+    }
+  },
+  {
+    "coursename": "MALG 1200 Advanced Malagasy II",
+    "courseid": "MALG 1200",
+    "coursedescription": "Continuation of AFST 494. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

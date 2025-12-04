@@ -1,0 +1,46 @@
+[
+  {
+    "coursename": "* HLTH 0810a or b, Current Issues in Medicine and Public Health Robert Bazell",
+    "courseid": "HLTH 0810a",
+    "coursedescription": "Analysis of issues in public health and medicine that get extensive media attention and provoke policy debates. The Covid-19 pandemic has revealed severe challenges in the communication between science and health experts and the public. Thus, a prime focus is a survey of epidemiology and related topics such as vaccination attitudes. The class covers other topics including (but not limited to) the value of cancer screening, genetic testing, the U.S. role in global health, physician assisted suicide and the cost of health care. Students learn to understand the scientific literature and critique its coverage in popular media–as well as producing science and medical journalism themselves. Enrollment limited to first-year students. Prerequisite: AP Biology or equivalent. SC HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The class covers other topics including (but not limited to) the value of cancer screening, genetic testing, the U.S.",
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "HLTH 2300b / GLBL 1223b, Global Health: Challenges and Responses Laura Bothwell",
+    "courseid": "HLTH 2300b",
+    "coursedescription": "This class is a foundational course in global health. It examines the social, economic, political, and intellectual trends and transformations that have led to contemporary global health problems and introduces students to systemic responses and central approaches in global health. Course topics are thematically driven according to a focus on the roots of global health challenges and the primary social structures that global societies have erected to understand and manage illness and health, with examples ranging from neglected tropical diseases to systems of global health ethics. Particular attention is given to the health of the poor, equity and inequality, and comparative analysis of global health across regions and cultures. SO 0 Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* HLTH 3270a, Critical Thinking in Global Health Practice Kristina Talbert-Slagle",
+    "courseid": "HLTH 3270a",
+    "coursedescription": "The practice of global health involves thousands of people and millions of dollars around the world. But what, exactly, is global health practice? Who is doing it? How is it done? Where? And why? In this course, we examine and critique the who, what, when, where, why, and how of global health practice. Course content interweaves broadly-focused theory, examination, and critique of global health practice with specific examples and first-person accounts from the lived experiences of the professor and her longtime collaborators in Liberia. The learning experiences provided by this course lies not only in discussion of the assigned materials, but also in self-examination throughout the semester as we collectively reflect on both the course content and our own reactions to it. Students enrolling in this course must commit to engage thoroughly in the material and in the critical thinking and discussion that are necessary for their learning, and they should be willing to challenge the professor and each other constructively as part of the “critical thinking” component of the course. (We work together to make a safe and comfortable space for this.) Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* HLTH 4900a, Global Health Research Colloquium Staff",
+    "courseid": "HLTH 4900a",
+    "coursedescription": "This course is designed for Global Health Scholars in their senior year as they synthesize their academic studies and practical experiences during their time in the Global Health Studies MAP. In this weekly seminar, Global Health Scholars analyze central challenges in global health and discuss methodological approaches that have responded to these pressing global health concerns. In addition to close reading and discussion, students present on a topic of their choosing and contribute to shaping the agenda for innovative methods in global health research and policy. Prerequisite: HLTH 230 or permission of the instructor. This is a required course for Global Health Scholars and enrollment is limited to Global Health Scholars. RP HTBA",
+    "course-prerequsities": [
+      "HLTH 230"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: HLTH 230 or permission of the instructor.",
+        "This is a required course for Global Health Scholars and enrollment is limited to Global Health Scholars."
+      ]
+    }
+  }
+]

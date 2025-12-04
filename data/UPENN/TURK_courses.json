@@ -1,0 +1,220 @@
+[
+  {
+    "coursename": "TURK 0100 Elementary Turkish I",
+    "courseid": "TURK 0100",
+    "coursedescription": "This is a course for beginners who have no previous knowledge of Turkish. Using a communicative approach, Elementary Turkish introduces basic vocabulary and grammar rules and focuses on building language competencies in listening, reading, speaking and writing. By the end of the course, students will be able to participate in simple conversations, to know daily expressions, and will understand simple dialogues in day-to-day context and will be able to count and tell time. Will be able to speak about events that happened in the past and express plans for the future. Students will also develop writing strategies that will allow them to write simple letters and fill in commonly-used forms. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 0150 Introduction to the Languages of Central Asia",
+    "courseid": "TURK 0150",
+    "coursedescription": "This is a survey course that introduces students to the main languages spoken in Central Asia. Various Turkic languages would be introduced in this course: Kazakh, Uzbek, Kyrgyz or Azeri. Students will be able to start their introduction to the languages that support the study of Centra Asian region. The language study will facilitate student research in topics like politics, history, and cultural events. This course aims at generating interest in the languages and studies of Central Asia spanning different periods of its history, with main focus is on the linguistic forms and the cultural activities. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course aims at generating interest in the languages and studies of Central Asia spanning different periods of its history, with main focus is on the linguistic forms and the cultural activities."
+      ]
+    }
+  },
+  {
+    "coursename": "TURK 0200 Elementary Turkish II",
+    "courseid": "TURK 0200",
+    "coursedescription": "This course is a continuation of Elementary Turkish I and is designed to strengthen and extend students' listening, speaking, reading and writing competence and to deepen an understanding of Turkish people in Turkey. By the end of this course, students will be able to handle a variety of day to day needs in Turkish-speaking settings and engage in simple conversations. Students can expect to be able to order food and drinks, purchase things, and to be able to be familiar with current social topics. Students will be able to talk about all tenses, present, future, past, past continuous, make comparisons, describe people and things in detail, make travel plans, make reservations in hotels and holiday resorts, write complaint letters. By the end of the course, students will be able to talk about their studies and their plans for the future. Also, students will develop reading strategies that should allow them to understand the general meaning of articles, and short literary texts. Students will learn practical life in Turkey and will explore Turkish culture on the internet. Spring Prerequisite: TURK 0100 1 Course Unit",
+    "course-prerequsities": [
+      "TURK 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 0250 Elementary Uzbek II",
+    "courseid": "TURK 0250",
+    "coursedescription": "Continuation of Elementary Uzbek I. Designed to cover beginning college levels of language instruction, Uzbek: An Elementary Textbook provides learners and instructors with a wide selection of materials and task-oriented activities to facilitate the development of language learning. It offers a thematically organized and integrative approach to the Uzbek language and its culture, including a functional approach to grammar, an emphasis on integrated skills development, and the use of authentic materials such as videos filmed in various regions of Uzbekistan.Uzbek: An Elementary Textbook contains one CD-ROM that includes authentic audio and video materials to accompany the text and integrated, interactive exercises and games, all in Flash format and all of which are keyed to the textbook. It includes a supplementary Cyrillic reader, an extensive glossary, and four-color illustrations and photographs throughout. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 0300 Intermediate Turkish I",
+    "courseid": "TURK 0300",
+    "coursedescription": "A continuation of elementary Turkish, with emphasis on grammar and reading. This course is for students who have previous knowledge of Turkish or students who have completed Elementary Turkish I and II. This course is designed to improve students' writing and speaking competence, to increase vocabulary, to deepen grammar usage and to help develop effective reading and listening strategies in Turkish. Students' Turkish language proficiency and cultural awareness and knowledge will increase by exposing to autentic materials and coursework. and in order give them cultural knowledge, students are exposed to authentic materials. Fall Prerequisite: TURK 0200 1 Course Unit",
+    "course-prerequsities": [
+      "TURK 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 0400 Intermediate Turkish II",
+    "courseid": "TURK 0400",
+    "coursedescription": "Expands students writing and speaking competence in Turkish, increases vocabulary, and helps students' practice effective reading and listening strategies. Our In-class discussions are based on role-plays and weekly readings and news reports from TV and newspapers. We create Discussion wil take place in this course and let them and students will communicate through, threaded discussions, chat rooms and skype. The review of grammar will not be the primary focus of the course. Students' will, expand and deepen their knowledge of grammar will be extended through specific grammar exercises. They Students will have the opportunity to practice and read about the cultural and historical issues and get prepared for an advanced level Turkish. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 1000 Advanced Modern Turkish I",
+    "courseid": "TURK 1000",
+    "coursedescription": "The study of modern Turkish at the advanced level; emphasis on grammar and reading, focusing on Business Turkish. Interviews with professionals from different business groups will take place, such as, education, medicine, business law and political science. The study of modern Turkish at the advanced level; emphasis onconversational fluency and on increased ability reading and comprehending texts, including newspaper prose and Turkish cultural materials. grammar and reading, focusing on Business Turkish. Interviews with professionals from different business groups will take place, such as, education, medicine, business law and political science. Fall Prerequisite: TURK 0400 1 Course Unit",
+    "course-prerequsities": [
+      "TURK 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 4000 Advanced Spoken Turkish and Cinema I",
+    "courseid": "TURK 4000",
+    "coursedescription": "In this course, we will look at differing degrees of interaction between literature and the films it inspires. Discussions of each novel will be followed by screening the related film, allowing us to explore themes such as the different forms of banditry (old school vs. organized), honor killings, the use of books in films, the problems of artistic representation. This course will give students the opportunity to improve significantly written and spoken discourse strategies and raise language competence to an academic register. Students work across Turkish Language, literary genres and media as they interpret and analyze cultural, political and historical moments in Turkish movies. Students will attempt to understand how political shifts over the past 20 years have impacted the current situation and cultural conception, religious and cultural norms and traditions. Contemporary Turkish authors' books will be analyzed and discussed in this course. We'll have sessions in Penn Museum related to exhibitions from Turkey and the region. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 4100 Advanced Spoken Turkish and Cinema II",
+    "courseid": "TURK 4100",
+    "coursedescription": "This course offers students the opportunity to improve significantly written and spoken discourse strategies and raise language competence in advance level. Students work across media and movies as they interprit and analyze cultural, political and historical moments in Turkish movies. Special attention will be given to the development of an academic discourse style during in-class discussions, threaded discussions and, written compositions. Interviews and discussions will take place in this courset. There will bein class movie screenings and course concludes with an in-class presentation of the collaborative creative project and the final Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 4200 Advanced Turkish Culture & Media I",
+    "courseid": "TURK 4200",
+    "coursedescription": "This course is for students who are from all different levels of Turkish knowledge. They are expected to write and talk about Turkish movies, culture, politics according to their own level and pace. They will talk to Turkish visitors and interview them. Turkish movies will be the part of the course and once a month, students will watch a Turkish movie and analyze it. Discussions will take place and students will write essays about the movie. This course is designed with a technology-rich, project based approach. The materials will go beyond instruction in grammar and vocabulary to support the acquisition of socio-cultural pragmatics, and intercultural learning. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 4300 Advanced Turkish Culture & Media II",
+    "courseid": "TURK 4300",
+    "coursedescription": "Similar to Advanced Turkish Culture & Media I, in this course students also will have exposure to social Turkish clubs and to establish their own. They will arrange their Turkish tea parties and learn about Turkish cuisine. Expose Turkish daily news and media will be discussed in class. Students will have chance to interview interview Turkish businessman, writer, journalists in class and/or skype or zoom people in Turkish. Team spirit or ethics with those of the United States. Students will present and prepare a drama. Mainly students will create and decide their activities and discussions. and the instructor will just monitor them most of time. They will continue watching Turkish movies and expose to Turkish culture through these films. After each movie discussions and essay writings will be expected. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 4500 Ottoman Turkish I",
+    "courseid": "TURK 4500",
+    "coursedescription": "This course is an introduction to Ottoman Turkish with basic characteristics. Ottoman Turkish through readings in printed selections will be exercised with different techniques. Students will learn Persian and Arabic effects on Ottoman Turkish. They will be able to read simple texts at the end of this course. General information on Ottoman Turkish will be given to students during this course. Not Offered Every Year Mutually Exclusive: TURK 6700 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 4600 Advanced Readings Ottoman Texts",
+    "courseid": "TURK 4600",
+    "coursedescription": "Students will build on the skills learned in Ottoman Turkish by studying selections in the original language. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 5100 Elementary Turkish I",
+    "courseid": "TURK 5100",
+    "coursedescription": "This is a course for graduate students who have no previous knowledge of Turkish. Using a communicative approach, Elementary Turkish introduces basic vocabulary and grammar rules and focuses on building language competencies in listening, reading, speaking and writing. By the end of the course, students will be able to participate in simple conversations, to know daily expressions, and will understand simple dialogues in day-to-day context and will be able to count and tell time. Will be able to speak about events that happened in the past and express plans for the future. Students will also develop writing strategies that will allow them to write simple letters and fill in commonly-used forms. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 5200 Elementary Turkish II",
+    "courseid": "TURK 5200",
+    "coursedescription": "This course is a continuation of Elementary Turkish I and is designed to strengthen and extend students' listening, speaking, reading and writing competence and to deepen an understanding of Turkish people in Turkey. By the end of this course, students will be able to handle a variety of day to day needs in Turkish-speaking settings and engage in simple conversations. Students can expect to be able to order food and drinks, purchase things, and to be able to be familiar with current social topics. Students will be able to talk about all tenses, present, future, past, past continuous, make comparisons, describe people and things in detail, make travel plans, make reservations in hotels and holiday resorts, write complaint letters. By the end of the course, students will be able to talk about their studies and their plans for the future. Also, students will develop reading strategies that should allow them to understand the general meaning of articles, and short literary texts. Students will learn practical life in Turkey and will explore Turkish culture on the internet. Graduate students will have additional assignments. Spring Prerequisite: TURK 5100 1 Course Unit",
+    "course-prerequsities": [
+      "TURK 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 5300 Intermediate Turkish I",
+    "courseid": "TURK 5300",
+    "coursedescription": "A continuation of elementary Turkish, with emphasis on grammar and reading. This course is for students who have previous knowledge of Turkish or students who have completed Elementary Turkish I and II. This course is designed to improve students' writing and speaking competence, to increase vocabulary, to deepen grammar usage and to help develop effective reading and listening strategies in Turkish. Students' Turkish language proficiency and cultural awareness and knowledge will increase by exposing to autentic materials and coursework. and in order give them cultural knowledge, students are exposed to authentic materials. Fall Prerequisite: TURK 5200 1 Course Unit",
+    "course-prerequsities": [
+      "TURK 5200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 5400 Intermediate Turkish II",
+    "courseid": "TURK 5400",
+    "coursedescription": "Expands students writing and speaking competence in Turkish, increases vocabulary, and helps students' practice effective reading and listening strategies. Our In-class discussions are based on role-plays and weekly readings and news reports from TV and newspapers. We create Discussion wil take place in this course and let them and students will communicate through, threaded discussions, chat rooms and skype. The review of grammar will not be the primary focus of the course. Students' will, expand and deepen their knowledge of grammar will be extended through specific grammar exercises. They Students will have the opportunity to practice and read about the cultural and historical issues and get prepared for an advanced level Turkish. Spring Prerequisite: TURK 5300 1 Course Unit",
+    "course-prerequsities": [
+      "TURK 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 5600 Advanced Spoken Turkish and Cinema I",
+    "courseid": "TURK 5600",
+    "coursedescription": "In this course, we will look at differing degrees of interaction between literature and the films it inspires. Discussions of each novel will be followed by screening the related film, allowing us to explore themes such as the different forms of banditry (old school vs. organized), honor killings, the use of books in films, the problems of artistic representation. This course will give students the opportunity to improve significantly written and spoken discourse strategies and raise language competence to an academic register. Students work across Turkish Language, literary genres and media as they interpret and analyze cultural, political and historical moments in Turkish movies. Students will attempt to understand how political shifts over the past 20 years have impacted the current situation and cultural conception, religious and cultural norms and traditions. Contemporary Turkish authors' books will be analyzed and discussed in this course. We'll have sessions in Penn Museum related to exhibitions from Turkey and the region. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 5800 Advanced Turkish Culture & Media I",
+    "courseid": "TURK 5800",
+    "coursedescription": "This course is for students who are from all different levels of Turkish knowledge. They are expected to write and talk about Turkish movies, culture, politics according to their own level and pace. They will talk to Turkish visitors and interview them. Turkish movies will be the part of the course and once a month, students will watch a Turkish movie and analyze it. Discussions will take place and students will write essays about the movie. This course is designed with a technology-rich, project based approach. The materials will go beyond instruction in grammar and vocabulary to support the acquisition of socio-cultural pragmatics, and intercultural learning. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 5900 Advanced Turkish Culture & Media II",
+    "courseid": "TURK 5900",
+    "coursedescription": "Similar to Advanced Turkish Culture & Media I, in this course students also will have exposure to social Turkish clubs and to establish their own. They will arrange their Turkish tea parties and learn about Turkish cuisine. Expose Turkish daily news and media will be discussed in class. Students will have chance to interview interview Turkish businessman, writer, journalists in class and/or skype or zoom people in Turkish. Team spirit or ethics with those of the United States. Students will present and prepare a drama. Mainly students will create and decide their activities and discussions. and the instructor will just monitor them most of time. They will continue watching Turkish movies and expose to Turkish culture through these films. After each movie discussions and essay writings will be expected. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 6200 Advanced Modern Turkish I",
+    "courseid": "TURK 6200",
+    "coursedescription": "The study of modern Turkish at the advanced level; emphasis on grammar and reading, focusing on business Turkish. Interviews with professionals from different business groups will take place, such as, education, medicine, business, law, and political science. This Graduate students will have additional assignments. Fall Prerequisite: TURK 0400 1 Course Unit",
+    "course-prerequsities": [
+      "TURK 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 6500 Elementary Uzbek I",
+    "courseid": "TURK 6500",
+    "coursedescription": "Designed to cover beginning college levels of language instruction, Uzbek: An Elementary Textbook provides learners and instructors with a wide selection of materials and task-oriented activities to facilitate the development of language learning. It offers a thematically organized and integrative approach to the Uzbek language and its culture, including a functional approach to grammar, an emphasis on integrated skills development, and the use of authentic materials such as videos filmed in various regions of Uzbekistan.Uzbek: An Elementary Textbook contains one CD-ROM that includes authentic audio and video materials to accompany the text and integrated, interactive exercises and games, all in Flash format and all of which are keyed to the textbook. It includes a supplementary Cyrillic reader, an extensive glossary, and four-color illustrations and photographs throughout. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 6550 Elementary Uzbek II",
+    "courseid": "TURK 6550",
+    "coursedescription": "A continuation of Elementary Uzbek I, it is designed to cover beginning college levels of language instruction, Uzbek: An Elementary Textbook provides learners and instructors with a wide selection of materials and task-oriented activities to facilitate the development of language learning. It offers a thematically organized and integrative approach to the Uzbek language and its culture, including a functional approach to grammar, an emphasis on integrated skills development, and the use of authentic materials such as videos filmed in various regions of Uzbekistan.Uzbek: An Elementary Textbook contains one CD-ROM that includes authentic audio and video materials to accompany the text and integrated, interactive exercises and games, all in Flash format and all of which are keyed to the textbook. It includes a supplementary Cyrillic reader, an extensive glossary, and four-color illustrations and photographs throughout. Graduate students may have additional assignments. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 6600 Advanced Readings Ottoman Texts",
+    "courseid": "TURK 6600",
+    "coursedescription": "Students will build on the skills learned in Ottoman Turkish by studying selections in the original language. Graduate students may have additional assignments. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TURK 6700 Ottoman Turkish I",
+    "courseid": "TURK 6700",
+    "coursedescription": "This course is an introduction to Ottoman Turkish with basic characteristics. Ottoman Turkish through readings in printed selections will be exercised with different techniques. Students will learn Persian and Arabic effects on Ottoman Turkish. They will be able to read simple texts at the end of this course. General information on Ottoman Turkish will be given to students during this course. Not Offered Every Year Mutually Exclusive: TURK 4500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

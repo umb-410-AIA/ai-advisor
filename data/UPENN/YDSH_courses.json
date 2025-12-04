@@ -1,0 +1,134 @@
+[
+  {
+    "coursename": "YDSH 0100 Beginning Yiddish I",
+    "courseid": "YDSH 0100",
+    "coursedescription": "The goal of this course is to help beginning students develop skills in Yiddish conversation, reading and writing. Yiddish is the medium of a millennium of Jewish life. We will frequently have reason to refer to the history and culture of Ashkenazie Jewry in studying the language. Fall Also Offered As: JWST 0160 Mutually Exclusive: SWED 5010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 0200 Beginning Yiddish II",
+    "courseid": "YDSH 0200",
+    "coursedescription": "In this course, you can continue to develop basic reading, writing and speaking skills. Discover treasures of Yiddish culture: songs, literature, folklore, and films. Spring Also Offered As: JWST 0260 Prerequisite: YDSH 0100 1 Course Unit",
+    "course-prerequsities": [
+      "YDSH 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 0300 Intermediate Yiddish I",
+    "courseid": "YDSH 0300",
+    "coursedescription": "The course will continue the first year's survey of Yiddish grammar with an additional emphasis on reading Yiddish texts. The course will also develop conversational skills in Yiddish. Not Offered Every Year Also Offered As: JWST 0360 Mutually Exclusive: YDSH 5030 Prerequisite: YDSH 0200 1 Course Unit",
+    "course-prerequsities": [
+      "YDSH 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 0400 Intermediate Yiddish II",
+    "courseid": "YDSH 0400",
+    "coursedescription": "Continuation of YDSH 0300 . Emphasis on reading texts and conversation. Not Offered Every Year Also Offered As: JWST 0460 Mutually Exclusive: YDSH 5040 Prerequisite: YDSH 0300 1 Course Unit",
+    "course-prerequsities": [
+      "YDSH 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 0550 Readings in Modern Yiddish Literature",
+    "courseid": "YDSH 0550",
+    "coursedescription": "This course will survey modern Yiddish literature through readings of Yiddish prose and poetry from the end of the 19th century through the late 20th century. The class will be conducted in both Yiddish and English. Reading knowledge of Yiddish is required, although some texts will be available in English translation. Authors include I.L. Peretz, Isaac Bashevis Singer, Moyshe-Leyb Halpern, and Kadya Molodowsky. Not Offered Every Year Also Offered As: JWST 0550 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 1111 Yiddish Literature and Culture",
+    "courseid": "YDSH 1111",
+    "coursedescription": "This course introduces a variety of themes and genres in Yiddish literature and culture, depending on the instructor and programmatic needs. The focus of the course may include Yiddish literature and culture in America; Yiddish literature and culture in Eastern Europe; Yiddish modernism; Art and music in the Yiddish context; Yiddish theater; Yiddish journalism; Yiddish film. Readings will be in English translation, while primary sources in Yiddish will be available, as well. Classes and coursework will be in English. There will be an optional graduate component to this course. Also Offered As: COML 1111 , GRMN 1111 , JWST 1111 Mutually Exclusive: YDSH 5111 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 1340 In Babel: Translation and Narration in the Jewish World",
+    "courseid": "YDSH 1340",
+    "coursedescription": "“Modern Jewish culture speaks with many voices,” wrote the poet, translator, and scholar Benjamin Harshav. In this course, we will echo these voices by exploring how Jewish life was shaped by cross-cultural contact and exchange with non-Jews and other Jewish communities, by studying literary manifestations of multilingualism, translation, adaptation, and circulation of texts and ideas. With a wide variety of texts - fiction, poetry, historiography, and literary criticism - from different languages and cultural contexts, this course will address several fundamental questions about, on the one hand, the ways Jews translated texts for Jewish readers, and, on the other, how Jewish experiences and traditions were translated for broader audiences. In a broader sense, we will consider what is at stake in translating Jewishness and how cultural and linguistic borders are crossed and discussed in different historical contexts. Course assessment is comprised of two short response papers to key concepts and a literary text (with the option for a creative format), and a final paper that can be either research-based or a translation and a translator’s introduction. All materials will be available in English but students are encouraged to read materials in their original languages if they are fluent. Not Offered Every Year Also Offered As: COML 1340 , GRMN 1340 , JWST 1340 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 4999 Independent Study",
+    "courseid": "YDSH 4999",
+    "coursedescription": "Independent Study Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 5010 Beginning Yiddish I",
+    "courseid": "YDSH 5010",
+    "coursedescription": "The goal of this course is to help beginning students develop skills in Yiddish conversation, reading and writing. Yiddish is the medium of a millennium of Jewish life. We will frequently have reason to refer to the history and culture of Ashkenazie Jewry in studying the language. Fall Mutually Exclusive: YDSH 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 5020 Beginning Yiddish II",
+    "courseid": "YDSH 5020",
+    "coursedescription": "In this course, you can continue to develop basic reading, writing and speaking skills. Discover treasures of Yiddish culture: songs, literature, folklore, and films. Spring Mutually Exclusive: YDSH 0200 Prerequisite: YDSH 5010 1 Course Unit",
+    "course-prerequsities": [
+      "YDSH 5010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 5030 Intermediate Yiddish I",
+    "courseid": "YDSH 5030",
+    "coursedescription": "The course will continue the first year's survey of Yiddish grammar with an additional emphasis on reading Yiddish texts. The course will also develop conversational skills in Yiddish. Not Offered Every Year Mutually Exclusive: YDSH 0300 Prerequisite: YDSH 5020 1 Course Unit",
+    "course-prerequsities": [
+      "YDSH 5020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 5040 Intermediate Yiddish II",
+    "courseid": "YDSH 5040",
+    "coursedescription": "Continuation of YDSH 0300 . Emphasis on reading texts and conversation. Not Offered Every Year Mutually Exclusive: YDSH 0400 Prerequisite: YDSH 5030 1 Course Unit",
+    "course-prerequsities": [
+      "YDSH 5030"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 5080 Readings in Modern Yiddish Literature",
+    "courseid": "YDSH 5080",
+    "coursedescription": "This course will survey modern Yiddish literature through readings of Yiddish prose and poetry from the end of the 19th century through the late 20th century. The class will be conducted in both Yiddish and English. Reading knowledge of Yiddish is required, although some texts will be available in English translation. Authors include I.L. Peretz, Isaac Bashevis Singer, Moyshe-Leyb Halpern, and Kadya Molodowsky. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 5090 Topics in Yiddish Literature: Modernist Jewish Poetry",
+    "courseid": "YDSH 5090",
+    "coursedescription": "One version of this seminar considers works by Jewish women who wrote in Yiddish, Hebrew, English, and other languages in the late 19th through the 20th century. The texts, poetry and prose, will include both belles lettres and popular writings, such as journalism, as well as private works (letters and diaries) and devotional works. The course will attempt to define \"Jewish writing, \" in terms of language and gender, and will consider each writer in the context of the aesthetic, religious, and national ideologies that prevailed in this period. Because students will come with proficiency in various languages, all primary texts and critical and theoretical materials will be taught in English translation. However, those students who can, will work on the original texts and share with the class their expertise to foster a comparative perspective. Because we will be discussing translated works, a secondary focus of the course will, in fact, be on literary translation's process and products. Another version of this seminar presents Jewish modernism as an international phenomenon of the early 20th century. The course will attempt to define \"Jewish modernism\" through the prism of poetry, which inevitably, given the historical events in Europe and America during this time, grapples with aesthetic, religious, and national ideologies and methods. The syllabus will focus mainly on poetry written in Yiddish and English, and will also include German, Russian, and Hebrew verse. All poetry, critical, and theoretical materials will be taught in English translation, although students who know the languages will work on the original texts and will bring to the table a comparative perspective. Because we will be discussing translated poems, a secondary focus of the course will, in fact, be on literary translation's process and products. Not Offered Every Year Also Offered As: COML 5090 , GRMN 5090 , GSWS 5090 , JWST 5090 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YDSH 5111 Yiddish Literature and Culture",
+    "courseid": "YDSH 5111",
+    "coursedescription": "This course introduces a variety of themes and genres in Yiddish literature and culture, depending on the instructor and programmatic needs. The focus of the course may include Yiddish literature and culture in America; Yiddish literature and culture in Eastern Europe; Yiddish modernism; Art and music in the Yiddish context; Yiddish theater; Yiddish journalism; Yiddish film. Readings will be in English translation, while primary sources in Yiddish will be available, as well. Classes and coursework will be in English. There will be an optional graduate component to this course. Not Offered Every Year Mutually Exclusive: YDSH 1111 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

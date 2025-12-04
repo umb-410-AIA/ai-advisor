@@ -1,0 +1,42 @@
+[
+  {
+    "coursename": "BCHE 2280 Physical Models of Biological Systems",
+    "courseid": "BCHE 2280",
+    "coursedescription": "Classic case studies of successful reductionistic models of complex phenomena, emphasizing the key steps of making estimates, using them to figure out which physical variables and phenomena will be most relevant to a given system, finding analogies to purely physical systems whose behavior is already known, and embodying those in a mathematical model, which is often implemented in computer code. Topics may include bacterial genetics, genetic switches and oscillators; systems that sense or utilize light; superresolution and other newmicroscopy methods; and vision and other modes of sensory transduction. Fall Also Offered As: PHYS 2280 Prerequisite: ( PHYS 0101 OR PHYS 0151 ) AND MATH 1400 AND ( MATH 1410 OR MATH 1610 ) 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0101",
+      "PHYS 0151",
+      "MATH 1400",
+      "MATH 1410",
+      "MATH 1610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BCHE 2999 Undergraduate Research Projects",
+    "courseid": "BCHE 2999",
+    "coursedescription": "Independent Research. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  },
+  {
+    "coursename": "BCHE 3000 Senior Research Projects",
+    "courseid": "BCHE 3000",
+    "coursedescription": "Research in standing faculty groups in any School for special cases beyond participation in BCHE 4597 . Proposal required before the end of the add period in any given semester. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BCHE 4597 Biochemistry Laboratory",
+    "courseid": "BCHE 4597",
+    "coursedescription": "Students participate in research projects associated with the laboratories of individual faculty investigators. Students commit a minimum of 15 hours/week to original research. In addition to research and class assignments, students attend class meetings to present and discuss their own research and related work. Strong speaking and writing skills are required and developed. Each student must contact the course instructor with information regarding research group (faculty principal investigator) at the start of the spring term before the fall term of BCHE 4597 . BCHE 4597 is a year-long course required for the Biochemistry major, completed in the final year. Majors complete 2 cu of BCHE 4597 . BCHE 4597 is taken in a student's final year as an undergraduate. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "coursename": "PNJB 1100a, Elementary Punjabi I Staff",
+    "courseid": "PNJB 1100a",
+    "coursedescription": "Introduction to the Punjabi language in its cultural context. Development of fundamental speaking, listening, reading, and writing skills through the application of communicative methods and the use of authentic learning materials. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. Credit only on completion of PNJB 120. L1 RP 1½ Course cr MW 6:10pm-8pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* PNJB 1200b, Elementary Punjabi II Staff",
+    "courseid": "PNJB 1200b",
+    "coursedescription": "Continuation of PNJB 110. Further development of speaking, listening, reading, and writing skills through the application of communicative methods and the use of authentic learning materials. Prerequisite: PNJB 110 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L2 RP 1½ Course cr MW 6:10pm-8pm",
+    "course-prerequsities": [
+      "PNJB 110",
+      "L2",
+      "MW 6"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* PNJB 1300a, Intermediate Punjabi I Staff",
+    "courseid": "PNJB 1300a",
+    "coursedescription": "The important target of this course is to develop basic Punjabi Language skills (reading, writing, listening and speaking). This is approached through the theme-based syllabus, discussion in small groups and paired activities on the cultural background of Punjab or Punjabi culture. As well as, the listening and speaking skills would be developed by using the media such as educational material, Punjabi movies, music and computer lab sessions. The usage of the textbooks would lead us to learn grammatical rules of the Punjabi language. The students are approached individually, since the class typically consists of students in the various backgrounds. Prerequisite: PNJB 120 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information. L3 RP 1½ Course cr MW 4:10pm-6pm",
+    "course-prerequsities": [
+      "PNJB 120",
+      "L3",
+      "MW 4"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* PNJB 1400b, Intermediate Punjabi II Staff",
+    "courseid": "PNJB 1400b",
+    "coursedescription": "The important target of this course is to develop basic Punjabi Language skills (reading, writing, listening and speaking). This is approached through the theme-based syllabus, discussion in small groups and paired activities on the cultural background of Punjab or Punjabi culture. As well as, the listening and speaking skills would be developed by using the media such as educational material, Punjabi movies, music and computer lab sessions. The usage of the textbooks would lead us to learn grammatical rules of the Punjabi language. The students are approached individually, since the class typically consists of students in the various backgrounds. Prerequisite: PNJB 130 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information. L4 RP 1½ Course cr MW 4:10pm-6pm",
+    "course-prerequsities": [
+      "PNJB 130",
+      "L4",
+      "MW 4"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information."
+      ]
+    }
+  }
+]

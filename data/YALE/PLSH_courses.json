@@ -1,0 +1,46 @@
+[
+  {
+    "coursename": "PLSH 1100a, Elementary Polish I Krystyna Illakowicz",
+    "courseid": "PLSH 1100a",
+    "coursedescription": "A comprehensive introduction to elementary Polish grammar and conversation, with emphasis on spontaneous oral expression. Reading of original texts, including poetry. Use of video materials. L1 RP 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PLSH 1200b, Elementary Polish II Krystyna Illakowicz",
+    "courseid": "PLSH 1200b",
+    "coursedescription": "Continuation of PLSH 110. After PLSH 110 or equivalent. L2 RP 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PLSH 1300a, Intermediate Polish I Krystyna Illakowicz",
+    "courseid": "PLSH 1300a",
+    "coursedescription": "A reading and conversation course conducted in Polish. Systematic review of grammar; practice in speaking and composition; reading of selected texts, including poetry. Use of video materials. After PLSH 120 or equivalent. L3 RP 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PLSH 1400b, Intermediate Polish II Krystyna Illakowicz",
+    "courseid": "PLSH 1400b",
+    "coursedescription": "Continuation of PLSH 130. After PLSH 130 or equivalent. L4 RP 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PLSH 1500a, Advanced Polish Krystyna Illakowicz",
+    "courseid": "PLSH 1500a",
+    "coursedescription": "Improvement of high-level language skills through reading, comprehension, discussion, and writing. Focus on the study of language through major literary and cultural texts, as well as through film and other media. Exploration of major historical and cultural themes. Prerequisite: PLSH 140 or equivalent. L5 TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "PLSH 140",
+      "L5",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

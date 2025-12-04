@@ -1,0 +1,190 @@
+[
+  {
+    "coursename": "DEMG 5240 Advanced Topics in Family Sociology",
+    "courseid": "DEMG 5240",
+    "coursedescription": "This course will focus on the intersection of family life and inequality. The course will cover theories and empirical research examining the ways in which the political economy of family life is implicated in sustaining and organizing inequalities by class, gender, sexuality, and race. Fall or Spring Also Offered As: SOCI 5240 Mutually Exclusive: SOCI 2290 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 5330 Sociology of Race and Ethnicity",
+    "courseid": "DEMG 5330",
+    "coursedescription": "Race and ethnicity are, above all, both converge as system of ideas by which men and women imagine the human body and their relationships within society. In this course we will question the concept of race and ethnicity and their place in modern society (1500 - 2020). While the course reviews the pre-1500 literature our focus will be on the last 500 years. This course reviews the research that has contributed to the ideas about ethnicity and race in human society. The review covers the discourse on race in political propaganda, religious doctrine, philosophy, history, biology and other human sciences. Also Offered As: AFRC 5330 , SOCI 5330 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 5350 Quantitative Methods I",
+    "courseid": "DEMG 5350",
+    "coursedescription": "This course is an introduction to the practice of statistics in social and behavioral sciences. It is open to beginning graduate students and--with the permission of the instructor--advanced undergraduates. Topics covered include the description of social science data, in graphical and non-graphical form; correlation and other forms of association, including cross-tabulation; bivariate regression; an introduction to probability theory; the logic of sampling; the logic of statistical inference and significance tests. There is a lecture twice weekly and a mandatory \"lab.\" Fall Also Offered As: SOCI 5350 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is open to beginning graduate students and--with the permission of the instructor--advanced undergraduates."
+      ]
+    }
+  },
+  {
+    "coursename": "DEMG 5351 Quantitative Methods II",
+    "courseid": "DEMG 5351",
+    "coursedescription": "As the second part of a two-semester sequence, this graduate course focuses on regression analysis as used in social science research. In particular, we discuss features and assumptions of linear regression and logistic regression models. We learn how to apply regression models to real social science data using Stata and how to interpret the results. Spring Also Offered As: CRIM 6351, SOCI 5351 Prerequisite: SOCI 5350 1 Course Unit",
+    "course-prerequsities": [
+      "SOCI 5350"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 5600 People and Place in Philadelphia",
+    "courseid": "DEMG 5600",
+    "coursedescription": "The purpose of this course is twofold. The first is to introduce students to the city of Philadelphia and its residents from a sociological, demographic, and public policy perspective. The second is to train students in quantitative research methods and use of public data resources in order to describe demographic, social, and economic trends in the city. Classroom instruction will be paired with field trips to community organizations that are developing research-informed strategies to improve well-being in Philadelphia’s neighborhoods. Students will produce research briefs that will be disseminated to the public through the University of Pennsylvania Population Studies Center. A course theme (e.g., housing, education, environment) will focus topics for discussion and data analysis. Also Offered As: SOCI 5600 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 5970 Demography of Education",
+    "courseid": "DEMG 5970",
+    "coursedescription": "The major topic of the course is the impacts of education, especially college education, on various kinds of family behavior such as dating, cohabitation, living arrangements, marriage, fertility, parenting, divorce, and remarriage. In many countries, some family behaviors, if not all, are increasingly differentiated between college-educated and non-college-educated. For instance, increase in divorce is more evident among the less educated than their more educated counterparts, while marriage decline is more substantial among the less educated. Although parents’ time and money investments in children’s education have generally increased over time for both college-educated and non-college-educated parents, the increase is much more substantial among college-educated parents than their non-college-educated counterparts, leading to divergence. In such societies, college education has increasingly differentiated population with respect to family behavior, which has important implications for inequality of children’s well-being. Of course, such diverging family behavior is not observed every society. In some countries, educational differentiation in family behavior is minimal. In this course, students first will be able to have a global perspective on education and family behavior by reviewing empirical evidence of the relationship between education and various kinds of family behavior across a variety of countries. After learning how different measurements and methods are used to identify the relationship between education and family behavior, Students will be able to evaluate how empirical evidence is robust. Second, students will learn about different theories that explain why education has specific relationships with family behavior. Finally, students will have an opportunity to conduct their own research (in the format of either an empirical or a review paper) by choosing a specific context where they will first document the relationship between education and family behavior and apply theories to explain the relationship with explicit consideration of specific contextual factors. The proposed course will be open to undergraduate and graduate students with different assignments to each of undergraduate and graduate students. Fall or Spring Also Offered As: SOCI 5970 Mutually Exclusive: SOCI 2281 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 6040 Methodology of Social Research",
+    "courseid": "DEMG 6040",
+    "coursedescription": "This course will give students familiarity with the common research methods social scientists use to conduct research. Ethnographic, interview, survey, experimental and historical/comparative research methods will be covered. Four themes will be explored: 1) the basics of solid research design, 2) the various advantages and disadvantages of each method, 3) when the use of a method is appropriate or inappropriate for the research question, and 4) how to evaluate researchers' claims on the basis of the evidence they present. These themes will be explored by reading examples of and conducting exercises designed to give students hands-on experience in each of the methods. Students will conduct the exercises on a topic of their choice, which together will culminate in their final paper. Fall or Spring Also Offered As: SOCI 6040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 6070 Introduction to Demography",
+    "courseid": "DEMG 6070",
+    "coursedescription": "A nontechnical introduction to fertility, mortality and migration and the interrelations of population with other social and economic factors. Fall Also Offered As: SOCI 6070 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 6090 Basic Demographic Methods",
+    "courseid": "DEMG 6090",
+    "coursedescription": "The course is designed to introduce students to basic concepts of demographic measurement and modeling used to study changes in population size and composition. The course covers basic measures of mortality, fertility and migration; life table construction; multiple decrement life tables; stable populations; population projections; and age patterns of vital events. Students will learn to apply demographic methods through a series of weekly problem sets. Fall or Spring Also Offered As: SOCI 6090 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 6120 Categorical Data Analysis",
+    "courseid": "DEMG 6120",
+    "coursedescription": "This course deals with techniques for analyzing multivariate data which the dependent variable is a set of categories (a dichotomy or polytomy). Topics will include linear probability models, logit (logistic) regression models, probit models, logit analysis of contingency tables, cumulative logit and probit (for ordinal data), multinomial logit, conditional logit (discrete choice), unobserved heterogeneity, log-linear models, square tables, response-based sampling, and repeated measures. Methods will be illustrated using the Stata System. There will be several assignments using Stata to analyze data provided by the instructor. Not Offered Every Year Also Offered As: SOCI 6120 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 6210 Health, Mortality and Aging",
+    "courseid": "DEMG 6210",
+    "coursedescription": "The course focuses on the description and explanation of health and mortality in human populations and their variability across several dimensions such as age, time, place, social class, race, etc. The course includes general theories of health, mortality and morbidity, investigations of mortality and related processes in developing and developed countries, and discussions of future mortality trends and their implications for individual lives and the society at large. Not Offered Every Year Also Offered As: SOCI 6210 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 6220 Fertility",
+    "courseid": "DEMG 6220",
+    "coursedescription": "The biological, social and demographic factors explaining the levels, trends and differentials in human fertility. Data, measures, and methods used in the context of the more and the less developed countries, with an emphasis on the historical and current course of the fertility transition. Not Offered Every Year Also Offered As: SOCI 6220 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 6320 Demography of Race",
+    "courseid": "DEMG 6320",
+    "coursedescription": "This course will examine demographic and statistical methods used to capture the impact of racial stratification in society. This course covers the skills and insights used by demographers and social statisticians in the study of racial data. A key challenge facing researchers is the interpretation of the vast amount of racial data generated by society. As these data do not directly answer important social questions, data analysis and statistics must be used to interpret them. The course will examine the logic used to communicate statistical results from racial data in various societies. We will question the scientific claims of social science methodology by extending the critical perspective to biases that may underlie research methods. We will discuss good and bad practices within the context of the historical developments of the methods. Also Offered As: AFRC 6320 , SOCI 6320 Mutually Exclusive: SOCI 3230 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 6430 Social Stratification",
+    "courseid": "DEMG 6430",
+    "coursedescription": "This is an advanced level graduate seminar where we will review contemporary research on social stratification and mobility. We will examine empirical and theoretical studies not only in the US but also in other countries to address how the pattern of social stratification varies across societies and over time. The main topics to be discussed are social mobility, occupational attainment, educational inequality, gender and race, and family processes and stratification. We will also examine studies that address how national contexts mediate social stratification. Advanced undergraduate students will be admitted with permission. Not Offered Every Year Also Offered As: SOCI 6430 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Advanced undergraduate students will be admitted with permission."
+      ]
+    }
+  },
+  {
+    "coursename": "DEMG 6620 Panel Data Analysis",
+    "courseid": "DEMG 6620",
+    "coursedescription": "This course focuses on the ability to use, analyze, and understand panel data. Panel data contain repeated measurements of the dependent variable for the same individuals, and possibly repeated measurements of the predictor variables as well. Panel data offer important opportunities for controlling unobserved variables and for answering questions about causal ordering. Also Offered As: SOCI 6620 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 7070 Second Year Research Seminar I",
+    "courseid": "DEMG 7070",
+    "coursedescription": "This course is intended to hone the skills and judgment in order to conduct independent research in sociology and demography. We will discuss the selection of intellectually strategic research questions and practical research designs. Students will get experience with proposal writing, the process of editing successive drafts of manuscripts, and the oral presentation of work in progress as well as finished research projects. The course is designed to be the context in which master's papers and second year research papers are written. This is a required course for second year graduate students in Demography. Others interested in enrolling in only one of the courses may do so with the permission of the Chair of the Graduate Group in Demography. Fall Also Offered As: SOCI 7070 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Others interested in enrolling in only one of the courses may do so with the permission of the Chair of the Graduate Group in Demography."
+      ]
+    }
+  },
+  {
+    "coursename": "DEMG 7071 Second Year Research Seminar II",
+    "courseid": "DEMG 7071",
+    "coursedescription": "This is the second part of a two-course sequence designed to introduce and familiarize second year students with current norms for academic research, presentation and publishing in the field of Demography. Students are expected to finalize the analyses and to complete their second year research paper. This is a required course for second year demography students. Others interested in enrolling in the course may do so with the permission of the Chair of the Graduate Group in Demography. Spring Also Offered As: SOCI 7071 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Others interested in enrolling in the course may do so with the permission of the Chair of the Graduate Group in Demography."
+      ]
+    }
+  },
+  {
+    "coursename": "DEMG 7310 Advanced Demographic Methods",
+    "courseid": "DEMG 7310",
+    "coursedescription": "This course considers a variety of procedures for measuring and modeling demographic processes. We will consider both deterministic (drawn from classic demographic methods, stable population theory, and the like) and stochastic (drawn from statistics) perspectives and methods, including their integration. Pre-requisites: DEMG 609 and SOCI 536 (or its equivalent). Not Offered Every Year Also Offered As: SOCI 7310 Prerequisite: SOCI 6090 AND SOCI 5351 1 Course Unit",
+    "course-prerequsities": [
+      "DEMG 609",
+      "SOCI 536",
+      "SOCI 7310",
+      "SOCI 6090",
+      "SOCI 5351"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 7960 Demographic, Economic, and Social Interrelations",
+    "courseid": "DEMG 7960",
+    "coursedescription": "The course investigates economic and social determinants of fertility, mortality, and migration, and it discusses the effects of population variables on economic and social conditions, including economic and social development. Topics discussed in the course include: How do economic changes affect marriage, divorce, and child bearing decisions? How do households make decisions about transfers and requests? How can economic and sociological approaches be combined in explanatory models of demography change? How does immigration to the US affect the ethnic composition of the population, the earnings of native workers, taxes on natives, and the macro-economy? What causes the aging of populations, and how will population aging affect the economies of industrial nations, and in particular, pension programs like Social Security? What accounts for the rise in women's participation in the wage labor force over the past century? How are family composition and poverty interrelated? Does rapid population growth slow economic development with low income countries? In addition to these topics, the course also covers selected methods not included in DEMG/ SOCI 5350 /5360 and 6090. Not Offered Every Year Also Offered As: SOCI 7960 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DEMG 9999 Independent Study",
+    "courseid": "DEMG 9999",
+    "coursedescription": "Primarily for advanced students who work with individual instructors upon permission. Intended to go beyond existing graduate courses in the study of specific problems or theories or to provide work opportunities in areas not covered by existing courses. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Primarily for advanced students who work with individual instructors upon permission."
+      ]
+    }
+  }
+]

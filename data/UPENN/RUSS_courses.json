@@ -1,0 +1,142 @@
+[
+  {
+    "coursename": "RUSS 0100 Russian I",
+    "courseid": "RUSS 0100",
+    "coursedescription": "This course is the first in a series of first-year courses in the traditional track, intended for students with no previous background in Russian. The course develops competence in speaking, reading, writing, and understanding contemporary Russian. It will also introduce you to Russian culture and Russian-speaking cultures around the world through exciting authentic materials, including internet sites and cultural artifacts, songs, videos, short stories, as well as conversations with native speakers. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Russian. By the end of the course, you will be able to engage in simple conversations in Russian on topics concerning your daily life. You will know greetings and everyday expressions, talk about people and objects in your life, your hobbies, likes and dislikes, past activities and your residence. You will also be able to write short personalized messages in Russian. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 0150 Accelerated Russian I-II",
+    "courseid": "RUSS 0150",
+    "coursedescription": "TWO IN ONE: This is an intensive two-credit course covering two semesters of the first-year sequence in the traditional track (RUSS0100 and 0200 ). The course is designed for students with no background in Russian and develops competence in speaking, reading, writing and understanding contemporary Russian. It will also introduce you to Russian culture and Russian-speaking cultures around the world through exciting authentic materials, including internet sites and cultural artifacts, songs, videos, short stories, as well as conversations with native speakers. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Russian. By the end of the course, you will be able to engage in simple conversations in Russian on topics concerning your daily life. You will know greetings and everyday expressions, talk about people in your life, your hobbies and interests, past activities and future plans, your residence, food preferences and health. You will also be able to write short personalized messages in Russian in a variety of informal ad formal contexts. Together with RUSS0300 and 0400 fulfills Penn Language Requirement. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units",
+      "notes": [
+        "You will know greetings and everyday expressions, talk about people in your life, your hobbies and interests, past activities and future plans, your residence, food preferences and health."
+      ]
+    }
+  },
+  {
+    "coursename": "RUSS 0200 Russian II",
+    "courseid": "RUSS 0200",
+    "coursedescription": "This course is the second in a series of first-year courses in the traditional track, continuation of Russian I. The course continues to develop competence in speaking, reading, writing, and understanding contemporary Russian. We will continue the exploration of Russian culture and Russian-speaking cultures around the world through exciting authentic materials, including internet sites and cultural artifacts, songs, videos, short stories, as well as conversations with native speakers. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Russian. By the end of the course, you will be able to engage in simple conversations in Russian on many topics in informal and some formal contexts concerning your daily life. You will be able to talk in detail about your interests, study habits and daily schedule, plans for the future, food preferences and health and compare these with practices common in the target cultures. You will also be able to write longer personalized messages in Russian. Spring Prerequisite: RUSS 0100 1 Course Unit",
+    "course-prerequsities": [
+      "RUSS 0100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "You will be able to talk in detail about your interests, study habits and daily schedule, plans for the future, food preferences and health and compare these with practices common in the target cultures."
+      ]
+    }
+  },
+  {
+    "coursename": "RUSS 0201 Russian for Heritage Speakers I",
+    "courseid": "RUSS 0201",
+    "coursedescription": "This is the first in the series of literacy courses for students who have spoken Russian at home and seek to improve literacy skills and language competence. The course aims to enhance linguistic accuracy in spelling, grammar, word choice and pronunciation, as well as fluency, narrative structure and appropriate use of idiomatic expressions in both speaking and writing. We will also focus on developing effective reading and listening strategies. Course readings include works of Russian classics, contemporary literature and mass media on cultural issues and daily life of the Russian-speaking community around the world. Students who complete this course in combination with RUSS0401 satisfy Penn Language Requirement. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 0300 Russian III",
+    "courseid": "RUSS 0300",
+    "coursedescription": "This course is the first in a series of second-year courses in the traditional track, continuation of Russian II. The course will strengthen students' competence in speaking, reading, writing, and understanding contemporary Russian and will expand students' active and passive vocabulary on a variety of topics. We will continue the exploration of Russian culture and Russian-speaking cultures around the world through exciting authentic materials, including internet sites and cultural artifacts, songs, videos, short stories, as well as conversations with native speakers. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Russian. By the end of the course, you will be able to engage in increasingly complex conversations in Russian on many topics in informal and formal contexts concerning your daily life, significant personal and cultural events and situations, important cultural figures. You will be able to write longer messages in a variety of informal and formal contexts. Fall Prerequisite: RUSS 0200 OR RUSS 5200 OR RUSS 0150 1 Course Unit",
+    "course-prerequsities": [
+      "RUSS 0200",
+      "RUSS 5200",
+      "RUSS 0150"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 0360 Intermediate Russian Grammar Review, Composition, and Conversation",
+    "courseid": "RUSS 0360",
+    "coursedescription": "The course will review and solidify foundational grammar concepts covered in Russian III, strengthen students' competence in speaking, reading, writing, and understanding contemporary Russian and will expand students' active and passive vocabulary on a variety of topics. Prerequisite: RUSS 0200 OR RUSS 5200 OR RUSS 0150 1 Course Unit",
+    "course-prerequsities": [
+      "RUSS 0200",
+      "RUSS 5200",
+      "RUSS 0150"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 0400 Russian IV",
+    "courseid": "RUSS 0400",
+    "coursedescription": "This course is the second in a series of second-year courses in the traditional track, continuation of Russian III. The course will continue strengthening and expanding students' competence in speaking, reading, writing, and understanding contemporary Russian and increasing active and passive vocabulary on a variety of topics. We will continue the exploration of Russian culture and Russian-speaking cultures around the world through exciting authentic materials, including internet sites and cultural artifacts, songs, videos, short stories, as well as conversations with native speakers. Class works emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Russian. By the end of the course, you will be able to engage in increasingly complex conversations in Russian on many topics in informal and formal contexts concerning your daily life, significant personal and cultural events, attitudes and perspectives. You will be able to write longer messages in a variety of informal and formal contexts. Spring Prerequisite: RUSS 0300 1 Course Unit",
+    "course-prerequsities": [
+      "RUSS 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 0401 Russian for Heritage Speakers II",
+    "courseid": "RUSS 0401",
+    "coursedescription": "This course is the second in the series of literacy courses for students who have spoken Russian at home and seek to improve literacy skills and language competence. The course continues to focus on enhancing linguistic accuracy in spelling, grammar, word choice and pronunciation, as well as fluency, narrative structure and appropriate use of idiomatic expressions in both speaking and writing. We will continue developing effective reading and listening strategies. Course readings mostly include works of Russian classics and focus on topics in Russian history as well as cultural issues and daily life of the Russian-speaking community around the world. Satisfies Penn Language Requirement. Spring Mutually Exclusive: RUSS 5401 Prerequisite: RUSS 0201 OR RUSS 5201 1 Course Unit",
+    "course-prerequsities": [
+      "RUSS 0201",
+      "RUSS 5201"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 1100 Russian Society Today",
+    "courseid": "RUSS 1100",
+    "coursedescription": "This course develops students' skills in speaking and writing about topics in Russian literature, contemporary society, politics, and everyday life. Topics include women, work and family; sexuality; the economic situation; environmental problems; and life values. Materials include selected short stories by 19th and 20th century Russian authors, video-clips of interviews, excerpts from films, and articles from the Russian media. Continued work on grammar and vocabulary building. Fall Mutually Exclusive: RUSS 5500 Prerequisite: RUSS 0400 OR RUSS 5400 1 Course Unit",
+    "course-prerequsities": [
+      "RUSS 0400",
+      "RUSS 5400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 1200 Russia Society Today II",
+    "courseid": "RUSS 1200",
+    "coursedescription": "Primary emphasis on speaking, writing, and listening. Development of advanced conversational skills needed to carry a discussion or to deliver a complex narrative. This course will be based on a wide variety of topics from everyday life to the discussion of political and cultural events. Russian culture and history surveyed briefly. Materials include Russian TV broadcast, newspapers, Internet, selected short stories by contemporary Russian writers. Offered each spring. Spring Mutually Exclusive: RUSS 5600 Prerequisite: RUSS 1100 1 Course Unit",
+    "course-prerequsities": [
+      "RUSS 1100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 5150 Accelerated Elementary Russian",
+    "courseid": "RUSS 5150",
+    "coursedescription": "TWO IN ONE: This is an intensive two-credit course covering two semesters of the first-year sequence (RUSS001 and 002). The course is designed for students with no background in Russian and develops language competence in speaking, reading, writing and understanding contemporary Russian. Class work emphasizes development of communication skills and cultural awareness. Together with RUSS003 and 004 fulfills Penn Language Requirement. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "RUSS 5201 Russian for Heritage Speakers I",
+    "courseid": "RUSS 5201",
+    "coursedescription": "This course is intended for students who have spoken Russian at home and seek to achieve proficiency in the language. Topics will include an intensive introduction to the Russian writing system and grammar, focusing on exciting materials and examples drawn from classic and contemporary Russian culture and social life. Students who complete this course in combination with RUSS361 satisfy the Penn Language Requirement. Prerequisite: Previous language experience required. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 5401 Russian for Heritage Speakers II",
+    "courseid": "RUSS 5401",
+    "coursedescription": "This course is the second in the series of literacy courses for students who have spoken Russian at home and seek to improve literacy skills and language competence. The course continues to focus on enhancing linguistic accuracy in spelling, grammar, word choice and pronunciation, as well as fluency, narrative structure and appropriate use of idiomatic expressions in both speaking and writing. We will continue developing effective reading and listening strategies. Course readings mostly include works of Russian classics and focus on topics in Russian history as well as cultural issues and daily life of the Russian-speaking community around the world. Satisfies Penn Language Requirement. Spring Mutually Exclusive: RUSS 0401 Prerequisite: RUSS 5201 OR RUSS 0201 1 Course Unit",
+    "course-prerequsities": [
+      "RUSS 5201",
+      "RUSS 0201"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

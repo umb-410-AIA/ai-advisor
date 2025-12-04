@@ -1,0 +1,76 @@
+[
+  {
+    "coursename": "UKRN 1100a, Elementary Ukrainian I Olha Tytarenko",
+    "courseid": "UKRN 1100a",
+    "coursedescription": "The first half of a two-term introduction to Ukrainian for students with no previous knowledge of the language. Emphasis on speaking, reading, listening, and writing skills. Topics, vocabulary, and grammar lessons based on everyday linguistic interactions. L1 RP 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "UKRN 1200b, Elementary Ukrainian II Olha Tytarenko",
+    "courseid": "UKRN 1200b",
+    "coursedescription": "The second half of a two-term introduction to Ukrainian for students with no previous knowledge of the language. Emphasis on speaking, reading, listening, and writing skills. Topics, vocabulary, and grammar lessons based on everyday linguistic interactions. Prerequisite: UKRN 110 or equivalent. L2 RP 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [
+      "UKRN 110",
+      "L2",
+      "MTWTHF 9",
+      "25AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* UKRN 1300a, Intermediate Ukrainian I Olha Tytarenko",
+    "courseid": "UKRN 1300a",
+    "coursedescription": "Review and reinforcement of grammar fundamentals and of core vocabulary pertaining to common aspects of daily life. Special attention to verbal aspect and verbs of motion. Emphasis on continued development of oral and written communication skills on topics such as the self, family, studies and leisure, travel, and meals. Prerequisite: UKRN 1200 or equivalent. L3 RP 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [
+      "UKRN 1200",
+      "L3",
+      "MTWTHF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* UKRN 1400b, Intermediate Ukrainian II Olha Tytarenko",
+    "courseid": "UKRN 1400b",
+    "coursedescription": "Continued review and reinforcement of grammar fundamentals and of core vocabulary pertaining to common aspects of daily life. Special attention to verbal aspect and verbs of motion. Emphasis on further development of oral and written communication skills on topics such as the self, family, studies and leisure, travel, and meals. UKRN 1300 or equivalent. L4 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "UKRN 1500a, Advanced Ukrainian I Staff",
+    "courseid": "UKRN 1500a",
+    "coursedescription": "The course is for students who wish to develop their mastery of Ukrainian. Original texts and other materials drawn from classical and contemporary Ukrainian literature, press, electronic media, film, and the Internet are designed to give students familiarity with linguistic features typical of such functional styles as written and spoken, formal and informal, scientific and newspaper language, jargon, slang, etc. Ukrainian 140, or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L5 RP MW 1:10pm-2:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "UKRN 1600b, Advanced Ukrainian II Staff",
+    "courseid": "UKRN 1600b",
+    "coursedescription": "The course is for students who wish to develop their mastery of Ukrainian. Original texts and other materials drawn from classical and contemporary Ukrainian literature, press, electronic media, film, and the Internet are designed to give students familiarity with linguistic features typical of such functional styles as written and spoken, formal and informal, scientific and newspaper language, jargon, slang, etc. UKRN 150, or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L5 RP MW 1:10pm-2:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* UKRN 3120a and UKRN 6120a / FILM 3007a / RSEE 3120a / SLAV 3120a and SLAV 6120a, Cinematic Ukraine: Culture, Identity, and Memory Olha Tytarenko",
+    "courseid": "UKRN 3120a",
+    "coursedescription": "This course traces the evolution of Ukrainian cinema from the avant-garde experiments of the 1920s to the vibrant post-2014 film resurgence. Exploring themes of national identity, historical memory, and resistance to political and cultural oppression, we analyze how filmmakers have shaped Ukraine’s self-conception through film. Topics include the poetic cinema of the 1960s, post-Soviet transition films, and contemporary works responding to war and cultural sovereignty. Students will engage critically with cinematic language, narrative structures, and visual aesthetics while incorporating perspectives from postcolonial theory and memory studies. The course features guest lectures from Ukrainian film directors and hands-on cinematographic workshops. Weekly thematic units pair films with historical and theoretical readings, offering a dynamic exploration of Ukraine’s place in global cinema and cultural history. None HU M 3:30pm-5:20pm, Th 6pm-9pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

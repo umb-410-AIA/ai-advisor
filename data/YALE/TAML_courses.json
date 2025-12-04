@@ -1,0 +1,34 @@
+[
+  {
+    "coursename": "* TAML 1300a, Intermediate Tamil I Staff",
+    "courseid": "TAML 1300a",
+    "coursedescription": "The first half of a two-term sequence designed to develop proficiency in comprehension, speaking, reading, and writing through the use of visual media, newspapers and magazines, modern fiction and poetry, and public communications such as pamphlets, advertisements, and government announcements. Prerequisite: TAML 120 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail minjin.hashbat@yale.edu for more information. L3 1½ Course cr MTWThF 1:10pm-2pm",
+    "course-prerequsities": [
+      "TAML 120",
+      "L3",
+      "MTWTHF 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail minjin.hashbat@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* TAML 1400b, Intermediate Tamil II Staff",
+    "courseid": "TAML 1400b",
+    "coursedescription": "The second half of a two-term sequence designed to develop proficiency in listening, speaking, reading, and writing. Focus on the communicative aspects of the language. Some attention to Tamil culture since the Sangam period. Prerequisite: TAML 130 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail minjin.hashbat@yale.edu for more information. L4 1½ Course cr MTWTh 1:10pm-2pm",
+    "course-prerequsities": [
+      "TAML 130",
+      "L4",
+      "MTWTH 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail minjin.hashbat@yale.edu for more information."
+      ]
+    }
+  }
+]

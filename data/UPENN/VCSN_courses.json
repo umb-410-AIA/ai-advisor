@@ -1,0 +1,775 @@
+[
+  {
+    "coursename": "VCSN 6300 Large Animal Neonatology",
+    "courseid": "VCSN 6300",
+    "coursedescription": "The objectives of this course are to: (1) Review foaling management, including what to expect when examining a normal late gestation mare, post foaling mare and newborn foal; (2) Introduce students to neonatal physiology and behavior as it applies to large animal neonates; (3) Acquaint students with the clinical signs and pathophysiologic mechanisms of diseases in neonates. The first part of the course will introduce the equine breeding industry and discuss normal farm practices, mare foaling and the normal newborn foal. Subsequent lectures will focus on neonatal diseases, intensive care therapies, periparturient problems, gastrointestinal diseases, respiratory problems, and musculoskeletal disorders. While the focus will be on equine neonatology, other large animal neonates and their major diseases will be discussed throughout. Seminars will be case-based discussions and linked to the lectures given during that week. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6310 Natural Horse Behavior",
+    "courseid": "VCSN 6310",
+    "coursedescription": "This course will cover the equid ethogram under natural conditions to not only examine the behavior of horses and other equids, but to gain a robust understanding of a comprehensive ethogram. A book will be the framework for the course. A practical field guide to horse behavior: the equid ethogram. The first week will be an introduction to the course and an in-depth examination of the concept of the ethogram and general related ethological concepts. The following 6 weeks will each examine a section of the book and the accompanying video clips illustrating each behavior entry within a specific category of behavior Students will be responsible for a particular behavior entry each week which they will present for discussion at the weekly synchronous session. Prerequisite: VCSP 6330 AND VCSP 6390 AND VCSN 6390 AND VCSN 6500 3 Credit Hours",
+    "course-prerequsities": [
+      "VCSP 6330",
+      "VCSP 6390",
+      "VCSN 6390",
+      "VCSN 6500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6320 Diseases & Management of Sheep & Goats",
+    "courseid": "VCSN 6320",
+    "coursedescription": "This course is an introduction to small ruminant medicine and surgery. Flock and herd health programs involve control of infectious, parasitic, reproductive and metabolic disorders and provision of proper housing, feeding and reproductive management systems. Prevalent diseases and management systems of the Eastern U.S. will receive emphasis. This course is open to 3rd and 4th year students but if students are planning on taking this class, it is recommended that they take it during their 3rd year. This course is a prerequisite for VCSN 8775 Food Animal Medicine and Surgery. 3 Credit Hours",
+    "course-prerequsities": [
+      "VCSN 8775"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is open to 3rd and 4th year students but if students are planning on taking this class, it is recommended that they take it during their 3rd year."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6330 Animal Health Economics",
+    "courseid": "VCSN 6330",
+    "coursedescription": "This course will serve as an introduction to a variety of economic concepts and decision-making techniques utilizing the life cycle of a dairy cow. Using computerized records, key management areas of a dairy farm will be evaluated in the context of production and overall profitability. Upon completion of this course, students should expect to walk away with a broader view of the economic intersection of dairy medicine and agriculture, being able to communicate with future clients/producers regarding key concepts which are relevant to their business and livelihood. This course serves as a prerequisite for VCSN 880, Dairy Production Medicine. 2 Credit Hours",
+    "course-prerequsities": [
+      "VCSN 880"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6340 Clinical Biostatistics",
+    "courseid": "VCSN 6340",
+    "coursedescription": "This course presents a unified approach to analyzing and interpreting clinical data. We start with basic descriptive statistics and simple t-test and ANOVA inferential analysis and describe where they can be applied, then move to linear, logistic, and survival analysis. Our goal is to acquaint participants with a comprehensive array of approaches to data analysis and, most notably, to circumstances to which they apply. The objective is to prepare students for research activities, either as a career or as a step toward \"Board Certification,\" enabling them to plan studies, analyze data ensuing from studies, and critically read articles in their area of interest. 2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The objective is to prepare students for research activities, either as a career or as a step toward \"Board Certification,\" enabling them to plan studies, analyze data ensuing from studies, and critically read articles in their area of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6360 Clinical Applications of Pharmacology",
+    "courseid": "VCSN 6360",
+    "coursedescription": "This course is focused on the clinical pharmacological management of the major problems in veterinary practice. The vast majority of lectures directly apply to companion animals but when necessary, to emphasize a drug group or specific clinical problem, there are also several large animal lectures. This is an extension of core pharmacology and not an expanded version. The lectures will be given by the clinical and basic sciences faculty in their areas of expertise. Emphasis will be on the clinical aspects of drug therapy such as dosage range, duration of therapy, evaluation of therapy, and problems encountered with current drug therapy. Pharmacological therapy in the following areas of medicine and surgery are covered: antibiotics, cardiovascular, neurology, respiratory, urinary, gastrointestinal, endocrine, emergency medicine, ophthalmology, chemotherapeutic agents, fluid therapy, anti-inflammatory, pain medications and other topics as needed for the most comprehensive clinical overview. Emphasis is on case-based approaches to drug therapy. The major objectives of this course are: (1) Provide practical information on rational drug therapy before entering the clinics and the real world of veterinary practice. (2) Provide a sound basis for rationally evaluating the presently available drugs and the drugs of the future. The course grade is based on a weekly quiz and/or mid-term/final. 4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6370 Animal Production Systems",
+    "courseid": "VCSN 6370",
+    "coursedescription": "5/30 min/max enrollment Animal agriculture continues to evolve in response to the dynamic tension between providing a plentiful, affordable, safe, nutritious, and culturally appropriate food supply and fostering the responsible use of natural resources entrusted to farmers to produce food including air, water, land, animals and people. Feeding the world will be the next great generational challenge that mankind faces and animal agriculture needs to be part of a solution to a more resilient, sustainable and equitable future. This course will explore the current and future practices in animal agriculture in the context of sustainable or in some cases a regenerative future. A systems-based approach will be applied to understand the role of different livestock species in our food system, learn public concerns, and work to identify solutions that allow for both profitable and socially acceptable farming practices. The goal of this course is for students to become familiar with those issues linking farming with system sustainability, and to learn about mitigation strategies, management options, and new business opportunities. Through lectures, guided discussion, and homework exercises, students will be led to analyze information holistically from a variety of different perspectives. Students will gain knowledge about future expectations of animal agriculture and synthesize solutions to ensure that its role in a more sustainable food future. 2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6380 Introduction to Animal Welfare",
+    "courseid": "VCSN 6380",
+    "coursedescription": "This course will cover the basic principles, history, and application of animal welfare science for multiple species. Over a series of lectures, the complex issue of assessing good versus poor welfare will be addressed. The first few lectures will provide students with the background of this field, as well as key terms which define the assessment methods of animal welfare science. The multifaceted issue of poor versus good welfare will be addressed in a lecture on ethics and sociology. The background lectures will also cover the disparity in the assessment of pain, pleasure, stress, and suffering based on applying physiological versus behavioral measurements. Given the tools provided by the background lectures, the students will then learn about species-specific welfare issues in the subsequent lectures to include swine, poultry, bovine, equine, aquaculture, exotic/zoo animals, lab animals, shelter animals, companion animals and current events. Following each one-hour lecture, the students will engage in an hour of hands-on activities, and debates concerning that weeks topic. Students will also participat e in one wet lab where they will have the opportunity to apply methods of welfare assessment that they have learned in class. 4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6390 Animal Welfare Science",
+    "courseid": "VCSN 6390",
+    "coursedescription": "This course is a foundational course for students enrolling in the Animal Welfare Certificate Program. This course covers the basic principles, history, and application of animal welfare science. Over a series of video modules, online discussions, assignments, and quizzes, this course will teach students to assess the welfare of animals in a variety of settings using science-based methods and reasoning. Students will learn current welfare issues by species. This class will engage in activities that build the skills to find and assess scientific sources of information. Finally, the link between science and ethics will be explored such that students understand various ethical frameworks and how they relate to animal welfare. The objective of the course is to provide students with the background and tools to apply animal welfare science in order to facilitate students' ability to successfully engage in welfare deliberations and welfare science in a variety of fields. 6 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6400 Large Animal Medicine",
+    "courseid": "VCSN 6400",
+    "coursedescription": "Large Animal Medicine is a course that begins to bridge the gap between the theoretical knowledge that students have obtained in the pre-clinical curriculum, and the world of clinical medicine that you will encounter in the large (and small) animal teaching hospitals, as well as for the rest of your career. This course aims to teach students to gather the information from previous lectures and integrate it with new information acquired from the course materials, the internet, scientific literature, and expert opinion. We will use traditional lectures, hands-on laboratories, and case study projects to achieve these goals. Species covered will include horses, cattle, small ruminants, camelids, and swine. This course is P/F, and assessments include successful completion of all labs and case studies, and an in-class, time-limited open book final examination focused on application and analysis of skills and knowledge covered in the course. 5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Large Animal Medicine is a course that begins to bridge the gap between the theoretical knowledge that students have obtained in the pre-clinical curriculum, and the world of clinical medicine that you will encounter in the large (and small) animal teaching hospitals, as well as for the rest of your career."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6401 Advanced Large Animal Medicine",
+    "courseid": "VCSN 6401",
+    "coursedescription": "This elective will build on the basic large animal medicine concepts presented in Basic Large Animal Medicine elective. This course is intended for students with a special interest in large animal internal medicine, with a focus on the diagnosis and management of more advanced medical disorders, including neonatology. The course will have two main arms: 1) an introduction to large animal neonatology, through lectures; and 2) a continuation of topics introduced in basic large animal medicine, with seminar discussions for students to practice their advanced internal medicine cognitive skills and laboratories to develop hands-on skills. The final week, each student will present a case-based presentation regarding a large animal medical condition and discuss the primary literature relevant to that condition. The limited number of students in this elective will allow for in-depth discussions and focused case dialogue with direct supervision. Active participation in lectures, seminars, and labs is expected and in-person attendance is mandatory. The course grade will be dependent on engagement, preparation, and effort in case discussions, reading and reviewing the primary literature, and the final presentation. Seminars will be case-based discussions and linked to the lectures given during that week. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is intended for students with a special interest in large animal internal medicine, with a focus on the diagnosis and management of more advanced medical disorders, including neonatology."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6402 Advanced Large Animal Medicine Lecture Course",
+    "courseid": "VCSN 6402",
+    "coursedescription": "This elective will build on the basic large animal medicine concepts presented in Basic Large Animal Medicine elective. This course is intended for students with a special interest in large animal internal medicine, with a focus on the diagnosis and management of more advanced medical disorders, including neonatology. The course will have two main arms: 1) an introduction to large animal neonatology, through lectures; and 2) a continuation of topics introduced in basic large animal medicine, with seminar discussions for students to practice their advanced internal medicine cognitive skills. The final week, each student will present a case-based presentation regarding a large animal medical condition and discuss the primary literature relevant to that condition. The limited number of students in this elective will allow for in-depth discussions and focused case dialogue with direct supervision. Active participation in lectures and seminars is expected and in-person attendance is mandatory. The course grade will be dependent on engagement, preparation, and effort in case discussions, reading and reviewing the primary literature, and the final presentation. Seminars will be case-based discussions and linked to the lectures given during that week. 2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is intended for students with a special interest in large animal internal medicine, with a focus on the diagnosis and management of more advanced medical disorders, including neonatology."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6420 Dairy Cattle Nutrition",
+    "courseid": "VCSN 6420",
+    "coursedescription": "The complexity of evaluating and balancing rations requires computer models. CPM-Dairy - developed at Cornell University, The University of Pennsylvania and The William H. Miner Agricultural Research Institute - evaluates and formulates rations according to the National Research Council (NRC) for Dairy Cattle and The Cornell Net Carbohydrate and Protein System (CNCPS). CPM-Dairy will be used to describe nutrient requirements, utilization of nutrients for maintenance and milk production considering environmental effects of imbalances of carbohydrate and protein fractions in the rumen will be demonstrated. The dynamics of ruminal fermentation and end products including microbial protein will be illustrated in terms of how they affect energy and protein supply to the cow. \"Hands on Computer Sessions\" will lead participants through the ration formulation process using farm examples. 4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6430 Large Animal Reproduction",
+    "courseid": "VCSN 6430",
+    "coursedescription": "This course covers the reproductive management of cattle, horses, swine and small ruminants. Emphasis is placed on the herd or flock as a unit rather than on the individual animal. Reproductive pathology of males and females is reviewed. Clinical use of artificial reproductive techniques is introduced. There are 20 hours of lecture and 12 three hour laboratories. The laboratories include hands-on practical experience for students in evaluating the male and the female reproductive status: OB 1 - obstetrics, OB 2-fetotomy, BULL - bull breeding soundness examination, STALLION- stallion breeding soundness examination, MARE 1 - palpation of the genital tract per rectum of mares, MARE 2- mare breeding soundness examination, SHEEP-ultrasound examination of ewes for pregnancy and ram breeding soundness examination, SWINE-heat detection, artificial insemination of sows and boar breeding soundness examination, COW 1 - physical exam of the bovine genital tract, COW 2-estrus cycle of cow, COW 3- abnormalities of genital tract, COW 4-bovine pregnancy. All COW labs emphasize palpation of the genital tract and students travel to local dairies for palpation of cows in COW labs 2-4. Grades are based on laboratory formative assessments and two summative assessments. This course is a prerequisite for the senior clinical rotations-Large Animal Clinical Reproduction VCSN7745, VCSN7145 and Food Animal Reproduction VCSN7725 and VCSN7125. 5 Credit Hours",
+    "course-prerequsities": [
+      "VCSN7745",
+      "VCSN7145",
+      "VCSN7725",
+      "VCSN7125"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6440 Large Animal Reproduction - NBC",
+    "courseid": "VCSN 6440",
+    "coursedescription": "The course covers in-depth reproductive management of cattle, horses, swine, sheep and small ruminants. Emphasis is placed on the herd or flock as a unit rather than on the individual animal. Laboratories include demonstrations by clinicians and hands-on practical experience for students in evaluating the male and the female reproductive status of dogs and large domestic animals. Therapeutic information will be covered in problem-based cases that will be solved and formally presented by small student groups. Grades will be based on the therapeutic presentations, laboratory participation, mid-term exam and a comprehensive final examination. In addition to the laboratories listed in VCSN643 are the following eight laboratories: OB2- fetomy, STALL - stallion breeding soundness examination SWINE - boar semen evaluation, heat detection and AI of sows, MARE2 - mare breeding soundness examination, palpation, MARE3 - using breeding soundness examination to solve infertility case, palpation, COW2 - bovine estrous cycle, palpation, COW3 - pregnancy diagnosis, palpation, COW4 - therapeutics, palpation. 4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6450 Introduction to Large Animal Surgery & Anesthesia",
+    "courseid": "VCSN 6450",
+    "coursedescription": "The goal of this course is to strengthen the student’s confidence and application of basic surgical and anesthetic principles, first through lectures and conferences and then lab and live animal conditions. Subjects covered include perioperative patient assessment, wound closure, castrations, cast application, surgical biopsies, basic equine and small ruminant anesthesia, as well as cardiovascular and respiratory management under general anesthesia. The course will include performing and management (pre and postoperative) of a castration on a pony. The course grade is determined from performance in the laboratories, quality of patient care, participation in conferences, and one final exam. Ponies that fulfill all University Laboratory Animal Resources (ULAR) guidelines may be purchased at the end of the course. 4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6451 Advanced Large Animal Surgery & Anesthesia",
+    "courseid": "VCSN 6451",
+    "coursedescription": "Minimum Enrollment: 4/Maximum Enrollment: 10 No drop/add. Priority given to equine/mixed/large animal majors This elective will build from the basic surgery and anesthesia principles presented in the Basic Large Animal Surgery & Anesthesia elective. The Advanced elective will be divided into a 4-week equine-focused block (orthopedic, soft tissue, respiratory, ophthalmology, dental), and a 2-week food animal-focused block. The Advanced Large Animal Surgery elective is a laboratory-heavy course, with lectures focused on surgical anatomy (including pathology), principles, and techniques, as well as topics related to anesthesia, followed by direct laboratory application of these principles. Examples of laboratories include internal fixation, oral examination and dental procedures, sinusotomy and upper respiratory laser, arthroscopy, enucleation and tarsorrhaphy, advanced equine and ruminant inhalant anesthesia, equine orthopedic and ruminant post-mortem anatomy, laceration and regional anesthesia, farrier, and bandaging and coaptation. Students will have the opportunity to perform an exploratory abdominal surgery on a ruminant. The limited number of students in this elective will allow for in-depth discussions and focused hands-on learning with direct supervision. Active participation in lectures, discussions, and laboratories is expected, and in-person attendance is mandatory. The course grade will be dependent on engagement, preparation, and effort in laboratories, reading and reviewing primary literature, and participation in case-based discussions. Prerequisite: VCSN 6450 5 Credit Hours",
+    "course-prerequsities": [
+      "VCSN 6450"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6480 Introduction to Equine Sports Medicine",
+    "courseid": "VCSN 6480",
+    "coursedescription": "This course serves as an introduction to equine sports medicine, addressing multiple body systems that can affect equine athletic performance. The course will include seminars with hands-on small group learning covering practical techniques and skills for those entering clinical practice. This course is directed at students interested in sports medicine and orthopedics of many species and would be of high interest to those entering equine practice or who plan to pursue an equine internship. 5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is directed at students interested in sports medicine and orthopedics of many species and would be of high interest to those entering equine practice or who plan to pursue an equine internship."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6481 Advanced Equine Sports Medicine",
+    "courseid": "VCSN 6481",
+    "coursedescription": "Minimum Enrollment: 4/Maximum Enrollment: 20 Prerequisites VCSN 6480 Equine Sports Medicine This advanced course in equine sports medicine builds upon materials covered in VCSN 6480 Equine Sports Medicine. This course is designed to expose students to additional and advanced information about Equine Sports Medicine. This course will cover more and detailed information on the various body systems that can affect equine athletic performance. Lectures and seminars will be provided including hands-on small group learning of sports medicine clinical and diagnostic skills. This course is directed at students interested in sports medicine and orthopedics (both equine and small animal) and would be of high interest to those entering equine practice or who plan to pursue an equine internship. 2 Credit Hours",
+    "course-prerequsities": [
+      "VCSN 6480"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is directed at students interested in sports medicine and orthopedics (both equine and small animal) and would be of high interest to those entering equine practice or who plan to pursue an equine internship."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6490 Large Animal Diagnostic Imaging",
+    "courseid": "VCSN 6490",
+    "coursedescription": "The objectives of this course are to: (1) Review comparative radiographic anatomy of the distal and proximal limbs, axial skeleton, abdomen, and thorax in large animals species (2) reiterate the basis of image formation for radiographs and ultrasound, particularly as they apply to field imaging for large animal species (3) review common radiographic manifestations (pathology) of general disease categories (e.g. osteoarthrosis, infection, fracture) in various body part regions (4) Provide radiation safety information for radiographic study, fluoroscopy, NM, PET (5) Provide brief introduction to advanced imaging modalities (CT/MR/NM/PET) and highlight when to refer for said modalities The course consists of a series of lectures, a distal limb radiography lab, and a metacarpal ultrasound lab. While the focus will be on equine radiology, the use of these modalities in other large animal patients will be discussed throughout. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6491 Advanced Large Animal Diagnostic Imaging",
+    "courseid": "VCSN 6491",
+    "coursedescription": "The objectives of this course are to: (1) Review the advanced imaging modalities available for use in equine patients (CT, MRI, nuclear scintigraphy, PET) and their underlying principles (2) Recognize which modality is most appropriate for the diagnosis of commonly seen equine disease/injury (3) Learn how to apply information gained from advanced imaging modalities into general understanding of equine anatomy and pathophysiology. The first part of the course will provide an overview of the underlying principles behind these advanced imaging modalities and discuss the technical limitations and available options for utilizing these modalities in equine patients. Subsequent lectures will focus upon common equine pathologies in which advanced imaging may have diagnostic and/or prognostic utility and case selection for each modality. Case-based examples will be used to facilitate this discussion. Further to this, students will learn how to extrapolate from the cross sectional and/or functional information gleaned from advanced imaging and thereby enhance their general understanding of equine pathology. The final part of the course will discuss current research into the use of these modalities in horses and possible future directions. While the focus will be on equine radiology, the use of these modalities in other large animal patients will be discussed throughout. Seminars will be case-based discussions and linked to the lectures given during that week. Prerequisite: VCSN 6490 3 Credit Hours",
+    "course-prerequsities": [
+      "VCSN 6490"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6500 Applied Animal Welfare and Behavior",
+    "courseid": "VCSN 6500",
+    "coursedescription": "This course aims to provide students with practical skills helpful in the study of animal welfare and in the future offer a bridge to our proposed master's program. Students will be exposed to critical reading of the scientific literature, development and testing of hypothesis as well as examining experimental paradigms used commonly to probe animal welfare and behavior. The goal of the course is for each student to conceive, develop, write, and present a research proposal on a question of interest in animal welfare that could provide the foundation for a future capstone project. Student assignments will include selected readings, synchronous and asynchronous online discussion of relevant course materials, and an oral presentation and written description of their research proposal. 6 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The goal of the course is for each student to conceive, develop, write, and present a research proposal on a question of interest in animal welfare that could provide the foundation for a future capstone project."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6520 Regulations and Animal Welfare",
+    "courseid": "VCSN 6520",
+    "coursedescription": "This course will focus on regulations in the United States that have an impact on animal welfare. It will also look at oversight of research, clinical trials and informed consent in veterinary medicine. Over a series of video modules, online discussions, assignments and quizzes, this course will teach students the history and tenets of the current regulatory framework. Each week a synchronous session will explore the implications of regulations on animal welfare. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It will also look at oversight of research, clinical trials and informed consent in veterinary medicine."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6530 Capstone in Animal Welfare and Behavior",
+    "courseid": "VCSN 6530",
+    "coursedescription": "This online course follows directly from the MSc Proseminar course (VPTH 637) where students developed their research questions, hypotheses, methods and piloted their approach to an investigation that could either be the product of original literature analysis and synthesis of new ideas or the result of investigative work that involves data collection and analysis*. Through structured meetings with mentors, peers and other AWB faculty, this semester long (6 credit) capstone course will provide Penn Vet MSc students with the guidance required to gather and interpret their data and communicate their results in written and oral form. Students will provide weekly updates on their research progress and will discuss and troubleshoot their projects with their peers and advisors in weekly synchronous sessions. Students will generate a formal protocol for their research approach, maintain online records of raw data, give a public oral presentation of their results and generate a paper describing their results in a format appropriate for publication. Fall or Spring 6 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6540 Animal Welfare in the Shelter and Community",
+    "courseid": "VCSN 6540",
+    "coursedescription": "Millions of cats and dogs enter shelters in the United States each year, where they can face increased stress, reduced quality of life, and, in some cases, an elevated risk of euthanasia. Developing a complex understanding of shelter management/structure and the environmental, behavioral, and physical factors that impact animal welfare are critical to developing constructive, evidence-based, and humane decisions and programs for both shelters and the community. Particular emphasis will be placed on behavioral problems and assessments as behavior is a leading risk factor for the relinquishment of dogs and cats and can drastically impact animal welfare. Shelters and welfare organizations are also striving to improve animal welfare in the community through public health type programming including addressing concepts like access to care and harm reduction. In this course, students will learn about key factors that impact animal welfare in the shelter and community and understand the utility of welfare assessments and scientifically informed policy. Students will discuss the multi-faceted role of animal shelters in the community in the context of One Welfare. They will also critically evaluate programs and policies designed to improve animal welfare using current scientific literature. In their final project, students will utilize this knowledge to recommend a protocol/policy to implement in a specific shelter or community setting. They will create a scientific policy paper targeted at the academic/scientific audience and then translate that information and present it to a lay audience via recorded PowerPoint. Prerequisite: VCSP 6330 AND VCSN 6390 AND VCSP 6390 AND VCSN 6500 6 Credit Hours",
+    "course-prerequsities": [
+      "VCSP 6330",
+      "VCSN 6390",
+      "VCSP 6390",
+      "VCSN 6500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6550 Large Animal Ophthalmology",
+    "courseid": "VCSN 6550",
+    "coursedescription": "This course is designed to provide a solid base of knowledge to enable a student to be an active participant in the diagnostic and treatment plans for the common ocular disease seen in large animal medicine. It is intended for both students with a special interest in ophthalmology and any student that expects to see ophthalmology cases as a practitioner. Lectures will discuss the general ophthalmology examination, adnexa, ulcerative and nonulcerative corneal disease, equine recurrent uveitis, food animal ophthalmology, and case studies. The final week each student will present on an ophthalmology topic of their choice. Hands-on laboratories will be performed to help gain confidence at performing an ophthalmology examination, adnexal procedures and enucleations, and gross and microscopic ocular pathology. 2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is intended for both students with a special interest in ophthalmology and any student that expects to see ophthalmology cases as a practitioner."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6560 Equine Emergency and Critical Care",
+    "courseid": "VCSN 6560",
+    "coursedescription": "Minimum Enrollment: 3 students/Maximum Enrollment: 8 students, preference given to 4th year students This course is comprised of advanced lectures, discussions, and laboratories on equine emergency and critical care. The course will focus on pathophysiology of shock and critical cases, with clinical case material to illustrate principles and generate discussion of both emergency cases and critical care cases. Laboratory sessions will be all hands-on sessions to practice commonly performed procedures in emergency settings as well as more advanced procedures associated with emergency surgery and critical care. Examples of laboratory sessions include abdominal palpation per rectum, abdominocentesis, ultrasonography of the critical patient, exploratory celiotomy with resection and anastomoses, advanced intravenous catheterization, thoracic and abdominal drain placement, ECG placement, CVP monitoring, and external coaptation. A high teacher to student ratio in lecture and laboratory sessions will allow in depth discussion and participation of all students in a case-based problem-based approach to critical care. The grade will be based on a final examination in the form of a clinical problem similar to all the other clinical case problems presented throughout the course and discussed in a group setting. Active participation in discussion and in-person attendance is mandatory. 4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6561 Equine Emergency and Critcal Care Lecture Course",
+    "courseid": "VCSN 6561",
+    "coursedescription": "This course is the lecture portion of VCSN6560, comprising advanced lectures and case discussions on equine emergency and critical care. The course will focus on pathophysiology of shock and critical cases, with clinical case material to illustrate principles and generate discussion. There will be no laboratory sessions as part of this course, with a reduced number of credits compared to the full course with laboratory sessions. A high teacher to student ratio in lecture sessions will allow in depth discussion and participation of all students in a case-based problem-based approach to critical care. The grade will be based on a final examination in the form of a clinical problem similar to all the other clinical case problems presented throughout the course and discussed in a group setting. Active participation in discussion and in-person attendance is mandatory. 2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6570 One Health & Global Food Security",
+    "courseid": "VCSN 6570",
+    "coursedescription": "How do our food systems feed the world? And can we do so into the future, with societal challenges including climate change, population growth, and global inequality? This course examines food systems from a One Health and Sustainability perspective, bringing in guest speakers to discuss social, environmental, economic, and socio-political considerations of our global food systems. Students will be exposed to social entrepreneurship as a ‘cross-cutting theme,’ providing problem solving frameworks to evaluate trade-offs and design theoretical solutions to intersecting challenges in food and agriculture. Specific topics covered in the course include: introductions to animal and crop production systems, environmental issues in agriculture (biodiversity life, conservation and wildlife, nutrient management, food loss and food waste), social issues in agriculture (indigenous food and agriculture, environmental justice, rural community health, human health through emerging and zoonotic diseases and the role of animal foods in human nutrition, economic issues (economic consolidation, global food trade), and socio-political issues (communicating science to the public, conflict and food insecurity, global food policy and trade). Interdisciplinary teams will apply social entrepreneurship practices to understand the problems and trade-offs in-context by working on a semester long-case study project. The course is open to veterinary students, undergraduate and graduate students, and will involve guest lecturers, student participation, information synthesis, teamwork, and research. Spring 4 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6580 Evolution of Animal Welfare",
+    "courseid": "VCSN 6580",
+    "coursedescription": "This course addresses how changing societal expectations about animal use impact animal welfare expectations. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6590 Contemporary Issues in Animal Welfare",
+    "courseid": "VCSN 6590",
+    "coursedescription": "This course covers contemporary animal welfare issues and some of their ethical implications 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6600 Animal Welfare Assessment",
+    "courseid": "VCSN 6600",
+    "coursedescription": "This course is intended to cover the animal welfare assessment requirements as outlined in the ACAW guidelines for board certification but also allows any students pursuing the master's program to improve their welfare assessment abilities. Students must participate in assessment of Companion animals, Poultry production, Hooved stock production, Equids, Laboratory animals and Zoo animals. They must also choose at least 2 to assess from the following: Aquatic animals, aquaculture/fisheries, Wildlife/exotic animals, Animals in exhibitions/entertainment, Animals in education, and Working/assistant animals. Students will work on 3 assessments per week for a total of 9 assessments. The final week of the course will be dedicated to working on case studies from the student's own experience. This will include identification of a situation where welfare would need to be assessed, determination of how to assess the welfare of the animal(s) and a written report of the assessment, including recommendations for steps that could be instituted so that the welfare could be improved. Each week a video and reading assignments will familiarize students with assessment techniques and tools. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6610 Swine Clinical Competencies",
+    "courseid": "VCSN 6610",
+    "coursedescription": "This course is an introductory course for students who want to learn more about swine production and medicine. The objective of the course is for students to practice the core clinical competencies in swine necessary for a day one veterinarian. As students repeat the course, they will have the opportunity to partake in more advanced competencies. Each student will complete 4 laboratory shifts which are 7 hours long and available during the day, nights and weekends according to students’ schedules. During the shifts at the facility, students will be required to monitor the farrowing rooms for sows in labor and attend farrowings as needed. They will assist with dystocias as well as routine piglet care such as castration, processing, weaning, and vaccination. Students may also participate in other husbandry tasks such as feeding, vaccinating sows, breeding sows, ultrasounding sows for pregnancy, and collecting boars. Students will be given a list of core competencies broken out into levels 1-4 in the areas of pig handling, swine husbandry, production records, sample collection, clinical reasoning, treatment and prevention, biosecurity, communication, and regulatory. As they repeat the course, they will move to a different and more advanced competency level. The first time they take the course students will attend a 2-hour orientation to the facility during their first shift and complete a 1 hour online orientation. After the first credit they will have the opportunity to take 2 online modules (2 hours each) including a short research paper on a swine topic of their choosing. Competencies will be incorporated into online modules as well as in person tasks completed during the lab hours. Students will be graded on their participation in labs, completion of the online materials and success in achieving the listed competencies. 1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6620 Applied Small Animal Behavior: Dog and Cat",
+    "courseid": "VCSN 6620",
+    "coursedescription": "Behavior problems are the most frequent reasons for surrender and euthanasia of pets. In this course, we will discuss the normal behavior and the most common behavior problems of dogs and cats with an emphasis on management including safety recommendations, environmental modification, and behavior modification. Expected outcomes, welfare and legal implications (for example, in case of dog aggression) will be discussed. Attention will also be paid to the thought process used in working up and/or preventing behavioral disorders. Prerequisite: VCSP 6330 AND VCSN 6390 AND VCSP 6390 AND VCSN 6500 6 Credit Hours",
+    "course-prerequsities": [
+      "VCSP 6330",
+      "VCSN 6390",
+      "VCSP 6390",
+      "VCSN 6500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6630 Professional Portfolio Development",
+    "courseid": "VCSN 6630",
+    "coursedescription": "This course will be the forum for students to organize portfolios and for students to meet and give peer feedback. The graduating cohort will be responsible for organizing peer review and the presentation of the portfolios. Any professional track student may participate in the ongoing Canvas community for the professional track development course and will be encouraged to do so. The student cohort that is graduating will enroll in the official course and organize weekly synchronous meetings for working on portfolio development and getting feedback. They will also be responsible for organizing presentations for each student to present their portfolio to the larger community. Two faculty advisors will be available as needed to facilitate. Prerequisite: VCSP 6330 AND VCSP 6390 AND VCSN 6390 AND VCSN 6500 6 Credit Hours",
+    "course-prerequsities": [
+      "VCSP 6330",
+      "VCSP 6390",
+      "VCSN 6390",
+      "VCSN 6500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 6640 Mathematical Modeling of Biological Systems: Epidemiology, Pharmacology, and Clinical Application",
+    "courseid": "VCSN 6640",
+    "coursedescription": "Mathematical modeling is creating a mathematical representation of biological systems to gain a more quantitative insight into them. This course aims to offer a basic introduction to mathematical modeling to students interested in building an understanding of complex biological systems, the development of new treatments, and the prediction and simulation of the spread of infectious diseases through populations of animals to evaluate the effectiveness of intervention strategies. This course will be offered as a series of 5 sessions that will be 2-hour long (1 hour didactic and 1 hour laboratory work). Topics such as linear modeling and non-linear, pharmacokinetics (PK), epidemiological SIR (susceptible-infected-removed), and clinical use of models will be covered. A basic understanding of ordinary differential equations (ODEs) is a prerequisite for the course. Mathematical formulas will be minimally used. We will use WinSAAM (free download from winsaam.org) as the mathematical modeling environment for all the examples. 1 Credit Hour",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course aims to offer a basic introduction to mathematical modeling to students interested in building an understanding of complex biological systems, the development of new treatments, and the prediction and simulation of the spread of infectious diseases through populations of animals to evaluate the effectiveness of intervention strategies."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 6650 Equine Assisted Reproductive Technology (ART)",
+    "courseid": "VCSN 6650",
+    "coursedescription": "Min Enrollment:4/Max Enrollment: 15 This course is designed to provide the student interested in equine assisted reproduction additional information on oocyte maturation, fertilization and embryo development, which form the basis for techniques in assisted reproduction. We will go on to discuss the different assisted reproductive technologies available for research and clinical management in the horse, including oocyte recovery, oocyte maturation, intracytoplasmic sperm injection, in vitro fertilization, cloning, embryo biopsy, and embryo vitrification, warming and transfer. The final week each student will present and discuss a research paper in the field. Hands-on laboratories will be performed to help students gain experience in oocyte, semen and embryo handling. Prerequisite: VCSN 6430 2 Credit Hours",
+    "course-prerequsities": [
+      "VCSN 6430"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Min Enrollment:4/Max Enrollment: 15 This course is designed to provide the student interested in equine assisted reproduction additional information on oocyte maturation, fertilization and embryo development, which form the basis for techniques in assisted reproduction."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 7005 Large Animal Medicine -Foundation - NBC",
+    "courseid": "VCSN 7005",
+    "coursedescription": "Students in this rotation will assist clinicians in history taking, examinations and the medical management of large animal patients presented to the hospital at New Bolton Center. Students will participate in daily ward and Medicine teaching rounds, Radiology rounds and Pathology rounds. All students, whether in core or elective, will be expected to participate in night and weekend duty on a rotating basis. All students will prepare and present one clinical case discussion for Grand Rounds. Time commitment: at least 8 hours per day plus night and weekend duty. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7015 Large Animal Emergency/Critical Care - Foundation Rotation - NBC",
+    "courseid": "VCSN 7015",
+    "coursedescription": "This rotation is designed to teach students basic principles of large animal emergency medicine and surgery as well as the daily management of critically ill equine patients. Students will be involved in a variety of large animal emergency admissions including diagnostic procedures and surgery as well as post-operative or post-admission case management of horses with gastrointestinal disease. Students will attend regular 8 am morning rounds (see course description for Large Animal Surgery, VCSN 800), followed by morning case-based discussion rounds. The day will be spent either on emergency admissions or procedures and management of in-house patients. Daily afternoon rounds will be topic-based, and may be selected from the following topics: Laceration Repair, Emergency Stabilization of Fractures, Acute Abdomen (colic), Diarrhea, Fluid Therapy, Respiratory Distress, Acute Blood Loss/Hemorrhagic Shock, Food Animal Emergencies, Blood Gas Interpretation, Acute Neurologic Patient, Monitoring the Critically Ill Patient, Reproductive Emergencies, Management of Rectal Tears, Critical Care Journal Club. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7115 Food Animal Imaging and Diagnostic Pathology",
+    "courseid": "VCSN 7115",
+    "coursedescription": "General Concept: The course is designed for those students anticipating entering a food animal, large animal, or mixed animal practice. Students will engage in hands-on laboratories directed at gaining proficiency in large animal ultrasonography, radiology, and pathology: 1) Ultrasonography in the Field: students will gain experience in the use of diagnostic ultrasonography in the evaluation of various systems including but not limited to the following: calf lungs, calf umbilici, small ruminant abdomens, small ruminant thorax, adult cow thorax and abdomen, etc., 2) Radiology in the Field: students will gain experience in the use of diagnostic radiology in the evaluation of various systems including but not limited to the following: small ruminant limbs, small ruminant skull/dental rads, small ruminant thorax, etc., and 3) Pathology in the Field: students will know how to 1) perform a postmortem exam in a farm animal and how to submit samples for diagnostic testing; 2) describe and identify common postmortem lesions in large animals; 3) correlate gross and microscopic findings with signalment and clinical history to formulate appropriate differential diagnoses; 4) recognize reportable diseases encountered in large animal populations and common zoonoses. There will be a small number of lectures and group discussions to solidify important material and concepts. The in-house laboratories will be conducted at the New Bolton Center Pathology Floor, Marshak Dairy, local privately owned dairies, and the CAHP computer lab. There will be several field trips to outside farms, so transportation is required. The rotation is 5.5 days in length, Monday through Friday with a half day on Saturday. There is no on-call, weekend, or night duty nor is there any in-house patient care. Students will be evaluated based upon enthusiasm, effort, ambition, and advancement in diagnostic imaging and pathology knowledge as evaluated through imaging modalities, diagnostic autopsy technique, directed group discussions, and clinical competency outcomes assessments. Grades will be determined by in-class and take-home online (Canvas-based) assignments, and attendance/participation in required laboratories and small group conferences. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will engage in hands-on laboratories directed at gaining proficiency in large animal ultrasonography, radiology, and pathology: 1) Ultrasonography in the Field: students will gain experience in the use of diagnostic ultrasonography in the evaluation of various systems including but not limited to the following: calf lungs, calf umbilici, small ruminant abdomens, small ruminant thorax, adult cow thorax and abdomen, etc., 2) Radiology in the Field: students will gain experience in the use of diagnostic radiology in the evaluation of various systems including but not limited to the following: small ruminant limbs, small ruminant skull/dental rads, small ruminant thorax, etc., and 3) Pathology in the Field: students will know how to 1) perform a postmortem exam in a farm animal and how to submit samples for diagnostic testing; 2) describe and identify common postmortem lesions in large animals; 3) correlate gross and microscopic findings with signalment and clinical history to formulate appropriate differential diagnoses; 4) recognize reportable diseases encountered in large animal populations and common zoonoses."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 7125 Food Animal Reproduction - NBC",
+    "courseid": "VCSN 7125",
+    "coursedescription": "This course is designed for students pursuing careers in large animal or mixed animal veterinary practices. It offers an immersive, hands-on learning experience focused on large animal reproductive ultrasonography and other common reproductive procedures. Through in-house laboratories, field trips to outside farms, and a combination of lectures and group discussions, students will gain both practical skills and a solid understanding of key reproductive concepts. The course takes place at various facilities, including the Hofmann Center, Marshak Dairy, and the Swine Unit, with some transportation provided for off-campus field trips. The rotation runs Monday through Friday, with a half-day on Saturday, offering an intensive but manageable schedule with no on-call or weekend duties. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7135 Field Service - NBC",
+    "courseid": "VCSN 7135",
+    "coursedescription": "Students in this service will assist staff doctors in history taking, physical examinations, and the medical management of patients seen on the Field Service activities of the School's large animal practice. The student is required to attend the appropriate 8:00 a.m. daily rounds at New Bolton Center. The remainder of the day will be spent on field calls. The student will be required to be on night and weekend duty. Night duty will be divided equally among field service students in the service. Students on emergency duty are required to be within 15 minutes from New Bolton Center while on duty. Case presentations will be given by students on the second and third Wednesday of the service. Boots and coveralls are essential for this service. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7145 Food Animal Clinical Imaging and Pathology",
+    "courseid": "VCSN 7145",
+    "coursedescription": "General Concept: The course is designed for those students anticipating entering a food animal, large animal, or mixed animal practice. Students will engage in hands-on laboratories directed at gaining proficiency in large animal ultrasonography, radiology, and pathology: 1) Ultrasonography in the Field: students will gain experience in the use of diagnostic ultrasonography in the evaluation of various systems including but not limited to the following: calf lungs, calf umbilici, small ruminant abdomens, small ruminant thorax, adult cow thorax and abdomen, etc., 2) Radiology in the Field: students will gain experience in the use of diagnostic radiology in the evaluation of various systems including but not limited to the following: small ruminant limbs, small ruminant skull/dental rads, small ruminant thorax, etc., and 3) Pathology in the Field: students will know how to 1) perform a postmortem exam in a farm animal and how to submit samples for diagnostic testing; 2) describe and identify common postmortem lesions in large animals; 3) correlate gross and microscopic findings with signalment and clinical history to formulate appropriate differential diagnoses; 4) recognize reportable diseases encountered in large animal populations and common zoonoses. There will be a small number of lectures and group discussions to solidify important material and concepts. The in-house laboratories will be conducted at the New Bolton Center Pathology Floor, Marshak Dairy, local privately owned dairies, and the CAHP computer lab. There will be several field trips to outside farms, so transportation is required. The rotation is 5.5 days in length, Monday through Friday with a half day on Saturday. There is no on-call, weekend, or night duty nor is there any in-house patient care. Students will be evaluated based upon enthusiasm, effort, ambition, and advancement in diagnostic imaging and pathology knowledge as evaluated through imaging modalities, diagnostic autopsy technique, directed group discussions, and clinical competency outcomes assessments. Grades will be determined by in-class and take-home online (Canvas-based) assignments, and attendance/participation in required laboratories and small group conferences. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will engage in hands-on laboratories directed at gaining proficiency in large animal ultrasonography, radiology, and pathology: 1) Ultrasonography in the Field: students will gain experience in the use of diagnostic ultrasonography in the evaluation of various systems including but not limited to the following: calf lungs, calf umbilici, small ruminant abdomens, small ruminant thorax, adult cow thorax and abdomen, etc., 2) Radiology in the Field: students will gain experience in the use of diagnostic radiology in the evaluation of various systems including but not limited to the following: small ruminant limbs, small ruminant skull/dental rads, small ruminant thorax, etc., and 3) Pathology in the Field: students will know how to 1) perform a postmortem exam in a farm animal and how to submit samples for diagnostic testing; 2) describe and identify common postmortem lesions in large animals; 3) correlate gross and microscopic findings with signalment and clinical history to formulate appropriate differential diagnoses; 4) recognize reportable diseases encountered in large animal populations and common zoonoses."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 7155 Diagnostic Ultrasound in Large Animals - NBC",
+    "courseid": "VCSN 7155",
+    "coursedescription": "This rotation will provide students with experience in the diagnosis and treatment of large animal cardiac diseases and the use of M-mode, 2-dimensional real-time, pulsed wave, color flow and continuous wave Doppler echocardiography and exercising electrocardiography. Students will also gain experience in the use of diagnostic ultrasonography in the evaluation of tendon and ligament injuries, diseases of the thorax and abdomen, and the evaluation of masses, swellings, neonates and high-risk pregnancies. Students will also gain experience in patient preparation; obtaining a quality ultrasonographic or echocardiographic image and cardiac Doppler studies; and in interpretation of these images and studies with staff and faculty supervision. Students will be responsible for patient care of animals presented to the Heart Station/Ultrasound Service during the rotation. Prerequisite: Core Medicine and Surgery Also Offered As: VCSN 7755 8 Credit Hours",
+    "course-prerequsities": [
+      "VCSN 7755"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7165 Ultrasonography in Large Animals - NBC",
+    "courseid": "VCSN 7165",
+    "coursedescription": "For full course description see VCSN 7150. Prerequisite: Core Medicine and Surgery Also Offered As: VCSN 7765 2 Credit Hours",
+    "course-prerequsities": [
+      "VCSN 7765"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7175 Principles of Herd Health",
+    "courseid": "VCSN 7175",
+    "coursedescription": "This course provides foundational principles and skills relevant to health and management across multiple production species (fish, honeybees, poultry, [large & small] ruminants, swine). Course content focuses on assessment and mitigation of risk factors that contribute to incidence of disease and production inefficiencies; this includes biosecurity, economics, welfare, production metrics, diagnostics, therapeutics, and preventive medicine principles. A combination of didactic and practical on-farm training will be used to deliver core knowledge, experience, and skills necessary for performing herd-based veterinary practice. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7705 Large Animal Medicine -Foundation - NBC",
+    "courseid": "VCSN 7705",
+    "coursedescription": "Students in this rotation will assist clinicians in history taking, examinations and the medical management of large animal patients presented to the hospital at New Bolton Center. Students will participate in daily ward and Medicine teaching rounds, Radiology rounds and Pathology rounds. All students, whether in core or elective, will be expected to participate in night and weekend duty on a rotating basis. All students will prepare and present one clinical case discussion for Grand Rounds. Time commitment: at least 8 hours per day plus night and weekend duty. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7715 Food Animal Imaging and Diagnostic Pathology",
+    "courseid": "VCSN 7715",
+    "coursedescription": "General Concept: The course is designed for those students anticipating entering a food animal, large animal, or mixed animal practice. Students will engage in hands-on laboratories directed at gaining proficiency in large animal ultrasonography, radiology, and pathology: 1) Ultrasonography in the Field: students will gain experience in the use of diagnostic ultrasonography in the evaluation of various systems including but not limited to the following: calf lungs, calf umbilici, small ruminant abdomens, small ruminant thorax, adult cow thorax and abdomen, etc., 2) Radiology in the Field: students will gain experience in the use of diagnostic radiology in the evaluation of various systems including but not limited to the following: small ruminant limbs, small ruminant skull/dental rads, small ruminant thorax, etc., and 3) Pathology in the Field: students will know how to 1) perform a postmortem exam in a farm animal and how to submit samples for diagnostic testing; 2) describe and identify common postmortem lesions in large animals; 3) correlate gross and microscopic findings with signalment and clinical history to formulate appropriate differential diagnoses; 4) recognize reportable diseases encountered in large animal populations and common zoonoses. There will be a small number of lectures and group discussions to solidify important material and concepts. The in-house laboratories will be conducted at the New Bolton Center Pathology Floor, Marshak Dairy, local privately owned dairies, and the CAHP computer lab. There will be several field trips to outside farms, so transportation is required. The rotation is 5.5 days in length, Monday through Friday with a half day on Saturday. There is no on-call, weekend, or night duty nor is there any in-house patient care. Students will be evaluated based upon enthusiasm, effort, ambition, and advancement in diagnostic imaging and pathology knowledge as evaluated through imaging modalities, diagnostic autopsy technique, directed group discussions, and clinical competency outcomes assessments. Grades will be determined by in-class and take-home online (Canvas-based) assignments, and attendance/participation in required laboratories and small group conferences. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students will engage in hands-on laboratories directed at gaining proficiency in large animal ultrasonography, radiology, and pathology: 1) Ultrasonography in the Field: students will gain experience in the use of diagnostic ultrasonography in the evaluation of various systems including but not limited to the following: calf lungs, calf umbilici, small ruminant abdomens, small ruminant thorax, adult cow thorax and abdomen, etc., 2) Radiology in the Field: students will gain experience in the use of diagnostic radiology in the evaluation of various systems including but not limited to the following: small ruminant limbs, small ruminant skull/dental rads, small ruminant thorax, etc., and 3) Pathology in the Field: students will know how to 1) perform a postmortem exam in a farm animal and how to submit samples for diagnostic testing; 2) describe and identify common postmortem lesions in large animals; 3) correlate gross and microscopic findings with signalment and clinical history to formulate appropriate differential diagnoses; 4) recognize reportable diseases encountered in large animal populations and common zoonoses."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 7725 Food Animal Reproduction - NBC",
+    "courseid": "VCSN 7725",
+    "coursedescription": "This course is designed for students pursuing careers in large animal or mixed animal veterinary practices. It offers an immersive, hands-on learning experience focused on large animal reproductive ultrasonography and other common reproductive procedures. Through in-house laboratories, field trips to outside farms, and a combination of lectures and group discussions, students will gain both practical skills and a solid understanding of key reproductive concepts. The course takes place at various facilities, including the Hofmann Center, Marshak Dairy, and the Swine Unit, with some transportation provided for off-campus field trips. The rotation runs Monday through Friday, with a half-day on Saturday, offering an intensive but manageable schedule with no on-call or weekend duties. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7735 Field Service - NBC",
+    "courseid": "VCSN 7735",
+    "coursedescription": "Students in this service will assist staff doctors in history taking, physical examinations, and the medical management of patients seen on the Field Service activities of the School's large animal practice. The student is required to attend the appropriate 8:00 a.m. daily rounds at New Bolton Center. The remainder of the day will be spent on field calls. The student will be required to be on night and weekend duty. Night duty will be divided equally among field service students in the service. Students on emergency duty are required to be within 15 minutes from New Bolton Center while on duty. Case presentations will be given by students on the second and third Wednesday of the service. Boots and coveralls are essential for this service. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7745 Large Animal Clinical Reproduction - NBC",
+    "courseid": "VCSN 7745",
+    "coursedescription": "The course is designed for those students anticipating entering large animal or mixed practice. Students will participate in the diagnosis and treatment of clinical reproductive cases in the hospital. Students will be responsible for the daily treatment and examination of all hospitalized cases at the Hofmann Center. Students will also assist in the management of reproductive problems of Widener Hospital patients. Exposure will vary due to fluctuations in case load. Additional \"hands-on\" practice of reproductive procedures will occur by the use of teaching animals. Organized laboratories will allow the student to become comfortable with diagnostic techniques of large animal species. On-call, weekend, and night duty are required. Students will be required to give a 15 minute presentation during the rotation and prepare two case letters/discharge instructions on animals they evaluated during the rotation. If student interest and time permit, students may go on field trips to breeding farms. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "If student interest and time permit, students may go on field trips to breeding farms."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 7755 Diagnostic Ultrasound in Large Animals - NBC",
+    "courseid": "VCSN 7755",
+    "coursedescription": "This rotation will provide students with experience in the diagnosis and treatment of large animal cardiac diseases and the use of M-mode, 2-dimensional real-time, pulsed wave, color flow and continuous wave Doppler echocardiography and exercising electrocardiography. Students will also gain experience in the use of diagnostic ultrasonography in the evaluation of tendon and ligament injuries, diseases of the thorax and abdomen, and the evaluation of masses, swellings, neonates and high-risk pregnancies. Students will also gain experience in patient preparation; obtaining a quality ultrasonographic or echocardiographic image and cardiac Doppler studies; and in interpretation of these images and studies with staff and faculty supervision. Students will be responsible for patient care of animals presented to the Heart Station/Ultrasound Service during the rotation. Prerequisite: Core Medicine and Surgery Also Offered As: VCSN 7155 8 Credit Hours",
+    "course-prerequsities": [
+      "VCSN 7155"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7765 Ultrasonography in Large Animals - NBC",
+    "courseid": "VCSN 7765",
+    "coursedescription": "For full course description see VCSN 7150. Prerequisite: Core Medicine and Surgery Also Offered As: VCSN 7165 2 Credit Hours",
+    "course-prerequsities": [
+      "VCSN 7165"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7775 Large Animal Neonatal Intensive Care Rotation - NBC",
+    "courseid": "VCSN 7775",
+    "coursedescription": "This elective provides students with experience in the management of critically ill large animal neonates and dams with periparturient complications. Daily rounds emphasize the use of monitoring techniques (e.g. capnography, ECG, BP monitor, fetal and neonatal ultrasonography), and various treatment modalities (e.g. parenteral nutrition, positive pressure ventilation, and fluid therapy) required in the management of critically ill neonatal foals and late-term pregnant mares. Students will have the opportunity to master the following manual and theoretical skills: arterial puncture and arterial blood gas analysis, calculation and application of parenteral and enteral nutrition formulations, catheterization techniques for veins and bladder, principles of fluid therapy as applied to patients with septic shock and patients requiring maintenance fluids, radiographic interpretation of neonatal thoracic and musculoskeletal disease, interpretation of fetal and neonatal sonograms, familiarity with different types of respiratory support and resuscitation protocols, and a working knowledge of a wide variety of pharmacologic agents including antibiotics, anticonvulsives, sedatives, analgesics, pressors and inotropic agents. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 7785 Equine Welfare Clinical Elective",
+    "courseid": "VCSN 7785",
+    "coursedescription": "This 2-week clinical elective would be open to all fourth year veterinary students, and would be offered once per year, in rotation 1. The enrollment limit is 6 students, and is limited to students who have taken either of the two welfare courses (Applied Animal Welfare and Behavior, Dr. Parsons; Animal Welfare Science, Dr. Pierdon), and then to equine majors if there are any remaining places. Course goals: To provide a comprehensive and nuanced examination of the issues and concerns regarding equine welfare in the US. 5 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The enrollment limit is 6 students, and is limited to students who have taken either of the two welfare courses (Applied Animal Welfare and Behavior, Dr."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 7805 Ration Evaluation and Formulation - NBC",
+    "courseid": "VCSN 7805",
+    "coursedescription": "This course is intended to provide students with practical experience in evaluating dairy feeding programs and formulation of rations. Students will visit dairy farms, inspect feed storage and delivery systems, obtain representative samples of feedstuffs for analysis, examine production records, and assess animal body condition. Students will then evaluate the nutritional and economic adequacy of the whole feeding program, suggest recommendations for its improvement and prepare producer reports for discussion with faculty prior to implementation. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8005 Large Animal Surgery-Foundation - NBC",
+    "courseid": "VCSN 8005",
+    "coursedescription": "Students rotating through Large Animal Surgery at NBC will participate in all aspects of examination and diagnosis, including lameness evaluation and endoscopy, medical and surgical treatment and daily patient care of large animals. During one week of the two-week rotation, each student will be assigned to treat cattle, other domestic farm animals and horses, and during the other week, horses only. Night, weekend and holiday assignments, including treatments and emergency service, will be made according to the requirements of the overall hospital operation during a given session. Students usually are exposed to various surgical procedures (general soft tissue, abdominal, orthopedic, etc.) during any one rotation. During the rotation, students may gain experience with horses being examined on the High Speed Treadmill or undergoing imaging in the Nuclear Scintigraphy Unit. Students will also participate in a variety of didactic teaching rounds, barn rounds and teaching laboratories as described: Monday, Tuesday, Wednesday, Friday 4-5 pm - Surgery Teaching Rounds. Thursday 3-5 pm - Surgery Teaching Laboratory (Wet labs). Monday 8-9 am Radiology Rounds (case-based discussion led by s urgery faculty). Tuesday 8-9 am - Lameness Rounds (case-based discussion led by Sports Medicine faculty). Wednesday 8-9 am - Radiology Rounds (case-based discussion led by radiology faculty). Thursday 8-9 am - Grand Rounds (Student case presentations). Friday 8-9 am - Medicine Teaching Rounds (case-based discussion with Medicine faculty and house officers). 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8125 Sports Medicine/Imaging - NBC",
+    "courseid": "VCSN 8125",
+    "coursedescription": "Goals of this rotation are to provide the students with the opportunity to obtain diagnostic skills through the use of different modalities and to incorporate these techniques into the decision-making process during the diagnosis and treatment of horses with performance problems. Students in this rotation will take more responsibility for their cases and follow them through the different specialties without being drawn away to the next case in their assigned area. Each student will spend his/her time in the following areas: 1 week - Ultrasound/Cardiology. 1 week - Nuclear Scintigraphy/Radiology/MRI. 1 week - Treadmill/Podology. 1 week - Poor performance clinic (lameness) 10 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8145 Large Animal Radiology - NBC",
+    "courseid": "VCSN 8145",
+    "coursedescription": "In this rotation, students will gain experience in making and interpreting large animal radiographic examinations. They will assist the radiology technicians in taking and processing routine radiographs, attend film reading sessions, daily hospital rounds and review large animal radiographs independently and under supervision. Students will be required to write radiology reports. 8 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8155 Large Animal Anesthesiology Service - NBC",
+    "courseid": "VCSN 8155",
+    "coursedescription": "During the Large Animal Anesthesia Service Rotation, students will gain experience in: (1) anesthetizing equine and other farm animal patients for elective and emergency procedures; (2) alleviating pain in animals; (3) maintaining adequate vital functions during anesthesia and (4) managing fluid, electrolyte and acid-base disturbances in the perioperative period. In addition, the course offers the opportunity to apply the clinical pharmacology of perianesthetic drugs in various farm animal species. Students are requested to attend Anesthesia Service rounds on Mondays and Fridays (8-9:00 am) during their clinical rotation, which will also offer the opportunity to discuss anesthesia cases. Night and weekend emergency duty is mandatory and shared with veterinary technician students. The maximum emergency duty is 4 weekday nights and one 24-hour weekend day. Students are expected to report to the Sports Medicine Conference Room or Anesthesia Office promptly at 8:00 am on the first Monday morning of the 2-week rotation with scrubs, stethoscope and calculator. Students are requested to review the information contained in the class notes of the following courses for appropriate sections prior to entering the rotation: General Pharmacology and Toxicology (VBMS 607), Animal Physiology (VBMS 606), Anesthesia (VSUR 604), and the Equine and Farm Animal Anesthesia Elective (VCSN 635). Students should also be familiar with dosages of commonly used drugs and their clinical pharmacology and technical aspects of the practice of large animal anesthesia. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8165 Food Animal Anesthesiology Service - NBC",
+    "courseid": "VCSN 8165",
+    "coursedescription": "In this rotation, students will gain experience in planning and performing sedation and anesthesia in small ruminants, swine and camelids. Specific clinical objectives during the five-day rotation include physical and chemical restraint, regional and general anesthesia techniques in various food and fiber producing animals, and operation and use of various anesthetic monitoring devices. Emphasis is on techniques and drugs commonly used in the field. Students will formulate plans for sedation and/or short term anesthesia in sheep/goats, pigs and camelids and will then carry them out on teaching animals. Techniques for regional anesthesia for flank surgery in the bovine will be performed at Marshak Dairy. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Specific clinical objectives during the five-day rotation include physical and chemical restraint, regional and general anesthesia techniques in various food and fiber producing animals, and operation and use of various anesthetic monitoring devices."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 8185 Sports Medicine Clinic",
+    "courseid": "VCSN 8185",
+    "coursedescription": "The Sports Medicine Clinic provides exposure to many types of problems facing the equine practitioner, concentrating on lameness and performance evaluations. While part of the course stresses traditional lameness evaluation and clinical diagnoses, high-speed treadmill evaluations and nuclear scintigraphy enable the student to participate in more intricate problems affecting sport horses. The course will provide students with the opportunity to develop techniques of examination and diagnosis, and permit direct contact with clients. Students are expected to perform in all areas and participate to the maximum of their ability. Duties may include care and SOAPs of in patients and may include care over a weekend. There is NO emergency duty. In order to participate students are required to have satisfactorily completed the prerequisite courses. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8705 Large Animal Surgery-Foundation - NBC",
+    "courseid": "VCSN 8705",
+    "coursedescription": "Students rotating through Large Animal Surgery at NBC will participate in all aspects of examination and diagnosis, including lameness evaluation and endoscopy, medical and surgical treatment and daily patient care of large animals. During one week of the two-week rotation, each student will be assigned to treat cattle, other domestic farm animals and horses, and during the other week, horses only. Night, weekend and holiday assignments, including treatments and emergency service, will be made according to the requirements of the overall hospital operation during a given session. Students usually are exposed to various surgical procedures (general soft tissue, abdominal, orthopedic, etc.) during any one rotation. During the rotation, students may gain experience with horses being examined on the High Speed Treadmill or undergoing imaging in the Nuclear Scintigraphy Unit. Students will also participate in a variety of didactic teaching rounds, barn rounds and teaching laboratories as described: Monday, Tuesday, Wednesday, Friday 4-5 pm - Surgery Teaching Rounds. Thursday 3-5 pm - Surgery Teaching Laboratory (Wet labs). Monday 8-9 am Radiology Rounds (case-based discussion led by s urgery faculty). Tuesday 8-9 am - Lameness Rounds (case-based discussion led by Sports Medicine faculty). Wednesday 8-9 am - Radiology Rounds (case-based discussion led by radiology faculty). Thursday 8-9 am - Grand Rounds (Student case presentations). Friday 8-9 am - Medicine Teaching Rounds (case-based discussion with Medicine faculty and house officers). 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8715 Equine Surgery Clinic - NBC",
+    "courseid": "VCSN 8715",
+    "coursedescription": "This elective is specifically designed to provide students interested in equine practice after graduation with additional exposure to a variety of orthopedic and soft tissue surgical problems of horses. Students will actively participate in all aspects of lameness and soft tissue diagnosis, treatment, surgery and patient care. Teaching rounds will involve daily barn rounds, daily didactic presentations and/or wet labs covering surgical topics. Laboratories include internal fixation of fractures, wound repair, arthroscopy, intestinal surgical techniques, laser surgery, head and neck surgery, video analysis of lameness and field anesthesia. Every effort is made to have students in this course perform field castrations with local veterinarians. Students will be expected to participate in after-hours treatments and surgical emergencies of horses; however, students will not be assigned to food animal patients during this rotation. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This elective is specifically designed to provide students interested in equine practice after graduation with additional exposure to a variety of orthopedic and soft tissue surgical problems of horses."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 8725 Sports Medicine/Imaging - NBC",
+    "courseid": "VCSN 8725",
+    "coursedescription": "Goals of this rotation are to provide the students with the opportunity to obtain diagnostic skills through the use of different modalities and to incorporate these techniques into the decision-making process during the diagnosis and treatment of horses with performance problems. Students in this rotation will take more responsibility for their cases and follow them through the different specialties without being drawn away to the next case in their assigned area. Each student will spend his/her time in the following areas: 1 week - Ultrasound/Cardiology. 1 week - Nuclear Scintigraphy/Radiology/MRI. 1 week - Treadmill/Podology. 1 week - Poor performance clinic (lameness) 10 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8735 Large Animal Emergency/Critical Care - Foundation Rotation - NBC",
+    "courseid": "VCSN 8735",
+    "coursedescription": "This rotation is designed to teach students basic principles of large animal emergency medicine and surgery as well as the daily management of critically ill equine patients. Students will be involved in a variety of large animal emergency admissions including diagnostic procedures and surgery as well as post-operative or post-admission case management of horses with gastrointestinal disease. Students will attend regular 8 am morning rounds (see course description for Large Animal Surgery, VCSN 800), followed by morning case-based discussion rounds. The day will be spent either on emergency admissions or procedures and management of in-house patients. Daily afternoon rounds will be topic-based, and may be selected from the following topics: Laceration Repair, Emergency Stabilization of Fractures, Acute Abdomen (colic), Diarrhea, Fluid Therapy, Respiratory Distress, Acute Blood Loss/Hemorrhagic Shock, Food Animal Emergencies, Blood Gas Interpretation, Acute Neurologic Patient, Monitoring the Critically Ill Patient, Reproductive Emergencies, Management of Rectal Tears, Critical Care Journal Club. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8745 Large Animal Radiology - NBC",
+    "courseid": "VCSN 8745",
+    "coursedescription": "In this rotation, students will gain experience in making and interpreting large animal radiographic examinations. They will assist the radiology technicians in taking and processing routine radiographs, attend film reading sessions, daily hospital rounds and review large animal radiographs independently and under supervision. Students will be required to write radiology reports. 8 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8755 Large Animal Anesthesiology Service - NBC",
+    "courseid": "VCSN 8755",
+    "coursedescription": "During the Large Animal Anesthesia Service Rotation, students will gain experience in: (1) anesthetizing equine and other farm animal patients for elective and emergency procedures; (2) alleviating pain in animals; (3) maintaining adequate vital functions during anesthesia and (4) managing fluid, electrolyte and acid-base disturbances in the perioperative period. In addition, the course offers the opportunity to apply the clinical pharmacology of perianesthetic drugs in various farm animal species. Students are requested to attend Anesthesia Service rounds on Mondays and Fridays (8-9:00 am) during their clinical rotation, which will also offer the opportunity to discuss anesthesia cases. Night and weekend emergency duty is mandatory and shared with veterinary technician students. The maximum emergency duty is 4 weekday nights and one 24-hour weekend day. Students are expected to report to the Sports Medicine Conference Room or Anesthesia Office promptly at 8:00 am on the first Monday morning of the 2-week rotation with scrubs, stethoscope and calculator. Students are requested to review the information contained in the class notes of the following courses for appropriate sections prior to entering the rotation: General Pharmacology and Toxicology (VBMS 607), Animal Physiology (VBMS 606), Anesthesia (VSUR 604), and the Equine and Farm Animal Anesthesia Elective (VCSN 635). Students should also be familiar with dosages of commonly used drugs and their clinical pharmacology and technical aspects of the practice of large animal anesthesia. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8765 Food Animal Anesthesiology Service - NBC",
+    "courseid": "VCSN 8765",
+    "coursedescription": "In this rotation, students will gain experience in planning and performing sedation and anesthesia in small ruminants, swine and camelids. Specific clinical objectives during the five-day rotation include physical and chemical restraint, regional and general anesthesia techniques in various food and fiber producing animals, and operation and use of various anesthetic monitoring devices. Emphasis is on techniques and drugs commonly used in the field. Students will formulate plans for sedation and/or short term anesthesia in sheep/goats, pigs and camelids and will then carry them out on teaching animals. Techniques for regional anesthesia for flank surgery in the bovine will be performed at Marshak Dairy. 3 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Specific clinical objectives during the five-day rotation include physical and chemical restraint, regional and general anesthesia techniques in various food and fiber producing animals, and operation and use of various anesthetic monitoring devices."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 8775 Food Animal Medicine and Surgery Clinic - NBC",
+    "courseid": "VCSN 8775",
+    "coursedescription": "This elective rotation is designed to provide additional experience in food animal medicine and surgery to students who are likely to pursue bovine practice following graduation. Students will participate in the diagnosis and treatment of food animal (primarily dairy cattle) medical and surgical diseases. Teaching rounds will involve daily barn rounds, didactic presentations and wet labs covering medical and surgical topics. The emphasis will be on individual animal (as opposed to herd health) problems. Students will be responsible for after-hours treatments and emergencies of food animals only; students will not work with equine patients during this rotation. Each student will have three weeknights and one 24-hour weekend shift during the rotation (based on 8 students enrolled). Note: students that desire further experience in medical or surgical problems of all large animal species should elect either VCSN 7705 or VCSN 8705 . 6 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8785 Sports Medicine Clinic - NBC",
+    "courseid": "VCSN 8785",
+    "coursedescription": "The Sports Medicine Clinic provides exposure to many types of problems facing the equine practitioner, concentrating on lameness and performance evaluations. While part of the course stresses traditional lameness evaluation and clinical diagnoses, high-speed treadmill evaluations and nuclear scintigraphy enable the student to participate in more intricate problems affecting sport horses. The course will provide students with the opportunity to develop techniques of examination and diagnosis, and permit direct contact with clients. Students are expected to perform in all areas and participate to the maximum of their ability. Duties may include care and SOAPs of in patients and may include care over a weekend. There is NO emergency duty. In order to participate students are required to have satisfactorily completed the prerequisite courses. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8795 Equine Podology - NBC",
+    "courseid": "VCSN 8795",
+    "coursedescription": "This course covers the principles of both normal and corrective shoeing as well as examining the current theories of hoofcare. The student will: attend surgery rounds beginning in radiology each morning; and work with the resident farrier and equine clinicians on the various lameness problems presented to the clinic. Foot anatomy and physiology will be stressed. While the students will not be required or expected to manually make or nail on a shoe, they will be required to participate in and observe the procedures utilized. Procedures expected of Equine veterinarians such as removing shoes and debriding the sole will be covered in detail. Additional specialties such as the application of extensions to foal hooves can be incorporated into the rotation if requested. 2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8805 Dairy Production Medicine Clinic - NBC",
+    "courseid": "VCSN 8805",
+    "coursedescription": "Dairy Production Medicine is an integrated rotation sponsored by members of the Center for Animal Health and Productivity and Field Service at New Bolton Center. This rotation focuses on the “health of the farm”, which is a key component to individual animal health. The goal of this rotation is for students to understand and evaluate factors that influence production and profitability. Areas of interest include calves/heifers, transition cow health, milk production (quality and components), reproduction and culling, cost of production (economics), and environmental stewardship. Students will access computerized herd records (production & economic) to develop differential problem lists. Visual inspection of facilities (farm visits) will be made to evaluate farm management, employees, facilities and cows. Students will be expected to summarize findings and present opportunities for improvement to producers/farm management. In addition to NBC faculty/staff, students will interact with other industry experts and attend the Penn State Nutrition Conference. Additional projects, topics, and farm visits will be made as opportunity arises to demonstrate the diversity of the dairy industry. VCSN 6330 (Animal Health Economics) serves as a prerequisite to this rotation. 16 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Areas of interest include calves/heifers, transition cow health, milk production (quality and components), reproduction and culling, cost of production (economics), and environmental stewardship."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 8815 Food Safety and Quality Assurance - NBC",
+    "courseid": "VCSN 8815",
+    "coursedescription": "The purpose of this course is to prepare the student to: 1) Identify human health hazards in food of animal origin. 2) Define some of the roles of the veterinarian in preventing/reducing the introduction of biohazards into the food chain. 3) Discuss the principles of safe food practices for both animals and humans. 4) Recognize and describe where laboratory studies (microbiology, toxicology, chemistry) would help define real or potential problems. 5) Define the appropriate times to utilize laboratory evaluations and become familiar with interpretive criteria. 6) Participate in field trips to learn about different practices and processes. Assess sites in terms of HACCP criteria. 7) Interact with representatives from local and federal agencies concerning policies, application of technology and recommendations concerning problem solving issues. 8) Discuss intervention actions that can be initiated during acts of bioagroterrorism and/or naturally-occurring disasters (using recent events as models for discussion). Case studies will be introduced as problem solving activities. 8 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8825 Swine Production Medicine - NBC",
+    "courseid": "VCSN 8825",
+    "coursedescription": "On-farm problem solving and client communications will be emphasized in this course. Students will be required to interact with producers. Students will write a follow-up report describing the findings and recommendations from the farm visit. Each student will also be assigned a case that will require collation of careful history taking, judicious performance of diagnostic tests and critical analysis of computerized production records to reach their diagnosis. Students will visit farms and other allied industries to survey production systems and collect data to be analyzed in the course. Various production systems and cycles will be reviewed, performance targets will be explained, and their elasticity and economic prioritization will be discussed. Records and data will be analyzed and students will learn how to identify significant production deficiencies and associate these with disease processes - either non-infectious, management-related, or infectious. Strategies for dealing with specific deficiencies will be outlined and the benefits of intervening to improve productivity will be compared to the costs of disease and used in developing a recommendation for action by the producer. 6 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VCSN 8835 Advanced Production Medicine",
+    "courseid": "VCSN 8835",
+    "coursedescription": "A new role for veterinarians has emerged as part of a management team that oversees the multi-site production and health care concerns of the animals owned, managed or overseen by their employer. Principles of epidemiology, economics and health care delivery systems and their application to optimize animal health and wellbeing will be provided. Students will work closely with experienced professionals in public or private practice who are in a leading role in defining the veterinarians’ contributions in supporting large scale, vertically integrated production systems. Students will be expected to complete a report, project or investigation during their visit. VCSN 7175 and/or permission of instructor required. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "VCSN 7175 and/or permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 8845 Advanced Production Systems",
+    "courseid": "VCSN 8845",
+    "coursedescription": "Successful contributions of veterinarians in the animal industries require an appreciation and understanding of global regulatory and production practices. The successful production medicine practitioner will interweave their traditional medical and surgical training with the nuances of geographical regionality and availability of support networks. This course provides students with the opportunity to gain personalized, on-site experience through direct engagement with the agencies and industries which regulate and support production systems. Students will be expected to complete a report, project or investigation from their experience. VCSN 7175 and/or permission of instructor required. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "VCSN 7175 and/or permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 8855 Equine Ophthalmology - NBC",
+    "courseid": "VCSN 8855",
+    "coursedescription": "This course is designed to provide students with ophthalmology experience to supplement what they obtain in the Large Animal Medicine foundation rotation, and, if taken, the Small Animal Ophthalmology elective. It is intended both for students with a special interest in ophthalmology, to broaden their exposure to include equine ophthalmology, and for equine students, to provide them with ophthalmology training that will benefit their equine patients in either general or speciality practice. This latter is particularly important given that most equine students do not take the Small Animal Ophthalmology elective and so graduate without clinical ophthalmology experience. Students will participate in the diagnosis and treatment of clinical ophthalmology cases in the hospital. Students will assist with evaluation of new cases, both inpatient and outpatient, and will be responsible for the daily treatment and examination of all hospitalized ophthalmology cases. Students will handle communication with clients and construct discharge summaries when appropriate. Exposure will vary due to fluctuations in case load. Organized laboratories in slit-lamp biomicroscopy, indirect ophthalmoscopy, and tonometry will allow the student to become comfortable with ophthalmic diagnostic techniques. 9 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is intended both for students with a special interest in ophthalmology, to broaden their exposure to include equine ophthalmology, and for equine students, to provide them with ophthalmology training that will benefit their equine patients in either general or speciality practice."
+      ]
+    }
+  },
+  {
+    "coursename": "VCSN 8905 NBC Holiday Rotation",
+    "courseid": "VCSN 8905",
+    "coursedescription": "Holiday rotation at the New Bolton Center. 2 Credit Hours",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

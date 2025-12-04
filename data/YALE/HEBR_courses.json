@@ -1,0 +1,142 @@
+[
+  {
+    "coursename": "HEBR 1100a, Elementary Modern Hebrew I Dina Roginsky",
+    "courseid": "HEBR 1100a",
+    "coursedescription": "Introduction to the language of contemporary Israel, both spoken and written. Fundamentals of grammar; extensive practice in speaking, reading, and writing under the guidance of a native speaker. L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 1170a / RLST 1030a, Elementary Biblical Hebrew I Dina Roginsky",
+    "courseid": "HEBR 1170a",
+    "coursedescription": "An introduction to biblical Hebrew. Intensive instruction in grammar and vocabulary, supplemented by readings from the Bible. No prior knowledge of Hebrew required. L1 TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 1200b, Elementary Modern Hebrew II Orit Yeret",
+    "courseid": "HEBR 1200b",
+    "coursedescription": "Continuation of HEBR 110. Introduction to the language of contemporary Israel, both spoken and written. Fundamentals of grammar; extensive practice in speaking, reading, and writing under the guidance of a native speaker. Prerequisite: HEBR 110 or equivalent. L2 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "HEBR 110",
+      "L2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 1270b, Elementary Biblical Hebrew II Eric Reymond",
+    "courseid": "HEBR 1270b",
+    "coursedescription": "Continuation of HEBR 117. Prerequisite: HEBR 117. L2 MWF 8:20am-9:10am",
+    "course-prerequsities": [
+      "HEBR 117",
+      "L2",
+      "MWF 8",
+      "20AM-9"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* HEBR 1300a, Intermediate Modern Hebrew I Orit Yeret",
+    "courseid": "HEBR 1300a",
+    "coursedescription": "Review and continuation of grammatical study, leading to a deeper understanding of style and usage. Focus on selected readings and on writing, comprehension, and speaking skills. Prerequisite: HEBR 1200 or equivalent. L3 RP 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "HEBR 1200",
+      "L3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* HEBR 1370a, Intermediate Biblical Hebrew I Eric Reymond",
+    "courseid": "HEBR 1370a",
+    "coursedescription": "Review and continuation of grammatical study leading to a deeper comprehension of biblical Hebrew style. Focus on extended reading of biblical narrative, poetry, prophecy, and Wisdom texts. Prerequisite: HEBR 1270 or equivalent. L3 TTh 9am-10:15am",
+    "course-prerequsities": [
+      "HEBR 1270",
+      "L3",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 1400b, Intermediate Modern Hebrew II Netta Sovinsky",
+    "courseid": "HEBR 1400b",
+    "coursedescription": "Continuation of HEBR 130. Review and continuation of grammatical study leading to a deeper comprehension of style and usage. Focus on selected readings and on writing, comprehension, and speaking skills. Prerequisite: HEBR 130 or equivalent. L4 RP 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [
+      "HEBR 130",
+      "L4",
+      "MTWTHF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* HEBR 1510a / JDST 4209 / MMES 1159a, Conversational Hebrew: Israeli Media Shiri Goren",
+    "courseid": "HEBR 1510a",
+    "coursedescription": "An advanced Hebrew course for students interested in practicing and enhancing conversational skills. Focus on listening comprehension and on various forms of discussion, including practical situations, online interactions, and content analysis. Prerequisite: HEBR 1400 or permission of instructor. L5 TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "HEBR 1400",
+      "L5",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "An advanced Hebrew course for students interested in practicing and enhancing conversational skills.",
+        "Prerequisite: HEBR 1400 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* HEBR 1570a / JDST 4205a / MMES 2276, Reading Between the Panels: Visual Narratives and the Culture of Hebrew Graphic Novels Shiri Goren",
+    "courseid": "HEBR 1570a",
+    "coursedescription": "Focusing on Hebrew graphic novels, an emerging genre in contemporary Israeli literature this course provides an opportunity for advanced Modern Hebrew students to engage with complex and creative narratives representing diverse aspects of Israeli society. The class focuses on developing, enhancing, and strengthening students’ linguistic performances across the four language domains. Simultaneously, students engage in a high-level theoretical and textual analysis of the works in question. Most of the works studied have not been translated into English or other languages. Therefore, the only way for students to access the majority of these compelling texts is by reading them in the target language. Prerequisite: Placement exam or permission of instructor. L5 , HU RP TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "L5",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Placement exam or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* HEBR 1640b / JDST 4217 / MMES 1167b, Biblical to Modern Hebrew for Reading Knowledge Dina Roginsky",
+    "courseid": "HEBR 1640b",
+    "coursedescription": "Instruction in the linguistic needs of students who have reading knowledge of Biblical Hebrew but cannot read or converse in Modern Hebrew. Concentration on reading comprehension of Modern Hebrew for research purposes, particularly scholarly texts tailored to students’ areas of interest. Two years of Biblical or Modern Hebrew studies, or permission of the instructor. RP TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Concentration on reading comprehension of Modern Hebrew for research purposes, particularly scholarly texts tailored to students’ areas of interest.",
+        "Two years of Biblical or Modern Hebrew studies, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* HEBR 1690b / JDST 4203 / LING 1650b / MMES 1162b, Languages in Dialogue: Hebrew and Arabic Dina Roginsky",
+    "courseid": "HEBR 1690b",
+    "coursedescription": "Hebrew and Arabic are closely related as sister Semitic languages. They have a great degree of grammatical, morphological, and lexical similarity. Historically, Arabic and Hebrew have been in cultural contact in various places and in different aspects. This advanced Hebrew language class explores linguistic similarities between the two languages as well as cultural comparisons of the communities, built on mutual respect. Students benefit from a section in which they gain a basic exposure to Arabic, based on its linguistic similarity to Hebrew. Conducted in Hebrew. Prerequisite: HEBR 1400 , or placement test, or permission of the instructor. L5 , HU RP TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "HEBR 1400",
+      "L5",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: HEBR 1400 , or placement test, or permission of the instructor."
+      ]
+    }
+  }
+]

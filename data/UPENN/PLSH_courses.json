@@ -1,0 +1,58 @@
+[
+  {
+    "coursename": "PLSH 0100 Polish I",
+    "courseid": "PLSH 0100",
+    "coursedescription": "This course is the first in a series of first-year courses, intended for students with no previous background in Polish. The course develops competence in speaking, reading, writing, and understanding contemporary Polish. It will also introduce you to Polish culture through exciting authentic materials, Polish films, history and contemporary affairs. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Polish. By the end of the course, you will be able to engage in simple conversations in Polish on topics concerning your daily life. You will also be able to write short personalized messages in Polish. Two Term Class, Student may enter either term; credit given for either 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PLSH 0200 Polish II",
+    "courseid": "PLSH 0200",
+    "coursedescription": "This course is the second in a series of first-year courses, continuation of Polish I. The course continues to develop competence in speaking, reading, writing, and understanding contemporary Polish. We will continue the exploration of Polish culture through exciting authentic materials, including Polish films, history and contemporary affairs. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Polish. By the end of the course, you will be able to engage in simple conversations in Polish on many topics in informal and some formal contexts concerning your daily life. You will also be able to write longer personalized messages in Polish. Two Term Class, Student may enter either term; credit given for either Prerequisite: PLSH 0100 1 Course Unit",
+    "course-prerequsities": [
+      "PLSH 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PLSH 0201 Polish for Heritage Speakers I",
+    "courseid": "PLSH 0201",
+    "coursedescription": "This is the first in the series of literacy courses for students who have spoken Polish at home and seek to improve literacy skills and language competence. The course aims to enhance linguistic accuracy in spelling, grammar, word choice and pronunciation, as well as fluency and narrative structure in both speaking and writing. We will also focus on developing effective reading and listening strategies and expanding students’ active and passive vocabulary through interpretation and analysis of various literary genres and a broad variety of cultural themes. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PLSH 0300 Polish III",
+    "courseid": "PLSH 0300",
+    "coursedescription": "This course is the first in a series of second-year courses, continuation of Polish II. The course will strengthen students' competence in speaking, reading, writing, and understanding contemporary Polish and will expand students' active and passive vocabulary on a variety of topics. We will continue the exploration of Polish culture through exciting authentic materials, including Polish films, history and contemporary affairs. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Polish. By the end of the course, you will be able to engage in increasingly complex conversations in Polish on many topics in informal and formal contexts concerning your daily life, significant personal and cultural events and situations, important cultural figures. You will be able to write longer messages in a variety of informal and formal contexts. Two Term Class, Student may enter either term; credit given for either Prerequisite: PLSH 0200 1 Course Unit",
+    "course-prerequsities": [
+      "PLSH 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PLSH 0400 Polish IV",
+    "courseid": "PLSH 0400",
+    "coursedescription": "This course is the second in a series of second-year courses, continuation of Polish III. The course will continue strengthening and expanding students' competence in speaking, reading, writing, and understanding contemporary Polish and increasing active and passive vocabulary on a variety of topics. We will continue the exploration of Polish culture through exciting authentic materials, including Polish films, history and contemporary affairs. Class work emphasizes development of communicative competence in real-life situations, spontaneous interactions, pair and group work and is conducted almost entirely in Polish. By the end of the course, you will be able to engage in increasingly complex conversations in Polish on many topics in informal and formal contexts concerning your daily life, significant personal and cultural events, attitudes and perspectives. You will be able to write longer messages in a variety of informal and formal contexts. Satisfies Penn Language Requirement. Two Term Class, Student may enter either term; credit given for either Prerequisite: PLSH 0300 1 Course Unit",
+    "course-prerequsities": [
+      "PLSH 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PLSH 0401 Polish for Heritage Speakers II",
+    "courseid": "PLSH 0401",
+    "coursedescription": "This course is the second in the series of literacy courses for students who have spoken Polish at home and seek to improve literacy skills and language competence, continuation of PLSH0201. The course continues to focus on enhancing linguistic accuracy in spelling, grammar, word choice and pronunciation, as well as fluency and narrative structure in both speaking and writing. We will continue developing effective reading and listening strategies and expanding students’ active and passive vocabulary through interpretation and analysis of various literary genres and a broad variety of cultural themes. Satisfies Penn Language Requirement. Not Offered Every Year Prerequisite: PLSH 0201 1 Course Unit",
+    "course-prerequsities": [
+      "PLSH 0201"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]
