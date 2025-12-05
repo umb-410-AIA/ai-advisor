@@ -34,3 +34,11 @@ export async function assertRequestHasValidJwt(req: NextApiRequest) {
 
   verifyJwtSync(jwt, process.env.JWT_SECRET);
 }
+
+export async function getUserId(req: NextApiRequest) {
+  const authHeader = req.headers.authorization; // "Bearer eyJhbGciOiJIUzI1NiIsInR..."
+  const [scheme, token] = authHeader?.split(" ") ?? [];
+  if (scheme !== "Bearer" || !token) return null;
+  const decoded = verifyJwtSync(token, process.env.JWT_SECRET)
+  return decoded.user_id;
+}

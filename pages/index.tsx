@@ -1,10 +1,15 @@
 import { useAuth } from "@/contexts/AuthContext";
-import { FormEventHandler, useCallback, useState, useEffect } from "react";
+import { FormEventHandler, useCallback, useState, useEffect, useRef, useMemo } from "react";
 import Link from 'next/link';
 import Head from "next/head";
 import { Send, Paperclip, Menu, BookOpen, Award } from "lucide-react";
 import { useRouter } from "next/navigation";
-import FlowChart from "@/components/FlowChart";
+import { fetchChatMessages } from "@/utils/chats";
+import { getUserId } from "@/utils/auth";
+import { init } from "next/dist/compiled/webpack/webpack";
+import { UserProfile } from "./api/userprofile";
+import { llm } from "@/utils/llm";
+import FlowChart from "@/components/Flowchart";
 
 interface Course {
   id: string;
@@ -14,8 +19,7 @@ interface Course {
   difficulty?: string;
   prerequisites: string[];
 }
-
-interface ChatMessage {
+export interface MessageBox {
   user: string;
   bot: string;
   visualization?: {
@@ -23,21 +27,15 @@ interface ChatMessage {
     data: any;
   };
   mermaid?: string;
+  tool_id?: string;
+  tool_calls?: string[];
 }
 
-const extractMermaidFromText = (text: string) => {
-  const match = text.match(/```mermaid\s*([\s\S]*?)```/i);
-  if (!match) return { cleanedText: text, mermaid: null };
-
-  const mermaid = match[1].trim();
-  const cleanedText = text.replace(match[0], "").trim();
-
-  return { cleanedText: cleanedText || "Here is your course chart:", mermaid };
-};
+const CHAT_API = "/api/chat"
 
 export default function Home() {
   const [input, setInput] = useState("");
-  const [chat, setChat] = useState<ChatMessage[]>([]);
+  const [chat, setChat] = useState<MessageBox[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
   const [isTextBoxHovered, setIsTextBoxHovered] = useState(false);
   const [isSendButtonHovered, setIsSendButtonHovered] = useState(false);
@@ -46,6 +44,9 @@ export default function Home() {
   const [selectedFiles, setSelectedFiles] = useState<FileList | null>(null);
   const [mousePos, setMousePos] = useState({ x: 50, y: 50 });
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [onboarding, setOnboarding] = useState(false);
+  const [profile, setProfile] = useState<UserProfile>();
+  const initLock = useRef(false);
 
   const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
     const rect = e.currentTarget.getBoundingClientRect();
@@ -56,13 +57,51 @@ export default function Home() {
 
   const { token, isAuthenticated } = useAuth();
   const router = useRouter();
-
   useEffect(() => {
+    if (initLock.current) return;
+    initLock.current = true; // lock immediately so useEffect runs 1 time only
     if (!isAuthenticated) {
-      console.log('User not authenticated, redirecting to login...');
       router.push('/login');
+      console.log('User not authenticated, redirecting to login...');
+      return;
     }
-  }, [isAuthenticated, router]);
+
+    async function initChat() { // fetch all chats for user and gather their data
+        // look for user profile
+        var res = await fetch("/api/userprofile", {
+          method: "POST",
+          headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`
+          },
+        });
+        var profile = await res.json();
+
+        // look for old chats
+        if (profile.chats) {
+          setChat(profile.chats.map(m => ({
+            user: m.role === "user" ? m.message : undefined,
+            bot: m.role === "assistant" ? m.message : ""
+          })));
+        } else {
+          // ONBOARD ROUTING
+        }
+
+        // send initial reload message based on history (onboard if no previous profile)
+        const initReply = await fetch(CHAT_API, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "Authorization": `Bearer ${token}`,
+          },
+          body: JSON.stringify({ message: "init" }),
+        });
+        const data = await initReply.json();
+        setChat((chat) => [...chat, { user: undefined, bot: data.bot }]);
+    }
+    initChat()
+    
+  }, [isAuthenticated, token, router]);
 
   const sendMessage = useCallback<FormEventHandler>(async (e) => {
     if (e) e.preventDefault();
@@ -70,64 +109,83 @@ export default function Home() {
 
     if (!token) {
       console.error('No authentication token found');
-      setChat((prev) => [...prev, { user: input, bot: 'Error: Please log in to use the chat.' }]);
+      setChat((chat) => [...chat, { user: input, bot: 'Error: Please log in to use the chat.' }]);
       setInput('');
       return;
     }
 
     setLoading(true);
     try {
-      console.log('Sending message to API with token:', token ? 'Token present' : 'No token');
-      const res = await fetch("/api/chat", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "Authorization": `Bearer ${token}`
-        },
-        body: JSON.stringify({ message: input }),
-      });
+      let message = input;
+      while (true) {
+          const res = await fetch(CHAT_API, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "Authorization": `Bearer ${token}`
+          },
+          body: JSON.stringify({ message: message }),
+        });
+        
+        if (!res.ok) {
+          const errorData = await res.json().catch(() => ({}));
+          console.error('API request failed:', res.status, res.statusText, errorData);
+          throw new Error(`API request failed: ${res.status}`);
+        }
 
-      if (!res.ok) {
-        const errorData = await res.json().catch(() => ({}));
-        console.error('API request failed:', res.status, res.statusText, errorData);
-        throw new Error(`API request failed: ${res.status}`);
+        // get response from llm
+        const llmRes = await res.json();
+
+        /* Source: ChatGPT
+         * Prompt: Write me a javascript regex that will pull out mermaid code inside of mermaid markdown blocks in an arbitrarily long string
+         * Prompter: Ayden Diel
+         * Date: 12/4/2025
+         * START LLM RESPONSE
+         * */
+        const mermaidRegex =  /```mermaid\s*([\s\S]*?)```/g;
+        let match: any;
+        if (!llmRes.mermaid && (match = mermaidRegex.exec(llmRes.bot)) !== null) {
+          llmRes.mermaid = match?.[1]?.trim();
+          llmRes.bot = llmRes.bot.replace(/```mermaid[\s\S]*?```/g, "");
+        }
+        console.log({llmRes})
+        // END LLM RESPONSE
+
+        if (llmRes.tool_id) {
+          setChat((chat) => { return [...chat, llmRes] });
+          message = "tool";
+          continue;
+        } else {
+          // show llm response
+          setChat((chat) => { return [...chat, llmRes] });
+          break;
+        }
       }
 
-      const data = await res.json();
-      console.log('API response:', data);
-
-      const botReply = data.reply ?? "";
-      const { cleanedText, mermaid } = extractMermaidFromText(botReply);
-
-      setChat((prev) => {
-        const nextMessage: ChatMessage = {
-          user: input,
-          bot: cleanedText,
-        };
-
-        if (data.visualizationType && data.data) {
-          nextMessage.visualization = {
-            type: data.visualizationType,
-            data: data.data,
-          };
-        }
-
-        if (mermaid) {
-          nextMessage.mermaid = mermaid;
-        }
-
-        return [...prev, nextMessage];
-      });
+      // // tool call update profile
+      // if (llmRes.tool === "updateUserProfile") { 
+      //   setOnboarding(false);
+      //   // look for user profile
+      //   var userprofile = await fetch("/api/userprofile", {
+      //     method: "POST",
+      //     headers: {
+      //     "Content-Type": "application/json",
+      //     "Authorization": `Bearer ${token}`
+      //     },
+      //   });
+      //   var { chats, profile } = await userprofile.json();
+      //   setProfile(profile)
+      // } 
 
       setInput('');
     } catch (error) {
       console.error('Error sending message:', error);
-      setChat((prev) => [...prev, { user: input, bot: 'Error: Failed to get response from server.' }]);
+      setChat((chat) => [...chat, { user: input, bot: 'Error: Failed to get response from server.' }]);
       setInput('');
     } finally {
       setLoading(false);
     }
-  }, [input, token]);
+  }, [input, token, chat, onboarding]);
 
   const getDifficultyColor = (difficulty?: string) => {
     switch (difficulty?.toLowerCase()) {
@@ -141,21 +199,21 @@ export default function Home() {
   const renderVisualization = (visualization: { type: string; data: any }) => {
     if (visualization.type === 'course_path') {
       const courses: Course[] = visualization.data.courses || [];
-
+      
       return (
         <div style={styles.visualizationContainer}>
           <div style={styles.visualizationHeader}>
             <BookOpen size={20} style={{ marginRight: 8 }} />
             <h3 style={styles.visualizationTitle}>Your Course Pathway</h3>
           </div>
-
+          
           <div style={styles.coursePathway}>
             {courses.map((course, index) => (
               <div key={course.id} style={styles.courseCard}>
                 <div style={styles.courseCardHeader}>
                   <div style={styles.courseId}>{course.id}</div>
                   {course.difficulty && (
-                    <div
+                    <div 
                       style={{
                         ...styles.difficultyBadge,
                         background: getDifficultyColor(course.difficulty)
@@ -165,9 +223,9 @@ export default function Home() {
                     </div>
                   )}
                 </div>
-
+                
                 <div style={styles.courseName}>{course.name}</div>
-
+                
                 <div style={styles.courseDetails}>
                   <span style={styles.courseDetailItem}>
                     📅 {course.semester}
@@ -176,20 +234,20 @@ export default function Home() {
                     📚 {course.credits} credits
                   </span>
                 </div>
-
+                
                 {course.prerequisites && course.prerequisites.length > 0 && (
                   <div style={styles.prerequisites}>
                     <strong>Prerequisites:</strong> {course.prerequisites.join(', ')}
                   </div>
                 )}
-
+                
                 {index < courses.length - 1 && (
                   <div style={styles.arrow}>↓</div>
                 )}
               </div>
             ))}
           </div>
-
+          
           <div style={styles.visualizationFooter}>
             <Award size={16} style={{ marginRight: 5 }} />
             Total Credits: {courses.reduce((sum, c) => sum + c.credits, 0)}
@@ -197,9 +255,14 @@ export default function Home() {
         </div>
       );
     }
-
+    
     return null;
   };
+
+  const currentMermaidChart = useMemo<string | null>(() => {
+    if (!chat?.length) return null;
+    return chat.reverse().find(c => !!c.mermaid)?.mermaid ?? null;
+  }, [chat]);
 
   return (
     <div style={styles.page}>
@@ -223,7 +286,7 @@ export default function Home() {
 
       {/* Title Bar */}
       <div style={styles.titleBar}>
-        <button
+        <button 
           style={{
             ...styles.menuButton,
             ...(isMenuButtonHovered ? {
@@ -253,7 +316,7 @@ export default function Home() {
       {/* Sidebar Menu */}
       {isMenuOpen && (
         <>
-          <div
+          <div 
             style={styles.overlay}
             onClick={() => setIsMenuOpen(false)}
           />
@@ -261,9 +324,9 @@ export default function Home() {
             <div style={styles.sidebarContent}>
               <h2 style={styles.sidebarTitle}>Profile Settings</h2>
               <div style={styles.sidebarDropdowns}>
-                <input
-                  style={styles.sidebarInput}
-                  placeholder="Your Name"
+                <input 
+                  style={styles.sidebarInput} 
+                  placeholder="Your Name" 
                 />
                 <select style={styles.sidebarInput}>
                   <option value="">Select your Major</option>
@@ -287,8 +350,8 @@ export default function Home() {
                 </select>
               </div>
             </div>
-            <Link
-              href="logout"
+            <Link 
+              href="logout" 
               style={styles.sidebarLogout}
             >
               Log out
@@ -299,42 +362,50 @@ export default function Home() {
 
       <p style={styles.subtitle}>AI-Powered Advisor for University Students</p>
 
-
+     
 
       {/* Chat Window */}
-      <div style={styles.chatWindow}>
-        {chat.length === 0 ? (
-          <p style={styles.placeholder}>
-            Let's get you started with finding the correct course for you.
-          </p>
-        ) : (
-          chat.map((msg, i) => (
-            <div key={i} style={styles.chatMessage}>
-              <div style={{ marginBottom: 8 }}>
-                <b>You:</b>
-                <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
-              </div>
-              <div>
-                <b>Bot:</b>
-                <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
+      <div style={styles.splitScreenContainer}>
+        <div style={styles.chatWindow}>
+          {chat.length === 0 ? (
+            <p style={styles.placeholder}>
+              Let's get you started with finding the correct course for you.
+            </p>
+          ) : (
+            chat.map((msg, i) => (
+              <div key={i} style={styles.chatMessage}>
+                <div style={{ marginBottom: 8 }}>
+                  <b>You:</b>
+                  <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
+                </div>
+                <div>
+                  <b>Bot:</b>
+                  <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
 
-                {/* Render mermaid chart if present */}
-                {msg.mermaid && (
-                  <div style={{ marginTop: 15 }}>
-                    <FlowChart chart={msg.mermaid} />
-                  </div>
-                )}
+                  {/* Render mermaid chart if present */}
+                  {msg.mermaid && (
+                    <div style={{ marginTop: 15, color: '#aaa' }}>
+                      <em>Chart updated</em>
+                      {/*<FlowChart chart={msg.mermaid} />*/}
+                    </div>
+                  )}
 
-                {/* Render visualization if available */}
-                {msg.visualization && (
-                  <div style={{ marginTop: 15 }}>
-                    {renderVisualization(msg.visualization)}
-                  </div>
-                )}
+                  {/* Render visualization if available */}
+                  {msg.visualization && (
+                    <div style={{ marginTop: 15 }}>
+                      {renderVisualization(msg.visualization)}
+                    </div>
+                  )}
+                </div>
               </div>
-            </div>
-          ))
-        )}
+            ))
+          )}
+        </div>
+        <div style={styles.mermaidWindow}>
+          {
+            currentMermaidChart ? <FlowChart chart={currentMermaidChart} /> : <p style={{ color: '#aaa' }}>Once the chat bot draws a course plan, it will appear here.</p>
+          }
+        </div>
       </div>
 
       {/* Chat Bar */}
@@ -351,10 +422,10 @@ export default function Home() {
           onMouseLeave={() => setIsTextBoxHovered(false)}
           placeholder="Type your question here..."
         />
-
+        
         {/* File Upload Button */}
-        <label
-          htmlFor="file-upload"
+        <label 
+          htmlFor="file-upload" 
           style={{
             ...styles.fileUploadButton,
             ...(isFileButtonHovered ? {
@@ -367,8 +438,8 @@ export default function Home() {
           onMouseMove={handleMouseMove as any}
         >
           <Paperclip size={16} style={{ marginRight: 5 }} />
-          {selectedFiles && selectedFiles.length > 0
-            ? `${selectedFiles.length} file(s)`
+          {selectedFiles && selectedFiles.length > 0 
+            ? `${selectedFiles.length} file(s)` 
             : 'Attach'}
         </label>
         <input
@@ -378,7 +449,7 @@ export default function Home() {
           onChange={(e) => setSelectedFiles(e.target.files)}
           style={{ display: 'none' }}
         />
-
+        
         <button
           style={{
             ...styles.sendButton,
@@ -550,7 +621,7 @@ const styles: Record<string, any> = {
     marginBottom: 30,
   },
   dropdownSection: {
-    padding: "40px",
+    padding:"40px",
     position: "fixed",
     display: "flex",
     flexWrap: "wrap",
@@ -595,15 +666,33 @@ const styles: Record<string, any> = {
     boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
     height: "80px", // 👈 define a fixed height
   },
+  splitScreenContainer: {
+    display: 'flex',
+    flexDirection: 'row',
+    height: '70vh',
+    marginTop: '5vh'
+  },
   chatWindow: {
     flex: 1,
     padding: "15px",
     paddingLeft: "0px",
     maxWidth: "1100px",
+    scrollBehavior: "smooth",
+    paddingBottom: "90px", // 👈 enough space for the input bar
+    paddingTop: "100px",
+    overflowY: 'scroll',
+    height: '100%'
+    //position: "fixed",
+  },
+  mermaidWindow: {
+    flex: 1,
+    padding: "15px",
+    maxWidth: "1100px",
     overflowY: "auto",
     scrollBehavior: "smooth",
     paddingBottom: "90px", // 👈 enough space for the input bar
     paddingTop: "100px",
+    color: 'black',
     //position: "fixed",
   },
   chatBar: {
