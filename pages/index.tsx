@@ -46,6 +46,7 @@ export default function Home() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [onboarding, setOnboarding] = useState(false);
   const [profile, setProfile] = useState<UserProfile>();
+  const [llmRes, setLlmRes] = useState<any>(null);
   const initLock = useRef(false);
 
   const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
@@ -150,6 +151,7 @@ export default function Home() {
         }
         console.log({llmRes})
 
+        setLlmRes(llmRes);
         setChat((chat) => { return [...chat, llmRes] });
         if (llmRes.tool_calls) {
           message = 'tool';
@@ -258,9 +260,8 @@ export default function Home() {
   };
 
   const currentMermaidChart = useMemo<string | null>(() => {
-    if (!chat?.length) return null;
-    return chat.reverse().find(c => !!c.mermaid)?.mermaid ?? null;
-  }, [chat]);
+    return llmRes.mermaid ?? null;
+  }, [llmRes]);
 
   return (
     <div style={styles.page}>
@@ -387,7 +388,7 @@ export default function Home() {
                     {/* Render mermaid chart if present */}
                     {msg.mermaid && (
                       <div style={{ marginTop: 15 }}>
-                        <FlowChart chart={msg.mermaid} />
+                        {/* <FlowChart chart={msg.mermaid} /> */}
                       </div>
                     )}
 
