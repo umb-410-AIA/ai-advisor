@@ -1,0 +1,18 @@
+Team Shrey
+
+- Add top-to-bottom Flowchart Visualization layout (Vraj) [x]
+- Implement collapsible/expandable semesters in visualization (Vraj) [x]
+- Add dynamic click-to-open Course Details Panel (Vraj) [x]
+- Add recommended / preferred courses feature in chat (Vraj) [x]
+- Add keyword-trigger logic in /api/chat.ts for roadmap + preferred courses prompts (Vraj) [x]
+- Connect FlowchartVisualization + CourseRecommendation to chat interface (Vraj) [x]
+- Integrate updated newData.json dataset into visualization & recommendation components (Vraj) [x]
+- Improve global UI styling + visualization colors in globals.css (Vraj) [x]
+- Add onboarding.tsx for profile setup (name, major, college year) (Vraj) [x]
+- Add UMass Boston–themed visual design and color styling (Vraj) [x]
+- Add Chat Window layout and ChatBar input system (Vraj) [x]
+- Update index.tsx to render dynamic components based on API responses (Vraj) [x]
+- Improve scraping/data parsing logic in main.py (Vraj) [x]
+- Clean and reorganize branch artifacts in vraj23 (Vraj) [x]
+
+
