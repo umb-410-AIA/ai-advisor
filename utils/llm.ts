@@ -8,7 +8,7 @@ import { MessageBox } from "@/pages";
 
 const MESSAGE_LIMIT = 10 // limit open ai API to 10 message history
 
-const UNIVERSITY_MAP = UNIVERSITIES.map((u, i) => `${i + 1}: ${u}`).join("\n") // map university name to int (UMB is 1)
+const UNIVERSITY_MAP = UNIVERSITIES.map((u, i) => `${i}: ${u}`).join("\n") // map university name to int (UMB is 0)
 
 const APP_DESCRIPTION = `You are an AI-powered college advisor designed to help students plan their academic journeys.
       Your primary functions include:
@@ -407,12 +407,12 @@ export async function llm(user_id: string,
   // check for tool calls
   if (reply.tool_calls?.length > 0) {
       for (const toolCall of reply.tool_calls) {
-        console.log("TOOL CALL\n", toolCall.function.name);
-        const args = JSON.parse(toolCall.function.arguments);
+        console.log("TOOL CALL\n", (toolCall as any).function.name);
+        const args = JSON.parse((toolCall as any).function.arguments);
           
         let result;
         // Parse tool call
-        const functionName = toolCall.function.name
+        const functionName = (toolCall as any).function.name
         if (functionName == "getMajorByUniversity") {
           console.log(args.university_id)
             result = {
@@ -421,10 +421,16 @@ export async function llm(user_id: string,
         }
 
         else if (functionName == "getCoursesByMajor") {
-          result = {
+          try { 
+            result = {
             COURSE_LIST: await getCoursesByMajor(args.major, args.university_id)
           };
+        } catch (e) {
+          result = {
+            COURSE_LIST: `Error fetching courses for major ${args.major} at university ID ${args.university_id}: ${e.message}`
+          };
         } 
+      }
 
         else if (functionName == "updateUserProfile") {
           await upsertUserData(user_id, args);
