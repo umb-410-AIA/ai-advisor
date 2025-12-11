@@ -260,7 +260,7 @@ export default function Home() {
   };
 
   const currentMermaidChart = useMemo<string | null>(() => {
-    return llmRes.mermaid ?? null;
+    return llmRes?.mermaid ?? null;
   }, [llmRes]);
 
   return (
