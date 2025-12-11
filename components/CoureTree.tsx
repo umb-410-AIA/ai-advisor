@@ -1,5 +1,6 @@
-import React, { useState, useMemo } from 'react';
-import { BookOpen, Award, Printer, X } from 'lucide-react';
+//Vraj Soni
+import React, { useState, useMemo } from "react";
+import { BookOpen, Award, Printer, X } from "lucide-react";
 interface CourseSession {
   section: string;
   schedule: string;
@@ -39,40 +40,51 @@ interface TreeNode {
 }
 
 interface CourseTreeProps {
-  courses: Course[];
   title?: string;
   subtitle?: string;
+  courses: Course[];
 }
 
 function normalizeCourseId(courseId: string): string {
-  return courseId.toUpperCase().replace(/\s+/g, '').trim();
+  return courseId.toUpperCase().replace(/\s+/g, "").trim();
 }
 
-const renderCustomNode = ({ nodeDatum, onNodeClick, toggleNode, expandedCourses }: any) => {
+const renderCustomNode = ({
+  nodeDatum,
+  onNodeClick,
+  toggleNode,
+  expandedCourses,
+}: any) => {
   // Extract node attributes
   const isTerm = nodeDatum.attributes?.isTerm;
   const isYear = nodeDatum.attributes?.isYear;
   const courseId = nodeDatum.attributes?.courseId || nodeDatum.name;
   const termName = nodeDatum.attributes?.termName || nodeDatum.name;
-  const credits = nodeDatum.attributes?.credits || '0';
+  const credits = nodeDatum.attributes?.credits || "0";
   const difficulty = nodeDatum.attributes?.difficulty;
-  const hasPrerequisites = nodeDatum.attributes?.prerequisites && nodeDatum.attributes.prerequisites.length > 0;
+  const hasPrerequisites =
+    nodeDatum.attributes?.prerequisites &&
+    nodeDatum.attributes.prerequisites.length > 0;
 
   const getDifficultyColor = (difficulty?: string) => {
     switch (difficulty?.toLowerCase()) {
-      case 'easy': return '#28a745';
-      case 'medium': return '#ffc107';
-      case 'hard': return '#dc3545';
-      default: return '#6c757d';
+      case "easy":
+        return "#28a745";
+      case "medium":
+        return "#ffc107";
+      case "hard":
+        return "#dc3545";
+      default:
+        return "#6c757d";
     }
   };
 
   // Calculate rectangle dimensions based on text length
   // Different sizes for years, terms, and courses
-  const displayText = isYear ? nodeDatum.name : (isTerm ? termName : courseId);
+  const displayText = isYear ? nodeDatum.name : isTerm ? termName : courseId;
   const textWidth = displayText.length * 7 + 20; // Approximate width: 7px per character + padding
-  const rectWidth = Math.max(textWidth, isYear ? 180 : (isTerm ? 150 : 80));
-  const rectHeight = isYear ? 50 : (isTerm ? 50 : 40);
+  const rectWidth = Math.max(textWidth, isYear ? 180 : isTerm ? 150 : 80);
+  const rectHeight = isYear ? 50 : isTerm ? 50 : 40;
 
   /**
    * Handles click events on tree nodes
@@ -97,10 +109,13 @@ const renderCustomNode = ({ nodeDatum, onNodeClick, toggleNode, expandedCourses 
   };
 
   // Check if this course is currently expanded (showing prerequisites)
-  const isExpanded = courseId && expandedCourses && expandedCourses.has(courseId.toUpperCase().replace(/\s+/g, ''));
+  const isExpanded =
+    courseId &&
+    expandedCourses &&
+    expandedCourses.has(courseId.toUpperCase().replace(/\s+/g, ""));
 
   return (
-    <g onClick={handleClick} style={{ cursor: 'pointer' }}>
+    <g onClick={handleClick} style={{ cursor: "pointer" }}>
       {/* Rectangle background */}
       <rect
         x={-rectWidth / 2}
@@ -108,9 +123,9 @@ const renderCustomNode = ({ nodeDatum, onNodeClick, toggleNode, expandedCourses 
         width={rectWidth}
         height={rectHeight}
         rx={6}
-        fill={isYear ? "#003080" : (isTerm ? "#004aad" : "#ffffff")}
-        stroke={isYear ? "#002050" : (isTerm ? "#003080" : "#004aad")}
-        strokeWidth={isYear ? 3 : (isTerm ? 3 : 2)}
+        fill={isYear ? "#003080" : isTerm ? "#004aad" : "#ffffff"}
+        stroke={isYear ? "#002050" : isTerm ? "#003080" : "#004aad"}
+        strokeWidth={isYear ? 3 : isTerm ? 3 : 2}
       />
       {/* Text */}
       <text
@@ -119,11 +134,11 @@ const renderCustomNode = ({ nodeDatum, onNodeClick, toggleNode, expandedCourses 
         x={0}
         y={isYear || isTerm ? 8 : 5}
         textAnchor="middle"
-        fontSize={isYear ? "15" : (isTerm ? "14" : "12")}
+        fontSize={isYear ? "15" : isTerm ? "14" : "12"}
         fontWeight="bold"
       >
-        {displayText.length > (isYear ? 25 : (isTerm ? 20 : 12)) 
-          ? displayText.substring(0, isYear ? 25 : (isTerm ? 20 : 12)) + "..." 
+        {displayText.length > (isYear ? 25 : isTerm ? 20 : 12)
+          ? displayText.substring(0, isYear ? 25 : isTerm ? 20 : 12) + "..."
           : displayText}
       </text>
       {/* Prerequisites indicator for courses */}
@@ -148,49 +163,56 @@ const renderCustomNode = ({ nodeDatum, onNodeClick, toggleNode, expandedCourses 
   );
 };
 
-export default function CourseTree({ courses, title, subtitle }: CourseTreeProps) {
+export default function CourseTree({
+  courses,
+  title,
+  subtitle,
+}: CourseTreeProps) {
   const [selectedCourseId, setSelectedCourseId] = useState<string | null>(null);
   const [isDetailsOpen, setIsDetailsOpen] = useState(false);
   const limitedCourses = useMemo(() => {
     if (!courses || courses.length === 0) return [];
-    
-  // Filter out courses that should be hidden
-  // Hide courses that don't match common major prefixes (CS, MATH, etc.)
-  // or are general education courses that clutter the tree
-  const filteredCourses = courses.filter(course => {
-    const courseId = normalizeCourseId(course.id);
-    
-    // Hide courses with these exact prefixes (AFRSTY but NOT AF which is Accounting)
-    const hiddenPrefixes = [
-      'AFRSTY',
-      'AFRS',
-      'GENED',
-      'ELECTIVE',
-      'GENERALEDUCATION',
-      'AMST',
-    ];
-    
-    // Check if course should be hidden by prefix
-    const shouldHide = hiddenPrefixes.some(prefix => 
-      courseId.startsWith(prefix)
-    );
-    
-    if (shouldHide) {
-      return false; // Hide courses with unwanted prefixes
-    }
-    
-    // For CS Degree Roadmap, only show CS, MATH, PHYS, and AF (Accounting) courses
-    const isCSRoadmap = title?.includes('CS') || title?.includes('Computer Science');
-    if (isCSRoadmap) {
-      const relevantPrefixes = ['CS', 'MATH', 'PHYS', 'PHYSICS', 'AF']; // Keep AF (Accounting)
-      const isRelevant = relevantPrefixes.some(prefix => courseId.startsWith(prefix));
-      return isRelevant; // Only show relevant courses for CS roadmap
-    }
-    
-    // For other roadmaps, show all courses (except hidden ones)
-    return true;
-  });
-    
+
+    // Filter out courses that should be hidden
+    // Hide courses that don't match common major prefixes (CS, MATH, etc.)
+    // or are general education courses that clutter the tree
+    const filteredCourses = courses.filter((course) => {
+      const courseId = normalizeCourseId(course.id);
+
+      // Hide courses with these exact prefixes (AFRSTY but NOT AF which is Accounting)
+      const hiddenPrefixes = [
+        "AFRSTY",
+        "AFRS",
+        "GENED",
+        "ELECTIVE",
+        "GENERALEDUCATION",
+        "AMST",
+      ];
+
+      // Check if course should be hidden by prefix
+      const shouldHide = hiddenPrefixes.some((prefix) =>
+        courseId.startsWith(prefix)
+      );
+
+      if (shouldHide) {
+        return false; // Hide courses with unwanted prefixes
+      }
+
+      // For CS Degree Roadmap, only show CS, MATH, PHYS, and AF (Accounting) courses
+      const isCSRoadmap =
+        title?.includes("CS") || title?.includes("Computer Science");
+      if (isCSRoadmap) {
+        const relevantPrefixes = ["CS", "MATH", "PHYS", "PHYSICS", "AF"]; // Keep AF (Accounting)
+        const isRelevant = relevantPrefixes.some((prefix) =>
+          courseId.startsWith(prefix)
+        );
+        return isRelevant; // Only show relevant courses for CS roadmap
+      }
+
+      // For other roadmaps, show all courses (except hidden ones)
+      return true;
+    });
+
     // Sort courses by semester index to maintain sequence
     const sortedCourses = [...filteredCourses].sort((a, b) => {
       if (a.semesterIndex !== undefined && b.semesterIndex !== undefined) {
@@ -198,7 +220,7 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
       }
       return 0;
     });
-    
+
     // Return all filtered courses (organized by terms in tree structure)
     return sortedCourses;
   }, [courses, title]);
@@ -206,56 +228,56 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
   /**
    * Extracts the academic year from a semester/term name
    * Looks for keywords like "freshman", "sophomore", etc.
-   * 
+   *
    * term - The semester/term name (e.g., "Freshman Fall", "Sophomore Spring")
    * The extracted year name or "Other" if not found
    */
   const extractYear = (term: string): string => {
     const termLower = term.toLowerCase();
-    if (termLower.includes('freshman')) return 'Freshman Year';
-    if (termLower.includes('sophomore')) return 'Sophomore Year';
-    if (termLower.includes('junior')) return 'Junior Year';
-    if (termLower.includes('senior')) return 'Senior Year';
-    return 'Other';
+    if (termLower.includes("freshman")) return "Freshman Year";
+    if (termLower.includes("sophomore")) return "Sophomore Year";
+    if (termLower.includes("junior")) return "Junior Year";
+    if (termLower.includes("senior")) return "Senior Year";
+    return "Other";
   };
 
   /**
    * Extracts the term (Fall/Spring/Summer) from a semester/term name
-   * 
+   *
    * term - The semester/term name (e.g., "Freshman Fall", "Spring 2024")
    * The extracted term name or the original term if not found
    */
   const extractTerm = (term: string): string => {
     const termLower = term.toLowerCase();
-    if (termLower.includes('fall')) return 'Fall';
-    if (termLower.includes('spring')) return 'Spring';
-    if (termLower.includes('summer')) return 'Summer';
+    if (termLower.includes("fall")) return "Fall";
+    if (termLower.includes("spring")) return "Spring";
+    if (termLower.includes("summer")) return "Summer";
     return term;
   };
 
   /**
    * Builds the tree data structure organized as: Years → Terms → Courses → Prerequisites
-   * 
+   *
    * Structure:
    * - Root: "Course"
    *   - Year nodes (Freshman, Sophomore, etc.)
    *     - Term nodes (Fall, Spring, Summer)
    *       - Course nodes
    *         - Prerequisite nodes (added on expand)
-   * 
+   *
    * Root TreeNode with hierarchical structure, or null if no courses
    */
   const treeData = useMemo(() => {
     if (!limitedCourses || limitedCourses.length === 0) return null;
-    
+
     // Group courses by year, then by term
     // Structure: { "Freshman Year": { "Fall": [courses...], "Spring": [courses...] }, ... }
     const coursesByYearAndTerm: Record<string, Record<string, Course[]>> = {};
-    limitedCourses.forEach(course => {
-      const term = course.semester || 'Other';
+    limitedCourses.forEach((course) => {
+      const term = course.semester || "Other";
       const year = extractYear(term);
       const termName = extractTerm(term);
-      
+
       if (!coursesByYearAndTerm[year]) {
         coursesByYearAndTerm[year] = {};
       }
@@ -266,18 +288,24 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
     });
 
     // Year order
-    const yearOrder = ['Freshman Year', 'Sophomore Year', 'Junior Year', 'Senior Year', 'Other'];
-    const termOrder = ['Fall', 'Spring', 'Summer'];
+    const yearOrder = [
+      "Freshman Year",
+      "Sophomore Year",
+      "Junior Year",
+      "Senior Year",
+      "Other",
+    ];
+    const termOrder = ["Fall", "Spring", "Summer"];
 
     // Create tree structure
     const yearNodes: TreeNode[] = [];
-    
-    yearOrder.forEach(year => {
+
+    yearOrder.forEach((year) => {
       if (!coursesByYearAndTerm[year]) return;
-      
+
       const termNodes: TreeNode[] = [];
       const terms = Object.keys(coursesByYearAndTerm[year]);
-      
+
       // Sort terms
       const sortedTerms = terms.sort((a, b) => {
         const aIndex = termOrder.indexOf(a);
@@ -288,7 +316,7 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
         return a.localeCompare(b);
       });
 
-      sortedTerms.forEach(termName => {
+      sortedTerms.forEach((termName) => {
         const termCourses = coursesByYearAndTerm[year][termName];
         // Sort courses by semester index
         const sortedCourses = [...termCourses].sort((a, b) => {
@@ -297,7 +325,7 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
           return aIndex - bIndex;
         });
 
-        const courseNodes: TreeNode[] = sortedCourses.map(course => ({
+        const courseNodes: TreeNode[] = sortedCourses.map((course) => ({
           name: course.id,
           attributes: {
             courseId: course.id,
@@ -330,7 +358,7 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
 
     // Wrap in a root node
     return {
-      name: 'Course',
+      name: "Course",
       children: yearNodes,
     };
   }, [limitedCourses]);
@@ -339,33 +367,41 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
     if (!selectedCourseId) return null;
     const normalizedSelected = normalizeCourseId(selectedCourseId);
     // Search in both limited and full courses list
-    return courses.find(c => 
-      normalizeCourseId(c.id) === normalizedSelected
-    ) || limitedCourses.find(c => 
-      normalizeCourseId(c.id) === normalizedSelected
+    return (
+      courses.find((c) => normalizeCourseId(c.id) === normalizedSelected) ||
+      limitedCourses.find((c) => normalizeCourseId(c.id) === normalizedSelected)
     );
   }, [selectedCourseId, courses, limitedCourses]);
 
   // State to track expanded courses (to show prerequisites)
   // Uses a Set to efficiently track which courses have their prerequisites visible
-  const [expandedCourses, setExpandedCourses] = useState<Set<string>>(new Set());
+  const [expandedCourses, setExpandedCourses] = useState<Set<string>>(
+    new Set()
+  );
 
   /**
    * Handles clicks on tree nodes
    * - Course nodes: Expands prerequisites and opens details panel
    * - Year/Term nodes: Handled by react-d3-tree's toggleNode
-   * 
+   *
    * @param courseId - The ID of the clicked course
    * @param nodeDatum - The node data from react-d3-tree
    */
   const handleNodeClick = (courseId: string, nodeDatum: any) => {
     // If it's a course node (not a year or term), expand prerequisites and show details
-    if (nodeDatum.attributes?.courseId && !nodeDatum.attributes?.isTerm && !nodeDatum.attributes?.isYear) {
+    if (
+      nodeDatum.attributes?.courseId &&
+      !nodeDatum.attributes?.isTerm &&
+      !nodeDatum.attributes?.isYear
+    ) {
       const normalizedId = normalizeCourseId(courseId);
-      // Always expand to show prerequisites when clicked (don't toggle/collapse)
-      setExpandedCourses(prev => {
-        const newSet = new Set(prev);
-        newSet.add(normalizedId); // Always add, never remove on click
+      // Collapse other expanded courses and only expand the clicked one.
+      // If the clicked course is already expanded, collapse it (toggle behavior).
+      setExpandedCourses((prev) => {
+        const newSet = new Set<string>();
+        if (!prev.has(normalizedId)) {
+          newSet.add(normalizedId); // Expand only the clicked course
+        }
         return newSet;
       });
       // Open details panel
@@ -381,7 +417,7 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
   /**
    * Builds the tree structure with prerequisites added for expanded courses
    * Recursively traverses the tree and adds prerequisite children to expanded course nodes
-   * 
+   *
    * @returns Updated tree data with prerequisites visible for expanded courses
    */
   const buildTreeWithPrereqs = useMemo(() => {
@@ -394,28 +430,34 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
      */
     const addPrerequisites = (node: TreeNode): TreeNode => {
       // If this is a course node (not a year or term)
-      if (node.attributes?.courseId && !node.attributes?.isTerm && !node.attributes?.isYear) {
+      if (
+        node.attributes?.courseId &&
+        !node.attributes?.isTerm &&
+        !node.attributes?.isYear
+      ) {
         const normalizedId = normalizeCourseId(node.attributes.courseId);
         const isExpanded = expandedCourses.has(normalizedId);
         const prerequisites = node.attributes.prerequisites || [];
-        
+
         // If the course is expanded and has prerequisites, add them as children
         if (isExpanded && prerequisites.length > 0) {
           // Find the course to get full prerequisite info
-          const course = courses.find(c => 
-            normalizeCourseId(c.id) === normalizedId
-          ) || limitedCourses.find(c => 
-            normalizeCourseId(c.id) === normalizedId
-          );
-          
+          const course =
+            courses.find((c) => normalizeCourseId(c.id) === normalizedId) ||
+            limitedCourses.find(
+              (c) => normalizeCourseId(c.id) === normalizedId
+            );
+
           // Create child nodes for each prerequisite
           if (course && course.prerequisites) {
-            const prereqNodes: TreeNode[] = course.prerequisites.map(prereq => ({
-              name: prereq,
-              attributes: {
-                courseId: prereq,
-              },
-            }));
+            const prereqNodes: TreeNode[] = course.prerequisites.map(
+              (prereq) => ({
+                name: prereq,
+                attributes: {
+                  courseId: prereq,
+                },
+              })
+            );
             return {
               ...node,
               children: prereqNodes,
@@ -425,7 +467,7 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
         // If not expanded or no prerequisites, ensure no children
         return { ...node, children: undefined };
       }
-      
+
       // Recursively process child nodes (years, terms, etc.)
       if (node.children) {
         return {
@@ -450,11 +492,13 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
    */
   React.useEffect(() => {
     setIsClient(true);
-    import('react-d3-tree').then((mod) => {
-      setTree(() => mod.default);
-    }).catch((err) => {
-      console.error('Failed to load react-d3-tree:', err);
-    });
+    import("react-d3-tree")
+      .then((mod) => {
+        setTree(() => mod.default);
+      })
+      .catch((err) => {
+        console.error("Failed to load react-d3-tree:", err);
+      });
   }, []);
 
   // Show loading state while react-d3-tree is being imported or if no data
@@ -467,7 +511,8 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
             <div>
               <h3 style={styles.title}>Course Prerequisites Tree</h3>
               <p style={styles.subtitle}>
-                {courses.length} courses • {courses.reduce((sum, c) => sum + c.credits, 0)} total credits
+                {courses.length} courses •{" "}
+                {courses.reduce((sum, c) => sum + c.credits, 0)} total credits
               </p>
             </div>
           </div>
@@ -485,9 +530,15 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
         <div style={styles.headerLeft}>
           <BookOpen size={24} style={{ marginRight: 10 }} />
           <div>
-            <h3 style={styles.title}>{title || 'Course Prerequisites Tree'}</h3>
+            <h3 style={styles.title}>{title || "Course Prerequisites Tree"}</h3>
             <p style={styles.subtitle}>
-              {subtitle || `${limitedCourses.length} of ${courses.length} courses shown • ${limitedCourses.reduce((sum, c) => sum + c.credits, 0)} credits`}
+              {subtitle ||
+                `${limitedCourses.length} of ${
+                  courses.length
+                } courses shown • ${limitedCourses.reduce(
+                  (sum, c) => sum + c.credits,
+                  0
+                )} credits`}
             </p>
           </div>
         </div>
@@ -504,41 +555,45 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
       <div style={styles.content}>
         <div style={styles.treeContainer} id="tree-container">
           <Tree
-            data={buildTreeWithPrereqs || treeData}  // Use tree with prerequisites if available
-            orientation="vertical"                    // Tree grows top to bottom
-            pathFunc="diagonal"                       // Diagonal lines connecting nodes
-            translate={{ x: 300, y: 50 }}            // Initial position offset
-            zoom={0.7}                                // Initial zoom level (70%)
-            nodeSize={{ x: 250, y: 150 }}            // Spacing between nodes
+            data={buildTreeWithPrereqs || treeData} // Use tree with prerequisites if available
+            orientation="vertical" // Tree grows top to bottom
+            pathFunc="diagonal" // Diagonal lines connecting nodes
+            translate={{ x: 300, y: 50 }} // Initial position offset
+            zoom={0.7} // Initial zoom level (70%)
+            nodeSize={{ x: 250, y: 150 }} // Spacing between nodes
             renderCustomNodeElement={(rd3tProps: any) => {
               // Prevent course nodes from being collapsible (only years/terms can collapse)
-              const isCourseNode = rd3tProps.nodeDatum.attributes?.courseId && 
-                                   !rd3tProps.nodeDatum.attributes?.isTerm && 
-                                   !rd3tProps.nodeDatum.attributes?.isYear;
-              
-              return renderCustomNode({ 
-                ...rd3tProps, 
+              const isCourseNode =
+                rd3tProps.nodeDatum.attributes?.courseId &&
+                !rd3tProps.nodeDatum.attributes?.isTerm &&
+                !rd3tProps.nodeDatum.attributes?.isYear;
+
+              return renderCustomNode({
+                ...rd3tProps,
                 onNodeClick: handleNodeClick,
                 toggleNode: isCourseNode ? undefined : rd3tProps.toggleNode, // Don't allow course nodes to toggle
-                expandedCourses: expandedCourses
+                expandedCourses: expandedCourses,
               });
             }}
             styles={{
               links: {
-                stroke: '#004aad',    // Blue color for tree connections
+                stroke: "#004aad", // Blue color for tree connections
                 strokeWidth: 2,
               },
             }}
             svgClassName="course-tree-svg"
-            collapsible={true}                        // Allow collapsing years/terms
-            initialDepth={2}                          // Initially show 2 levels deep (root + years)
-            shouldCollapseNeighborNodes={false}      // Don't auto-collapse siblings
+            collapsible={true} // Allow collapsing years/terms
+            initialDepth={1} // Initially show 1 level deep (root + years)
+            shouldCollapseNeighborNodes={true} // Auto-collapse sibling year/term nodes when toggled
           />
         </div>
       </div>
 
       {isDetailsOpen && selectedCourse && (
-        <div style={styles.detailsPanelOverlay} onClick={() => setIsDetailsOpen(false)}>
+        <div
+          style={styles.detailsPanelOverlay}
+          onClick={() => setIsDetailsOpen(false)}
+        >
           <div style={styles.detailsPanel} onClick={(e) => e.stopPropagation()}>
             <div style={styles.detailsHeader}>
               <h3 style={styles.detailsTitle}>Course Details</h3>
@@ -564,14 +619,16 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
                     {selectedCourse.difficulty}
                   </div>
                 )}
-                <div style={styles.creditsBadge}>{selectedCourse.credits} CR</div>
+                <div style={styles.creditsBadge}>
+                  {selectedCourse.credits} CR
+                </div>
               </div>
 
               <h4 style={styles.courseName}>{selectedCourse.name}</h4>
 
               <div style={styles.courseInfo}>
                 <div style={styles.infoItem}>
-                  <strong>Semester:</strong> {selectedCourse.semester || 'N/A'}
+                  <strong>Semester:</strong> {selectedCourse.semester || "N/A"}
                 </div>
                 <div style={styles.infoItem}>
                   <strong>Credits:</strong> {selectedCourse.credits}
@@ -581,68 +638,86 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
               {selectedCourse.description && (
                 <div style={styles.description}>
                   <strong>Description:</strong>
-                  <p style={{ marginTop: '8px', lineHeight: '1.6' }}>{selectedCourse.description}</p>
+                  <p style={{ marginTop: "8px", lineHeight: "1.6" }}>
+                    {selectedCourse.description}
+                  </p>
                 </div>
               )}
 
-              {selectedCourse.prerequisites && selectedCourse.prerequisites.length > 0 && (
-                <div style={styles.prerequisitesSection}>
-                  <strong>📋 Prerequisites:</strong>
-                  <div style={styles.prerequisitesList}>
-                    {selectedCourse.prerequisites.map((prereq, idx) => (
-                      <span key={idx} style={styles.prerequisiteTag}>
-                        {prereq}
-                      </span>
-                    ))}
+              {selectedCourse.prerequisites &&
+                selectedCourse.prerequisites.length > 0 && (
+                  <div style={styles.prerequisitesSection}>
+                    <strong>📋 Prerequisites:</strong>
+                    <div style={styles.prerequisitesList}>
+                      {selectedCourse.prerequisites.map((prereq, idx) => (
+                        <span key={idx} style={styles.prerequisiteTag}>
+                          {prereq}
+                        </span>
+                      ))}
+                    </div>
                   </div>
-                </div>
-              )}
+                )}
 
-              {selectedCourse.sessions && selectedCourse.sessions.length > 0 && (
-                <div style={styles.sessionsSection}>
-                  <div style={styles.sessionsSectionHeader}>
-                    🕒 Available Sections ({selectedCourse.sessions.length})
+              {selectedCourse.sessions &&
+                selectedCourse.sessions.length > 0 && (
+                  <div style={styles.sessionsSection}>
+                    <div style={styles.sessionsSectionHeader}>
+                      🕒 Available Sections ({selectedCourse.sessions.length})
+                    </div>
+                    <div style={styles.sessionsList}>
+                      {selectedCourse.sessions.map((session, idx) => (
+                        <div key={idx} style={styles.sessionCard}>
+                          <div style={styles.sessionRow}>
+                            <span style={styles.sessionLabel}>Section:</span>
+                            <span style={styles.sessionValue}>
+                              {session.section}
+                            </span>
+                          </div>
+                          <div style={styles.sessionRow}>
+                            <span style={styles.sessionLabel}>Time:</span>
+                            <span style={styles.sessionValue}>
+                              {session.schedule}
+                            </span>
+                          </div>
+                          <div style={styles.sessionRow}>
+                            <span style={styles.sessionLabel}>Instructor:</span>
+                            <span style={styles.sessionValue}>
+                              {session.instructor}
+                            </span>
+                          </div>
+                          <div style={styles.sessionRow}>
+                            <span style={styles.sessionLabel}>Location:</span>
+                            <span style={styles.sessionValue}>
+                              {session.location}
+                            </span>
+                          </div>
+                          <div style={styles.sessionRow}>
+                            <span style={styles.sessionLabel}>Dates:</span>
+                            <span style={styles.sessionValue}>
+                              {session.classDate}
+                            </span>
+                          </div>
+                          <div style={styles.sessionRow}>
+                            <span style={styles.sessionLabel}>Capacity:</span>
+                            <span
+                              style={{
+                                ...styles.sessionValue,
+                                ...styles.capacityBadge,
+                                background:
+                                  session.status === "Open"
+                                    ? "#28a745"
+                                    : "#dc3545",
+                              }}
+                            >
+                              {session.enrolled}/{session.capacity} •{" "}
+                              {session.status}
+                            </span>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
                   </div>
-                  <div style={styles.sessionsList}>
-                    {selectedCourse.sessions.map((session, idx) => (
-                      <div key={idx} style={styles.sessionCard}>
-                        <div style={styles.sessionRow}>
-                          <span style={styles.sessionLabel}>Section:</span>
-                          <span style={styles.sessionValue}>{session.section}</span>
-                        </div>
-                        <div style={styles.sessionRow}>
-                          <span style={styles.sessionLabel}>Time:</span>
-                          <span style={styles.sessionValue}>{session.schedule}</span>
-                        </div>
-                        <div style={styles.sessionRow}>
-                          <span style={styles.sessionLabel}>Instructor:</span>
-                          <span style={styles.sessionValue}>{session.instructor}</span>
-                        </div>
-                        <div style={styles.sessionRow}>
-                          <span style={styles.sessionLabel}>Location:</span>
-                          <span style={styles.sessionValue}>{session.location}</span>
-                        </div>
-                        <div style={styles.sessionRow}>
-                          <span style={styles.sessionLabel}>Dates:</span>
-                          <span style={styles.sessionValue}>{session.classDate}</span>
-                        </div>
-                        <div style={styles.sessionRow}>
-                          <span style={styles.sessionLabel}>Capacity:</span>
-                          <span
-                            style={{
-                              ...styles.sessionValue,
-                              ...styles.capacityBadge,
-                              background: session.status === 'Open' ? '#28a745' : '#dc3545',
-                            }}
-                          >
-                            {session.enrolled}/{session.capacity} • {session.status}
-                          </span>
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              )}
+                )}
             </div>
           </div>
         </div>
@@ -659,10 +734,14 @@ export default function CourseTree({ courses, title, subtitle }: CourseTreeProps
 
 const getDifficultyColor = (difficulty?: string) => {
   switch (difficulty?.toLowerCase()) {
-    case 'easy': return '#28a745';
-    case 'medium': return '#ffc107';
-    case 'hard': return '#dc3545';
-    default: return '#6c757d';
+    case "easy":
+      return "#28a745";
+    case "medium":
+      return "#ffc107";
+    case "hard":
+      return "#dc3545";
+    default:
+      return "#6c757d";
   }
 };
 
@@ -673,270 +752,269 @@ const getDifficultyColor = (difficulty?: string) => {
  */
 const styles: Record<string, any> = {
   container: {
-    background: 'linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%)',
-    borderRadius: '16px',
-    padding: '25px',
-    marginTop: '20px',
-    border: '3px solid #004aad',
-    boxShadow: '0 4px 20px rgba(0, 74, 173, 0.15)',
+    background: "linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%)",
+    borderRadius: "16px",
+    padding: "25px",
+    marginTop: "20px",
+    border: "3px solid #004aad",
+    boxShadow: "0 4px 20px rgba(0, 74, 173, 0.15)",
   },
   loadingContainer: {
-    padding: '40px',
-    textAlign: 'center',
-    color: '#666',
+    padding: "40px",
+    textAlign: "center",
+    color: "#666",
   },
   header: {
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    color: '#004aad',
-    marginBottom: '25px',
-    paddingBottom: '15px',
-    borderBottom: '3px solid #004aad',
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "space-between",
+    color: "#004aad",
+    marginBottom: "25px",
+    paddingBottom: "15px",
+    borderBottom: "3px solid #004aad",
   },
   headerLeft: {
-    display: 'flex',
-    alignItems: 'center',
+    display: "flex",
+    alignItems: "center",
   },
   title: {
     margin: 0,
-    fontSize: '1.5rem',
-    fontWeight: 'bold',
+    fontSize: "1.5rem",
+    fontWeight: "bold",
   },
   subtitle: {
-    margin: '5px 0 0 0',
-    fontSize: '0.9rem',
-    color: '#666',
-    fontWeight: 'normal',
+    margin: "5px 0 0 0",
+    fontSize: "0.9rem",
+    color: "#666",
+    fontWeight: "normal",
   },
   printButton: {
-    display: 'inline-flex',
-    alignItems: 'center',
-    gap: '6px',
-    padding: '8px 12px',
-    background: '#0b6efd',
-    color: '#fff',
-    border: 'none',
+    display: "inline-flex",
+    alignItems: "center",
+    gap: "6px",
+    padding: "8px 12px",
+    background: "#0b6efd",
+    color: "#fff",
+    border: "none",
     borderRadius: 8,
-    cursor: 'pointer',
-    boxShadow: '0 6px 20px rgba(11, 110, 253, 0.25)',
+    cursor: "pointer",
+    boxShadow: "0 6px 20px rgba(11, 110, 253, 0.25)",
   },
   content: {
-    display: 'flex',
-    gap: '20px',
-    minHeight: '500px',
+    display: "flex",
+    gap: "20px",
+    minHeight: "500px",
   },
   treeContainer: {
     flex: 1,
-    background: '#ffffff',
-    borderRadius: '12px',
-    padding: '20px',
-    overflow: 'auto',
-    overflowX: 'auto',
-    overflowY: 'auto',
-    border: '2px solid #e9ecef',
-    minHeight: '500px',
-    position: 'relative',
-    width: '100%',
+    background: "#ffffff",
+    borderRadius: "12px",
+    padding: "20px",
+    overflow: "auto",
+    overflowX: "auto",
+    overflowY: "auto",
+    border: "2px solid #e9ecef",
+    minHeight: "500px",
+    position: "relative",
+    width: "100%",
   },
   detailsPanelOverlay: {
-    position: 'fixed',
+    position: "fixed",
     top: 0,
     left: 0,
     right: 0,
     bottom: 0,
-    background: 'rgba(0, 0, 0, 0.5)',
+    background: "rgba(0, 0, 0, 0.5)",
     zIndex: 2000,
-    display: 'flex',
-    justifyContent: 'flex-end',
-    alignItems: 'stretch',
+    display: "flex",
+    justifyContent: "flex-end",
+    alignItems: "stretch",
   },
   detailsPanel: {
-    width: '500px',
-    maxWidth: '90vw',
-    background: '#ffffff',
-    borderRadius: '12px 0 0 12px',
-    padding: '0',
-    boxShadow: '-3px 0 12px rgba(0,0,0,0.2)',
-    border: '2px solid #e9ecef',
-    borderRight: 'none',
-    height: '100vh',
-    display: 'flex',
-    flexDirection: 'column',
-    animation: 'slideInRight 0.3s ease-out',
+    width: "500px",
+    maxWidth: "90vw",
+    background: "#ffffff",
+    borderRadius: "12px 0 0 12px",
+    padding: "0",
+    boxShadow: "-3px 0 12px rgba(0,0,0,0.2)",
+    border: "2px solid #e9ecef",
+    borderRight: "none",
+    height: "100vh",
+    display: "flex",
+    flexDirection: "column",
+    animation: "slideInRight 0.3s ease-out",
   },
   detailsHeader: {
-    display: 'flex',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    padding: '20px',
-    paddingBottom: '15px',
-    borderBottom: '2px solid #e9ecef',
-    background: 'linear-gradient(135deg, #004aad 0%, #0066cc 100%)',
-    color: '#ffffff',
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center",
+    padding: "20px",
+    paddingBottom: "15px",
+    borderBottom: "2px solid #e9ecef",
+    background: "linear-gradient(135deg, #004aad 0%, #0066cc 100%)",
+    color: "#ffffff",
     flexShrink: 0,
   },
   detailsTitle: {
     margin: 0,
-    fontSize: '1.2rem',
-    fontWeight: 'bold',
-    color: '#ffffff',
+    fontSize: "1.2rem",
+    fontWeight: "bold",
+    color: "#ffffff",
   },
   closeButton: {
-    background: 'rgba(255, 255, 255, 0.2)',
-    border: 'none',
-    cursor: 'pointer',
-    color: '#ffffff',
-    padding: '8px',
-    borderRadius: '50%',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-    width: '32px',
-    height: '32px',
-    transition: 'all 0.2s ease',
+    background: "rgba(255, 255, 255, 0.2)",
+    border: "none",
+    cursor: "pointer",
+    color: "#ffffff",
+    padding: "8px",
+    borderRadius: "50%",
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    width: "32px",
+    height: "32px",
+    transition: "all 0.2s ease",
   },
   detailsContent: {
-    display: 'flex',
-    flexDirection: 'column',
-    gap: '15px',
-    padding: '20px',
-    overflowY: 'auto',
+    display: "flex",
+    flexDirection: "column",
+    gap: "15px",
+    padding: "20px",
+    overflowY: "auto",
     flex: 1,
   },
   courseHeader: {
-    display: 'flex',
-    gap: '10px',
-    alignItems: 'center',
-    flexWrap: 'wrap',
+    display: "flex",
+    gap: "10px",
+    alignItems: "center",
+    flexWrap: "wrap",
   },
   courseIdBadge: {
-    fontSize: '15px',
-    fontWeight: 'bold',
-    color: '#004aad',
-    background: '#e3f2fd',
-    padding: '6px 14px',
-    borderRadius: '6px',
+    fontSize: "15px",
+    fontWeight: "bold",
+    color: "#004aad",
+    background: "#e3f2fd",
+    padding: "6px 14px",
+    borderRadius: "6px",
   },
   difficultyBadge: {
-    fontSize: '11px',
-    color: '#ffffff',
-    padding: '4px 10px',
-    borderRadius: '12px',
-    fontWeight: '600',
-    textTransform: 'uppercase',
+    fontSize: "11px",
+    color: "#ffffff",
+    padding: "4px 10px",
+    borderRadius: "12px",
+    fontWeight: "600",
+    textTransform: "uppercase",
   },
   creditsBadge: {
-    fontSize: '12px',
-    color: '#004aad',
-    background: '#f0f6ff',
-    padding: '4px 10px',
-    borderRadius: '12px',
-    fontWeight: '600',
+    fontSize: "12px",
+    color: "#004aad",
+    background: "#f0f6ff",
+    padding: "4px 10px",
+    borderRadius: "12px",
+    fontWeight: "600",
   },
   courseName: {
-    fontSize: '18px',
-    fontWeight: '700',
-    color: '#222',
-    marginTop: '10px',
+    fontSize: "18px",
+    fontWeight: "700",
+    color: "#222",
+    marginTop: "10px",
   },
   description: {
-    fontSize: '13px',
-    color: '#555',
-    lineHeight: '1.5',
-    padding: '10px',
-    background: '#f8f9fa',
-    borderRadius: '6px',
-    borderLeft: '3px solid #004aad',
+    fontSize: "13px",
+    color: "#555",
+    lineHeight: "1.5",
+    padding: "10px",
+    background: "#f8f9fa",
+    borderRadius: "6px",
+    borderLeft: "3px solid #004aad",
   },
   prerequisitesSection: {
-    padding: '10px',
-    background: '#fff3cd',
-    borderRadius: '6px',
-    fontSize: '13px',
-    borderLeft: '3px solid #ffc107',
+    padding: "10px",
+    background: "#fff3cd",
+    borderRadius: "6px",
+    fontSize: "13px",
+    borderLeft: "3px solid #ffc107",
   },
   prerequisitesList: {
-    display: 'flex',
-    flexWrap: 'wrap',
-    gap: '6px',
-    marginTop: '8px',
+    display: "flex",
+    flexWrap: "wrap",
+    gap: "6px",
+    marginTop: "8px",
   },
   prerequisiteTag: {
-    background: '#ffffff',
-    color: '#856404',
-    padding: '4px 10px',
-    borderRadius: '4px',
-    fontSize: '12px',
-    fontWeight: '500',
-    border: '1px solid #ffc107',
+    background: "#ffffff",
+    color: "#856404",
+    padding: "4px 10px",
+    borderRadius: "4px",
+    fontSize: "12px",
+    fontWeight: "500",
+    border: "1px solid #ffc107",
   },
   sessionsSection: {
-    padding: '12px',
-    background: '#f0f6ff',
-    borderRadius: '8px',
-    border: '1px solid #004aad',
+    padding: "12px",
+    background: "#f0f6ff",
+    borderRadius: "8px",
+    border: "1px solid #004aad",
   },
   sessionsSectionHeader: {
-    fontSize: '13px',
-    fontWeight: 'bold',
-    color: '#004aad',
-    marginBottom: '10px',
+    fontSize: "13px",
+    fontWeight: "bold",
+    color: "#004aad",
+    marginBottom: "10px",
   },
   sessionsList: {
-    display: 'flex',
-    flexDirection: 'column',
-    gap: '10px',
+    display: "flex",
+    flexDirection: "column",
+    gap: "10px",
   },
   sessionCard: {
-    background: '#ffffff',
-    padding: '12px',
-    borderRadius: '6px',
-    border: '1px solid #dee2e6',
-    fontSize: '12px',
+    background: "#ffffff",
+    padding: "12px",
+    borderRadius: "6px",
+    border: "1px solid #dee2e6",
+    fontSize: "12px",
   },
   sessionRow: {
-    display: 'flex',
-    justifyContent: 'space-between',
-    marginBottom: '6px',
+    display: "flex",
+    justifyContent: "space-between",
+    marginBottom: "6px",
   },
   sessionLabel: {
-    fontWeight: '600',
-    color: '#666',
+    fontWeight: "600",
+    color: "#666",
   },
   sessionValue: {
-    color: '#333',
-    textAlign: 'right',
+    color: "#333",
+    textAlign: "right",
   },
   capacityBadge: {
-    color: '#ffffff',
-    padding: '2px 8px',
-    borderRadius: '4px',
-    fontSize: '11px',
-    fontWeight: '600',
+    color: "#ffffff",
+    padding: "2px 8px",
+    borderRadius: "4px",
+    fontSize: "11px",
+    fontWeight: "600",
   },
   courseInfo: {
-    display: 'flex',
-    flexDirection: 'row',
-    gap: '20px',
-    padding: '12px',
-    background: '#f0f6ff',
-    borderRadius: '8px',
-    border: '1px solid #004aad',
+    display: "flex",
+    flexDirection: "row",
+    gap: "20px",
+    padding: "12px",
+    background: "#f0f6ff",
+    borderRadius: "8px",
+    border: "1px solid #004aad",
   },
   infoItem: {
-    fontSize: '14px',
-    color: '#004aad',
-    fontWeight: '500',
+    fontSize: "14px",
+    color: "#004aad",
+    fontWeight: "500",
   },
   hint: {
-    marginTop: '15px',
-    padding: '10px',
-    background: '#e3f2fd',
-    borderRadius: '8px',
-    textAlign: 'center',
-    color: '#004aad',
-    fontSize: '14px',
+    marginTop: "15px",
+    padding: "10px",
+    background: "#e3f2fd",
+    borderRadius: "8px",
+    textAlign: "center",
+    color: "#004aad",
+    fontSize: "14px",
   },
 };
-

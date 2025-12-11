@@ -1,10 +1,12 @@
+//Vraj Soni
 import { useAuth } from "@/contexts/AuthContext";
 import { FormEventHandler, useCallback, useState, useEffect } from "react";
-import Link from 'next/link';
+import Link from "next/link";
 import Head from "next/head";
 import { Send, Paperclip, Menu, BookOpen, Award, Printer } from "lucide-react";
 import { useRouter } from "next/navigation";
-import CourseTree from "@/components/CoureTree";
+import FlowchartVisualization from "@/components/FlowchartVisualization";
+import CourseRecommendation from "@/components/CourseRecommendation";
 
 interface CourseSession {
   section: string;
@@ -20,7 +22,7 @@ interface CourseSession {
 interface Course {
   id: string;
   name: string;
-  semester: string;              // Semester/term name
+  semester: string; // Semester/term name
   semesterIndex?: number;
   credits: number;
   difficulty?: string;
@@ -41,11 +43,12 @@ interface ChatMessage {
 interface UserProfile {
   name: string;
   college: string;
-  major: string;
+  major: { name: string; id: number };
   collegeYear: string;
   graduationYear: string;
 }
-
+//vrajsoni Dec 8 2025: Main Home Page with Chat Interface and Visualizations
+// useEffect hooks for auth verification, onboarding check, and user profile loading from localStorage
 export default function Home() {
   const [input, setInput] = useState("");
   const [chat, setChat] = useState<ChatMessage[]>([]);
@@ -74,8 +77,8 @@ export default function Home() {
   useEffect(() => {
     // Redirect to login if user is not authenticated
     if (!isAuthenticated) {
-      console.log('User not authenticated, redirecting to login...');
-      router.push('/login');
+      console.log("User not authenticated, redirecting to login...");
+      router.push("/login");
       return;
     }
 
@@ -83,8 +86,8 @@ export default function Home() {
     // Onboarding must be completed before accessing the main chat interface
     const onboardingCompleted = localStorage.getItem("onboarding_completed");
     if (!onboardingCompleted) {
-      console.log('Onboarding not completed, redirecting...');
-      router.push('/onboarding');
+      console.log("Onboarding not completed, redirecting...");
+      router.push("/onboarding");
       return;
     }
 
@@ -99,76 +102,101 @@ export default function Home() {
     }
   }, [isAuthenticated, router]);
 
-  const sendMessage = useCallback<FormEventHandler>(async (e) => {
-    if (e) e.preventDefault();
-    // Don't send empty messages
-    if (!input.trim()) return;
+  const sendMessage = useCallback<FormEventHandler>(
+    async (e) => {
+      // Handles: token validation, API call to /api/chat, response parsing, visualization handling
+      // Updates chat state with user message and bot reply (with optional visualization data)
+      if (e) e.preventDefault();
+      // Don't send empty messages
+      if (!input.trim()) return;
 
-    // Verify authentication token exists
-    if (!token) {
-      console.error('No authentication token found');
-      setChat([...chat, { user: input, bot: 'Error: Please log in to use the chat.' }]);
-      setInput('');
-      return;
-    }
-
-    setLoading(true);
-    try {
-      console.log('Sending message to API with token:', token ? 'Token present' : 'No token');
-      
-      // Send message to chat API endpoint
-      const res = await fetch("/api/chat", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "Authorization": `Bearer ${token}`  // Include auth token in header
-        },
-        body: JSON.stringify({ message: input }),
-      });
-      
-      // Handle API errors
-      if (!res.ok) {
-        const errorData = await res.json().catch(() => ({}));
-        console.error('API request failed:', res.status, res.statusText, errorData);
-        throw new Error(`API request failed: ${res.status}`);
+      // Verify authentication token exists
+      if (!token) {
+        console.error("No authentication token found");
+        setChat([
+          ...chat,
+          { user: input, bot: "Error: Please log in to use the chat." },
+        ]);
+        setInput("");
+        return;
       }
-      
-      const data = await res.json();
-      console.log('API response:', data);
 
-      // Check if response includes visualization data (degree plan, course path, etc.)
-      if (data.visualizationType && data.data) {
-        // Add message with visualization to chat
-        setChat([...chat, { 
-          user: input, 
-          bot: data.reply,
-          visualization: {
-            type: data.visualizationType,  // e.g., "degree_plan", "course_path"
-            data: data.data                // Visualization payload
-          }
-        }]);
-      } else {
-        // Add simple text-only message to chat
-        setChat([...chat, { user: input, bot: data.reply }]);
+      setLoading(true);
+      try {
+        console.log(
+          "Sending message to API with token:",
+          token ? "Token present" : "No token"
+        );
+
+        // Send message to chat API endpoint
+        const res = await fetch("/api/chat", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: `Bearer ${token}`, // Include auth token in header
+          },
+          body: JSON.stringify({ message: input }),
+        });
+
+        // Handle API errors
+        if (!res.ok) {
+          const errorData = await res.json().catch(() => ({}));
+          console.error(
+            "API request failed:",
+            res.status,
+            res.statusText,
+            errorData
+          );
+          throw new Error(`API request failed: ${res.status}`);
+        }
+
+        const data = await res.json();
+        console.log("API response:", data);
+
+        // Check if response includes visualization data (degree plan, course path, etc.)
+        if (data.visualizationType && data.data) {
+          // Add message with visualization to chat
+          setChat([
+            ...chat,
+            {
+              user: input,
+              bot: data.reply,
+              visualization: {
+                type: data.visualizationType, // e.g., "degree_plan", "course_path"
+                data: data.data, // Visualization payload
+              },
+            },
+          ]);
+        } else {
+          // Add simple text-only message to chat
+          setChat([...chat, { user: input, bot: data.reply }]);
+        }
+
+        // Clear input field after sending
+        setInput("");
+      } catch (error) {
+        console.error("Error sending message:", error);
+        // Show error message to user
+        setChat([
+          ...chat,
+          { user: input, bot: "Error: Failed to get response from server." },
+        ]);
+        setInput("");
+      } finally {
+        // Always reset loading state
+        setLoading(false);
       }
-      
-      // Clear input field after sending
-      setInput('');
-    } catch (error) {
-      console.error('Error sending message:', error);
-      // Show error message to user
-      setChat([...chat, { user: input, bot: 'Error: Failed to get response from server.' }]);
-      setInput('');
-    } finally {
-      // Always reset loading state
-      setLoading(false);
-    }
-  }, [input, token, chat]);
+    },
+    [input, token, chat]
+  );
 
   const renderVisualization = (visualization: { type: string; data: any }) => {
-    
+    // Dynamically renders components based on visualization type:
+    // - "degree_plan": FlowchartVisualization with semester-indexed courses
+    // - "course_path": FlowchartVisualization with course list
+    // - "course_recommendation": CourseRecommendation with query
     // Handle degree plan visualization (full roadmap)
-    if (visualization.type === 'degree_plan') {
+    if (visualization.type === "degree_plan") {
       const semesters = visualization.data.semesters || [];
       const notes: string[] = visualization.data.notes || [];
 
@@ -179,14 +207,14 @@ export default function Home() {
         if (semester.courses && Array.isArray(semester.courses)) {
           semester.courses.forEach((course: any) => {
             allCourses.push({
-              id: course.id || '',
-              name: course.name || course.title || '',
-              semester: semester.term || '',
+              id: course.code || course.id || "",
+              name: course.name || course.title || "",
+              semester: semester.term || "",
               semesterIndex: semesterIndex, // Add index to maintain chronological order
               credits: course.credits || 0,
               difficulty: course.difficulty,
               prerequisites: course.prerequisites || [],
-              description: course.description || '',
+              description: course.description || "",
               sessions: course.sessions || [],
             });
           });
@@ -194,22 +222,35 @@ export default function Home() {
       });
 
       // Calculate total credits across all semesters
-      const totalCredits = semesters.reduce((sum: number, s: any) => sum + (s.totalCredits || 0), 0);
-      
+      const totalCredits = semesters.reduce(
+        (sum: number, s: any) => sum + (s.totalCredits || 0),
+        0
+      );
+
       return (
         <div>
           {/* Render CourseTree with all courses from the degree plan */}
-          <CourseTree 
+          <FlowchartVisualization
             courses={allCourses}
             title="CS Degree Roadmap (UMass Boston)"
             subtitle={`${semesters.length} terms • ${totalCredits} total credits`}
           />
           {/* Display notes if available */}
           {notes.length > 0 && (
-            <div style={{ marginTop: 16, padding: 12, background: "#f8f9fa", borderRadius: 8, border: "1px solid #e9ecef" }}>
+            <div
+              style={{
+                marginTop: 16,
+                padding: 12,
+                background: "#f8f9fa",
+                borderRadius: 8,
+                border: "1px solid #e9ecef",
+              }}
+            >
               <strong>Notes:</strong>
               <ul style={{ marginTop: 8, paddingLeft: 20 }}>
-                {notes.map((n, i) => <li key={i}>{n}</li>)}
+                {notes.map((n, i) => (
+                  <li key={i}>{n}</li>
+                ))}
               </ul>
             </div>
           )}
@@ -218,13 +259,19 @@ export default function Home() {
     }
 
     // Handle course path visualization (prerequisite path)
-    if (visualization.type === 'course_path') {
+    if (visualization.type === "course_path") {
       const courses: Course[] = visualization.data.courses || [];
-      
+
       // Render CourseTree with the course path data
-      return <CourseTree courses={courses} />;
+      return <FlowchartVisualization courses={courses} />;
     }
-    
+
+    // Handle course recommendation visualization
+    if (visualization.type === "course_recommendation") {
+      const userQuery = visualization.data?.query || "";
+      return <CourseRecommendation initialQuery={userQuery} />;
+    }
+
     // Return null for unsupported visualization types
     return null;
   };
@@ -255,14 +302,16 @@ export default function Home() {
       {/* Fixed title bar at top of page */}
       <div style={styles.titleBar}>
         {/* Menu button with dynamic radial gradient hover effect */}
-        <button 
+        <button
           style={{
             ...styles.menuButton,
-            ...(isMenuButtonHovered ? {
-              ...styles.menuButtonHover,
-              // Dynamic radial gradient follows mouse position
-              background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.35))`,
-            } : {}),
+            ...(isMenuButtonHovered
+              ? {
+                  ...styles.menuButtonHover,
+                  // Dynamic radial gradient follows mouse position
+                  background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.35))`,
+                }
+              : {}),
           }}
           onMouseEnter={() => setIsMenuButtonHovered(true)}
           onMouseLeave={() => setIsMenuButtonHovered(false)}
@@ -271,13 +320,21 @@ export default function Home() {
         >
           <Menu size={24} color="#ffffff" />
         </button>
-        
+
         {/* Page title centered in title bar */}
-        <h1 style={styles.titleBarHeading}>Intelligent Academic Path Planner</h1>
+        <h1 style={styles.titleBarHeading}>
+          Intelligent Academic Path Planner
+        </h1>
 
         {/* University dropdown (read-only, displays user's college) */}
-        <select style={styles.universityDropdown} value={userProfile?.college || ""} disabled>
-          <option value="">{userProfile?.college || "Select Your University"}</option>
+        <select
+          style={styles.universityDropdown}
+          value={userProfile?.college || ""}
+          disabled
+        >
+          <option value="">
+            {userProfile?.college || "Select Your University"}
+          </option>
         </select>
       </div>
 
@@ -285,10 +342,7 @@ export default function Home() {
       {isMenuOpen && (
         <>
           {/* Overlay backdrop - clicking closes the sidebar */}
-          <div 
-            style={styles.overlay}
-            onClick={() => setIsMenuOpen(false)}
-          />
+          <div style={styles.overlay} onClick={() => setIsMenuOpen(false)} />
           {/* Sidebar with user profile information */}
           <div style={styles.sidebar}>
             {/* Sidebar content section with profile information */}
@@ -296,14 +350,14 @@ export default function Home() {
               <h2 style={styles.sidebarTitle}>Profile Settings</h2>
               <div style={styles.sidebarDropdowns}>
                 {/* Read-only profile fields (loaded from localStorage) */}
-                <input 
-                  style={styles.sidebarInput} 
+                <input
+                  style={styles.sidebarInput}
                   placeholder="Your Name"
                   value={userProfile?.name || ""}
                   readOnly
                 />
-                <input 
-                  style={styles.sidebarInput} 
+                <input
+                  style={styles.sidebarInput}
                   placeholder="Your College"
                   value={userProfile?.college || ""}
                   readOnly
@@ -311,7 +365,7 @@ export default function Home() {
                 <input
                   style={styles.sidebarInput}
                   placeholder="Your Major"
-                  value={userProfile?.major || ""}
+                  value={userProfile?.major?.name || ""}
                   readOnly
                 />
                 <input
@@ -327,8 +381,8 @@ export default function Home() {
                   readOnly
                 />
                 {/* Link to edit profile - redirects to onboarding */}
-                <Link 
-                  href="/onboarding" 
+                <Link
+                  href="/onboarding"
                   style={styles.editProfileButton}
                   onClick={() => {
                     // Remove onboarding completion flag to trigger onboarding flow
@@ -340,10 +394,7 @@ export default function Home() {
               </div>
             </div>
             {/* Logout link at bottom of sidebar */}
-            <Link 
-              href="logout" 
-              style={styles.sidebarLogout}
-            >
+            <Link href="logout" style={styles.sidebarLogout}>
               Log out
             </Link>
           </div>
@@ -353,7 +404,9 @@ export default function Home() {
       {/* Welcome message shown when chat is empty */}
       {chat.length === 0 && (
         <p style={styles.subtitle}>
-          {userProfile ? `Welcome back, ${userProfile.name}! 👋` : "AI-Powered Advisor for University Students"}
+          {userProfile
+            ? `Welcome back, ${userProfile.name}! 👋`
+            : "AI-Powered Advisor for University Students"}
         </p>
       )}
 
@@ -377,7 +430,7 @@ export default function Home() {
               <div>
                 <b>Bot:</b>
                 <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
-                
+
                 {/* Render visualization if available (degree plan, course path, etc.) */}
                 {msg.visualization && (
                   <div style={{ marginTop: 15 }}>
@@ -401,21 +454,24 @@ export default function Home() {
           disabled={loading}
           value={input}
           onChange={(e) => setInput(e.target.value)}
-          onMouseEnter={() => setIsTextBoxHovered(true)}
-          onMouseLeave={() => setIsTextBoxHovered(false)}
+          // onMouseEnter={() => setIsTextBoxHovered(true)}
+          // onMouseLeave={() => setIsTextBoxHovered(false)}
           placeholder="Type your question here..."
+          className="input-white"
         />
-        
+
         {/* File Upload Button - allows users to attach files */}
-        <label 
-          htmlFor="file-upload" 
+        <label
+          htmlFor="file-upload"
           style={{
             ...styles.fileUploadButton,
-            ...(isFileButtonHovered ? {
-              ...styles.fileUploadButtonHover,
-              // Dynamic radial gradient follows mouse position
-              background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #e8edf2, #7a8388)`,
-            } : {}),
+            ...(isFileButtonHovered
+              ? {
+                  ...styles.fileUploadButtonHover,
+                  // Dynamic radial gradient follows mouse position
+                  background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #e8edf2, #7a8388)`,
+                }
+              : {}),
           }}
           onMouseEnter={() => setIsFileButtonHovered(true)}
           onMouseLeave={() => setIsFileButtonHovered(false)}
@@ -423,9 +479,9 @@ export default function Home() {
         >
           <Paperclip size={16} style={{ marginRight: 5 }} />
           {/* Show file count if files are selected */}
-          {selectedFiles && selectedFiles.length > 0 
-            ? `${selectedFiles.length} file(s)` 
-            : 'Attach'}
+          {selectedFiles && selectedFiles.length > 0
+            ? `${selectedFiles.length} file(s)`
+            : "Attach"}
         </label>
         {/* Hidden file input - triggered by label click */}
         <input
@@ -433,18 +489,20 @@ export default function Home() {
           type="file"
           multiple
           onChange={(e) => setSelectedFiles(e.target.files)}
-          style={{ display: 'none' }}
+          style={{ display: "none" }}
         />
-        
+
         {/* Send button - submits the chat form */}
         <button
           style={{
             ...styles.sendButton,
-            ...(isSendButtonHovered ? {
-              ...styles.sendButtonHover,
-              // Dynamic radial gradient follows mouse position
-              background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #99ccff, #1a75d9)`,
-            } : {}),
+            ...(isSendButtonHovered
+              ? {
+                  ...styles.sendButtonHover,
+                  // Dynamic radial gradient follows mouse position
+                  background: `radial-gradient(circle at ${mousePos.x}% ${mousePos.y}%, #99ccff, #1a75d9)`,
+                }
+              : {}),
           }}
           disabled={loading}
           type="submit"
@@ -454,13 +512,14 @@ export default function Home() {
         >
           <Send size={16} style={{ marginRight: 5 }} />
           {/* Show loading indicator while message is being sent */}
-          {loading ? '...' : 'Send'}
+          {loading ? "..." : "Send"}
         </button>
       </form>
 
       {/* Fixed footer at bottom of page */}
       <footer style={styles.footer}>
-        © {new Date().getFullYear()} UMass Boston | Intelligent Academic Path Planner
+        © {new Date().getFullYear()} UMass Boston | Intelligent Academic Path
+        Planner
       </footer>
     </div>
   );

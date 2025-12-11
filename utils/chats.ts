@@ -9,6 +9,8 @@ import { v4 as uuidv4 } from 'uuid';
 import supabase from './supabaseClient';
 
 // Inserts a new message for a chat session
+// Saves chat logs to Supabase 'chats' table for persistence
+// Parameters: chatId (session ID), message (text), role ('user'|'assistant'|'system')
 export async function insertChatMessage(
   chatId: string,
   message: string,
@@ -33,6 +35,9 @@ export function createNewChatSession(): string {
 }
 
 export async function fetchChatMessages(chatId: string) {
+  // Retrieves chat message history from Supabase, ordered chronologically
+  // Parameters: chatId (session ID)
+  // Returns: Array of message objects with timestamps
   const { data, error } = await supabase
     .from('chats')
     .select('*')
