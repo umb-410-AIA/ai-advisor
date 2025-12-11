@@ -1,0 +1,690 @@
+[
+  {
+    "coursename": "The Basis of Life",
+    "courseid": "BIOL101",
+    "coursedescription": "The uniqueness of life within the physical universe. The matter and energy of life, the genetic code, molecular biology, and the origin and evolution of life. An overview for students in the humanities and social sciences of those features which distinguish living organisms from non-living things. No background in the natural sciences is required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Evolutionary Biology",
+    "courseid": "BIOL102",
+    "coursedescription": "Designed for students in the social sciences and humanities. Those areas of genetics, ecology, and evolution that form a unified approach to the study of organisms and populations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Nutrition",
+    "courseid": "BIOL108",
+    "coursedescription": "Introduction to the elements of nutrition with emphasis on nutrition for humans; examination of food stuffs and nutritional quality, physiology of food utilization, food quality regulations, and the global ecology of food production.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "General Biology I",
+    "courseid": "BIOL111",
+    "coursedescription": "An integrated course stressing the principles of biology. Life processes are examined primarily at the molecular and cellular levels. Intended for students majoring in biology or for non-majors who wish to take advanced biology courses.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "General Biology II",
+    "courseid": "BIOL112",
+    "coursedescription": "An integrated course stressing the principles of biology. Life processes are examined primarily at the organismal and population levels. Intended for students majoring in biology or for non-majors who wish to take advanced biology courses.",
+    "course-prerequsities": [
+      "BIOL 111"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Gateway Seminar II",
+    "courseid": "BIOL188S",
+    "coursedescription": "This Seminar Course is organized along a theme if inquiry-based learning for students and faculty. Each participant has a role in understanding topics that are prevalent in the scientific community along with developing new information that might form the basic science investments of the future. Students will be co-developers of this freshman seminar series that will be based primarily on inquiry-based science education. Desired outcomes will focus on students developing discovery skills, becoming self-driven learners, learning to work in groups and being successful at the university. This course will maximize students' potential for success in the university and the scientific community.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Anatomy and Physiology II",
+    "courseid": "BIOL208",
+    "coursedescription": "Continuation of BIOL 207. Emphasis on the digestive, circulatory, respiratory, excretory, and reproductive systems.",
+    "course-prerequsities": [
+      "BIOL 207",
+      "UNTIL 12",
+      "ON 12",
+      "ON 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Medical Microbiology",
+    "courseid": "BIOL209",
+    "coursedescription": "This course examines bacteria, fungi, protozoa, viruses, viroids, and prions, focusing on those that are pathogenic to humans. The course also provides an introduction to immunology, epidemiology, and clinical microbiology. The laboratory introduces students to sterile techniques in microbiology emphasizing isolating and maintaining pure cultures, as well as microbe identification and biochemical testing.",
+    "course-prerequsities": [
+      "BIOL 111",
+      "CHEM 115",
+      "117",
+      "CHEM 903A",
+      "CHEM 130",
+      "UNTIL 12",
+      "ON 12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Cell Biology",
+    "courseid": "BIOL210",
+    "coursedescription": "A study of structure and function of cells including physiological and biochemical processes of cells, membranes, subcellular organelles, and of specialized cells. Specific topics include synthesis and mode of action of biological macromolecules, flow of information and energy, mode of enzyme action, cell-to-cell communication, and membrane functions such as transport.",
+    "course-prerequsities": [
+      "BIOL 112",
+      "CHEM 103",
+      "115",
+      "117",
+      "MATH 130",
+      "MATH 140"
+    ],
+    "course-corequisites": [
+      "MATH 130",
+      "MATH 140"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Cell Biology (Lecture)",
+    "courseid": "BIOL212",
+    "coursedescription": "The description of this course is the same as BIOL 210; this course consists of lecture sections only; there is no laboratory. Biology majors should take BIOL 210. No student may take this course after successful completion of BIOL 210.",
+    "course-prerequsities": [
+      "BIOL 112",
+      "CHEM 103",
+      "115",
+      "117",
+      "MATH 130",
+      "MATH 140"
+    ],
+    "course-corequisites": [
+      "MATH 130",
+      "MATH 140"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Genetics",
+    "courseid": "BIOL252",
+    "coursedescription": "The basic principles of heredity, studied through an integrated presentation of molecular and classical (Mendelian) genetics. Topics include the nature of the hereditary material, structure of chromosomes, and patterns of inheritance.",
+    "course-prerequsities": [
+      "BIOL 112",
+      "CHEM 103",
+      "115",
+      "117",
+      "MATH 130",
+      "MATH 140"
+    ],
+    "course-corequisites": [
+      "MATH 130",
+      "MATH 140"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Genetics (Lecture)",
+    "courseid": "BIOL254",
+    "coursedescription": "The description of this course is the same as BIOL 252; this course consists of lecture sections only; there is no laboratory.",
+    "course-prerequsities": [
+      "BIOL 112",
+      "CHEM 103",
+      "115",
+      "117",
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Population Biology",
+    "courseid": "BIOL290",
+    "coursedescription": "This course focuses on evolutionary and ecological dynamics at the level of populations, including population and quantitative genetics, behavioral ecology, demography, life history, species interactions, and epidemiology. In addition, students will learn to identify common misconceptions in evolutionary and ecological thinking, interpret scientific figures and data, and confidently apply mathematical models to population biology questions.",
+    "course-prerequsities": [
+      "BIOL 112",
+      "MATH 130",
+      "MATH 135",
+      "MATH 140",
+      "MATH 145"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Microbiology (Lecture)",
+    "courseid": "BIOL304",
+    "coursedescription": "The study of viruses, bacteria, algae, fungi, and protozoa, to include their characterization, classification, and relationship to humans and the environment. Lecture topics include microbial biochemistry, cell biology, genetics, taxonomy, pathogenic bacteriology, food and industrial microbiology, and ecology.",
+    "course-prerequsities": [
+      "CHEM 116",
+      "CHEM 118",
+      "BIOL 252",
+      "BIOL 210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Human Anatomy and Human Physiology II",
+    "courseid": "BIOL308",
+    "coursedescription": "This is the second semester of a 2-semester advanced human anatomy and physiology course. The general goal of this 300-level series is to understand how the various organ systems work in the human body to sustain life. It is also the goal of this full-year course for students to appreciate how disruptions to homeostasis affect the whole organism, with a strong focus on the physiological underpinnings of disease. In this second semester, we will be discussing the anatomical and physiological integration of the organ systems to maintain homeostasis as well as some aspects of disease states. Course content will include endocrine and hormonal homeostatic control mechanisms, as well as cardiovascular, respiratory, digestive, urinary, immune, reproductive systems.",
+    "course-prerequsities": [
+      "BIOL 307"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Human Anatomy and Physiology II Lab",
+    "courseid": "BIOL310",
+    "coursedescription": "Study of the fundamental concepts of human anatomy and physiology in an interactive laboratory experience. Hands-on experiments, computerized data acquisition system, and computer simulations are used to explore the neural, muscular and sensory systems. Students measure and analyze data using a computerized data acquisition system.",
+    "course-prerequsities": [
+      "BIOL 307",
+      "BIOL 309"
+    ],
+    "course-corequisites": [
+      "BIOL 308"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Developmental Biol",
+    "courseid": "BIOL314",
+    "coursedescription": "This course analyzes the development of multicellular organisms, focusing on animal development. Major themes of the course include how complex organisms develop from a single cell and how developmental processes continue throughout the life of the organism. Developmental processes that are discussed include cell interactions, cell differentiation, morphogenesis, and pattern formation. These processes are explored in the context of their role in constructing complex and organized tissues, organs, and organisms. Lectures include the use of experimental evidence to understand development and explore the commonality of mechanisms in different organisms.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252",
+      "254",
+      "CHEM 103",
+      "CHEM 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Developmental Biology Lab",
+    "courseid": "BIOL315",
+    "coursedescription": "Students carry out hands-on experimentation and observation to further explore concepts addressed in the Developmental Biology lecture course. Processes such as fertilization, embryonic development, patterning, morphogenesis, differential gene expression, and regeneration are studied. As in the field of developmental biology, a variety of animals are used to study these processes, including flatworms, birds, sea urchins, amphibians, and fish.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252",
+      "254",
+      "CHEM 115",
+      "103"
+    ],
+    "course-corequisites": [
+      "BIOL 314"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Neurobiology",
+    "courseid": "BIOL316",
+    "coursedescription": "Examination of the nervous system, beginning at the membrane and cellular level and then moving on to the organization of sensory and motor systems. Special topics include the biological basis of various neurological and psychiatric diseases.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Neurobiology (Lecture)",
+    "courseid": "BIOL318",
+    "coursedescription": "The description of this course is the same as BIOL 316; this course consists of lecture sections only; there is no laboratory.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Endocrinology (Lecture)",
+    "courseid": "BIOL319",
+    "coursedescription": "The description of this course is the same as BIOL 317; this course consists of lecture sections only; there is no laboratory.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Plant Physiology",
+    "courseid": "BIOL321",
+    "coursedescription": "A study of plant function with emphasis on nutrition, translocation, metabolism, signal transduction and gene expression, photosynthesis and respiration, hormonal controls during vegetative and reproductive growth, and responses to environmental signals and stresses.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252",
+      "254",
+      "CHEM 104",
+      "CHEM 116",
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Plant Physiology (Lecture)",
+    "courseid": "BIOL323",
+    "coursedescription": "The description of this course is the same as BIOL 321; this course consists of lecture sections only; there is no laboratory.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252",
+      "254",
+      "CHEM 104",
+      "CHEM 116",
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Biology of Fishes",
+    "courseid": "BIOL330",
+    "coursedescription": "The evolution, ecology, genetics, taxonomy, and structure of fish. Biological problems of general interest are emphasized, such as breeding systems, genetics of sex determination, evolution by means of chromosome duplication, environmental physiology, and migration.",
+    "course-prerequsities": [
+      "BIOL 252",
+      "254",
+      "BIOL 290"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Biological problems of general interest are emphasized, such as breeding systems, genetics of sex determination, evolution by means of chromosome duplication, environmental physiology, and migration."
+      ]
+    }
+  },
+  {
+    "coursename": "Microbiology",
+    "courseid": "BIOL334",
+    "coursedescription": "The study of viruses, bacteria, algae, fungi, and protozoa, to include their characterization, classification, and relationship to humans and the environment. Lecture topics include microbial biochemistry, cell biology, genetics, taxonomy, pathogenic bacteriology, food and industrial microbiology, and ecology. The laboratory emphasizes aseptic techniques to isolate, culture, observe, and identify bacteria.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252",
+      "254",
+      "CHEM 104",
+      "116"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Comparative Animal Physiology",
+    "courseid": "BIOL337",
+    "coursedescription": "Considers physiological principles and problems in a phylogenetic perspective. An integrated view of physiological solutions from the cellular to organismal level is used to discuss adaptations to environments and constraints on life history. Major topics to be considered include temperature responses, biological clocks, allometry, respiration, circulation, energetics, locomotion, and salt and water balance.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252",
+      "254",
+      "116",
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Comparative Animal Physiology (Lecture)",
+    "courseid": "BIOL339",
+    "coursedescription": "The description of this course is the same as BIOL 337; this course consists of lecture sections only; there is no laboratory.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "CHEM 104",
+      "116",
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ecology",
+    "courseid": "BIOL342",
+    "coursedescription": "A course in population and community ecology. Topics include theory and case studies of population dynamics, competition, predation, niche concepts, life history strategies, behavioral interactions, energetics and productivity, community structure and organization, and biogeography.",
+    "course-prerequsities": [
+      "BIOL 252",
+      "254",
+      "BIOL 290"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ecology Laboratory",
+    "courseid": "BIOL343",
+    "coursedescription": "Field trips to local terrestrial and marine communities, laboratory studies of population dynamics and interactions between species, and analytical approaches to ecological data.",
+    "course-prerequsities": [
+      "BIOL 342"
+    ],
+    "course-corequisites": [
+      "BIOL 342"
+    ],
+    "other": {
+      "notes": [
+        "Field trips to local terrestrial and marine communities, laboratory studies of population dynamics and interactions between species, and analytical approaches to ecological data."
+      ]
+    }
+  },
+  {
+    "coursename": "Evolution",
+    "courseid": "BIOL352",
+    "coursedescription": "Evolution as the unifying concept of biology. Topics include population genetics, adaptive strategies, sex and breeding systems, speciation and population differentiation, fossil histories, evolution of man.",
+    "course-prerequsities": [
+      "BIOL 252",
+      "BIOL 254",
+      "BIOL 290"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Evolution Laboratory",
+    "courseid": "BIOL353",
+    "coursedescription": "Laboratory investigations of evolutionary processes, including simulations of population genetics, biometric analyses of adaptive morphological features in natural populations, experiments on mimicry, field trips to systematic museum collections and local natural habitats, and phylogenetic analysis of land snails. Concepts of experimental design and statistical analysis are emphasized.",
+    "course-prerequsities": [
+      "BIOL 352"
+    ],
+    "course-corequisites": [
+      "BIOL 352"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Data Science in Biology",
+    "courseid": "BIOL355",
+    "coursedescription": "An introduction to basic concepts of how data are used in the biological sciences. The course will emphasize how different branches of biology handle data creation, curation, manipulation, visualization, and some basic analyses. The course will help prepare students to carry out data-intensive research or other work in biology or other scientific disciplines.",
+    "course-prerequsities": [
+      "BIOL 290",
+      "BIOL 252",
+      "BIOL 210",
+      "ENVSCI 210",
+      "ENVSCI 226",
+      "ENVSCI 261",
+      "ENVSCI 267L"
+    ],
+    "course-corequisites": [
+      "BIOL 356"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Data Science for Biology Lab",
+    "courseid": "BIOL356",
+    "coursedescription": "This laboratory course is associated with the lecture course, Introduction to Data Science for Biology, teaching students how to implement conceptual material from the lecture course",
+    "course-prerequsities": [
+      "BIOL 355"
+    ],
+    "course-corequisites": [
+      "BIOL 355"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Comparative and Ecological Immunology",
+    "courseid": "BIOL357",
+    "coursedescription": "Comparative and Ecological Immunology is an advanced undergraduate-level course that explores the philosophy of immunology, the evolution of immune systems, and the integration of ecological and evolutionary concepts important for biomedicine. By comparing different systems from viruses, bacteria, plants, nematodes, insects, and vertebrates, students will gain perspective on the development and function of immune systems. The course will cover the emerging concepts of biological individuality (self and the microbiome) and models of immune development and response. Intended to complement, but not to replace, a course in human immunology, students will learn about trade-offs with immune function, and how immunological responses of individuals scale up to the population and ecosystem levels by exerting influence on pathogen transmission. In particular, comparative sickness behaviors, social distancing, and pathogen avoidance behaviors will be one focal topic. Traditional components of immunological study will be contextualized within model systems forming the core of the course (taxonomic and anatomical comparative immunology) and include mucosal immunity, neuroimmunology, innate immune priming, and adaptive immunity.",
+    "course-prerequsities": [
+      "BIOL 252",
+      "254",
+      "BIOL 290",
+      "CHEM 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Simulating Life",
+    "courseid": "BIOL362",
+    "coursedescription": "Computer simulation of biological phenomena is an important and growing part of biological research. In this course, students will design, build, and test software simulations of biological phenomena of their choosing. In an interactive, cooperative, and synergistic setting, students will learn about biological simulation through readings and discussions, as well as their collaborative project work. We will begin with training in the simulation software, so no previous programming experience is required. As they work on their projects, students will gain a deeper understanding of the biological phenomena that they have chosen to simulate in addition to learning about the scientific process, hypothesis testing, and the power and limitations of computer simulations.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252",
+      "254",
+      "BIOL 290"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Stem Cells and Regeneration",
+    "courseid": "BIOL366",
+    "coursedescription": "This is a highly interactive, literature-based course that focuses broadly on the basic biology of stem cells, organ regeneration, and regenerative therapies. Time is also allotted for students to play an active role in deciding which stem cell, regeneration, and therapeutic-related topics to discuss in class.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252",
+      "254"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Molecular Biology",
+    "courseid": "BIOL370",
+    "coursedescription": "This course examines the molecular mechanisms that mediate the flow of genetic information in the cell, focusing on the broad areas of DNA replication, RNA transcription, and protein translation. The regulation of gene expression will be studies at multiple levels, including transcriptional, epigenetic, and post-transcriptional regulation. Specific topics will include DNA and chromosome packaging, histone modifications, DNA damage and repair, RNA processing, regulation by non-coding RNAs and post-translational processing. The methodologies used to investigate these phenomena will be emphasized, as will key experiments that have led to our current understanding of the field. The laboratory component will emphasize research techniques in the field.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252",
+      "254",
+      "CHEM 115",
+      "117",
+      "116",
+      "118"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Molecular Biology (Lecture)",
+    "courseid": "BIOL372",
+    "coursedescription": "This course examines the molecular mechanisms that mediate the flow of genetic information in the cell, focusing on the broad areas of DNA replication, RNA transcription, and protein translation. The regulation of gene expression will be studies at multiple levels, including transcriptional, epigenetic, and post-transcriptional regulation. Specific topics will include DNA and chromosome packaging, histone modifications, DNA damage and repair, RNA processing, regulation by non-coding RNAs and post-translational processing. The methodologies used to investigate these phenomena will be emphasized, as will key experiments that have led to our current understanding of the field.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "212",
+      "BIOL 252",
+      "254",
+      "CHEM 115",
+      "117",
+      "116",
+      "118"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Cancer Biology",
+    "courseid": "BIOL377",
+    "coursedescription": "This course will examine selected molecular, cellular, and genetic mechanisms that lead to cancer formation. Specific topics that will be covered include the regulation of signal transduction pathways; genomic instability and gene mutation; oncogenes; tumor suppressor genes, and cancer diagnosis and treatment.",
+    "course-prerequsities": [
+      "BIOL 252",
+      "BIOL 210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "BIOL381",
+    "coursedescription": "Detailed study of a specialized field of biology. Several topics may be offered each semester.",
+    "course-prerequsities": [
+      "BIOL 210",
+      "BIOL 252"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Cooperative Education",
+    "courseid": "BIOL444",
+    "coursedescription": "A work placement in an off-campus biological laboratory or field setting where a student carries out an approved project comparable in depth and scope to an advanced undergraduate biology course. The maximum amount of credits given is six, which can all be taken in one semester or apportioned into two semesters of three credits each. The department appoints one or more faculty to serve as co-sponsors.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study II",
+    "courseid": "BIOL479",
+    "coursedescription": "Study of a particular area of this subject under the supervision of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Developmental Biology",
+    "courseid": "BIOL514",
+    "coursedescription": "This course studies plant function with emphasis on nutrition, translocation, metabolism, signal transduction and gene expression, photosynthesis and respiration, hormonal controls during vegetative and reproductive growth, and responses to environmental signals and stresses.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Evolution (Lecture only)",
+    "courseid": "BIOL552",
+    "coursedescription": "This course focuses on evolution as the unifying concept of biology. Topics include population genetics, adaptive strategies, sex and breeding systems, speciation and population differentiation, fossil histories, and the evolution of man.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Molecular Biology (Lecture only)",
+    "courseid": "BIOL572",
+    "coursedescription": "This course studies the molecular biology and biochemistry of gene expression in prokaryotes and eukaryotes. Topics include DNA structure/physical biochemistry, recombinant DNA technology, techniques in research, DNA synthesis, RNA synthesis, protein synthesis, operons, chromatin structure and gene regulation, oncogenes, hormones and growth factors and signal transductions, transposons, mutagenesis and repair, flowering, photosynthesis, development, circadian rhythms.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Genomics and Biotechnology",
+    "courseid": "BIOL625",
+    "coursedescription": "This course provides an overview of genomics and covers topics such as mapping genomes, acquiring genomes and annotating genomes. Students will critically assess the genome projects from various organisms. Special emphasis will be given to technologies that contribute to and stem from the advances in genome sciences, including principles of sequencing, computational tools for gene annotation, functional genomic tolls for systems genetics, and technologies for massively parallel analyses of gene function. The applications of these techniques to various areas of biology will also be presented.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Ecology",
+    "courseid": "BIOL638",
+    "coursedescription": "Concepts of population and community ecology. Topics covered may include population dynamics, life history strategies, theory of r- and K-selection, competition, predation, community organization, and species diversity. Particular emphasis is placed on the relationship between theoretical and empirical ecology. A weekly tutorial provides the opportunity for greater discussion of material covered in lecture. Emphasis changes from year to year.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Responsible Conduct of Research",
+    "courseid": "BIOL649",
+    "coursedescription": "The overall goals of this course are to: a) sensitize students to and stimulate their interest in ethical issues that arise in biomedical and biological research; b) introduce students to best practices, guidelines and expectations, and available resources regarding the responsible conduct of science; and c) foster critical thinking skills as applied to ethical decision making in research. Topics include bias and objectivity in research, authorship and peer review, competing interests in research, research data and intellectual property, scientific record keeping, and mentor-mentee relationships.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The overall goals of this course are to: a) sensitize students to and stimulate their interest in ethical issues that arise in biomedical and biological research; b) introduce students to best practices, guidelines and expectations, and available resources regarding the responsible conduct of science; and c) foster critical thinking skills as applied to ethical decision making in research.",
+        "Topics include bias and objectivity in research, authorship and peer review, competing interests in research, research data and intellectual property, scientific record keeping, and mentor-mentee relationships."
+      ]
+    }
+  },
+  {
+    "coursename": "Scientific Communication",
+    "courseid": "BIOL650",
+    "coursedescription": "Required of all master's and doctoral students; usually taken in the second year. The course covers the storage and retrieval of scientific information (including searching of computerized data bases), the design of tables, figures, and other graphics, the writing of technical reports and papers, and the preparation of posters and publications. Writing, oral presentations and other assignments, and attendance at the weekly departmental seminar, are required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Biological Diversity and Evolution",
+    "courseid": "BIOL652",
+    "coursedescription": "This course is an inquiry into the origin and evolution of patterns of biological diversity. It begins with an overview of the biogeochemical history of the Earth, theories of origin of life, diversification of metazoans during the Panerozoic, and the nature and causes of periodic mass extinction events. Biological diversity is considered at molecular, population, and community levels.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Current Literature in Biology",
+    "courseid": "BIOL653",
+    "coursedescription": "A series of one-credit seminar courses focusing on subfields of environmental biology, to help students develop the habit of keeping up with recent developments through reading scientific journals. The seminars also provide a forum for oral presentations where students can get comment and critique on their scientific progress. Students must take a minimum of five seminars, for a total of five credits. This course is part of the required core in both the Environmental Sciences/Environmental Biology and MCOB PhD tracks.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Rigor and Reproducibility in Biological Research",
+    "courseid": "BIOL659",
+    "coursedescription": "This course examines the factors that improve or impede reproducibility in biological research. Specific topics include the nature of biological variables in research and how to factor them into experimental design; common pitfalls in experimental design and statistical analysis of data in biological research; strategies to improve reproducibility, including rigorous experimental design, unbiased data analysis, authentication of research reagents and resources, and enhanced transparency in reporting.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Directed Readings in Biology",
+    "courseid": "BIOL672",
+    "coursedescription": "This course provides selected readings in advanced areas of biology with guidance and regular discussion.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research Experimentation in Biology",
+    "courseid": "BIOL694",
+    "coursedescription": "This independent study provides students with sustained experience in a research laboratory. Each student pursues a specific research project, which may originate in a public or private sector laboratory or at the University. Each student's project should involve the student in ideas and laboratory skills and should permit the student to produce work of publishable quality.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Biology",
+    "courseid": "BIOL697",
+    "coursedescription": "A field of current interest in biology is examined in detail.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A field of current interest in biology is examined in detail."
+      ]
+    }
+  },
+  {
+    "coursename": "Projects in Biology",
+    "courseid": "BIOL698",
+    "coursedescription": "A substantial written report based on library research or an original project such as curriculum design, design of teaching aids and exercises, or critique of a book or theory. No more than 6 credits of this course may be applied to the master's degree.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Thesis Research",
+    "courseid": "BIOL699",
+    "coursedescription": "Substantial laboratory or field research resulting in a master's thesis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Research",
+    "courseid": "BIOL899",
+    "coursedescription": "These are course credits for research conducted under the supervision of members of the faculty within the Biology Department and leading to the presentation of a doctoral dissertation within one of the PhD programs housed within the Biology department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

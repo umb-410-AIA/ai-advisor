@@ -1,0 +1,268 @@
+[
+  {
+    "coursename": "* FREN 1100a, Elementary and Intermediate French I Staff",
+    "courseid": "FREN 1100a",
+    "coursedescription": "Intensive training and practice in all the language skills, with an initial emphasis on listening and speaking. Emphasis on communicative proficiency, self-expression, and cultural insights. Extensive use of audio and video material. Conducted entirely in French. To be followed by FREN 120. For students with no previous experience of French. Daily classroom attendance is required. L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 1200b, Elementary and Intermediate French II Staff",
+    "courseid": "FREN 1200b",
+    "coursedescription": "Continuation of FREN 110. Open only to students who took FREN 110 (L1) at Yale. Conducted entirely in French. Only after FREN 110. To be followed by FREN 130. L2 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 1210a, Intermediate French Candace Skorupa",
+    "courseid": "FREN 1210a",
+    "coursedescription": "Designed for initiated beginners, this course develops all the language skills with an emphasis on listening and speaking. Activities include role playing, self-expression, and discussion of cultural and literary texts. Emphasis on grammar review and acquisition of vocabulary. Frequent audio and video exercises. Conducted entirely in French. Daily classroom attendance is required. Placement according to placement test score. Online preregistration required; see french.yale.edu for details. L2 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 1250a, Intensive Elementary French Constance Sherak",
+    "courseid": "FREN 1250a",
+    "coursedescription": "An accelerated course that covers in one term the material taught in FREN 110 and 120. Practice in all language skills, with emphasis on communicative proficiency. Admits to FREN 145. Conducted entirely in French. For students of superior linguistic ability. No preregistration required. L1 , L2 RP 2 Course cr MTWThF 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 1300a or b, Intermediate and Advanced French I Staff",
+    "courseid": "FREN 1300a",
+    "coursedescription": "The first half of a two-term sequence designed to develop students' proficiency in the four language skill areas. Prepares students for further work in literary, language, and cultural studies, as well as for nonacademic use of French. Oral communication skills, writing practice, vocabulary expansion, and a comprehensive review of fundamental grammatical structures are integrated with the study of short stories, novels, and films. Admits to FREN 140. Conducted entirely in French. After FREN 120, 121, or a satisfactory placement test score. L3 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 1400a or b, Intermediate and Advanced French II Staff",
+    "courseid": "FREN 1400a",
+    "coursedescription": "The second half of a two-term sequence designed to develop students' proficiency in the four language skill areas. Introduction of more complex grammatical structures. Films and other authentic media accompany literary readings from throughout the francophone world, culminating with the reading of a longer novel and in-class presentation of student research projects. Admits to FREN 150. Conducted entirely in French. After FREN 130 or a satisfactory placement test score. L4 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 1450b, Intensive Intermediate and Advanced French Candace Skorupa",
+    "courseid": "FREN 1450b",
+    "coursedescription": "An accelerated course that covers in one term the material taught in FREN 1300 and 1400 . Emphasis on speaking, writing, and the conversion of grammatical knowledge into reading competence. Admits to FREN 1500 . For students of superior linguistic ability. Conducted entirely in French. After FREN 1200 , 1210 , or 1250. Instructor Permission required. L3 , L4 2 Course cr MTWThF 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Instructor Permission required."
+      ]
+    }
+  },
+  {
+    "coursename": "* FREN 1500a or b, Advanced Language Practice Staff",
+    "courseid": "FREN 1500a",
+    "coursedescription": "An advanced language course intended to improve students' comprehension of spoken and written French as well as their speaking and writing skills. Modern fiction and nonfiction texts familiarize students with idiomatic French. Special attention to grammar review and vocabulary acquisition. Conducted entirely in French. After FREN 1400 , 1450 , or a satisfactory placement test score. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 1600a or b, Advanced Conversation Through Culture, Film, and Media Staff",
+    "courseid": "FREN 1600a",
+    "coursedescription": "Intensive oral practice designed to further skills in listening comprehension, speaking, and reading through the use of videos, films, fiction, and articles. Emphasis on contemporary French and francophone cultures. Conducted entirely in French. Prerequisites: FREN 150, 151, or a satisfactory placement test score, or with permission of the course director. May be taken concurrently with or after FREN 170. L5 HTBA",
+    "course-prerequsities": [
+      "FREN 150",
+      "FREN 170",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: FREN 150, 151, or a satisfactory placement test score, or with permission of the course director."
+      ]
+    }
+  },
+  {
+    "coursename": "* FREN 1700a or b, Introduction to Literatures in French Staff",
+    "courseid": "FREN 1700a",
+    "coursedescription": "Introduction to close reading and analysis of literary texts written in French. Works by authors such as Marie de France, Molière, Balzac, Hugo, Baudelaire, Duras, Proust, and Genet. Please note the syllabus is different for each section. Each syllabus can be found on the syllabus tab of the section course resources in Yale Course Search. May not be taken after FREN 171. L5 , HU HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 1820b, Advanced Writing Workshop Ramla Bedoui",
+    "courseid": "FREN 1820b",
+    "coursedescription": "An advanced writing course for students who wish to work intensively on perfecting their written French. Frequent compositions of varying lengths, including creative writing, rédactions (compositions on concrete topics), and dissertations (critical essays). Recommended for prospective majors. Conducted entirely in French. After FREN 150 or higher, or a satisfactory placement test score. May be taken after courses in the 200–449 range. L5 MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for prospective majors."
+      ]
+    }
+  },
+  {
+    "coursename": "* FREN 1830a, Medical French: Conversation and Culture Leo Tertrain",
+    "courseid": "FREN 1830a",
+    "coursedescription": "An advanced language course emphasizing verbal communication and culture. Designed to introduce students to historical and contemporary specificities of various Francophone medical environments, and to foster the acquisition of vocabulary related to these environments. Discussions, papers, and oral presentations, with a focus on ethical, economic, legal, political, semiological, and artistic questions. Topics such as public health policies, epidemics, medicine in Francophone Africa, humanitarian NGOs, assisted reproductive technologies, end-of-life care, and organ donation are explored through films, documentaries, graphic novels, a literary text, an autobiographical narrative, and articles. Conducted entirely in French. Prerequisite: FREN 150 or a satisfactory placement test score, or with permission of instructor. L5 TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "FREN 150",
+      "L5",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: FREN 150 or a satisfactory placement test score, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* FREN 1840b, Business French: Communication and Culture Leo Tertrain",
+    "courseid": "FREN 1840b",
+    "coursedescription": "An advanced language course emphasizing verbal communication and culture. Designed to introduce students to historical and contemporary specificities of various Francophone economic environments, and to foster the acquisition of vocabulary related to these environments. Discussions, papers, and oral presentations, with a focus on ethical, political, legal, semiological, and artistic questions. Topics such as taxation, privatization, the eurozone, the energy industry, labor unions, labor law, banking, the sharing economy, and human resources are explored through films, documentaries, a graphic novel, a literary text, a biographical narrative, articles, and excerpts from essays. Conducted entirely in French. Prerequisite: FREN 150 or a satisfactory placement test score, or with permission of instructor. L5 TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "FREN 150",
+      "L5",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: FREN 150 or a satisfactory placement test score, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* FREN 2330a, Contemporary French Literature in the Making Morgane Cadieu",
+    "courseid": "FREN 2330a",
+    "coursedescription": "A survey of landmark contemporary novels coupled with a workshop. On the one hand, we read important twenty-first-century novels and narratives, discuss literary movements, genres, and trends, and explore contemporary literary life (media, prizes, publishing houses, literary quarrels). On the other hand, students are in charge of selecting and giving a presentation on a novel of their choice from the fall 2025 list of new releases. This way, we practice and compare different types of literary criticism, so as to acquire the tools to examine contemporary literature in the making. Seminar taught in French, open to graduate students and to undergraduate students who have taken FREN 1700 or above, or equivalent. HU W 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 3001b, Home Alone in Contemporary French Literature Morgane Cadieu",
+    "courseid": "FREN 3001b",
+    "coursedescription": "How do we inhabit space alone? How do writers portray home-loving protagonists? In this seminar, we read twenty-first-century fictions of confinement that represent various forms of isolation, whether temporary or permanent, constrained or self-imposed, gloomy or gleeful, indoors or outdoors. Novels depict housesitting, house moves, retreats in cabins, suburban hoardings, lockdowns in boats and spaceships, or even the experience of finding yourself accidentally trapped in a workplace restroom over the weekend. We examine our relationship to spaces, objects, bodies, and technologies, as well as the forms of attention generated by seclusion, from daydreaming to tracking. This is not a course on Covid quarantine, although our discussions will resonate with the memory of stay-at-home orders. The seminar doubles as an introduction to contemporary literature. Students learn how to acquire information on authors and novels in the absence of canonical criticism. The corpus includes some books written by established authors and many books from younger, lesser-known, but noteworthy voices. Taught in French. HU T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Novels depict housesitting, house moves, retreats in cabins, suburban hoardings, lockdowns in boats and spaceships, or even the experience of finding yourself accidentally trapped in a workplace restroom over the weekend."
+      ]
+    }
+  },
+  {
+    "coursename": "* FREN 3012b, Literary Translation: Contemporary Workshop Nichole Gleisner",
+    "courseid": "FREN 3012b",
+    "coursedescription": "This course will focus on translating contemporary literature by exploring concerns of writers and translators working in the French and Francophone field today. Each week, students will translate an excerpt from a wide variety of texts written in French: prose, poetry, graphic novels, YA, science fiction, long-form journalism. We will also read and craft literary criticism, paying special attention to reviews of books in translation as we seek to understand and define the role of the translator in our current day. How does literary criticism complement the work of translation? In what ways is the current mode of approaching translations in reviews lacking? How can we develop criteria to evaluate works in translation that acknowledge the role of the translator ? How do these activities – both translating and reviewing – enrich scholarly communities, webs of thought, networks of writers, students’ own ways of approaching and understanding a text? Students will translate and workshop selections each week as well as undertake the translation of a significant portion (25-35 pages) of a contemporary text of their own. L5 level required. HU W 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 3090b, Fictions of Consumer Society Morgane Cadieu",
+    "courseid": "FREN 3090b",
+    "coursedescription": "The seminar examines literary and cinematic versions of the consumer society—from the late nineteenth to the twenty-first century—by discussing: the aesthetics of everyday life; the representation of stores, supermarkets, and malls in rural and urban settings; consumerism and colonization; mythologies, commodities, and gender norms; labor and waste; and the attention to objects (still life, window displays). Works by Danticat, Ernaux, Houellebecq, NDiaye, Perec, Reza, and Zola. Films by Demy, Godard, Tati, and Varda. Short theoretical excerpts by Baudrillard, Barthes, and Moudileno. No knowledge of French required. WR , HU W 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 3190b, Montaigne Beyond Skepticism: Learning to Read the \"Essais\" Dominique Brancher",
+    "courseid": "FREN 3190b",
+    "coursedescription": "Que sais-je? What do I know? This is Montaigne’s motto, engraved on a medal in 1576 at the writer's request. At the crossroad of disciplines, this seminar explores how Michel de Montaigne develops a philosophy of doubt by literary means. We see that he does not naively or theoretically subscribe to the skeptical tradition, but rather proposes a practical and singular use of a non-judgmental attitude in the writing of Les Essais —the early modern masterpiece of the French literature of the self. We read essays on topics such as: idleness, education, eroticism, imagination. These texts are coupled with short, theoretical excerpts (Sextus Empiricus, Diogène Laërce, Henri Estienne). Readings and discussion in French. HU T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 3200a, The Existentialist Cafe Alice Kaplan",
+    "courseid": "FREN 3200a",
+    "coursedescription": "The Existentialist Café examines a moment (post-war France), a condition (liberation from Nazi occupation), a school of thought (existentialism) and a group of writers in conversation with one another (Sartre, Beauvoir, Camus, Baldwin, Sagan, Fanon). Sarah Bakewell’s In the Existentialist Café provides a foundation for our exploration of existentialism as a movement. We read novels, plays, diaries, and essays from the postwar era in France, considering existentialism both as a form of critical engagement and a specific intellectual and cultural situation. This is a group B course and is conducted entirely in French. Students must have above FREN 1700 -level language skills. HU F 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 3675a / AFAM 3675a / AMST 3355a / ER&M 3574a / LAST 2675a, Haiti Writes I Marlene Daut and Kaiama Glover",
+    "courseid": "FREN 3675a",
+    "coursedescription": "From nineteenth-century antislavery pamphleteering to accounts of ecological catastrophe in 21st-century fiction, Haitian literature has resounded across the globe since the nation's revolutionaries declared independence in 1804. Starting with pre-revolutionary writing, including the emergence of Haitian Creole letters, moving through a long, largely francophone nineteenth century, to present-day Haitian writing in the English language, this two-semester exploration of Haitian literature presents the political, cultural, and historical frameworks necessary to comprehend Haiti's vast literary output. Whether writing in Haiti or its wide-ranging diasporas, Haitian authors have boldly contributed to pressing conversations in global letters while reflecting Haiti's unique cultural and historical experiences. Considering an expansive array of poets, playwrights, and novelists - such as Baron de Vastey, Juste Chanlatte, Demesvar Delorme, Edwidge Danticat, René Depestre, Kettly Mars, Dany Laferrière, and Évelyne Trouillot – this course engages students in a fresh examination of Haiti’s richly polyglot and transnational literary tradition that spans more than two centuries. T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 3680b, Reasoning with Voltaire Pierre Saint-Amand",
+    "courseid": "FREN 3680b",
+    "coursedescription": "An investigation of the French Enlightenment through its principal representative philosopher, Voltaire. An examination of Voltaire's preoccupations, including philosophy, religion, tolerance, freedom, and human rights. Readings include Voltaire's contes , major plays, entries from the Dictionnaire philosophique , treatises, and pamphlets. Conducted entirely in French. L5 TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 4160a / ER&M 3535a / WGSS 4416a, Social Mobility and Migration Morgane Cadieu",
+    "courseid": "FREN 4160a",
+    "coursedescription": "The seminar examines the representation of upward mobility, social demotion, and interclass encounters in contemporary French literature and cinema, with an emphasis on the interaction between social class and literary style. Topics include emancipation and determinism; inequality, precarity, and class struggle; social mobility and migration; the intersectionality of class, race, gender, and sexuality; labor and the workplace; homecomings; mixed couples; and adoption. Works by Nobel Prize winner Annie Ernaux and her peers (Éribon, Gay, Harchi, Linhart, Louis, NDiaye, Taïa). Films by Cantet, Chou, and Diop. Theoretical excerpts by Berlant, Bourdieu, and Rancière. Students will have the option to put the French corpus in dialogue with the literature of other countries. Conducted in French. HU Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 4700a, Special Tutorial for Juniors and Seniors Thomas Connolly",
+    "courseid": "FREN 4700a",
+    "coursedescription": "Special projects set up by the student in an area of individual interest with the help of a faculty adviser and the director of undergraduate studies. Intended to enable the student to cover material not offered by the department. The project must terminate with at least a term paper or its equivalent and must have the approval of the director of undergraduate studies. Only one term may be offered toward the major, but two terms may be offered toward the bachelor's degree. For additional information, consult the director of undergraduate studies. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Special projects set up by the student in an area of individual interest with the help of a faculty adviser and the director of undergraduate studies."
+      ]
+    }
+  },
+  {
+    "coursename": "* FREN 4910a, The Senior Essay Thomas Connolly",
+    "courseid": "FREN 4910a",
+    "coursedescription": "A one-term research project completed under the direction of a ladder faculty member in the Department of French and resulting in a substantial paper in French or English. For additional information, consult the director of undergraduate studies. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FREN 4920a, The Senior Essay—Translation Concentration Thomas Connolly",
+    "courseid": "FREN 4920a",
+    "coursedescription": "A one-term research project completed under the direction of a ladder faculty member in the Department of French and resulting in a substantial translation (roughly 30 pages) from French to English, with a critical introduction of a length to be determined by the student in consultation with the advising ladder faculty member. Materials submitted for the translation concentration cannot be the same as the materials submitted for the translation courses. For additional information, consult the director of undergraduate studies. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 4930a / FREN 4950a, The Senior Essay in the Intensive Major Thomas Connolly",
+    "courseid": "FREN 4930a",
+    "coursedescription": "A yearlong research project completed under the direction of a ladder faculty member in the Department of French and resulting in a paper of considerable length, in French or English. For additional information, consult the director of undergraduate studies. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FREN 4950a / FREN 4930a, The Senior Essay in the Intensive Major—Translation Concentration Thomas Connolly",
+    "courseid": "FREN 4950a",
+    "coursedescription": "First term of a yearlong research project completed under the direction of a ladder faculty member in the Department of French and resulting in a translation of considerable length (roughly 60 pages), from French to English, with a critical introduction of a length to be determined by the student in consultation with the advising ladder faculty member. Materials submitted for the translation concentration cannot be the same as the materials submitted for the translation courses. For additional information, consult the director of undergraduate studies. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* FREN 4980a, Fin-de-siècle France Maurice Samuels",
+    "courseid": "FREN 4980a",
+    "coursedescription": "The last decades of the nineteenth century were a time of both social turmoil and artistic exuberance in France. This course examines major literary and artistic movements (Naturalism, Decadence, Symbolism, etc.) in their cultural context. Why was this productive period obsessed with its own doom? Literary texts are paired with recent critical theory as well as nineteenth-century discourses on such topics as sociology, criminology, sexology, and technology. Some attention is paid to the visual arts and to fin-de-siècles in other times and places (particularly Austria, Germany, and England). Students should have advanced (L5) reading knowledge of French. HU Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

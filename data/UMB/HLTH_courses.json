@@ -1,0 +1,65 @@
+[
+  {
+    "coursename": "Pathophysiology",
+    "courseid": "HLTH201",
+    "coursedescription": "This course deals with alterations in the normal physiology of body structures. Discussion of the normal state is followed by the description of physiological changes that result in the symptoms of disease. Topics include the various body systems, such as cardiovascular, renal, respiratory, and endocrine.",
+    "course-prerequsities": [
+      "EHS 150",
+      "BIOL 207",
+      "BIOL 208",
+      "BIOL 209",
+      "HLTH 230",
+      "CHEM 130",
+      "CHEM 115",
+      "CHEM 116",
+      "CHEM 251",
+      "CHEM 252"
+    ],
+    "course-corequisites": [
+      "NURSNG 220",
+      "NURSNG 226",
+      "NURSNG 320"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Health Promotion and Teaching",
+    "courseid": "HLTH212",
+    "coursedescription": "This general education course introduces students to the principles and practices of health promotion and health education. Students analyze environmental, sociocultural, economic, legal and interpersonal variables affecting individual health behaviors and outcomes. The influence of relationships among individuals, health care providers, and the health care system on health outcomes is evaluated. The course considers dominant models, theories, and perspectives used to explain health behavior in relation to evidence-based health promotion and health education strategies. Emphasis is given to effective communication skills",
+    "course-prerequsities": [
+      "ENGL 102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Lifespan Growth and Development",
+    "courseid": "HLTH230",
+    "coursedescription": "This course is designed to examine theories and concepts of normal growth and development. Ranges in human growth, development and behavior for each stage throughout the life cycle, birth through death, are emphasized. The course explores the influence of family, society and culture on health maintenance behaviors and perceived health needs for each developmental stage.",
+    "course-prerequsities": [
+      "BIOL 207",
+      "BIOL 208",
+      "BIOL 209",
+      "CHEM 130",
+      "CHEM 115",
+      "CHEM 116",
+      "CHEM 251",
+      "CHEM 252"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Pharmacology",
+    "courseid": "HLTH314",
+    "coursedescription": "The professional, political, legal, and interdisciplinary aspects of drug administration within the context of comprehensive nursing interventions form the basis of this course. Emphasis is given to the nurse's role in assessing, administering, educating, and monitoring patients receiving therapeutic agents; and also to the principles of pharmacodynamics and pharmacokinetics across the life span. Consideration is given to the effect of evidence-based cultural, race, religion, gender, lifestyle, age, and economic variables as related to pharmacological principles.",
+    "course-prerequsities": [
+      "NURSNG 220",
+      "HLTH 201"
+    ],
+    "course-corequisites": [
+      "NURSNG 310"
+    ],
+    "other": null
+  }
+]

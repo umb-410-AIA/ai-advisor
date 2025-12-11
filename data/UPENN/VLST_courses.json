@@ -1,0 +1,291 @@
+[
+  {
+    "coursename": "VLST 1010 Eye, Mind, and Image",
+    "courseid": "VLST 1010",
+    "coursedescription": "Visual Studies 1010 provides an introduction to the collaboration of eye, mind, and image that produces our experience of a visual world. How and what do we see? How do we perceive color, space, and motion? What is an image? Does seeing vary across cultures and time? What can art tell us about vision? Is there a 21st-century form of seeing? This course combines different approaches to the study of vision, drawing from psychology, cognitive science, philosophy, history of art, and fine art. Professors representing two or three disciplines present lectures that demonstrate the methods of their disciplines and draw connections across fields. This course combines different approaches to the study of vision, drawing from psychology, cognitive science, philosophy, history of art, and fine art. Professors representing two or three disciplines present lectures that demonstrate the methods of their disciplines and draw connections across fields. Fall or Spring Also Offered As: ARTH 1500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 1020 Form and Meaning",
+    "courseid": "VLST 1020",
+    "coursedescription": "This course will introduce students to the theory and practice of image making, focusing on the development of observational skills and analytical thinking. We will look at conventions of artistic representation across time and cultures; discuss types of visual information and modes of formal language; explore visual narrative techniques; and seek to expand our understanding of the role images play in our culture. We will look at conventions of pictorial representation across time and cultures; discuss types of visual information and modes of formal language; explore visual narrative techniques; and seek to expand our understanding of the roll images play in our culture. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 1030 3 Dimensions: Time and Space",
+    "courseid": "VLST 1030",
+    "coursedescription": "Through studio projects, readings and class discussion, this class will begin to address, both conceptually and physically, basic 3D structures and translations between 3D and 2D, as well as materiality, experiential phenomena, light and time-based processes. The interconnection between mediums in our cultural climate employs a wide range of tools, processes, and ideas. It is imperative that visual studies students recognize and think through these connections. The work produced and ideas confronted in this class will facilitate discussions and constructive criticism on the fundamentalsof space and time via the experiential, conceptual, and the formal as essential elements of meaning. The interconnection between mediums in our cultural climate employs a wide range of tools, processes, and ideas. It is imperative that visual studies students recognize and think through theses connections. The work produced and ideas confronted in this class will facilitate discussions and constructive critism on the fundamentals of space and time via the experiential, conceptual, and the formal as essential elements of meaning. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 1050 Inventing Photography",
+    "courseid": "VLST 1050",
+    "coursedescription": "Photography is a young medium and yet its history can be traced through differing narratives. Was the medium born in a French patent office, when the sun burned a handprint in silver salt, or when human eyes saw an inverted image projected into a dark space? Does photography reflect the perspective and biases of its inventors and users, or does it reinvent how we see the world? This seminar will take material and theoretical approaches to understanding the histories of photography. Students will handle original materials from photography’s history, make photographs using historic chemical-processes and styles while we learn about the history of early photography. This class will also include lectures and discussions of readings. This class will visit archives and museums on and off of campus. Prior experience with photography is welcome but not required. Fall, even numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 1060 Virtual Reality Storytelling",
+    "courseid": "VLST 1060",
+    "coursedescription": "What does it mean to compose for an open world, in 3 dimensions, where the audience can move with 6 degrees of freedom? How does embodiment in a 360 degree space change the experience of the audience? What control does the director maintain when the user chooses their own immersive adventure? In this course, we will explore the past, present, and future of immersive narrative through a variety of media, including fictional texts, dystopian television shows, and Virtual Reality films. Using the critical theory of media scholars from diverse backgrounds, students will critique VR applications as models to inform their own iterative design process. Students will prototype their own VR narrative films with the tools available through the library makerspaces and media lab. No experience with film or emerging technology necessary. Spring, odd numbered years only Prerequisite: None 1 Course Unit",
+    "course-prerequsities": [
+      "NONE 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 1070 Learning to Look, Looking to Learn",
+    "courseid": "VLST 1070",
+    "coursedescription": "The act of looking is fundamental to visual studies, and to human meaning making and experience. Looking is a central piece of multisensory learning that we employ often“without thinking”, and yet making cognitive leaps all the while. Looking can be more than an involuntary action, but a perceptual, creative and intellectual tool that we can seek to better understand and hone. In this course, we will learn to look, and look to learn. We will visit sites of interest to the practice of looking, including local art museums and galleries. Through weekly exercises, we will observe our own observational proclivities and challenge our looking habits. We will consider how looking engages with power, politics, and identity, and how it informs belief. Drawing from visual studies, art history and theory, cinema and media studies, anthropology and philosophy, we will consider concepts of looking (such as: the gaze, verisimilitude, the invisible, surveillance, double consciousness). Methodologies of slow looking and visual analysis, semiotic interpretation and ekphrasis will be employed, along with various modes of reporting and recording. This class is experiential, experimental, collaborative, creative and discussion-centered. There will be a number of trips on and off campus. There will be weekly readings and written responses, and expressive prompts (that some might call “art assignments”). Major projects will include a research presentation and a visual essay. This seminar serves as an excellent foundation for those interested in visual studies, art, art history, media, design or communications fields, as well as neuroscience and psychology. Fall, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "We will visit sites of interest to the practice of looking, including local art museums and galleries.",
+        "This seminar serves as an excellent foundation for those interested in visual studies, art, art history, media, design or communications fields, as well as neuroscience and psychology."
+      ]
+    }
+  },
+  {
+    "coursename": "VLST 2090 Visual Culture through the Computer's Eye",
+    "courseid": "VLST 2090",
+    "coursedescription": "Visual studies and the humanities more generally have thought about and modeled seeing of artworks for many centuries. What useful tools can machine learning develop from databases of art historical images or other datasets of visual culture? Can tools from machine learning help visual studies ask new questions? When put together, what can these fields teach us about visual learning, its pathways, its underlying assumptions, and the effects of its archives/datasets? Class project teams will ideally be composed of both humanities majors and engineering majors who will develop datasets and/or ask important questions of datasets, in addition to thinking and writing more generally about how computer vision could help in teaching and analyzing visual art. We are looking for a variety of students from different majors and schools to bring their diverse skill sets to the course. No programming knowledge is required. The course offers an example-based introduction to machine learning, so no prior knowledge of machine learning is required. Fall or Spring Also Offered As: CIS 1070 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2110 Perception",
+    "courseid": "VLST 2110",
+    "coursedescription": "How the individual acquires and is guided by knowledge about objects and events in their environment. Fall Also Offered As: PSYC 1340 Prerequisite: PSYC 0001 OR COGS 1001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001",
+      "COGS 1001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2120 Research Experience in Perception",
+    "courseid": "VLST 2120",
+    "coursedescription": "In this research course, students will begin by first replicating earlier experiments to measure human visual memory capacity. After several class discussions to discuss ideas, each student will design and conduct their own experiment to further investigate visual and/or familiarity memory. Fall or Spring Also Offered As: PSYC 4340 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2130 Images in Science",
+    "courseid": "VLST 2130",
+    "coursedescription": "Pictures, diagrams, graphs, and (more recently) computer images are ubiquitous in modern science. Visualizations are crucial in the process of research; for communicating evidence, theories, and experiments to other scientists; and for transmitting scientific ideas to the public. But serious questions about the validity of using images to convey knowledge about nature have been raised from the earliest natural philosophers onwards, and understanding precisely what any particular scientific image does can be surprisingly difficult. In this class we will investigate, as historical and cultural artifacts, images related to the generation or transmission of knowledge about nature, knowledge that has claims to a privileged epistemological status. The focus will be on three kinds of visual depictions: images of the macrocosm (the universe as a whole), images of the microcosm (the body and its parts), and the visualization of theories and data. What are the material and technological conditions underlying these images? What can the images we examine tell us about the communities and societies, including our own, in which they were created? What do they reveal about the nature of the scientific enterprise, about the relationship between the sensible world and the mind, and about ideals concerning truth, objectivity, and morality? Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2140 Intercultural Dialogue and Perception (SNF Paideia Program Course)",
+    "courseid": "VLST 2140",
+    "coursedescription": "Art, dialogue theory and cultural differences come together in this experiential course. Students will explore and learn about all three of these components. They will experience true dialogue and learn about it. They will engage in interpersonal encounters with art, the key driver of cultural content for this course. Art will provide a neutral platform for perceiving cultural differences through careful exploration, verbal description, and an exchange of insights into ways artists express concerns, biases, and world views. Students will engage in dialogues to inquire into these and other personal and cultural differences, thereby participating in intercultural communication. Altogether the course will offer a safe space for students to exchange cultural and personal points of view as expressed in many forms of art and to then participate in dialogues that delve into these rich and complex forms of expression. True dialogue is not a discussion or argumentation aimed to unveil a single truth. True dialogue is a co-creation, a creative process, a source of newness, a discovery journey, and a portal to a new reality. This course is for students who want to be disrupted by a new understanding of art and to embrace new cultural realities as they stretch their perceptions, ideas and experiences. “Art opens a window into a culture’s dreams, drives, and priorities” revealing “aspects of a culture’s soul.” It is frequently ambiguous and asks to be questioned. Individual perceptions and insights are worthy and do not fall into right or wrong categories. Because art is a dynamic and flexible tool to build personal equity, meaning a sense of fairness, students will enlarge their capacity to connect to the world’s diversity through its multiple expressions. The ensuing dialogues will open thought rather than close it down and encourage openness to other ways of seeing the world. Because students will engage in true dialogue with one another and with art that arises from diverse backgrounds and ways of interpreting the world, they will emerge with increased confidence to interpret complex issues and manage diverse relationships. The course is experiential and hands-on. It requires personal commitment, an open mind and a desire to grow using new, non-traditional and effective ways of connecting art and intercultural dialogue. It does not require prior knowledge of or experience with art. As part of the experiential learning, some of the course activities will take place in museums and art galleries in Philadelphia. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2170 Visual Neuroscience",
+    "courseid": "VLST 2170",
+    "coursedescription": "An introduction to the scientific study of vision, with an emphasis on the biological substrate and its relation to behavior. Topics will typically include physiological optics, transduction of light, visual thresholds, color vision, anatomy and physiology of the visual pathways, and the cognitive neuroscience of vision. Spring Also Offered As: NRSC 2217 , PSYC 2240 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2210 Introduction to Philosophy of Mind",
+    "courseid": "VLST 2210",
+    "coursedescription": "This course will survey several central topics in philosophy of mind, as well as investigate how philosophy of the mind interacts with scientific study of the mind. Among the questions we'll be asking are: What is it to have a mind? What is the relationship between the mind and the brain? Can there be a science of the mind? What can it tell us? What can philosophy contribute to a science of the mind? What is consciousness? What is it to think, to perceive, to act? How are perception, thought, and action related to one another? Fall or Spring Also Offered As: PHIL 2640 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2220 Philosophy of Perception",
+    "courseid": "VLST 2220",
+    "coursedescription": "A seminar for majors in Philosophy. Taking our perceptual experience as a given, what causes it? In a realistic mood, we accept that objects in the environment, or in the \"external world,\" cause us to have the perceptual experiences that we do (as of a table with food, or as of a garden with flowers in it). Yet on this realistic view, our perception is the result of a causal chain that leads from object to eye to brain to experiences, and we are only given the last element: the experience. So how do we really know how our experiences are caused, and where do we get the idea that they are casued by an external world of physical objects? The seminar will focus on the problem of the external world as examined by David Hume, Thomas Reid, G. E. Moore, and Bertrand Russell, along with recent authors. Not Offered Every Year Also Offered As: PHIL 3623 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2230 Philosophy and Visual Perception",
+    "courseid": "VLST 2230",
+    "coursedescription": "In this course, we'll use the biology, psychology and phenomenology of vision to explore philosophical questions about color, such as these: Color vision helps us get around in our environments, but in what sense is it a window onto reality, if it is? Are colors properties of objects, or are they inherently private, subjective properties of minds? What can non-human forms of color vision teach us about the nature of color, and how should we empirically study color vision? Do we need to see in color to understand it? How do our ordinary ways of talking and thinking about colors relate to the experiences we have in color? How does color vision figure in aesthetic judgment? And to what degree can it be influenced by learning, or by social biases like sexist or racist prejudices? Also Offered As: PHIL 2843 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2320 Renaissance to the Present",
+    "courseid": "VLST 2320",
+    "coursedescription": "This course is an introduction to the history of art in a global context from the early 1400s to the present. Lectures will introduce students to significant moments in artistic production in both the Western and Eastern hemispheres through focused studies on crucial ​aspects of exchange between cultures and continents. Covering an era of increasing economic ​transactions, ​imperial conquests, and industrialization, this course will build recursively through themes such as: the emergence of authorial identity and models of artistic collaboration, the ​traffic of artistic materials and techniques and their adaptation in different cultural settings, and the foregrounding of art to both document and initiate political change. Developing vocabularies to discuss painting, sculpture, architecture, and prints, ​as well as photography and film, students will learn to ​analyze art's decisive role during times of social transformation, including modernization, ​colonization, and technological advances​. ​We will also examine the role of broad-reaching ​media and the advent of art criticism in forming public opinion. Assignments will encourage students to think widely across geographies and study intimately local examples in the Philadelphia museums. Spring Also Offered As: ARTH 1020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2330 Art and Civilization in East Asia",
+    "courseid": "VLST 2330",
+    "coursedescription": "Introduction to the major artistic traditions of China and Japan and the practices of art history. We will also consider aspects of Korean and Indian artistic traditions as they relate to those of China and Japan. Our approaches will be methodological in addressing how we understand these objects through careful looking; chronological in considering how the arts developed in and through history; and thematic in studying how art and architecture were used for philosophical, religious and material ends. Special attention will be given to the relationship between artistic production and the afterlife; to the impact of Buddhism and its purposes; to painting traditions and their patronages; and to modernist transformations of traditions. Not Offered Every Year Also Offered As: ARTH 1030 , EALC 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2340 Art of Global Asia",
+    "courseid": "VLST 2340",
+    "coursedescription": "This course surveys flows of ideas, images, and objects across, within, and beyond Asia. It considers how the art of Asia is and has been global from antiquity through the present, and introduces 'Asia,' 'globality,' and 'art' as key terms and concepts that shift over time and place. Artistic traditions are presented within broader historical, cultural, social, and economic frameworks, with attention to their local and regional significance. Trade, exchange, and interaction between cultures and groups, including but not limited to artists, pilgrims, merchants, warriors, and rulers, and the transmission of concepts through languages, religions, and philosophies, will be highlighted throughout. We shall address problems of iconophilia and iconoclasm, narrative and temporality, archeology and historiography, ritual and religion, sovereignty and kingship, gender and sexuality, colonialism and nationalism, diasporas and migration as they pertain to the images, objects, and sites of our study. We shall make use of local resources at the Penn Museum and Penn Libraries, as well as other sites, to show how objects retain and inflect these ideas. The course builds out from a central focus on the arts of South Asia or the arts of East Asia, depending upon the specialty of the faculty member teaching the course, with additional faculty offering guest lectures as available. Students with a background in art history, studio art, architecture, history, religion, literature, anthropology, and/or South or East Asian Studies are especially welcome. Not Offered Every Year Also Offered As: ARTH 1040 , SAST 1040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Trade, exchange, and interaction between cultures and groups, including but not limited to artists, pilgrims, merchants, warriors, and rulers, and the transmission of concepts through languages, religions, and philosophies, will be highlighted throughout."
+      ]
+    }
+  },
+  {
+    "coursename": "VLST 2350 Introduction to Visual Culture of the Islamic World",
+    "courseid": "VLST 2350",
+    "coursedescription": "A one-semester survey of Islamic art and architecture which examines visual culture as it functions within the larger sphere of Islamic culture in general. Particular attention will be given to relationships between visual culture and literature, using specific case studies, sites or objects which may be related to various branches of Islamic literature, including historical, didactic, philosophical writings, poetry and religious texts. All primary sources are available in English translation. Not Offered Every Year Also Offered As: ARTH 2350 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2370 Material History of Photography",
+    "courseid": "VLST 2370",
+    "coursedescription": "Photography is a young medium and yet its history can be traced through differing narratives. Was the medium born in a French patent office, when the sun burned a handprint in sliver salt, or when human eyes saw an inverted image projected into a dark space? Does photography reflect the perspective and biases of its inventors and users, or does it re-invent how we see the world? This seminar will take theoretical and material approaches to understanding the histories of photography. In addition to lectures and readings, students will handle original materials and make photographs using historic chemical-processes and styles. Fall, even numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2380 Virtual Reality and Perception",
+    "courseid": "VLST 2380",
+    "coursedescription": "An understanding of perception is crucial in creating digital interactive experiences ranging from immersive art to video games and user interfaces. Design solutions in art, video games, and user interfaces can also offer insights into the nature of perception. In this course, we will study ideas and experiments in Visual Perception and how they relate to digital interfaces and experiences, and create our own XR (Extended Reality) projects that explore these ideas. We will produce XR art, games, environments, and interfaces using open-source software (including Blender 3d, Godot Engine, and Three.js). (Students may also use commercial software such as Maya3D and Unreal Engine) These projects will recreate historic perception experiments and optical illusions, build new experiments, and incorporate lessons of perception into original art and design projects. Students will leave this course with an introduction to the study of visual perception and a skillset in 3d Modeling and XR application/game and UX (User Experience) design. Students will also learn to initiate original projects that combine creative and analytical thinking. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 2390 Virtual Reality for Artists",
+    "courseid": "VLST 2390",
+    "coursedescription": "With rapid developments in virtual reality technology, artists have new opportunities to exhibit work at any scale, create interactive and immersive experiences, and bridge distances between makers and viewers. This course will focus on creating art for virtual (and augmented) reality, and learning about the development of VR as a medium and how it is being utilized by contemporary artists. Students will create virtual exhibition spaces for images, videos, sculptures, and develop interactive work that can only exist in Virtual Reality. We will also develop 3D sculptures for augmented reality. We will develop our camera and editing skills for making still and video-based VR media and learn the fundamentals of 3D Modeling in Blender. We will also develop advanced skills in Adobe Photoshop,Premier, and Rhino3d. Readings in this course will cover contemporary topics in VR and consider pre-VR immersive mediums such as Panorama painting and stereographic photography. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 3010 What is Visual Studies?",
+    "courseid": "VLST 3010",
+    "coursedescription": "Visual Studies 301 is a seminar-format course that challenges students to develop independent ideas about how the eye, the mind and the image that is created therein, all work together to inform our conception of the world at large. Rather than present a unified viewpoint, the course asks the question, \"What is visual studies?\" by examining parallel and sometimes antagonistic approaches to the ways that human beings understand sight and the concept of visuality. Over the course of the semester, students will discuss and write about various approaches to vision, examining this contested field through the lenses of several disciplines -- including psychology, philosophy, and art history. By parsing and assimilating diverse ideas, students will decide for themselves what are the most pertinent and relevant approaches to the various avenues of research that present themselves in the emerging interdisciplinary field of Visual Studies. Fall or Spring Prerequisite: VLST 1010 1 Course Unit",
+    "course-prerequsities": [
+      "VLST 1010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 3030 The Rise of Image Culture: History and Theories",
+    "courseid": "VLST 3030",
+    "coursedescription": "Today images are everywhere; two centuries ago, they were rare. This seminar considers key historical and theoretical contexts for this change and its social consequences. With the help of some of the strongest critics and theorists of image culture, we will consider five interrelated aspects of the rise of image culture. - First, we will explore how new media and mechanical reproduction has changed the idea of the image over in the free market. - Second, we will explore how images operate through the psyche and gaze and how that operation is tied to social and political power. - Third, we will examine how representations make meaning and form identity in coded systems. - Fourth, we will consider the relationship between visual space and concepts of reality. And finally, we will interrogate how the physical and digital material that images are made from affects their meaning. Spring Also Offered As: ARTH 3070 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 3050 What is an Image?",
+    "courseid": "VLST 3050",
+    "coursedescription": "The course explores various concepts of images. It considers natural images (as in optics), images as artifacts, virtual images, images as representations, and works of art as images. Themes to include: the image controversy in cognitive science, which asks whether some cognitive representations are irreducibly imagistic; the question of whether some images resemble what they represent; the development of the concept of the virtual image and of three-dimensional images; the notions of pictorial representation and non-representational images in art. Readings from C. S. Peirce, Nelson Goodman, Robert Hopkins, Dominic Lopes, W. J. T. Mitchell, John Kulvicki, and Mark Rollins, among others. Fall Also Offered As: ARTH 3071 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 3090 Investigative Photography for Scientists and Artists",
+    "courseid": "VLST 3090",
+    "coursedescription": "Artists and scientists are likeminded when they make an image in pursuit of new insights. Pictures can reveal the composition of a specimen, expose a person's character, capture a place's distinctiveness, or produce a new occasion for intimacy. Rosalind Franklin's famous \"Photograph 51\" of DNA resulted from a desire to see the physical shape of heredity. The artist Shimpei Takeda places film directly on the ground in Fukushima to create a blind measurement of the radioactivity that remains in the earth. This course will introduce photography as an investigative medium for art and science. We will begin with learning the fundamentals of photography while considering ways in which photographs have changed and continue to change the way we perceive space and time. As the class progresses, students from the arts and sciences will work together to learn specialized photographic techniques and complete assignments that explore photography as an investigative medium. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 3950 Senior Project",
+    "courseid": "VLST 3950",
+    "coursedescription": "Permission of Instructor Required. Two Term Class, Student must enter first term; credit given after both terms are complete",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Permission of Instructor Required."
+      ]
+    }
+  },
+  {
+    "coursename": "VLST 3950A Senior Project",
+    "courseid": "VLST 3950A",
+    "coursedescription": "Permission of Instructor Required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Permission of Instructor Required."
+      ]
+    }
+  },
+  {
+    "coursename": "VLST 3950B Senior Project",
+    "courseid": "VLST 3950B",
+    "coursedescription": "Permission of Instructor Required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Permission of Instructor Required."
+      ]
+    }
+  },
+  {
+    "coursename": "VLST 3999 Independent Study",
+    "courseid": "VLST 3999",
+    "coursedescription": "Independent Study credit taken with advisor. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 5050 What is an Image?",
+    "courseid": "VLST 5050",
+    "coursedescription": "The course explores various concepts of images. It considers natural images (as in optics), images as artifacts, virtual images, images as representations, and works of art as images. Themes to include: the image controversy in cognitive science, which asks whether some cognitive representations are irreducibly imagistic; the question of whether some images resemble what they represent; the development of the concept of the virtual image and of three-dimensional images; the notions of pictorial representation and non-representational images in art. Readings from C. S. Peirce, Nelson Goodman, Robert Hopkins, Dominic Lopes, W. J. T. Mitchell, John Kulvicki, and Mark Rollins, among others. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "VLST 5999 Independent Study",
+    "courseid": "VLST 5999",
+    "coursedescription": "Independent Study credit taken with advisor. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

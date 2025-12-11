@@ -1,0 +1,150 @@
+[
+  {
+    "coursename": "RUSS 1100a, First-Year Russian I Julia Titus",
+    "courseid": "RUSS 1100a",
+    "coursedescription": "An introductory Russian language course designed to develop all four language skills: reading, writing, speaking, and listening comprehension. Use of dialogues, games, and role playing. In addition to readings in the textbook, students read original short stories and learn Russian songs and poems. Oral and written examinations. L1 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 1200b, First-Year Russian II Staff",
+    "courseid": "RUSS 1200b",
+    "coursedescription": "Continuation of RUSS 110. After RUSS 110 or equivalent. L2 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 1250a, Intensive Elementary Russian Constantine Muravnik",
+    "courseid": "RUSS 1250a",
+    "coursedescription": "An intensive course that covers in one term the material taught in RUSS 110 and 120. For motivated students. Study of Russian grammar; practice in conversation, reading, and composition. Recommended for prospective seekers of the Advanced Language Certificate and prospective majors in Russian and in Russian and East European Studies. L1 , L2 0 Course cr MWF 9:25am-10:15am, MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for prospective seekers of the Advanced Language Certificate and prospective majors in Russian and in Russian and East European Studies."
+      ]
+    }
+  },
+  {
+    "coursename": "RUSS 1300a, Second-Year Russian I Yoonmin Kim",
+    "courseid": "RUSS 1300a",
+    "coursedescription": "The goal of this course is to improve functional competence in speaking and listening by providing culturally-enriched context. The engaging textbook and workbook reflect social, cultural and linguistic norms of contemporary Russia and its diverse regions. In addition, you will be reading some classic and contemporary literature, and using films and other media. After RUSS 120 or equivalent. L3 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 1400b, Second-Year Russian II Staff",
+    "courseid": "RUSS 1400b",
+    "coursedescription": "Continuation of RUSS 130. After RUSS 130 or equivalent. L4 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 1450b, Intensive Intermediate Russian Staff",
+    "courseid": "RUSS 1450b",
+    "coursedescription": "A continuation of RUSS 125 that covers in one term the material taught in RUSS 130 and 140. For students of superior linguistic ability. Prerequisite: RUSS 125. L3 , L4 2 Course cr MWF 9:25am-10:15am, MTWThF 10:30am-11:20am",
+    "course-prerequsities": [
+      "RUSS 125",
+      "L3",
+      "L4 2",
+      "MWF 9",
+      "25AM-10",
+      "MTWTHF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 1500a, Third-Year Russian I Constantine Muravnik",
+    "courseid": "RUSS 1500a",
+    "coursedescription": "Intensive practice in reading, conversation, and composition accompanied by in-depth review and refinement of grammar. Readings from nineteenth-century history and current events are used as the basis of structured conversation, composition, and grammatical practice. Oral examinations and individual and group projects. After RUSS 140 or 145 or equivalent. L5 1½ Course cr MWF 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 1510b, Third-Year Russian II Constantine Muravnik",
+    "courseid": "RUSS 1510b",
+    "coursedescription": "Continuation of RUSS 150. After RUSS 150 or equivalent. L5 RP 1½ Course cr MWF 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 1600a, Fourth-Year Russian I Anastasia Selemeneva",
+    "courseid": "RUSS 1600a",
+    "coursedescription": "The goal of this course is to enable students to discuss a variety of concrete and abstract topics such as personal and academic life, social and cultural issues relevant for contemporary Russia in their historical perspective. You will be viewing and discussing fragments of documentaries and feature films, using authentic mass media and fragments from modern Russian literature. All materials for this course have been designed to improve functional competence in speaking, listening, reading and writing by providing culturally-enriched context. After RUSS 151 or equivalent. L5 MWF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "RUSS 1610b, Fourth-Year Russian II Anastasia Selemeneva",
+    "courseid": "RUSS 1610b",
+    "coursedescription": "Continuation of RUSS 160. After RUSS 160 or equivalent. L5 MWF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* RUSS 1770a, Fantastika: Russian Fantasy and Science Fiction Anastasia Selemeneva",
+    "courseid": "RUSS 1770a",
+    "coursedescription": "This course explores the fantastic in Russian literature and film, while further advancing communicative competence in the Russian language. We trace the development of the fantastic in Russian literature and film in the 20th and 21st centuries, with an eye toward science fiction, which emerged and rose to prominence during the Soviet era. Among the questions we consider are the tension between imagined and real societies and how alternative worlds explore the nature of our own being; the impact of technical progress on human race and whether science fiction anticipates scientific innovation and social change; the appeal of the fantastic to a contemporary reader and how science fiction meets the human need for a desired past or future. Taught in Russian. Prerequisite: RUSS 161 or instructor’s permission. L5 , HU MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "RUSS 161",
+      "L5",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: RUSS 161 or instructor’s permission."
+      ]
+    }
+  },
+  {
+    "coursename": "* RUSS 2010a / CPLT 1010a / HUMS 2015a / SLAV 1010a, Writing Literature: Doubles, Doppelgängers, and the Boundaries of the Self Emily Ziffer",
+    "courseid": "RUSS 2010a",
+    "coursedescription": "In 2024, a BBC article proclaimed that we are “living in the golden age of the doppelgänger.” From celebrity lookalike competitions to the threat of AI duplicates in Hollywood, recent media has demonstrated a renewed fascination with the concept of “the double.” In this course, we turn to the rich literary tradition of the “doppelgänger” to examine how writers—from Fyodor Dostoevsky to Kazuo Ishiguro—have engaged with the trope to explore questions of selfhood. We spend the first part of the course considering the theoretical origins of the doppelgänger in gothic literature, turning to concepts of “the self and other” from psychoanalytic, feminist, and postcolonial theory to help us think broadly through the category. In the second part of the course, we read works of literature that feature encounters with a large cast of doppelgänger sub-types, including alter-egos, shadows, ghosts, and evil twins. Finally, we revisit the doppelgänger trope in the digital age to interrogate how advanced technologies have altered the possibilities for “doubling” through innovations such as AI, cloning, and biogenetic de-extinction projects. WR MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* RUSS 2267a / CPLT 2005a / RSEE 2257a, Memory and Memoir in Russian Culture Jinyi Chu",
+    "courseid": "RUSS 2267a",
+    "coursedescription": "How do we remember and forget? How does memory transform into narrative? Why do we read and write memoirs and autobiography? What can they tell us about the past? How do we analyze the roles of the narrator, the author, and the protagonist? How should we understand the ideological tensions between official histography and personal reminiscences, especially in 20th-century Russia? This course aims to answer these questions through close readings of a few cultural celebrities’ memoirs and autobiographical writings that are also widely acknowledged as the best representatives of 20th-century Russian prose. Along the way, we read literary texts in dialogue with theories of memory, historiography, and narratology. Students acquire the theoretical apparatus that enables them to analyze the complex ideas, e.g. cultural memory and trauma, historicity and narrativity, and fiction and non-fiction. Students finish the course with an in-depth knowledge of the major themes of 20th-century Russian history, e.g. empire, revolution, war, Stalinism, and exilic experience, as well as increased skills in the analysis of literary texts. Students with knowledge of Russian are encouraged to read in the original language. All readings are available in English. WR , HU Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* RUSS 2310b / RSEE 2219b / TDPS 2016b, History of Russian Theater Julia Titus",
+    "courseid": "RUSS 2310b",
+    "coursedescription": "This seminar introduces students to the rich legacy of Russian theater, focusing specifically on the developments of Russian drama from the first third of the nineteenth-century to the early twentieth century. The readings and plays studied in the course are organized chronologically, starting with classic Russian comedies by Alexander Griboyedov and Nikolai Gogol, continuing with dramas by Alexander Ostrovsky and Ivan Turgenev, and ending with late nineteenth-century/early twentieth century plays by Leo Tolstoy and Anton Chekhov. Some readings from Stanislavsky are also included. This course will be taught in Russian, with some readings in English and others in Russian. This course is an L5 in Russian. L5 , HU F 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* RUSS 3401a / CPLT 3401a / HUMS 3401a / RSEE 3401a, The Stranger: Travel and Belonging Across Empires Jinyi Chu and Hana Stankova",
+    "courseid": "RUSS 3401a",
+    "coursedescription": "How has the “stranger” shaped national and imperial identities? This course considers travel and emigration in imperial contexts and brings Russian literature into conversation with European literature. We explore narratives of imperial exceptionalism, Russian parochialism, and the broader imperial contexts that shaped the world in the 19th and 20th centuries. Through a literary journey from the late 18th century to the mid 20th century, students consider how the Russian literary tradition and national identity were shaped by fraught exchanges between Russians and Western Europeans, as well as by Russia’s expansion eastward. We read canonical works by writers who questioned or supported empires and think through ways in which they influenced one another. Through close readings, historicization, and theorization, students gain new perspectives on the issues of belonging and alienation in changing imperial contexts. WR , HU Th 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* RUSS 4900a and RUSS 4910b, The Senior Essay Claire Roosien",
+    "courseid": "RUSS 4900a",
+    "coursedescription": "Research and writing on a topic of the student's own devising. Regular meetings with an adviser as the work progresses from prospectus to final form. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

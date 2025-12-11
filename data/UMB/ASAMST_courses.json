@@ -1,0 +1,105 @@
+[
+  {
+    "coursename": "Introduction to Asian American Studies",
+    "courseid": "ASAMST200",
+    "coursedescription": "This collaboratively taught course offers an interdisciplinary introduction to issues and methods relevant within the field of Asian American Studies. Possible areas of exploration may include: particular ethnic and geographic communities (e.g. South Asians and Cambodian Americans or Dorchester and Chinatown neighborhoods), women and gender, history, civil rights, media portrayals, literature, art and performance, and health or mental health issues.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Asians in the United States",
+    "courseid": "ASAMST223L",
+    "coursedescription": "This multidisciplinary course examines the social, historical, and structural contexts defining the Asian American experience from 1850 to the present. Topics include immigration, labor, community settlement, ethnicity, stereotypes, and race relations.",
+    "course-prerequsities": [
+      "ENGL 102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Southeast Asians in the United States",
+    "courseid": "ASAMST225L",
+    "coursedescription": "This course examines issues arising from the resettlement of one million Vietnamese, Cambodian, and Laotian refugees in the US since 1975. Topics include resettlement policies, adjustment and acculturation, changing roles of women and family, and the continuing impact of international politics. Media presentations and lectures by local Southeast Asian community leaders highlight the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Becoming South Asians",
+    "courseid": "ASAMST226",
+    "coursedescription": "This course examines the history and contemporary issues of people in the US with ancestry from countries such as Bangladesh, India, Nepal, Pakistan, and Sri Lanka. Through course readings, films, guest lectures, and student projects, the course explores global migrations and immigrant patterns, The formation of diverse South Asian communities, and cross-cutting issues of race, ethnicity, class, and gender.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Asian Women in the United States",
+    "courseid": "ASAMST228L",
+    "coursedescription": "Drawing on women's voices in literature, sociocultural research, and historical analysis, this course examines the experience of Asian women in the United States from 1850 to the present. Topics include the transformation of Asian women's traditional roles as part of the acculturation process; exclusion; changing roles within the Asian American family; resistance to oppression as defined by race, gender, class; and the continuing impact of international politics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Asian American Psychology",
+    "courseid": "ASAMST238L",
+    "coursedescription": "This course is an introduction to the psychological experience of Asian Americans, including the historical, sociopolitical, and cultural influences that shape personality and mental health in community, family, and individual contexts. The course also explores prevention and intervention possibilities through specific examples, such as trauma and intergenerational conflict, that are relevant for Asian American populations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Rise Up! Asian American Leadership and Social Change",
+    "courseid": "ASAMST250G",
+    "coursedescription": "This course will discuss the legacy of Asian American youth since the 1960's and the present activities, directions, and perspectives of Asian American leaders and organizations. Students will learn basic theories and models of leadership and organizations within the context of social movements and Asian American history. Students will engage with essays from activists, critically analyze organizations, and develop their own plan to address a community issue to present to their peers. In addition to multi-disciplinary readings, there will be guest speakers, videos, and peer teaching.",
+    "course-prerequsities": [
+      "ENGL 102",
+      "ONE 200G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Asian American Cultures and Health Practices",
+    "courseid": "ASAMST345",
+    "coursedescription": "Students examine critical health issues among diverse Asian cultures and communities, including cultural influences on health behaviors and practices of Asian Americans, and the relationships between health of Asian Americans and social, political, and economic contexts. A field work component enables students to develop culturally sensitive health intervention strategies or policies for individuals, families, and communities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Indian Cinema",
+    "courseid": "ASAMST375L",
+    "coursedescription": "This course will provide an introduction to Indian cinema and to Indian culture and society through the study of films. The Indian film industry is the largest producer of feature films in the world. In this class we will examine the films as entertainment as well as cultural narratives and commentaries on society, exploring themes such as social change, the family and gender. The course will combine content analysis of film texts with study of the public culture of film reception.",
+    "course-prerequsities": [
+      "SOCIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Asian American Community Internships I",
+    "courseid": "ASAMST390",
+    "coursedescription": "This seminar course supports students involved with internships and projects working with Asian American populations and issues. Students carry out specific activities that support the development and enhance the capacity of organizations, agencies, and projects focusing on critical issues and needs in Asian American communities in the Boston area. Students also are expected to reflect critically on what they learn in the process both about themselves and about the organizational and community contexts in which they work.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Applied Research in Asian American Studies II",
+    "courseid": "ASAMST398",
+    "coursedescription": "This course enables qualified undergraduates to participate in applied research projects directed by a faculty member affiliated with the Asian American Studies Program. Students engage in the research process through clarifying questions and reviewing relevant literature, designing appropriate methods for data collection and analysis, and sharing findings and recommendations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study II",
+    "courseid": "ASAMST479",
+    "coursedescription": "This course offers individuals and groups of students the opportunity to work with a specific faculty member on an approved project or plan of study in the field of Asian American Studies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

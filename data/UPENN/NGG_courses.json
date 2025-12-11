@@ -1,0 +1,266 @@
+[
+  {
+    "coursename": "NGG 5100 Neurotransmitter Signaling & Neuropsychopharmacology",
+    "courseid": "NGG 5100",
+    "coursedescription": "The goals of this course are three-fold: 1) Provide an overview of major psychiatric disorders. 2) Provide in-depth information on neurotransmitters, emphasizing the wealth of new molecular information on how neurons function and communicate, as well as the basis for psychotherapeutics (one class per week). 3) Develop skills to appreciate, present and critically evaluate the the current literature in neurotransmitter signaling and neuropsychopharmacology (one class per week). Prerequisite: Permission of course director Spring, even numbered years only Also Offered As: PHRM 5100 1 Course Unit",
+    "course-prerequsities": [
+      "PHRM 5100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Permission of course director Spring, even numbered years only Also Offered As: PHRM 5100 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "NGG 5210 Brain-Computer Interfaces",
+    "courseid": "NGG 5210",
+    "coursedescription": "The course is geared to advanced undergraduate and graduate students interested in understanding the basics of implantable neuro-devices, their design, practical implementation, approval, and use. Reading will cover the basics of neuro signals, recording, analysis, classification, modulation, and fundamental principles of Brain-Machine Interfaces. The course will be based upon twice weekly lectures and \"hands-on\" weekly assignments that teach basic signal recording, feature extraction, classification and practical implementation in clinical systems. Assignments will build incrementally toward constructing a complete, functional BMI system. Fundamental concepts in neurosignals, hardware and software will be reinforced by practical examples and in-depth study. Guest lecturers and demonstrations will supplement regular lectures. BE 3010 (Signals and Systems) or equivalent, computer programming experience, preferably MATLAB (e.g., as used the BE labs, BE 3100 ). Some basic neuroscience background (e.g. BIOL 2310, BE 3050, INSC core course), or independent study in neuroscience, is required. This requirement may be waived based upon practical experience on a case by case basis by the instructor. Spring Also Offered As: BE 5210 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is geared to advanced undergraduate and graduate students interested in understanding the basics of implantable neuro-devices, their design, practical implementation, approval, and use."
+      ]
+    }
+  },
+  {
+    "coursename": "NGG 5340 Seminar on current genetic research: Human Disease Modeling in Experimental Sys",
+    "courseid": "NGG 5340",
+    "coursedescription": "An advanced seminar course emphasizing genetic research in model organisms and how it informs modern medicine. Each week a student will present background on a specific human disease. This is followed by an intense discussion by the entire class of 2 recent papers in which model organisms have been used to address the disease mechanism and/or treatment. As a final assignment, students will have the opportunity to write, edit, and publish a \"News & Views\" style article in the journal \"Disease Models and Mechanisms\". Offered spring semester. Prerequisite: If course requirements not met, permission of instructor required. Spring Also Offered As: CAMB 5340 Prerequisite: CAMB 5420 OR CAMB 6050 1 Course Unit",
+    "course-prerequsities": [
+      "CAMB 5340",
+      "CAMB 5420",
+      "CAMB 6050"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirements not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "NGG 5500 Current Alzheimer’s Disease and Related Dementia Concepts",
+    "courseid": "NGG 5500",
+    "coursedescription": "This course will provide an important foundation in the clinical and biological concepts and cutting-edge research topics on Alzheimer’s disease and related dementias (ADRD). Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 5720 Electrical Language of Cells",
+    "courseid": "NGG 5720",
+    "coursedescription": "This course introduces students to high-speed electro-chemical signaling mec hanisms that occur in nerve and other excitable cells during normal activity. Topics considered in substantial detail include: a)a basic description of the passive and active membrane electrical properties; b)the molecular architecture and functional role of ion channels in cell signaling; c)the role of the calcium ion as an umbiquitous chemical mesenger, with applications to neuro-secretion; d)excitatory and inhibitory transmission in the central nervous sytem; e) sensory transduction, as illustrated by the visual, olfactory, and autitory pathways. The course assumes a standard background in cell biology, as well as basic concepts from college physics and college calculus. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 5730 Systems Neuroscience",
+    "courseid": "NGG 5730",
+    "coursedescription": "This course provides an introduction to what is known about how neuronal circuits solve problems for the organism and to current resarch approaches to this question. Topics include: vision, audition, olfaction, motor systems, plasticity, and oscillations. In addition, the course aims to provide an overview of the structure of the central nervous system. A number of fundamental concepts are also discussed across topics, such as: lateral inhibition, integration, filterting, frames of reference, error signals, adaptation. The course format consists of lectures, discussions, readings of primary literature, supplemented by textbook chapters and review articles. Spring Also Offered As: PSYC 6090 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 5750 Neurobiology of Learning and Memory",
+    "courseid": "NGG 5750",
+    "coursedescription": "This course focuses on the current state of our knowledge about the neurological basis of learning and memory. A combination of lectures and discussions will explore the molecular and cellular basis of learning in invertebrates and vertebrates from a behavioral and neural perspective.This course is intended for upper level undergraduate and graduate students. Fall, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 5840 Neurobiology of Sleep and Arousal",
+    "courseid": "NGG 5840",
+    "coursedescription": "The objectives of this course are to discuss mechanisms controlling sleep and arousal; to survey novel approaches to investigations in these areas; indicate the clinical relevance of these ideas where possible. The course is run in the style of a journal club where in each weekly session, students review and discuss influential papers in the field. Fall, even numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 5880 Topics in Translational Neuroscience",
+    "courseid": "NGG 5880",
+    "coursedescription": "This course will introduce graduate students in neuroscience and related disciplines to basic mechanisms and clinical features of major categories of nervous system disease. Each two-hour class will consist of two-parts; a formal lecture followed by a seminar on the same topic. The formal basic science lectures will discuss genetic, molecular, and cellular mechanisms relevant to the disease examined while the seminar will illustrate how that information can be used in the clinical setting to promote further discovery and inform treatment. Some of the seminar will be associated with the Clinical Neuroscience Training Program (CNST) to provide the opportunity to interact with medical students and clinicians. The course will rely on assigned readings of primary research papers and discussions during class. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 5890 Neuroendocrinology",
+    "courseid": "NGG 5890",
+    "coursedescription": "Goals: This course aims to familiarize students with recent discoveries in neuroendocrine research with a focus on puberty. Students have an opportunity to consider how neuroendocrine hypotheses are generated and learn how to analyze data for themselves. Students will master this emerging topic and develop writing and presenting skills as they develop their own research ideas. Format: We will spend three class meetings dissecting each of four journal articles from a single lab in chronological order. These three meetings will involve fully understanding the key concepts, methods, results and future directions. The professor will provide background information in short (20-30 min) lectures. Students will be expected to participate in discussions and work collaboratively with other students. At the end of the course, each student will present a proposal of \"future directions\" based on the papers we have discussed. Student Evaluation: Eighty percent of the final grade will be based on participation in these in-depth journal club discussions. The final twenty percent of the grade will be based on the presentation of Future Directions to the class. Prerequitie: Permission of coure director. Spring, odd numbered years only 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "ONLY 0.5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequitie: Permission of coure director."
+      ]
+    }
+  },
+  {
+    "coursename": "NGG 5900 Research & Community: Biomedical Science in the Urban Curriculum",
+    "courseid": "NGG 5900",
+    "coursedescription": "NGG 5900 is an activity-based course with three major goals. First, the course is an opportunity for biomedical graduate students to develop their science communication skills and share their enthusiasm for neuroscience with high school students at a nearby public high school in West Philadelphia. In this regard, Penn students will prepare demonstrations and hands-on activities to engage local high school students, increase their knowledge in science, and ultimately promote their interest in science-related careers. Second, the course will consider the broader educational context, such as the conditions of the local high school and its overall progress in science education. Students will discuss the problems they encounter and learn how to develop effective proposals, taking into account the participants and the origins of current policies. Third, students will reflect and discuss the important connection between their biomedical research at Penn and the local Philadelphia community. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In this regard, Penn students will prepare demonstrations and hands-on activities to engage local high school students, increase their knowledge in science, and ultimately promote their interest in science-related careers."
+      ]
+    }
+  },
+  {
+    "coursename": "NGG 5910 Digital Signal Processing",
+    "courseid": "NGG 5910",
+    "coursedescription": "The course is designed for an audience that does digital signal processing (e.g., people who do neuroscience) but that do not have a strong math or engineering background. The goal of the course is that after you have completed it you'll have a fairly sophisticated understanding of how to apply several digital signal processing techniques, including better understanding to what is really happening when you push certain buttons in packaged neuroimaging software (e.g., filter settings). After completing the course you'll also better understand how to collect neuroimaging data (e.g., data sampling rate). Digital Signal Processing contains four sections: Basics, Tutorial, Try It, and Literacy. Part 1: Introduction to sine/cosine functions, discussion of time series and spatial data, discussion of amplitude, frequency, and phase, and a section on adding sine waves. There's also a brief introduction to complex numbers and the Euler Identities. Students also read in time and spatial data (grayscale images). Part 2: Detailed discussion of the Nyquist Theorem and aliasing (time and spatial domain), a section on multiplying sine waves, and a brief discussion of plotting complex numbers and determining the magnitude and phase of complex numbers. Part 3: Convolution, and via convolution, filtering. Ideas are explored in the time domain. In this process, students are introduced to high- and low-pass filters and gain functions. Students use convolution to filter several time domain datasets. Part 4: Generally the same as Chapter 3, but now examining spatial data. Students use convolution methods to filter grayscale and color images. Normal distributions and random noise are also discussed. Part 5: Using sine and cosine to compute the magnitude and phase of activity at different frequencies: time and spatial data. Students also see that magnitude and phase information can be obtained more easily using complex exponentials. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 5940 Theoretical and Computational Neuroscience",
+    "courseid": "NGG 5940",
+    "coursedescription": "This course will develop theoretical and computational approaches to structural and functional organization in the brain. The course will cover: (i) the basic biophysics of neural responses, (ii) neural coding and decoding with an emphasis on sensory systems, (iii) approaches to the study of networks of neurons, (iv) models of adaptation, learning and memory, (v) models of decision making, and (vi) ideas that address why the brain is organized the way that it is. The course will be appropriate for advanced undergraduates and beginning graduate students. A knowledge of multi-variable calculus, linear algebra and differential equations is required (except by permission of the instructor). Prior exposure to neuroscience and/or Matlab programming will be helpful. Spring Also Offered As: BE 5300 , NRSC 5585 , PHYS 5585 , PSYC 5390 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A knowledge of multi-variable calculus, linear algebra and differential equations is required (except by permission of the instructor)."
+      ]
+    }
+  },
+  {
+    "coursename": "NGG 5970 Neural Development, Regeneration and Repair",
+    "courseid": "NGG 5970",
+    "coursedescription": "General Description: The goals of this course are to examine the principles underlying the nervous system development and to learn how understanding developmental mechanisms can inform strategies to promote regeneration and repair. This is not a survey course. Rather, the course will focus on selected topics, for which we will discuss the genetic, molecular and cellular strategies employed to study these problems in different model organisms. Emphasis is on how to interpret and critically evaluate experimental data. Students who are not in one of the BGS graduate programs need instructor permission to enroll. Fall Also Offered As: CAMB 5970 Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students who are not in one of the BGS graduate programs need instructor permission to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "NGG 6050 NeuroCore:Quantitative Rigor and Reproducibility in Neuroscience",
+    "courseid": "NGG 6050",
+    "coursedescription": "The quantitative neuroscience core course is designed to be an overview of quantitative approaches used for rigorous and reproducible neuroscience research. This course does not cover statistics in a traditional way, in the sense that it does not provide a comprehensive survey of statistical tests, nor does it dive very deeply into formal mathematical derivations of those tests (information about such things can be found in textbooks and all over the web). Instead, the course focused on teaching students how to apply quantitative approaches to now they think about neuroscience research from beginning to end, including defining clear hypotheses; designing experiments to test those hypotheses; collecting, visualizing, analyzing, and interpreting data in reference to those hypotheses; and keeping effective and transparent records at each stage to ensure rigor and reproducibility. There are two main components to the course. The first component consists of a series of four modules, each of which is designed to use a specific example from neuroscience to illustrate a set of quantitative approaches and tools. The second component consists of group projects that focus on designing and implementing quantitative analyses for existing data sets (e.g., from rotation projects). 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 6150 Cell Control by Signal Transduction Pathways",
+    "courseid": "NGG 6150",
+    "coursedescription": "This course, \"Targeting the cancer cell: from mechanism to precision medicine\", will examine how various signal transduction mechanisms influence cell functions including replication, growth, transcription, translation and intracellular trafficking. We will also consider how non-cell autonomous mechanisms, such as the tumor microenvironment and the immune system influence cancer cell signaling. We will consider how important signaling pathways, such as Ras, Raf, Notch, Wnt, TGF beta, and various kinases/phosphatases become dysregulated in cancer, as well as delve into how the DNA damage response, immune system, and tumor microenvironment exert important influences on oncogenic signaling. In the first half of the course, invited faculty members will pick 2 relatively recent papers from their field that highlight important areas. Each paper will be assigned to a student, who will meet with the faculty mentor prior to the class to discuss the paper and their presentation. During the class, students will present each paper for approximately 45 minutes with time for discussion. Students will present the important background, break down the paper, look for strengths and weakness and come up with a plan of what the next set of experiments could or should be. In the second half of the course, students will independently pick a relevant paper for in class presentation and will also write a short \"News and Views\" style article based on the paper they have chosen. The goal of the course is to provide students with a view of the cancer cell that integrates both cell autonomous and non-cell autonomous signals and to use this information to consider how to successfully treat cancer. Spring Also Offered As: CAMB 6320 , PHRM 6320 Prerequisite: BIOM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 6000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 6180 Recovery After Neural Injury",
+    "courseid": "NGG 6180",
+    "coursedescription": "The human nervous system is subject to several types of injury, (traumatic, ischemic, epileptic, demyelinating and/or inflamatory) that cause serious functional deficits. The mechanisms used by the central and peripheral nervous systems for functional recovery from these injuries will be described in this course. The molecular and cellular pathobiology of CNS injury will be reviewed and methods to enhance functional recovery will be discussed in detail. These include the limitation of secondary neuronal damage by pharmacological manipulations (neuroprotection), the promotion of regeneration,and plasticity, the application of bioengineering strategies, and the use of behavioral rehabilitative approaches. Course Format: a combination of lecture, journal club stype student presentations and classroom discussion. Spring, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 6200 Special Topics in Neuroscience 1",
+    "courseid": "NGG 6200",
+    "coursedescription": "Special Topics in Neuroscience 1 - more to come, placeholder course for now 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 6210 Special Topics in Neuroscience 2",
+    "courseid": "NGG 6210",
+    "coursedescription": "TBD - placeholder course for now 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 6950 Scientific Writing",
+    "courseid": "NGG 6950",
+    "coursedescription": "This 7-class course is designed to introduce students to basic scientific writing skills and is timed for second year graduate students preparing for qualifying examinations. Participants will review the general principles of clear, persuasive writing, and will apply these principles to writing for a scientific audience. Particular emphasis will be placed on conveying the significance of your research, outlining the aims, and discussing the results for scientific papers and grant proposals. The course will also provide an overview of the structure and style of research grant proposals and scientific manuscripts. Classes are highly interactive, and the majority of class time will be spent discussing student scientific writing. The goal of the course is to encourage active and open interaction among students. Ideal endpoints include improved self-editing, and development of effective strategies for offering and receiving editorial recommendations among peers. Prerequisite: NGG pre-candidacy exam students only. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "NGG 6990 Lab Rotation",
+    "courseid": "NGG 6990",
+    "coursedescription": "Lab rotation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-3 Course Units"
+    }
+  },
+  {
+    "coursename": "NGG 7060 Neuroeconomics",
+    "courseid": "NGG 7060",
+    "coursedescription": "This seminar will review recent research that combines psychological, economic and neuroscientific approaches to study human and animal decision-making. This course will focus on our current state of knowledge regarding the neuroscience of decision-making, and how evidence concerning the neural processes associated with choices might be used to constrain or advance economic and psychological theories of decision-making. Topics covered will include decisions involving risk and uncertainty, decisions that involve learning from experience, decisions in strategic interactions and games, and social preferences. Fall or Spring Prerequisite: PSYC 1230 AND PSYC 2737 AND PPE 3003 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1230",
+      "PSYC 2737",
+      "PPE 3003"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 7130 Neuroepigenetics",
+    "courseid": "NGG 7130",
+    "coursedescription": "This course is intended to bring students up to date on research at the intersection of Neuroscience and Epigenetics. It is based on assigned papers covering a variety of experimental systems and concepts in the field of Neuroepigenetics, a formal presentation on a paper each week by individual students, critical evaluation of primary data, and in-depth discussion of potential issues and future directions. The goals of the class are to: 1) Review basic concepts of epigenetics in the context of neuroscience, 2) Learn to critically evaluate the literature in the field, 3) Improve experimental design to enhance rigor and reproducibility, 4) Catch up with the most recent development in neuroepigenetics, 5) Develop professional presentation skills - be a storyteller. Different faculty experts in the field attend class each week to help facilitate the discussion and provide guidance to student presenters. Students each give one presentation during the semester on the paper chosen by the faculty expert for their week. All students are expected to read all paper assignments and participate in the discussions each class. Fall Also Offered As: CAMB 7130 Prerequisite: BIOM 5550 1 Course Unit",
+    "course-prerequsities": [
+      "BIOM 5550"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "NGG 8990 Pre-Dissertation Lab Rotation",
+    "courseid": "NGG 8990",
+    "coursedescription": "Pre-Dissertation Lab Rotation",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-4 Course Units"
+    }
+  },
+  {
+    "coursename": "NGG 9900 Master's Thesis",
+    "courseid": "NGG 9900",
+    "coursedescription": "Master's Thesis Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "NGG 9950 Dissertation",
+    "courseid": "NGG 9950",
+    "coursedescription": "Ph.D. students enroll in this course after passing their candidacy exam. They work on their dissertation full-time under the guidance of their dissertation supervisor and other members of their dissertation committee.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "coursename": "* PHIL 0050a, Philosophy, Race, and Racism Robert Gooding-Williams",
+    "courseid": "PHIL 0050a",
+    "coursedescription": "What is a race, and what is like to have a racial identity? Is racism best conceptualized as a form of flawed belief, as a moral vice, as a social practice, or in terms of notions like “racial oppression” and “white supremacy”? In addressing these questions, we survey and attempt to think along with—analytically, critically, and never dogmatically—the writings of some of the best philosophers who have attempted to answer them. These include W.E.B. DuBois, Jean-Paul Sartre, Frantz Fanon, Michel Foucault, and several contemporary philosophers. Enrollment is limited to first-year students. HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment is limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "PHIL 1115a, First-Order Logic Staff",
+    "courseid": "PHIL 1115a",
+    "coursedescription": "An introduction to formal logic. Study of the formal deductive systems and semantics for both propositional and predicate logic. Some discussion of metatheory. QR 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 1118a / HUMS 4501a / RLST 1270a / SAST 2610a, Buddhist Thought: The Foundations Staff",
+    "courseid": "PHIL 1118a",
+    "coursedescription": "This class introduces the fundamentals of Buddhist thought, focusing on the foundational doctrinal, philosophical, and ethical ideas that have animated the Buddhist tradition from its earliest days in India 2500 years ago down to the present, in places such as Tibet, China, and Japan. Though there will be occasional discussion of the social and practical contexts of the Buddhist religion, the primary focus of this course lies on how traditional Buddhist thinkers conceptualize the universe, think about the nature of human beings, and propose that people should live their lives. Our main objects of inquiry are therefore the foundational Buddhist ideas, and the classic texts in which those ideas are put forth and defended, that are broadly speaking shared by all traditions of Buddhism. In the later part of the course, we take up some of these issues in the context of specific, regional forms of Buddhism, and watch some films that provide glimpses of Buddhist religious life on the ground. HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 1119b / EALL 2190b / EAST 2201b / HUMS 2140 / RLST 1710b, Introduction to Chinese Philosophy Lucas Bender",
+    "courseid": "PHIL 1119b",
+    "coursedescription": "This course represents an introduction to the most important philosophical thinkers and texts in Chinese history, ranging from roughly 500 BC–1500 AD. Topics include ethics, political philosophy, epistemology, and ontology. We discuss the basic works of Confucian and Daoist philosophers during the Warring States and early imperial eras, the continuation of these traditions in early medieval “dark learning,” Buddhist philosophy (in its original Indian context, the early period of its spread to China, and in mature Chinese Buddhist schools such as Chan/Zen), and Neo-Confucian philosophy. The course emphasizes readings in the original texts of the thinkers and traditions in question (all in English translation). No knowledge of Chinese or previous contact with Chinese philosophy required. HU 0 Course cr MW 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 1125a / CLCV 1901a, Introduction to Ancient Philosophy Staff",
+    "courseid": "PHIL 1125a",
+    "coursedescription": "An introduction to ancient philosophy, beginning with the earliest pre-Socratics, concentrating on Plato and Aristotle, and including a brief foray into Hellenistic philosophy. Intended to be taken in conjunction with PHIL 126. WR , HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 1126b, Introduction to Modern Philosophy from Descartes to Kant Michael Della Rocca",
+    "courseid": "PHIL 1126b",
+    "coursedescription": "An introduction to major figures in the history of modern philosophy, with critical reading of works by Descartes, Malabranche, Spinoza, Leibniz, Locke, Berkeley, Hume, and Kant. Intended to be taken in conjunction with PHIL 125, although PHIL 125 is not a prerequisite. HU 0 Course cr MW 10:30am-11:20am",
+    "course-prerequsities": [
+      "HU 0",
+      "MW 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 1175b, Introduction to Ethics Shelly Kagan",
+    "courseid": "PHIL 1175b",
+    "coursedescription": "What makes one act right and another wrong? What am I morally required to do for others? What is the basis of morality? These are some of the questions raised in moral philosophy. Examination of two of the most important answers, the theories of Mill and Kant, with brief consideration of the views of Hume and Hobbes. Discussion of the question: Why be moral? HU 0 Course cr TTh 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 1177a / AFAM 1398a / CGSC 2770a / EDST 1177a, Propaganda, Ideology, and Democracy Staff",
+    "courseid": "PHIL 1177a",
+    "coursedescription": "Historical, philosophical, psychological, and linguistic introduction to the issues and challenges that propaganda raises for liberal democracy. How propaganda can work to undermine democracy; ways in which schools and the press are implicated; the use of propaganda by social movements to address democracy's deficiencies; the legitimacy of propaganda in cases of political crisis. HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 1178a, Introduction to Political Philosophy Thomas Pogge",
+    "courseid": "PHIL 1178a",
+    "coursedescription": "A survey of social and political theory, beginning with Plato and continuing through modern philosophers such as Rawls, Nozick, and Cohen. Emphasis on tracing the development of political ideas; challenges to political theories. HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 1180b / PLSC 2103b, Ethics and International Affairs Thomas Pogge",
+    "courseid": "PHIL 1180b",
+    "coursedescription": "Moral reflection taken beyond state boundaries. Traditional questions about state conduct and international relations as well as more recent questions about intergovernmental agencies, nongovernmental organizations, and the design of global institutional arrangements. HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 1182a / CGSC 2820a / PSYC 1382a, Perspectives on Human Nature Staff",
+    "courseid": "PHIL 1182a",
+    "coursedescription": "Comparison of philosophical and psychological perspectives on human nature. Nietzsche on morality, paired with contemporary work on the psychology of moral judgment; Marx on religion, paired with systematic research on the science of religious belief; Schopenhauer paired with social psychology on happiness. HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 2101b, Philosophy and the Origins of Modern Science Claudia Dumitru",
+    "courseid": "PHIL 2101b",
+    "coursedescription": "How (and when) was modern science born? What factors contributed to the transformation of natural philosophy into modern science? Is this development best described as a 'revolution'? This course focuses on the intellectual transformations that took place in 16th and 17th-century Europe and that came to be known as 'the Scientific Revolution'. Readings cover a mixture of philosophical texts, scientific texts, and contemporary scholarship from the history and philosophy of science. We discuss the experimental practices, mathematical tools, and competing philosophical frameworks put forward by figures such as Bacon, Galileo, Descartes, Newton, and reflect on how the developments in this period shape our understanding of science today. HU TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 2111b / GMAN 2111b / HUMS 4111b, Marx, Nietzsche, Freud Austen Hinkley",
+    "courseid": "PHIL 2111b",
+    "coursedescription": "Ever since Paul Ricoeur dubbed Marx, Nietzsche, and Freud the “masters of suspicion,” the three authors have taken on a prominent position in the history of philosophy. It is strange that this framing has been taken for granted, given that all three of them took a critical stance against philosophy, aligning themselves instead with disciplines that they attempted to revolutionize or invent – political economy, philology, and psychoanalysis. This course takes up Ricoeur’s configuration just as these authors ask us to: with suspicion. We will, on the one hand, ask what the three have in common, how they teach us to doubt even the foundations of our own doubt and to construct systems that remain fundamentally open to revision. On the other hand, we will also examine the differences among the three: their contrasting histories, methods, and purposes. Finally, we will ask how these texts and authors come to us, how our own assumptions shape our engagement with them, and how we might learn from them today. Readings include excerpts from Marx’s Capital , Nietzsche’s Gay Science and Thus Spoke Zarathustra , and Freud’s Interpretation of Dreams and Beyond the Pleasure Principle . HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 2203b / EALL 2120b, Ancient Chinese Thought Staff",
+    "courseid": "PHIL 2203b",
+    "coursedescription": "An introduction to the foundational works of ancient Chinese thought from the ruling ideologies of the earliest historical dynasties, through the Warring States masters, to the Qin and Han empires. Topics include Confucianism and Daoism, the role of the intellectual in ancient Chinese society, and the nature and performance of wisdom. HU 0 Course cr MW 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 2220a, Medieval Philosophy Paul Franks and Michael Lessman",
+    "courseid": "PHIL 2220a",
+    "coursedescription": "Introduction to central problems and themes in medieval philosophy. The confrontation between Greek philosophy and the Abrahamic or scriptural religions of Judaism, Christianity, and Islam; conceptions in metaphysics, epistemology, philosophy of mind, and ethics to which the encounter gave rise. Philosophers include Augustine, Saadiah, al-Farabi, al-Ghazali, Maimonides, ibn-Rushd, Aquinas, Crescas, and Ockham. HU MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 2267b, Mathematical Logic Sun-Joo Shin",
+    "courseid": "PHIL 2267b",
+    "coursedescription": "An introduction to the metatheory of first-order logic, up to and including the completeness theorem for the first-order calculus. Introduction to the basic concepts of set theory. Prerequisite: PHIL 115 or permission of instructor. QR MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHIL 115",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PHIL 115 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PHIL 2269b, The Philosophy of Science Lily Hu",
+    "courseid": "PHIL 2269b",
+    "coursedescription": "Central questions about the nature of scientific theory and practice. Factors that make a discipline a science; how and why scientific theories change over time; interpreting probabilistic claims in science; whether simpler theories are more likely to be true; the laws of nature; whether physics has a special status compared to other sciences; the legitimacy of adaptationist thinking in evolutionary biology. HU MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 2270a, Epistemology Daniel Greco",
+    "courseid": "PHIL 2270a",
+    "coursedescription": "Introduction to current topics in the theory of knowledge. The analysis of knowledge, justified belief, rationality, certainty, and evidence. HU MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 2271a / LING 2710a, Philosophy of Language Zoltan Szabo",
+    "courseid": "PHIL 2271a",
+    "coursedescription": "An introduction to contemporary philosophy of language, organized around four broad topics: meaning, reference, context, and communication. Introduction to the use of logical notation. HU 0 Course cr TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 2275b, Minds and Machines Laurie Paul",
+    "courseid": "PHIL 2275b",
+    "coursedescription": "This course explores the structure of the mind and brain in relation to topics in artificial intelligence, with special attention to topics in computational cognitive science. We discuss classic questions in the philosophy of mind involving representation, consciousness, intentionality, and knowledge, and explore connections to topics in AI involving computational models, machine learning, agency, planning, and reasoning. HU 0 Course cr TTh 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 2280b / CGSC 2750b / LING 2750b, Pragmatics Simon Charlow",
+    "courseid": "PHIL 2280b",
+    "coursedescription": "Speakers often mean things they don’t say, but how does a hearer figure out what the speaker meant? Which sentences are designed to change the world rather than just to represent it? How are sentences used to mean different things in different contexts? Pragmatics explores the relations between what is said and what is meant, focusing on how speech acts and the principles of “street logic”—presuppositions and implicatures—help speakers and hearers shape the landscape of a conversation. No formal prerequisites, but some familiarity with linguistics or philosophy of language will help on some of the readings. SO RP MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PHIL 2302b, Modality Zoltan Szabo",
+    "courseid": "PHIL 2302b",
+    "coursedescription": "A study of metaphysics, preceded by a brief introduction to the logic and semantics of modality. Topics include essentialism, possible worlds, counterfactuals, laws of nature, moral obligation, and chance. Prerequisites: PHIL 115 and another course in philosophy. HU TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHIL 115",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 2340a, AI Epistemology and Ethics: Knowing Machine Morals Daniel Grimmer",
+    "courseid": "PHIL 2340a",
+    "coursedescription": "As artificial intelligence increasingly shapes our world, we face profound epistemological questions: Can these machines truly think, know, and understand? It is essential that we come to grips with these questions if we are going to develop and deploy AI responsibly. Indeed, this is the central theme of this course: Rigorously investigating how AI systems \"think\", \"know\", and \"understand\" (AI Epistemology) is essential for navigating the complex ethical challenges which they pose (AI Ethics). This course will help you develop the conceptual tools to critically assess AI's potential and perils, so that you can engage with this transformative technology in an informed and responsible way. Key questions include: What is intelligence? Can AIs be creative? Do they genuinely grasp the meaning of concepts, perhaps via an internal \"Language of Thought\"? How do these questions compare to human epistemology and animal epistemology? Is a superintelligence explosion possible? Is it likely? Is it inevitable? Or is there just a techno-cult in Silicon Valley? Further, we'll discuss AI consciousness and its moral status, responsibility for AI-caused harm, and AI's transformative impact on democracy, global power, labor, and capitalism. While no technical background is assumed, some familiarity with LLM mechanisms will be beneficial. HU TTh 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 3208a / EP&E 4255a, Morality and Relationships Max Lewis",
+    "courseid": "PHIL 3208a",
+    "coursedescription": "This course explores the nuances of two kinds of relationships: interpersonal relationships and normative relationships. The course starts with foundational work in relational ethics which connects ethics with moral accountability, e.g., moral demands, claims, blame, apology, forgiveness, etc. With a grasp of these views in place, we turn toward the morality of interpersonal relationships. Interpersonal relationships are a central part of our lives. As social creatures, they are essential for our well-being and the meaningfulness of our lives. But they raise important moral questions. For example, do we have special obligations to our friends, family, or co-national? Are we epistemically permitted to ignore evidence if it indicates that our friend or family has done something wrong? Is there a conflict between what morality requires and what is required for being a good friend or family member? What’s wrong or bad about being friends with an immoral person? We also explore psychological and moral aspects of these relationships, e.g., what does loving a person consist of? What reasons do we have to love others? Do we owe our loved ones debts of gratitude? SO M 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 3305b / CGSC 313 / CGSC 3130b / PSYC 3113b, Philosophy for Psychologists Joshua Knobe",
+    "courseid": "PHIL 3305b",
+    "coursedescription": "Introduction to frameworks developed within philosophy that have applications in psychological research. Principal topics include the self, causation, free will, and morality. Recommended preparation: a course in philosophy or psychology. HU , SO M 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: a course in philosophy or psychology."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHIL 3314a / EP&E 4234a, Contemporary Moral and Social Controversies: Freedom, Autonomy, Well-Being Max Lewis",
+    "courseid": "PHIL 3314a",
+    "coursedescription": "We are living in a time of moral turmoil. Not only have legal rights we took for granted been overturned (e.g., the right to abortion), but we seem more polarized than ever. In this course, we take a careful and sober look at some of the moral and social controversies that constitute this state of turmoil and polarization. At the heart of the course are debates concerning conflicts between the following rights and values that people in liberal democracies see as sacrosanct, e.g., autonomy (e.g., bodily autonomy), freedom (e.g., free speech and freedom of association), harm prevention, the right to life, and well being. We start by exploring the fundamental theories in morality (e.g., Consequentialism, Deontology, and Rights Theory) and well-being (e.g., Hedonism, Desire-satisfaction, and Objective List views). We then use these theories to critically analyze particular moral and social controversies. In particular, we explore how these theories answer the following questions, “Is abortion morally permissible?”, “Is euthanasia morally wrong?”, “Should there be limits on free speech? If so, when?”, “Should there be limits on what can be bought and sold?”, “Can the state be justified in interfering with who gets to parent children?”, “How open should state borders be?”, “What do we owe the global poor?” SO Th 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 3323a / GMAN 3030a, The Frankfurt School Jacob McNulty and RAHEL JAEGGI",
+    "courseid": "PHIL 3323a",
+    "coursedescription": "The Frankfurt School of Critical Theory was (is) a group of eclectic interdisciplinary Marxist philosophers and social scientists, active from the 1920s to the present. Most were German Jews born around the turn of the 20th century. The Frankfurt school were a group of thinkers in almost perpetual exile. Simultaneously critical of American capitalism and of Soviet Communism, they were expelled from their native Germany in the wake of Hitler’s rise to power. They also often lacked any intellectual safe haven, finding themselves at odds much philosophical and social-scientific orthodoxy (positivism, neo-Kantianism, “value-free” social science etc.). The critical theorists of the Frankfurt School sought to re-actualize ideas from the philosophical tradition, especially from Kant and Hegel, in order to address the complex realities of modern society: mass culture; fascism, totalitarianism and authoritarianism; world war; imperialism; secularization; irrationality, sexuality and aggression; and so on. This class looks at critical theory from a philosophical perspective, focusing on its claim to fuse traditional philosophy and radical social science. At least one prior course in philosophy, preferably in Kant or political philosophy. HU M 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 3371a / HUMS 3371a / PLSC 3371a, Machiavelli and Machiavellianism Steven Smith",
+    "courseid": "PHIL 3371a",
+    "coursedescription": "It is generally agreed that modern political science begins with Machiavelli, but what that means remains a subject of considerable dispute. What were Machiavelli’s accomplishments? Was he a political realist who taught us to seek for “the effectual truth” of things? Was he an advisor to princes or, at the very least, powerful executives who taught the importance of acting by “oneself alone”? Was he a populist who sought to reanimate a taste for Roman-style republicanism? Or did he seek to bring about a new kind of expansive territorial state fuelled by war and the desire for empire? Machiavelli’s influence has been widespread throughout the modern world. But just because his writings have been used and misused for a range of causes does not mean that we cannot discover an intelligible and coherent core to his work. We read Machiavelli’s two most important works of political theory–the Prince and the Discourses on Livy . The latter is read along with the Roman historian Titus Livy who was Machiavelli’s major source for his theories of political conflict, leadership, and liberty. We then consider his influence on some selected nineteenth and twentieth-century political theorists who have appropriated him as the central figure of modernity. Throughout the course we are attentive to the interpretive and methodological issues at stake in the recovery of the thought of this great Florentine political thinker. SO T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 3395a / CGSC 3950a, Junior Colloquium in Cognitive Science Isaac Davis",
+    "courseid": "PHIL 3395a",
+    "coursedescription": "Survey of contemporary issues and current research in cognitive science. By the end of the term, students select a research topic for the senior essay. Enrollment limited to Cognitive Science majors. ½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to Cognitive Science majors."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHIL 4220a, Philosophy of Causation in the Social World and the Social Sciences Lily Hu",
+    "courseid": "PHIL 4220a",
+    "coursedescription": "Billiard balls colliding. Rocks smashing bottles and windows. Striking a match to light it. Classic vignettes of causation in philosophy all feature causal relations in the physical world. But what about causation in the social world? Higher education causing higher earnings. Public health campaigns causing improved public health. Being fired because of one's race or sex. In this class, we: 1) explore the ways in which causation in the social world breaks the mold of those so-called \"classic\" cases of causation; 2) investigate the philosophical foundations of causal inference methodology in the social sciences; and 3) consider various normative dimensions of key causal relations in the social world. Prerequisite: One prior course in philosophy. HU W 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "W 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4233a, Growing Up, Growing Old: Philosophy of Age and Aging Robin Dembroff",
+    "courseid": "PHIL 4233a",
+    "coursedescription": "This course examines the philosophical dimensions of age and aging, exploring questions of identity, justice, and the passage of time. How do we understand childhood, adulthood, and old age? What role do social norms play in shaping our experiences and perceptions of aging? Is aging a mere biological process, or does it have deeper ethical and existential significance? Drawing from metaphysics, ethics, feminist philosophy, and critical age studies, we interrogate the ways age structures power, personhood, and our understanding of a life well lived. HU T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4240a, Practicing Philosophy Robin Dembroff",
+    "courseid": "PHIL 4240a",
+    "coursedescription": "What does it mean to practice philosophy, and will having a philosophical practice enrich your life? This course centers these questions. We approach philosophy not just as a body of knowledge but as an active, lived practice that takes many forms. Through readings, dialogue, and exercises, we both theoretically examine and actively imitate a range of philosophical traditions and methods—from meditation to debate, and dialogue to personal letters. As we explore these ways of doing philosophy, we consider how the form of a philosophical practice shapes the ideas and arguments that come out of that practice. By the end of this course, you gain a deeper appreciation of philosophy as a multifaceted and multitudinous practice, as well as a clearer sense of how you can integrate philosophical practice into your own life. HU W 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4340b, The Philosophy of Thomas Hobbes Claudia Dumitru",
+    "courseid": "PHIL 4340b",
+    "coursedescription": "This is a seminar on Hobbes’s theoretical and practical philosophy. We discuss his wider metaphysical and methodological commitments, his account of mind and human nature, and classic themes from his political philosophy. Particular attention is devoted to Hobbes’s conception of a science of politics against the backdrop of his general theory of science. Prerequisites: two courses in philosophy (preferably 1 in the history of philosophy). HU W 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "W 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4403b / JDST 3619b / RLST 4500b, Spinoza and the God of the Bible Nancy Levene",
+    "courseid": "PHIL 4403b",
+    "coursedescription": "An exploration of Spinoza’s writings on God, nature, and person; human law, divine law, and political life; and the interpretation of the Bible. Prerequisite: coursework in philosophical texts. HU T 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "T 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4405a, Racial Inequality, Racial Injustice Stephen Darwall and Robert Gooding-Williams",
+    "courseid": "PHIL 4405a",
+    "coursedescription": "In this seminar we examine several contemporary, philosophical approaches to the themes of racial inequality and racial injustice, focusing on the relations between racial inequality and the metaphysics of race; between racial injustice and racial integration; between racial inequality and intimate injustice; and between racial inequality and the operations of caste and class hierarchies. Readings include writings by Sally Haslanger, Elizabeth Anderson, Tommie Shelby, Andrew Valls, Shatema Threadcraft, Stephen Darwall, Lionel McPherson, and Adolph Reed. At least one previous course in philosophy – preferably in moral, social, or political philosophy. HU W 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4408a, The Ethics of Marx, Kierkegaard, and Nietzsche Stephen Darwall",
+    "courseid": "PHIL 4408a",
+    "coursedescription": "Marx, Kierkegaard, and Nietzsche were united by their critical attitude toward morality. Yet each had an ethical philosophy, even if it was only implicit, as in Marx. Moreover, there are themes that run through the thought of all three, though they differ profoundly from one another. For example, all three think and write in response to Kant and the German Idealists, Hegel and Fichte. And all three develop the idea of freedom, which was so important to Kant and post-Kantian Idealists. This course is an intensive study of the ethics of Marx, Kierkegaard, and Nietzsche: each in its own right, in comparison with each other, and in the context of the history of moral philosophy in the modern period, including up to the present time. One course in philosophical ethics advisable. HU T 7pm-8:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4416b, The Philosophy of Spinoza Michael Della Rocca",
+    "courseid": "PHIL 4416b",
+    "coursedescription": "An in-depth study of Spinoza's philosophy. Readings from his Ethics, political writings, Treatise on the Emendation of the Intellect, letters, and other works. Spinoza's metaphysics and his views on philosophy of mind, teleology, action, and emotion. Some attention to methods for interpreting works in the history of philosophy. HU T 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4425b, Topics in Epistemology Keith DeRose",
+    "courseid": "PHIL 4425b",
+    "coursedescription": "Survey of recent work in epistemology, with an emphasis on connections between formal approaches to epistemology and traditional epistemological questions. Bayesian approaches and their limitations; the relationship of credence to belief and knowledge; higher-order knowledge and probability. Prerequisite: a course in epistemology, or with permission of instructor. HU W 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "W 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: a course in epistemology, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHIL 4426b / CGSC 4260b / EP&E 4490b / PSYC 4220b, The Cognitive Science of Morality Joshua Knobe",
+    "courseid": "PHIL 4426b",
+    "coursedescription": "Introduction to the emerging field of moral cognition. Focus on questions about the philosophical significance of psychological findings. Topics include the role of emotion in moral judgment; the significance of character traits in virtue ethics and personality psychology; the reliability of intuitions and the psychological processes that underlie them. HU W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4427b, Computability and Logic Sun-Joo Shin",
+    "courseid": "PHIL 4427b",
+    "coursedescription": "A technical exposition of Gödel's first and second incompleteness theorems and of some of their consequences in proof theory and model theory, such as Löb's theorem, Tarski's undefinability of truth, provability logic, and nonstandard models of arithmetic. Prerequisite: PHIL 267 or permission of instructor. QR , HU T 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "PHIL 267",
+      "T 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: PHIL 267 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHIL 4450b / EP&E 4478b, The Problem of Evil Keith DeRose",
+    "courseid": "PHIL 4450b",
+    "coursedescription": "The challenge that evil's existence in the world poses for belief in a perfectly good and omnipotent God. The main formulations of the problem of evil; proposed ways of solving or mitigating the problem and criticism of those solutions. Skeptical theism, the free-will defense, soul-making theodicies, and doctrines of hell. HU T 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4455b / EP&E 4334b, Normative Ethics Shelly Kagan",
+    "courseid": "PHIL 4455b",
+    "coursedescription": "A systematic examination of normative ethics, the part of moral philosophy that attempts to articulate and defend the basic principles of morality. The course surveys and explores some of the main normative factors relevant in determining the moral status of a given act or policy (features that help make a given act right or wrong). Brief consideration of some of the main views about the foundations of normative ethics (the ultimate basis or ground for the various moral principles). Prerequisite: a course in moral philosophy. HU Th 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "TH 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4457b / EP&E 4235b / PLSC 3346b, Recent Work on Justice Thomas Pogge",
+    "courseid": "PHIL 4457b",
+    "coursedescription": "In-depth study of one contemporary book, author, or debate in political philosophy, political theory, or normative economics. Focus varies from year to year based on student interest and may include a ground-breaking new book, the life's work of a prominent author, or an important theme in contemporary political thought. HU W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Focus varies from year to year based on student interest and may include a ground-breaking new book, the life's work of a prominent author, or an important theme in contemporary political thought."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHIL 4464a / PLSC 3324a, Justice, Taxes, and Global Financial Integrity Thomas Pogge",
+    "courseid": "PHIL 4464a",
+    "coursedescription": "Study of the formulation, interpretation, and enforcement of national and international tax rules from the perspective of national and global economic justice. Prerequisites: previous courses in one or two of the following: law, economics, political science, or political philosophy. HU T 3:30pm-5:20pm",
+    "course-prerequsities": [
+      "T 3",
+      "30PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4468b, Metaethics Stephen Darwall",
+    "courseid": "PHIL 4468b",
+    "coursedescription": "A study of moral theorizing and moral discourse. The linguistic role of words like good, bad, right, and wrong; whether propositions that use these terms can be true or false. What ethical claims mean, if anything, and what kinds of reasoning or evidence might justify such claims. HU W 7pm-8:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4480a or b, Tutorial Daniel Greco",
+    "courseid": "PHIL 4480a",
+    "coursedescription": "A reading course supervised by a member of the department and satisfying the following conditions: (1) the work of the course must not be possible in an already existing course; (2) the course must involve a substantial amount of writing, i.e., a term essay or a series of short essays; (3) the student must meet with the instructor regularly, normally for at least an hour a week; (4) the proposed course of study must be approved by both the director of undergraduate studies and the instructor. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4483b / CLCV 4909b, Plato's Metaphysics Tim Clarke",
+    "courseid": "PHIL 4483b",
+    "coursedescription": "A broad look at central topics in Plato's metaphysics followed by in-depth study of the conception of reality underlying the classificatory method at work in his Sophist , Statesman, and Philebus . Prerequisite: Previous study of ancient philosophy, Plato's philosophy, or permission of the instructor. HU W 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "W 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Previous study of ancient philosophy, Plato's philosophy, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* PHIL 4490a and PHIL 4491b, The Senior Essay Daniel Greco",
+    "courseid": "PHIL 4490a",
+    "coursedescription": "The essay, written under the supervision of a member of the department, should be a substantial paper; a suggested length is between 8,000 and 12,000 words for one-term projects, and between 12,500 and 15,000 words for two-term projects. Students completing a one-term project should enroll in either 490 in the fall or 491 in the spring. Students completing a two-term project should enroll in both 490 and 491. The deadline for senior essays completed in the fall is December 5; the deadline for both one- and two-term senior essays completed in the spring is April 21. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* PHIL 4580a or b, Tutorial 2 Daniel Greco",
+    "courseid": "PHIL 4580a",
+    "coursedescription": "A reading course supervised by a member of the department and satisfying the following conditions: (1) the work of the course must not be possible in an already existing course; (2) the course must involve a substantial amount of writing, i.e., a term essay or a series of short essays; (3) the student must meet with the instructor regularly, normally for at least an hour a week; (4) the proposed course of study must be approved by both the director of undergraduate studies and the instructor. none HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

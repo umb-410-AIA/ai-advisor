@@ -1,0 +1,435 @@
+[
+  {
+    "coursename": "CRIM 1000 Criminology",
+    "courseid": "CRIM 1000",
+    "coursedescription": "This introductory course examines the multi-disciplinary science of law-making, law-breaking, and law-enforcing. It reviews theories and data predicting where, when, by whom and against whom crimes happen. It also addresses the prevention of different offense types by different kinds of offenders against different kinds of people. Police, courts, prisons, and other institutions are critically examined as both preventing and causing crime. This course meets the general distribution requirement. Fall Also Offered As: SOCI 2920 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 1100 Criminal Justice",
+    "courseid": "CRIM 1100",
+    "coursedescription": "This course examines how the criminal justice system responds to crime in society. The course reviews the historical development of criminal justice agencies in the United States and Europe and the available scientific evidence on the effect these agencies have on controlling crime. The course places an emphasis on the functional creation of criminal justice agencies and the discretionary role decision makers in these agencies have in deciding how to enforce criminal laws and whom to punish. Evidence on how society measures crime and the role that each major criminal justice agency plays in controlling crime is examined from the perspective of crime victims, police, prosecutors, jurors, judges, prison officials, probation officers and parole board members. Using the model of social policy evaluation, the course asks students to consider how the results of criminal justice could be more effectively delivered to reduce the social and economic costs of crime. Spring Also Offered As: SOCI 2921 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 1200 Statistics for the Social Sciences I",
+    "courseid": "CRIM 1200",
+    "coursedescription": "Statistical techniques and quantitative reasoning are essential tools for properly examing questions in the social sciences. This course introduces students to the concepts of probability, estimation, confidence intervals, and how to use the statistical concepts and methods to answer social science questions. The course will require the use of R, a free, open source statistical analysis program. This course has been approved for the quantitative data analysis requirement (QDA). Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 1201 Statistics for the Social Sciences II",
+    "courseid": "CRIM 1201",
+    "coursedescription": "In this course, students learn to conduct quantitative data analyses for social sciences, with an emphasis on identifying causal relationships in data. Many social science analyses aim to answer causal questions: Do longer prison sentences reduce crime? Do tougher gun laws reduce homicides and suicides? Can summer jobs help keep youth safe? Students will learn about research designs and data analysis methods to answer these kinds of questions, and especially to learn to implement them in practice. The goal of this class is to help students conduct their own analyses, and to become critical readers of statistical analyses, both in social science publications and in public discourse. The focus will be on what to compute and how to interpret the results. The emphasis is on the intelligent use of statistics. We will be using R, an open-source programming language. Spring Prerequisite: CRIM 1200 1 Course Unit",
+    "course-prerequsities": [
+      "CRIM 1200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2005 Violent Crime",
+    "courseid": "CRIM 2005",
+    "coursedescription": "This course examines the definitions, patterns, and impacts of violent crime and the attendant causes and policy responses. Students will critically assess a range of theories that explore the sociological, psychological, and developmental precursors to violent offending. The topics covered in this course include generality and specificity in offending, homicide, gun violence, group violence, and intimate partner violence. Understanding the historic and contemporary research on violence is a central component of this course and this research is used to guide discussion and assessment of societal responses to violent crime policy. This course is intended to foster a nuanced understanding of violent crime and complexities of its policy implications. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2010 American Death Penalty in Theory and Practice",
+    "courseid": "CRIM 2010",
+    "coursedescription": "Over the past forty years, in response to controversy over the American death penalty, the Supreme Court has created a framework of rules designed to make the death penalty conform to current societal standards. In this course, we will identify the critical issues identified by the courts (and the critics) in light of the practical realities of capital litigation, and we will ask whether the efforts to address these issues have been successful. The class will use specific case examples to identify the critical points in a death penalty case- for example, the decision to designate a prosecution as \"capital\", the performance of defense counsel, the penalty decision, and the method of execution. These critical stages will provide a platform for discussing critical issues like the proper limits of discretion; bias; cruelty; and the decision to disqualify certain groups of people from capital punishment (the mentally disabled, minors). Students will be assigned readings from differnt kinds of sources. Cases from the Supreme Court will identify key issues and the efforts to address them under the law. More general death penalty history will provide some context. We will also read pieces by advocates (pro and con). Finally, we will focus on a few specific prosecutions and discuss how abstract theories work in a particular case. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2015 Crime and Media",
+    "courseid": "CRIM 2015",
+    "coursedescription": "This course explores the intricate relationship between media and crime through a multidisciplinary lens. It delves into the foundational principles of journalism and news reporting, examining how news values shape public perceptions of crime. Students will analyze various theoretical frameworks and apply them to understand moral panics, media portrayals of different demographic groups, and the depiction of law enforcement in both fictional and non-fictional contexts. Key topics include the influence of media on public fear and perception of crime, the portrayal of children, women, police, and minority groups, and the comparative analysis of crime news across different countries. The course also investigates the role of media in political discourse and its impact on voter beliefs, as well as media coverage of white-collar crime and anti-corruption efforts. Through critical examination of police, courts, and prisons as depicted in the media, students will gain insights into how these institutions are both represented and scrutinized in public discourse. This course provides a comprehensive understanding of the symbiotic relationship between crime and media, emphasizing critical thinking and analytical skills. By the end of the unit students should be able to 1) Assess the role of news sources and news values in producing crime news, 2) Evaluate crime news in historical context and as a sociocultural product, 3) Analyze and theorize the representation of offenders, victims, and criminal justice agencies in the mass media, 4) Engage with a range of theoretical and conceptual explanations for media renderings of crime and criminal justice, and 5) Evaluate fictional representations of crime and criminal justice by locating them historically, culturally, and socially. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2020 Criminal Justice Reform: A Systems Approach (SNF Paideia Program Course)",
+    "courseid": "CRIM 2020",
+    "coursedescription": "America's criminal justice system, which affects every community in the United States, is often criticized for being biased, overly punitive, ineffective at reducing crime, and resistant to change. This course will review the various components of the criminal justice system, identify the structural challenges to the widespread implementation of reforms or improvements to the system, and provide students with a conceptual framework for dialogue and structural/cultural change that can improve the legitimacy and effectiveness of our criminal justice agencies and enhance the delivery of justice for all. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2025 Transnational Crime",
+    "courseid": "CRIM 2025",
+    "coursedescription": "This course examines the complex and evolving landscape of transnational crime, which generates billions of dollars annually and operates across international borders. Far from the glamorized portrayals in popular media, the reality of transnational organized crime is rooted in fluid, global networks that thrive on illegal markets for drugs, firearms, human trafficking, counterfeit goods, and more. In this course students will explore the multifaceted nature of these crimes, their impact on global security, and their role in undermining economic, social, and political systems worldwide. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2030 Law and Criminal Justice",
+    "courseid": "CRIM 2030",
+    "coursedescription": "This course explores constitutional criminal procedure or the law of the Fourth, Fifth, and Sixth Amendments to the United States Constitution. Topics included the laws and rules associated with search and seizure, arrest, interrogation, the exclusionary rule, and deprivation of counsel. Social science evidence that supports or raises questions about legal doctrine will be examined. No prerequisites are required. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics included the laws and rules associated with search and seizure, arrest, interrogation, the exclusionary rule, and deprivation of counsel."
+      ]
+    }
+  },
+  {
+    "coursename": "CRIM 2040 Forensic Analysis",
+    "courseid": "CRIM 2040",
+    "coursedescription": "This course discusses the need for stronger scientific foundations in the analysis of forensic evidence from a scientific and a policy perspective. Forensic evidence, such as fingerprints, firearms, and hair, has been analyzed for hundreds of years to inform crime investigations and prosecutions. However, recent advances, especially the use of DNA technology, have revealed that a faulty forensic analyses may have contributed to wrongful convictions. These advances have demonstrated the potential danger of information and testimony derived from imperfect analysis, which can result not just in wrongful convictions but also in errors of impunity. In this course, students learn about the history of forensics, as well as about the recent advances that aim to improve current practices. It is an interdisciplinary course, but it focuses mostly on the statistical and scientific aspects of testing in forensics. Students discuss recent solutions that quantify the uncertainty, limitations, and errors associated with human factors, pattern evidence, and digital evidence. No prior statistical or forensic knowledge is expected. The course will be useful for students who wish to become forensic practitioners, law enforcement officers, lawyers, judges, researchers, or simply informed citizens. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2050 The Use and Impact of Technology in the Criminal Justice System",
+    "courseid": "CRIM 2050",
+    "coursedescription": "This course explores the integration of technology in the criminal justice system, focusing on its impact on law enforcement, judicial processes, and corrections. Students will examine cutting-edge technological tools such as forensic analysis, AI algorithms, predictive policing, ShotSpotter, and facial recognition. The course will emphasize the ethical and fairness implications of these technologies, questioning their efficacy and the potential for bias. Through a combination of lectures, case studies, and hands-on projects, students will critically analyze the benefits and challenges associated with the adoption of technology in criminal justice. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2060 Crime and Human Development",
+    "courseid": "CRIM 2060",
+    "coursedescription": "One of the central research problems in criminology is the relationship between human development and the likelihood of committing crime. This course will examine the tools for measuring the onset of crime, its persistence, intermittency, and desistence. These tools include the study of birth cohorts of everyone born in a certain time and place, life course studies of juvenile delinquents and non-delinquents, trajectory analysis of people studied from pre-school through middle age, and interviews with 70 year old former delinquents who reflect on how their life-course affected the crimes they committed. This course will also examine the research findings that have been produced using these tools. Students will be asked to consider what these findings imply for major theories of crime causation as well as policies for crime prevention. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2080 Neighborhood Dynamics of Crime",
+    "courseid": "CRIM 2080",
+    "coursedescription": "Crime varies in time, space and populations as it reflects ecological structures and the routine social interactions that occur in daily life. Concentrations of crime can be found among locations, with antisocial activities like assaults and theft occurring at higher rates because of the demographic make-up of people (e.g. adolescents) or conflicts (e.g. competing gangs), for reasons examined by ecological criminology. Variation in socio-demographic structures (age, education ratios, and the concentration of poverty) and the physical environment (housing segregation, density of bars, street lighting) predicts variations between neighborhoods in the level of crime and disorder. Both ethnographic and quantitative research methods are used to explore the connections between the social and physical environment of areas and antisocial behavior. Spring Also Offered As: URBS 2090 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2090 Wrongful Convictions",
+    "courseid": "CRIM 2090",
+    "coursedescription": "This course explores wrongful convictions from an interdisciplinary perspective. Using research from the disciplines of law, criminology, psychology and sociology, this course explores how legal errors occur and how they might be prevented in the future. Connections to quality control research and practice in other industries will also be examined. No prerequisites are required. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 2230 Forensic Anthropology",
+    "courseid": "CRIM 2230",
+    "coursedescription": "This course will investigate and discuss the various techniques of analysis that biological anthropologists can apply to forensic cases. Topics include human osteology, the recovery of bodies, the analysis of life history, the reconstruction of causes of death, and various case studies where anthropologists have contributed significantly to solving forensic cases. Discussions will include the limitations of forensic anthropology and the application of DNA recovery to skeletal/mummified materials. Not Offered Every Year Also Offered As: ANTH 3230 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 4000 Research Seminar in Experiments in Crime and Justice",
+    "courseid": "CRIM 4000",
+    "coursedescription": "This seminar focuses on examining data from experiments in criminology including: randomized controlled trials of criminal justice policies, \"natural\" experiments in crime, and other quasi-experimental studies. A series of experiments conducted by Penn scholars and elsewhere will be examined. This seminar also guides criminology majors in writing a research proposal for their thesis. Students will learn about how to formulate a research question, develop a review of the literature, and how to apply necessary empirical methods. The final paper for this course will be a research proposal that can serve as the basis for the student's senior thesis and to satisfy the senior capstone requirement. Readings will come from the disciplines of criminology, sociology, psychology, economics, and urban planning. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 4001 Senior Research Thesis",
+    "courseid": "CRIM 4001",
+    "coursedescription": "Senior Research Thesis is for senior Criminology majors only. Students are assigned advisors with assistance from the Undergraduate Chair. Spring Prerequisite: CRIM 4000 1 Course Unit",
+    "course-prerequsities": [
+      "CRIM 4000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Senior Research Thesis is for senior Criminology majors only."
+      ]
+    }
+  },
+  {
+    "coursename": "CRIM 4002 Criminal Justice Data Analytics",
+    "courseid": "CRIM 4002",
+    "coursedescription": "This course covers the tools and techniques to acquire, organize, link and visualize complex data in order to answer questions about crime and the criminal justice system. The course is organized around key questions about police shootings, victimization rates, identifying crime hotspots, calculating the cost of crime, and finding out what happens to crime when it rains. On the way to answer these questions, the course will cover topics including data sources, basic programming techniques, SQL, regular expressions, webscraping, and working with geographic data. The course will use R, an open-source, object oriented scripting language with a large set of available add-on packages. Fall Also Offered As: SOCI 4002 Mutually Exclusive: CRIM 6002 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 4012 Machine Learning for Social Science",
+    "courseid": "CRIM 4012",
+    "coursedescription": "This course provides an introduction to machine learning techniques for social science researchers. The course will cover a range of techniques including supervised and unsupervised learning, as well as more specialized methods such as deep learning and natural language processing. The course will also discuss ethical and privacy considerations in the use of machine learning, as well as the role of machine learning in policy and decision-making. The aim of the course is to be focused on applications. While the class will present the formal background on the development of the machine learning methods, the class will focus on putting the tools into practice. We will use data on a variety of topics including criminal justice data (recidivism prediction) as well as other social science disciplines. Students completing the course will know how to apply several of the most common machine learning tools to a variety of social science problems including prediction and clustering. The course will also discuss the role of machine learning in causal inference. Spring Also Offered As: SOCI 3501 Mutually Exclusive: CRIM 6012 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 4013 Social Network Analysis",
+    "courseid": "CRIM 4013",
+    "coursedescription": "This course is an introduction to the theory and methods employed in social network analysis. Foundational to the study of social network analysis is the understanding that actors are interdependent, and that social structure emerges from regularities in this interdependence. Focus in social network analysis includes how networks form and evolve, and on how relationships affect the behavior and outcomes of actors in a network. Social network analysis also refers to the corresponding methods for investigating and measuring social structures and the dependencies between actors. This course primarily focuses on social network methods but will necessarily cover foundational concepts. Both descriptive and inferential approaches to social network analysis will be covered. The approach taken to the material will be a combination of lecture, labs, quizzes, and homework, with final application in the form of a research proposal/paper. Homework assignments will focus on the analysis and interpretation of a variety of network data sets. By the end of the class, each student should be familiar with the most commonly employed methods in social network analysis and should be competent at both applying and interpreting these methods for both exploratory analysis and theory testing. Students will also be exposed to the use of the R statistical computing system for network analysis and RStudio, yet familiarity with programming in R is not a pre-requisite. Spring Mutually Exclusive: CRIM 6013 1 Course Unit",
+    "course-prerequsities": [
+      "CRIM 6013"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 4022 Juvenile Justice in the United States",
+    "courseid": "CRIM 4022",
+    "coursedescription": "What should society do when children break the law? This seminar will explore the theory and practice of juvenile justice in the United States from the 18th century until the present. Using the lenses of legal history and policy evaluation we will explore the development and current state of juvenile justice policies, practices, and institutions. Students will be asked to assess the continuities and changes between different policy regimes as well as the risks and opportunities that they represent. Class visits by juvenile justice practitioners will provide another opportunity to learn about and explore these themes and topics. Spring, odd numbered years only Mutually Exclusive: CRIM 6022 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 5350 Quantitative Methods for Public Policy",
+    "courseid": "CRIM 5350",
+    "coursedescription": "This course provides an introduction to applied statistical techniques in the social sciences and is tailored, in particular, to students pursuing the master of science degree in the Department of Criminology. It is taught as a basic course in statistics and presumes minimal mathematical or statistical background. We’ll begin with a brief introduction to the research process. We’ll then cover the computation, interpretation and understanding of basic descriptive statistics, distributions, hypothesis testing, measures of association and finally regression analysis. Depending on how much time we have, I will cover several more advanced topics in regression analysis at the end of the semester. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6000 Pro-Seminar in Criminology",
+    "courseid": "CRIM 6000",
+    "coursedescription": "This course provides an overview of the leading criminological theories of crime. The central focus is on the major theories of crime developed over the past century from the disciplines of economics, psychology, and sociology. The course will focus on the application of social science research as a way to evaluate theories of crime. Special attention is devoted to the issues of measurement of crime and what is known from the available empirical data. In addition, the course will focus on how these theoretical perspectives relate to public policy responses to crime. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6001 Pro-Seminar in Criminal Justice",
+    "courseid": "CRIM 6001",
+    "coursedescription": "This course provides and overview of what we know about the criminal justice system in the United States and other developed nations. The central purpose of the course is to increas your knowledge about how the U.S. criminal justice system works but we will also spend a great deal of time thinking about the quality of the available evidence and how we know what we know. Topics covered will vary from year to year; recent topics have included police use of force, capital punishment, pre-trial detention, the use of predictive algorithms in the criminal justice system and the relationship between immigration and crime in the United States. Spring Prerequisite: CRIM 6000 1 Course Unit",
+    "course-prerequsities": [
+      "CRIM 6000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6002 Criminal Justice Data Analytics",
+    "courseid": "CRIM 6002",
+    "coursedescription": "This course covers the tools and techniques to acquire, organize, link and visualize complex data in order to answer questions about crime and the criminal justice system. The course is organized around key questions about police shootings, victimization rates, identifying crime hotspots, calculating the cost of crime, and finding out what happens to crime when it rains. On the way to answer these questions, the course will cover topics including data sources, basic programming techniques, SQL, regular expressions, webscraping, and working with geographic data. The course will use R, an open-source, object oriented scripting language with a large set of available add-on packages. Fall Also Offered As: SOCI 6002 Mutually Exclusive: CRIM 4002 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6003 Research Methods/Crime Analysis",
+    "courseid": "CRIM 6003",
+    "coursedescription": "This course provides an overview of the application of social science research methods and data analysis to criminology. Students will learn research design principles and statistical techniques for the analysis of social science data, including how to interpret results as part of the rigorous practice of evidence-based criminology. M.S. students will conduct a semester-long, data-intensive crime analysis project using quantitative methods to address a specific research question. Student projects culminate with a poster presentation, an oral defense, and the submission of a written research paper. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6004A Criminology in Practice",
+    "courseid": "CRIM 6004A",
+    "coursedescription": "In this capstone course, students will meet weekly with guests who work on or close to the front line of the criminal justice system. Past guests have included police chiefs, forensic scientists, lobbyists for gun rights and lobbyist for gun control, formerly incarcerated individuals, crime analysts, directors of sentencing commissions, prosecutors and defenders, politicians, and researchers at research organizations working closely with criminal justice agencies. Guests share their career paths, the roles of their organizations in the justice system, and key justice system challenges. Students interact with all guest speakers. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CRIM 6004B Criminology in Practice",
+    "courseid": "CRIM 6004B",
+    "coursedescription": "In this capstone course, students will meet weekly with guests who work on or close to the front line of the criminal justice system. Past guests have included police chiefs, forensic scientists, lobbyists for gun rights and lobbyist for gun control, formerly incarcerated individuals, crime analysts, directors of sentencing commissions, prosecutors and defenders, politicians, and researchers at research organizations working closely with criminal justice agencies. Guests share their career paths, the roles of their organizations in the justice system, and key justice system challenges. Students interact with all guest speakers. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CRIM 6005 Evidence-Based Crime Prevention",
+    "courseid": "CRIM 6005",
+    "coursedescription": "This course considers the use of evidence to identify effective crime prevention policies. The course will teach students to think critically about what constitutes convincing evidence, use benefit-cost analysis in comparing policy alternatives, and write effective policy memos that can translate research into practice. We will develop these skills by studying the effects of different policy approaches to crime prevention including incarceration, policing, gun control, drug regulation, and place-based interventions, as well as education, social programs, and labor market policies. Emphasis will be on the methodological challenges to identifying \"what works\" and the empirical methods to overcome those challenges. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6010 Causal Inference in the Social Sciences I",
+    "courseid": "CRIM 6010",
+    "coursedescription": "This is the first course in a two half-credit course sequence. The course is intended for graduate students who are interested in learning how to do applied social science research which seeks to address causal questions. The course is highly applied and focuses on training students to understand how to use the most common econometric methods that are used to analyze observational data. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "The course is intended for graduate students who are interested in learning how to do applied social science research which seeks to address causal questions."
+      ]
+    }
+  },
+  {
+    "coursename": "CRIM 6011 Causal Inference in the Social Sciences II",
+    "courseid": "CRIM 6011",
+    "coursedescription": "This is the second course in a two half-credit course sequence. The course is intended for graduate students who are interested in learning how to do applied social science research which seeks to address causal questions. The course is highly applied and focuses on training students to understand how to use the most common econometric methods that are used to analyze observational data. Prerequisite: CRIM 6010",
+    "course-prerequsities": [
+      "CRIM 6010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "The course is intended for graduate students who are interested in learning how to do applied social science research which seeks to address causal questions."
+      ]
+    }
+  },
+  {
+    "coursename": "CRIM 6012 Machine Learning for Social Science",
+    "courseid": "CRIM 6012",
+    "coursedescription": "This course provides an introduction to machine learning techniques for social science researchers. The course will cover a range of techniques including supervised and unsupervised learning, as well as more specialized methods such as deep learning and natural language processing. The course will also discuss ethical and privacy considerations in the use of machine learning, as well as the role of machine learning in policy and decision-making. The aim of the course is to be focused on applications. While the class will present the formal background on the development of the machine learning methods, the class will focus on putting the tools into practice. We will use data on a variety of topics including criminal justice data (recidivism prediction) as well as other social science disciplines. Students completing the course will know how to apply several of the most common machine learning tools to a variety of social science problems including prediction and clustering. The course will also discuss the role of machine learning in causal inference. Spring Also Offered As: SOCI 6012 Mutually Exclusive: CRIM 4012 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6013 Social Network Analysis",
+    "courseid": "CRIM 6013",
+    "coursedescription": "Social network analysis also refers to the corresponding methods for investigating and measuring social structures and the dependencies between actors. This course primarily focuses on social network methods but will necessarily cover foundational concepts. Both descriptive and inferential approaches to social network analysis will be covered. The approach taken to the material will be a combination of lecture, labs, quizzes, and homework, with final application in the form of a research proposal/paper. Homework assignments will focus on the analysis and interpretation of a variety of network data sets. By the end of the class, each student should be familiar with the most commonly employed methods in social network analysis and should be competent at both applying and interpreting these methods for both exploratory analysis and theory testing. Students will also be exposed to the use of the R statistical computing system for network analysis and RStudio, yet familiarity with programming in R is not a pre-requisite. Spring Mutually Exclusive: CRIM 4013 1 Course Unit",
+    "course-prerequsities": [
+      "CRIM 4013"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6022 Juvenile Justice in the United States",
+    "courseid": "CRIM 6022",
+    "coursedescription": "What should society do when children break the law? This seminar will explore the theory and practice of juvenile justice in the United States from the 18th century until the present. Using the lenses of legal history and policy evaluation we will explore the development and current state of juvenile justice policies, practices, and institutions. Students will be asked to assess the continuities and changes between different policy regimes as well as the risks and opportunities that they represent. Class visits by juvenile justice practitioners will provide another opportunity to learn about and explore these themes and topics. Spring, odd numbered years only Mutually Exclusive: CRIM 4022 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6100A Policing in Practice",
+    "courseid": "CRIM 6100A",
+    "coursedescription": "Becoming an effective leader in policing requires more than just experience of having been in the organization. It requires understanding the political and social context of policing, as well as the dynamics of community engagement. It needs a leader to be able to understand and work with a diverse range of stakeholders to move policing forward in evidence-based, effective, and equitable ways. This series brings leaders and real-world examples to the classroom to help students develop these competencies. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6100B Policing in Practice",
+    "courseid": "CRIM 6100B",
+    "coursedescription": "Becoming an effective leader in policing requires more than just experience of having been in the organization. It requires understanding the political and social context of policing, as well as the dynamics of community engagement. It needs a leader to be able to understand and work with a diverse range of stakeholders to move policing forward in evidence-based, effective, and equitable ways. This series brings leaders and real-world examples to the classroom to help students develop these competencies. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6101 Evidence-Based Policing (EBP)",
+    "courseid": "CRIM 6101",
+    "coursedescription": "What is evidence-based policing and how is it done? This course provides an answer to both questions, offering an introduction and hands-on guide for police officers wanting to know how to put principles into practice. It serves as an introduction to the terminology, ideas, and scientific methods associated with evidence-based policy, and outlines some of the existing policing applications. On completion of the course, students will be better informed about this important policing innovation and equipped to research existing topics in law enforcement practice. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6102 Practical Theories for Policing",
+    "courseid": "CRIM 6102",
+    "coursedescription": "This course introduces students to eight key concepts that can explain offender behavior, effectiveness of policing strategies and tactics, crime prevention principles, and theories of organizations. Discussion seminars address applying these principles to the decisions police leaders make across the range of professional environments in which they move. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6104A Leadership in Criminal Justice",
+    "courseid": "CRIM 6104A",
+    "coursedescription": "Change within the criminal justice system can be notoriously challenging. Competing priorities at both the local and national level often conflict with on-the-ground experience in cities like Philadelphia. Leaders in criminal justice need an appreciation for these dynamics to be able to navigate ideas and projects sourced from research evidence and theory to implementation. This series brings leaders and real-world examples to the classroom to help students develop these competencies and be able to articulate the tools necessary to achieve success. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6104B Leadership in Criminal Justice",
+    "courseid": "CRIM 6104B",
+    "coursedescription": "Change within the criminal justice system can be notoriously challenging. Competing priorities at both the local and national level often conflict with on-the-ground experience in cities like Philadelphia. Leaders in criminal justice need an appreciation for these dynamics to be able to navigate ideas and projects sourced from research evidence and theory to implementation. This series brings leaders and real-world examples to the classroom to help students develop these competencies and be able to articulate the tools necessary to achieve success. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 6105A Research Methods for Policy Analysis",
+    "courseid": "CRIM 6105A",
+    "coursedescription": "This course explores research methods used to undertake program evaluation in policing and criminal justice. Students learn about the design and delivery of data collection instruments across a range of policy environments. These include quantitative data analysis, qualitative analysis, survey design. On completion of the course, students will be able to explain the pros and cons of various methodologies and identify appropriate research choices for different policy problems. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CRIM 6105B Research Methods for Policy Analysis",
+    "courseid": "CRIM 6105B",
+    "coursedescription": "This course explores research methods used to undertake program evaluation in policing and criminal justice. Students learn about the design and delivery of data collection instruments across a range of policy environments. These include quantitative data analysis, qualitative analysis, survey design. On completion of the course, students will be able to explain the pros and cons of various methodologies and identify appropriate research choices for different policy problems. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CRIM 6106A Policing Master’s Capstone",
+    "courseid": "CRIM 6106A",
+    "coursedescription": "The capstone project allows students to undertake and complete a real-world project, ideally in their professional environment. During the fall semester students work through principles learned in the evidence-based policing class of project identification and conceptualization, planning, and research design. The spring semester includes conducting analysis, writing, and creating and presenting deliverables. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CRIM 6106B Policing Master’s Capstone",
+    "courseid": "CRIM 6106B",
+    "coursedescription": "The capstone project allows students to undertake and complete a real-world project, ideally in their professional environment. During the fall semester students work through principles learned in the evidence-based policing class of project identification and conceptualization, planning, and research design. The spring semester includes conducting analysis, writing, and creating and presenting deliverables. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "CRIM 7000 Advanced Pro-Seminar in Criminology",
+    "courseid": "CRIM 7000",
+    "coursedescription": "This second year doctoral course is a weekly discussion group designed to help students integrate their coursework from different disciplines around the unifying perspectives of criminology. It focuses on preparation for the doctoral comprehensive examination, detailed critiques of published research reports, and colloquia by leading guest lecturers presenting new research results. Students preparing for dissertation research on the causes and prevention of crime will report on their developing research ideas. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 7100 Advanced Pro-Seminar in Criminal Justice",
+    "courseid": "CRIM 7100",
+    "coursedescription": "This second year doctoral course is a weekly discussion group designed to help students integrate their coursework from different disciplines around the behavior and operation of criminal law systems. It focuses on preparation for the doctoral comprehensive examination, detailed critiques of published and unpublished research reports, and colloquia by leading guest lecturers presenting new research results. Students preparing for dissertation research on the behavior of criminal law will report on their developing research ideas. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CRIM 9999 Independent Study and Research",
+    "courseid": "CRIM 9999",
+    "coursedescription": "Primarily for graduate students who work with individual faculty upon permission. Intended to go beyond existing graduate courses in the study of specific problems or theories or to provide work opportunities in areas not covered by existing courses. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units",
+      "notes": [
+        "Primarily for graduate students who work with individual faculty upon permission."
+      ]
+    }
+  }
+]

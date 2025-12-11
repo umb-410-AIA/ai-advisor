@@ -1,0 +1,135 @@
+[
+  {
+    "coursename": "Clinical and Functional Assessment of Vision",
+    "courseid": "VISN605",
+    "coursedescription": "This course goes beyond the physical aspects of vision loss introduced in SPE G 511 to look at functional and psychological aspects. The course includes a review of clinical procedures and the interpretation of clinical reports. Emphasis is given to conducting individualized functional vision assessments. The previous study of optics is applied to optical low-vision devices. The course provides a practical, hands-on approach to learning through vision-simulation activities and the development of a functional vision-assessment kit.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Braille II",
+    "courseid": "VISN610",
+    "coursedescription": "This course is designed for vision teachers to expand their current level of Braille competency. Students will study tools and teaching strategies for mathematics using Unified English Braille and the abacus. Braille formats typical of educational materials will be studied. Students will review the Unified English Braille code with a focus on memorization.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Assessment & Instructional Strategies for Students with VI Including Those with Additional Dis II",
+    "courseid": "VISN614",
+    "coursedescription": "This course examines and explores the unique educational needs of children with visual impairments and children with visual and additional impairments as well as the techniques for assessment and instruction related to teaching these children in a full array of educational settings from ages 3-22. Topics include assessment and program planning for the core curriculum and expanded core curriculum as well as adaptive techniques and diverse communication systems. This course requires a field-based placement/pre-practicum requirement of a minimum of 30 hours. The necessity for a transdisciplinary approach will be stressed. The course requires (a) classroom lectures, discussions and group work, (b) reading and video assignments, (c) research assignments, (d) varying field-based experiences, and (e) completion of several case studies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Early Childhood and Visual Impairment",
+    "courseid": "VISN615",
+    "coursedescription": "This core course will explore the impact of vision loss for children in early childhood (birth to 5). An in depth understanding of how vision loss and additional disabilities impacts early development will provide a foundation of how teachers of students with visual impairments work with young children and their families, including those from diverse backgrounds, through assessment and methodology of instruction. This course will include a learning strand for those specializing in Deafblind.",
+    "course-prerequsities": [
+      "VISN 602",
+      "VISN 603",
+      "VISN 604"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Teacher of the Visually Impaired Practicum",
+    "courseid": "VISN619",
+    "coursedescription": "The TVI Practicum encompasses a supervised practicum, a practicum seminar and capstone portfolio. The Practicum provides 300 hours working with students who are visually impaired, ranging from Pre-K through Grade 12. The Practicum Seminar consists of 6 modules dealing with professional issues related to the field of TVI. The seminar is designed to inform and support students as they complete their Practicum experiences.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Orientation and Mobility Assessment and Instructional Strategies: Children",
+    "courseid": "VISN621",
+    "coursedescription": "This course is the first of two instructional strategy courses. It applies foundations and methods to the specific populations of preschool, elementary, and transition-age visually impaired children, including those with additional disabilities. Assessment tools are introduced and applied with an emphasis on the development of participants' skills in observation, information gathering, and task analysis. Participants develop specific objectives and design lessons for instructing children.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Orientation and Mobility Assessment- Adult",
+    "courseid": "VISN622",
+    "coursedescription": "This course is one of two orientation and mobility assessment and instructional strategies courses. This course provides opportunities for students to explore demographics and services available to adults with visual impairments and how a variety of adults with unique needs might access those supports and services. O&M assessment and instructional strategies will be considered in relation to diverse adult populations, unique environments and emerging technologies. Actual case studies will provide the basis for discussion and a foundation for the future practicum.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Methods of Vision Rehabilitation Therapy I",
+    "courseid": "VISN631",
+    "coursedescription": "This course is designed to provide the learner with hands-on instruction, independent learning and laboratory practice in the methodologies and adaptive techniques utilized by the professional Vision Rehabilitation Therapist in the personal management, recreation and leisure areas of Independent Living Skills. This course will emphasize the utilization of adaptive techniques and resources gathering, and will address skills that are applicable for adults and older adults as well as children and adolescents. Laboratory experience with blindfolds and low vision simulators will provide each learner with the opportunity to practice recommended techniques and adaptations that will facilitate the teaching of selected independent Living Skills to students, clients and consumers who are blind or who have low vision.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Laboratory experience with blindfolds and low vision simulators will provide each learner with the opportunity to practice recommended techniques and adaptations that will facilitate the teaching of selected independent Living Skills to students, clients and consumers who are blind or who have low vision."
+      ]
+    }
+  },
+  {
+    "coursename": "Psychosocial Aspects of Visual Impairment",
+    "courseid": "VISN640",
+    "coursedescription": "This course will investigate the psychosocial aspects of vision loss. Coping techniques and issues of self-esteem will be explored along with principles of self-determination. Other topics include the psychosocial aspects of personal life management such as orientation and mobility, use of volunteers, sexuality, and the Americans with Disabilities Act. Psychosocial issues specific to people from diverse cultures will also be addressed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Cortical/Cerebral Visual Impairment",
+    "courseid": "VISN648",
+    "coursedescription": "This course provides an in-depth study of CVI and resources available for assessment and instructional strategies. participants will further examine and explore the unique educational needs of children with CVI and the skills related to teaching these children in a full array of educational settings; Pre-K through grade 12. Topics include teaching strategies in the core and expanded core curriculums, such as: literacy, career-vocational skills, visual efficiency and compensatory auditory strategies. Instruction will also address material modifications and accommodations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Assessment for Students with Cortical/Cerebral Visual Impairment",
+    "courseid": "VISN652",
+    "coursedescription": "Students will learn how traditional ocular functional vision assessments do not accurately and completely assess the visual processing and visual recognition difficulties of the child with brain based visual impairment. Students will understand concepts including the limitation of clinical vision functional testing and the need for functional vision testing by a licensed TVIs, O&M specialist and Vision Rehabilitation professionals. Students will show ability to interpret ophthalmology, low vision and neurology reports. Students will learn to effectively perform CVI functional vision assessments and Learning Media Assessments with the consideration that neuroplasticity can lead to visual improvements and that each child needs a unique consideration of all skills and abilities. Assessment of compensatory skill use is also essential to understand the total child.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Assistive Technology Assessment and Instruction for People with Visual Impairments",
+    "courseid": "VISN661",
+    "coursedescription": "This fully online course provides participants with a thorough overview of assessment and instruction techniques for teaching assistive technology to people with visual impairments of all ages. Topics include: task analysis; lesson and training plan development; learning development and evolution of assistive technology skills during instruction; learning theories as applied to children and adults; instructional strategies for assistive technology; conduction assistive technology assessments; making decisions regarding appropriate devices; choosing appropriate learning modalities; justifying recommendations; applying different AT assessment techniques, such as HAAT, WATI, and SETT; ethical issues related to AT assessment and services; and writing AT assessment reports. We will explore ethical issues at AT, evaluation the effectiveness at AT services, using AT with productivity platforms on different operating systems, developing curriculum for teaching screen magnification and screen reading software on different operation systems, developing curriculum for teaching accessible apps on mobile devices, as well as developing curriculum for teaching accessible stand-alone devices, accessible third-party applications, and built-in accessibility features.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Assistive Technology for People with Visual Impairments Practicum",
+    "courseid": "VISN669",
+    "coursedescription": "The assistive Technology for People with Visual Impairments Practicum consists of a supervised practicum for pre-service professionals within the Assistive Technology Program working with students who are visually impaired, ranging from school aged students to adult vocational and geriatric populations. Pre-registration for the Assistive Technology for People with Visual Impairments Practicum is required on semester prior to enrollment, along with documentation of completion of all required courses and successful completion of a minimum of 25 integrated field hours for assistive technology experiences. The practicum site must be approved by the Program Coordinator. In addition to the field-based experience, students are expected to obtain a passing score on the national professional certified Assistive Technology Instructional Specialist for People with Visual Impairments (CATIS examination through the Academy for Certification for Vision Rehabilitation and Education Professional (ACVREP)",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Communication for Deafblind Learners, Including Personalized Literacy",
+    "courseid": "VISN671",
+    "coursedescription": "This course focuses on receptive and expressive communication with an emphasis on the forms and functions of each. Information about the various ways Deafblind Learners communicate, along with how to teach communication skills, will be highlighted. Content will address personalized literacy and cultural-sustaining practices including the following: Consistent approach using turn-exchanges for starting, maintaining, and ending interactions. Affirmation of a student’s initiative or response. Indicators of a student’s processing time. Matching observations of a student with strategies to share emotions with the student. The range of equipment used to provide communication access and the factors that influence the choice to use or not use specific equipment.",
+    "course-prerequsities": [
+      "VISN 670"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Assistive Technology for People who are Deafblind: Barriers and Solutions",
+    "courseid": "VISN674",
+    "coursedescription": "This course will explore the role Assistive Technology (AT) plays in the lives of children with combined sensory disabilities with or without additional disabilities. The primary objective of this course will be to learn what constitutes best practices in assistive technology assessment and implementation, including collaboration with other professionals. Rather than learning how to use individual technologies, we will survey various technologies that may benefit students who are Deafblind. We will also discuss what the law has to say about assistive technology. The content of this course will include readings, instructor and guest presentations, group discussions, quizzes and exams, field experiences, and assignments.",
+    "course-prerequsities": [
+      "VISN 670",
+      "673"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

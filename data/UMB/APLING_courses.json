@@ -1,0 +1,154 @@
+[
+  {
+    "coursename": "Linguistics",
+    "courseid": "APLING601",
+    "coursedescription": "This course introduces students to the basic linguistic concepts necessary for understanding how sounds, words, sentences, and texts are structured in English. Its main goal is to help students use these concepts to contrast the structure of English with the structure of other languages.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Language, Culture and Identity",
+    "courseid": "APLING603",
+    "coursedescription": "This course explores concepts and meanings of culture and the ways in which discursive practices shape identities, particularly how they are enacted and received in classrooms and second language education. The readings, discussions, and assignments provide a rich understanding of how language constructs and is shaped by culture and identity, with special attention to power, race, nationality, ethnicity, gender, sexuality, and class. Theories and empirical research from language classrooms and other domains are presented. Students critically analyze how multiple phenomena of culture and identity affect students, teachers, classrooms, and schools.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theories and Principles of Language Teaching",
+    "courseid": "APLING605",
+    "coursedescription": "This introductory course presents students with a theoretical background in second language development, emphasizing the relationship between research, theory and practice in second and world language teaching. Historic and contemporary theories are critically considered in relation to language teaching practices and beliefs.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intercultural Perspectives in World Languages",
+    "courseid": "APLING612",
+    "coursedescription": "This course addresses ways of conceptualizing culture and fostering multiculturalism in language classrooms and beyond. Students explore how culture is embedded in language use and reflect on their own cultural perspectives. They critically analyze how culture has been traditionally addressed in language classrooms and textbooks. They also explore a variety of approaches to guide language learners in a variety of settings in their own development of intercultural awareness.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Teaching Multilingual Learners in the ESL and Bilingual Classroom",
+    "courseid": "APLING618",
+    "coursedescription": "This course familiarizes students with teaching PK-12 multilingual learners, including immigrant children and youth in the United States and elsewhere. Students explore strengths-based language teaching pedagogy with a special focus on English learners in Massachusetts. The course emphasizes theory-to-practice connections and community-engaged activism in ESL, Bilingual Education, and Sheltered English instruction. The course raises critical awareness and reflective practice for teachers of Multilingual Learners and leads them to make informed pedagogical decisions.",
+    "course-prerequsities": [
+      "APLING 601"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Understanding Second Language Development",
+    "courseid": "APLING621",
+    "coursedescription": "This course addresses theories and contemporary issues a in the field of Second Language Acquisition (SLA), presenting a survey of the major SLA research findings collected in naturalistic and formal contexts during the last fifty years. Topics include the role of the learning environment in language acquisition, explanations for different levels of success among second language learners, variations in second language use, and the effect of classroom instruction on second language acquisition. The course provides students with an opportunity to reflect on both theoretical and practical considerations in the field of language learning and teaching.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Sociolinguistics",
+    "courseid": "APLING623",
+    "coursedescription": "This course provides an introduction to sociolinguistics, the study of language use in society. Students examine variation at all levels of language and explore how variation works to co-construct and index gendered, racial, and social-class identities in everyday interaction and institutional contexts. The course presents various sociolinguistic theories and research findings, focusing on implications for the language learning classroom and local communities. Topics include language and power, media representations, urban ethnographic studies, and ideological notions of standardized languages.",
+    "course-prerequsities": [
+      "APLING 601"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Phonetics and Phonemics",
+    "courseid": "APLING627",
+    "coursedescription": "This course covers the sound system of English, the principles of phonetics and phonemics, regional and social variation in English pronunciation, and provides an introduction to phonological analysis. Students practice using this knowledge to do error analysis and to teach aural/oral skills in English and other languages.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Immigration and Education",
+    "courseid": "APLING665",
+    "coursedescription": "This course familiarizes students with theory and research on the education of immigrant children, youth and adults in the US and worldwide. Students will draw on interdisciplinary lenses, including contributions from psychological, sociological, anthropological and educational research, to understand and apply current perspectives on immigration to local contexts. Students will explore the implications of the growing presence of immigrant-origin students in public schools in the US and other post-industrial societies. The course will consider the role of gender, social-economic status, race, ethnicity, undocumented status and a variety of social context factors which affect the adaptation of immigrant students and families with special focus placed on education settings. Our evolving understanding of the pathways immigrant student take as they negotiate schooling and life in a new country will contribute to informed policy, curriculum and pedagogy choices.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Theories and Approaches to Teaching Reading in the Multilingual Classroom",
+    "courseid": "APLING673",
+    "coursedescription": "This course introduces students to the nature of reading and how first and second language reading differ, through research on second language reading development and instruction. Students will explore principles of teaching second language reading, evidence-based teaching ideas, and ways of assessing reading development. They will examine pedagogical practices of second language reading development, challenges involved, and principled decision-making to promote reading development. Students will explore their own reading development trajectories, research an issue in second language reading and pedagogy, and develop either lesson/curricular plans or action research plans for second language reading contexts.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Pre-Practicum",
+    "courseid": "APLING688",
+    "coursedescription": "This course meets the pre-practicum requirement for students seeking ESL (Levels: PK-6; 5-12) or World Language Licensure (French, 5-12). Students complete 75 hours of supervised observation and teach one lesson in a public school classroom in Massachusetts. This lesson is observed and evaluated by the Practicum instructor.",
+    "course-prerequsities": [
+      "APLING 601",
+      "APLING 603",
+      "APLING 605",
+      "APLING 614",
+      "APLING 618"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Field Experience",
+    "courseid": "APLING690",
+    "coursedescription": "This course grounds students' academic work in the practical realities of language use in multiple contexts, including classrooms, communities, and professional settings. Each student designs a semester-long field experience grounded in an applied linguistics professional context in coordination with the course instructor. The seminar community and readings help students to develop reflexivity and connect theory to practice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "APLING696",
+    "coursedescription": "This course will provide opportunities for students to work independently in one of the following areas: Applied Linguistics, Psycholinguistics, Sociolinguistics, Second Language and Bilingual Methodology, and Cross-Cultural Studies. Students who wish to do an independent study should submit a study plan, including: a brief description of their area of interest and an outline of the topic they plan to research in terms of content, time, and the structure of their project.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students who wish to do an independent study should submit a study plan, including: a brief description of their area of interest and an outline of the topic they plan to research in terms of content, time, and the structure of their project."
+      ]
+    }
+  },
+  {
+    "coursename": "Sociolinguistic Research Methods",
+    "courseid": "APLING706",
+    "coursedescription": "This course provides students with a foundational background in sociolinguistic research methods that are used to explore connections between language, diversity, and place, with a focus on conducting sociolinguistic research in multilingual urban communities. Through course readings on research methodology, case studies, class discussions, guest speaker presentations, and hands-on data collection and analysis, students learn about approaches and issues in sociolinguistic data collection, instrument design, analytic methods, and ethical issues in conducting sociolinguistic research and working with minoritized communities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Language Policy",
+    "courseid": "APLING709",
+    "coursedescription": "This course examines and analyzes contemporary and historical language policies at the state level in Massachusetts, at the national level, and in international contexts. Throughout the course, theoretical and methodological issues in language planning and policy (LPP) are highlighted. In true comparative stance, special emphasis will be placed on comparing U.S. experiences with those of other nations. As well, the relationship between language attitudes and educational policy formation will be studied. By the end of the course, students will demonstrate understanding of main issues in language policy and planning, and will articulate understanding of the complex factors that inform language planning decisions at local, state, and national levels. Finally, students are expected to leave the course well equipped with the core analytical skills needed to engage in research on LPP, including data collection, analysis, and presentation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Proposal Writing Seminar",
+    "courseid": "APLING892",
+    "coursedescription": "This course will provide structured support on whole group and individual bases for APLING students who are working on their dissertation proposals. The Seminar compliments students' work with their dissertation chairs and committees. Students who attend all classes, come prepared, participate in a spirit of professional critique and academic integrity, and develop and present a 50-60 page dissertation proposal will pass the course.",
+    "course-prerequsities": [
+      "APLING 891"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Research",
+    "courseid": "APLING899",
+    "coursedescription": "Research conducted under supervision of the doctoral committee leading to the presentation of a doctoral dissertation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

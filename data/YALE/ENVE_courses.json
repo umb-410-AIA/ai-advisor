@@ -1,0 +1,197 @@
+[
+  {
+    "coursename": "* ENVE 1200a / CENG 1200a / ENAS 1200a, Introduction to Environmental Engineering Colby Buehler",
+    "courseid": "ENVE 1200a",
+    "coursedescription": "Introduction to engineering principles related to the environment, with emphasis on causes of problems and technologies for abatement. Topics include air and water pollution, global climate change, hazardous chemical and emerging environmental technologies. Prerequisites: high school calculus and chemistry or CHEM 161, 165 or CHEM 163, 167 (may be taken concurrently) or permission of instructor. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "CHEM 161",
+      "CHEM 163",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: high school calculus and chemistry or CHEM 161, 165 or CHEM 163, 167 (may be taken concurrently) or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ENVE 3140a / CENG 3140a, Transport Phenomena I Kyle Vanderlick",
+    "courseid": "ENVE 3140a",
+    "coursedescription": "First of a two-semester sequence. Unified treatment of momentum, energy, and chemical species transport including conservation laws, flux relations, and boundary conditions. Topics include convective and diffusive transport, transport with homogeneous and heterogeneous chemical reactions and/or phase change, and interfacial transport phenomena. Emphasis on problem analysis and mathematical modeling, including problem formulation, scaling arguments, analytical methods, approximation techniques, and numerical solutions. Prerequisite: ENAS 194 or permission of the instructor. QR , SC RP TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "ENAS 194",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: ENAS 194 or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ENVE 3150b / CENG 3150b, Transport Phenomena II Michael Loewenberg",
+    "courseid": "ENVE 3150b",
+    "coursedescription": "Unified treatment of momentum, energy, and chemical species transport including conservation laws, flux relations, and boundary conditions. Topics include convective and diffusive transport, transport with homogeneous and heterogeneous chemical reactions and/or phase change, and interfacial transport phenomena. Emphasis on problem analysis and mathematical modeling, including problem formulation, scaling arguments, analytical methods, approximation techniques, and numerical solutions. Prerequisite: ENAS 194 or permission of instructor. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "ENAS 194",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: ENAS 194 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* ENVE 3600b / ENAS 3600b, Bio-Inspired and Sustainable Design Julie Zimmerman",
+    "courseid": "ENVE 3600b",
+    "coursedescription": "Study of green engineering, focusing on key approaches to advancing sustainability through engineering design with an emphasis on biomimicry. Topics include current design, manufacturing, and disposal processes; toxicity and benign alternatives; policy implications; pollution prevention and source reduction; separations and disassembly; material and energy efficiencies and flows; systems analysis; and life cycle design, management, and analysis. permission of instructor MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "permission of instructor MW 1pm-2:15pm"
+      ]
+    }
+  },
+  {
+    "coursename": "ENVE 3730a / CENG 373 / CENG 3730a, Air Pollution Control Drew Gentner",
+    "courseid": "ENVE 3730a",
+    "coursedescription": "An overview of air quality problems worldwide with a focus on emissions, chemistry, transport, and other processes that govern dynamic behavior in the atmosphere. Quantitative assessment of the determining factors of air pollution (e.g., transportation and other combustion–related sources, chemical transformations), climate change, photochemical “smog,” pollutant measurement techniques, and air quality management strategies. Prerequisite: ENVE 120. QR , SC RP MW 9am-10:15am",
+    "course-prerequsities": [
+      "ENVE 120",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ENVE 3770b / CENG 3770b, Water-Energy Nexus Lea Winter",
+    "courseid": "ENVE 3770b",
+    "coursedescription": "This course explores processes and technologies at the water-energy nexus. We utilize chemical and environmental engineering fundamentals to explore the links between maintaining clean water supply and energy security globally, as well as implications for environmental contamination and climate change. We develop a quantitative understanding of water chemistry and energy considerations for topics including traditional water and wastewater treatment, energy recovery from wastewater, membrane processes, water electrolysis for energy storage and electrochemical contaminant conversion, industrial water consumption and wastewater production, underground water sources and water for oil and gas, opportunities for reuse of nontraditional source waters and contaminant valorization, and considerations for decentralization, resilience, and electrification. Quantitative understanding of these processes will be attained based on mass and energy balances, systems engineering, thermodynamics, and kinetics. Prerequisite: ENVE 120 or permission of instructor. The course is primarily designed for juniors and seniors majoring in environmental engineering, but students in other engineering majors are welcome. Students in non-engineering majors are also welcome but are encouraged to communicate with the instructor to make sure they have sufficient background knowledge in required mathematics. QR , SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "ENVE 120",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: ENVE 120 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ENVE 4160b / CENG 4160b, Chemical Engineering Process Design Yehia Khalil",
+    "courseid": "ENVE 4160b",
+    "coursedescription": "Study of the techniques for and the design of chemical processes and plants, applying the principles of chemical engineering and economics. Emphasis on flowsheet development and equipment selection, cost estimation and economic analysis, design strategy and optimization, safety and hazards analysis, and environmental and ethical considerations. Enrollment limited to seniors majoring in Chemical Engineering or Environmental Engineering. QR , SC RP TTh 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to seniors majoring in Chemical Engineering or Environmental Engineering."
+      ]
+    }
+  },
+  {
+    "coursename": "ENVE 4380b, Environmental Organic Chemistry John Fortner",
+    "courseid": "ENVE 4380b",
+    "coursedescription": "This course examines major physical and chemical attributes and processes affecting the behavior of organic compounds in environmental systems, including volatilization, sorption/attachment, diffusion, and reactivity. Emphasis is placed on legacy pollutants (e.g. TCE, PCBs, DDT) and along with emerging contaminants of concern (e.g. pharmaceuticals, explosives, etc). The course reviews basic concepts from physical chemistry and examines the relationships between chemical structure, properties, and environmental behavior of organic compounds. Physical and chemical processes important to the fate, treatment, and transformation of specific organic compounds are addressed including solubility, volatilization, partitioning, sorption/attachment, bioaccumulation, and bulk environmental transformation pathways. Equilibrium and kinetic models based on these principles are used to predict the fate and transport of organic contaminants in the environment. Priority given to seniors or permission of instructor. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Priority given to seniors or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ENVE 4400a, Aquatic Chemistry David Kwabi",
+    "courseid": "ENVE 4400a",
+    "coursedescription": "This course introduces relevant elements of aquatic chemistry to upper-level undergraduate environmental engineering and science students. The course provides a fundamental basis from which to design and evaluate engineered and natural systems in which inorganic chemistry is an important component. These systems include (but are not limited to) water and wastewater treatment and CO2 capture and sequestration. Prerequisites: One year of college chemistry, good working knowledge of algebra, or permission of the instructor. MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These systems include (but are not limited to) water and wastewater treatment and CO2 capture and sequestration.",
+        "Prerequisites: One year of college chemistry, good working knowledge of algebra, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ENVE 4410b, Biological Processes in Environmental Engineering Jordan Peccia",
+    "courseid": "ENVE 4410b",
+    "coursedescription": "Fundamental aspects of microbiology and biochemistry, including stoichiometry, kinetics, and energetics of biochemical reactions, microbial growth, and microbial ecology, as they pertain to biological processes for the transformation of environmental contaminants; principles for analysis and design of aerobic and anaerobic processes, including suspended- and attached-growth systems, for treatment of conventional and hazardous pollutants in municipal and industrial wastewaters and in groundwater. Prerequisites: CHEM 161, 165, or 163, 167 (or CHEM 112, 113, or 114, 115, or 118); MCDB 290 or equivalent; or with permission of instructor. SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "CHEM 161",
+      "163",
+      "CHEM 112",
+      "114",
+      "118",
+      "MCDB 290",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: CHEM 161, 165, or 163, 167 (or CHEM 112, 113, or 114, 115, or 118); MCDB 290 or equivalent; or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ENVE 4420a, Environmental Physicochemical Processes Jaehong Kim",
+    "courseid": "ENVE 4420a",
+    "coursedescription": "The course covers fundamental and applied concepts of physical and chemical (“physicochemical”) processes relevant to water quality control. Topics include overview of water and wastewater treatment processes, fundamentals of chemical reaction engineering and mass balance concepts, and their application to the design of water treatment unit operations including coagulation, sedimentation, disinfection, filtration, oxidation, air stripping, membrane separation, adsorption, and ion exchange. Prerequisite: ENVE 120 or permission of instructor. TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "ENVE 120",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: ENVE 120 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* ENVE 4640a / CENG 464, Engineering Solutions to Climate Change Lea Winter",
+    "courseid": "ENVE 4640a",
+    "coursedescription": "Current industrial processes that supply essential materials and energy for modern society emit greenhouse gases that drive climate change. This course develops a framework based on mass and energy balances, thermodynamics of energy conversions and chemical reactions, catalytic surface reactions, and electrochemistry to evaluate current approaches for manufacturing chemicals and fuels and to engineer sustainable alternatives as climate change solutions. Topics include contributions of the chemical industry and fuels to climate change, renewable energy transition, survey of major chemical manufacturing processes, CO2 storage and utilization, resilient processes, and other emerging chemical manufacturing and energy storage solutions to mitigate climate change. The course involves a semester-long original analysis project. This course applies chemical and physical concepts and methods used in other science and engineering courses. Permission of instructor required. MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "ENVE 4730b / ENAS 6730b, Air Quality and Energy Drew Gentner",
+    "courseid": "ENVE 4730b",
+    "coursedescription": "The production and use of energy explored as a source of air pollution worldwide. Assessment of emissions and physical/chemical processes; the effects of emissions from energy sources; the behavior of pollutants in energy systems and in the atmosphere. Topics include traditional and emerging energy technology, climate change, atmospheric aerosols, tropospheric ozone, and transport/modeling/mitigation. Prerequisite: ENVE 373 or equivalent. SC MW 9am-10:15am",
+    "course-prerequsities": [
+      "ENVE 373",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ENVE 4900a or b, Senior Project Staff",
+    "courseid": "ENVE 4900a",
+    "coursedescription": "Individual research and design projects supervised by a faculty member in Environmental Engineering, or in a related field with permission of the director of undergraduate studies. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Individual research and design projects supervised by a faculty member in Environmental Engineering, or in a related field with permission of the director of undergraduate studies."
+      ]
+    }
+  }
+]

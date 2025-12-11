@@ -1,0 +1,81 @@
+[
+  {
+    "coursename": "* SNHL 1100a, Elementary Sinhala I Staff",
+    "courseid": "SNHL 1100a",
+    "coursedescription": "First half of a two-term sequence focusing on all four language skills. Basic grammar, sentence construction, simple reading materials, and use of everyday expressions. Course taught through distance learning using videoconferencing technology from Cornell University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L1 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* SNHL 1200b, Elementary Sinhala II Staff",
+    "courseid": "SNHL 1200b",
+    "coursedescription": "Second half of a two-term sequence focusing on all four language skills. Basic grammar, sentence construction, simple reading materials, and use of everyday expressions. Prerequisite: SNHL 110. Course taught through distance learning using videoconferencing technology from Cornell University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L2 RP 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "SNHL 110",
+      "L2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "SNHL 1300a, Intermediate Sinhala I Staff",
+    "courseid": "SNHL 1300a",
+    "coursedescription": "Further development of speaking, listening, reading, and writing skills in Sinhala. Communicative approach to the exchange of ideas and information, with early emphasis on oral skills and reading comprehension. Prerequisite: SNHL 120 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information. L3 RP 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "SNHL 120",
+      "L3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* SNHL 1400b, Intermediate Sinhala II Staff",
+    "courseid": "SNHL 1400b",
+    "coursedescription": "Further development of speaking, listening, reading, and writing skills in Sinhala, with a communicative approach to the exchange of ideas and information. Prepares students for the transition to the study of literary Sinhala. Prerequisite: SNHL 130 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information. L4 RP 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "SNHL 130",
+      "L4"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "SNHL 1500a, Advanced Literary Sinhala I Staff",
+    "courseid": "SNHL 1500a",
+    "coursedescription": "This course introduces the distinctive grammatical forms and vocabulary used in Literary Sinhala. While focused particularly on the development of reading skills, the course also introduces students to Literary Sinhala composition, builds students’ listening comprehension of semi-literary Sinhala forms (such as those used in radio and TV news), and guides students in incorporating elements of the literary register of Sinhala in their spoken production. Prerequisite: SNHL 140, or equivalent. L5 RP HTBA",
+    "course-prerequsities": [
+      "SNHL 140",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SNHL 1600b, Advanced Literary Sinhala II Staff",
+    "courseid": "SNHL 1600b",
+    "coursedescription": "As a continuation of SNHL 150, this one-semester course further develops students’ comprehension of written Literary Sinhala, expanding their knowledge of the distinctive grammatical forms and vocabulary used. While continuing to focus primarily on reading development, the course also includes elements of Literary Sinhala composition, builds students’ listening comprehension of semi-literary Sinhala forms (such as those used in radio and TV news), and guides students in incorporating elements of the literary register of Sinhala in their spoken production. The course incorporates modern texts adapted from recent articles featured in the local Sri Lankan news, and when appropriate, additional Classical Sinhala texts relevant to graduate student research. The course is taught in Sinhala. Prerequisite: SNHL 150, or equivalent. L5 RP HTBA",
+    "course-prerequsities": [
+      "SNHL 150",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

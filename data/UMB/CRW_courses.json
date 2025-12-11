@@ -1,0 +1,18 @@
+[
+  {
+    "coursename": "Critical Thinking II",
+    "courseid": "CRW112",
+    "coursedescription": "In this course, students gain experience in the processes of intellectual inquiry as it is practiced in the liberal arts and sciences. Through both oral and written presentations, they analyze and interpret readings taken from college-level texts. They learn to distinguish the methods authors use in developing their ideas and the differences and similarities among perspectives of various authors, as well as to recognize implications and to question authors' purposes. The class meets on a regular basis in a computer lab where students use computers to develop these analytical capabilities and apply them to course work.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Elements of Writing Proficiency",
+    "courseid": "CRW282",
+    "coursedescription": "A course for upper-level students who need further work on those critical reading, writing, and thinking abilities necessary to complete the writing proficiency requirement. Intensive instruction and practice in analyzing and synthesizing readings and in developing and documenting essays based on multiple readings. Students must complete 1-2 papers appropriate for submission in a writing proficiency portfolio.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

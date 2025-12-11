@@ -1,0 +1,88 @@
+[
+  {
+    "coursename": "INDN 1100a, Elementary Indonesian I Indriyo Sukmono",
+    "courseid": "INDN 1100a",
+    "coursedescription": "An introductory course in standard Indonesian with emphasis on developing communicative skills through a systematic survey of grammar and graded exercises. Enrollment limited to 15 per section. L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to 15 per section."
+      ]
+    }
+  },
+  {
+    "coursename": "INDN 1200b, Elementary Indonesian II Indriyo Sukmono",
+    "courseid": "INDN 1200b",
+    "coursedescription": "Continuation of INDN 110. Introduction to reading, leading to mastery of language patterns, essential vocabulary, and basic cultural competence. After INDN 110 or equivalent. Enrollment limited to 15 per section. L2 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to 15 per section."
+      ]
+    }
+  },
+  {
+    "coursename": "* INDN 1300a, Intermediate Indonesian I Dinny Aletheiani",
+    "courseid": "INDN 1300a",
+    "coursedescription": "Continued practice in colloquial Indonesian conversation and reading and discussion of texts. After INDN 120 or equivalent. Limited enrollment. L3 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* INDN 1400b, Intermediate Indonesian II Dinny Aletheiani",
+    "courseid": "INDN 1400b",
+    "coursedescription": "Continuation of INDN 130. After INDN 130 or equivalent. Limited enrollment. L4 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* INDN 1500a, Advanced Indonesian I Indriyo Sukmono",
+    "courseid": "INDN 1500a",
+    "coursedescription": "Development of advanced fluency through discussion of original Indonesian sociohistorical, political, and literary texts and audiovisual sources. Extension of cultural understanding of Indonesia. Prerequisite: INDN 140 or equivalent. May not be taken after INDN 153. L5 HTBA",
+    "course-prerequsities": [
+      "INDN 140",
+      "INDN 153",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* INDN 1700a, Advanced Indonesian: Special Topics Dinny Aletheiani",
+    "courseid": "INDN 1700a",
+    "coursedescription": "Continuation of INDN 160. Students advance their communicative competence in listening, speaking, reading, and writing. Use of Indonesian book chapters, Web pages, printed and electronic articles, social networking posts, newsgroups, and letters. Prerequisite: INDN 160. L5 HTBA",
+    "course-prerequsities": [
+      "INDN 160",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* INDN 1800b, Research and Creative Project on Indonesia Dinny Aletheiani",
+    "courseid": "INDN 1800b",
+    "coursedescription": "Continuation of INDN 170. Advancement in students' competence in listening, speaking, reading, and writing. Reading materials include book chapters, Web sites, print and electronic articles, e-mail messages, blogs, and social networking posts. Prerequisite: INDN 170. L5 HTBA",
+    "course-prerequsities": [
+      "INDN 170",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* INDN 4700a, Independent Tutorial Dinny Aletheiani",
+    "courseid": "INDN 4700a",
+    "coursedescription": "For students with advanced Indonesian language skills who wish to engage in concentrated reading and research on material not otherwise offered in courses. The work must be supervised by an adviser and must terminate in a term paper or its equivalent. After INDN 160. Permission to enroll requires submission of a detailed project proposal and its approval by the program adviser. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission to enroll requires submission of a detailed project proposal and its approval by the program adviser."
+      ]
+    }
+  }
+]

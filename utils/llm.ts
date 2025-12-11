@@ -7,13 +7,14 @@ import { extractMermaidFromText } from "./extractMermaid";
 import { MessageBox } from "@/pages";
 
 const MESSAGE_LIMIT = 10 // limit open ai API to 10 message history
+const MODEL_ID =  "gpt-5-nano";
 
 const UNIVERSITY_MAP = UNIVERSITIES.map((u, i) => `${i}: ${u}`).join("\n") // map university name to int (UMB is 0)
 
 const APP_DESCRIPTION = `You are an AI-powered college advisor designed to help students plan their academic journeys.
       Your primary functions include:
-      1. Assisting students in selecting courses based on their major and university.
-      2. Visualizing course paths and prerequisites using Mermaid diagrams.
+      1. Visualizing course paths and prerequisites using Mermaid diagrams, represented with markdown code blocks.
+      2. Assisting students in selecting courses based on their major and university.
       3. Providing personalized advice based on user profiles, including major, university, year, and interests.
       4. Providing job market insights related to different majors and career paths.
       `
@@ -51,8 +52,8 @@ export const default_system_prompt = `
 
     1. getMajorByUniversity
     2. getCoursesByMajor
-    3. saveUserData (if updating profile)
-    4. visualizeCoursePath (if generating a plan)
+    3. visualizeCoursePath (if generating a plan)
+    4. saveUserData (if updating profile)
 
     TOOLCALL RULES:
     You may only use one tool call at a time.
@@ -61,6 +62,10 @@ export const default_system_prompt = `
     ====================================================================
     PRIORITY STACK (Follow these steps in strict order)
     ====================================================================
+
+    1. **Create a Mermaid Diagram**
+      As soon as possible in the conversation, include a mermaid diagram in the response within a markdown block (headed by "\`\`\`mermaid"), 
+      which should represent a particular course path that the student might take given their major, university, and other relevant information.
 
     1. **Ambiguity Check**
       If the user provides ambiguous, unclear, or conflicting information:
@@ -103,6 +108,8 @@ export const default_system_prompt = `
     STRICT RULES
     ====================================================================
 
+    - As soon as possible, include a mermaid diagram in a markdown code block in your response and expect to iterate on it in 
+      subsequent chat turns.
     - Never make up a university, major, or course.
     - Never guess qualifications; ask instead.
     - Never provide fictitious course codes or structures.
@@ -216,7 +223,7 @@ async function summarizeChatHistory(messages: any[]) {
   ];
 
   const summaryCompletion = await openai.chat.completions.create({
-    model: "gpt-4o-mini",
+    model: MODEL_ID,
     messages: summaryMessages
   });
 
@@ -297,7 +304,7 @@ export async function llm(user_id: string,
 
   // query open ai
   const completion = await openai.chat.completions.create({
-    model: "gpt-4o-mini",
+    model: MODEL_ID,
     messages: tagMessages(messages),
     tools: [
         {
@@ -410,7 +417,7 @@ export async function llm(user_id: string,
         console.log("TOOL CALL\n", (toolCall as any).function.name);
         const args = JSON.parse((toolCall as any).function.arguments);
           
-        let result;
+        let result: any;
         // Parse tool call
         const functionName = (toolCall as any).function.name
         if (functionName == "getMajorByUniversity") {

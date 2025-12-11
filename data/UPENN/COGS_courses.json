@@ -1,0 +1,64 @@
+[
+  {
+    "coursename": "COGS 1001 Introduction to Cognitive Science",
+    "courseid": "COGS 1001",
+    "coursedescription": "How do minds work? This course surveys a wide range of answers to this question from disciplines ranging from philosophy to neuroscience. The course devotes special attention to the use of simple computational and mathematical models. Topics include perception, learning, memory, decision making, and language. The course shows how the different views from the parent disciplines interact and identifies some common themes among the theories that have been proposed. The course pays particular attention to the distinctive role of computation in such theories and provides an introduction to some of the main directions of current research in the field. It is a requirement for the BA in Cognitive Science, the BAS in Computer and Cognitive Science, and the minor in Cognitive Science, and it is recommended for students taking the dual degree in Computer and Cognitive Science. Fall Also Offered As: CIS 1400 , LING 1005 , PHIL 1840 , PSYC 1333 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is a requirement for the BA in Cognitive Science, the BAS in Computer and Cognitive Science, and the minor in Cognitive Science, and it is recommended for students taking the dual degree in Computer and Cognitive Science."
+      ]
+    }
+  },
+  {
+    "coursename": "COGS 1770 Research Practicum in Cognitive Science",
+    "courseid": "COGS 1770",
+    "coursedescription": "Research Practicum is a six-week half-credit course that facilitates students’ entry into research in cognitive science. Students complete a small project of their own devising, from hypothesis generation to report writing, and attend weekly guest lectures from graduate students and post-docs in cognitive science labs that are looking for undergraduate research assistants. Practicum has a 'flipped' classroom. Before class each week, students watch video lectures that will help them implement their project; in-person class is for asking questions about the week’s lecture, and to work on the week’s assignment for the student’s project, with help from the instructor and TA as needed. Each week, we will also have a guest lecturer from the lab of a MindCORE faculty affiliate. The main product – pieces of which the student submits every week – is a 4-5 page paper reporting the study they conducted. Each week, students will also write a 150 word summary/reflection on the guest lecture that week. Fall or Spring Also Offered As: LING 1770 , PSYC 4901",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "COGS 2982 Study Abroad",
+    "courseid": "COGS 2982",
+    "coursedescription": "Departmental permission required 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Departmental permission required 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "COGS 3998 Senior Thesis",
+    "courseid": "COGS 3998",
+    "coursedescription": "This course is a directed study intended for cognitive science majors who have been admitted to the cognitive science honors program. Upon admission into the program, students may register for this course under the direction of their thesis supervisor. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "COGS 3999 Independent Study",
+    "courseid": "COGS 3999",
+    "coursedescription": "Departmental permission required Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Departmental permission required Fall or Spring 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "COGS 4290 Big Data, Memory and the Human Brain",
+    "courseid": "COGS 4290",
+    "coursedescription": "This course fulfills the research experience requirement in the psychology major. Advances in brain recording methods over the last decade have generated vastly more brain data than had been collected by neuroscientists during the previous century. To understand the human brain, scientists must now use computational methods that exploit the power of these huge data sets. This course will introduce you to the use of big data analytics in the study of human memory. Through hands-on Python-based programming projects, we will analyze very large data sets both to replicate existing phenomena and to make new discoveries. Programming experience in python is required for this course. Fall, even numbered years only Also Offered As: PSYC 4290 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

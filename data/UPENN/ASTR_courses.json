@@ -1,0 +1,96 @@
+[
+  {
+    "coursename": "ASTR 0001 A Survey of the Universe",
+    "courseid": "ASTR 0001",
+    "coursedescription": "A general survey, designed for the non-major, of the facts and theories of the astronomical universe, from solar system, to stars, to galaxies and cosmology. Topics include planets, satellites, small objects in the solar system, and extraterrestrial life; stars, their evolution, and their final state as white dwarfs, neutron stars, or black holes; galaxies, quasars, large structures, background radiation, and big bang cosmology. Elementary algebra and geometry will be used. This course is not recommended for physical-science majors or engineering students. Engineering students receive no credit for this course. Fulfills quantitative data analysis requirement. Fall, Spring, and Summer Terms Mutually Exclusive: ASTR 0006 , ASTR 0007 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics include planets, satellites, small objects in the solar system, and extraterrestrial life; stars, their evolution, and their final state as white dwarfs, neutron stars, or black holes; galaxies, quasars, large structures, background radiation, and big bang cosmology.",
+        "This course is not recommended for physical-science majors or engineering students."
+      ]
+    }
+  },
+  {
+    "coursename": "ASTR 0006 The Solar System, Exoplanets, and Life",
+    "courseid": "ASTR 0006",
+    "coursedescription": "A survey course on planets and life covering our own Solar System and exoplanets orbiting other stars. Topics include the latest results and theories about: the origin and evolution of planetary systems around our Sun and other stars; the detection of exoplanets; the implications of planetary atmospheres for life; and the search for life on other planets in our Solar System. This course is designed for the non-major and elementary algebra and geometry will be used. Physical science majors and engineering students should prefer ASTR 1211 to this course. Spring Mutually Exclusive: ASTR 0001 , ASTR 0007 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 0007 The Big Bang and Beyond",
+    "courseid": "ASTR 0007",
+    "coursedescription": "An introductory course for students who do not intend to major in a physical science or engineering, covering theories of the Universe ranging from the ancient perspective to the contemporary hot big bang model, including some notions of Einstein's special and general theories of relativity. Topics will include the solar system, stars, black holes, galaxies, and the structure, origin and future of the Universe itself. Elementary algebra is used. Fulfills quantitative data analysis requirement. Fall Mutually Exclusive: ASTR 0001 , ASTR 0006 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 1211 Introduction to Astrophysics I",
+    "courseid": "ASTR 1211",
+    "coursedescription": "A basic course for majors in physical sciences and engineering; required for the astrophysics concentration. The course provides fundamental knowledge of Newtonian gravity and the properties of light and matter as they are relevant for understanding astrophysical objects. Application is made to the observed features of planetary motion, the atmospheres and stars and planets, and the structure and evolution of stars. Fall Prerequisite: MATH 1400 OR PHYS 0150 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400",
+      "PHYS 0150"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 1212 Introduction to Astrophysics II",
+    "courseid": "ASTR 1212",
+    "coursedescription": "A basic course for majors in physical sciences and engineering; require for the astrophysics concentration. The course covers fundamental knowledge of Einstein's gravity, the contents of the universe, and the structure and distribution of galaxies. Emphasis is on the key elements of modern cosmology: the mathematical model of the expanding universe, the cosmic microwave background, the early universe and the emergence of large-scale structure in the present universe. Spring Prerequisite: MATH 1410 OR PHYS 0151 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410",
+      "PHYS 0151"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 1250 Astronomical Techniques",
+    "courseid": "ASTR 1250",
+    "coursedescription": "A laboratory course in astronomical observations and data reduction. This course satisfies one of the requirements for the astrophysics concentration. Topics vary, but include spherical astronomy, timekeeping and coordinate systems, astro-statistics, telescopes, CCD's, signal processing, imaging, spectroscopy, radio astronomy and data reduction techniques using custom software. Attendance at observatory sessions outside of the scheduled class time is required, but times are uncertain due to weather conditions. The course requires small-group work in-class, and substantial out-of-class time. Notes: Course not offered every year. The observatories at DRL are used for experimental and observational practice. Spring, even numbered years only Prerequisite: ( ASTR 0001 AND MATH 2400 AND MATH 2410 ) OR ( ASTR 0007 AND MATH 2400 AND MATH 2410 ) OR ASTR 1211 OR ASTR 1212 1 Course Unit",
+    "course-prerequsities": [
+      "ASTR 0001",
+      "MATH 2400",
+      "MATH 2410",
+      "ASTR 0007",
+      "ASTR 1211",
+      "ASTR 1212"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 3392 Life and Death of Stars",
+    "courseid": "ASTR 3392",
+    "coursedescription": "This is an advanced undergraduate course on the life and death of stars. The course will cover the structure of stellar interiors, nuclear reactions and the formation of elements, stellar evolution, supernovae, and the physics of white dwarfs, neutron stars, and black holes. We will approach these topics from both theoretical and observational perspectives. Spring, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 5503 Astronomical Methods and Instrumentation",
+    "courseid": "ASTR 5503",
+    "coursedescription": "Techniques of modern astronomical observations, including: detection of light from the radio through gamma rays; sources of noise in astronomical measurements; image analysis and reduction techniques; telescope optics and adaptive optics; spectroscopic measurements; radio interferometry and spectroscopy. Spring, even numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 5533 Galaxies: Structure, Dynamics and Formation",
+    "courseid": "ASTR 5533",
+    "coursedescription": "Galactic structure and dynamics. Observed scaling relations. Models and observations of galaxy formation and evolution. Enrollment restricted to graduate students. Fall, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment restricted to graduate students."
+      ]
+    }
+  }
+]

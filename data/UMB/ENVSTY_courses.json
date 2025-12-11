@@ -1,0 +1,112 @@
+[
+  {
+    "coursename": "The Nature of Environmental Problems",
+    "courseid": "ENVSTY101",
+    "coursedescription": "An introduction to environmental issues and analysis emphasizing comparisons between the sustainable characteristics of ecosystems, both natural and human, and the human impacts on the Earth's life support systems. Topics include human population growth, food production, use of natural resources, pollution, loss of bio-diversity, and conservation strategies.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Environmental Concerns and Chemical Solutions",
+    "courseid": "ENVSTY111L",
+    "coursedescription": "Human society is constantly facing such environmental issues and problems as ozone depletion, air pollution, acid rain, environmental toxins, and renewable energy resources. This course provides students with a foundation in chemistry that can be used to examine these and other environmental concerns. A combination of lecture and group discussion illustrates the science behind these issues, and helps students develop an unbiased view.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Quantitative Reasoning and the Environment",
+    "courseid": "ENVSTY116L",
+    "coursedescription": "The dynamic and continually changing environment can be understood through examining measurements that quantify change. This course introduces methods of quantitative reasoning used to understand our environment. Through a wide variety of examples, the course builds connections between quantitative concepts and environmental applications. Physical and social scientists measure properties of the environment to gain an understanding of the past and present, then they use these measurements to compare changes in the environment both spatially and throughout time. This course will examine topics such as population dynamics, changes in weather and climate, toxicity in water and air and the occurrence and intensity of natural disasters. Using real world data, the course will develop quantitative and technical skills for critical analysis of environmental challenges. Some of the quantitative topics presented include estimation, number sense, graphing data, linear and exponential growth and descriptive statistics, including central value analysis. This course meets the core theme of better understanding environmental science by addressing quantitative studies applied to climate change, sustainability, environmental justice and pollution.ENVSCI 116L and ENVSTY 116L are the same course",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Climate Change",
+    "courseid": "ENVSTY150L",
+    "coursedescription": "Introduction to Climate Change covers the processes involved in Earth's climate and the history of climate up to the present day, with a key goal of gaining insight into ongoing climate change and the future. Students will develop a basic but robust understanding of the major controls on climate, in part as a foundation for considering climate-related issues in various disciplines and areas of human concern. We will also nurture a sense of curiosity and wonder about this amazing planet that we call home.This course is designed to be accessible to students concentrating in the social sciences, humanities, or arts. At the same time, science and engineering-oriented students will find this course to be a usefully broad introduction to climate change, providing context for more specialized courses of study. For all students, our goal is to enrich your intellectual life and help you become an informed citizen.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Sustainability",
+    "courseid": "ENVSTY230",
+    "coursedescription": "In this course, students will be introduced to the basics of sustainability science, a problem-driven, interdisciplinary scholarship seeking to facilitate the design, implementation, and evaluation of effective interventions that foster shared prosperity and reduce poverty while protecting the environment. Students will explore the dual challenge of the need to understand how societal dynamics and environmental dynamics interact over time AND how they help induce or inhabit the functioning of socio-ecological systems. This course introduces students to theories, concepts, mechanisms, analytical frameworks and tools, research designs, and basic data to help advance the understanding of the dynamic relationship between societal changes and environmental changes. Topics explored will include systems dynamics, historical perspectives on natural resource use, economic growth, and sustainability, quality of life, and use of renewable and non-renewable resources. Students will write a 6 to 10 page final paper on sustainability science problem suitable for Writing Proficiency Portfolio.",
+    "course-prerequsities": [
+      "ENVSCI 122",
+      "ENVSTY 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Environmental Studies",
+    "courseid": "ENVSTY301",
+    "coursedescription": "The internship requires a minimum of 100 hours of service doing environmental work with government, non-government, corporate, or research organizations. The program can assist students in finding appropriate internship placements. Each student's supervisor at the placement organization provides a report on the intern's performance and students submit a paper to the program director describing their internship experience.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Third-Year Seminar: Professional Development",
+    "courseid": "ENVSTY310",
+    "coursedescription": "In this seminar course students will develop professionally by learning about resumes, personal statements, job cover letters, public presentations, interview skills and etiquette, reading and evaluating the primary literature, writing reports/proposals, learn how to prepare an internship, job, or graduate school application package. After learning about these topics, students will write and evaluate resumes, personal statements, cover letters, make and present a presentation to the general public, and conduct a mock interview. This course also is designed for vertical alignment and cohort development in the environmental studies and sustainability major.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Environmental Communication",
+    "courseid": "ENVSTY345L",
+    "coursedescription": "In this course, students will learn how the process of communication constructs our values and relationships with the biophysical world and each other. We explore the contested meanings of nature and the environment and the communication practices that challenge dominant Western notions of the environment individually, ideologically and institutionally. We foreground how racial, ethnic, socioeconomic class, and gender groups experience ecological disasters intensified by climate change. In addition to examining the disproportionate impact on low-income, communities of color, and Indigenous peoples, we will examine how these communities are leading resistance to ecological disasters and environmental violence. We will examine the power dynamics of environmental issues via media and film, journalism, public relations, advertising, rhetoric, and public participation and activism to understand how communication can create a more just and sustainable world. Students will interpret and analyze the voices of individuals and groups struggling to define major environmental topics, such as: climate change and pollution, energy, water, food and agriculture, biodiversity and extinction, ocean life, wilderness habitat, war, and consumerism.",
+    "course-prerequsities": [
+      "COMM 100",
+      "ENVSCI 101",
+      "ANTH 263",
+      "ENVSCI 120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Environmental Justice",
+    "courseid": "ENVSTY364L",
+    "coursedescription": "Environmental justice is defined by the state of Massachusetts as the equal protection and meaningful involvement of all people with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies and the equitable distribution of environmental benefits. This course provides an overview of environmental justice as an aspect of U.S. environmental policy. The goal of the course is to give students the ability to develop and articulate informed opinions about environmental justice, to understand how the concept came into use, and to think critically about measuring and solving environmental justice problems. The course uses written assignments, case studies, and role-playing exercises to help students develop the analytical skills necessary to tackle this topic.ENVSTY 364L and UPCD 364L are the same course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Environmental Problem Analysis and Policy Formulation",
+    "courseid": "ENVSTY401",
+    "coursedescription": "This is the capstone course for students who enroll in the Environmental Studies Program. Students in this small seminar analyze a particular environmental problem, often one directly associated with UMass Boston or its immediate community. Students examine the technical, social, and political aspects of the problem, determine whether policy changes or other initiatives are necessary, and develop a plan of action. Recent topics have included reducing the environmental 'footprint' of UMass Boston and evaluating watershed management for communities near Boston.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Fourth-Year Seminar: Environmental Issues",
+    "courseid": "ENVSTY410",
+    "coursedescription": "In this fourth-year seminar, students will be exposed to current global environmental issues in a discussion and debate-style format designed to stimulate student interest and develop critical thinking skills. Issues covered will fall under fie topic areas: environmental philosophy, principles versus politics, energy issues, food and pollution, and toxic chemicals. Each issue reading is framed with an issue summary, an issue introduction, and issue pro and con stance, and an issue post-script. Students will write issue or analysis reports for each issue and discuss the issue in class via general discussion, panel discussions, role-play discussions, and debates. This fourth-year seminar course also is designed for vertical alignment of the curriculum and cohort development for environmental studies and sustainability majors.",
+    "course-prerequsities": [
+      "ENVSTY 310"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In this fourth-year seminar, students will be exposed to current global environmental issues in a discussion and debate-style format designed to stimulate student interest and develop critical thinking skills."
+      ]
+    }
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ENVSTY478",
+    "coursedescription": "Research and reading in a selected area of environmental studies, guided by a faculty advisor.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

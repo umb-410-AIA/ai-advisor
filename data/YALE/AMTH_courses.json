@@ -1,0 +1,174 @@
+[
+  {
+    "coursename": "AMTH 640b / CPSC 6400b / MATH 6400b, Topics in Numerical Computation Vladimir Rokhlin",
+    "courseid": "AMTH 640b",
+    "coursedescription": "This course discusses several areas of numerical computing that often cause difficulties to non-numericists, from the ever-present issue of condition numbers and ill-posedness to the algorithms of numerical linear algebra to the reliability of numerical software. The course also provides a brief introduction to “fast” algorithms and their interactions with modern hardware environments. The course is addressed to Computer Science graduate students who do not necessarily specialize in numerical computation; it assumes the understanding of calculus and linear algebra and familiarity with (or willingness to learn) either C or FORTRAN. Its purpose is to prepare students for using elementary numerical techniques when and if the need arises. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMTH 999a, Directed Reading Anna Gilbert",
+    "courseid": "AMTH 999a",
+    "coursedescription": "In-depth study of elliptic partial differential equations. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMTH 2220a or b / MATH 2220a or b, Linear Algebra with Applications Staff",
+    "courseid": "AMTH 2220a",
+    "coursedescription": "Matrix representation of linear equations. Gauss elimination. Vector spaces. Linear independence, basis, and dimension. Orthogonality, projection, least squares approximation; orthogonalization and orthogonal bases. Extension to function spaces. Determinants. Eigenvalues and eigenvectors. Diagonalization. Difference equations and matrix differential equations. Symmetric and Hermitian matrices. Orthogonal and unitary transformations; similarity transformations. Students who plan to continue with upper level math courses should instead consider MATH 2250 or 2260 . After MATH 1150 or equivalent. May not be taken after MATH 2250 or 2260 . May not be counted toward the Math, CPSC + Math, or Econ + Math major. QR HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMTH 2320b / MATH 2320b, Advanced Linear Algebra with Applications Ian Adelstein",
+    "courseid": "AMTH 2320b",
+    "coursedescription": "This course is a natural continuation of MATH 2220 . The core content includes eigenvectors and the Spectral Theorem for real symmetric matrices; singular value decomposition (SVD) and principle component analysis (PCA); quadratic forms, Rayleigh quotients and generalized eigenvalues. We also consider a number of applications: optimization and stochastic gradient descent (SGD); eigen-decomposition and dimensionality reduction; graph Laplacians and data diffusion; neural networks and machine learning. A main theme of the course is using linear algebra to learn from data. Students complete (computational) projects on topics of their choosing. Prerequisites: MATH 1200 and MATH 2220 , 2250 , or 2260. This is not a proof-based course. May not be taken after MATH 3400 . QR MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MATH 1200",
+      "MATH 2220",
+      "2260",
+      "MATH 3400",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMTH 2440a or b / MATH 2440a or b, Discrete Mathematics Staff",
+    "courseid": "AMTH 2440a",
+    "coursedescription": "Basic concepts and results in discrete mathematics: graphs, trees, connectivity, Ramsey theorem, enumeration, binomial coefficients, Stirling numbers. Properties of finite set systems. Prerequisite: MATH 1150 or equivalent. Some prior exposure to proofs is recommended (ex. MATH 2250 ). QR HTBA",
+    "course-prerequsities": [
+      "MATH 1150",
+      "MATH 2250"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Some prior exposure to proofs is recommended (ex."
+      ]
+    }
+  },
+  {
+    "coursename": "AMTH 2470b / MATH 2470b, Intro to Partial Differential Equations Ruoyu Wang",
+    "courseid": "AMTH 2470b",
+    "coursedescription": "Introduction to partial differential equations, wave equation, Laplace's equation, heat equation, method of characteristics, calculus of variations, series and transform methods, and numerical methods. Prerequisites: MATH 2220 or 2250 or 2260 , MATH 2460 or ENAS 1940 . QR MWF 10:30am-11:20am",
+    "course-prerequsities": [
+      "MATH 2220",
+      "2250",
+      "2260",
+      "MATH 2460",
+      "ENAS 1940",
+      "MWF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMTH 3220a / CPSC 4844a / MATH 3220, Geometric and Topological Methods in Machine Learning Smita Krishnaswamy",
+    "courseid": "AMTH 3220a",
+    "coursedescription": "This course provides an introduction to geometric and topological methods in data science. Our starting point is the manifold hypothesis: that high dimensional data live on or near a much lower dimensional smooth manifold. We introduce tools to study the geometric and topological properties of this manifold in order to reveal relevant features and organization of the data. Topics include: metric space structures, curvature, geodesics, diffusion maps, eigenmaps, geometric model spaces, gradient descent, data embeddings and projections, and topological data analysis (TDA) in the form of persistence homology and their associated “barcodes.” We see applications of these methods in a variety of data types. Prerequisites: MATH 2250 or 2260 ; MATH 2550 or 2560 ; MATH 3020 ; and CPSC 1001 or equivalent programming experience. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MATH 2250",
+      "2260",
+      "MATH 2550",
+      "2560",
+      "MATH 3020",
+      "CPSC 1001",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* AMTH 3420a / ECE 4320a, Linear Systems A Stephen Morse",
+    "courseid": "AMTH 3420a",
+    "coursedescription": "Introduction to finite-dimensional, continuous, and discrete-time linear dynamical systems. Exploration of the basic properties and mathematical structure of the linear systems used for modeling dynamical processes in robotics, signal and image processing, economics, statistics, environmental and biomedical engineering, and control theory. Prerequisite: MATH 222 or permission of instructor. QR MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "MATH 222",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: MATH 222 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "AMTH 3610b / S&DS 3610b, Data Analysis Brian Macdonald",
+    "courseid": "AMTH 3610b",
+    "coursedescription": "Selected topics in statistics explored through analysis of data sets using the R statistical computing language. Topics include linear and nonlinear models, maximum likelihood, resampling methods, curve estimation, model selection, classification, and clustering. Extensive use of the R programming language. Experience with R programming (from e.g. S&DS 106, S&DS 220, S&DS 230, S&DS 242), probability and statistics (e.g. S&DS 106, S&DS 220, S&DS 238, S&DS 241, or concurrently with S&DS 242), linear algebra (e.g. MATH 222, MATH 225, MATH 118), and calculus is required. This course is a prerequisite for S&DS 425 and may not be taken after S&DS 425. QR TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "DS 425",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMTH 3640b / EENG 454 / S&DS 3640b, Information Theory Yihong Wu",
+    "courseid": "AMTH 3640b",
+    "coursedescription": "Foundations of information theory in communications, statistical inference, statistical mechanics, probability, and algorithmic complexity. Quantities of information and their properties: entropy, conditional entropy, divergence, redundancy, mutual information, channel capacity. Basic theorems of data compression, data summarization, and channel coding. Applications in statistics and finance. After STAT 241. QR TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* AMTH 3660b / CPSC 3660b / ECON 3366b, Intensive Algorithms Anna Gilbert",
+    "courseid": "AMTH 3660b",
+    "coursedescription": "Mathematically sophisticated treatment of the design and analysis of algorithms and the theory of NP completeness. Algorithmic paradigms including greedy algorithms, divide and conquer, dynamic programming, network flow, approximation algorithms, and randomized algorithms. Problems drawn from the social sciences, Data Science, Computer Science, and engineering. For students with a flair for proofs and problem solving. Only one of CPSC 365, CPSC 366, or CPSC 368 may be taken for credit. Prerequisites: MATH 244 and CPSC 223. QR HTBA",
+    "course-prerequsities": [
+      "MATH 244",
+      "CPSC 223"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "AMTH 4200a / MATH 4210a, The Mathematics of Data Science Gilles Mordant",
+    "courseid": "AMTH 4200a",
+    "coursedescription": "This course aims to be an introduction to the mathematical background that underlies modern data science. The emphasis is on the mathematics but occasional applications are discussed (in particular, no programming skills are required). Covered material may include (but is not limited to) a rigorous treatment of tail bounds in probability, concentration inequalities, the Johnson-Lindenstrauss Lemma as well as fundamentals of random matrices, and spectral graph theory. Prerequisite: MATH 3050 . QR , SC TTh 9am-10:15am",
+    "course-prerequsities": [
+      "MATH 3050",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Covered material may include (but is not limited to) a rigorous treatment of tail bounds in probability, concentration inequalities, the Johnson-Lindenstrauss Lemma as well as fundamentals of random matrices, and spectral graph theory."
+      ]
+    }
+  },
+  {
+    "coursename": "* AMTH 4820a, Research Project John Wettlaufer",
+    "courseid": "AMTH 4820a",
+    "coursedescription": "Individual research. Requires a faculty supervisor and the permission of the director of undergraduate studies. The student must submit a written report about the results of the project. May be taken more than once for credit. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Requires a faculty supervisor and the permission of the director of undergraduate studies."
+      ]
+    }
+  },
+  {
+    "coursename": "* AMTH 4910a, Senior Project John Wettlaufer",
+    "courseid": "AMTH 4910a",
+    "coursedescription": "Individual research that fulfills the senior requirement. Requires a faculty supervisor and the permission of the director of undergraduate studies. The student must submit a written report about the results of the project. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Requires a faculty supervisor and the permission of the director of undergraduate studies."
+      ]
+    }
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "coursename": "* ASTR 0300b, Search for Extraterrestrial Life Michael Faison",
+    "courseid": "ASTR 0300b",
+    "coursedescription": "Introduction to the search for extraterrestrial life. Review of current knowledge on the origins and evolution of life on Earth; applications to the search for life elsewhere in the universe. Discussion of what makes a planet habitable, how common these worlds are in the universe, and how we might search for them. Survey of past, current, and future searches for extraterrestrial intelligence. Enrollment limited to first-year students. WR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Introduction to the search for extraterrestrial life.",
+        "Survey of past, current, and future searches for extraterrestrial intelligence.",
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* ASTR 0400a / PHYS 0400a, Expanding Ideas of Time and Space Meg Urry",
+    "courseid": "ASTR 0400a",
+    "coursedescription": "Discussions on astronomy, and the nature of time and space. Topics include the shape and contents of the universe, special and general relativity, dark and light matter, and dark energy. Observations and ideas fundamental to astronomers' current model of an expanding and accelerating four-dimensional universe. Enrollment limited to first-year students. SC TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "ASTR 1100a, Planets and Stars Michael Faison",
+    "courseid": "ASTR 1100a",
+    "coursedescription": "Astronomy introduction to stars and planetary systems. Topics include the solar system and extrasolar planets, planet and stellar formation, and the evolution of stars from birth to death. No prerequisite other than a working knowledge of elementary algebra. QR , SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 1200b, Galaxies and the Universe Hector Arce",
+    "courseid": "ASTR 1200b",
+    "coursedescription": "An introduction to stars and stellar evolution; the structure and evolution of the Milky Way galaxy and other galaxies; quasars, active galactic nuclei, and supermassive black holes; cosmology and the expanding universe. No prerequisite other than a working knowledge of elementary algebra. QR , SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 1550a, Introduction to Astronomical Observing Michael Faison",
+    "courseid": "ASTR 1550a",
+    "coursedescription": "A hands-on introduction to techniques used in astronomy to observe astronomical objects. Observations of planets, stars, and galaxies using on-campus facilities and remote observing with Yale's research telescopes. Use of electronic detectors and computer-aided data processing. Evening laboratory hours required. One previous college-level science laboratory or astronomy course recommended. SC ½ Course cr M 7pm-8:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "One previous college-level science laboratory or astronomy course recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "ASTR 1700b, Introduction to Cosmology Priyamvada Natarajan",
+    "courseid": "ASTR 1700b",
+    "coursedescription": "An introduction to modern cosmological theories and observational astronomy. Topics include aspects of special and general relativity; curved space-time; the Big Bang; inflation; primordial element synthesis; the cosmic microwave background; the formation of galaxies; and large-scale structure. Prerequisite: a strong background in high school mathematics and physics. QR , SC TTh 4pm-5:15pm",
+    "course-prerequsities": [
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 1800a, Introduction to Relativity and Black Holes Charles Bailyn",
+    "courseid": "ASTR 1800a",
+    "coursedescription": "Introduction to the theories of special and general relativity, and to relativistic astronomy and astrophysics. Topics include time dilation and length contraction; mass-energy equivalence; space-time curvature; black holes; wormholes; pulsars; quasars; gravitational waves; Hawking radiation. For students not majoring in the physical sciences; some previous acquaintance with high-school physics and/or calculus may be helpful, but is not required. QR , SC MWF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 2100a, Stars and Their Evolution Hector Arce",
+    "courseid": "ASTR 2100a",
+    "coursedescription": "Foundations of astronomy and astrophysics, focusing on an intensive introduction to stars. Nuclear processes and element production, stellar evolution, stellar deaths and supernova explosions, and stellar remnants including white dwarfs, neutron stars, and black holes. A close look at our nearest star, the sun. How extrasolar planets are studied; the results of such studies. Prerequisite: a strong background in high school calculus and physics. May not be taken after ASTR 220. QR , SC 0 Course cr MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "ASTR 220",
+      "SC 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A close look at our nearest star, the sun."
+      ]
+    }
+  },
+  {
+    "coursename": "ASTR 2550a / PHYS 3950a, Research Methods in Astrophysics Marla Geha",
+    "courseid": "ASTR 2550a",
+    "coursedescription": "An introduction to research methods in astronomy and astrophysics. The acquisition and analysis of astrophysical data, including the design and use of ground- and space-based telescopes, computational manipulation of digitized images and spectra, and confrontation of data with theoretical models. Examples taken from current research at Yale and elsewhere. Use of the Python programming language. Prerequisite: background in high school calculus and physics. No previous programming experience required. QR , SC RP MWF 10:30am-11:20am",
+    "course-prerequsities": [
+      "MWF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 3100b, Galactic and Extragalactic Astronomy Jeffrey Kenney",
+    "courseid": "ASTR 3100b",
+    "coursedescription": "Structure of the Milky Way galaxy and other galaxies; stellar populations and star clusters in galaxies; gas and star formation in galaxies; the evolution of galaxies; galaxies and their large-scale environment; galaxy mergers and interactions; supermassive black holes and active galactic nuclei. Prerequisites: MATH 115, PHYS 201, and ASTR 210 or 220, or equivalents, or with permission of instructor. QR , SC MW 4pm-5:15pm",
+    "course-prerequsities": [
+      "MATH 115",
+      "PHYS 201",
+      "ASTR 210",
+      "220",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MATH 115, PHYS 201, and ASTR 210 or 220, or equivalents, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ASTR 3200b, Physical Processes in Astronomy Frank van den Bosch",
+    "courseid": "ASTR 3200b",
+    "coursedescription": "Introduction to the physics required for understanding current astronomical problems. Topics include basic equations of stellar structure, stellar and cosmic nucleosynthesis, radiative transfer, gas dynamics, and stellar dynamics. Numerical methods for solving these equations. Prerequisites: MATH 120 and PHYS 201 or equivalents, or permission of instructor. Previous experience with computer programming recommended. Taught in alternate years. QR , SC TTh 9am-10:15am",
+    "course-prerequsities": [
+      "MATH 120",
+      "PHYS 201",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MATH 120 and PHYS 201 or equivalents, or permission of instructor.",
+        "Previous experience with computer programming recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "ASTR 3550a, Observational Astronomy Pieter van Dokkum",
+    "courseid": "ASTR 3550a",
+    "coursedescription": "Optics for astronomers. Design and use of optical telescopes, photometers, spectrographs, and detectors for astronomical observations. Introduction to error analysis, concepts of signal-to-noise, and the reduction and analysis of photometric and spectroscopic observations. Prerequisite: One astronomy course numbered above 200. This course should be taken concurrently with ASTR 330, and/or after successfully completing ASTR 255. QR , SC TTh 9am-10:15am",
+    "course-prerequsities": [
+      "ABOVE 200",
+      "ASTR 330",
+      "ASTR 255",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ASTR 3560a / ASTR 5560a / PHYS 3560a, Astrostatistics and Data Mining Earl Bellinger",
+    "courseid": "ASTR 3560a",
+    "coursedescription": "This course is intended to give students majoring in astronomy, physics, or any other physical science the necessary background to be able to conduct research with large and complex datasets. The course provides an introduction to the tools needed for analyzing large volumes of data and gives students more experience in building codes to analyze to them. The course starts with a review of basic probability and statistics. Students then learn the basics of classical statistical inference, regression and model fitting, Bayesian statistical inference, as well as different data-mining techniques. Coding with the Python programming language. Prerequisite: ASTR 255 or equivalent. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "ASTR 255",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 3800b, Stellar Populations Robert Zinn",
+    "courseid": "ASTR 3800b",
+    "coursedescription": "The stellar populations of our galaxy and galaxies of the Local Group. Topics include the properties of stars and star clusters, stellar evolution, and the structure and evolution of our galaxy. Prerequisites: PHYS 201 and MATH 120, and one astronomy course numbered above 200. Taught in alternate years. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "PHYS 201",
+      "MATH 120",
+      "ABOVE 200",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASTR 4000b / MENG 4343 / MENG TBD-4, Orbital Mechanics and Mission Design Marla Geha",
+    "courseid": "ASTR 4000b",
+    "coursedescription": "Introduction to spacecraft orbital mechanics, astrodynamics, and the design and implementation of spaceflight maneuvers for Earth-orbiting satellites and inter-planetary probes. The class first addresses how to describe and predict the motion of a spacecraft in orbit around the Earth, how to change orbits, lunar and interplanetary trajectories, and how satellites are launched into orbit from Earth. The class then focuses on the space environment and considerations for spacecraft design. Prerequisites: PHYS 170/171, or 180/181, or 200/201, or 260/261. Concurrently with MATH 246, PHYS 301 or other advanced mathematics course. ASTR 255, PHYS 378 or other experience with python coding is recommended. QR , SC MWF 10:30am-11:20am",
+    "course-prerequsities": [
+      "PHYS 170",
+      "180",
+      "200",
+      "260",
+      "MATH 246",
+      "PHYS 301",
+      "ASTR 255",
+      "PHYS 378",
+      "MWF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "ASTR 255, PHYS 378 or other experience with python coding is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "ASTR 4200a, Computational Methods for Astrophysics Paolo Coppi",
+    "courseid": "ASTR 4200a",
+    "coursedescription": "The analytic, numerical, and computational tools necessary for effective research in astrophysics and related disciplines. Topics include numerical solutions to differential equations, spectral methods, and Monte Carlo simulations. Applications to common astrophysical problems including fluids and N-body simulations. Prerequisites: ASTR 320, MATH 120, 222 or 225, and 246. QR MW 4pm-5:15pm",
+    "course-prerequsities": [
+      "ASTR 320",
+      "MATH 120",
+      "225",
+      "246",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ASTR 4710a and ASTR 4720b, Independent Project in Astronomy Marla Geha",
+    "courseid": "ASTR 4710a",
+    "coursedescription": "Independent project supervised by a member of the department with whom the student meets regularly. The project must be approved by the instructor and by the director of undergraduate studies; the student is required to submit a complete written report on the project at the end of the term. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ASTR 4900a and ASTR 4910b, The Two-Term Senior Project Marla Geha",
+    "courseid": "ASTR 4900a",
+    "coursedescription": "A two-term independent research project to fulfill the senior requirement for the B.S. degree. The project must be supervised by a member of the department and approved by the director of undergraduate studies. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ASTR 4920a or b, The One-Term Senior Project Marla Geha",
+    "courseid": "ASTR 4920a",
+    "coursedescription": "A one-term independent research project or essay to fulfill the senior requirement for the B.A. degree. The project must be supervised by a member of the department and approved by the director of undergraduate studies. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

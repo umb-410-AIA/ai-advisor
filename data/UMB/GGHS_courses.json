@@ -1,0 +1,50 @@
+[
+  {
+    "coursename": "Doctoral Colloquium in Global Governance and Human Security",
+    "courseid": "GGHS714",
+    "coursedescription": "The goal of the colloquium is professional development, helping students to develop skills for and knowledge of academic processes that do not fit into existing topic and theoretical courses. These skills focus on the real-time analysis of work by other scholars, and the presentation of one's own work to academic and professional audiences.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "International Organization",
+    "courseid": "GGHS715",
+    "coursedescription": "This course provides an in depth overview of core institutions and actors in global governance - intergovernmental organizations (IGOs) and nongovernmental organizations (NGOs) with primary emphasis on the former. IGOs provide organization structures and decisions processes that comprise elements of governance for managing a wide array of global and regional interdependence issues. The scope of the field of international organization has vastly increased in the last twenty-five years, and this course surveys both the variety of theoretical approaches to studying IGOs and the broad range of topical issues that various IGOs address.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Doctoral Research Group",
+    "courseid": "GGHS781",
+    "coursedescription": "The goal of the research group is professional development and the development of research and writing skills. These skills focus on the design and execution of research projects intended from the outset to be written up as grant proposals and for peer-reviewed journals. The focus of the class is thus on the process of writing for publication, rather than researching and writing a topic dictated by the topical focus of the class.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Applied Social Science Research Methods in the Field",
+    "courseid": "GGHS790",
+    "coursedescription": "This graduate-level course aims to equip students with field research techniques in social science research. The emphasis is on field-based qualitative research methods and data gathering techniques for doctoral and master's students to use in challenging settings on key governance, health, development and related concerns, especially (but not only) in the developing countries. A primary objective and output of the course is for students to develop a field-based research proposal that frames a social research problem; and more clearly defines the research design and accompanying research methods -to advance the students' thinking/work on their master's or dissertation proposal, while thinking through key aspects of the field research portion of their research. Principles, practice, debates and ethics concerns are also covered in the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "GGHS795",
+    "coursedescription": "Study of a particular area of this subject under the supervision of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Research",
+    "courseid": "GGHS899",
+    "coursedescription": "This course focuses on research conducted under faculty supervision, leading to the presentation of a doctoral dissertation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "coursename": "YORU 1110a, Beginning Yorùbá I Oluseye Adesola",
+    "courseid": "YORU 1110a",
+    "coursedescription": "Training and practice in speaking, listening, reading, and writing. Initial emphasis is on the spoken aspect, with special attention to unfamiliar consonantal sounds, nasal vowels, and tone, using isolated phrases, set conversational pieces, and simple dialogues. Multimedia materials provide audio practice and cultural information. L1 1½ Course cr MTWThF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YORU 1130a, Intermediate Yorùbá I Oluseye Adesola",
+    "courseid": "YORU 1130a",
+    "coursedescription": "Refinement of students' speaking, listening, reading, and writing skills. More natural texts are provided to prepare students for work in literary, language, and cultural studies as well as for a functional use of Yorùbá. After YORU 120. L3 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YORU 1150a, Advanced Yorùbá I Oluseye Adesola",
+    "courseid": "YORU 1150a",
+    "coursedescription": "An advanced course intended to improve students' aural and reading comprehension as well as speaking and writing skills. Emphasis on acquiring a command of idiomatic usage and stylistic nuance. Study materials include literary and nonliterary texts; social, political, and popular entertainment media such as movies and recorded poems ( ewì ); and music. After YORU 140. L5 MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "YORU 1180a, Advanced Topics in Yorùbá Literature and Culture Oluseye Adesola",
+    "courseid": "YORU 1180a",
+    "coursedescription": "Designed for students with superior proficiency in Yorùbá who have an interest in topics not otherwise covered by existing courses. Development of language proficiency to the level of an educated native speaker. Discussion of advanced readings on Yorùbá philosophy, history, literature, and culture. L5 TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Designed for students with superior proficiency in Yorùbá who have an interest in topics not otherwise covered by existing courses."
+      ]
+    }
+  }
+]

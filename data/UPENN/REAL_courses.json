@@ -1,0 +1,379 @@
+[
+  {
+    "coursename": "REAL 2040 Real Estate Law",
+    "courseid": "REAL 2040",
+    "coursedescription": "This course examines the fundamentals of real estate finance and development from a legal and managerial perspective. The course serves as a foundation course for real estate majors and provides an introduction to real estate for other students. It attempts to develop skills in using legal concepts in a real estate transactional setting. The course will be of interest to students contemplating careers in accounting, real estate development, real estate finance, city planning, or banking. The main topics covered may include the following: land acquisition, finance; choice of entity; tax aspects; management (leasing, environmental); disposition of real property (sale of mortgaged property, foreclosures, wraparound mortgages, sale-leasebacks); and recent legal developments. Lectures and class discussion required. Fall or Spring Also Offered As: LGST 2040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course will be of interest to students contemplating careers in accounting, real estate development, real estate finance, city planning, or banking."
+      ]
+    }
+  },
+  {
+    "coursename": "REAL 2050 Global Real Estate: Risk, Politics and Culture",
+    "courseid": "REAL 2050",
+    "coursedescription": "This is an introductory course on real estate markets around the world. The goal of the course is to help students develop a global mindset by introducing and applying the basics of real estate valuation and risk management to a wide range of global contexts. The course emphasizes topics students will need to understand cross-border real estate strategies, including currency risk, political risk, rule of law, property rights, and culture. We will discuss relevant current events and use them to characterize risks facing real estate investors. The course largely covers markets outside the United States, except when it is useful to compare with the U.S. or for occasional special topics. We will focus more on the qualitative aspects of real estate investment analysis and less on the quantitative aspects. This is a full-semester course, cross-listed for MBA’s and undergraduates. REAL 2050 can be counted toward the Wharton Undergraduate Global Economy, Business, and Society (GEBS) requirement. Fall Mutually Exclusive: REAL 7050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 2080 Housing Markets",
+    "courseid": "REAL 2080",
+    "coursedescription": "This course is designed for students interested in the economics and operations of housing markets. It is primarily a U.S.-focused course. The class is divided into five sections: (1) economic analysis of housing market fundamentals (supply and demand); (2) a policy analysis section on housing affordability issues in the U.S.; (3) operations of homebuilders and rental landlords, as well as the single family rental sector; this section includes a series of guest lecturers from industry executives; (4) the nature of housing cycles; and (5) a discussion of factors that have affected the evolution of housing markets over the long run. This course presumes knowledge of intermediate microeconomics. For Wharton students, this means you must have passed BEPP 2500 . Non-Wharton students should have taken the equivalent course in the College. The class is primarily lecture based, although we will have one flipped class, as well as a number of guest lecturers from industry. There are two in-class midterms and two assignments. Spring Also Offered As: BEPP 2080 Prerequisite: BEPP 2500 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 2500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students interested in the economics and operations of housing markets."
+      ]
+    }
+  },
+  {
+    "coursename": "REAL 2090 Real Estate Investment: Analysis and Financing",
+    "courseid": "REAL 2090",
+    "coursedescription": "This course provides an introduction to real estate investing with a focus on financial and economic analysis. It is intended both as a foundational class for students considering a career in real estate as well as a survey class for students interested in finance who want to learn about the real estate sector. Project evaluation, financing strategies, risk assessment, investment decision making, and real estate capital markets are covered. No prior knowledge of the industry is required, but students will rapidly acquire a working knowledge of real estate markets and will quickly develop the quantitative tools to help them make investment decisions. Classes are conducted in a standard lecture format with discussion required. The course contains cases that help students evaluate the impact of more complex financing and capital markets tools used in real estate. There are three case studies and two midterms. FNCE 1000 is required as the class assumes comfort with Corporate Finance concepts and terms. Fall or Spring Also Offered As: FNCE 2090 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is intended both as a foundational class for students considering a career in real estate as well as a survey class for students interested in finance who want to learn about the real estate sector."
+      ]
+    }
+  },
+  {
+    "coursename": "REAL 2150 Urban Real Estate Economics",
+    "courseid": "REAL 2150",
+    "coursedescription": "Urban Real Estate Economics uses economic concepts to analyze real estate markets, values, and trends. The course focuses on market dynamics in the U.S. and internationally, with an emphasis on how urban growth and local and federal government policies impact urban development and real estate pricing. A group development project gives hands on experience, and invited guest speakers bring industry knowledge. Besides the group project and presentation, problem sets are required along with a midterm and optional second exam. Lecture with discussion required. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 2300 Urban Fiscal Policy",
+    "courseid": "REAL 2300",
+    "coursedescription": "This course will examine the provision of public services for firms and people through cities and other local governments. Why cities exist, when fiscal policy fails, investments in infrastructure, how to improve school quality, realities of local governments such as inequality, crime, corruption, high cost of living, congestion, and unfunded pensions will be covered. We will pay special attention to recent topics, such as the impact of the Covid-19 pandemic on city and public school finances, racial differences in police use of force, partnerships with the private sector, enterprise zones, the role of technology, and real estate policies that may (or may not!) promote housing affordability, such as inclusionary zoning and rent control. Fall Also Offered As: BEPP 2300 , FNCE 2300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 2360 International Housing Comparisons",
+    "courseid": "REAL 2360",
+    "coursedescription": "This course analyzes housing finance systems and housing market outcomes across the globe. In the US, the course focuses on the development of securitization markets and addresses the current challenges of housing finance reform, including the future of Fannie Mae and Freddie Mac. Internationally, the course covers issues of access to housing and housing informality in developing countries, financial crises arising out of the housing sector, and market-oriented and public policy solutions. The course features a wide array of speakers in finance, government and academia who contribute their perspectives to pressing issues of mortgage market design. REAL 2360 can be counted toward the Wharton Undergraduate Global Economy, Business, and Society (GEBS) requirement. Spring Also Offered As: BEPP 2360 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 2400 Advanced Real Estate Investment and Analysis",
+    "courseid": "REAL 2400",
+    "coursedescription": "This course is designed for majors in Real Estate, but is also open to finance-oriented students who wish a deeper analysis of real estate investment and investment analysis issues than that offered in REAL 209. The class will contain a mixture of lectures, guest speakers and case discussions. Academic research is paired with recent industry analysis of key issues in order to marry sound theory and empirical results with current events and practices. Several classes will include lectures outlining what economics and finance tell us about a number of topics. Generally, these will be followed by guest lectures from industry professionals who will focus on a specific application of the principles introduced in the lectures. Spring Mutually Exclusive: REAL 8400 Prerequisite: REAL 2090 OR FNCE 2090 1 Course Unit",
+    "course-prerequsities": [
+      "REAL 2090",
+      "FNCE 2090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 3210 Real Estate Development",
+    "courseid": "REAL 3210",
+    "coursedescription": "This course evaluates \"ground-up\" development as well as re-hab, re-development, and acquisition investments. We examine raw and developed land and the similarities and differences of traditional real estate product types including office, R & D, retail, warehouses, single family and multi-family residential, mixed use, and land as well as \"specialty\" uses like golf courses, assisted living, and fractional share ownership. Emphasis is on concise analysis and decision making. We discuss the development process with topics including market analysis, site acquisition, due diligence, zoning, entitlements, approvals, site planning, building design, construction, financing, leasing, and ongoing management and disposition. Special topics like workouts and running a development company are also discussed. Course lessons apply to all markets, but the class discusses U.S. markets only. Throughout the course, we focus on risk management and leadership issues. Numerous guest lecturers who are leaders in the real estate industry participate in the learning process. Format: predominately case analysis and discussion, some lectures. Mutually Exclusive: REAL 8210 Prerequisite: REAL 2090 OR FNCE 2090 1 Course Unit",
+    "course-prerequsities": [
+      "REAL 2090",
+      "FNCE 2090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 3700 Real Estate Data Analytics",
+    "courseid": "REAL 3700",
+    "coursedescription": "In real estate investment, data is used in a variety of ways to inform decision-making. The purpose of this course is to gain familiarity with analytical tools and techniques as they relate to guiding investment in primary real estate markets and capital markets. Students will learn statistical methods, data manipulation, data visualization, and apply business analytics tools to data on properties, mortgages, and macroeconomic indicators. A series of guest speakers will demonstrate how analytics is used in the industry, and the strengths and limitations of using data to guide investment decisions. The course will use data analytics to connect economics and finance concepts with real-world applications. The course will primarily use the R software package, but relevant materials will be provided and no prior coding experience is necessary. REAL 3700 can be counted toward the Wharton Undergraduate Technology, Innovation and Analytics (TIA) requirement. Spring Prerequisite: STAT 1010",
+    "course-prerequsities": [
+      "STAT 1010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "REAL 3750 Real Estate Disruptions",
+    "courseid": "REAL 3750",
+    "coursedescription": "In the years before Covid, real Estate started to change dramatically for the first time in perhaps one hundred years. Covid and its aftermath led to further disruptions. This class will examine how technology is changing in many facets (all) of the industry. This course will address how technology has already changed the demand for real estate and how it will likely change how real estate is used, designed, developed, constructed, managed, leased, maintained, and financed. Among many questions to be considered: Can you crowd-fund real estate development? Will the office business become a part of hospitality? Can we build new buildings like we assemble legos? How will autonomous vehicles affect the demand for space and property values? What is the future of new data analytics services? What are the effects of working from home on cities and various real estate asset classes? This team-taught course will bring together a recognized industry leader and Wharton faculty. Includes a broad set of guest lecturers (Start-up entrepreneurs, incumbents, non-RE technology specialists, etc.). We believe there is no single approach to gaining insight into disruptions and change under uncertainty, so we will propose a mix of approaches, including in-depth case studies, interactions with guest lecturers who handle those issues daily, learning from economic history and other industries, and drawing from core economic concepts. REAL 3750 can be counted toward the Wharton Undergraduate Technology, Innovation and Analytics (TIA) requirement. Fall Mutually Exclusive: REAL 8750 Prerequisite: REAL 2090 OR FNCE 2090 1 Course Unit",
+    "course-prerequsities": [
+      "REAL 2090",
+      "FNCE 2090"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 3960 Real Estate Entrepreneurship",
+    "courseid": "REAL 3960",
+    "coursedescription": "This half-semester course focuses on the entrepreneurial aspects of the real estate investment business. The course structure is designed to track the life cycle of real estate investing with different units focusing on discrete stages of the deal process from sourcing, financing, and capital raising through asset management and property disposition. At each juncture, granular attention is paid to real-life deal making skills, all from the perspective of an entrepreneur operating with limited resources in different economic environments. As part of the class, students will analyze deals, models and investment documentation that, once assembled and retained, will arm them with a comprehensive \"deal tool kit\" that they can continuously reference as they engage in real estate transactions throughout their career. At the end of the course, time will be allocated to discuss the trajectory of entrepreneurship and how it corresponds to careers in the real estate business. Fall or Spring Mutually Exclusive: REAL 8910 Prerequisite: FNCE 1000",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "REAL 3990 Independent Study",
+    "courseid": "REAL 3990",
+    "coursedescription": "All independent studies must be arranged and approved by a Real Estate department faculty member. Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 7050 Global Real Estate: Risk, Politics and Culture",
+    "courseid": "REAL 7050",
+    "coursedescription": "This is an introductory course on real estate markets around the world. The goal of the course is to help students develop a global mindset by introducing and applying the basics of real estate valuation and risk management to a wide range of global contexts. The course emphasizes topics students will need to understand cross-border real estate strategies, including currency risk, political risk, rule of law, property rights, and culture. We will discuss relevant current events and use them to characterize risks facing real estate investors. The course largely covers markets outside the United States, except when it is useful to compare with the U.S. or for occasional special topics. We will focus more on the qualitative aspects of real estate investment analysis and less on the quantitative aspects. This is a full-semester course, cross-listed for MBA’s and undergraduates. Fall Mutually Exclusive: REAL 2050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 7080 Housing Markets",
+    "courseid": "REAL 7080",
+    "coursedescription": "This course is designed for students interested in the economics and operations of housing markets. It is primarily a U.S.-focused course. The class is divided into five sections: (1) economic analysis of housing market fundamentals (supply and demand); (2) a policy analysis section on housing affordability issues in the U.S.; (3) operations of homebuilders and rental landlords, as well as the single family rental sector; this section includes a series of guest lecturers from industry executives; (4) the nature of housing cycles; and (5) a discussion of factors that have affected the evolution of housing markets over the long run. This course presumes knowledge of intermediate microeconomics. For Wharton students, this means you must have passed MGEC 6110. Non-Wharton students should have taken the equivalent course in the College. The class is primarily lecture based, although we will have one flipped class, as well as a number of guest lecturers from industry. There are two in-class midterms and two assignments. Spring Also Offered As: BEPP 7080 Prerequisite: BEPP 6110 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is designed for students interested in the economics and operations of housing markets."
+      ]
+    }
+  },
+  {
+    "coursename": "REAL 7210 Real Estate Investment: Analysis and Financing",
+    "courseid": "REAL 7210",
+    "coursedescription": "This course provides an introduction to real estate investing with a focus on financial and economic analysis. It is intended both as a foundational class for students considering a career in real estate as well as a survey class for students interested in finance who want to learn about the real estate sector. Project evaluation, financing strategies, risk assessment, investment decision making, and real estate capital markets are covered. No prior knowledge of the industry is required, but students will rapidly acquire a working knowledge of real estate markets and will quickly develop the quantitative tools to help them make investment decisions. Classes are conducted in a standard lecture format with discussion required. The course contains cases that help students evaluate the impact of more complex financing and capital markets tools used in real estate. There are three case studies and two midterms. FNCE 6110 is required as the class assumes comfort with Corporate Finance concepts and terms. Fall or Spring Also Offered As: FNCE 7210 Prerequisite: FNCE 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is intended both as a foundational class for students considering a career in real estate as well as a survey class for students interested in finance who want to learn about the real estate sector."
+      ]
+    }
+  },
+  {
+    "coursename": "REAL 7240 Urban Real Estate Economics",
+    "courseid": "REAL 7240",
+    "coursedescription": "Urban Real Estate Economics uses economic concepts to analyze real estate markets, values, and trends. The course focuses on market dynamics in the U.S. and internationally, with an emphasis on how urban growth and local and federal government policies impact urban development and real estate pricing. A group development project gives hands on experience, and invited guest speakers bring industry knowledge. Besides the group project and presentation, problem sets are required along with a midterm and optional second exam. Lecture with discussion required. Fall or Spring Also Offered As: REAL 9450 Prerequisites: BEPP 6110 and BEPP 6120 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 6110",
+      "BEPP 6120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 7300 Urban Fiscal Policy",
+    "courseid": "REAL 7300",
+    "coursedescription": "This course will examine the provision of public services for firms and people through cities and other local governments. Why cities exist, when fiscal policy fails, investments in infrastructure, how to improve school quality, realities of local governments such as inequality, crime, corruption, high cost of living, congestion, and unfunded pensions will be covered. We will pay special attention to recent topics, such as the impact of the Covid-19 pandemic on city and public school finances, racial differences in police use of force, partnerships with the private sector, enterprise zones, the role of technology, and real estate policies that may (or may not!) promote housing affordability, such as inclusionary zoning and rent control. Fall Also Offered As: BEPP 7730 , FNCE 7300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 8040 Real Estate Law",
+    "courseid": "REAL 8040",
+    "coursedescription": "This course examines the fundamentals of real estate finance and development from a legal and managerial perspective. The course serves as a foundation course for real estate majors and provides an introduction to real estate for other students. It attempts to develop skills in using legal concepts in a real estate transactional setting. The course will be of interest to students contemplating careers in accounting, real estate development, real estate finance, city planning, or banking. The main topics covered may include the following: land acquisition, finance; choice of entity; tax aspects; management (leasing, environmental); disposition of real property (sale of mortgaged property, foreclosures, wraparound mortgages, sale-leasebacks); and recent legal developments. Lectures and class discussion required. Fall or Spring Also Offered As: LGST 8040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course will be of interest to students contemplating careers in accounting, real estate development, real estate finance, city planning, or banking."
+      ]
+    }
+  },
+  {
+    "coursename": "REAL 8210 Real Estate Development",
+    "courseid": "REAL 8210",
+    "coursedescription": "This course evaluates \"ground-up\" development as well as re-hab, re-development, and acquisition investments. We examine raw and developed land and the similarities and differences of traditional real estate product types including office, R & D, retail, warehouses, single family and multi-family residential, mixed use, and land as well as \"specialty\" uses like golf courses, assisted living, and fractional share ownership. Emphasis is on concise analysis and decision making. We discuss the development process with topics including market analysis, site acquisition, due diligence, zoning, entitlements, approvals, site planning, building design, construction, financing, leasing, and ongoing management and disposition. Special topics like workouts and running a development company are also discussed. Course lessons apply to all markets, but the class discusses U.S. markets only. Throughout the course, we focus on risk management and leadership issues. Numerous guest lecturers who are leaders in the real estate industry participate in the learning process. Format: predominately case analysis and discussion, some lectures. Also Offered As: ARCH 7680 Mutually Exclusive: REAL 3210 Prerequisite: REAL 7210 OR FNCE 7210 1 Course Unit",
+    "course-prerequsities": [
+      "REAL 7210",
+      "FNCE 7210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 8360 International Housing Comparisons",
+    "courseid": "REAL 8360",
+    "coursedescription": "This course analyzes housing finance systems and housing market outcomes across the globe. In the US, the course focuses on the development of securitization markets and addresses the current challenges of housing finance reform, including the future of Fannie Mae and Freddie Mac. Internationally, the course covers issues of access to housing and housing informality in developing countries, financial crises arising out of the housing sector, and market-oriented and public policy solutions. The course features a wide array of speakers in finance, government and academia who contribute their perspectives to pressing issues of mortgage market design. Spring Also Offered As: BEPP 8360 Prerequisite: FNCE 6130 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 8400 Advanced Real Estate Investment and Analysis",
+    "courseid": "REAL 8400",
+    "coursedescription": "This course, is designed for majors in Real Estate, but is also open to finance-oriented students who wish a deeper analysis of real estate investment and investment analysis issues than that offered in REAL/FNCE 721. The class will contain a mixture of lectures, guest speakers and case discussions. Academic research is paired with recent industry analysis of key issues in order to marry sound theory and empirical results with current events and practices. Several classes will include lectures outlining what economics and finance tell us about a number of topics. Generally, these will be followed by guest lectures from industry professionals who will focus on a specific application of the principles introduced in the lectures. Format: Lecture, industry speakers. Spring Mutually Exclusive: REAL 2400 Prerequisite: REAL 7210 OR FNCE 7210 1 Course Unit",
+    "course-prerequsities": [
+      "REAL 7210",
+      "FNCE 7210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 8700 Real Estate Data Analytics",
+    "courseid": "REAL 8700",
+    "coursedescription": "In real estate investment, data is used in a variety of ways to inform decision-making. The purpose of this course is to gain familiarity with analytical tools and techniques as they relate to guiding investment in primary real estate markets and capital markets. Students will learn statistical methods, data manipulation, data visualization, and apply business analytics tools to data on properties, mortgages, and macroeconomic indicators. A series of guest speakers will demonstrate how analytics is used in the industry, and the strengths and limitations of using data to guide investment decisions. The course will use data analytics to connect economics and finance concepts with real-world applications. The course will use the R software package, but relevant materials will be provided and no prior coding experience is necessary. Spring Prerequisite: STAT 6130",
+    "course-prerequsities": [
+      "STAT 6130"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "REAL 8750 Real Estate Disruptions",
+    "courseid": "REAL 8750",
+    "coursedescription": "In the years before Covid, real Estate started to change dramatically for the first time in perhaps one hundred years. Covid and its aftermath led to further disruptions. This class will examine how technology is changing in many facets (all) of the industry. This course will address how technology has already changed the demand for real estate and how it will likely change how real estate is used, designed, developed, constructed, managed, leased, maintained, and financed. Among many questions to be considered: Can you crowd-fund real estate development? Will the office business become a part of hospitality? Can we build new buildings like we assemble legos? How will autonomous vehicles affect the demand for space and property values? What is the future of new data analytics services? What are the effects of working from home on cities and various real estate asset classes? This team-taught course will bring together a recognized industry leader and Wharton faculty. Includes a broad set of guest lecturers (Start-up entrepreneurs, incumbents, non-RE technology specialists, etc.). We believe there is no single approach to gaining insight into disruptions and change under uncertainty, so we will propose a mix of approaches, including in-depth case studies, interactions with guest lecturers who handle those issues daily, learning from economic history and other industries, and drawing from core economic concepts. Fall Mutually Exclusive: REAL 3750 Prerequisite: REAL 7210 OR FNCE 7210 1 Course Unit",
+    "course-prerequsities": [
+      "REAL 7210",
+      "FNCE 7210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 8910 Real Estate Entrepreneurship",
+    "courseid": "REAL 8910",
+    "coursedescription": "This half-semester course focuses on the entrepreneurial aspects of the real estate investment business. The course structure is designed to track the life cycle of real estate investing with different units focusing on discrete stages of the deal process from sourcing, financing, and capital raising through asset management and property disposition. At each juncture, granular attention is paid to real-life deal making skills, all from the perspective of an entrepreneur operating with limited resources in different economic environments. As part of the class, students will analyze deals, models and investment documentation that, once assembled and retained, will arm them with a comprehensive \"deal tool kit\" that they can continuously reference as they engage in real estate transactions throughout their career. At the end of the course, time will be allocated to discuss the trajectory of entrepreneurship and how it corresponds to careers in the real estate business. Fall Mutually Exclusive: REAL 3960 Prerequisite: FNCE 6110",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "REAL 8990 Independent Study",
+    "courseid": "REAL 8990",
+    "coursedescription": "All independent studies must be arranged and approved by a Real Estate Department faculty member. Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 9000 Research Seminar",
+    "courseid": "REAL 9000",
+    "coursedescription": "Of the many ways that doctoral students typically learn how to do research, two that are important are watching others give seminar presentations (as in Applied Economics Seminars) and presenting one's own research. The BEPP 9000 course provides a venue for the latter. Wharton doctoral students enrolled in this course present applied economics research. Presentations both of papers assigned for other classes and of research leading toward a dissertation are appropriate in BEPP 9000 . This course aims to help students further develop a hands-on understanding of the research process. All doctoral students with applied microeconomic interests are encouraged to attend and present. Second and third year Applied Economic Ph.D. students are required to enroll in BEPP 9000 and receive one-semester credit per year of participation. Two Term Class, Student may enter either term; credit given after both terms are complete Also Offered As: BEPP 9000",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "All doctoral students with applied microeconomic interests are encouraged to attend and present."
+      ]
+    }
+  },
+  {
+    "coursename": "REAL 9440 Quantitative Spatial Models for Urban Economics",
+    "courseid": "REAL 9440",
+    "coursedescription": "This course will cover quantitative spatial models (QSMs) as used in urban and real estate economics and related disciplines. We will critically explore QSMs both as tools for measurement and as economic frameworks for evaluating welfare and simulating counterfactuals of spatial economies. We will discuss approaches to QSM estimation, as well as data requirements, identifying assumptions, and the consequences thereof. The purpose of this course is to give students a broad understanding of QSMs and their common use cases, while providing a sense of the circumstances and assumptions under which these models permit credible analysis. We may explore applications of QSMs to a variety of economic topics: infrastructure, transit, congestion, land use, migration, path dependence, economic history, the geography of consumption, household economics, environmental economics, climate change. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "REAL 9450 Urban Real Estate Economics",
+    "courseid": "REAL 9450",
+    "coursedescription": "Urban Real Estate Economics uses economic concepts to analyze real estate markets, values, and trends. The course focuses on market dynamics in the U.S. and internationally, with an emphasis on how urban growth and local and federal government policies impact urban development and real estate pricing. A group development project gives hands on experience, and invited guest speakers bring industry knowledge. Besides the group project and presentation, problem sets are required along with a midterm and optional second exam. Lecture with discussion required. Fall or Spring Also Offered As: REAL 7240 Prerequisites: BEPP 6110 and BEPP 6120 1 Course Unit",
+    "course-prerequsities": [
+      "BEPP 6110",
+      "BEPP 6120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 9460 Advanced Topics in Urban Economics",
+    "courseid": "REAL 9460",
+    "coursedescription": "This course addresses advanced topics in urban and real estate economics. The course will mix theory and empirics and will cover a broad range of topics including the modeling and estimation of agglomeration economies, land use and urban costs, transportation in cities, urban growth, migration between cities etc. The classes will mix formal presentations made by the instructor and student-led discussions of recent academic papers. In addition to presentations, students will be expected to complete a series of assignments including a short original research paper. PhD students will be expected to complete a research paper in addition to the successful completion of the course examination requirements. Prerequisites: The course assumes that students have familiarity with standard first year econometrics and microeconomics. Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 0.5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 9470 Advanced Real Estate and Urban Economics",
+    "courseid": "REAL 9470",
+    "coursedescription": "This course covers fundamental topics in the broad fields of urban economics and real estate. We will focus on the application of econometric methods and economic modelling to analyze important issues, such as household sorting and valuation of local amenities, racial segregation, and the provision of local public goods. Not Offered Every Year 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 9480 Household Real Estate Decision-Making",
+    "courseid": "REAL 9480",
+    "coursedescription": "In this course we will study theory and evidence of how households make decisions surrounding real estate, how they interact with the financial sector, and how housing and mortgage choices influence urban markets and household balance sheets. We will examine real estate decisions from both supply and demand perspectives. There will be a special focus on the tools of modern empirical research, emphasizing the many challenges to causal identification and popular methodologies to overcome and address these challenges. The course will cover topics in mortgage choice, refinancing, renegotiation, default and foreclosure, discrimination, housing search, and market segmentation. Prerequisites: The course assumes that students have familiarity with standard first year econometrics and microeconomics. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "REAL 9490 Cities in Developing Countries",
+    "courseid": "REAL 9490",
+    "coursedescription": "In this course we will explore topics in urban economics applied to developing country settings. We will discuss the specificities of developing country urbanization, emphasizing institutional constraints, market imperfections, and key policy questions. We will also discuss methodological challenges arising when conducting research on developing country cities, such as data limitations, and the creative ways in which recent papers have addressed them. The goal is to give students an overview of the important questions in the field and of the cutting-edge tools employed in this growing literature. Some of the topics we will explore include: migration, slums, infrastructure and transit, land use, urban form, place-based policies, local public finance, and quantitative urban models. Not Offered Every Year",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "REAL 9620 Applied Economics Seminar",
+    "courseid": "REAL 9620",
+    "coursedescription": "The goal of this course is to help doctoral students develop critical thinking skills through both seminar participation and writing of referee reports. To this end, students will attend the Wharton Applied Economics seminar when it meets each Wednesday at noon; prepare two written referee reports on WAE papers per semester, due before the seminar is presented. After attending the seminar and the ensuing discussion of the paper, students will prepare follow-up evaluations of their referee reports, due one week after the seminar. Fall, Spring, and Summer Terms Also Offered As: BEPP 9620 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REAL 9950 Dissertation",
+    "courseid": "REAL 9950",
+    "coursedescription": "Dissertation Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "REAL 9999 Independent Study",
+    "courseid": "REAL 9999",
+    "coursedescription": "Independent Study Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

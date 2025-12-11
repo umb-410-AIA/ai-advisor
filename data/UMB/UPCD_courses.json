@@ -1,0 +1,137 @@
+[
+  {
+    "coursename": "Introduction to Environmental Health",
+    "courseid": "UPCD315L",
+    "coursedescription": "Course introduces students to physical, chemical, and biological hazards found in the environmental and health risks associated with workplace and community exposure to them. Risks to special populations and mechanisms of reducing or controlling these risks are discussed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Fundamentals of Housing",
+    "courseid": "UPCD321",
+    "coursedescription": "This course examines the institutional setting of housing in the United States with a focus on moderate and low-income communities. Using a combination of historical, sociological, financial, and political economy perspectives, students will examine the role and interdependence of institutional actors in housing development. These institutional actors include different levels of governments, private for-profit corporations, and nonprofit organizations. Students will learn the approaches undertaken by different configuration of these institutional actors to address housing issues in a variety of political, economic, and social contexts. Finally, students will examine various housing issues (affordability, discrimination, gentrification, homelessness) and attempts to address these issues, paying particular attention to the ways that these issues differentially impact groups across lines of race, ethnicity, and socio-economic status.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Planning and Land Use Law",
+    "courseid": "UPCD340L",
+    "coursedescription": "A study of the law as it has developed and applies to the planning process and the regulation of land use in the United States, with emphasis on Massachusetts.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Environmental Justice",
+    "courseid": "UPCD364L",
+    "coursedescription": "Environmental justice is defined by the state of Massachusetts as the equal protection and meaningful involvement of all people with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies and the equitable distribution of environmental benefits. This course provides an overview of environmental justice as an aspect of U.S. environmental policy. The goal of the course is to give students the ability to develop and articulate informed opinions about environmental justice, to understand how the concept came into use, and to think critically about measuring and solving environmental justice problems. The course uses written assignments, case studies, and role-playing exercises to help students develop the analytical skills necessary to tackle this topic.ENVSTY 364L and UPCD 364L are the same course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Community Development",
+    "courseid": "UPCD457",
+    "coursedescription": "The internship requires a total of 135 hours with a minimum of 100 hours of service doing community development work with government, non-government, corporate, or other organizations. Most internships are found by students or faculty, but the program may assist students in finding appropriate internship placements. Each internship must be approved by the undergraduate program prior to signing up for credit by filling out the appropriate forms. Students are expected to conduct a series of assignments during the internship. Students will do a workplace culture assessment, will conduct a work culture interview, will keep a daily journal, will write a final reflective report, and will be evaluated at mid-term and at the end of the internship.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Capstone in Community Development",
+    "courseid": "UPCD459",
+    "coursedescription": "The Capstone is the culminating research project in the Community Economic Development curriculum. It entails developing a substantive project that draws from the knowledge and skills accumulated through the UMB experience. During the course of studies in Community Development students have been exposed to an array of concepts, ideas, issues, and challenges impacting human communities across the US and globally. The capstone provides the opportunity to pursue an in-depth analysis of a topic chosen by the students. It requires students to sharpen their ability to assess different frameworks and approaches to a community economic development issue, formulate relevant questions, develop a coherent position, and be able to explain their knowledge to others.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study in Community Development",
+    "courseid": "UPCD478",
+    "coursedescription": "Research or reading in a selected area of community development, guided by a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors in Community Development",
+    "courseid": "UPCD498",
+    "coursedescription": "This is an honors capstone research course with the ultimate goal being the production of an honors thesis/paper consistent with the field of community development in which students must have a 3.3 or higher GPA in their Community Development major. This capstone honors project must be integrative of the content, skills and perspectives developed in the curriculum of the major, demonstrating a high level of competency consistent with the honors designation. Prior to enrolling in this course, students must develop, in consultation with his/her faculty research sponsor, an appropriate integrative project proposal that is approved by the Undergraduate Program Director.",
+    "course-prerequsities": [
+      "3.3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Analytic Methods for Urban Planning and Community Development",
+    "courseid": "UPCD620",
+    "coursedescription": "This course provides students with an introduction to quantitative and qualitative analytic methods appropriate to propose, support and evaluate localized and regional initiatives in planning and community development. Technical skills associated with these methods will be taught with a focus on the needs of community-based organizations which typically have limited time, human, financial and technical resources to perform detailed analyses in support of their programs and initiatives.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Geographic Information Systems",
+    "courseid": "UPCD623L",
+    "coursedescription": "This course teaches the concepts, principles, approaches, techniques, and technologies of geographic information systems (GIS)The specific topics include essential elements of a GIS, hardware requirements and system integration, technologies and techniques for acquiring spatial data, spatial data models, data structures, data formats, database models, spatial analysis and modeling, cartographic design, implementation of a GIS, and environmental and socioeconomic applications. Hands-on exercises on ArcView are assigned each week.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Land Use Controls",
+    "courseid": "UPCD631",
+    "coursedescription": "The course provides an understanding of the regulatory and non-regulatory techniques for managing land use in the U.S. The course begins with an overview of the history and evolution of the policy and the planning and legal frameworks for land use controls. The essential components of municipal zoning ordinance and maps are covered along with more innovative and flexible development controls. The course exposes students to the administrative procedures and the land development process. Specific contemporary urban planning topics and the associated regulatory mechanisms and issues are presented as case studies.",
+    "course-prerequsities": [
+      "UPCD 600",
+      "UPCD 620"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Environmental Planning and Impact Assessment",
+    "courseid": "UPCD667",
+    "coursedescription": "Environmental impact evaluation is a vital component of any planning effort. This course surveys major areas of government involvement in environmental and socio-economic impact assessment as it related to planning including: National Environment Policy Act (NEPA); State environmental policy acts (SEPAs); Municipal and regional planning authorities; Wildlife and land conservation laws; and, Environmental media laws (e.g., Clean Water Act, Clean Air Act, etc.). In doing so, the course provides an overview on how an environmental impact assessment can/must be developed in light of important public policies. The course also examines the legal 'standing' and political voice employed by stakeholder groups in planning and impact assessment activities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "UPCD697",
+    "coursedescription": "Special Topics in Urban Planning & Community Development",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Housing and Community Development Finance",
+    "courseid": "UPCD730",
+    "coursedescription": "This course will introduce students to the structure and organization of the capital markets and state and federal programs available to fund the establishment and expansion of business enterprises in underserved urban and rural programs. The course exposes students to the basic economic and financial analyses needed to secure funding for the construction and/or rehabilitation of buildings to house community-serving business and affordable housing programs. The course exposes students to the basics of managerial accounting needed to document compliance with public and private financing of community economic development projects.This course is the last of three required classes for students enrolled in UPCD's Housing and Community Development Finance Concentration. It has been designed to provide graduate students with an introduction to the capital markets, government programs, and philanthropic initiatives currently available to finance community development and affordable housing programs in underserved urban and rural communities.",
+    "course-prerequsities": [
+      "ECON 613",
+      "UPCD 730"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Professional Planning Report II",
+    "courseid": "UPCD753",
+    "coursedescription": "This course is the second part of a two-course sequence that serves as an alternative capstone option for students enrolled in the MS in Urban Planning and Community Development Program. This class offers students the opportunity to work with representatives of a non-profit and/or public planning and development agency to produce an empirically based report offering workable solutions to a critical environmental, economic, and social problem facing a local community within the Greater Boston Region. This collaborative research project will offer \"best practice\" planning/policy solutions to a pressing urban problem based upon careful analysis of a wide range of quantitative and qualitative research. The course will culminate in the student's production of a professional-quality planning report that is presented to and accepted by the community-based organization and or municipal agency that is the sponsor of the project. It requires students to integrate and apply planning theory, methods, and techniques they have acquired through their participation in the program to solve a challenging urban problem confronting a local community within the Greater Boston Region.",
+    "course-prerequsities": [
+      "UPCD 600",
+      "UPCD 626",
+      "UPCD 620",
+      "UPCD 631",
+      "UPCD 625",
+      "UPCD 752"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

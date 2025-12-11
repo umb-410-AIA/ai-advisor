@@ -1,0 +1,363 @@
+[
+  {
+    "coursename": "* EVST 0020a, Sustainable Development in Haiti Gordon Geballe",
+    "courseid": "EVST 0020a",
+    "coursedescription": "The principles and practice of sustainable development explored in the context of Haiti's rich history and culture, as well as its current environmental and economic impoverishment. Enrollment limited to first-year students. WR TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* EVST 0040a / EEB 0040, Collections of the Peabody Museum Erika Edwards",
+    "courseid": "EVST 0040a",
+    "coursedescription": "Exploration of scientific questions through the study and analysis of objects within the Peabody Museum's collections. Formulating a research question and carrying out a project that addresses it are the core activities of the course. Enrollment limited to first-year students. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* EVST 0060b, Topics in Environmental Justice Michael Fotos",
+    "courseid": "EVST 0060b",
+    "coursedescription": "This seminar introduces students to key concepts in environmental justice and to a selection of cases representing a wide range of environmental dilemmas. Course readings and discussions impart awareness of the diverse contexts in which problems of environmental justice might be studied, whether historical, geographic, racial, social, economic, political, biological, geophysical, or epistemic. Enrollment limited to first-year students. WR , SO TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* EVST 0080b and EVST 1000b / APHY 0800b and APHY 1000b / ENAS 0800b / EPS 0800b / PHYS 0800b and PHYS 1000b, Energy, Environment, and Public Policy Daniel Prober",
+    "courseid": "EVST 0080b",
+    "coursedescription": "The technology and use of energy. Impacts on the environment, climate, security, and economy. Application of scientific reasoning and quantitative analysis. Intended for non–science majors with strong backgrounds in math and science. Tours are be conducted of major examples of good energy design at Yale, including the Yale Power Plant and Kroon Hall. Students who take this course are not eligible to take APHY 100. Prerequisites: High school chemistry, physics, and Math. Calculus is not required. Enrollment limited to first-year students. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "EVST 1120a / AMST 1120a / HIST 1120a / HSHM 2040a, American Environmental History Staff",
+    "courseid": "EVST 1120a",
+    "coursedescription": "Ways in which people have shaped and been shaped by the changing environments of North America from the nineteenth century to the present. Migration of species and trade in commodities; the impact of technology, agriculture, and industry; the development of resources in the American West and overseas; the conservation and environmental movements; planning and the impact of public policies; automobiles, highways, and urban growth; toxic chemicals, radiation, and environmental justice; climate change and energy transitions. WR , HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EVST 1144a / EDST 1144a / EDST 144 / ER&M 2511a / EVST 144 / SOCY 1700a, Race, Ethnicity, and Immigration Staff",
+    "courseid": "EVST 1144a",
+    "coursedescription": "Exploration of sociological studies and theoretical and empirical analyses of race, ethnicity, and immigration, with focus on race relations and racial and ethnic differences in outcomes in contemporary U.S. society (post-1960s). Study of the patterns of educational and labor market outcomes, incarceration, and family formation of whites, blacks (African Americans), Hispanics, and Asian Americans in the United States, as well as immigration patterns and how they affect race and ethnic relations. SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EVST 2000b / ARCH 2000b / URBN 2000b, Scales of Design Bimal Mendis",
+    "courseid": "EVST 2000b",
+    "coursedescription": "Exploration of architecture and urbanism at multiple scales from the human to the world. Consideration of how design influences and shapes the material and conceptual spheres through four distinct subjects: the human, the building, the city, and the world. Examination of the role of architects, as designers, in constructing and shaping the inhabited and urban world. Lectures, readings, reviews and four assignments that address the spatial and visual ramifications of design.Not open to first-year students. Required for all Architecture majors. HU Th 11:35am-1:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EVST 2090b / HIST 1765b / HSHM 2090b, Making Climate Knowledge Deborah Coen",
+    "courseid": "EVST 2090b",
+    "coursedescription": "This is a course about how humans have come to know what we know about our impacts on the earth’s climate and our vulnerability to climate change. When did humans first know that their actions, in the aggregate, could transform the planet? Did scientists bear responsibility to warn of these consequences? In what ways has the modern science of climate both appropriated and undermined traditional and indigenous forms of climate knowledge? Students learn to work with the methods of history of science: we analyze science as a social and material process bound to the cultural and epistemological particularities of its historical context, and we examine the political dimensions of historical narratives about the emergence of the theory of global warming. Via hands-on experience with Yale’s historical collections, students learn to analyze maps, artifacts, and instruments as historical sources. They also gain familiarity with the methods of environmental history, learning to attend to historical evidence of shifting relationships between humans and non-humans. Finally, students become more attuned to the evidence of climate change around them and more confident in their ability to make climate knowledge for themselves. HU TTh 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EVST 2200a / EEB 2220a, General Ecology Staff",
+    "courseid": "EVST 2200a",
+    "coursedescription": "The theory and practice of ecology, including the ecology of individuals, population dynamics and regulation, community structure, ecosystem function, and ecological interactions at broad spatial and temporal scales. Topics such as climate change, fisheries management, and infectious diseases are placed in an ecological context. Prerequisite: MATH 112 or equivalent. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "MATH 112",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 2228a / CPLT 3450a / HIST 1759a / HUMS 2228a, Climate Change and the Humanities Katja Lindskog",
+    "courseid": "EVST 2228a",
+    "coursedescription": "What can the Humanities tell us about climate change? The Humanities help us to better understand the relationship between everyday individual experience, and our rapidly changing natural world. To that end, students read literary, political, historical, and religious texts to better understand how individuals both depend on, and struggle against, the natural environment in order to survive. HU MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 2232a / SPAN 2155a, Ecological Mindfulness: Poetics and Praxis in the Spanish-Speaking World Sarah Glenski",
+    "courseid": "EVST 2232a",
+    "coursedescription": "What is our relationship with nature? What constitutes ecological mindfulness? Does the practice of ecological mindfulness constitute a poetics? Is art a form of ecological mindfulness? These are some of the questions that we consider as we examine the concept of ecological mindfulness as an intersection of poetics and praxis. Throughout the semester, we explore a wide array of artistic expressions (essays, short stories, sound, poetry, photography, painting, etc.), which allows us to both appreciate and interrogate the many ways in which interactions with nature are depicted and performed in different Hispanophone cultures. Our analysis of these texts is complemented by carrying out and reflecting upon our own practice of ecological mindfulness. This course is taught in Spanish. Prerequisite: SPAN 140, or SPAN 142, or SPAN 145, or equivalent L5 , HU MW 9am-10:15am",
+    "course-prerequsities": [
+      "SPAN 140",
+      "SPAN 142",
+      "SPAN 145",
+      "L5",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 2234La, Field Science: Environment and Sustainability Kealoha Freidenburg",
+    "courseid": "EVST 2234La",
+    "coursedescription": "A field course that explores the effects of human influences on the environment. Analysis of pattern and process in forested ecosystems; introduction to the principles of agroecology, including visits to local farms; evaluation of sustainability within an urban environment. Weekly field trips and one weekend field trip. SC T 1pm-2:15pm, Th 1pm-5pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Analysis of pattern and process in forested ecosystems; introduction to the principles of agroecology, including visits to local farms; evaluation of sustainability within an urban environment."
+      ]
+    }
+  },
+  {
+    "coursename": "* EVST 2290b / URBN 3307b, Geographic Information Systems Jill Kelly",
+    "courseid": "EVST 2290b",
+    "coursedescription": "A practical introduction to the nature and use of geographic information systems (GIS) in environmental science and management. Applied techniques for the acquisition, creation, storage, management, visualization, transformation, analysis, and synthesis of cartographic data in digital form. T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 2299b, Sustainable Development Goals and Implementation Gordon Geballe",
+    "courseid": "EVST 2299b",
+    "coursedescription": "Students develop an understanding of the United Nation’s Sustainable Development Goals (SDGs), and focus on how to manage projects that implement the SDGs. Students develop an understanding of the global sustainability agenda, studying each SDG in detail. Students explore and acquire practical project management skills. The course also taps into the expertise and experience of professors and staff from various disciplines and schools, as well as practitioners directly from the field. TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 3212a / EP&E 4390a / PLSC 3217a, Democracy and Sustainability Michael Fotos",
+    "courseid": "EVST 3212a",
+    "coursedescription": "Democracy, liberty, and the sustainable use of natural resources. Concepts include institutional analysis, democratic consent, property rights, market failure, and common pool resources. Topics of policy substance are related to human use of the environment and to U.S. and global political institutions. WR , SO Th 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Concepts include institutional analysis, democratic consent, property rights, market failure, and common pool resources."
+      ]
+    }
+  },
+  {
+    "coursename": "* EVST 3224b / ENGL 3467b / ENGL 418, Writing About The Environment Staff",
+    "courseid": "EVST 3224b",
+    "coursedescription": "Exploration of ways in which the environment and the natural world can be channeled for literary expression. Reading and discussion of essays, reportage, and book-length works, by scientists and non-scientists alike. Students learn how to create narrative tension while also conveying complex—sometimes highly technical—information; the role of the first person in this type of writing; and where the human environment ends and the non-human one begins. Previously ENGL 418 .. Admission by permission of the instructor only. Students interested in the course should email the instructor at alan.burdick@gmail.com with the following information: 1.) A few paragraphs describing your interest in taking the class. 2.) A non-academic writing sample that best represents you. WR T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Admission by permission of the instructor only.",
+        "Students interested in the course should email the instructor at alan.burdick@gmail.com with the following information: 1.) A few paragraphs describing your interest in taking the class."
+      ]
+    }
+  },
+  {
+    "coursename": "* EVST 3255a / PLSC 3220a, Environmental Law and Politics John Wargo",
+    "courseid": "EVST 3255a",
+    "coursedescription": "We explore relations among environmental quality, health, and law. We consider global-scale avoidable challenges such as: environmentally related human illness, climate instability, water depletion and contamination, food and agriculture, air pollution, energy, packaging, culinary globalization, and biodiversity loss. We evaluate the effectiveness of laws and regulations intended to reduce or prevent environmental and health damages. Additional laws considered include rights of secrecy, property, speech, worker protection, and freedom from discrimination. Comparisons among the US and EU legal standards and precautionary policies will also be examined. Ethical concerns of justice, equity, and transparency are prominent themes. SO T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 3303a, Environmental Data Visualization for Communication Simon Queenborough",
+    "courseid": "EVST 3303a",
+    "coursedescription": "Welcome to the Information Age. It is much easier to generate and access data than ever before. Yet, our ability to manage, analyze, understand, and communicate all this data is extremely limited. Visualization is a powerful means of enhancing our abilities to learn from data and to communicate results to others, especially when informed by insights into human behavior and social systems. Developing the quantitative skills necessary for analyzing data is important, but for addressing complex and often urgent environmental problems that involve diverse audiences: understanding how to effectively communicate with data is equally essential for researchers, policymakers, and the public alike. This course is for students who wish to gain an understanding of the principles, tools, and techniques needed to communicate effectively with data. Class topics include collecting, cleaning, and managing data, exploring and analyzing data, choosing and using chart types, formatting charts, human perception and biases, principles of design, and visual communication. We work with various software for managing data and creating charts, including data cleaning (OpenRefine), spreadsheets and charts (Excel, Sheets), presentation (Powerpoint, Slides), statistics and charts (base R, ggplot), charts (DataWrapper, Tableau), GIS (ArcGIS), and other tools to develop visualizations using diverse datasets. A basic understanding of descriptive statistics is expected. Programming or coding experience is not required. TTh 9am-10:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EVST 3307b, Organic Pollutants in the Environment Shimon Anisfeld",
+    "courseid": "EVST 3307b",
+    "coursedescription": "An overview of the pollution problems posed by toxic organic chemicals, including petroleum, pesticides, PCBs, dioxins, chlorinated solvents, PFAS, brominated compounds, and emerging contaminants. The course covers the processes governing the environmental fate of organic pollutants (e.g., bioconcentration, biodegradation, groundwater transport), as well as tools for the prevention and remediation of organic pollution. Theory is illustrated with a variety of case studies. Previous knowledge of organic chemistry is not required (but is welcome). SC HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 3308a, Sustainability Implementation: Change Management in Institutional Settings Sara Smiley Smith and Lindsay Crum",
+    "courseid": "EVST 3308a",
+    "coursedescription": "Yale’s formal sustainability efforts are nearing the two-decade mark, with the Office of Sustainability established in 2005, but the work to make the campus more sustainable has been going on far longer. From sending food scraps to pig farmers in the 1800’s, to responding to energy crises and crashes with infrastructure changes, to establishing early recycling programs in the 1980’s, the University’s work has deep roots, if not always the comprehensive impact some would desire. This course provides students with the opportunity to learn about this long history of effort to improve the University’s sustainability, and engage in the real act of change management in current efforts on campus. Exploring change management theory and learning from many on campus experts, students work in groups bringing a diversity of experiences and knowledge to the table to tackle real and wicked problems in our midst. In taking on these timely projects, students have the opportunity to tangibly impact Yale’s ongoing efforts to fully embrace sustainable operations while experiencing the friction, joy, disappointment, learning, and challenge that are all part of working to make real change happen in complex systems. Th 9am-11:50am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 3323a, Wetlands Ecology Conservation & Management Kealoha Freidenburg",
+    "courseid": "EVST 3323a",
+    "coursedescription": "Wetlands are ubiquitous. Collectively they cover 370,000 square miles in the United States and globally encompass more than 5 million square miles. Most points on a map are less than 1 km from the nearest wetland. Yet wetlands are nearly invisible to most people. In this course we explore wetlands in all of their dimensions, including the critical services they provide to other systems, the rich biodiversity they harbor, their impact on global climate, and the links by which they connect to other systems. Additionally, wetlands are lynchpin environments for scientific policy and regulation. The overarching aim of the course is to connect what we know about wetlands from a scientific perspective to the ways in which wetlands matter for people. SC TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Most points on a map are less than 1 km from the nearest wetland."
+      ]
+    }
+  },
+  {
+    "coursename": "EVST 3342La / EEB 3343La, Ecosystem Measurements for Conservation and Restoration Annise Dobson",
+    "courseid": "EVST 3342La",
+    "coursedescription": "This course familiarizes students with how ecology is used on the ground for conservation. It is structured in two parts: The first part of the class will be dedicated to active hands-on learning where students obtain formal training in broad range of field and lab methods and analyses used in ecological field research. Topics covered include carbon stock measurement, biodiversity assessment, utilization of digital conservation resources, experimental design, sampling methodology, and statistical analysis. The course includes intensive field exercises focused on forest measurements and soil analysis that ecologists use to understand ecosystem function. The second component of the course allows students to use these skills to design, conduct, analyze and present data in the form of a rapid ecological assessment or group research project on a local property of conservation importance. Prerequisites: BIOL 104 or instructor permission ½ Course cr T 12pm-4pm",
+    "course-prerequsities": [
+      "BIOL 104"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course includes intensive field exercises focused on forest measurements and soil analysis that ecologists use to understand ecosystem function.",
+        "Prerequisites: BIOL 104 or instructor permission ½ Course cr T 12pm-4pm"
+      ]
+    }
+  },
+  {
+    "coursename": "* EVST 3350a, Writing the World Verlyn Klinkenborg",
+    "courseid": "EVST 3350a",
+    "coursedescription": "This is a practical writing course meant to develop the student’s skills as a writer. But its real subject is perception and the writer’s authority—the relationship between what you notice in the world around you and what, culturally speaking, you are allowed to notice. What you write during the term is driven entirely by your own interest and attention. How you write is the question at hand. We explore the overlapping habitats of language—present and past—and the natural environment. And, to a lesser extent, we explore the character of persuasion in environmental themes. Every member of the class writes every week, and we all read what everyone writes every week. It makes no difference whether you are a would-be journalist, scientist, environmental advocate, or policy maker. The goal is to rework your writing and sharpen your perceptions, both sensory and intellectual. Enrollment limited to fifteen. WR T 2:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "What you write during the term is driven entirely by your own interest and attention.",
+        "Enrollment limited to fifteen."
+      ]
+    }
+  },
+  {
+    "coursename": "EVST 3394a, Climate Change: Simple, Serious, and Solvable Staff",
+    "courseid": "EVST 3394a",
+    "coursedescription": "Earth’s climate is determined by the balance of radiation inputs and outputs at planetary scale. Greenhouse gases produce a radiation imbalance that forces change. Basic physics and paleoclimate agree that modern changes are enormous. SERIOUS: Impacts of 21st Century climate change on weather, drought, fires, famines, and floods pose the greatest threat to ecosystems in millions of years and the worst threat to the global economy since the Black Death. Worse, the changes are essentially permanent. SOLVABLE: Rapid and complete decarbonization of the global energy system is feasible and affordable, but politically difficult. We consider economic, policy, and engineering solutions and finish by examine cultural narratives about solutions. SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 3396a or b, Independent Study: Environmental Studies Michael Fotos",
+    "courseid": "EVST 3396a",
+    "coursedescription": "Independent research under the direction of a Yale faculty member on a special topic in Environmental Studies not covered in other courses and not the focus of the senior essay. Permission of the director of undergraduate studies and of the instructor directing the research is required. A proposal approved by the instructor must be submitted to the director of undergraduate studies by the end of the second week of classes. The instructor meets with the student regularly, in person or remotely, typically for an hour a week, and the student writes a final paper or a series of short essays. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of the director of undergraduate studies and of the instructor directing the research is required."
+      ]
+    }
+  },
+  {
+    "coursename": "* EVST 3400b / EEB 2275b, Biological Oceanography Mary Beth Decker",
+    "courseid": "EVST 3400b",
+    "coursedescription": "Exploration of oceanic ecosystems and how these environments function as coupled physical/biological systems. Ocean currents and other physical processes determine where nutrients are available to support primary production and where organisms from plankton to top predators occur. Includes discussion of anthropogenic impacts, such as the effects of fishing and climate change on marine ecosystems. Enrollment limited to 35. SC MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to 35."
+      ]
+    }
+  },
+  {
+    "coursename": "EVST 3431b, The Physical Science of Climate Change Peter Raymond and Xuhui Lee",
+    "courseid": "EVST 3431b",
+    "coursedescription": "The course provides students with core knowledge on the processes controlling the earth's climate system. The first half of the class focuses on the four components of the earth climate system, providing a knowledge base on the atmospheric energy and water budgets and the roles of anthropogenic greenhouse gases, the oceans, land and cryosphere in altering these budgets. Students also learn how to run a climate GCM (general circulation model). The second half of the class focuses on impacts of climate change on a number of societal sectors including natural ecosystems, energy use, water resources, the food system and the built environment. SC HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 3639a, Food Systems and Climate Services J. Nicolas Hernandez-Aguilera",
+    "courseid": "EVST 3639a",
+    "coursedescription": "Amidst climate change, the need for sustainable solutions in agri-food systems has become increasingly urgent. This course takes an interdisciplinary approach, combining applied economics, management and information systems, policy analysis, and systems thinking to explore the complex interactions within food systems and identify potential solutions. Designed for students from diverse academic and professional backgrounds, the course welcomes those interested in sustainability, food systems, climate management, and policy at both global and community levels, with a particular emphasis on the Global South. TTh 10:30am-11:50am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Designed for students from diverse academic and professional backgrounds, the course welcomes those interested in sustainability, food systems, climate management, and policy at both global and community levels, with a particular emphasis on the Global South."
+      ]
+    }
+  },
+  {
+    "coursename": "EVST 3650b / MB&B 3650b, Biochemistry and Our Changing Climate Karla Neugebauer",
+    "courseid": "EVST 3650b",
+    "coursedescription": "Climate change is impacting how cells and organisms grow and reproduce. Imagine the ocean spiking a fever: cold-blooded organisms of all shapes, sizes and complexities struggle to survive when water temperatures go up 2-4 degrees. Some organisms adapt to extremes, while others cannot. Predicted and observed changes in temperature, pH and salt concentration do and will affect many parameters of the living world, from the kinetics of chemical reactions and cellular signaling pathways to the accumulation of unforeseen chemicals in the environment, the appearance and dispersal of new diseases, and the development of new foods. In this course, we approach climate change from the molecular point of view, identifying how cells and organisms – from microbes to plants and animals – respond to changing environmental conditions. To embrace the concept of “one health” for all life on the planet, this course leverages biochemistry, cell biology, molecular biophysics, and genetics to develop an understanding of the impact of climate change on the living world. We consider the foundational knowledge that biochemistry can bring to the table as we meet the challenge of climate change. Prerequisites: MB&B 300/301 or MB&B 200/MCDB 300 or permission of the instructor. Can be taken concurrently with MB&B 301. WR , SC 0 Course cr TTh 4pm-5:15pm",
+    "course-prerequsities": [
+      "B 300",
+      "B 200",
+      "MCDB 300",
+      "B 301",
+      "SC 0",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MB&B 300/301 or MB&B 200/MCDB 300 or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* EVST 4422a / ANTH 4809 / ER&M 3594a / F&ES 422 / GLBL 4394a, Climate and Society: Perspectives from the Social Sciences and Humanities Michael Dove",
+    "courseid": "EVST 4422a",
+    "coursedescription": "Discussion of the major currents of thought regarding climate and climate change; focusing on equity, collapse, folk knowledge, historic and contemporary visions, western and non-western perspectives, drawing on the social sciences and humanities. WR , SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 4450b, Carbon Containment Sinead Crotty and Dean Takahashi",
+    "courseid": "EVST 4450b",
+    "coursedescription": "As greenhouse gases (GHGs) accumulate in the atmosphere, it is increasingly important to deploy both emission reductions and carbon dioxide removal (CDR)—together termed ‘carbon containment.’ A wide range of carbon containment technologies are being worked on today, yet this relatively nascent field must overcome technical, logistical, ethical, and financial challenges before contributing to stabilize the climate at scale. In this course, we examine the need, scale, and timelines for carbon containment as expressed by international climate commitments and corporate climate goals. Then, we examine the scientific foundations for key carbon containment pathways including emission reductions of key short-lived climate pollutants (SLCPs) as well as CDR in biologic, geologic and engineered systems. Finally, we investigate the challenges facing these carbon containment approaches, including siting, commercialization, measuring, and communicating the costs and benefits of these approaches to different audiences. We discuss how carbon containment pathways affect environmental justice concerns and goals in different regions of the US and internationally. Over the course of the semester, students do an investigation of one carbon containment approach, culminating in a report describing key components of the science, economics, social license, and regulatory landscape, and ultimately, a pathway to scale. There are no prerequisites for this course, although familiarity with basic climate science, policy, carbon markets, and GHG emissions inventories is helpful. SC , SO HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 4469a / ENGL 4459a / MB&B 4590a, Writing about Science, Medicine, and the Environment Carl Zimmer",
+    "courseid": "EVST 4469a",
+    "coursedescription": "Advanced non-fiction workshop in which students write about science, medicine, and the environment for a broad public audience. Students read exemplary work, ranging from newspaper articles to book excerpts, to learn how to translate complex subjects into compelling prose. Admission by permission of the instructor only. Applicants should email the instructor at carl@carlzimmer.com with the following information: 1. One or two samples of nonacademic, nonfiction writing. (No fiction or scientific papers, please.) Indicate the course or publication, if any, for which you wrote each sample. 2. A note in which you briefly describe your background (including writing experience and courses) and explain why you’d like to take the course. Formerly ENGL 459. WR T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Admission by permission of the instructor only."
+      ]
+    }
+  },
+  {
+    "coursename": "* EVST 4630a / AMST 4463a / FILM 4550a / TDPS 4023a, Documentary Film Workshop Charles Musser",
+    "courseid": "EVST 4630a",
+    "coursedescription": "A yearlong workshop designed primarily for majors in Film and Media Studies or American Studies who are making documentaries as senior projects. Seniors in other majors admitted as space permits. RP W 3:30pm-6:20pm, T 7pm-9pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* EVST 4960a or b, Senior Research Project and Colloquium Staff",
+    "courseid": "EVST 4960a",
+    "coursedescription": "Independent research under the supervision of members of the faculty, resulting in a senior essay. Students meet with peers and faculty members regularly throughout the fall term to discuss the progress of their research. Projects should offer substantial opportunity for interdisciplinary work on environmental problems. Seniors in the BS track typically write a two semester senior essay by enrolling in EVST 496 and EVST 496. For the B.A. degree, students most often complete one term of EVST 496, in either the fall or spring semester of their senior year. Students writing the one-term essay in the BA track must also complete an additional advanced seminar in the environment. Two-term senior research projects in the BA track require the permission of the DUS. Single semester essays are permissible also for students completing a double major that involves writing a senior essay in another department or program with permission of the DUS and subject to Yale College academic regulations governing completion of two majors. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Two-term senior research projects in the BA track require the permission of the DUS.",
+        "Single semester essays are permissible also for students completing a double major that involves writing a senior essay in another department or program with permission of the DUS and subject to Yale College academic regulations governing completion of two majors."
+      ]
+    }
+  }
+]

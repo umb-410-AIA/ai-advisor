@@ -1,0 +1,78 @@
+[
+  {
+    "coursename": "Understanding Dance",
+    "courseid": "DANCE130",
+    "coursedescription": "This lecture course focuses on the study of Modern Dance in America and the history and development of this genre throughout the years. Students will examine the different viewpoints of what dance is, or should be, from the pioneers who helped create and shape the genre. Students will be introduced to the opinions of such artists as Duncan, Graham, Humphrey, Limon, Cunningham, Ailey, and more. Lectures, videos, readings, discussions, writing and studio practice are used to focus on critical observation. Students will learn how to view dance and verbally articulate what they see and experience through watching the dance.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Multicultural Dance",
+    "courseid": "DANCE135",
+    "coursedescription": "This course focuses on the theory, practice, and performance of American, Latin-American, and African-American dance styles. Styles we will cover will include, but are not limited to: West African Dance, Afro Jazz, Salsa, Bachata, and Haitian Folklore. Students will learn rhythms and practice dance movements that characterize each genre as well as explore the history of each style in a sociopolitical context. The class will examine how multicultural and world dance forms have historically given creative expression to marginalized voices.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Styles we will cover will include, but are not limited to: West African Dance, Afro Jazz, Salsa, Bachata, and Haitian Folklore."
+      ]
+    }
+  },
+  {
+    "coursename": "Hip Hop Dance",
+    "courseid": "DANCE136",
+    "coursedescription": "Hip Hop dance will teach the fundamentals of hip hop and how to put them together in routines. The dance form involves \"a complex array of interlocking rhythms, percussive accents of isolated body parts popping out in unexpected phrasing,\" (Andre Lepecki, ed., Of the Presence of the Body, 2004). Key figures in its early development in the 1970's are Afrika Baambata, a rapper who is credited with forming the first group of hip hop dancers, and DJ Kool Herc of Jamaican origin who brought his two turntables to the block parties in the South Bronx. Its influences range from African dance and Brazilian Capoeira to James Brown, Michael Jackson and, more recently, music videos. This course covers the variety of components that make up Hip Hop Dance: poppin', lockin', wavin', steppin', top rockin', and downrockin' and basic breakin'. The course material will help students develop strength, coordination and a strong mental focus while they thoroughly enjoy moving themselves to the lively rhythms of hip hop music. This is a practical course in which the great majority of time will be spent practicing dance technique and choreography. While we may occasionally view a video, most of our time will be spent actually dancing. We will become familiar with basic Hip Hop moves and practice putting these moves into combination in challenging ways. We will further enhance our knowledge of Hip Hop through the writing of two papers. Material learned in class will prepare us for an end-of-semester studio performance.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ballet II",
+    "courseid": "DANCE232",
+    "coursedescription": "This course is designed for students who have completed Ballet I or have equivalent ballet experience with pre approval from the instructor. In this intermediate ballet class, students will learn Ballet terminology and learn to physically perform the steps with a greater emphasis on proper technique. Students will learn the protocols and etiquette specific to taking a Ballet class and should be prepared to dance every class. Students will also learn about the progression of ballet throughout history.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Jazz Dance II",
+    "courseid": "DANCE233",
+    "coursedescription": "This course continues the study of Jazz Dance and is designed for students who have completed Jazz Dance I, or who have equivalent dance experience. Students will learn Jazz Dance terminology, discuss different styles of Jazz Dance, and examine the different influences that helped shape the genre. This fast-paced movement class emphasizes performance and stage presence.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Modern Dance II",
+    "courseid": "DANCE234",
+    "coursedescription": "This course continues the study of Modern Dance and is designed for students who have completed Modern Dance I, or who have equivalent dance experience. This fast-paced, full bodied movement class explores spatial awareness, directional changes, level changes, and variations on a theme. Students will learn Modern Dance terminology, discuss different styles of Modern Dance, and examine the different influences that helped shape the genre.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dance Theatre Workshop",
+    "courseid": "DANCE325",
+    "coursedescription": "Dance Theatre Workshop id designed for dance minors and experienced dancers who want to choreograph for the Annual Dance Concert. Students will learn choreographic tools and implement them as they create an original dance piece of any style. Students will learn about the production aspects of a dance performance including working with the costume designer, lighting designer, and other technical staff. Students will be introduced to dance production etiquette, terminology used, and scheduling demands of a mainstage production. The culmination of this course is a fully produced dance concert, in which all students must perform.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "DANCE478",
+    "coursedescription": "Research, study and participation in dance projects outside the classroom involving consultation with a faculty advisor. A written prospectus is required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "DANCE479",
+    "coursedescription": "Research, study and participation in dance projects outside the classroom involving consultation with a faculty advisor. A written prospectus is required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

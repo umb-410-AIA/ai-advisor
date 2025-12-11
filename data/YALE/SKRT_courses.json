@@ -1,0 +1,34 @@
+[
+  {
+    "coursename": "* SKRT 1100a / LING 1150a, Introductory Sanskrit I Aleksandar Uskokov",
+    "courseid": "SKRT 1100a",
+    "coursedescription": "An introduction to Sanskrit language and grammar. Focus on learning to read and translate basic Sanskrit sentences in Devanagari script. No prior background in Sanskrit assumed. L1 1½ Course cr MTWThF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 1300a / LING 1380a, Intermediate Sanskrit I Aleksandar Uskokov",
+    "courseid": "SKRT 1300a",
+    "coursedescription": "The first half of a two-term sequence aimed at helping students develop the skills necessary to read texts written in Sanskrit. Readings include selections from the Hitopadesa, Kathasaritsagara, Mahabharata, and Bhagavadgita. After SKRT 120 or equivalent. L3 MWF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SKRT 1500a, Advanced Sanskrit: Readings in Indian Philosophy and Aesthetics Aleksandar Uskokov",
+    "courseid": "SKRT 1500a",
+    "coursedescription": "This advanced language course introduces the jargon of the philosophical disciplines (theory of knowledge, metaphysics, philosophy of mind and language, philosophical theology, hermeneutics) and aesthetics in the several systems of learning in ancient and classical India, across the traditions of Hinduism, Buddhism, and Jainism. Additionally, the course introduces topics of philosophical significance in foundational texts such as the Upaniṣads, portions of the Mahābhārata and the Purāṇa s, and the Buddhist sūtra literature. Special attention is given to matters of style, scholastic techniques, and advanced morphology and syntax. The course, thus, combines advanced language instruction with learning intellectual and cultural content, and it facilitates training in primary research in one of the classical languages of South Asia. Prerequisite: SKRT 140 or equivalent, or instructor permission. L5 TTh 4pm-5:15pm",
+    "course-prerequsities": [
+      "SKRT 140",
+      "L5",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: SKRT 140 or equivalent, or instructor permission."
+      ]
+    }
+  }
+]

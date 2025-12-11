@@ -1,0 +1,158 @@
+[
+  {
+    "coursename": "* ENAS 0500a / APHY 0500a / PHYS 0500a, Science of Modern Technology and Public Policy Daniel Prober",
+    "courseid": "ENAS 0500a",
+    "coursedescription": "Examination of the science behind selected advances in modern technology and implications for public policy, with focus on the scientific and contextual basis of each advance. Topics are developed by the participants with the instructor and with guest lecturers, and may include nanotechnology, quantum computation and cryptography, renewable energy technologies, optical systems for communication and medical diagnostics, transistors, satellite imaging and global positioning systems, large-scale immunization, and DNA made to order. Enrollment limited to first-year students. SC MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* ENAS 0800b / APHY 0800b and APHY 1000b / EPS 0800b / EVST 0080b and EVST 1000b / PHYS 0800b and PHYS 1000b, Energy, Environment, and Public Policy Daniel Prober",
+    "courseid": "ENAS 0800b",
+    "coursedescription": "The technology and use of energy. Impacts on the environment, climate, security, and economy. Application of scientific reasoning and quantitative analysis. Intended for non–science majors with strong backgrounds in math and science. Tours are be conducted of major examples of good energy design at Yale, including the Yale Power Plant and Kroon Hall. Students who take this course are not eligible to take APHY 100. Prerequisites: High school chemistry, physics, and Math. Calculus is not required. Enrollment limited to first-year students. QR , SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* ENAS 1180a, Introduction to Engineering, Innovation, and Design Lawrence Wilen",
+    "courseid": "ENAS 1180a",
+    "coursedescription": "An introduction to engineering, innovation, and design process. Principles of material selection, stoichiometry, modeling, data acquisition, sensors, rapid prototyping, and elementary microcontroller programming. Types of engineering and the roles engineers play in a wide range of organizations. Lectures are interspersed with practical exercises. Students work in small teams on an engineering/innovation project at the end of the term. Priority to first-year students. SC RP MW 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ENAS 1200a / CENG 1200a / ENVE 1200a, Introduction to Environmental Engineering Colby Buehler",
+    "courseid": "ENAS 1200a",
+    "coursedescription": "Introduction to engineering principles related to the environment, with emphasis on causes of problems and technologies for abatement. Topics include air and water pollution, global climate change, hazardous chemical and emerging environmental technologies. Prerequisites: high school calculus and chemistry or CHEM 161, 165 or CHEM 163, 167 (may be taken concurrently) or permission of instructor. QR , SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "CHEM 161",
+      "CHEM 163",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: high school calculus and chemistry or CHEM 161, 165 or CHEM 163, 167 (may be taken concurrently) or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ENAS 1300a or b, Introduction to Computing for Engineers and Scientists Staff",
+    "courseid": "ENAS 1300a",
+    "coursedescription": "An introduction to the use of the C and C++ programming languages and the software packages Mathematica and MATLAB to solve a variety of problems encountered in mathematics, the natural sciences, and engineering. General problem-solving techniques, object-oriented programming, elementary numerical methods, data analysis, and graphical display of computational results. Prerequisite: MATH 115 or equivalent. Recommended preparation: previous programming experience. QR HTBA",
+    "course-prerequsities": [
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended preparation: previous programming experience."
+      ]
+    }
+  },
+  {
+    "coursename": "ENAS 1510a or b / APHY 1510a or b / PHYS 1510a or b, Multivariable Calculus for Engineers Staff",
+    "courseid": "ENAS 1510a",
+    "coursedescription": "An introduction to multivariable calculus focusing on applications to engineering problems. Topics include vector-valued functions, vector analysis, partial differentiation, multiple integrals, vector calculus, and the theorems of Green, Stokes, and Gauss. Prerequisite: MATH 115 or equivalent. QR HTBA",
+    "course-prerequsities": [
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENAS 1940a or b / APHY 1940a or b, Ordinary and Partial Differential Equations with Applications Staff",
+    "courseid": "ENAS 1940a",
+    "coursedescription": "Basic theory of ordinary and partial differential equations useful in applications. First- and second-order equations, separation of variables, power series solutions, Fourier series, Laplace transforms. Prerequisites: ENAS 151 or MATH 120 or equivalent, and knowledge of matrix-based operations. QR HTBA",
+    "course-prerequsities": [
+      "ENAS 151",
+      "MATH 120"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENAS 2170a, Disruptive Technologies and Responsible Innovation Kathryn Guarini",
+    "courseid": "ENAS 2170a",
+    "coursedescription": "This course gives students insights into disruptive technologies and the mechanisms of driving responsible innovation. It helps demystify current-day innovations that are having a profound impact on the world – how they work and how they came to be. And it helps them understand how concepts take shape and get driven into the market. What makes an idea great? How do leaders develop robust solutions, mitigate risks, and extract value? This class covers concepts and frameworks and explores case studies of various disruptive technologies, establishing the technical underpinnings and discussing their societal implications. This course is appropriate for any students interested in exploring timely technology-related themes shaping society and the world. There are no prerequisites. SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is appropriate for any students interested in exploring timely technology-related themes shaping society and the world."
+      ]
+    }
+  },
+  {
+    "coursename": "* ENAS 3450b / CENG 3450b, Principles and Applications of Interfacial Phenomena Kyle Vanderlick",
+    "courseid": "ENAS 3450b",
+    "coursedescription": "This course covers the nature and consequences of both flexible and rigid interfaces, such as those associated with liquids and solids respectively. We examine the properties of interfaces as they exist alone, as a collective (e.g., colloids), and also as they interact demonstrably with one another. An integral part of this course is the introduction and application of engineering analysis to calculate and predict behaviors central to technological applications. This course is designed for engineering majors. Other STEM majors are welcome but physics and multivariable calculus are prerequisites. Ideally, students should also have taken thermodynamics but this is not formally required. SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ENAS 3600b / ENVE 3600b, Bio-Inspired and Sustainable Design Julie Zimmerman",
+    "courseid": "ENAS 3600b",
+    "coursedescription": "Study of green engineering, focusing on key approaches to advancing sustainability through engineering design with an emphasis on biomimicry. Topics include current design, manufacturing, and disposal processes; toxicity and benign alternatives; policy implications; pollution prevention and source reduction; separations and disassembly; material and energy efficiencies and flows; systems analysis; and life cycle design, management, and analysis. permission of instructor MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "permission of instructor MW 1pm-2:15pm"
+      ]
+    }
+  },
+  {
+    "coursename": "* ENAS 4030a, Funding It: Innovation, Entrepreneurship, and Venture Capital Jorge Torres",
+    "courseid": "ENAS 4030a",
+    "coursedescription": "A survey of the origins, practice, and business models of venture capital with application to engineering science. Consideration of three major areas: the history and purpose of venture capital; the practical details of venture investing; and advanced topics on business models, technology ecosystems, and ethics. Particular exposure to principles of entrepreneurship, including intellectual property strategy, market validation, customer discovery, positioning, and capital formation. Separate application required at: https://bit.ly/ENAS403 Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENAS 4041b / MENG 4041b, Applied Numerical Methods for Differential Equations Beth Anne Bennett",
+    "courseid": "ENAS 4041b",
+    "coursedescription": "The derivation, analysis, and implementation of numerical methods for the solution of ordinary and partial differential equations, both linear and nonlinear. Additional topics such as computational cost, error estimation, and stability analysis are studied in several contexts throughout the course. Prerequisites: MATH 115, and 222 or 225, or equivalents; ENAS 130 or some knowledge of Matlab, C++, or Fortran programming; ENAS 194 or equivalent. ENAS 440 is not a prerequisite. QR MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 115",
+      "222",
+      "225",
+      "ENAS 130",
+      "ENAS 194",
+      "ENAS 440",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ENAS 4240b, Finding Yourself in the Future of Creativity John Kao",
+    "courseid": "ENAS 4240b",
+    "coursedescription": "This course is for aspiring entrepreneurs, future leaders, and innovators who want to understand and amplify their creative potential to make a meaningful impact. It explores the forces shaping creativity in the 21st century, including its relationship to cutting-edge brain science, the integration of human and machine intelligence, and the cultural and political landscapes influencing creativity on a global scale. It also considers the ethical challenges of navigating creativity’s growing role in solving complex societal problems. Unlike traditional courses on innovation, entrepreneurship, and leadership that focus on external strategies—what to do and how to analyze—this course emphasizes the “internalities”: the human and cognitive dimensions that drive creative outcomes. Through a combination of reflective exercises, experiential projects, directed readings, and collaborative work, students explore the deeper structures of creative thought and practice. The course is designed for those ready to engage in personal exploration, self-assessment, and the development of actionable frameworks for creative leadership. M 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

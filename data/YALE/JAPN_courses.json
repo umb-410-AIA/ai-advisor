@@ -1,0 +1,85 @@
+[
+  {
+    "coursename": "* JAPN 1100a, Elementary Japanese I Staff",
+    "courseid": "JAPN 1100a",
+    "coursedescription": "Introductory course for students with no previous background in Japanese. Development of proficiency in listening, speaking, reading, and writing, including hiragana, katakana, and kanji characters. Introduction to Japanese culture and society. Individual tutorial sessions to improve oral communication skills. L1 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* JAPN 1200b, Elementary Japanese II Staff",
+    "courseid": "JAPN 1200b",
+    "coursedescription": "JAPN 120 is designed for students who have successfully completed JAPN 110 (fall semester) or an equivalent course. This course aims to further develop foundational proficiency in elementary-level Japanese. Students will learn the basics of pronunciation, speaking, listening comprehension, reading, writing, and gain insight into Japanese culture. By the end of the course, students will be able to communicate on simple, everyday topics. 1.5 credits for Yale College students After JAPN 110 or equivalent. L2 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* JAPN 1300a, Intermediate Japanese I Saori Nozaki",
+    "courseid": "JAPN 1300a",
+    "coursedescription": "Continued development in both written and spoken Japanese. Aspects of Japanese culture, such as history, art, religion, and cuisine, explored through text, film, and animation. Online audio and visual aids facilitate listening, as well as the learning of grammar and kanji. Individual tutorial sessions improve conversational skills. After JAPN 120 or equivalent. L3 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* JAPN 1400b, Intermediate Japanese II Hiroyo Nishimura",
+    "courseid": "JAPN 1400b",
+    "coursedescription": "Continuation of JAPN 130. After JAPN 130 or equivalent. L4 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* JAPN 1500a, Advanced Japanese I Mika Yamaguchi",
+    "courseid": "JAPN 1500a",
+    "coursedescription": "Advanced language course that further develops proficiency in reading, writing, speaking, and listening of Japanese. Discussion topics include a variety of Japanese culture and society, such as food, religion, and pop-culture. Individual tutorial sessions to improve oral communication skills. After JAPN 140 or equivalent. L5 RP HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* JAPN 1510b, Advanced Japanese II Saori Nozaki",
+    "courseid": "JAPN 1510b",
+    "coursedescription": "Continuation of JAPN 150. After JAPN 150 or equivalent. L5 RP HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* JAPN 1560a, Advanced Japanese III Hiroyo Nishimura",
+    "courseid": "JAPN 1560a",
+    "coursedescription": "Close reading of modern Japanese writing on current affairs, social science, history, and literature. Development of speaking and writing skills in academic settings, including formal speeches, interviews, discussions, letters, e-mail, and expository writing. Interviews of and discussions with native speakers on current issues. Individual tutorial sessions provide speaking practice. After JAPN 151 or equivalent. L5 RP TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* JAPN 1570b, Advanced Japanese IV Mika Yamaguchi",
+    "courseid": "JAPN 1570b",
+    "coursedescription": "Continuation of JAPN 156. After JAPN 156 or equivalent. L5 TTh 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* JAPN 1700a, Introduction to Literary Japanese Yoshitaka Yamamoto",
+    "courseid": "JAPN 1700a",
+    "coursedescription": "Introduction to the grammar and style of the premodern literary language (bungotai). We will read Taketori monogatari (The Tale of the Bamboo Cutter, ca. 909), the oldest surviving work of prose fiction in Japanese, with a view toward understanding how literary texts were created, preserved, and disseminated in premodern Japan and East Asia. Prerequisite: JAPN 1510 or equivalent. TTh 9am-10:15am",
+    "course-prerequsities": [
+      "JAPN 1510",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* JAPN 1710b, Readings in Literary Japanese Yoshitaka Yamamoto",
+    "courseid": "JAPN 1710b",
+    "coursedescription": "Close analytical reading of a selection of texts from the Nara through the Tokugawa periods: prose, poetry, and various genres. Introduction to kanbun . After JAPN 170 or equivalent. L5 W 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

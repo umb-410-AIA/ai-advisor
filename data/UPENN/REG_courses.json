@@ -1,0 +1,202 @@
+[
+  {
+    "coursename": "REG 5100 Introduction to Clinical and Translational Research",
+    "courseid": "REG 5100",
+    "coursedescription": "This introductory course lays the foundation for understanding practical aspects of conducting clinical research in an academic environment. The course is divided into two modules: Module 1: Research Methods & Protocol Development and Module 2: Regulatory Environment for Clinical Trials. The first module introduces clinical research, clinical protocols, study designs and biostatistics that underlie such studies. The second module covers ethical considerations in clinical research, study execution and oversight, and the regulatory environment for clinical research. Upon completion, students should have a strong foundation in the fundamentals of clinical research and should be able to apply contemporary research tools to clinically relevant areas of investigation. Fall Also Offered As: MTR 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6000 Introduction to Biostatistics",
+    "courseid": "REG 6000",
+    "coursedescription": "The goal of this course is to develop translational scientists who are able to apply the necessary statistical methods to their thesis project, critically assess the application of statistical methods in the literature, and collaborate with biostatisticians. The course will be designed to include weekly seminars to teach introductory biostatistics concepts and group assignments applying the principles through critically assessing the literature. Fall Also Offered As: MTR 6000 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6020 Proposal Development and Study Design",
+    "courseid": "REG 6020",
+    "coursedescription": "This course has two primary areas of focus: (i) proposal development and enhancement; and (ii) a focus on research and study design. (i) Proposal Development and Enhancement: Students apply foundational concepts by revising and refining their written proposal and presenting their research project throughout the course. Students receive an overview of approaches to developing an effective proposal; and guidance on how to write and present their hypothesis, specific aims, research strategy, significance, innovation, and approach using the general NIH application format. (ii) Research and Study Design: Students receive an overview of translational research principals and clinical study design approaches relevant to thesis projects designed to probe mechanisms of disease and translate results in basic research into investigations in humans. Topics include clinical and translational research methods, and study design and execution. Students are introduced to these topics through asynchronous and synchronous learning environments. At the end of the course, each student submits and presents their written proposal to their peers and a panel of reviewers for critique and feedback. Members of the panel include the students’ research mentor(s), program mentor, and thesis committee. The panel provides feedback on the proposal which the student will then incorporate into the written proposal. Students submit their final revised proposal to be reviewed and graded by their program mentor. Fall Also Offered As: MTR 6020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6040 Scientific & Ethical Conduct",
+    "courseid": "REG 6040",
+    "coursedescription": "In this course, students will learn the foundational principles of scientific, operational and ethical conduct of research, complete directed experience in evaluating ethical principles through IRB membership and ultimately be able to apply all principles to their own work. By the end of the foundational class sessions, students will understand scientific conduct, ethical considerations of human subject's research, good clinical practices (GCP), good laboratory practices (GLP), conflict of interest, and budgetary concepts. The directed experience will include becoming a member of an Institutional Review Board (IRB) (Penn or CHOP) and participating as an active member in 6 meetings. Spring Also Offered As: MTR 6040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "By the end of the foundational class sessions, students will understand scientific conduct, ethical considerations of human subject's research, good clinical practices (GCP), good laboratory practices (GLP), conflict of interest, and budgetary concepts."
+      ]
+    }
+  },
+  {
+    "coursename": "REG 6100 Fundamentals of FDA Regulation",
+    "courseid": "REG 6100",
+    "coursedescription": "This introductory course provides an overview of Regulatory Affairs in relation to three key areas of development: Drugs, Biologics, and Medical Devices. The course will look at the rules governing prescription and over-the-counter drugs as well as the changes introduced by the influence of genetic engineering and biological product development. Throughout the course, practical issues facing regulatory specialists as they work with the FDA and other international regulatory bodies to secure and keep product approval will be addressed. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6110 Clinical Trial Management",
+    "courseid": "REG 6110",
+    "coursedescription": "This course will focus on the practical aspects of executing clinical trials in an academic environment in a GCP compliant fashion. Upon course completion students will be able to effectively implement and manage both investigator-initiated and industry-sponsored clinical research studies. This course is divided into three segments. In the first segment, students will be guided through the operational aspects and regulatory processes of clinical trial management across the clinical trial life style from pre-study activities through study start-up and implementation, and ongoing compliance through study close out. Students will learn strategies for navigating the complex regulatory/operational clinical research environment and for successful protocol development and approval, subject recruitment, data management and IRB/FDA interactions. In the second segment of the course, students will learn about specific trial management challenges that may arise based on study type and will learn skills for navigating these challenges for investigator-initiated studies, federally-funded and commercially-sponsored research and research with unique trial management concerns such as conflicts of interest and the use of new technologies. Finally students will have the opportunity to apply the skills they have learned through a final course project which includes identification of a trial management challenge and a proposal for solutions to address that challenge. Protection of human research subjects and adherence to good clinical practices guiding research in humans is a critical concept that will be integrated throughout each of the lectures and course assignments. Prerequisite: REG 5100 1 Course Unit",
+    "course-prerequsities": [
+      "REG 5100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In the second segment of the course, students will learn about specific trial management challenges that may arise based on study type and will learn skills for navigating these challenges for investigator-initiated studies, federally-funded and commercially-sponsored research and research with unique trial management concerns such as conflicts of interest and the use of new technologies."
+      ]
+    }
+  },
+  {
+    "coursename": "REG 6120 Introduction to Drug Development",
+    "courseid": "REG 6120",
+    "coursedescription": "This introductory course lays the foundation for conducting pharmaceutical research in many ways. It begins with a brief review of the history of drug development and explains the phases of drug development in detail. The decision making process, drug development milestones and compound progression metrics are defined and explained with examples. At the conclusion of this course, students should have a working knowledge of the drug development process, understand the regulatory basis by which new chemical entities are evaluated and ultimately approved, and appreciate the time and expense of drug development. Undergraduates and graduate students from other departments are welcome. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6150 Post-Approval Maintenance of Drugs, Biologics, and Devices",
+    "courseid": "REG 6150",
+    "coursedescription": "Drug development is complex, time consuming, and resource intense across multiple disciplines that require subject matter expertise. The goal is to obtain FDA-approval of a marketing application, which, once achieved, is a major accomplishment. However, marketing approval brings significant Sponsor responsibilities as the FDA continues to enforce strict regulatory requirements to ensure marketed products maintain their favorable benefit/risk profiles and therefore continue to offer safe and effective options for patients. This course is designed to provide students with an in depth understanding of the multiple regulatory requirements and marketing activities that take place following FDA approval, throughout the lifecycle of a marketed product. Topics include: • Post-marketing requirements • Pharmacovigilance/safety surveillance • Manufacturing throughout product lifecycle • Device regulations • Labeling considerations • Sales, marketing, advertising, and promotional activities • FDA inspections • General lifecycle management, label expansion, patent and exclusivity considerations Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6160 Quality Assurance",
+    "courseid": "REG 6160",
+    "coursedescription": "Quality assurance (QA) plays a critical role in the reliability and reproducibility of product development and, manufacturing. As a component of the Quality Management System, quality assurance includes all activities performed by an organization for the prevention of errors and defects. This course intends to focus on QA principles, standards and requirements, with regard to the FDA-regulated product development lifecycle. Further, the course aims to offer examples of QA and quality control measures through auditing monitoring and risk management. Application of quality assurance and the interfaces between GLP, GTP,GMP-and Pharmacovigilance regulatory regulated activities during product development and manufacturing will also be addressed. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6180 Introduction to Vaccine Development",
+    "courseid": "REG 6180",
+    "coursedescription": "Vaccine development is the process by which new vaccines are discovered, studied in laboratory and preclinical models and investigated clinically in patients to determine if they are safe and efficacious. Assuming the vaccine under investigation passes systematically defined milestones, submission of all documentation to regulatory authorities (e.g., US FDA and equivalent global regulatory authorities) can ensue and, pending a favorable review, market access can be granted. The process is highly regulated and there is significant cost involved for pharmaceutical sponsors to research and develop vaccines with the entire process averaging around 12 years once a product is discovered. This introductory course lays the foundation for conducting vaccine research in many ways. It begins with a brief review of the history of vaccine discovery and development and explains the phases of vaccine development in detail. Global Health history and impact of vaccines is described as well as the various stakeholders (e.g., WHO and World Bank) involved which distinguish vaccine from drug development. The decision-making process, vaccine development milestones and compound progression metrics are defined and explained with examples. At the conclusion of this course, students should have a working knowledge of the vaccine development process, understand the regulatory basis by which new vaccines are evaluated, ultimately approved, and distributed around the world. This course is directed and taught primarily by Dr. Jeff Barrett formerly Professor Pediatrics at the Perelman School of Medicine who has over 35 years’ experience in pharmaceutical research and development experience, 17 years of which were spent in the pharmaceutical industry from 1990 to 2003 and 2013-17. Most recently, Dr. Barrett has been employed at the Aridhia Bioinformatics (https://www.aridhia.com/staff-members/dr-jeff-barrett/) as their Chief Science Officer. Previously, he was Senior Vice-President at the Critical Path Institute, a non-profit organization funded primarily through grants from the US Food & Drug Administration. In his current role, Dr. Barrett leads the development of a data and analytics platform across all rare diseases to accelerate therapy development. RDCA-DAP aiming to aggregate existing data from multiple sources into a single integrated database and develop an analytic platform to help users use and interpret that data. Working in collaboration with colleagues at the National Organization for Rare Disorders and FDA to help understand how rare diseases progress and how to measure such progression and therefore to accelerate new treatments and cures. Before C-Path, Dr. Barrett worked at the Bill & Melinda Gates Medical Research Institute, a wholly owned subsidiary of the Gates Foundation which focuses on the development of products to fight malaria, tuberculosis, diarrheal diseases and improve outcomes in maternal and newborn health — major causes of mortality, poverty, and inequality in Low- and Middle-Income Countries (LMIC). Vaccines are one of the more attractive modalities in the mission of the Gates MRI and Dr. Barrett’s team has been involved in the research and development of both malaria and tuberculosis vaccines. Dr. Barrett’s sessions are filled with anecdotes from his time in the industry, academia and the non-profit sector and he shares numerous examples from personal experience as well as many which represent milestones in the industry. Guest facilitators will provide topical variety throughout the course. The course has been taught for 5 years now with the early emphasis on contrasting modern vaccine development with historical practices. The COVID-19 pandemic provided a scope by which the modern paradigm was further optimized and the global regulatory authorities had to cope with a health crisis while vaccine developers were desperately trying to develop vaccines. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6190 Research Ethics in Regulatory Affairs",
+    "courseid": "REG 6190",
+    "coursedescription": "This course will focus on of the connection between biomedical research ethics and aspects of regulatory affairs. Students will apply frameworks for evaluating research ethics questions through the exploration of modern biomedical research topics. Students will cultivate competency in the application, and limitations, of US human subjects’ regulations. This course will prepare students to critically evaluate the ethics of specific research topics and apply ethics-informed decision-making in the regulatory affairs domain. Contemporary research ethics topics include (but are not limited to) research study recruitment, conflicts of interest, human research protection programs, informed consent, working with vulnerable populations, privacy/confidentiality, and emerging medical technology. The course will implement asynchronous videos and readings and interactive synchronous sessions; assignments include quizzes, discussions (in-class and online), and a generative final project. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Contemporary research ethics topics include (but are not limited to) research study recruitment, conflicts of interest, human research protection programs, informed consent, working with vulnerable populations, privacy/confidentiality, and emerging medical technology."
+      ]
+    }
+  },
+  {
+    "coursename": "REG 6220 New Trends in Medicine and Vaccine Discovery",
+    "courseid": "REG 6220",
+    "coursedescription": "Modern drug discovery has evolved to include human genetic diagnosis and various biological approaches which has enabled progress in a variety of fields, including rare diseases, immuno-oncology, precision medicine, and biomarkers. The goal of this course is for students to understand newer treatment modalities and approaches beyond one size fits all small molecule drugs, as well as the technologies that empower them. Students will learn regulatory processes that govern medicine discovery and development and also consider business and societal aspects of medical progress. Students will be able to apply concepts directly to work in the healthcare industry. Students will be taught by experts in the field internal and external to Penn. Fall Also Offered As: MTR 6220 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6240 Applied Regulatory Processes of Vaccines and Biologics",
+    "courseid": "REG 6240",
+    "coursedescription": "Drug development is at a turning point in human medicine. Over the past three decades, the development of biotherapeutics has revolutionized innovation in medicines. Efficiency and Quality Compliance are critical to achieving innovation and affordability. This course will provide an overview of the multi-dimensional nature of drug development, which involves regulatory, new technologies, statistical, and quality considerations. This 6-week course will introduce the concepts of drug development, which include, pharmacology, toxicology, product development, clinical trials. All of these topics will be addressed based on regulatory requirements by the FDA. Risk assessment and mitigation will be discussed using a role-play process. The content of the course includes seminars, case studies, project reports, and journal article-reviews. Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6250 Manufacturing Novel Therapies & Imaging Agents",
+    "courseid": "REG 6250",
+    "coursedescription": "Novel therapeutic and diagnostic agents (eg. CAR T cells, gene therapy for sickle cell disease, radionuclides etc.) have revolutionized modern clinical medicine. Historically, these agents were first developed in academia then transferred to industry for clinical scale manufacturing. Recently, however, some academic centers have developed clinical scale biomanufacturing facilities. Operation of these new facilities requires a unique blend of manufacturing, clinical, basic, regulatory and laboratory sciences. Examples of areas in which academic medical centers have developed in-house manufacturing include cell therapy, gene therapy and novel imaging agents. This course will cover manufacturing approaches, challenges, and controversies in each of these domains. At the completion of this course students will understand: -The general approach to development, manufacturing, quality control and regulatory compliance in academic manufacturing facilities -Critical steps in the manufacturing cycles of cell therapies, gene therapies and imaging agents -Current challenges in development, manufacturing, and maintaining regulatory compliance in academic manufacturing -Key considerations and relative merits of different positions in the current controversies surround these agents Each week includes a combination of synchronous and asynchronous work. Synchronous sessions will include instructor led discussions based on pre-recorded lectures or case-based discussions. Asynchronous material includes pre-recorded lectures and discussion board prompts to which students will respond throughout the week. One unique aspect to this course are the debates. For each debate week, two students will be assigned as debaters and will represent opposing points of view. All students will be provided with required pre-reading and pre-recorded lectures relevant to the debate topic. Ahead of the debate, the debaters will meet with an assigned faculty advisor to help to prepare. Students who are not assigned as debaters for that week will post questions to the discussion board ahead of the debate. The debate will occur during a synchronous session. The debaters will deliver a short introductory statement. This will be followed by QA with the audience. Finally, the debates will deliver a closing statement. These debates are a fun and interactive way for students to engage with controversial and evolving topics in the field. By the end of the course, students will appreciate the academic perspective on core elements of therapeutic and diagnostic agent manufacturing. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6260 Patent Law for Drug Development",
+    "courseid": "REG 6260",
+    "coursedescription": "This course will examine the role and impact of patent law on the behavior of major players in the biotechnology and pharmaceutical industries as they navigate the regulatory process. This course begins with an overview of the current patent laws in the U.S. and how policies and recent changes to those laws affect the research and development of new medicines. This course will also examine the dilemmas created by patents as patent holders seek to bring their technology on to the market. The course will consist of synchronous and asynchronous materials and readings that will conclude with a paper and presentation analyzing a complex issue facing drug innovation and regulatory affairs. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6270 Drug Development Decision Criteria",
+    "courseid": "REG 6270",
+    "coursedescription": "Drug development is a highly regulated process with a great deal of oversight provided by both the global regulatory community and the internal management of the companies themselves. In addition to the regulatory milestones that designate a target molecule’s status, there are scientific hurdles that a drug candidate must traverse in order to gain passage to the next development phase. The pharmaceutical industry over time has systematically outlined critical junctures at which data, assumptions, models and experience are collated and reviewed by decision makers within the company, and many times in view of external experts, to decide if a compound should progress and also define the best course of action. This course reviews the critical junctures over which innovative and generic drugs are evaluated and the decision criteria used to judge performance and plan next steps. The nature of the collective data under review, the decision paths and the decision makers themselves often change depending on the stage of development. This course covers decision criteria from drug discovery through post marketing and even entertains decision points for generic drugs (pharmaceutical- and bio- equivalence). Metrics for evaluation, company and regulatory expectations and the tools used to facilitate decision (e.g., modeling and simulation techniques to generate “what-if” scenarios) making are all discussed in detail. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6310 The Role of the Clinical Research Nurse: Principles, Procedures, and Purpose",
+    "courseid": "REG 6310",
+    "coursedescription": "This course will focus on providing the framework for Clinical Research Nurses (CRN) to successfully use the International Association of Clinical Research Nurses Scope and Standards for Clinical Research Nursing and Core Competencies in their practice. Upon completion of the course, students will be able to identify the intersection of foundational clinical nursing skills and the clinical research nursing domains of practice. They will be able to identify strategies to engage with various internal and external stakeholders. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6320 Implementation of the Clinical and Translational Research Protocol",
+    "courseid": "REG 6320",
+    "coursedescription": "This course will focus on topics related to successful protocol implementation such as investigational product administration, bio specimen sampling and pharmacokinetics, post administration period monitoring including assessments, clinical monitoring and observation, long-term follow up, and principal investigator oversight. To do this, students will develop a fundamental understanding of product development including phase 1 and first in human studies. Students will be exposed to techniques for creating professional partnerships with clinical research stakeholders including Investigational Drug Service, Radiology, Industry Sponsors, Hospital Administrators, Ancillary Staff, Laboratory Professionals, Principal Investigators, and Basic Scientists. Students will also explore the role of the clinical research nurse in the context of recruitment and retention of participants through managing the patient/family relationship. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6400 Capstone I",
+    "courseid": "REG 6400",
+    "coursedescription": "1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "The Capstone is an intensive project focused on the student’s specific area of interest within Regulatory Affairs. The Capstone is composed of two course units, REG 6400 , which consists of scheduled in-person and asynchronous classes focused on the Capstone proposal development and REG 6410 which consists of student-driven completion of the Capstone project. During REG 6400 the student, with the guidance of their Capstone Advisor, the Course Director, and program staff will define objectives and formulate their Capstone proposal and delineate deliverables and milestones. Successful completion of REG 6400 is determined by a finalized proposal approved by the Course Director. The work proposed in the Capstone Project proposal will be the focus of the student’s efforts in REG 6410 Capstone II. Prior to the start of this course students should have a topic idea(s) they are interested in pursuing for their capstone. This topic must be related to their area of interest within Regulatory Affairs."
+    }
+  },
+  {
+    "coursename": "REG 6410 Capstone II",
+    "courseid": "REG 6410",
+    "coursedescription": "1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 6990 Independent Study",
+    "courseid": "REG 6990",
+    "coursedescription": "MRA students may perform an independent study for credit based on meeting specific educational requirements. All independent study courses require a designated MRA independent study advisor and prior approval from the program director, who will serve as course director for the class. The MRA Independent study course can be performed as an alternative to REG 6400 capstone proposal. The independent study plans must have a learning objective, plan of study and methods of assessment. These elements should be drafted by the student and must be approved by both the designated course director and program staff. The independent study plans are expected to align with the expectations of the capstone proposal writing credit. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 9910 Thesis I",
+    "courseid": "REG 9910",
+    "coursedescription": "1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "REG 9911 Thesis II",
+    "courseid": "REG 9911",
+    "coursedescription": "1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

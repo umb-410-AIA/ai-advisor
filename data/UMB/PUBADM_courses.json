@@ -1,0 +1,110 @@
+[
+  {
+    "coursename": "The New England Political Environment",
+    "courseid": "PUBADM601",
+    "coursedescription": "An introduction to the key contemporary systems that now constitute the environment in which legislative and executive policy-making and implementing processes work. This course is designed to provide a thorough understanding (in theory and practice) of: where, how, and by whom policy is made and implemented; how the process is/can be influenced; who pays and who benefits; and how to evaluate results (intended and actual).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Public Management: Theories and Principles",
+    "courseid": "PUBADM610",
+    "coursedescription": "This course explores the complex environment in which today's public managers must effectively function. It introduces students to the various theories of complex organizations, with a particular emphasis on those developments most relevant to public organizations. As part of the effort to relate theory to practice, students' own work experiences become a legitimate and important aspect of the subject matter.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Human Resources Management",
+    "courseid": "PUBADM614",
+    "coursedescription": "This course is designed to familiarize students with the major elements of human resources management in the public sector: personnel management practices and the practice of labor-management relations. The first half of the course examines the basic concepts of human resources management and the principles of planning and forecasting human resources needs. This part of the course examines career planning and management, job design, pay systems, selection, training, and equal opportunity. The second half of the course explores the nature and history of labor-management relations, focusing on the tactics and strategies of management and union representatives and the legal constraints on their behavior in: (1) the organization of public employee unions; (2) contract negotiation; and (3) contract administration and interpretation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "WPPP: Contemporary American Public Policy Issues",
+    "courseid": "PUBADM619",
+    "coursedescription": "Fall seminar in Program for Women in Politics and Public Policy. This course provides an overview of the policy-making process and electoral politics, then examines several central public policy issues of contemporary concern, including homelessness and poverty, health, and environmental issues. Readings from the disciplines of sociology and political science analyze how public policy is shaped both by internal processes of government and by interest-group dynamics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Readings from the disciplines of sociology and political science analyze how public policy is shaped both by internal processes of government and by interest-group dynamics."
+      ]
+    }
+  },
+  {
+    "coursename": "Analytic Skills I: Skills for Policy Analysis",
+    "courseid": "PUBADM620",
+    "coursedescription": "This course will introduce a variety of policy analysis tools for policymakers and public managers/administrators; provide an overview of how public policy is shaped by research and numerical data; encourage students to generate research questions and match research methods to the questions; teach how to interpret numerical data in tables, charts, research reports, and articles; introduce basic statistical analysis tools and the interpretation of statistical results as they inform public policy decision making.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "WPPP: Spring Internship",
+    "courseid": "PUBADM624",
+    "coursedescription": "The internship placement begun in the fall is completed and evaluated. Students in the WPPP Certificate Program prepare and present a paper integrating the theoretical knowledge and practical skills based on their internship.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research Methods for Policy Analysis",
+    "courseid": "PUBADM628",
+    "coursedescription": "The purpose of this class is to provide a survey of research methods and the use of evidence to build persuasive arguments. The course is divided into three sections; (1) quantitative methods; (2) qualitative methods; and (3) community-based participatory action research, providing an overview of each group of research methods. Throughout all three sections, the course will include feminist research methods and scholarly work. Each section of the course culminates int he submission of a policy brief on a topic of the student's choosing. Each policy brief will highlight the research methods from that portion of the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Policy Workshop",
+    "courseid": "PUBADM651",
+    "coursedescription": "A workshop in a series of weekend workshops that address public policy issues of concern to the Commonwealth.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Policy Workshop",
+    "courseid": "PUBADM652",
+    "coursedescription": "A workshop in a series of weekend workshops that address public policy issues of concern to the Commonwealth.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Policy Workshop",
+    "courseid": "PUBADM653",
+    "coursedescription": "A workshop in a series of weekend workshops that address public policy issues of concern to the Commonwealth.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Policy Workshop",
+    "courseid": "PUBADM654",
+    "coursedescription": "A workshop in a series of weekend workshops that address public policy issues of concern to the Commonwealth.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Capstone /Case Study Seminar",
+    "courseid": "PUBADM691",
+    "coursedescription": "Students in the MS in Public Affairs Program have the opportunity to complete a final project under the supervision of a faculty advisor. The project may be a case study of a public policy or significant piece of legislation which involved tracing its history, analyzing the political, economic, and social context in which it developed, identifying and examining roles played by those who were instrumental in its development, and assessing its intended and actual impact. It may also be a critical examination of a policy issue confronting a student at his or her place of employment. While completing their case study project, students participate in a weekly seminar that focuses both on the substantive issues under examination and on case study methodology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "PUBADM696",
+    "coursedescription": "These are advanced courses of independent readings under the guidance and subject to the examination of the instructor. Areas and topics are chosen according to student need.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

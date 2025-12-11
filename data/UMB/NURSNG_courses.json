@@ -1,0 +1,558 @@
+[
+  {
+    "coursename": "Health Assessment",
+    "courseid": "NURSNG220",
+    "coursedescription": "This foundation nursing course focuses on health assessment in professional nursing practice for health promotion and disease prevention across the lifespan. This course emphasizes clinical reasoning development and effective written and oral communication and information technology skill development in health assessment. Cultural, spiritual and family assessments from multiple theoretical perspectives are considered. Patient assessment in chronic illness and the older adult population and issues of genetics and literacy are also explored.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Nursing Practice",
+    "courseid": "NURSNG226",
+    "coursedescription": "This first clinical course provides the basis for the acquisition and development of the knowledge, skills, and attitudes foundational to the art and science of professional nursing practice. This course emphasizes critical thinking, communication, collaboration, and evidence based practices integrated throughout the nursing process. Application of cognitive, affective and psychomotor skills required for safe, effective, compassionate, and culturally congruent patient care delivery is stressed in class, lab, sub-acute, and acute clinical settings, with particular attention to the needs of older adults.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to the Concepts of Nursing",
+    "courseid": "NURSNG270",
+    "coursedescription": "This course introduces students to the basics of conceptual learning and begins to explore and apply the concepts of contemporary professional nursing practice. Concepts covered are related to culture, health care systems, health, wellness and illness, quality improvement, spirituality, diversity, nursing process and caring.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Principles of Pathophysiology and Pharmacology for the Nurse",
+    "courseid": "NURSNG271",
+    "coursedescription": "This course introduces the nursing student to the pathophysiology and beginning pharmacologic nursing practice from a conceptual approach. Concepts covered are related to nursing skills, principles of pathophysiology and basic principles of pharmacology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Applying Nursing Process",
+    "courseid": "NURSNG272",
+    "coursedescription": "Introducing nursing students to the application of concepts through clinical skills in the seminar, laboratory, and/or clinical setting. Concepts covered are related to assessment, communication, sensory perception, safety, mobility, tissue integrity, clinical decision making, and nursing skills.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Assessment and Health Promotion",
+    "courseid": "NURSNG273",
+    "coursedescription": "This course introduces the nursing student to the assessment of, and the health promotion for, the healthcare participant as an individual, a family, and/or a community. Concepts covered are related to assessment, cognition, health, wellness and illness, and nursing skills and comfort.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Adult Health Nursing",
+    "courseid": "NURSNG310",
+    "coursedescription": "This is the first of two courses centering on adult health nursing in the acute care setting. Adult Health Nursing I is the study of comprehensive complex nursing care aimed at promotion, restoration and maintenance of health in adults. The lecture portion of the course emphasizes the impact of health problems and the interaction of the environment and access on diverse urban adult populations. Students refine and expand their knowledge through the application of the nursing process and the integration of knowledge, concepts and theories from nursing, sciences, and general education courses. The focus is on nursing interventions for selected adult patients whose quality of life is affected by deviations from health. The clinical practicum occurs within acute care settings and provides the student with experience in content application, collaboration and critical thinking. In addition, students enhance their communication and teaching/learning skills by assuming a leadership role in the seminar portion of the course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Adult Health Nursing I is the study of comprehensive complex nursing care aimed at promotion, restoration and maintenance of health in adults."
+      ]
+    }
+  },
+  {
+    "coursename": "Pharmacology in Nursing",
+    "courseid": "NURSNG314",
+    "coursedescription": "The professional, political, legal, and interdisciplinary aspects of drug administration within the context of comprehensive nursing interventions form the basis of this course. The nurse's role in assessing, administering, educating, and monitoring patients receiving therapeutic agents is stressed throughout the course. Emphasis is placed on learning the principles of pharmacodynamics and pharmacokinetics across the lifespan. Consideration is given to the effect of evidence-based cultural, race, religion, gender, lifestyle, age, economics, and genetic variables as it relates to pharmacological principles.",
+    "course-prerequsities": [
+      "NURSNG 220",
+      "HLTH 201"
+    ],
+    "course-corequisites": [
+      "NURSNG 310"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Research",
+    "courseid": "NURSNG320",
+    "coursedescription": "This course focuses on understanding the conceptual, theoretical, and empirical components of research. The student is prepared to evaluate reports of nursing research for evidence-based nursing practice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Legal, Ethical and Health Policy Issues in Nursing",
+    "courseid": "NURSNG332",
+    "coursedescription": "This course integrates ethical, legal, and health policy issues in contemporary nursing. The major ethical principles, several ethical theories and conceptual frameworks as well as ethical decision-making models are reviewed. The ANA Code of Ethics with Interpretive Statements is analyzed in relation to individual practice settings and the nursing profession. Students utilize debate methodology to resolve common ethical dilemmas in nursing. Legal implications related to providing nursing care, particularly examples of malpractice, how a bill becomes a law, and the legislative process are discussed. Students develop a position paper on a relevant health policy issue including integration of relevant ethical, legal, legislative, and economic implications.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Maternity and Women's Health Nursing",
+    "courseid": "NURSNG335",
+    "coursedescription": "This clinical course focuses on patient-centered care for women, newborns, and families with particular attention to the psychosocial concerns of the developing family. Health promotion from diverse cultural perspectives is examined. Collaboration and inter-professional team building skills are further developed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Mental Health Nursing",
+    "courseid": "NURSNG345",
+    "coursedescription": "This clinical course presents theoretical concepts and evidence-based practices for mental health nursing with a focus on health promotion, maintenance, and disease management. The care of vulnerable populations, including the elderly, is emphasized. Advocacy for quality, safe, culturally sensitive, patient-oriented care within complex health care system is also explored.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Professional Issues in Nursing for RNs",
+    "courseid": "NURSNG360",
+    "coursedescription": "This introductory course of the online RN-BS nursing program focuses on core concepts of professional nursing practice including human beings, environment, health, and nursing. This course meets the University Intermediate Seminar requirements. Students will increase their critical thinking, reading, and writing skills while addressing the key issues facing nursing. Important health care competencies and concepts, including patient-centered care, teamwork and collaboration, safety, quality improvement, evidence-based practice, and informatics, are established. Historical, theoretical, and professional membership perspectives are emphasized.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Health Assessment and Promotion",
+    "courseid": "NURSNG361",
+    "coursedescription": "This course focuses on health assessment in professional nursing practice, health promotion, and disease prevention across the lifespan. This course emphasizes clinical decision-making and communication of comprehensive assessment. Students will refine their written, oral, and information technology skills in health assessment. Cultural, spiritual, and family assessments from multiple theoretical perspectives are considered. Students will explore issues of genetics, health literacy, patient assessments in chronic illness, and health issues with particular attention to healthcare issues of elders.",
+    "course-prerequsities": [
+      "NURSNG 230",
+      "NURSNG 360",
+      "BIOL 207",
+      "BIOL 208"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research and Evidence-based Practice",
+    "courseid": "NURSNG362",
+    "coursedescription": "This course focuses on understanding the conceptual, theoretical, and empirical components of research. The student is prepared to evaluate reports of nursing research for evidence-bases nursing practice. Students will assess websites and peer-reviewed journals, as sources of evidence, and as sources of action plans to promote EBP. Students will evaluate evidence for clinical practice, and apply scientific findings to treat specific patient problems.",
+    "course-prerequsities": [
+      "NURSNG 361",
+      "NURSNG 314",
+      "ENGL 101",
+      "ENGL 102",
+      "EHS 280",
+      "MATH 125",
+      "ECON 205",
+      "PSYCH 270",
+      "SOCIOL 350",
+      "IT 111L"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Healthcare Participant",
+    "courseid": "NURSNG370",
+    "coursedescription": "This course introduces students to the attributes of the health care participant as an individual, family, or a community. Students explore the role of the nurse in caring for the healthcare participant, considering the local, national, and international social and political frameworks that influence care. Concepts included are related to Health, Illness, & Wellness continuum, teaching and learning, professional behaviors, leadership and management.",
+    "course-prerequsities": [
+      "NURSNG 270",
+      "NURSNG 271",
+      "NURSNG 272",
+      "NURSNG 273"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Evidence-Based Nursing Practice",
+    "courseid": "NURSNG371",
+    "coursedescription": "This course focuses on understanding the conceptual, theoretical, and empirical components of research. The student is prepared to evaluate reports of nursing research, identify clinical practice problems, and integrate evidence with clinical expertise and patient preference to support evidence-base, patient-centered nursing practice using the local and national lense of health policy. Concepts covered include health policy, evidence- based. practice, accountability and advocacy.",
+    "course-prerequsities": [
+      "NURSNG 270",
+      "NURSNG 271",
+      "NURSNG 272",
+      "NURSNG 273"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Concepts of Heath and Illness I",
+    "courseid": "NURSNG372",
+    "coursedescription": "The content in this course focuses on individual and population health and illness concepts across the lifespan. Concepts covered are related to perfusion, infection, immunity, and thermoregulation.",
+    "course-prerequsities": [
+      "NURSNG 270",
+      "NURSNG 271",
+      "NURSNG 272",
+      "NURSNG 273"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Concepts of Health and Illness II",
+    "courseid": "NURSNG373",
+    "coursedescription": "The content in this course focuses on individual and population health and illness concepts across the lifespan. Concepts covered are related to fluid and electrolyte imbalance, acid-base balance, oxygenation, stress and coping and elimination.",
+    "course-prerequsities": [
+      "NURSNG 270",
+      "NURSNG 271",
+      "NURSNG 272",
+      "NURSNG 273"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "NURSNG405",
+    "coursedescription": "Students participate in ongoing research on clinical projects or expand and reinforce clinical knowledge and skills through specifically arranged experiences.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Nursing in the Community",
+    "courseid": "NURSNG430",
+    "coursedescription": "This clinical course presents clinical prevention interventions for health promotion and disease prevention. Population-focused care emphasizing community assessments and interventions and culturally sensitive care in urban settings provides a focus. Advocating for social and environmental justice and protecting vulnerable populations in disasters is also explored.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Nursing Care of Children",
+    "courseid": "NURSNG435",
+    "coursedescription": "This clinical course focuses on patient-centered, culturally sensitive care for children, adolescents, and families. Common health concerns of the pediatric urban population are emphasized. Ongoing development of quality and safety competencies and use of information technologies in evidence-based practice is highlighted.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Nursing Synthesis and Capstone",
+    "courseid": "NURSNG455",
+    "coursedescription": "This clinical course integrates human responses to complex adult acute and chronic health care concerns within diverse, urban populations. Clinical judgment and reasoning skills are further developed in a precepted clinical experience within complex health care systems. Application and evaluation of safety, quality improvement, evidence-based practice, informatics, and teamwork and collaboration competencies culminates in the senior capstone project.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Leadership and Professional Practice Accelerated Option",
+    "courseid": "NURSNG456",
+    "coursedescription": "This accelerated course focuses on leadership development for entry-level professional nursing practice. Inter-professional communication, conflict resolution, delegation, and change processes are explored. Building cultures of quality and safety and teamwork in complex health care systems are also addressed. Professional career development, practice regulations, and preparation for licensure are specifically highlighted.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Community Health for Registered Nurses",
+    "courseid": "NURSNG461",
+    "coursedescription": "This course presents clinical prevention interventions for health promotion and disease prevention. Population-focused care emphasizing community assessments and interventions and culturally sensitive care in urban settings provides a focus. Advocating for social and environmental justice while protecting vulnerable populations in disasters is also explored. Students are required to participate in a service-learning project during the semester.",
+    "course-prerequsities": [
+      "NURSNG 362"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Legal, Ethical and Health Policy and Capstone for RNs",
+    "courseid": "NURSNG462",
+    "coursedescription": "This course integrates ethical, legal, and health policy issues in contemporary Nursing. The major ethical principles, several ethical theories and conceptual frameworks, as well as, ethical decision-making models are reviewed. The ANA Code of Ethics with interpretive statements are analyzed in relation to individual practice settings and the nursing profession. Legal implications related to providing nursing care, particularly examples of malpractice, how a bill becomes law, and the legislative process are discussed. Students develop a position paper in memo format on a health policy issue including integration of relevant ethical, legal, legislative and economic implications. Students are responsible for a Capstone paper that presents analysis of individual case studies from the student's professional clinical experience integrating concepts of ethical reasoning, policy formation, and legal processes.",
+    "course-prerequsities": [
+      "NURSNG 360"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Professional Nursing Concepts",
+    "courseid": "NURSNG470",
+    "coursedescription": "This course integrates ethical, legal, and health policy issues in contemporary nursing. The major ethical principles, several ethical theories, and conceptual frameworks, as well as ethical decision-making models, are reviewed. Students practice articulating how to resolve common ethical dilemmas in nursing. Concepts relating to providing nursing care are interpreted and applied concepts including ethics, collaboration, time management, and legal issues.",
+    "course-prerequsities": [
+      "NURSNG 370",
+      "NURSNG 371",
+      "NURSNG 372",
+      "NURSNG 373"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Active and Engaged Nursing Practice",
+    "courseid": "NURSNG471",
+    "coursedescription": "This course focuses on leadership development for entry-level professional nursing practice. Interprofessional communication, conflict resolution, delegation, and change processes are explored. Students utilize concepts that highlight building cultures of quality and safety and teamwork in complex health care systems. Students are responsible for evaluating access to care, screening and patient self-management principles as well as exploring integrative therapies. Concepts covered include leadership and management, quality improvement, managing care, health illness, and wellness and population health.",
+    "course-prerequsities": [
+      "NURSNG 370",
+      "NURSNG 371",
+      "NURSNG 372",
+      "NURSNG 373"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Concepts of Health and Illness III",
+    "courseid": "NURSNG472",
+    "coursedescription": "The focus of this course is to help students learn about management of care for patients across the lifespan in diverse healthcare delivery settings. Concepts covered are related to development, family, reproduction, intracranial regulation, violence, and sexuality.",
+    "course-prerequsities": [
+      "NURSNG 370",
+      "NURSNG 371",
+      "NURSNG 372",
+      "NURSNG 373"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Concepts of Heath and Illness IV",
+    "courseid": "NURSNG473",
+    "coursedescription": "The focus of this course is to help students learn about the management of care for patients across the lifespan in diverse healthcare delivery settings. Concepts covered are related to regulation, mood and affect, grief and loss and comfort.",
+    "course-prerequsities": [
+      "NURSNG 370",
+      "NURSNG 371",
+      "NURSNG 372",
+      "NURSNG 373"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Advanced Practice Nursing: Knowledge for Practice in the Global Community",
+    "courseid": "NURSNG601",
+    "coursedescription": "This required core course presents a foundational context for the global, inclusive environment in which advanced practice nurses participate in the care of diverse populations. The course focuses on the integration of knowledge from nursing and the biopsychosocial fields for the continual improvement of advanced practice nursing care across diverse populations and settings. Populations are defined in the context of diversity of age, gender, race/ethnicity, culture, language, sexual orientation, abilities, religion and socioeconomic status as well as those that may be underserved, vulnerable populations or experience health disparities. The course builds on learners' understanding of nursing knowledge gained in their undergraduate studies and provides the opportunity to analyze a broad spectrum of conceptual and theoretical frameworks from multiple disciplines. Learners select a nursing conceptual-theoretical framework to explore in-depth and to apply to advanced nursing practice with a selected population and health condition of interest.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Learners select a nursing conceptual-theoretical framework to explore in-depth and to apply to advanced nursing practice with a selected population and health condition of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "The Nurse Educator in the Academic Setting",
+    "courseid": "NURSNG608",
+    "coursedescription": "The course focuses on expected advanced teaching skills for nurse educators to help students acquire the knowledge, skills and values required for professional nursing practice. Sessions focus on the role of the academic nurse educator, classroom teaching skills, curriculum development and methods for evaluating learning. A clinical practicum experience, precepted by an expert academic nurse educator, is offered as an optional learning experience.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Pathophysiology",
+    "courseid": "NURSNG614",
+    "coursedescription": "This course presents the pathophysiological knowledge required of the advanced practice nurse to practice in the management of pathophysiological disorders in primary and tertiary care settings. It includes genetic and cellular mechanisms of diseases, the immune responses and selected disorders throughout life span. It explores current research findings and theory relevant to the pathophysiology of common illnesses. Students analyze laboratory data in light of actual and potential pathophysiological processes. Special emphasis is given to the case study presentations to aid student application of pathophysiologic process to advanced nursing practice in diverse populations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Health Assessment Practicum",
+    "courseid": "NURSNG615",
+    "coursedescription": "This course focuses on the development of advanced practice nursing knowledge and skills in health assessment with an emphasis on diverse populations. Concepts, theories and research germane to the scientific underpinnings for practice in the context of the bio-psycho-social and environmental domains of human development are emphasized. Critical thinking, diagnostic reasoning and communication skills are developed through practice with case guided vignettes and simulated or clinical practice experiences specific to the student's area of advanced practice nursing. This course builds on the students' ability to utilize scientific foundations learned in previous courses and lays the foundation for subsequent clinical courses.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Evidence Based Practice I: Appraising the Strength and Significance of Evidence",
+    "courseid": "NURSNG616",
+    "coursedescription": "This course focuses on the critical appraisal of health-related research to prepare learners to identify best practices and translate evidence to clinical practice, population health or health policy and analysis. Emphasis will be placed on evaluation multiple sources of existing evidence as the first step in identifying knowledge, practice or policy gaps and in translating evidence to improve outcomes, quality, safety, cost and access to care for individuals and populations. Ethical issues in the conduct of research and translation of evidence will be explored.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Health Policy, Finance and Ethics",
+    "courseid": "NURSNG618",
+    "coursedescription": "This course focuses on how issues and trends in health policy, economics and ethics are linked to the U.S. health care delivery system and other international health care systems. The role of the advanced practice nurse in developing a professional ethical framework, understanding the economic implications of health care and in shaping and formulating health policy will be stressed with a focus on application of course concepts for the advanced practice nurse. Relevant evidenced based research in health policy, economics and ethics will be analyzed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Pharmacology for the Advanced Practice Nurse",
+    "courseid": "NURSNG634",
+    "coursedescription": "This course emphasizes the pharmacological knowledge required by the advanced practice nurse to safely care for and counsel patients with physical and mental illnesses across the lifespan. Students synthesize knowledge of clinical pharmacokinetics and pharmacodynamics in the management of common disease processes occurring in pre-and post-natal women, infants, children, adolescents, adults, and elders. Students will analyze and discuss current research findings related to pharmacotherapeutic therapies for patients in the community and tertiary care settings. Guided by faculty prepared in pharmacology and experienced in applying the science of clinical pharmacology in the practice setting, students will apply their knowledge of pharmacotherapeutics to the care of patients throughout patient transitions of care.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Mental and Psychosocial Health of the Urban Family",
+    "courseid": "NURSNG637",
+    "coursedescription": "Multicultural individuals and families at risk for mental and psychosocial problems are considered within the context of urban living. Nursing theory and research is applied to developing processes of care for individuals across the lifespan with mental health and psychosocial problems. Students learn evidence-based care including cognitive-behavioral, psychopharmacological, and non-traditional approaches to psychosocial and related physical problems. Research related to environmental, psychosocial, genetic, economic, family systems, developmental risk factors, drug efficacy and nonpharmacological approaches for individuals with mental and psychosocial illness is investigated. The impact of contemporary health care policy and legislative proposals on quality, cost, and access to care is investigated.",
+    "course-prerequsities": [
+      "NURSNG 614",
+      "NURSNG 615",
+      "NURSNG 634"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Primary Care of Adults",
+    "courseid": "NURSNG639",
+    "coursedescription": "This course provides the knowledge related to the assessment and management of patients with acute and chronic health care problems encountered by nurse practitioners in family practice and adult/gerontological primary care settings. Students analyze the direct and indirect components of the nurse practitioner role related to primary health care. Application of evidence based guidelines and research are used to support diagnostic, therapeutic, and pharmacological regimens. Continued emphasis is placed on the application of culturally sensitive nursing care to a diverse population, where diversity includes age, gender, race, ethnicity, culture, religion, sexual orientation, abilities, and socioeconomic status.",
+    "course-prerequsities": [
+      "NURSNG 640"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Health Promotion and Disease Prevention Across the Lifespan",
+    "courseid": "NURSNG640",
+    "coursedescription": "Students analyze the clinical application of theories and research from nursing, health promotion, and disease prevention. Family, human development, patient education and community theories that inform patient/family centered care are examined. Data grounded in epidemiological, sources, health histories, family assessments, physical examinations, diagnostic tests, and community assets are examined as the basis for case findings and identification of risk factors. Students begin to institute primordial, primary and secondary interventions tailored to diverse populations, demonstrate interdisciplinary communication skills, examine collaborative community partnerships, and analyze the dimensions of the advanced nursing professional leadership role in diverse communities.",
+    "course-prerequsities": [
+      "NURSNG 614",
+      "NURSNG 615",
+      "NURSNG 634"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Primary Care of the Adult Practicum",
+    "courseid": "NURSNG670",
+    "coursedescription": "Students refine their advanced practice skills with further attention to applying theory and evidenced-based practices in the role of the family or adult/gerontological nurse practitioner (NP). Important NP skills, including assessment, diagnostic, therapeutic, evaluative, consultative, teaching, and leadership, are examined within professional, legal-ethical, cultural, policy, improvement, and systems frameworks. Students continue to gain precepted, primary care, clinical experiences in health promotion and episodic and chronic illness management for adult populations, including primary care in women's health needs. This course meets the University Capstone requirement.",
+    "course-prerequsities": [
+      "NURSNG 639"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Primary Care of the Older Adult",
+    "courseid": "NURSNG671",
+    "coursedescription": "This course focuses on the health care issues and needs of elders across the care continuum of acute, chronic, community, and long-term care settings. Aspects of physical, emotional, cultural, and social aging across the lifespan are explored utilizing various theoretical perspectives and models. The assessment, teaching-coaching and management roles of the advanced practice gerontological nurse in relations to acute and chronic health conditions of the older adult are emphasized.",
+    "course-prerequsities": [
+      "NURSNG 639"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Primary Care of the Older Adult Practicum",
+    "courseid": "NURSNG672",
+    "coursedescription": "Students further refine skills in critical thinking and clinical reasoning in the application of theory and research to practice. Assessment, diagnostic, therapeutic, and health teaching strategies are applied to a continuum of health promotion/illness problems with a focus on the primary care of adults and older adults across the continuum of care. Students build skills in seeing increasingly complex patients with a combination of higher risk, acute illness, and chronic health problems where atypical disease presentation and challenges to disease treatment exist. Seminars are grounded in learning the application of theory and research to the domains of practice of the adult/gerontological nurse practitioner including the management of patient health and illness, the teaching-coaching function of the nurse practitioner, and ensuring the quality of health care services. Interdisciplinary collaborative practice skills are developed. Students develop role competencies under the supervision of nurse practitioner or physician preceptors and faculty in a variety of health care settings. Seminar discussions include an exploration of special topics in disease management to improve quality, access and cost of primary health care for diverse populations (or communities) with an emphasis on underserved populations, where diversity includes age, gender, race/ethnicity, culture, religion, language, sexual orientation, abilities, and socioeconomic status.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "NURSNG 671"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Primary Care of the Childbearing Family",
+    "courseid": "NURSNG681",
+    "coursedescription": "This course builds on human growth and development to focus on acquiring knowledge related to the assessment and management of patients with acute and chronic health care problems encountered by nurse practitioner in family practice and pediatric primary care settings. Problems of pregnant women, infants, children and adolescents are analyzed within a family nurse practitioner framework for practice. Evidenced based laboratory, diagnostic, therapeutic and pharmacological plans of care are applied to problem management. Continued emphasis in placed on application of culturally sensitive nursing care to a diverse population where diversity includes age, gender, race, ethnicity, culture, religion, sexual orientation, abilities,and socioeconomic status.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "NURSNG 639"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Primary Care of the Childbearing Family Practicum",
+    "courseid": "NURSNG682",
+    "coursedescription": "Students refine their advanced practice skills with further attention to applying theory and evidenced-based practices in the role of the family nurse practitioner (NP). Important NP skills, including assessment, diagnostic, therapeutic, evaluative, consultative, teaching, and leadership, are examined within professional, legal-ethical, cultural, policy, improvement, and systems frameworks. Students continue to gain precepted, clinical, primary care experiences in health promotion and episodic and chronic illness management for families and pediatric populations, from infants and children through adolescents.",
+    "course-prerequsities": [
+      "NURSNG 670",
+      "NURSNG 681"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Health Informatics",
+    "courseid": "NURSNG715",
+    "coursedescription": "Students learn advanced practice nursing competencies related to computer skills, informatics skill, and informatics knowledge. Application of information theory and computer technology skills is directed towards improving the organization and delivery of healthcare to multicultural populations receiving primary, secondary, and tertiary health care. Health Informatics deals with using technology tools for optimizing the collection, verification and utilization of data that relates to generating knowledge to inform best practices and leadership in both public and private health systems. Students are directed to investigate ways in which information systems can address disparities in health services.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DNP Seminar II: Designing and Evaluating Improvement Projects",
+    "courseid": "NURSNG716",
+    "coursedescription": "This is the second of a 5-course sequence which focuses on translating research and other forms of evidence to improve practice processes and outcomes. Learners refine and extend the knowledge and competencies acquired in DNP Seminar I to develop theory-guided, evidence-based practice innovations that will improve quality, safety, outcomes, cost and/or access to care for a specific setting or population. The end products of this course serve as the theoretical framework and foundation for the DNP Scholarly Project.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DNP Seminar V: Dissemination of Project Improvement Outcomes",
+    "courseid": "NURSNG719",
+    "coursedescription": "This is the fifth of a 5-course sequence where the learner continues to integrate the role of the DNP into the practice site that includes experiences in application of evidence to practice, leadership, consultation, advocacy, and interdisciplinary collaboration. In this final seminar, learners complete the practicum experience and have implemented, evaluated the improvement project and synthesized the project outcomes. With guidance from faculty, mentors and peers, learners generate recommendations for practice and policy at the project site reflecting on their achievement of the AACN Essentials of Advanced Education Domains. In seminars, learners meet to examine the process and outcomes of their colleague's scholarly projects and analyze theory and evidence related to healthcare policy and practice.",
+    "course-prerequsities": [
+      "NURSNG 718"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Secondary Data Analysis",
+    "courseid": "NURSNG720",
+    "coursedescription": "This course will explore the use and limits of large national databases for the conduct of nursing and health policy research. Students will master accessing, downloading, and analyzing data from large data sets. Students will identify a testable research question and develop an analytic file to be used for analysis. Data used for this class are drawn from the Healthcare Cost and Utilization project (HCUP), 2000 Nationwide Inpatient Sample (NIS).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Health Policy I",
+    "courseid": "NURSNG741",
+    "coursedescription": "This is the first course in a two-semester health policy sequence. It provides a foundation for health policy analysis, focusing on the history and development of political, economic, and social systems involved in health care and on theories useful in the analysis of past, current, and future health policies. The course examines federal, state, and local governmental structures and the ways in which they and other forces affect health policy.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Population Health I",
+    "courseid": "NURSNG745",
+    "coursedescription": "This is the first course in a two-semester Population Health sequence. It will provide a foundation for population health study. The course focuses on the conceptual understanding of population health and its importance in the health care system and in the community. Understanding population health issues such as health promotion, and disease and injury prevention that are influenced by local, national, and global health is an approach that seeks to improve the health of the whole population. The lens of population health student also allows us to understand disparities in health outcomes, and to identify effective strategies for reducing gaps in health disparities both within and between population groups. By the end of this course, students will be able to analyze and evaluate priority population health outcomes and strategies within--population health and its determinants-- to promote health locally, nationally, and globally.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Social Behavioral Determinants of Health",
+    "courseid": "NURSNG757",
+    "coursedescription": "This course focuses on theory, research, and current issues relevant to social and behavioral determinants of health. Viewed within a social-ecological framework, core concepts central to understanding determinants of population health and health disparities are addressed. Emphasis is placed on analysis, critique, and synthesis of interdisciplinary literature and application to nursing and public health practice, future research and scholarly inquiry, and multi-level policies, necessary to reduce disparities in the social and behavioral determinants of the public's health.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Biostatistics II: Advanced Statistical Methods in Healthcare Research",
+    "courseid": "NURSNG770",
+    "coursedescription": "This is the second course in a two-semester Biostatistics sequence. This course covers several advanced methods of statistical analysis that are most often used in Healthcare research, including multiple linear regression, logistic regression, log-linear (Poisson) regression, Cox proportional hazards regression, and longitudinal data analysis. This course also discusses the methods and techniques in assessing the presenting confounding and interaction effects, and handling missing values. The primary purpose of this course is to help students gain understanding of the advanced statistical methods and use these concepts to critique literature in the field of clinical and population based research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Epidemiologic Methods",
+    "courseid": "NURSNG780",
+    "coursedescription": "This course builds on prior knowledge of the basic principles of epidemiology while introducing methods of epidemiologic analysis, and their application to the field of advanced practice nursing (APRN) at the Doctor of Nursing Practice (DNP) level. The course is intended to provide students with the skills and knowledge to critically evaluate health research based on epidemiologic standards. In addition, students will learn to perform preliminary analyses of epidemiologic, biostatistical, environmental, and other scientific data to address basic questions related to individual, aggregate, and population health. Students will analyze public use datasets and interpret published government reports describing population health status and the occurrence of diseases in populations at the local, state, and national levels.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Integrating concepts & methods for research development",
+    "courseid": "NURSNG790",
+    "coursedescription": "This course prepares students in their development of the required elements for the comprehensive exams, which precede the conduct of dissertation research. Students will formulate coherent philosophical, theoretical, conceptual, and methodological understandings in their appraisal of knowledge gained from previous coursework. Considerations for new inquiry that advance nursing science and health sciences will be explored. Conducting an effective and comprehensive review of the literature or policy analysis from conceptual and methodological perspectives will also be emphasized. This course is designed to give doctoral students opportunities to engage classmates and professors in dialogue and discussion about integrating concepts and methods into the process of research development. Students should take advantage of this opportunity to build their research community by engaging fully in class discussion with fellow students and faculty.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "NURSNG796",
+    "coursedescription": "Students wishing to enroll in this course should present to the faculty a well-defined problem for investigation. Plans for advanced study should be established at the beginning of the semester during which the student wishes to take the course. The study will be conducted in consultation and collaboration with the student's faculty advisor, and documented in a report at the end of the semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Research",
+    "courseid": "NURSNG899",
+    "coursedescription": "Research in the student's area of interest conducted under faculty supervision, resulting in the presentation of a doctoral dissertation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Research in the student's area of interest conducted under faculty supervision, resulting in the presentation of a doctoral dissertation."
+      ]
+    }
+  }
+]

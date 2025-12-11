@@ -1,0 +1,997 @@
+[
+  {
+    "coursename": "CHIN 0100 Beginning Chinese I",
+    "courseid": "CHIN 0100",
+    "coursedescription": "Along with Beginning Modern Chinese II, Beginning Chinese III (Non-Intensive) and Beginning Chinese IV, this is the first course of a four-semester sequence. By completing all four semesters, students fulfill the College language requirement. The sequence starts each fall. Students cannot begin their study in the spring. This course is designed primarily for students who have little or no prior exposure to Chinese. The objective of the course is to help students build a solid foundation of the four basic skills--listening, speaking, reading, and writing in an interactive and communicative learning environment. The emphasis is on correct pronunciation, accurate tones, and mastery of basic grammatical structures, laying the foundation needed to be able to manage social situations such as relating one's personal life and experiences, expressing preferences and feelings, ordering meals, purchasing goods, and asking for directions. In order to achieve these goals, students are expected to thoroughly preview and review the materials according to the weekly lesson plan (on course website) prior to attending class. Regular attendance is mandatory and strictly monitored. Fall Mutually Exclusive: CHIN 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0105 Spoken Chinese I",
+    "courseid": "CHIN 0105",
+    "coursedescription": "This course is designed for students who have little or no previous exposure to Chinese. The main objective of the course is to help students develop their listening and speaking skills. The emphasis is on correct pronunciation, accurate tones and mastery of basic grammatical structures. Chinese characters will not be taught. Fall Mutually Exclusive: CHIN 5105 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0131 Beginning Cantonese I",
+    "courseid": "CHIN 0131",
+    "coursedescription": "Beginning Cantonese is a preliminary course for spoken Cantonese. The course provides fundamental aspects of the dialect as experienced in daily life situations and lays the foundation which will enable students to communicate in Cantonese for daily life needs, such as making phone calls, making purchases, getting around by various means of transportation, seeing a doctor, being a guest or a host at dinner, talking about the weather, talking about sports and entertainment, etc. It is strongly recommended that students continue to Beginning Cantonese II to become conversational Fall Mutually Exclusive: CHIN 5131 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is strongly recommended that students continue to Beginning Cantonese II to become conversational Fall Mutually Exclusive: CHIN 5131 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "CHIN 0133 Beginning Taiwanese I",
+    "courseid": "CHIN 0133",
+    "coursedescription": "Beginning Taiwanese I is designed to help students learn enough to enable them to handle basic social interactions when visiting Taiwan, such as greeting others, introducing yourself, ordering food, asking directions, etc. You will also learn to listen and understand the oral language typically heard in locations such as the grocery store, train station, bus stop, and restaurants. Fall Mutually Exclusive: CHIN 5133 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "You will also learn to listen and understand the oral language typically heard in locations such as the grocery store, train station, bus stop, and restaurants."
+      ]
+    }
+  },
+  {
+    "coursename": "CHIN 0160 Beginning Business Chinese I",
+    "courseid": "CHIN 0160",
+    "coursedescription": "Along with Beginning Business Chinese II, this is the first course in a two-semester sequence. By completing both semesters, students will fulfill Wharton's undergraduate foreign language requirement. The sequence begins each fall semester. This course is designed to introduce students with little or no prior exposure to Mandarin Chinese to beginning-level business Chinese. Throughout this course, students will develop listening, speaking, reading, and writing/typing skills, with a primary emphasis on listening and speaking in Mandarin-speaking business contexts. This will be achieved by acquiring basic vocabulary and expressions related to business activities, such as visiting companies and making appointments. Furthermore, students will also be exposed to useful expressions for everyday life in China, including greetings, introductions, and navigating daily situations. The course places a strong emphasis on culture, considering it a critical component. Students will actively explore Chinese social and cultural norms, fostering an understanding of Chinese cultural products, practices, perspectives, and interpersonal behavioral culture. This knowledge equips students to communicate effectively across ethnic, cultural, ideological, and national boundaries. An additional objective of this course is to help students develop cross-cultural competence, enabling them to navigate and succeed in professional Chinese environments. Fall Mutually Exclusive: CHIN 5160 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0200 Beginning Chinese II",
+    "courseid": "CHIN 0200",
+    "coursedescription": "This course is the continuation of Beginning Chinese I and is the second course of a four-semester sequence. By completing all four semesters, students fulfill the College language requirement.The objective of the course is to help students build a solid foundation of the four basic skills--listening, speaking, reading, and writing-- in an interactive and communicative learning environment. The emphasis is on correct pronunciation, accurate tones and mastery of basic grammatical structures. By the end of the semester, students will be able to manage many situations that have immediate concern to them, such as relating one's personal life and experiences, expressing preferences and feelings, ordering meals, purchasing goods and asking for directions. In order to achieve these goals, students are expected to thoroughly preview and review the materials according to the weekly lesson plan (on course website) prior to attending class. Regular attendance is mandatory and strictly monitored. Spring Mutually Exclusive: CHIN 5200 Prerequisite: CHIN 0100 AND CHIN 0300 AND CHIN 0400 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0100",
+      "CHIN 0300",
+      "CHIN 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0205 Spoken Chinese II",
+    "courseid": "CHIN 0205",
+    "coursedescription": "A continuation of Spoken Chinese I, this course is to help students develop their listening and speaking skills. The emphasis is on correct pronunciation, accurate tones and mastery of basic grammatical structures. By the end of the semester, students will be able to manage many situations that have immediate concern to them, such as relating one's personal life and experiences, expressing preferences and feelings, ordering meals, purchasing goods, asking for directions. To achieve this goal, the class is to be conducted in Chinese as much as possible. Chinese characters will also be introduced, but will not be the focus of the class. Spring Mutually Exclusive: CHIN 5205 Prerequisite: CHIN 0105 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0105"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0210 Intensive Beginning Chinese I & II",
+    "courseid": "CHIN 0210",
+    "coursedescription": "Along with Intensive Beginning Chinese III & IV, this is the first course of a two-semester sequence. By completing both semesters, students fulfill the College language requirement. The sequence starts each fall. Students cannot begin their study in the spring. This course covers the same material as Beginning Chinese I & II. The main objective is to help students build a solid foundation of the four basic skills--listening, speaking, reading, and writing. By the end of this course, students should achieve a solid foundation in: 1) pronouncing all the sounds in Mandarin Chinese accurately and comfortably with a good command of the 4 tones; 2) carry out basic conversations in daily activities; 3) recognize and reproduce approximately 600-650 characters; and 4) read edited simple stories and write short notes or letters. Grammatical and cultural issues are discussed during lecture hours. Oral communication tasks are given every week. Fall Mutually Exclusive: CHIN 5210",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CHIN 0231 Beginning Cantonese II",
+    "courseid": "CHIN 0231",
+    "coursedescription": "A continuation of Beginning Cantonese I, this class is a preliminary course for spoken Cantonese. The course provides fundamental aspects of the dialect as experienced in daily life situations and will enable students to communicate in Cantonese for daily life needs, such as making phone calls, making purchases, getting around by various means of transportation, seeing a doctor, being a guest or a host at dinner, talking about the weather, talking about sports and entertainment, etc. Fall Mutually Exclusive: CHIN 5231 Prerequisite: CHIN 0131 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0131"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0233 Beginning Taiwanese II",
+    "courseid": "CHIN 0233",
+    "coursedescription": "A continuation of Beginning Taiwanese I, this course will cover language training as well as cultural topics including history and political aspects of Taiwan. Conversation topics range from daily conversation to professional and formal situations. Spring Mutually Exclusive: CHIN 5233 Prerequisite: CHIN 0133 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0133"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0260 Beginning Business Chinese II",
+    "courseid": "CHIN 0260",
+    "coursedescription": "This course is a continuation of Beginning Business Chinese I and is the second course of a two-semester sequence. By completing both semesters, students will fulfill Wharton's undergraduate foreign language requirement. This course is designed for those wishing to improve their language skills in a business setting, as well as an understanding of Chinese social development since 1976. The emphasis is on correct pronunciation, accurate tones and mastery of basic grammatical structures. The main focus is on speaking and listening, reading, typing with minimal handwriting. Upon completion of this course, students are expected to be able to converse and interact with people in a variety of business traveling settings and company visits. Topics include meeting people, talking about family, introducing companies, making inquiries and appointments, visiting companies, introducing products, initiating dining invitations and practicing dining etiquette. Culture is a critical component of this course. Through active exploration of Chinese social and cultural norms, students will develop an understanding of Chinese cultural products, practices and perspectives, as well as Chinese interpersonal behavioral culture to communicate across ethnic, cultural, ideological and national boundaries. An additional goal of this course is for students to develop cross-cultural competence in order to function successfully in professional Chinese environments. Spring Mutually Exclusive: CHIN 5260 Prerequisite: CHIN 0160 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0160"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0300 Intermediate Chinese I",
+    "courseid": "CHIN 0300",
+    "coursedescription": "This is the third course in a four-semester sequence. By completing all four semesters, students fulfill the College language requirement. The objective of the course is to continue building a solid foundation of the four basic skills--listening, speaking, reading and writing. By the end of this course, students should achieve the following goals: 1) pronounce all the sounds in Mandarin accurately and comfortably with a good command of the four tones; 2) carry out simple dialogues of familiar topics; 3) recognize and reproduce approximately 450-500 characters; and 4) read short textbook stories and write simple notes. In order to develop students' listening and speaking ability, oral communication tasks are given on each lesson. Fall Mutually Exclusive: CHIN 5300 Prerequisite: CHIN 0200 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0301 Intermediate Chinese I",
+    "courseid": "CHIN 0301",
+    "coursedescription": "This is the third course in a four-semester sequence. By completing all four semesters, students fulfill the College language requirement. The objective of the course is to continue building a solid foundation of the four basic skills--listening, speaking, reading and writing. By the end of this course, students should achieve the following goals: 1) pronounce all the sounds in Mandarin accurately and comfortably with a good command of the four tones; 2) carry out simple dialogues of familiar topics; 3) recognize and reproduce approximately 450-500 characters; and 4) read short textbook stories and write simple notes. In order to develop students' listening and speaking ability, oral communication tasks are given on each lesson. Fall Prerequisite: CHIN 0200 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0305 Spoken Chinese III",
+    "courseid": "CHIN 0305",
+    "coursedescription": "This course is designed for students who have completed one year of college level Chinese classes or equivalent. The main objective of the course is to improve students' conversational ability in Chinese in order to accomplish day-to-day tasks. These tasks include relating one's personal life and experiences, expressing preference, feeling and opinion, ordering a meal, purchasing goods, asking for directions, making travel plans, visiting a doctor, attending a social functions etc. Short Chinese movies or television shows will be integrated into the course curriculum. Chinese characters will not be taught. Fall, even numbered years only Mutually Exclusive: CHIN 5305 Prerequisite: CHIN 0205 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0205"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0320 Reading and Writing in Chinese I (for Fluent Speakers)",
+    "courseid": "CHIN 0320",
+    "coursedescription": "The course is designed for students who can speak Chinese but cannot read and write in Chinese characters. The major purpose of this course is to help students develop the ability to use written Mandarin Chinese in linguistically and socially appropriate ways. The literacy goal is to master 350 to 1000 Chinese characters and to reach an intermediate-low level of ACTFL literacy proficiency. The key teaching approach is to holistically read a prodigious amount of materials. Students' reading abilities will be developed through reading short stories under instructions, and eventually through reading long stories and news independently. Fall Mutually Exclusive: CHIN 5320 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0331 Intermediate Cantonese I",
+    "courseid": "CHIN 0331",
+    "coursedescription": "Intermediate Cantonese is a course for students who are able to communicate in the dialect in basic survival situations. Through this course, the students will acquire a better understanding of Cantonese and its related culture, and can confidently cope with a wide range of situations. Classes will be conducted through Cantonese textbooks, discussions of various topics, and composition and presentation of students' own dialogues so that in time they may express more complex ideas and feelings. Continuation to Intermediate Cantonese II is strongly encouraged. Fall Mutually Exclusive: CHIN 5331 Prerequisite: CHIN 0231 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0231"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0333 Intermediate Taiwanese I",
+    "courseid": "CHIN 0333",
+    "coursedescription": "Students will further develop their speaking and listening skills and will be able to communicate with ease and confidence when dealing with everyday routine tasks. Students will also gain skills to process and seek information in Taiwanese. Conversation topics include New Year, folk songs, and Tang poetry. Authentic materials are used for enhancing reading, listening, and speaking practices. Fall Mutually Exclusive: CHIN 5333 Prerequisite: CHIN 0233 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0233"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0400 Intermediate Chinese II",
+    "courseid": "CHIN 0400",
+    "coursedescription": "This is the fourth course in a four-semester sequence. By completing all four semesters, students fulfill the College language requirement. The objective of the course is to continue building a solid foundation of the four basic skills--listening, speaking, reading and writing. By the end of this course, students should achieve the following goals: 1) pronounce all the sounds in Mandarin accurately and comfortably with a good command of the four tones; 2) carry out simple dialogues of familiar topics; 3) recognize and reproduce approximately 600-650 characters; and 4) read short textbook stories and write simple notes In order to develop students' listening and speaking ability, oral communication tasks are given every other week. Spring Mutually Exclusive: CHIN 5400 Prerequisite: CHIN 0300 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0401 Intermediate Chinese II",
+    "courseid": "CHIN 0401",
+    "coursedescription": "This is the fourth course in a four-semester sequence. By completing all four semesters, students fulfill the College language requirement. The objective of the course is to continue building a solid foundation of the four basic skills--listening, speaking, reading and writing. By the end of this course, students should achieve the following goals: 1) pronounce all the sounds in Mandarin accurately and comfortably with a good command of the four tones; 2) carry out simple dialogues of familiar topics; 3) recognize and reproduce approximately 600-650 characters; and 4) read short textbook stories and write simple notes In order to develop students' listening and speaking ability, oral communication tasks are given every other week. Spring Prerequisite: CHIN 0300 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0405 Spoken Chinese IV",
+    "courseid": "CHIN 0405",
+    "coursedescription": "This course is the continuation of Spoken Chinese III. The primary goal of the course is to improve students' conversational ability in Chinese. By the end of the semester, students will reach the survival level, namely, they can accomplish basic day to day tasks. These tasks include relating one's personal life and experiences, expressing preference, feeling and opinion, ordering a meal, purchasing goods, asking directions, making travel plans, visiting a doctor, attending a social function, etc. Short Chinese movies or television shows will be integrated into the course curriculum. Chinese characters will not be taught. Spring Mutually Exclusive: CHIN 5405 Prerequisite: CHIN 0305 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0305"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0410 Intensive Intermediate Chinese I & II",
+    "courseid": "CHIN 0410",
+    "coursedescription": "Along with Intensive Beginning Chinese I & II, this is the second course of a two-semester sequence. By completing both semesters, students fulfill the College language requirement. This course covers the same material as Intermediate Chinese I & II. The main objective is to help students build a solid foundation of the four basic skills--listening, speaking, reading, and writing. By the end of this course, students should achieve the following goals: 1) pronounce all the sounds in Mandarin Chinese accurately and comfortably with a good command of the 4 tones; 2) carry out basic conversations in daily activities; 3) recognize and reproduce approximately 600-650 characters; and 4) read edited simple stories and write short notes or letters. Grammatical and cultural issues are discussed during lecture hours. Oral communication tasks are given every week. Designed for students who have had limited prior exposure to some form of Chinese (Mandarin or other dialects), but inadequate to advance to the intermediate level. The language practiced in this class will be more formal oral and written style, including more authentic materials reading, listening and viewing. Spring Mutually Exclusive: CHIN 5410 Prerequisite: CHIN 0210",
+    "course-prerequsities": [
+      "CHIN 0210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CHIN 0420 Reading and Writing in Chinese II (for Fluent Speakers)",
+    "courseid": "CHIN 0420",
+    "coursedescription": "A continuation of Reading/Writing Chinese I, this course is designed for students who can speak Chinese and have reading ability of about 1000 Chinese characters. It is specifically designed for students at the ACTFL intermediate-low reading and writing level. The literacy goal is to master 1000 to 2000 Chinese words and reach the intermediate-mid proficiency level. Reading material covers topics that are meaningful to students not only to increase engagement and confidence in their Chinese reading skills, but also foster students' appreciation and understanding of the Chinese culture. Spring Mutually Exclusive: CHIN 5420 Prerequisite: CHIN 0320 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0320"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0431 Intermediate Cantonese II",
+    "courseid": "CHIN 0431",
+    "coursedescription": "A continuation of Intermediate Cantonese I. Intermediate Cantonese is a course for students who are able to communicate in the dialect in basic survival situations. Through this course, the students will acquire a better understanding of Cantonese and its related culture, and can confidently cope with a wide range of situations. Classes will be conducted through Cantonese textbooks, discussions of various topics, and composition and presentation of students' own dialogues so that in time they may express more complex ideas and feelings. Spring Mutually Exclusive: CHIN 5431 Prerequisite: CHIN 0331 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0331"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0433 Intermediate Taiwanese II",
+    "courseid": "CHIN 0433",
+    "coursedescription": "This is a continuation of Intermediate Taiwanese I. Students will further develop their speaking and listening skills and will be able to communicate with ease and confidence when dealing with everyday routine tasks. Students will also gain skills to process and seek information in Taiwanese. Conversation topics include the New Year, folk songs and Tang poetry. Authentic materials are used for enhancing reading, listening, and speaking practices. Spring Mutually Exclusive: CHIN 5433 Prerequisite: CHIN 0333 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0333"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0500 HIgh Intermediate Chinese I",
+    "courseid": "CHIN 0500",
+    "coursedescription": "This course aims to develop students' overall linguistic skills in listening, speaking, reading, and writing Chinese. The specially designed textbook gives introduction to various topics on Chinese culture. Students can expect to gain knowledge about China while they are learning the language. By completion of the course, students are expected to be able to master 1200 most frequently used characters in common reading materials, and to communicate in Chinese . Fall Mutually Exclusive: CHIN 5500 Prerequisite: CHIN 0400 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0520 Reading and Writing Chinese III (for Fluent Speakers)",
+    "courseid": "CHIN 0520",
+    "coursedescription": "An intermediate reading and writing course designed for students at the ACTFL intermediate-mid reading and writing proficiency. The goal of this course is to reach the intermediate-high level of proficiency. This course concentrates on writing of muti-paragraph essays through the use of conventional rhetorical modes and standard grammatical structures. Students will be given ample time to think and to discuss (the crucial \"brainstorming\" phase) before writing. The course stresses content, culture and comparison and draws its content from assigned readings and evidence-based argument from texts and other stimuli such as Internet, newspapers and films. Fall Mutually Exclusive: CHIN 5520 Prerequisite: CHIN 0420 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0600 High Intermediate Chinese II",
+    "courseid": "CHIN 0600",
+    "coursedescription": "This course is the continuation of High Intermediate Chinese I. It aims to further develop students' overall language skills. The textbook will introduce various topics related to Chinese culture, society, economy, people and their everyday life as well as China's development since Deng Xiaoping's reform and opening-up policies in 1978. In class, current issues in China will be integrated to provide a new perspective for discussion. The emphasis is not only to consolidate students' foundation, but also enhance their understanding and distinguish different levels of language. Over the semester, students will have many opportunities to express and share their opinions on various topics related to China via communicative activities, presentations, and written assignments. Spring Mutually Exclusive: CHIN 5600 Prerequisite: CHIN 0500 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0620 Reading and Writing Chinese IV (for Fluent Speakers)",
+    "courseid": "CHIN 0620",
+    "coursedescription": "This is an intermediate language class presuming basic fluency in speaking and listening and focusing on reading and writing abilities. By the end of the semester students are expected to have mastered the 1200 most commonly used characters and to have the ability to read basic Chinese texts. Students will be prepared for Advanced Modern Chinese, Media Chinese and Business Chinese. Spring Mutually Exclusive: CHIN 5620 Prerequisite: CHIN 0520 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0520"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0700 Advanced Chinese I",
+    "courseid": "CHIN 0700",
+    "coursedescription": "Students learn to work on materials which were written or produced for native speakers, instead of the classroom materials that were written for the non-native speakers. The reading materials include a larger vocabulary with more idioms. Students will also learn how to understand and use certain oral expressions in conversation. They will learn ways to narrate, to describe, and to comment in native Chinese ways. Reading and audio materials are provided and discussed in the classes. Writing and oral presentations in Chinese are required in classroom under instruction. Students will be encouraged to practice oral communication with each other. Fall Mutually Exclusive: CHIN 5700 Prerequisite: CHIN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0701 Advanced Chinese I",
+    "courseid": "CHIN 0701",
+    "coursedescription": "Students learn to work on materials which were written or produced for native speakers, instead of the classroom materials that were written for the non-native speakers. The reading materials include a larger vocabulary with more idioms. Students will also learn how to understand and use certain oral expressions in conversation. They will learn ways to narrate, to describe, and to comment in native Chinese ways. Reading and audio materials are provided and discussed in the classes. Writing and oral presentations in Chinese are required in classroom under instruction. Students will be encouraged to practice oral communication with each other. Fall Prerequisite: CHIN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0705 Advanced Spoken Chinese I",
+    "courseid": "CHIN 0705",
+    "coursedescription": "This course is designed for students who have completed at least the intermediate level Chinese language course, or have studied the language for at least three years. The objective of this course is to consolidate the knowledge and skills students have acquired from their previous Mandarin Chinese classes and to enhance their oral expressive skills. By the end of the semester, students are expected to be able to carry on a conversation with a native Mandarin speaker on various common topics, including the current issues in China on education, society, politics, culture and history. Students will also learn how to gather information necessary for conducting oral presentations and speeches. Fall Mutually Exclusive: CHIN 5705 Prerequisite: CHIN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0800 Advanced Chinese II",
+    "courseid": "CHIN 0800",
+    "coursedescription": "A continuation of Advanced Chinese I, this course continues training in speaking, listening, reading and writing skills so as to reach the advanced-low or advanced-mid level of proficiency. Major topics of the course include Chinese food culture, Chinese architecture, Confucianism in modern China, \"educated youth\", democracy and relations with Taiwan. Spring Mutually Exclusive: CHIN 5800 Prerequisite: CHIN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0801 Advanced Chinese II",
+    "courseid": "CHIN 0801",
+    "coursedescription": "A continuation of Advanced Chinese I, this course continues training in speaking, listening, reading and writing skills so as to reach the advanced-low or advanced-mid level of proficiency. Major topics of the course include Chinese food culture, Chinese architecture, Confucianism in modern China, \"educated youth\", democracy and relations with Taiwan. Spring Prerequisite: CHIN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0805 Advanced Spoken Chinese II",
+    "courseid": "CHIN 0805",
+    "coursedescription": "A continuation of Advanced Spoken Chinese I, this class follows the same format, with more discussions on current issues in both China and the US. Examples of topics range from race, religion and gender issues to the internet, cinema and pop cultures. The objective of this course is to consolidate the knowledge and skills students have acquired from their previous Mandarin Chinese classes and to enhance their oral expressive skills. By the end of the semester, students are expected to be able to carry on a conversation with a native Mandarin speaker on various common topics, and to gather information necessary for conducting oral presentations and speeches. Spring Mutually Exclusive: CHIN 5805 Prerequisite: CHIN 0705 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0705"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0840 Chinese Short Stories",
+    "courseid": "CHIN 0840",
+    "coursedescription": "Designed for students with advanced level Chinese language training but who need some further refinements on pronunciation, grammar, and vocabulary usage, this course stresses oral discussion, composition, and accuracy of language performance. By reading texts written by contemporary writers, students will also gain knowledge of China from an analytical and comparative perspective. Fall or Spring Mutually Exclusive: CHIN 5840 Prerequisite: CHIN 0800 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0800"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0860 Business Chinese I",
+    "courseid": "CHIN 0860",
+    "coursedescription": "This aim of this course is to enhance students' language skills in a business context and to promote their understanding about business environment and culture in contemporary China. The text is developed from real business cases from real multinational companies that have successfully dealt on the Chinese market. Classes include lectures, drills on vocabulary and sentence patterns, and discussions. Class will be conducted in Chinese. In addition to the course textbook, students will learn to read business news in Chinese selected from the Wall Street Journal. Fall Mutually Exclusive: CHIN 5860 Prerequisite: CHIN 0620 AND CHIN 0800 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0620",
+      "CHIN 0800"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0865 Business Chinese II",
+    "courseid": "CHIN 0865",
+    "coursedescription": "A continuation of Business Chinese I, this course continues language training for business oriented subjects. This course will provide an overview of China's changing macro-environment, while real business cases let us look into individual Chinese companies and their development in the new millennium. By the end of the semester, students are expected to 1) enhance the cultural awareness of contemporary China and the Chinese business world; 2) gain vocabulary and fluency in Chinese to function more confidently and comfortably in real business settings; 3) access business news and information in Chinese; 4) give business presentation in Chinese. Spring Mutually Exclusive: CHIN 5865 Prerequisite: CHIN 0800 AND CHIN 0870 AND CHIN 0860 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0800",
+      "CHIN 0870",
+      "CHIN 0860"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0870 Media Chinese I",
+    "courseid": "CHIN 0870",
+    "coursedescription": "This course aims to help students improve their language skills and enlarge their vocabulary through reading online news on Chinese internet. Students will learn formal vocabulary and enhance their grammatical accuracy. Students are encouraged to explore Chinese government and company websites and Baidu Baike, in order to learn how to conduct their own online searches for both professional and academic purposes. Linguistic features in news headlines, accuracy of online translation tools, media censorship, social media usage will also be discussed in this class. The course goal is to help students gain Chinese media literacy by reading, browsing and viewing online materials. Fall or Spring Mutually Exclusive: CHIN 5870 Prerequisite: CHIN 0620 AND CHIN 0700 AND CHIN 0840 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0620",
+      "CHIN 0700",
+      "CHIN 0840"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 0878 Advanced Medical Chinese",
+    "courseid": "CHIN 0878",
+    "coursedescription": "“Advanced Medical Chinese” is a specialized language course tailored for medical, nursing, and other healthcare-related professionals. It offers Mandarin language instruction to individuals who anticipate interactions with Chinese-speaking patients, either during visits to China or while serving patients with limited English proficiency. This course specifically targets students with a minimum of three years of Chinese language study in a standard college program or an equivalent language competency level. Its primary focus is on facilitating effective physician and nurse communication with patients. The course’s ultimate aim extends beyond language proficiency to positively impact patient care within the Chinese community by mitigating language and cultural barriers. By honing language skills in reading, writing, listening, and speaking within clinical healthcare contexts, participants will be better equipped to engage in meaningful interactions. The curriculum covers a wide spectrum of subjects, spanning from foundational rapport-building and medical terminology to exploring Chinese cultural attitudes toward health-related matters. Fall or Spring Mutually Exclusive: CHIN 5878 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 1040 Readings in Modern Chinese: Literature I",
+    "courseid": "CHIN 1040",
+    "coursedescription": "This course is designed for students who have completed three years of college level Mandarin classes or equivalent. The objectives of the course are 1) to help students gain an in-depth, multi-faceted and critical understanding of the Chinese people, Chinese society and Chinese culture; 2) to facilitate students 'acquisition of formal or written language; and 3) to develop students' analytical and critical thinking skills. These objectives are achieved primarily through 1) close reading and discussion of original literary texts by 20th -century Chinese writers; and 2) regular writing exercises. Students will also view several Chinese films that are related to the topics of the reading text. The class is to be conducted exclusively in Chinese. Spring Mutually Exclusive: CHIN 6040 Prerequisite: CHIN 0840 AND CHIN 0870 AND CHIN 0865 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0840",
+      "CHIN 0870",
+      "CHIN 0865"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 1045 Readings in Modern Chinese: Literature II",
+    "courseid": "CHIN 1045",
+    "coursedescription": "This course is structured the same as Readings in Modern Chinese Literature I; however, the reading materials and topics are different. This course is designed for students who have completed a minimum of three years of college level Mandarin classes or equivalent. The objectives of the course are 1) to help students gain an in-depth, multi-faceted and critical understanding of the Chinese people, Chinese society and Chinese culture; 2) to facilitate students 'acquisition of formal or written language; and 3) to develop students' analytical and critical thinking skills. These objectives are achieved primarily through 1) close reading and discussion of original literary texts by 20th -century Chinese writers; and 2) regular writing exercises. Students will also view several Chinese films that are related to the topics of the reading text. The class is to be conducted exclusively in Chinese. Spring Mutually Exclusive: CHIN 6045 Prerequisite: CHIN 0840 AND CHIN 0870 AND CHIN 0865 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0840",
+      "CHIN 0870",
+      "CHIN 0865"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 1048 Readings in Modern Chinese: Documents",
+    "courseid": "CHIN 1048",
+    "coursedescription": "The main purpose of this content-based course is to promote advance-level language proficiency in reading, writing, speaking and listening. Through the use of modern Chinese documents, the secondary purpose of this course is to facilitate your understanding of the changes of Chinese society in the 20th century. Topics will include the Constitution of China, China's legal system, speeches by Mao Zedong, Deng Xiaoping, Sun Yet-san and Qiu Jin. Not Offered Every Year Mutually Exclusive: CHIN 6048 Prerequisite: CHIN 0870 AND CHIN 0860 AND CHIN 1040 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0870",
+      "CHIN 0860",
+      "CHIN 1040"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 1050 Introduction to Classical Chinese I",
+    "courseid": "CHIN 1050",
+    "coursedescription": "Introduction to the classical written language, beginning with Shadick, First Course in Literary Chinese. Students with a background in Japanese, Korean, Cantonese, Taiwanese, and other East Asian languages are welcome; it is not necessary to know Mandarin. The course begins from scratch, and swiftly but rigorously develops the ability to read a wide variety of classical and semi-classical styles. Original texts from the 6th century BC to the 20th century AD are studied. This course is taught in English and there are no prerequisites. Fall Also Offered As: EALC 3621 1 Course Unit",
+    "course-prerequsities": [
+      "EALC 3621"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 1055 Introduction to Classical Chinese II",
+    "courseid": "CHIN 1055",
+    "coursedescription": "Continuation of Intro to Classical Chinese I, which is the only prerequisite for this course. Upon completion of Shadick, readings in a wide selection of texts with Chinese commentaries may be taken up. These readings are in part chosen to reflect student interest. This is the second half of a year-long course. Those who enroll must take both semesters. Spring Also Offered As: EALC 3622 Mutually Exclusive: EALC 7622 Prerequisite: EALC 3621 1 Course Unit",
+    "course-prerequsities": [
+      "EALC 3622",
+      "EALC 7622",
+      "EALC 3621"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These readings are in part chosen to reflect student interest."
+      ]
+    }
+  },
+  {
+    "coursename": "CHIN 1060 Advanced Business Chinese I",
+    "courseid": "CHIN 1060",
+    "coursedescription": "This content-based course provides students with the conceptual framework to understand issues China has been facing since its economic reform in 1978. Topics include WTO principles, the change of China's state-owned enterprises, China's economy in Mao's period, and the pros and cons of globalization. Students will be trained in reading financial articles, discussing international trades, conducting online research and giving business presentations. After the course, students will become more sophisticated in their understanding of China's economic development and in using Chinese business terminology in professional settings. The course assumes basic background in business and advanced level proficiency in Chinese language. The course is NOT open to first-year students with no undergraduate business course. Fall Mutually Exclusive: CHIN 6060 Prerequisite: CHIN 0865 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0865"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 1065 Advanced Business Chinese II",
+    "courseid": "CHIN 1065",
+    "coursedescription": "This course is a continuation of Advanced Business Chinese I and follows the same format. Topics include Eastern and Western management styles, the global financial market, China's financial market reforms, and mergers and acquisitions in China. At the end of the semester, students will submit a business proposal for the final project. Spring Mutually Exclusive: CHIN 6065 Prerequisite: CHIN 1060 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 1060"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 1140 Advanced Readings in Chinese Culture",
+    "courseid": "CHIN 1140",
+    "coursedescription": "The objective of this advanced level content-based course is to extend and refine students' language and analytical skills while enhancing an appreciation of Chinese culture. The course is for students with native or near-native competency in Mandarin. Each class will include reading, reflection and interpretation, and the exchange of ideas. All reading materials are in Chinese with no glossary and all are written by scholars whose expertise are either in the contemporary and traditional culture of China, or in comparative study of Chinese and Western thoughts. Topics include: 1) the shared beliefs and behaviors of Chinese people; 2) traditional values and new values in the technological and business society; 3) how affection and love are manifested in Chinese culture; 4) what influenced the surge of popularity of Chinese wuxia fiction; (5) what it means to be descendants of Chinese (huayi) living outside China. The class is conducted exclusively in Mandarin Chinese. Spring Mutually Exclusive: CHIN 6140 Prerequisite: CHIN 1040 AND CHIN 1060 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 1040",
+      "CHIN 1060"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 1147 Advanced Readings in Modern Chinese Literature",
+    "courseid": "CHIN 1147",
+    "coursedescription": "This course surveys the literary movements of the post-Cultural Revolution era (1978-present).The readings consists of fictional works representative of each literary movement. Students will write four short (1-2 pages, double spaced) \"responding\" papers and two longer critical essays (5-7 pages double spaced). Each student will also give one oral presentation to the class on an assigned story. This course is designed for students who have achieved native or a near-native level of reading and writing proficiency in Chinese. The class is conducted exclusively in Chinese. Spring Mutually Exclusive: CHIN 6147 Prerequisite: CHIN 1040 AND CHIN 1045 AND CHIN 1048 AND CHIN 1060 AND CHIN 1065 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 1040",
+      "CHIN 1045",
+      "CHIN 1048",
+      "CHIN 1060",
+      "CHIN 1065"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 1148 Chinese for Specific Purposes: Legal Chinese",
+    "courseid": "CHIN 1148",
+    "coursedescription": "Legal Chinese is a superior-level content-based course providing students with a brief overview of Chinese state laws, legal business cases and the study of legal Chinese terminologies. Through text reading and legal business case discussion, the class engages Penn professional school students and undergraduate social science majors in legal case study, encouraging them to reflect on what they read, as well as giving them the opportunity to experience a course that brings together Chinese legal content and Chinese professional literacy training. The goal of the course is to help students better understand the legal language and content in order to prepare them for specific careers of interest. By the end of the semester, students should be able to 1. use of professional Chinese terms in written report and oral presentations 2. demonstrate awareness of Chinese legal system and laws 3. participate more confidently in negotiations and meetings 4. describe the differences between Chinese and American legal education and principles 5. summarize and explain how a client won or lose a legal case 6. conduct professional oral presentation using content-specific terms 7. apply legal principles, concepts to one’s own discipline and future career Spring Mutually Exclusive: CHIN 6148 Prerequisite: CHIN 0870 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0870"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The goal of the course is to help students better understand the legal language and content in order to prepare them for specific careers of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "CHIN 1150 Advanced Classical Chinese I",
+    "courseid": "CHIN 1150",
+    "coursedescription": "Close reading and interpretation of texts in various styles of classical Chinese drawn from the Han, Wei, Tang, and Song periods. Focus on strengthening students' reading ability in classical Chinese. Attention to questions of style, rhetoric, and syntax. Fall Also Offered As: EALC 3623 Mutually Exclusive: EALC 8621 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 1155 Advanced Classical Chinese II",
+    "courseid": "CHIN 1155",
+    "coursedescription": "Close reading and interpretation of texts in various styles of classical Chinese drawn from the Han, Wei, Tang, and Song periods. Focus on strengthening students' reading ability in classical Chinese. Attention to questions of style, rhetoric, and syntax. It is preferred, but not required, that students take Advanced Classical Chinese I first. Spring Also Offered As: EALC 3624 Mutually Exclusive: EALC 8622 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5100 Beginning Chinese I",
+    "courseid": "CHIN 5100",
+    "coursedescription": "This course is designed primarily for students who have little or no prior exposure to Chinese. The objective of the course is to help students build a solid foundation of the four basic skills--listening, speaking, reading, and writing in an interactive and communicative learning environment. The emphasis is on correct pronunciation, accurate tones, and mastery of basic grammatical structures, laying the foundation needed to be able to manage social situations such as relating one's personal life and experiences, expressing preferences and feelings, ordering meals, purchasing goods, and asking for directions. In order to achieve these goals, students are expected to thoroughly preview and review the materials according to the weekly lesson plan (on course website) prior to attending class. Regular attendance is mandatory and strictly monitored. Fall Mutually Exclusive: CHIN 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5105 Spoken Chinese I",
+    "courseid": "CHIN 5105",
+    "coursedescription": "This course is designed for students who have little or no previous exposure to Chinese. The main objective of the course is to help students develop their listening and speaking skills. The emphasis is on correct pronunciation, accurate tones and mastery of basic grammatical structures. Chinese characters will not be taught. Fall Mutually Exclusive: CHIN 0105 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5131 Beginning Cantonese I",
+    "courseid": "CHIN 5131",
+    "coursedescription": "Beginning Cantonese is a preliminary course for spoken Cantonese. The course provides fundamental aspects of the dialect as experienced in daily life situations and lays the foundation which will enable students to communicate in Cantonese for daily life needs, such as making phone calls, making purchases, getting around by various means of transportation, seeing a doctor, being a guest or a host at dinner, talking about the weather, talking about sports and entertainment, etc. It is strongly recommended that students continue to Beginning Cantonese II to become conversational Fall Mutually Exclusive: CHIN 0131 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is strongly recommended that students continue to Beginning Cantonese II to become conversational Fall Mutually Exclusive: CHIN 0131 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "CHIN 5133 Beginning Taiwanese I",
+    "courseid": "CHIN 5133",
+    "coursedescription": "Beginning Taiwanese I is designed to help students learn enough to enable them to handle basic social interactions when visiting Taiwan, such as greeting others, introducing yourself, ordering food, asking directions, etc. You will also learn to listen and understand the oral language typically heard in locations such as the grocery store, train station, bus stop, and restaurants. Fall Mutually Exclusive: CHIN 0133 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "You will also learn to listen and understand the oral language typically heard in locations such as the grocery store, train station, bus stop, and restaurants."
+      ]
+    }
+  },
+  {
+    "coursename": "CHIN 5160 Beginning Business Chinese I",
+    "courseid": "CHIN 5160",
+    "coursedescription": "Along with Beginning Business Chinese II, this is the first course in a two-semester sequence. By completing both semesters, students will fulfill Wharton's undergraduate foreign language requirement. The sequence begins each fall semester. This course is designed to introduce students with little or no prior exposure to Mandarin Chinese to beginning-level business Chinese. Throughout this course, students will develop listening, speaking, reading, and writing/typing skills, with a primary emphasis on listening and speaking in Mandarin-speaking business contexts. This will be achieved by acquiring basic vocabulary and expressions related to business activities, such as visiting companies and making appointments. Furthermore, students will also be exposed to useful expressions for everyday life in China, including greetings, introductions, and navigating daily situations. The course places a strong emphasis on culture, considering it a critical component. Students will actively explore Chinese social and cultural norms, fostering an understanding of Chinese cultural products, practices, perspectives, and interpersonal behavioral culture. This knowledge equips students to communicate effectively across ethnic, cultural, ideological, and national boundaries. An additional objective of this course is to help students develop cross-cultural competence, enabling them to navigate and succeed in professional Chinese environments. Fall Mutually Exclusive: CHIN 0160 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5200 Beginning Chinese II",
+    "courseid": "CHIN 5200",
+    "coursedescription": "This course is the continuation of Beginning Chinese I and is the second course of a four-semester sequence. The objective of the course is to help students build a solid foundation of the four basic skills--listening, speaking, reading, and writing-- in an interactive and communicative learning environment. The emphasis is on correct pronunciation, accurate tones and mastery of basic grammatical structures. By the end of the semester, students will be able to manage many situations that have immediate concern to them, such as relating one's personal life and experiences, expressing preferences and feelings, ordering meals, purchasing goods and asking for directions. In order to achieve these goals, students are expected to thoroughly preview and review the materials according to the weekly lesson plan (on course website) prior to attending class. Regular attendance is mandatory and strictly monitored. Spring Mutually Exclusive: CHIN 0200 Prerequisite: CHIN 0100 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5205 Spoken Chinese II",
+    "courseid": "CHIN 5205",
+    "coursedescription": "A continuation of Spoken Chinese I, this course is to help students develop their listening and speaking skills. The emphasis is on correct pronunciation, accurate tones and mastery of basic grammatical structures. By the end of the semester, students will be able to manage many situations that have immediate concern to them, such as relating one's personal life and experiences, expressing preferences and feelings, ordering meals, purchasing goods, asking for directions. To achieve this goal, the class is to be conducted in Chinese as much as possible. Chinese characters will also be introduced, but will not be the focus of the class. Mutually Exclusive: CHIN 0205 Prerequisite: CHIN 0105 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0105"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5210 Intensive Beginning Chinese I & II",
+    "courseid": "CHIN 5210",
+    "coursedescription": "Along with Intensive Beginning Chinese III & IV, this is the first course of a two-semester sequence. By completing both semesters, students fulfill the College language requirement. The sequence starts each fall. Students cannot begin their study in the spring. This course covers the same material as Beginning Chinese I & II. The main objective is to help students build a solid foundation of the four basic skills--listening, speaking, reading, and writing. By the end of this course, students should achieve a solid foundation in: 1) pronouncing all the sounds in Mandarin Chinese accurately and comfortably with a good command of the 4 tones; 2) carry out basic conversations in daily activities; 3) recognize and reproduce approximately 600-650 characters; and 4) read edited simple stories and write short notes or letters. Grammatical and cultural issues are discussed during lecture hours. Oral communication tasks are given every week. Fall Mutually Exclusive: CHIN 0210",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CHIN 5231 Beginning Cantonese II",
+    "courseid": "CHIN 5231",
+    "coursedescription": "A continuation of Beginning Cantonese I, this class is a preliminary course for spoken Cantonese. The course provides fundamental aspects of the dialect as experienced in daily life situations and will enable students to communicate in Cantonese for daily life needs, such as making phone calls, making purchases, getting around by various means of transportation, seeing a doctor, being a guest or a host at dinner, talking about the weather, talking about sports and entertainment, etc. Fall Mutually Exclusive: CHIN 0231 Prerequisite: CHIN 0131 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0131"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5233 Beginning Taiwanese II",
+    "courseid": "CHIN 5233",
+    "coursedescription": "A continuation of Beginning Taiwanese I, this course will cover language training as well as cultural topics including history and political aspects of Taiwan. Conversation topics range from daily conversation to professional and formal situations. Fall Mutually Exclusive: CHIN 0233 Prerequisite: CHIN 0133 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0133"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5260 Beginning Business Chinese II",
+    "courseid": "CHIN 5260",
+    "coursedescription": "This course is a continuation of Beginning Business Chinese I and is the second course of a two-semester sequence. By completing both semesters, students will fulfill Wharton's undergraduate foreign language requirement. This course is designed for those wishing to improve their language skills in a business setting, as well as an understanding of Chinese social development since 1976. The emphasis is on correct pronunciation, accurate tones and mastery of basic grammatical structures. The main focus is on speaking and listening, reading, typing with minimal handwriting. Upon completion of this course, students are expected to be able to converse and interact with people in a variety of business traveling settings and company visits. Topics include meeting people, talking about family, introducing companies, making inquiries and appointments, visiting companies, introducing products, initiating dining invitations and practicing dining etiquette. Culture is a critical component of this course. Through active exploration of Chinese social and cultural norms, students will develop an understanding of Chinese cultural products, practices and perspectives, as well as Chinese interpersonal behavioral culture to communicate across ethnic, cultural, ideological and national boundaries. An additional goal of this course is for students to develop cross-cultural competence in order to function successfully in professional Chinese environments. Spring Mutually Exclusive: CHIN 0260 Prerequisite: CHIN 0160 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0160"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5300 Intermediate Chinese I",
+    "courseid": "CHIN 5300",
+    "coursedescription": "The objective of the course is to continue building a solid foundation of the four basic skills--listening, speaking, reading and writing. By the end of this course, students should achieve the following goals: 1) pronounce all the sounds in Mandarin accurately and comfortably with a good command of the four tones; 2) carry out simple dialogues of familiar topics; 3) recognize and reproduce approximately 450-500 characters; and 4) read short textbook stories and write simple notes. In order to develop students' listening and speaking ability, oral communication tasks are given on each lesson. Fall Mutually Exclusive: CHIN 0300 Prerequisite: CHIN 5200 OR CHIN 0200 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 5200",
+      "CHIN 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5305 Spoken Chinese III",
+    "courseid": "CHIN 5305",
+    "coursedescription": "This course is designed for students who have completed one year of college level Chinese classes or equivalent. The main objective of the course is to improve students' conversational ability in Chinese in order to accomplish day-to-day tasks. These tasks include relating one's personal life and experiences, expressing preference, feeling and opinion, ordering a meal, purchasing goods, asking for directions, making travel plans, visiting a doctor, attending a social functions etc. Short Chinese movies or television shows will be integrated into the course curriculum. Chinese characters will not be taught. Fall Mutually Exclusive: CHIN 0305 Prerequisite: CHIN 0205 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0205"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5320 Reading and Writing in Chinese I (for Fluent Speakers)",
+    "courseid": "CHIN 5320",
+    "coursedescription": "The course is designed for students who can speak Chinese but cannot read and write in Chinese characters. The major purpose of this course is to help students develop the ability to use written Mandarin Chinese in linguistically and socially appropriate ways. The literacy goal is to master 350 to 1000 Chinese characters and to reach an intermediate-low level of ACTFL literacy proficiency. The key teaching approach is to holistically read a prodigious amount of materials. Students' reading abilities will be developed through reading short stories under instructions, and eventually through reading long stories and news independently. Fall Mutually Exclusive: CHIN 0320 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5331 Intermediate Cantonese I",
+    "courseid": "CHIN 5331",
+    "coursedescription": "Intermediate Cantonese is a course for students who are able to communicate in the dialect in basic survival situations. Through this course, the students will acquire a better understanding of Cantonese and its related culture, and can confidently cope with a wide range of situations. Classes will be conducted through Cantonese textbooks, discussions of various topics, and composition and presentation of students' own dialogues so that in time they may express more complex ideas and feelings. Continuation to Intermediate Cantonese II is strongly encouraged. Fall Mutually Exclusive: CHIN 0331 Prerequisite: CHIN 0231 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0231"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5333 Intermediate Taiwanese I",
+    "courseid": "CHIN 5333",
+    "coursedescription": "Students will further develop their speaking and listening skills and will be able to communicate with ease and confidence when dealing with everyday routine tasks. Students will also gain skills to process and seek information in Taiwanese. Conversation topics include New Year, folk songs, and Tang poetry. Authentic materials are used for enhancing reading, listening, and speaking practices. Fall Mutually Exclusive: CHIN 0333 Prerequisite: CHIN 0233 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0233"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5400 Intermediate Chinese II",
+    "courseid": "CHIN 5400",
+    "coursedescription": "This is the fourth course in a four-semester sequence. The objective of the course is to continue building a solid foundation of the four basic skills--listening, speaking, reading and writing. By the end of this course, students should achieve the following goals: 1) pronounce all the sounds in Mandarin accurately and comfortably with a good command of the four tones; 2) carry out simple dialogues of familiar topics; 3) recognize and reproduce approximately 600-650 characters; and 4) read short textbook stories and write simple notes In order to develop students' listening and speaking ability, oral communication tasks are given every other week. Spring Mutually Exclusive: CHIN 0400 Prerequisite: CHIN 0300 OR CHIN 5300 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0300",
+      "CHIN 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5405 Spoken Chinese IV",
+    "courseid": "CHIN 5405",
+    "coursedescription": "This course is the continuation of Spoken Chinese III. The primary goal of the course is to improve students' conversational ability in Chinese. By the end of the semester, students will reach the survival level, namely, they can accomplish basic day to day tasks. These tasks include relating one's personal life and experiences, expressing preference, feeling and opinion, ordering a meal, purchasing goods, asking directions, making travel plans, visiting a doctor, attending a social function, etc. Short Chinese movies or television shows will be integrated into the course curriculum. Chinese characters will not be taught. Spring Mutually Exclusive: CHIN 0405 Prerequisite: CHIN 0305 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0305"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5410 Intensive Intermediate Chinese I & II",
+    "courseid": "CHIN 5410",
+    "coursedescription": "Along with Intensive Beginning Chinese I & II, this is the second course of a two-semester sequence. By completing both semesters, students fulfill the College language requirement. This course covers the same material as Intermediate Chinese I & II. The main objective is to help students build a solid foundation of the four basic skills--listening, speaking, reading, and writing. By the end of this course, students should achieve the following goals: 1) pronounce all the sounds in Mandarin Chinese accurately and comfortably with a good command of the 4 tones; 2) carry out basic conversations in daily activities; 3) recognize and reproduce approximately 600-650 characters; and 4) read edited simple stories and write short notes or letters. Grammatical and cultural issues are discussed during lecture hours. Oral communication tasks are given every week. Designed for students who have had limited prior exposure to some form of Chinese (Mandarin or other dialects), but inadequate to advance to the intermediate level. The language practiced in this class will be more formal oral and written style, including more authentic materials reading, listening and viewing. Spring Mutually Exclusive: CHIN 0410 Prerequisite: CHIN 0210 AND CHIN 0200",
+    "course-prerequsities": [
+      "CHIN 0210",
+      "CHIN 0200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CHIN 5420 Reading and Writing in Chinese II (for Fluent Speakers)",
+    "courseid": "CHIN 5420",
+    "coursedescription": "A continuation of Reading/Writing Chinese I, this course is designed for students who can speak Chinese and have reading ability of about 1000 Chinese characters. It is specifically designed for students at the ACTFL intermediate-low reading and writing level. The literacy goal is to master 1000 to 2000 Chinese words and reach the intermediate-mid proficiency level. Reading material covers topics that are meaningful to students not only to increase engagement and confidence in their Chinese reading skills, but also foster students' appreciation and understanding of the Chinese culture. Spring Mutually Exclusive: CHIN 0420 Prerequisite: CHIN 0320 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0320"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5431 Intermediate Cantonese II",
+    "courseid": "CHIN 5431",
+    "coursedescription": "A continuation of Intermediate Cantonese I. Intermediate Cantonese is a course for students who are able to communicate in the dialect in basic survival situations. Through this course, the students will acquire a better understanding of Cantonese and its related culture, and can confidently cope with a wide range of situations. Classes will be conducted through Cantonese textbooks, discussions of various topics, and composition and presentation of students' own dialogues so that in time they may express more complex ideas and feelings. Spring Mutually Exclusive: CHIN 0431 Prerequisite: CHIN 0331 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0331"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5433 Intermediate Taiwanese II",
+    "courseid": "CHIN 5433",
+    "coursedescription": "This is a continuation of Intermediate Taiwanese I. Students will further develop their speaking and listening skills and will be able to communicate with ease and confidence when dealing with everyday routine tasks. Students will also gain skills to process and seek information in Taiwanese. Conversation topics include the New Year, folk songs and Tang poetry. Authentic materials are used for enhancing reading, listening, and speaking practices. Spring Mutually Exclusive: CHIN 0433 Prerequisite: CHIN 0333 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0333"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5500 High Intermediate Chinese I",
+    "courseid": "CHIN 5500",
+    "coursedescription": "This course aims to develop students' overall linguistic skills in listening, speaking, reading, and writing Chinese. The specially designed textbook gives introduction to various topics on Chinese culture. Students can expect to gain knowledge about China while they are learning the language. By completion of the course, students are expected to be able to master 1200 most frequently used characters in common reading materials, and to communicate in Chinese. Fall Mutually Exclusive: CHIN 0500 Prerequisite: CHIN 0400 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5520 Reading and Writing Chinese III (for Fluent Speakers)",
+    "courseid": "CHIN 5520",
+    "coursedescription": "An intermediate reading and writing course designed for students at the ACTFL intermediate-mid reading and writing proficiency. The goal of this course is to reach the intermediate-high level of proficiency. This course concentrates on writing of muti-paragraph essays through the use of conventional rhetorical modes and standard grammatical structures. Students will be given ample time to think and to discuss (the crucial \"brainstorming\" phase) before writing. The course stresses content, culture and comparison and draws its content from assigned readings and evidence-based argument from texts and other stimuli such as Internet, newspapers and films. Mutually Exclusive: CHIN 0520 Prerequisite: CHIN 5420 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 5420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5600 High Intermediate Chinese II",
+    "courseid": "CHIN 5600",
+    "coursedescription": "This course is the continuation of High Intermediate Chinese I. It aims to further develop students' overall language skills. The textbook will introduce various topics related to Chinese culture, society, economy, people and their everyday life as well as China's development since Deng Xiaoping's reform and opening-up policies in 1978. In class, current issues in China will be integrated to provide a new perspective for discussion. The emphasis is not only to consolidate students' foundation, but also enhance their understanding and distinguish different levels of language. Over the semester, students will have many opportunities to express and share their opinions on various topics related to China via communicative activities, presentations, and written assignments. Spring Mutually Exclusive: CHIN 0600 Prerequisite: CHIN 5500 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 5500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5620 Reading and Writing Chinese IV (for Fluent Speakers)",
+    "courseid": "CHIN 5620",
+    "coursedescription": "This is an intermediate language class presuming basic fluency in speaking and listening and focusing on reading and writing abilities. By the end of the semester students are expected to have mastered the 1200 most commonly used characters and to have the ability to read basic Chinese texts. Students will be prepared for Advanced Modern Chinese, Media Chinese and Business Chinese. Mutually Exclusive: CHIN 0620 Prerequisite: CHIN 5520 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 5520"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5700 Advanced Chinese I",
+    "courseid": "CHIN 5700",
+    "coursedescription": "Students learn to work on materials which were written or produced for native speakers, instead of the classroom materials that were written for the non-native speakers. The reading materials include a larger vocabulary with more idioms. Students will also learn how to understand and use certain oral expressions in conversation. They will learn ways to narrate, to describe, and to comment in native Chinese ways. Reading and audio materials are provided and discussed in the classes. Writing and oral presentations in Chinese are required in classroom under instruction. Students will be encouraged to practice oral communication with each other. Mutually Exclusive: CHIN 0700 Prerequisite: CHIN 5600 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 5600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5705 Advanced Spoken Chinese I",
+    "courseid": "CHIN 5705",
+    "coursedescription": "This course is designed for students who have completed at least the intermediate level Chinese language course, or have studied the language for at least three years. The objective of this course is to consolidate the knowledge and skills students have acquired from their previous Mandarin Chinese classes and to enhance their oral expressive skills. By the end of the semester, students are expected to be able to carry on a conversation with a native Mandarin speaker on various common topics, including the current issues in China on education, society, politics, culture and history. Students will also learn how to gather information necessary for conducting oral presentations and speeches. Fall Mutually Exclusive: CHIN 0705 Prerequisite: CHIN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5800 Advanced Chinese II",
+    "courseid": "CHIN 5800",
+    "coursedescription": "A continuation of Advanced Chinese I, this course continues training in speaking, listening, reading and writing skills so as to reach the advanced-low or advanced-mid level of proficiency. Major topics of the course include Chinese food culture, Chinese architecture, Confucianism in modern China, \"educated youth\", democracy and relations with Taiwan. Mutually Exclusive: CHIN 0800 Prerequisite: CHIN 5700 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 5700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5805 Advanced Spoken Chinese II",
+    "courseid": "CHIN 5805",
+    "coursedescription": "A continuation of Advanced Spoken Chinese I, this class follows the same format, with more discussions on current issues in both China and the US. Examples of topics range from race, religion and gender issues to the internet, cinema and pop cultures. The objective of this course is to consolidate the knowledge and skills students have acquired from their previous Mandarin Chinese classes and to enhance their oral expressive skills. By the end of the semester, students are expected to be able to carry on a conversation with a native Mandarin speaker on various common topics, and to gather information necessary for conducting oral presentations and speeches. Spring Mutually Exclusive: CHIN 0805 Prerequisite: CHIN 0705 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0705"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5840 Chinese Short Stories",
+    "courseid": "CHIN 5840",
+    "coursedescription": "Designed for students with advanced level Chinese language training but who need some further refinements on pronunciation, grammar, and vocabulary usage, this course stresses oral discussion, composition, and accuracy of language performance. By reading texts written by contemporary writers, students will also gain knowledge of China from an analytical and comparative perspective. Fall or Spring Mutually Exclusive: CHIN 0840 Prerequisite: CHIN 0800 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0800"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5860 Business Chinese I",
+    "courseid": "CHIN 5860",
+    "coursedescription": "This aim of this course is to enhance students' language skills in a business context and to promote their understanding about business environment and culture in contemporary China. The text is developed from real business cases from real multinational companies that have successfully dealt on the Chinese market. Classes include lectures, drills on vocabulary and sentence patterns, and discussions. Class will be conducted in Chinese. In addition to the course textbook, students will learn to read business news in Chinese selected from the Wall Street Journal. Fall Mutually Exclusive: CHIN 0860 Prerequisite: CHIN 0620 AND CHIN 0800 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0620",
+      "CHIN 0800"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5865 Business Chinese II",
+    "courseid": "CHIN 5865",
+    "coursedescription": "A continuation of Business Chinese I, this course continues language training for business oriented subjects. This course will provide an overview of China's changing macro-environment, while real business cases let us look into individual Chinese companies and their development in the new millennium. By the end of the semester, students are expected to 1) enhance the cultural awareness of contemporary China and the Chinese business world; 2) gain vocabulary and fluency in Chinese to function more confidently and comfortably in real business settings; 3) access business news and information in Chinese; 4) give business presentation in Chinese. Spring Mutually Exclusive: CHIN 0865 Prerequisite: CHIN 0800 AND CHIN 0870 AND CHIN 0860 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0800",
+      "CHIN 0870",
+      "CHIN 0860"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5870 Media Chinese",
+    "courseid": "CHIN 5870",
+    "coursedescription": "This course aims to help students improve their language skills and enlarge their vocabulary through reading online news on Chinese internet. Students will learn formal vocabulary and enhance their grammatical accuracy. Students are encouraged to explore Chinese government and company websites and Baidu Baike, in order to learn how to conduct their own online searches for both professional and academic purposes. Linguistic features in news headlines, accuracy of online translation tools, media censorship, social media usage will also be discussed in this class. The course goal is to help students gain Chinese media literacy by reading, browsing and viewing online materials. Fall Mutually Exclusive: CHIN 0870 Prerequisite: CHIN 0620 AND CHIN 0700 AND CHIN 0840 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0620",
+      "CHIN 0700",
+      "CHIN 0840"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 5878 Advanced Medical Chinese",
+    "courseid": "CHIN 5878",
+    "coursedescription": "“Advanced Medical Chinese” is a specialized language course tailored for medical, nursing, and other healthcare-related professionals. It offers Mandarin language instruction to individuals who anticipate interactions with Chinese-speaking patients, either during visits to China or while serving patients with limited English proficiency. This course specifically targets students with a minimum of three years of Chinese language study in a standard college program or an equivalent language competency level. Its primary focus is on facilitating effective physician and nurse communication with patients. The course’s ultimate aim extends beyond language proficiency to positively impact patient care within the Chinese community by mitigating language and cultural barriers. By honing language skills in reading, writing, listening, and speaking within clinical healthcare contexts, participants will be better equipped to engage in meaningful interactions. The curriculum covers a wide spectrum of subjects, spanning from foundational rapport-building and medical terminology to exploring Chinese cultural attitudes toward health-related matters. Fall or Spring Mutually Exclusive: CHIN 0878 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 6040 Readings in Modern Chinese: Literature I",
+    "courseid": "CHIN 6040",
+    "coursedescription": "This course is designed for students who have completed three years of college level Mandarin classes or equivalent. This course may be used to fulfill the language or elective requirement for the EALC or EAST major or minor in the Chinese concentration. The objectives of the course are 1) to help students gain an in-depth, multi-faceted and critical understanding of the Chinese people, Chinese society and Chinese culture; 2) to facilitate students 'acquisition of formal or written language; and 3) to develop students' analytical and critical thinking skills. These objectives are achieved primarily through 1) close reading and discussion of original literary texts by 20th -century Chinese writers; and 2) regular writing exercises. Students will also view several Chinese films that are related to the topics of the reading text. The class is to be conducted exclusively in Chinese. Fall Mutually Exclusive: CHIN 1040 Prerequisite: CHIN 0840 AND CHIN 0870 AND CHIN 0865 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0840",
+      "CHIN 0870",
+      "CHIN 0865"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 6045 Readings Modern Chinese: Literature II",
+    "courseid": "CHIN 6045",
+    "coursedescription": "This course is structured the same as Readings in Modern Chinese Literature I; however, the reading materials and topics are different. This course is designed for students who have completed a minimum of three years of college level Mandarin classes or equivalent. This course may be used to fulfill the language or elective requirement for the EALC or EAST major or minor in the Chinese concentration. The objectives of the course are 1) to help students gain an in-depth, multi-faceted and critical understanding of the Chinese people, Chinese society and Chinese culture; 2) to facilitate students 'acquisition of formal or written language; and 3) to develop students' analytical and critical thinking skills. These objectives are achieved primarily through 1) close reading and discussion of original literary texts by 20th -century Chinese writers; and 2) regular writing exercises. Students will also view several Chinese films that are related to the topics of the reading text. The class is to be conducted exclusively in Chinese. Spring Mutually Exclusive: CHIN 1045 Prerequisite: CHIN 0840 AND CHIN 0870 AND CHIN 0865 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0840",
+      "CHIN 0870",
+      "CHIN 0865"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 6048 Readings in Modern Chinese: Documents",
+    "courseid": "CHIN 6048",
+    "coursedescription": "The main purpose of this content-based course is to promote advance-level language proficiency in reading, writing, speaking and listening. Through the use of modern Chinese documents, the secondary purpose of this course is to facilitate your understanding of the changes of Chinese society in the 20th century. Topics will include the Constitution of China, China's legal system, speeches by Mao Zedong, Deng Xiaoping, Sun Yet-san and Qiu Jin. Not Offered Every Year Mutually Exclusive: CHIN 1048 Prerequisite: CHIN 0870 AND CHIN 0860 AND CHIN 1040 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0870",
+      "CHIN 0860",
+      "CHIN 1040"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 6060 Advanced Business Chinese I",
+    "courseid": "CHIN 6060",
+    "coursedescription": "This content-based course provides students with the conceptual framework to understand issues China has been facing since its economic reform in 1978. Topics include WTO principles, the change of China's state-owned enterprises, China's economy in Mao's period, and the pros and cons of globalization. Students will be trained in reading financial articles, discussing international trades, conducting online research and giving business presentations. After the course, students will become more sophisticated in their understanding of China's economic development and in using Chinese business terminology in professional settings. The course assumes basic background in business and advanced level proficiency in Chinese language. The course is NOT open to first-year students with no undergraduate business course. Fall Mutually Exclusive: CHIN 1060 Prerequisite: CHIN 0865 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 0865"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 6065 Advanced Business Chinese II",
+    "courseid": "CHIN 6065",
+    "coursedescription": "This course is a continuation of Advanced Business Chinese I and follows the same format. Topics include Eastern and Western management styles, the global financial market, China's financial market reforms, and mergers and acquisitions in China. At the end of the semester, students will submit a business proposal for the final project. Spring Mutually Exclusive: CHIN 1065 Prerequisite: CHIN 1060 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 1060"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 6140 Advanced Readings in Chinese Culture",
+    "courseid": "CHIN 6140",
+    "coursedescription": "The objective of this advanced level content-based course is to extend and refine students' language and analytical skills while enhancing an appreciation of Chinese culture. The course is for students with native or near-native competency in Mandarin. Each class will include reading, reflection and interpretation, and the exchange of ideas. All reading materials are in Chinese with no glossary and all are written by scholars whose expertise are either in the contemporary and traditional culture of China, or in comparative study of Chinese and Western thoughts. Topics include: 1) the shared beliefs and behaviors of Chinese people; 2) traditional values and new values in the technological and business society; 3) how affection and love are manifested in Chinese culture; 4) what influenced the surge of popularity of Chinese wuxia fiction; (5) what it means to be descendants of Chinese (huayi) living outside China. The class is conducted exclusively in Mandarin Chinese. Spring Mutually Exclusive: CHIN 1140 Prerequisite: CHIN 1040 AND CHIN 1060 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 1040",
+      "CHIN 1060"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 6147 Advanced Readings in Modern Chinese Literature",
+    "courseid": "CHIN 6147",
+    "coursedescription": "This course surveys the literary movements of the post-Cultural Revolution era (1978-present).The readings consists of fictional works representative of each literary movement. Students will write four short (1-2 pages, double spaced) \"responding\" papers and two longer critical essays (5-7 pages double spaced). Each student will also give one oral presentation to the class on an assigned story. This course is designed for students who have achieved native or a near-native level of reading and writing proficiency in Chinese. The class is conducted exclusively in Chinese. Spring Mutually Exclusive: CHIN 1147 Prerequisite: CHIN 1040 AND CHIN 1045 AND CHIN 1048 AND CHIN 1060 AND CHIN 1065 1 Course Unit",
+    "course-prerequsities": [
+      "CHIN 1040",
+      "CHIN 1045",
+      "CHIN 1048",
+      "CHIN 1060",
+      "CHIN 1065"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 6148 Chinese for Specific Purposes: Legal Chinese",
+    "courseid": "CHIN 6148",
+    "coursedescription": "Legal Chinese ( CHIN 1148 /6148) is a superior-level content-based course providing students with a brief overview of Chinese state laws, legal business cases and the study of legal Chinese terminologies. Through text reading and legal business case discussion, the class engages Penn professional school students and undergraduate social science majors in legal case study, encouraging them to reflect on what they read, as well as giving them the opportunity to experience a course that brings together Chinese legal content and Chinese professional literacy training. The goal of the course is to help students better understand the legal language and content in order to prepare them for specific careers of interest. Spring Mutually Exclusive: CHIN 1148 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The goal of the course is to help students better understand the legal language and content in order to prepare them for specific careers of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "CHIN 8621 Advanced Classical Chinese I",
+    "courseid": "CHIN 8621",
+    "coursedescription": "Close reading and interpretation of texts in various styles of classical Chinese drawn from the Han, Wei, Tang, and Song periods. Focus on strengthening students' reading ability in classical Chinese. Attention to questions of style, rhetoric, and syntax. Not Offered Every Year Also Offered As: EALC 8621 Mutually Exclusive: EALC 3623 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHIN 8622 Advanced Classical Chinese II",
+    "courseid": "CHIN 8622",
+    "coursedescription": "Close reading and interpretation of texts in various styles of classical Chinese drawn from the Han, Wei, Tang, and Song periods. Focus on strengthening students' reading ability in classical Chinese. Attention to questions of style, rhetoric, and syntax. It is preferred, but not required, that students take Advanced Classical Chinese I first. Not Offered Every Year Also Offered As: EALC 8622 Mutually Exclusive: EALC 3624 Prerequisite: EALC 8621 1 Course Unit",
+    "course-prerequsities": [
+      "EALC 8621"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

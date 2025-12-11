@@ -1,0 +1,341 @@
+[
+  {
+    "coursename": "* MB&B 0500b, Topics in Cancer Biology Sandy Chang",
+    "courseid": "MB&B",
+    "coursedescription": "Introduction to cancer as a genetic disease, with a focus on major discoveries in cancer biology that offer mechanistic insights into the disease process. A brief history of cancer; influence of the genomic revolution on cancer diagnostics; molecular defects underlying specific cancers; current and future cancer therapeutics. Patient case studies highlight specific molecular pathways and treatment strategies. Enrollment limited to first-year students with a strong background in biology and/or chemistry, typically demonstrated by a score of 5 on Advanced Placement examinations. WR , SC MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students with a strong background in biology and/or chemistry, typically demonstrated by a score of 5 on Advanced Placement examinations."
+      ]
+    }
+  },
+  {
+    "coursename": "MB&B 1050a or b / MCDB 1050a or b, Biology, the World, and Us Staff",
+    "courseid": "MB&B",
+    "coursedescription": "This course is for non-science majors who wish to gain an understanding of modern biology by examining the scientific basis of current issues. We’ll consider issues related to: i) pandemics and global infectious disease; ii) the climate crisis; iii) the future of genetics and the new green revolution. Many of the topics have an increasingly large impact on our daily lives. The issues are both social and biological, and it’s crucial that social debate be based on a clear understanding of the underlying science. The instructors will explain the scientific foundation beneath each issue. We’ll emphasize the nature of science as a process of inquiry rather than a fixed body of terminology and facts. The course is not intended to be a comprehensive survey of biology. SC 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MB&B 1070b / EDST 107 / EDST 3107b / PHYS 1070b, Being Human in STEM Staff",
+    "courseid": "MB&B",
+    "coursedescription": "A collaboratively designed, project-oriented course that seeks to examine, understand, and disseminate how diversity of gender, race, religion, sexuality, economic circumstances, etc. shape the STEM experience at Yale and nationally, and that seeks to formulate and implement solutions to issues that are identified. Study of relevant peer-reviewed literature and popular-press articles. OpEd writing project and design and implementation of an intervention project focusing on improving belonging in Yale STEM communities. SO MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MB&B 1210La / PHYS 1210La, Introduction to Physics in Living Systems I: Observation and Analysis Staff",
+    "courseid": "MB&B",
+    "coursedescription": "A hands-on introduction to the physics that enables life and human measurement of living things. This lab builds student knowledge of scientific experimental design and practice. Topics include detection of light, basic circuit building, sterile technique in biology and physics, data collection with student-built instrumentation, and quantitative assessment. For students choosing to major in MB&B, this course may be used to fulfill the MB&B requirement for Practical Skills in physics. There are no prerequisites to this ½ credit class and it is helpful to take it in the same semester as MB&B 122L. Priority is given to first-year students looking to fulfill medical school application requirements and students seeking to join research labs at Yale. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "B 122L",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MB&B 1220La / PHYS 1220La, Introduction to Physics in Living Systems: Observation and Analysis II Staff",
+    "courseid": "MB&B",
+    "coursedescription": "A hands-on introduction to the physics that enables life and human measurement of living things. This lab builds student knowledge of scientific experimental design and practice, focusing on building models from experimental data. Topics included electrical circuits, magnetism, data collection with student-built instrumentation, and quantitative assessment. For students choosing to major in MB&B, this course may be used to fulfill the MB&B requirement for Practical Skills in physics. Previously MB&B 122L. Taking MB&B/ PHYS 1210L before this class is required, as the material builds on itself. Priority is given to first-year students looking to fulfill medical school application. 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MB&B 1230Lb / PHYS 1230Lb and PHYS 123Lb / PHYS 123Lb, Introduction to Physics in Living Systems III: Mechanics Andrew Miranker",
+    "courseid": "MB&B",
+    "coursedescription": "A hands-on introduction to the physics that enables life and human measurement of living things. The course focuses on the principles of mechanics at work in the biological sciences. This lab builds student knowledge, centering diffusion as an emergent phenomenon from elastic collisions, from which statistical mechanics is introduced. For students choosing to major in MB&B, this course may be used to fulfill the MB&B requirement for Practical Skills in physics. Priority for this 1/2 credit course is given to first-year students looking to fulfill medical school application requirements. It is helpful to take this course in the same semester as MB&B 124L. ½ Course cr MW 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MB&B 1240Lb / PHYS 1240Lb, Introduction to Physics in Living Systems Laboratory IV: Electricity, Magnetism, and Radiation Andrew Miranker",
+    "courseid": "MB&B",
+    "coursedescription": "Introduction to the physics that enables life and human measurement of living things. This lab introduces principles of electricity, magnetism, light and optics at work in the biological sciences. The syllabus emphasizes electric dipoles as a model for biomolecules, electric fields such as those across cell membranes, electric current, and magnetic fields. Light is developed in terms of electromagnetic radiation, ray optics and photons. The interaction of light with biomolecules to understand basic biological research and medical diagnostics are also covered. For students choosing to major in MB&B, this course may be used to fulfill the MB&B requirement for Practical Skills in physics. There are no prerequisites to this ½ credit class and it is helpful to take it in the same semester as MB&B 123L. May not be taken after PHYS 166L. Priority is given to first-year students looking to fulfill medical school application requirements and students seeking to join research labs at Yale. SC 0 Course cr MW 4pm-5:15pm",
+    "course-prerequsities": [
+      "B 123L",
+      "PHYS 166L",
+      "SC 0",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MB&B 2000a or b / MCDB 3000a or b, Biochemistry Staff",
+    "courseid": "MB&B",
+    "coursedescription": "An introduction to the biochemistry of animals, plants, and microorganisms, emphasizing the relations of chemical principles and structure to the evolution and regulation of living systems. Introductory biology coursework (BIOL 101, BIOL 102, BIOL 103) or equivalent performance on the corresponding biological sciences placement examination; one term of organic chemistry (CHEM 174 or CHEM 220); or with permission of instructor. Note for MB&B majors: this course does not substitute for MB&B 300 and MB&B 301. SC 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Introductory biology coursework (BIOL 101, BIOL 102, BIOL 103) or equivalent performance on the corresponding biological sciences placement examination; one term of organic chemistry (CHEM 174 or CHEM 220); or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MB&B 2510La or b / MCDB 3010La or b, Laboratory for Biochemistry Ghazia Abbas",
+    "courseid": "MB&B",
+    "coursedescription": "An introduction to current experimental methods in molecular biology, biophysics, and biochemistry. Limited enrollment. Prerequisite: BIOL 101. SC ½ Course cr HTBA",
+    "course-prerequsities": [
+      "BIOL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MB&B 2750a, Biology at the Molecular Level Enrique De La Cruz and Allison Didychuk",
+    "courseid": "MB&B",
+    "coursedescription": "An introductory course for students to learn the key concepts from physics and physical chemistry that govern the structure and function of biomolecules in biology and medicine. Emphasis is placed on atomic-scale biomolecular motions, energy, reaction rates and mechanisms; core elements that underpin the exquisite specificity and regulated control of life processes. This course prepares students for upper level course content where these concepts are revisited. Connections to medicine and research are made through the use of practical examples, laboratory-based activities and training in biologically relevant areas of math, statistics and computer programming. This course is open to all Yale students. For MB&B majors, this course is accepted as fulfillment of one semester of MB&B’s two-semester requirement in physical chemistry. Prerequisites: BIOL 101-102, MATH 112 (or equivalent), college level General Chemistry, and high school Physics. SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "BIOL 101",
+      "MATH 112",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MB&B 3000a, Principles of Biochemistry I Staff",
+    "courseid": "MB&B",
+    "coursedescription": "Discussion of the physical, structural, and functional properties of proteins, lipids, and carbohydrates, three major classes of molecules in living organisms. Energy metabolism and hormone signaling as examples of complex biological processes whose underlying mechanisms can be understood by identifying and analyzing the molecules responsible for these phenomena. Prerequisites: After BIOL 101 and CHEM 174 or CHEM 220. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "BIOL 101",
+      "CHEM 174",
+      "CHEM 220",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MB&B 3010b, Principles of Biochemistry II Christian Schlieker and Franziska Bleichert",
+    "courseid": "MB&B",
+    "coursedescription": "Building on the principles of MB&B 300 through study of the chemistry and metabolism of DNA, RNA, and proteins. Critical thinking emphasized by exploration of experimental methods and data interpretation, from classic experiments in biochemistry and molecular biology through current approaches. Prerequisite: MB&B 300 or permission of instructor. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "B 300",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: MB&B 300 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MB&B 3300a and MB&B 3310a / BENG 3230a / MCDB 3310a / NSCI 3240a, Modeling Biological Systems I Thierry Emonet and Kathryn Miller-Jensen",
+    "courseid": "MB&B",
+    "coursedescription": "Biological systems make sophisticated decisions at many levels. This course explores the molecular and computational underpinnings of how these decisions are made, with a focus on modeling static and dynamic processes in example biological systems. This course is aimed at biology students and teaches the analytic and computational methods needed to model genetic networks and protein signaling pathways. Students present and discuss original papers in class. They learn to model using MatLab in a series of in-class hackathons that illustrate the biological examples discussed in the lectures. Biological systems and processes that are modeled include: (i) gene expression, including the kinetics of RNA and protein synthesis and degradation; (ii) activators and repressors; (iii) the lysogeny/lysis switch of lambda phage; (iv) network motifs and how they shape response dynamics; (v) cell signaling, MAP kinase networks and cell fate decisions; and (vi) noise in gene expression. Prerequisites: MATH 115 or 116. BIOL 101-104, or with permission of instructors. This course also benefits students who have taken more advanced biology courses (e.g. MCDB 200, MCDB 310, MB&B 300/301). QR , SC 0 Course cr per term TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 115",
+      "116",
+      "BIOL 101",
+      "MCDB 200",
+      "MCDB 310",
+      "B 300",
+      "SC 0",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "BIOL 101-104, or with permission of instructors."
+      ]
+    }
+  },
+  {
+    "coursename": "MB&B 3520b / MCDB 3520b / S&DS 3520b, Biomedical Data Science, Mining and Modeling Mark Gerstein and Matthew Simon",
+    "courseid": "MB&B",
+    "coursedescription": "Techniques in data mining and simulation applied to bioinformatics, the computational analysis of gene sequences, macromolecular structures, and functional genomics data on a large scale. Sequence alignment, comparative genomics and phylogenetics, biological databases, geometric analysis of protein structure, molecular-dynamics simulation, biological networks, microarray normalization, and machine-learning approaches to data integration. Prerequisites: MB&B 301 and MATH 115, or permission of instructor. SC 0 Course cr MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "B 301",
+      "MATH 115",
+      "SC 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MB&B 301 and MATH 115, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MB&B 3640a / MCDB 3640a, Light Microscopy: Techniques and Image Analysis Joseph Wolenski and Jonathon Howard",
+    "courseid": "MB&B",
+    "coursedescription": "A rigorous study of principles and pertinent modalities involved in modern light microscopy. The overall course learning objective is to develop competencies involving advanced light microscopy applications common to multidisciplinary research. Laboratory modules coupled with critical analysis of pertinent research papers cover all major light microscope methods—from the basics (principles of optics, image contrast, detector types, fluorescence, 1P and 2P excitation, widefield, confocal principle, TIRF), to more recent advances, including: superresolution, lightsheet, FLIM/FRET, motion analysis and force measurements. This course is capped at 8 students to promote interactions and ensure a favorable hands-on experience. Priority for enrollment is given to students who are planning on using these techniques in their independent research. Prerequisites: MCDB 205, PHYS 170/171 or above, either CHEM 161/165 or above; with CHEM 134L, 136L or permission from the instructor. SC MW 1:30pm-4:30pm",
+    "course-prerequsities": [
+      "MCDB 205",
+      "PHYS 170",
+      "CHEM 161",
+      "CHEM 134L",
+      "136L",
+      "MW 1",
+      "30PM-4"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MCDB 205, PHYS 170/171 or above, either CHEM 161/165 or above; with CHEM 134L, 136L or permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MB&B 3650b / EVST 3650b, Biochemistry and Our Changing Climate Karla Neugebauer",
+    "courseid": "MB&B",
+    "coursedescription": "Climate change is impacting how cells and organisms grow and reproduce. Imagine the ocean spiking a fever: cold-blooded organisms of all shapes, sizes and complexities struggle to survive when water temperatures go up 2-4 degrees. Some organisms adapt to extremes, while others cannot. Predicted and observed changes in temperature, pH and salt concentration do and will affect many parameters of the living world, from the kinetics of chemical reactions and cellular signaling pathways to the accumulation of unforeseen chemicals in the environment, the appearance and dispersal of new diseases, and the development of new foods. In this course, we approach climate change from the molecular point of view, identifying how cells and organisms – from microbes to plants and animals – respond to changing environmental conditions. To embrace the concept of “one health” for all life on the planet, this course leverages biochemistry, cell biology, molecular biophysics, and genetics to develop an understanding of the impact of climate change on the living world. We consider the foundational knowledge that biochemistry can bring to the table as we meet the challenge of climate change. Prerequisites: MB&B 300/301 or MB&B 200/MCDB 300 or permission of the instructor. Can be taken concurrently with MB&B 301. WR , SC 0 Course cr TTh 4pm-5:15pm",
+    "course-prerequsities": [
+      "B 300",
+      "B 200",
+      "MCDB 300",
+      "B 301",
+      "SC 0",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MB&B 300/301 or MB&B 200/MCDB 300 or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MB&B 4200a, Macromolecular Structure and Biophysical Analysis Yong Xiong, Jonathon Howard, Steven Tang, and Franziska Bleichert",
+    "courseid": "MB&B",
+    "coursedescription": "Analysis of macromolecular architecture and its elucidation using modern methods of structural biology and biochemistry. Topics include architectural arrangements of proteins, RNA, and DNA; practical methods in structural analysis; and an introduction to diffraction and NMR. Prerequisites: MBB 301 and 302. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MBB 301",
+      "302",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MB&B 4250a / MCDB 4250a, Basic Concepts of Genetic Analysis Jun Lu",
+    "courseid": "MB&B",
+    "coursedescription": "The universal principles of genetic analysis in eukaryotes. Reading and analysis of primary papers that illustrate the best of genetic analysis in the study of various biological issues. Focus on the concepts and logic underlying modern genetic analysis. Prerequisite: MCDB 202 or pre-approval of instructor. SC MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MCDB 202",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MB&B 4350a, Quantitative Methods in Biology Nikhil Malvankar, Julien Berro, and Yong Xiong",
+    "courseid": "MB&B",
+    "coursedescription": "An introduction to quantitative methods relevant to analysis and interpretation of biological data. Topics include statistical testing, data presentation, and error analysis; introduction to artificial intelligence-based data analysis tools, Alpha Fold Tutorial, introduction to mathematical modeling of biological dynamics; and Fourier analysis in signal/image processing and macromolecular structural studies. Instruction in basic programming skills and data analysis using MATLAB; study of real data from MB&B research groups. Prerequisites: MATH 120 and MB&B 300 or equivalents, or with permission of instructors. QR , SC TTh 9am-10:15am",
+    "course-prerequsities": [
+      "MATH 120",
+      "B 300",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MATH 120 and MB&B 300 or equivalents, or with permission of instructors."
+      ]
+    }
+  },
+  {
+    "coursename": "MB&B 4430b, Advanced Eukaryotic Molecular Biology Mark Hochstrasser, Wendy Gilbert, Matthew Simon, and Franziska Bleichert",
+    "courseid": "MB&B",
+    "coursedescription": "Selected topics in regulation of chromatin structure and remodeling, mRNA processing, mRNA stability, translation, protein degradation, DNA replication, DNA repair, site-specific DNA recombination, and somatic hypermutation. Prerequisites: MB&B 300 and 301, or permission of instructor. SC TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "B 300",
+      "301",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MB&B 300 and 301, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MB&B 4450b, Methods and Logic in Molecular Biology Candie Paulsen and Julien Berro",
+    "courseid": "MB&B",
+    "coursedescription": "An examination of fundamental concepts in molecular biology through analysis of landmark papers. Development of skills in reading the primary scientific literature and in critical thinking. Prerequisites: MB&B 300 and 301. SC TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "B 300",
+      "301",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MB&B 4490a, Medical Impact of Basic Science Joan Steitz, Abhijit Patel, George Miller, Andrew Miranker, David Schatz, Sandy Chang, Allison Didychuk, and Daniel DiMaio",
+    "courseid": "MB&B",
+    "coursedescription": "Examples of recent discoveries in basic science that have elucidated the molecular origins of disease or that have suggested new therapies for disease. Readings from the primary scientific and medical literature, with emphasis on developing the ability to read this literature critically. Prerequisites: MB&B 300 and 301 or equivalents, or permission of instructor. SC TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "B 300",
+      "301",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MB&B 300 and 301 or equivalents, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MB&B 4590a / ENGL 4459a / EVST 4469a, Writing about Science, Medicine, and the Environment Carl Zimmer",
+    "courseid": "MB&B",
+    "coursedescription": "Advanced non-fiction workshop in which students write about science, medicine, and the environment for a broad public audience. Students read exemplary work, ranging from newspaper articles to book excerpts, to learn how to translate complex subjects into compelling prose. Admission by permission of the instructor only. Applicants should email the instructor at carl@carlzimmer.com with the following information: 1. One or two samples of nonacademic, nonfiction writing. (No fiction or scientific papers, please.) Indicate the course or publication, if any, for which you wrote each sample. 2. A note in which you briefly describe your background (including writing experience and courses) and explain why you’d like to take the course. Formerly ENGL 459. WR T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Admission by permission of the instructor only."
+      ]
+    }
+  },
+  {
+    "coursename": "* MB&B 4700a or b, Research in Biochemistry and Biophysics for the Major I Ghazia Abbas and Mark Hochstrasser",
+    "courseid": "MB&B",
+    "coursedescription": "Individual laboratory projects under the supervision of a faculty member. Students must submit an enrollment form that specifies the research supervisor by the date that course schedules are due. Students are expected to commit at least ten hours per week to working in a laboratory. Written assignments include a research proposal, due near the beginning of the term, and a research report that summarizes experimental results, due before the beginning of the final examination period. Students receive a letter grade. Up to 2 credits of MB&B 470/471 may be counted toward the MB&B major requirements. Enrollment limited to MB&B majors. Prerequisite: MB&B 251L or permission of the instructor. HTBA",
+    "course-prerequsities": [
+      "B 251L"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to MB&B majors.",
+        "Prerequisite: MB&B 251L or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MB&B 4900a or b, The Senior Literature Essay Christian Schlieker",
+    "courseid": "MB&B",
+    "coursedescription": "This course fulfills the MB&B senior requirement for BA/BS majors and may taken in either the fall or spring term of senior year. Students complete an independent project by reading primary literature and writing a critical review on a topic chosen by the student in any area of molecular biophysics and biochemistry. The chosen topic cannot draw directly on the student’s research experiences while enrolled at Yale. For topics drawing directly from a student's research experience, students should enroll in MB&B 491: Senior Research Essay. The course structure first assists the student to identify a topic and then identifies a member of the MB&B faculty with appropriate expertise. The member of faculty meets regularly with the student as the topic is researched, drafted, and submitted at a quality appropriate for publication. A departmental poster session at the end of the semester gives the student the opportunity to disseminate their work to the broader MB&B and Yale community. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MB&B 4910a or b, The Senior Research Essay Christian Schlieker and Nikhil Malvankar",
+    "courseid": "MB&B",
+    "coursedescription": "In this class, students complete an independent project by reading primary literature and writing a critical review on a topic chosen by the student in any area of molecular biophysics and biochemistry. The chosen topic must be related to the student’s research experiences while enrolled at Yale. For topics that do not draw from a student's research experience, students should enroll in MB&B 490: Senior Literature Essay. The course structure first assists the student to identify a topic and then identifies a member of the MB&B faculty with appropriate expertise. The faculty member, if a member of MB&B, can be the student’s research supervisor. The member of faculty meets regularly with the student as the topic is researched, drafted, and submitted at a quality appropriate for publication. A departmental poster session at the end of the semester gives the student the opportunity to disseminate their work to the broader MB&B and Yale community. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

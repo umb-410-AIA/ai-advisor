@@ -1,0 +1,103 @@
+[
+  {
+    "coursename": "Beacon to Business: Opportunities and Challenges",
+    "courseid": "BUSADM120G",
+    "coursedescription": "This course will be your guide to uncover the essential principles and basic challenges of the world of business. Over the course of two-week modules, we will delve into comprehending a new function of business and discover how these principles apply and become relevant in real-world business environments through an integrated course project to which each student contributes: a social impact business plan. The social impact business plan is a strategic document that outlines how a business intends to address a social or environmental challenge, while maintaining financial viability. We add to these practical areas an understanding of the contexts in which business operates - law, government, society, rapidly changing technology, new risks, the changing nature of careers, increasingly diverse workforces, and the broad global reach of business. This course will develop your capabilities in reading and critical thinking, oral and written communication, working in teams, information technology, academic self-assessment, and professional etiquette.",
+    "course-prerequsities": [
+      "ONE 100G"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Natural Language Processing and Machine Learning in Finance",
+    "courseid": "BUSADM724",
+    "coursedescription": "The course is designed to introduce students to natural language processing and machine learning methods used in finance research. It covers the most common methods and the current finance literature that uses these methods.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Topics in Corporate Finance",
+    "courseid": "BUSADM733",
+    "coursedescription": "This is an advanced course in corporate finance, expanding on topics covered in the PhD core corporate finance course. In this course we will review some topics that have become prominent in the literature in recent years: interactions between product and capital markets, corporate government/control, special issues in governance/control raised by international differences, and finally, internal capital markets and the logic of diversification.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Accounting for Finance III",
+    "courseid": "BUSADM736",
+    "coursedescription": "Building upon BUSADM 710 and 711, this course is designed to provide students with the applied and advanced understanding of empirical research in accounting. The course will focus on various capital market studies, i.e., the empirical research on the role that accounting information plays in the formation of capital asset prices. The course will cover \"classic\" papers in the major research areas within the field and methodological issues in financial accounting.",
+    "course-prerequsities": [
+      "BUSADM 710",
+      "BUSADM 711"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Information Systems Theory II: Organizational and Economic Perspectives",
+    "courseid": "BUSADM741",
+    "coursedescription": "This course is the second part of two-course series of Ph.D seminars on classic literature of information systems. It is designed to provide doctoral student specialized in information systems and business analytics a broad introduction to various research issues and challenges in topics of information systems (IS) and information technology (IT) management. As the second one of this series, this course is focused on theories at the organizational and economic levels. Topics covered include strategic IT planning, business value of IT, IT strategies, IT governance and controls, IT sourcing models, electronic marketplaces, economics of digital products, data science and business analytic, and other emerging topics in the research field.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Multivariate Statistics",
+    "courseid": "BUSADM745",
+    "coursedescription": "The goal of this course is to develop skills necessary in analyzing problems in which multiple variables are simultaneously present, without knowing beforehand which once are playing important roles and hence are of interest, and which ones are not. Our main goal is to identify the signal or key features of the data. The course will cover the major techniques in this field. The focus will be on practical issues such as selecting the appropriate approach and how to prepare the data.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The goal of this course is to develop skills necessary in analyzing problems in which multiple variables are simultaneously present, without knowing beforehand which once are playing important roles and hence are of interest, and which ones are not."
+      ]
+    }
+  },
+  {
+    "coursename": "Contemporary Research Practice on Management, Organizations, and Social Change",
+    "courseid": "BUSADM771",
+    "coursedescription": "This course is required for all doctoral students in the Ph.D. in Business Administration, Organizations and Social Change (OSC) track. This course complements research methods courses to further develop the abilities of students to evaluate and design social science research on management, organizations and social change for publication in academic journals and other outlets. The core assumption of this class is that research is a craft with rules, norms, and best practices that are not always obvious. The primary goal is to demystify research practice and give students the tools to better connect research methods to contemporary theoretical debates within management and organizational theory, both of which are key to the development of original research projects.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Professional Development Workshop - Doctoral Teaching",
+    "courseid": "BUSADM775",
+    "coursedescription": "This course is designed for advanced doctoral students (e.g., end of second year), across the three tracks of the PhD in Business Administration (Organizations and Social Change, Finance, and Management Information Systems). The course is taken at this juncture to prepare you to teach sections of undergraduate courses at the College of Management, and more broadly, to develop a well-grounded approach to the skills and goals of teaching. In addition, this course prepares you to make presentations to a wide variety of audiences, including professional colleagues, business practitioners, policy makers, and other key stakeholders with an interest in their research findings. At this point in your career, you will increasingly be presented at research conferences, and ultimately, preparing your oral dissertation defense and your \"job talk.\"",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition, this course prepares you to make presentations to a wide variety of audiences, including professional colleagues, business practitioners, policy makers, and other key stakeholders with an interest in their research findings."
+      ]
+    }
+  },
+  {
+    "coursename": "Advanced Data Mining and Predictive Modeling",
+    "courseid": "BUSADM780",
+    "coursedescription": "One of premiere challenges businesses face today is how to take advantage of the vast amounts of data they can easily collect. Data mining is used to find patterns and relationships in data, and is integral to business analytics and fact-based decision-making. This course covers current data mining and predictive modeling techniques including algorithms for classification, association, and clustering; the course also covers text mining techniques such as Latent Semantic Analysis and Latent Dirichlet allocation. Current software tools will be introduced to apply data mining techniques with approaches used for building effective models, such as sampling strategies, data transformation, feature selection and ensemble methods, will be incorporated. The techniques and approaches covered int his course will be examined in the context of current research and methodological use in the field of Information Systems.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Proposal Course",
+    "courseid": "BUSADM891",
+    "coursedescription": "This course is an elective for Ph.D. students. The goal of this course is to help students transition from coursework to dissertation, and includes a structured series of discussions, assignments, and presentation. Students will apply their cumulative understanding and skills from Ph.D. courses. This course will not provide additional substantive, theoretical, or methodological training, but instead organize everything being learned and learned to date to prepare and defend their dissertation proposal.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Research",
+    "courseid": "BUSADM899",
+    "coursedescription": "This is a placeholder course for students to enroll while conducting doctoral research and writing their dissertation under the supervision of a dissertation committee. It allows students to register for required dissertation credits towards a Ph.D. in Business Administration.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

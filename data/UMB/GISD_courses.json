@@ -1,0 +1,61 @@
+[
+  {
+    "coursename": "International Responses to Social Inclusion",
+    "courseid": "GISD605",
+    "coursedescription": "This course introduces students to international organizations that address both the development and the monitoring of populations around the world. The goal is to increase students' understanding of the range of approaches and strategies that these organizations use to respond to pressing societal issues (such as human rights, health and disability, women's and children's welfare, education, refugee and disaster relief) and crises (such as war, hunger, poverty, natural disaster, genocide) but also of the impact that these issues and crises can have on cross-cultural communities, vulnerable population, and social inclusion. A particular emphasis is placed on the non-governmental sector and its role in addressing immediate and long-term issues and crisis and in promoting the United Nations' Millennium Development Goals (MDGs). In this course students will learn how to interpret the world of opinion, ethics, judgment , need, and urgency as it is driven by what is known and what is transmitted. They will realize the importance of communication, public awareness and understanding of ethical and moral concerns and how these interrelate with social inclusion at all levels.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ethics and Professionalism in Global Inclusion and Social Development",
+    "courseid": "GISD608",
+    "coursedescription": "Ethical issues are prevalent in multiple contexts. At the personal level, ethics may determine how we choose to interact with others; within organizations, ethics may influence the strategies used to reach organizational goals; nationally, ethics can have a role in determining priorities and shaping the policy agenda; and at the global level, ethics may often determine the quality of relationships and degree of cooperation between international bodies. Ethical competence by individuals, organizations, and nations requires that one's conduct be congruent with generally accepted moral principles and values. This course introduces students to ethical theory and how ethics are shaped by values, as well as ethical standards and codes that guide professional practice and conduct in global inclusion and social development. The course also teaches students strategies and techniques to identify and help address ethical issues in practice, research, and evaluation in a variety of contexts (local, regional, national, global, cross-national) and settings (health, disability, community development, cross-cultural). Students in the master's and doctoral programs in global inclusion and social development can choose to take this course or the Cultural Competency: Impacts on Innovations and Model Development course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "International Human Rights Law, Policy and Practice",
+    "courseid": "GISD624",
+    "coursedescription": "The modern human rights movement began after World War II with the creation of the United Nations in 1945. One of the primary purposes of that organization is to promote and encourage respect for human rights for all without distinction as to race, sex, language or religion. This course provides an introduction to international human rights law, policy and practice, examining the progress since 1945 in developing standards and institutions to implement human rights. Students will become familiar with the core international human rights instruments and the United Nations human rights mechanisms as well as their relevance to current human rights challenges int he United States and around the world.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "GISD696",
+    "coursedescription": "Independent study in School of Global Inclusion & Social Development",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Capstone Seminar: Engaging Communities in Research and Practice",
+    "courseid": "GISD804",
+    "coursedescription": "The main purpose of this course is to provide the culminating, integrative curricular experience for students enrolled in the GISD MA Program during their last semester prior to graduation. The Capstone Seminar offers students an opportunity to undertake community-based research, increase their impact and effectiveness as a leader, or explore other dimensions of global inclusion and social development. Students develop an initiative for a real-life project that can be work, community, or university-based. The purpose of the Capstone Project is for the students to apply knowledge acquired during the GISD MA Program to a project involving actual data in a real-life setting.",
+    "course-prerequsities": [
+      "GISD 602",
+      "GISD 803"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Transdisciplinary Research to Practice Group",
+    "courseid": "GISD898",
+    "coursedescription": "The Transdisciplinary Research to Practice seminar will build the research knowledge foundation as well as give students an opportunity to apply what they have learned in their core and elective coursework to real-life research settings. The aim is twofold: to prepare students to conduct and embed principles of transdisciplinarity in their own dissertation research, and to develop leaders in global inclusion and social development who understand the relevance of research and the importance of translating research to practice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Research Seminar",
+    "courseid": "GISD899",
+    "coursedescription": "This course provides support for the dissertation proposal, research, and writing. It introduces students to all aspects of the dissertation process and relevant University of Massachusetts Boston and School for Global Inclusion and Social Development (SGISD) policies, procedures, and guidelines. The course addresses broad dissertation areas, yet allows flexibility based upon students' particular topics, progress, and needs. The course will help students a) identify or refine their dissertation topics, conduct a literature review and create a conceptual framework, develop a research design and a plan for completing the proposed research and dissemination the results; b) form a dissertation committee; c) develop and submit an application to receive ethics approval for human subject research (if appropriate); d) prepare the oral defense of their proposal; e)identify potential funding sources and develop research funding application. The course uses a combination of instructional approaches and learning methods intended to help students complete their proposal. Additionally, the course intends to foster student peer interactions as a source of academic and personal support for students as they are embarking on the dissertation process. This is a core course for doctoral students in Global Inclusion and Social Development.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

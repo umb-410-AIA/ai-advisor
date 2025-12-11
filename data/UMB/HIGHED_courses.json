@@ -1,0 +1,54 @@
+[
+  {
+    "coursename": "Teaching, Learning, and Curriculum in Urban Contexts",
+    "courseid": "HIGHED620",
+    "coursedescription": "This core course investigates common concerns in addressing the needs of urban learners, both in K-12 and in community and four-year colleges. It considers questions of human development in several domains, current problems and controversies about learning and responsive curricula and pedagogies. Readings frame issues across age groups and educational contexts, with additional material for each topic focusing on particular age groups and levels of schooling.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Organization and Leadership in Educational Institutions",
+    "courseid": "HIGHED632",
+    "coursedescription": "This core course focuses on educational institutions as complex organizations. It pays attention to the operation of institutions with few resources, as well as those with more plentiful resources. Drawing on readings and examples from many sources, participants look both inside and outside educational institutions, especially those that affect resources; the industry as a whole and sectors within it and social definitions of educational institutions. Close attention is also given to the internal structures in these institutions, especially the interactions between bureaucratic structures and professionals; to organizational cultures; and to governance and decision-making. The course then turns to a close analysis of organizational change from several points of view.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Public Policy Issues in Higher Education",
+    "courseid": "HIGHED634",
+    "coursedescription": "This core course explores the development of higher education policy. It is both a primer in how economics and politics form public policy and a critical look at this fusion in higher education. The course examines the formation of higher education policy at the federal, regional, and state levels or government.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research Methods in Higher Education: Qualitative Analysis",
+    "courseid": "HIGHED752",
+    "coursedescription": "This course, the second part of the Higher Education Program's research methods sequence, addresses issues related to qualitative research methods in education and, more specifically, higher education. The main focus of the course is to familiarize students with the philosophical and theoretical underpinnings of qualitative inquiry and some of the major approaches to qualitative research, including ethnography, phenomenology, grounded theory, narrative inquiry, case study, and participatory action research. The course gives an opportunity for students to critically consider their own research interests in light of qualitative inquiry, design and conduct a small-scale research study reflecting those research interests, and read and interpret both theoretical and research literature on qualitative methods. In addition, during the course, students will have a range of opportunities to reflect on and question their own assumptions about the nature of knowledge and knowledge creation through qualitative research.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course gives an opportunity for students to critically consider their own research interests in light of qualitative inquiry, design and conduct a small-scale research study reflecting those research interests, and read and interpret both theoretical and research literature on qualitative methods."
+      ]
+    }
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "HIGHED797",
+    "coursedescription": "This course offers study of selected topics within this subject. Course content and credits vary according to topic and are announced prior to the registration period.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Seminar",
+    "courseid": "HIGHED892",
+    "coursedescription": "This seminar follows Dissertation Seminar 891, providing structured support as students gather data, research and analyze their dissertation topics; write the dissertation; prepare for it's defense; and submit the final dissertation",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "coursename": "DIGC 1200 Digital Literacy & Cultural Change",
+    "courseid": "DIGC 1200",
+    "coursedescription": "The growing presence of technology in our personal and professional lives provides incontrovertible evidence of change. From individual reflections on the costs of innovation to meaningful connection through digital communication, each of us has an impulse to shape change. This impulse often pushes us to learn, adapt, and create. It also demands digital literacy. Together, we'll explore digital literacy as a concept and practice that offers tools for shaping cultural change, as we navigate the present and look toward the future. In DIGC 1200 , students will learn to deconstruct, create, and remix projects using digital tools they'll encounter in a variety of settings outside of this course. Students will also grapple with concepts that shape our current technological and social landscape. Together, we'll question assumptions about digital citizenship and challenge claims about digital natives. I'll push students to think critically about audience, genre, rhetorical purpose, and design, along the way; and by semester's end, we'll have created various digital artifacts that speak to cultural change. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DIGC 1600 A History of Digital Culture",
+    "courseid": "DIGC 1600",
+    "coursedescription": "Technology is never just about the things we use or the things we do - what we see and do quickly become everyday occurrences. In our current world, this means the world of digital culture, but what led to this was a blending of technologies and material culture that we would not always consider as \"technological.\" The cultural practices that go along with these technologies are invariably not visible to us without interrogation: the ways technological usage shapes and is shaped by the cultures that create them, as well as how technologies shape and are shaped by other cultures that adopt them. Oftentimes, technology tools practices are translated in ways that their creators never envisioned, and take on meanings that shift dramatically. Across time, even within a single culture, technology means very different things from one era to the next. Examples include the roles of basic tools like glass, to complex tools like audio tape. In DIGC 1600 , students will explore and develop an understanding of contemporary digital culture based on the idea that media and information technologies operate in a cycle of constant dialogue with the communities and modes of cultural practice that surround them. Using case studies of technological innovation and transformation, we'll examine the political and social impacts of what has become our contemporary digital culture through the resulting material culture objects we use every day. Students will be encouraged to explore from their own experiences how they interact with, create, and understand technocultural objects in their active and living world from an interdisciplinary, social science-based perspective, drawing from disciplines across the humanities and social sciences. Some of the guiding questions for the course include: How do we understand something as a \"new\" technology? How can we analyze the ways that members of a culture use technology as a locus for evolving or conflicting cultural practices and social change? And, how does culture affect our understanding of a technology and how we use it? Readings will consist of articles and book chapters provided in the course Canvas site. There will be no required synchronous sessions, though there will be optional synchronous sessions offered throughout the course. This course fulfills Qualitative Foundational Requirement (in Historical Perspectives) and to serve as a Gateway class. DIGC 1200 is recommended but not required. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "DIGC 1200 is recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "DIGC 2000 Coding Foundations for Digital Strategies",
+    "courseid": "DIGC 2000",
+    "coursedescription": "Code can seem intimidating, especially when it creates a barrier for customizing and completing important digital projects. In DIGC 2000 , students develop a basic understanding of program code and structures that are common across all programming languages. This will enable students to build skills for communication among colleagues whose roles include working with code across skill levels and responsibilities. This course invites students to analyze some of the possibilities and uses of computer programs, while exploring strategies for engaging with digital development tools. It will introduce students to the Scientific Python Development Environment (Spyder), an open-source cross-platform Integrated Development Environment (IDE) used by computer programmers around the world. We tackle questions that encourage us to think critically about the programming decisions we make and about what effect these decisions may have on the work of our colleagues and customers who may have to maintain the code in the future. We also explore the opportunities and issues that advances in computer coding applications present in our increasingly digital culture. This course includes a required pre-course module in Canvas that opens a month before the course begins and is designed to walk students through downloading, installing, and using the Anaconda distribution of Python and the Spyder IDE TEXTBOOK: https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1590282752/ref=sr_1_1?dchild=1&keywords=zelle&qid=1631898628&s=books&sr=1-1 Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DIGC 2200 Design Thinking for Digital Projects",
+    "courseid": "DIGC 2200",
+    "coursedescription": "Design thinking as a strategy and toolkit is usually defined as having five stages: Empathize, Define the problem, Ideate, Prototyping, and Testing. A crucial step in effective use of this toolkit is learning how to use empathizing with an audience or public, and learning what questions to ask in order to ideate. Students in DIGC 2200 will build on critical thinking and technological context from DIGC 1200 and DIGC 1600 , applying these skills to understanding specific problems in digital spaces. We will examine case studies from this perspective, and unpack both the strengths and weaknesses of how each scenario was developed and executed, to build a lens students can apply to their own Design Thinking project, the culmination of the course. We will build on skills using an ethnographic approach to understanding communities and their diverse needs. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DIGC 2600 Diverse Projects for Digital Publics",
+    "courseid": "DIGC 2600",
+    "coursedescription": "Narratives matter. They encourage imagination and creativity through visions of what could be, even as they challenge us to think critically about the practical realities of everyday professional life. Narratives also connect us within a web of social and cultural relationships that shape the world around us. But some narratives are historically given more attention than others. This practice often leads to marginalization in digital public spaces. In response, DIGC 2600 centers a selection of diverse narratives that exemplify inclusive digital projects. This course invites students to explore how historically underrepresented narratives are created, curated, and shared in a range of digital formats using diverse forms of data. Surveying the broad concept of digital publics, I'll invite students to reflect on the ways race, gender, and sexuality intersect in a variety of digital environments. We'll examine interactive journalism, public scholarship, digital literature, and other types of media. Students will also have a chance to produce, workshop, and revise their own data-informed digital projects--from personal portfolios, to professional narratives--that communicate their perspectives as consumers, critics, and creators in digital publics. Prerequisite: Recommended - DIGC 1200 provides helpful foundational knowledge for materials and activities in this course 1 Course Unit",
+    "course-prerequsities": [
+      "DIGC 1200",
+      "COURSE 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Recommended - DIGC 1200 provides helpful foundational knowledge for materials and activities in this course 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "DIGC 3000 Intermediate Coding for Digital Strategies",
+    "courseid": "DIGC 3000",
+    "coursedescription": "Building on the foundational concepts and approaches from experience gained through introductory coursework or prior coding experience, this course provides students with strategies for using Python to solve more complex problems. Students engage with applications of Python that help them expand their contextual knowledge and critical thinking skills, which are central to all DIGC certificate courses. By the end of the DIGC 3000 course, students can perform a functional analysis of a real-world problem and use Python to present results. Prior completion of DIGC 2000 or equivalent Python experience is required to enroll in this course. Fall or Spring Prerequisite: DIGC 2000 1 Course Unit",
+    "course-prerequsities": [
+      "DIGC 2000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DIGC 3200 Designing Critical Futures",
+    "courseid": "DIGC 3200",
+    "coursedescription": "In her Nebula award-winning novel Parable of the Talents, Octavia Butler writes that \"(w)e can, each of us, do the impossible as long as we can convince ourselves that it has been done before.\" But what if this \"before\" is located somewhere in critical futures? Why should these futures matter to people who are concerned with practicable strategies for building a more just world? DIGC 3200 invites students to imagine what \"each of us\" can do to reframe the possible by engaging with: (1) creative labor from sonic, literary, and visual artists; (2) critical labor from scholars, media experts, and non-profit professionals; and (3) social movement labor from activists, journalists, and civic participants. Along the way, students will design visions of critical futures that speak to the communities they hope to serve outside of the course. The course is organized around four essential units that each culminate in a creative project. The first unit focuses on place-making efforts that connect speculative design to community organizing and civic engagement. The second expands these connections through intersecting design discussions about queer community, disability justice, and feminist praxis. The third centers mutualistic collaboration and critical play as radical practices for advancing equity and affirming generative difference. These practices set up the final unit which invites students to make a digital object that engages with a critical future of their design. Each unit will frame speculative work and other materials as case studies for designing critical futures. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DIGC 3600 Applications of Digital Culture",
+    "courseid": "DIGC 3600",
+    "coursedescription": "The rapid pace of technological changes since the invention of the microchip in the 1970s has by some accounts outstripped society’s mechanisms for evaluating and managing the way we engage with one another and social systems in the larger world. When cell phones first became common in the early 2000s, taking a personal call in a restaurant was rude behavior—today it is rare that this same activity would be questioned or challenged. In short, the social, economic, and cultural parameters that define how we understand ourselves and our place in the world have been challenged and, in many cases, overthrown at all levels in our society. In this class, students take a deep dive into the implications and consequences of digital ethics and digital literacy as engaged citizens in four arenas: ethics and algorithms, ethics of privacy, ethics of identity, and ethics and professional practices. At the conclusion of the course, students work on developing a deeper understanding of ethical practices as they pertain to specialized arenas of digital culture with a framework and tools for engaging with technological change as a living component of their daily lives. Prerequisites: Students are expected to either have taken a minimum of either DIGC 1200 or DIGC 1600 , or bring sufficient prior expertise to analyze the social implications of technological change. Fall or Spring Prerequisite: DIGC 1200 AND DIGC 1600 1 Course Unit",
+    "course-prerequsities": [
+      "DIGC 1200",
+      "DIGC 1600"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "When cell phones first became common in the early 2000s, taking a personal call in a restaurant was rude behavior—today it is rare that this same activity would be questioned or challenged."
+      ]
+    }
+  },
+  {
+    "coursename": "DIGC 4000 Advanced Coding for Digital Strategies",
+    "courseid": "DIGC 4000",
+    "coursedescription": "This course teaches you to understand code using Python at the 10,000 foot level. You'll develop competencies to communicate with programmers and software engineers, to bridge the gap between the programmer and the client. It reinforces and builds upon the skills learned in previous coding courses in the DIGC cluster. Students will gain a deeper understanding of Python programming and develop the skills necessary to comprehend more complex Python programs. Throughout the course, students will develop a rudimentary understanding of specifications for code, which can be utilized to bridge the gap between knowledge domain experts and programmers. They will learn to discuss types and assignment, evaluate expressions, and practice logical reasoning through branches and loops. In addition, students will explore the development of small but structured programs, emphasizing ease of design, testing, and debugging through the formal description, and use, of functions. The course will also cover writing simple classes, which will help students to develop more complex programs and solve real-world problems. Upon completion of the course, students will have sufficient skills to understand, at a higher level, what a more professional Python program is doing. They will be able to read basic code and discuss it in detail. The course will provide students with a solid foundation for interfacing with programmers in a professional environment. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DIGC 4600 Practices in Digital Culture",
+    "courseid": "DIGC 4600",
+    "coursedescription": "Understanding literacy, having context for technocultures, telling stories, and exploring ethics are critical to being an informed individual in contemporary life; but becoming an active citizen in society requires the skills to engage on a deeper level with technologies. In this class, students will focus on living technocultures from 1970-present and engage in critical evaluation and analysis of technocultures in the modern and postmodern eras. Over the course of the term, students will focus on a particular technological category, located in its own cultural setting. They will develop, and implement their own project proposal for in-depth study of a specific technology or use-case that has application for their own interests or goals. Students will begin their exploration using grounded theory, though the nature of their projects will dictate what methodology they will employ. During the class, they will work in small groups with others using similar methods in the exploration of their research and course content. Students will be incorporating tools and skills developed in at least two of the DIGC track courses in their projects. Students are expected to either have taken at least two of the following: DIGC 1200 , DIGC 1600 , and/or DIGC 2000 or bring sufficient prior expertise to analyze and problematize a technological practice or arena in a real world setting with the guidance of the instructors of those courses. The full cluster is recommended. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "They will develop, and implement their own project proposal for in-depth study of a specific technology or use-case that has application for their own interests or goals.",
+        "The full cluster is recommended."
+      ]
+    }
+  }
+]

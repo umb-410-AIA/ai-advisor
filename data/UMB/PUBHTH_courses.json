@@ -1,0 +1,78 @@
+[
+  {
+    "coursename": "History and Foundations of Public Health",
+    "courseid": "PUBHTH101",
+    "coursedescription": "This introductory course explores the foundations and history of public health, as a discipline, a part of public policy, and the forefront of the effort to prevent future pandemics and epidemic disease. The course will focus on how global trends affect urban environments and how cities influence and sometimes drive the health outcomes of places far removed from the metropolis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Environmental Health",
+    "courseid": "PUBHTH102",
+    "coursedescription": "This course provides an introduction and overview of key knowledge of environmental health. The course covers processes and factors associated with the development of environmental health problems while emphasizing the process of devising actionable solutions in fieldwork, and at the policy level.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Epidemiology",
+    "courseid": "PUBHTH220",
+    "coursedescription": "This course covers applications of epidemiologic methods and procedures to the study of the distribution and determinants of health and diseases, morbidity, injuries, disability, and mortality in populations. Epidemiologic methods for the control of conditions such as infectious and chronic diseases, mental disorders, community and environmental health hazards, and unintentional injuries are discussed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Social Determinants of Health",
+    "courseid": "PUBHTH240",
+    "coursedescription": "This course provides an introduction to and overview of the Social Determinants of Health (SDoH) and their impact on health, functioning, and quality of life across the life course. Students completing this course will explore social, economic, environmental, and political factors contributing to health and health disparities across various populations and communities. Topics to be discussed include health disparities, the life course perspective, intersectionality, racism, discrimination, socioeconomic status, housing, and residential segregation, access to healthcare, and social and environmental factors. The course will examine current efforts to address the SDOH, advocacy, and efforts to effectively mobilize health promoting pathways. Students will be challenged to reflect upon the determinants critically and propose innovative and grassroots strategies to improve health, reduce health disparities, and address the nonmedical determinants of health.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Urban Public Health",
+    "courseid": "PUBHTH265",
+    "coursedescription": "Addresses a specific topic in Urban Public Health. Course content varies according to the topic.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Racism as a Public Health Problem",
+    "courseid": "PUBHTH330",
+    "coursedescription": "This course examines the ways in which racism structures health outcomes, healthcare access, and public health priorities in the United States and globally in ways that produce health disadvantages for historically marginalized groups. We will examine how racism affects health across many dimensions, and why health disadvantages have persisted for people of color over time despite remarkable progress in medical care and medical interventions. Drawing on theory and broad research from public health, we will examine how structural racism in medical experimentation, residential segregation, incarceration, discrimination, education, and employment have created health inequalities that are a public health problem. This course will emphasize the important role of racism as a social determinant of health. Students will be encouraged to think critically about how to design public health interventions that prioritize social justice to achieve health equity.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "US Healthcare Systems",
+    "courseid": "PUBHTH350",
+    "coursedescription": "This course provides an overview of healthcare organization, delivery, and financing both in the United States. It explores the development of healthcare systems, examines key stakeholders and components, analyzes healthcare policies, and addresses current challenges in healthcare delivery. The course evaluates emerging trends and ethical challenges in US Healthcare System. This course equips students with basic knowledge of the U.S. healthcare system. In addition, students gain valuable insights into the complexities of healthcare systems, particularly in the context of urban aging populations. The course also emphasizes how social determinants of health shape access to care for vulnerable populations and examines ethical challenges, preparing students to become effective advocates and practitioners in this field.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Health Communications",
+    "courseid": "PUBHTH355",
+    "coursedescription": "This course examines health communication strategies within urban public health contexts, focusing on how to promote health, address health disparities, and engage communities effectively. Special attention will be given to the impact of misinformation and disinformation in health communication. Students will engage in case studies, collaborative projects, and real-world examples to develop practical skills in health communication.",
+    "course-prerequsities": [
+      "STATUS 30"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research Methods for Public Health",
+    "courseid": "PUBHTH400",
+    "coursedescription": "Learners will understand the basics of designing and implementing public health research programs. Core research concepts are introduced including specification, research ethics, design, data collection, measurement, survey design, bias, qualitative and quantitative research, data management and data analysis, research implementation, interpretation, and dissemination. Learners will also understand how research is used in evidence-based practice. This includes the ability to frame empirically answerable questions, locate data relevant to those questions, critically evaluate such data, and apply it to practice situations. Students will learn how to draw proper conclusions from the analysis, and communicate the results in context.",
+    "course-prerequsities": [
+      "EHS 280"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

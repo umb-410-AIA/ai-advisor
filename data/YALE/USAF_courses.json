@@ -1,0 +1,72 @@
+[
+  {
+    "coursename": "* USAF 1001a, Heritage and Values of the U.S. Air Force I Christopher Goad",
+    "courseid": "USAF 1001a",
+    "coursedescription": "Introduction to the U.S. Air Force and how it works as a military institution, including an overview of its basic characteristics, missions, and organizations. Students attend one 50-minute lecture and one 110-minute laboratory each week. For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree. Grades earned in this course do not count toward GPA or eligibility for General Honors. T 7:40am-8:30am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree."
+      ]
+    }
+  },
+  {
+    "coursename": "* USAF 2001a, Team and Leadership Fundamentals I David Meek",
+    "courseid": "USAF 2001a",
+    "coursedescription": "This course focuses on laying the foundation for teamwork and leadership, particularly the skills that allow cadets to improve their leadership on a personal level and within a team. The course prepares cadets for their field training experience, where they are able to put the concepts learned into practice. The purpose of this course is to instill a leadership mindset and to motivate sophomore students to transition from AFROTC cadet to AFROTC officer candidate. For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree. Grades earned in this course do not count toward GPA or eligibility for General Honors. T 8:40am-9:30am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree."
+      ]
+    }
+  },
+  {
+    "coursename": "* USAF 2014b / GLBL 2280b, The Space Domain and Global Security Lester Oberg",
+    "courseid": "USAF 2014b",
+    "coursedescription": "The outer space domain is increasingly important to global security and prosperity. Space capabilities enable unprecedented economic opportunities across multiple fields of endeavor, ranging from environment and agriculture to transportation, science, and banking. At the same time, space has become essential to national defense: it underpins the ability of advanced militaries to navigate and track forces, to maintain robust communications, to detect missile launches, and to ensure effective command and control. Yet the evolution in uses of space, and advances in space technology, create novel risks, vulnerabilities, and threats. This course aims to equip students with an understanding of the dynamic, rapidly evolving domain of outer space. After analyzing some of the unique technical and legal features of the space domain, the class explores the strategic significance of space to American national security interests, particularly as space becomes more competitive among nations. The course also focuses on the rise of the commercial space industry, the growing number of space activities undertaken by corporations, and the role of public-private partnerships in ensuring the resilience of national space assets and the global space economy. In collaboration with the U.S. Air Force Academy, students also participate in an intensive space conflict tabletop exercise, assuming the roles of key stakeholders in an engaging simulation. There are no formal prerequisites for this course . However, for those seeking admission—especially undergraduates—prior coursework or work experience in global affairs, law, computer science, physics, astrophysics, and/or astronomy, is helpful. Students will be admitted to the course from a diverse array of backgrounds. Though this is an Aerospace Studies proposal that will be required for second-year cadets enrolled in Yale Air Force ROTC, this course has the full support of the Jackson School. SO RP HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "After analyzing some of the unique technical and legal features of the space domain, the class explores the strategic significance of space to American national security interests, particularly as space becomes more competitive among nations."
+      ]
+    }
+  },
+  {
+    "coursename": "* USAF 3001a, Leading People and Effective Communication I Nathan Luchini",
+    "courseid": "USAF 3001a",
+    "coursedescription": "Advanced study of leadership concepts and ethics, management and communication skills, and Air Force personnel and evaluation systems. Emphasis on the enhancement of leadership skills. Case studies and exercise of leadership and management techniques in a supervised environment. For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree. Grades earned in this course do not count toward GPA or eligibility for General Honors. T 8am-9:30am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree."
+      ]
+    }
+  },
+  {
+    "coursename": "* USAF 4002a, National Security, Leadership Responsibilities and Commissioning Preparation II Lester Oberg, Christopher Goad, Nathan Luchini, and David Meek",
+    "courseid": "USAF 4002a",
+    "coursedescription": "Overview of the complex social and political issues facing the military profession. Designed to provide seniors with a foundation for understanding their role as military officers in American society. Prerequisites: USAF 301, 302 and field training. For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree. Grades earned in this course do not count toward GPA or eligibility for General Honors. HTBA",
+    "course-prerequsities": [
+      "USAF 301"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For enrollment credit only; cannot be applied toward the 36-course-credit requirement for the Yale bachelor's degree."
+      ]
+    }
+  },
+  {
+    "coursename": "* USAF 4011a, Foundations of American Airpower Lester Oberg",
+    "courseid": "USAF 4011a",
+    "coursedescription": "This course is an exploration of the evolution and employment of airpower in the United States military. The course is designed to give students an understanding of what role modern airpower plays in the use of national instruments of power; how American airpower has shaped U.S. grand strategy and vice versa. The course traces the development of airpower doctrine and strategy from World War I to modern day. Applications to deterrence theory, the role of technology, counterinsurgency/counterterrorism, and the “information revolution” are discussed. T 9:20am-10:30am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

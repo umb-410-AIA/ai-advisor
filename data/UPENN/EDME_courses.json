@@ -1,0 +1,110 @@
+[
+  {
+    "coursename": "EDME 5010 Applied Learning and Technology in Medical Education",
+    "courseid": "EDME 5010",
+    "coursedescription": "This course is embedded in a block of three courses focusing on learning and technology in medical education. This course focuses on historical and current learning methods and practices, as well as learning technologies in medical education. Topics include the fundamentals of learning theories, effectively applying emerging technologies in medical education, adult learning and development, diversity, inclusion and medical education, and the challenges of teaching/learning in modern academic medicine and within the healthcare context. Prerequisite: Enrollment in Medical Education program. Summer Term 1 Course Unit",
+    "course-prerequsities": [
+      "TERM 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDME 5020 Learning & Instructional Design in Medical Education",
+    "courseid": "EDME 5020",
+    "coursedescription": "This course is embedded in a block of three courses focusing on learning and technology in medical education. This course focuses on the design and delivery of medical education programs and interventions. Topics include current trends in medical education, pedagogy, curriculum and instructional design, assessment of learning and educational initiatives, and implementation of learning interventions in an uncertain environment. Prerequisite: Enrollment in Medical Education program. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDME 5030 Managing Technology in Curriculum in Medical Education",
+    "courseid": "EDME 5030",
+    "coursedescription": "This course is embedded in a block of three courses focusing on learning and technology in medical education. This course focuses on selecting, embedding and managing technology in the medical education curriculum. Topics include the role of experiential learning in medical education, simulation, the virtual learning environment and emerging technologies, group dynamics, and the instructor-learner relationship. Prerequisite: Enrollment in Medical Education program. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDME 5040 Evidence Based Medical Education",
+    "courseid": "EDME 5040",
+    "coursedescription": "This course is embedded in a block of three courses focusing on research in medical education. This course focuses on research and research methods in medical education. Topics include quantitative, qualitative, and mixed methods research design in medical education. Specifically, students will explore the philosophical foundation of research, conducting the literature review, introduction to quantitative and qualitative data collection and analysis, the role of language in research, and developing research questions. Prerequisite: Enrollment in Medical Education program. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDME 5050 Assessing Medical Instruction",
+    "courseid": "EDME 5050",
+    "coursedescription": "This course is embedded in a block of three courses focusing on research in medical education. This course focuses on research and research methods to measure the effectiveness of medical education practices. Topics include assessment of learning outcomes, how to critically evaluate medical education research, evaluating the impact of learning interventions, and evidence-based decision making. Prerequisite: Enrollment in Medical Education program. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDME 5060 Evidence Based Medical Education II",
+    "courseid": "EDME 5060",
+    "coursedescription": "This course is embedded in a block of three courses focusing on research in medical education. This course focuses on advanced topics in research and research methods in medical education, as well as the development of medical educator skills. Specific topics include advanced quantitative, qualitative, and mixed methods research skills, and medical educator skills (e.g., story development, coaching, remediation and feedback, and presentation skills). Prerequisite: Enrollment in Medical Education program. Summer Term 1 Course Unit",
+    "course-prerequsities": [
+      "TERM 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDME 5900 Foundations in Health Professions Education",
+    "courseid": "EDME 5900",
+    "coursedescription": "Course description: The Health Professions Education Certificate (HPEC) is a one-credit course designed to equip participants with the skills and knowledge needed to design, implement, and evaluate high-quality educational programs across a range of healthcare disciplines and learning settings. Bringing together clinical educators from around the world, the course fosters collaboration and exploration of current trends and evidence-based practices in health professions education. Key topics include adult learning theories, technology-enhanced instruction, curriculum development, interprofessional education, diversity and learning, assessment and evaluation methods, and approaches to coaching and mentorship. Please note: This course is intended for HPEC participants and cannot be used as a substitute for required coursework in the Med Ed curriculum. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDME 6010 Leadership Skills in Education",
+    "courseid": "EDME 6010",
+    "coursedescription": "This course is embedded in a block of three courses focusing on leadership in healthcare and medical education. This course focuses on leadership theories, models, and skills. Topics include a historical review of leadership theories and models, as well as an exploration of current research on leading education in organizations. Students will explore the competency-based approach to understanding effective leadership, emotional intelligence, employee engagement and happiness at work, and team dynamics as they relate to the medical education context. Prerequisite: Enrollment in Medical Education program. Summer Term 1 Course Unit",
+    "course-prerequsities": [
+      "TERM 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDME 6020 Leadership Effectiveness in Medical Education",
+    "courseid": "EDME 6020",
+    "coursedescription": "This course is embedded in a block of three courses focusing on leadership in healthcare and medical education. This course focuses on individual leadership development and will provide students with experiences, perspectives, and theories that will enable them to better understand themselves in the context of a diverse, changing world and a rapidly changing industry. Topics covered include adult development, adult learning, perception, bias, diversity and inclusion, emotional and social intelligence, and the role of values and ethics in leadership. Prerequisite: Enrollment in Medical Education program. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDME 6030 Directing Education Programs",
+    "courseid": "EDME 6030",
+    "coursedescription": "This course is embedded in a block of three courses focusing on leadership in healthcare and medical education. This course focuses how to lead medical education in a complex organization embedded in a complex and changing industry. Students will explore a systems perspective of organizational effectiveness, focusing on current research and practices in the areas of organizational culture, organizational change, organizational effectiveness, and organizational diagnosis. Prerequisite: Enrollment in Medical Education program. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "EDME 6040 Capstone: Leadership in Medical Education I",
+    "courseid": "EDME 6040",
+    "coursedescription": "This course focuses on academic and practical skills needed to prepare students for the final Capstone assignment, inclusive of all elements of the masters thesis portfolio. Specific topics include influencing across cultural boundaries in organizations, building teams to create sustainable change, and advanced medical educator skills (e.g., story development, coaching, remediation and feedback, and presentation skills). Prerequisite: Enrollment in Medical Education program. Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "coursename": "Elementary Portuguese I",
+    "courseid": "PORT101",
+    "coursedescription": "Designed for students with little or no background in the Portuguese language. Portuguese 101 focuses on the acquisition of basic listening, speaking, reading, and writing skills within a cultural framework.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Elementary Portuguese II",
+    "courseid": "PORT102",
+    "coursedescription": "A continuation of PORT 101. Portuguese 102 focuses on furthering the acquisition of basic listening, speaking, reading, and writing skills within a cultural framework.",
+    "course-prerequsities": [
+      "PORT 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Portuguese II",
+    "courseid": "PORT202",
+    "coursedescription": "A continuation of PORT 201. Further development of language skills, with readings in Portuguese and Brazilian literature and civilization.",
+    "course-prerequsities": [
+      "PORT 201"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Afro-Luso-Brazilian Cultures",
+    "courseid": "PORT375L",
+    "coursedescription": "This course will offer an introduction to the cultures, histories, and politics of the Portuguese-speaking world (namely Portugal, Brazil, Angola, Cabo Verde, Guinea-Bissua, Mozambique, and Sao Tome and Principe) as seen primarily through key literary, historical and filmic texts. Materials and class discussions will center around themes of colonialism, the struggle for independence, post-colonialism, gender, class, race, dictatorships, national identity, historical memory, and (im)migration. This course includes an explicit focus on comparison between the cultures of Brazil, Portugal and those of the PALOP (Portuguese-Speaking nations of Africa), specifically their experiences with colonialism, the path to independence, and post-colonialism.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "coursename": "* SCIE 0010a and SCIE 0011b, Perspectives on Biological Research Sandy Chang",
+    "courseid": "SCIE 0010a",
+    "coursedescription": "5The goal of this two course series is to teach Science, Technology, and Research Scholars 1 (STARS1) scientific skills necessary to conduct cutting-edge undergraduate research in their first summer. During the first semester, students read primary research papers on the COVID19 pandemic and emerge from this course with an appreciation for how rapidly scientific knowledge can be utilized to combat a deadly disease. Students learn how to (1) read the primary scientific literature, (2) present this material to the class and, (3) write a group grant proposal. During the second semester, students are required to take MCDB 201L concurrently and identify a Yale research mentor to work with over the summer. Students learn how to write an independent grant proposal to prepare them for summer research. Students receive guaranteed funding upon successful completion of the grant proposal. Credit for SCIE 010 is given only upon completion of SCIE 011. One course credit, one SC or WR credit, is awarded after successful completion of the grant proposal and one year's work. Enrollment limited to first-year students. Prerequisite: Score of 5 on AP biology test or equivalent on IB biology exam. Students MUST take MCDB 201L, Molecular Biology Laboratory, in Spring 2025 concurrent with SCIE 011. WR , SC ½ Course cr per term F 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "MCDB 201L",
+      "SPRING 2025",
+      "SCIE 011",
+      "F 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* SCIE 0020a and SCIE 0021b, Perspectives on Research in the Mathematical and Physical Sciences Charles Bailyn",
+    "courseid": "SCIE 0020a",
+    "coursedescription": "This first-year seminar is the first of a two-part sequence designed for students in the Science, Technology and Research Scholars (STARS) program, and other first-year students interesting in studying the physical and mathematical sciences. In the first semester, students encounter on-going research at Yale and in the broader scientific community across physics, astronomy, geology, computer science and data science. Skills necessary to understand, write, and present research in these areas are developed. In the second semester, students identify a Yale research mentor and prepare an independent grant proposal to prepare for summer research. The organizational structures and best practices associated with scientific research are examined. Credit for SCIE 020 is given only upon successful completion of SCIE 021. One course credit, one SC or WR credit, is awarded after successful completion of both courses. Enrollment limited to first-year students. Corequisite: Students must enroll in an appropriate introductory course sequence in Physics or Computer Science. WR , SC ½ Course cr per term F 2:30pm-4:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "F 2",
+      "30PM-4"
+    ],
+    "other": {
+      "notes": [
+        "This first-year seminar is the first of a two-part sequence designed for students in the Science, Technology and Research Scholars (STARS) program, and other first-year students interesting in studying the physical and mathematical sciences.",
+        "Enrollment limited to first-year students.",
+        "Corequisite: Students must enroll in an appropriate introductory course sequence in Physics or Computer Science."
+      ]
+    }
+  }
+]

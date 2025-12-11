@@ -1,0 +1,161 @@
+[
+  {
+    "coursename": "MTR 5100 Introduction to Clinical and Translational Research",
+    "courseid": "MTR 5100",
+    "coursedescription": "This introductory course lays the foundation for understanding practical aspects of conducting clinical research in an academic environment. The course is divided into two modules: Module 1: Research Methods & Protocol Development and Module 2: Regulatory Environment for Clinical Trials. The first module introduces clinical research, clinical protocols, study designs and biostatistics that underlie such studies. The second module covers ethical considerations in clinical research, study execution and oversight, and the regulatory environment for clinical research. Upon completion, students should have a strong foundation in the fundamentals of clinical research and should be able to apply contemporary research tools to clinically relevant areas of investigation. Fall Also Offered As: REG 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 5350 Introduction to Bioinformatics",
+    "courseid": "MTR 5350",
+    "coursedescription": "This course provides overview of bioinformatics and computational biology as applied to biomedical research. A primary objective of the course is to enable students to integrate modern bioinformatics tools into their research activities. Course material is aimed to address biological questions using computational approaches and the analysis of data. A basic primer in programming and operating in a UNIX enviroment will be presented, and students will also be introduced to Python R, and tools for reproducible research. This course emphasizes direct, hands-on experience with applications to current biological research problems. Areas include DNA sequence alignment, genetic variation and analysis, motif discovery, study design for high-throughput sequencing RNA, and gene expression, single gene and whole-genome analysis, machine learning, and topics in systems biology. The relevant principles underlying methods used for analysis in these areas will be introduced and discussed at a level appropriate for biologists without a background in computer science. The course is not intended for computer science students who want to learn about biologically motivated algorithmic problems; BIOL 4536 / BIOL 5536 and BE 5370 / CIS 5370 / MPHY 6090 are more appropriate. Prerequisites: An advanced undergraduate course such as BIOL 4210 or a graduate course in biology such as BIOL 5210 , BIOL 5240 , or equivalent, is a prerequisite. Fall Also Offered As: BIOM 5350 , CIS 5350 Prerequisite: BIOL 4210 OR BIOL 5210 OR BIOL 5240 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 4210",
+      "BIOL 5210",
+      "BIOL 5240",
+      "BIOM 5350",
+      "CIS 5350"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 6000 Introduction to Biostatistics",
+    "courseid": "MTR 6000",
+    "coursedescription": "The goal of this course is to develop translational scientists who are able to apply the necessary statistical methods to their thesis project, critically assess the application of statistical methods in the literature, and collaborate with biostatisticians. The course will be designed to include weekly seminars to teach introductory biostatistics concepts and group assignments applying the principles through critically assessing the literature. Fall Also Offered As: REG 6000 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 6020 Proposal Development and Study Design",
+    "courseid": "MTR 6020",
+    "coursedescription": "This course has two primary areas of focus: (i) proposal development and enhancement; and (ii) a focus on research and study design. (i) Proposal Development and Enhancement: Students apply foundational concepts by revising and refining their written proposal and presenting their research project throughout the course. Students receive an overview of approaches to developing an effective proposal; and guidance on how to write and present their hypothesis, specific aims, research strategy, significance, innovation, and approach using the general NIH application format. (ii) Research and Study Design: Students receive an overview of translational research principals and clinical study design approaches relevant to thesis projects designed to probe mechanisms of disease and translate results in basic research into investigations in humans. Topics include clinical and translational research methods, and study design and execution. Students are introduced to these topics through asynchronous and synchronous learning environments. At the end of the course, each student submits and presents their written proposal to their peers and a panel of reviewers for critique and feedback. Members of the panel include the students’ research mentor(s), program mentor, and thesis committee. The panel provides feedback on the proposal which the student will then incorporate into the written proposal. Students submit their final revised proposal to be reviewed and graded by their program mentor. Fall Also Offered As: REG 6020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 6030 Disease Measurement",
+    "courseid": "MTR 6030",
+    "coursedescription": "Students will acquire the knowledge to rationally and effectively incorporate disease measurements, including emerging technologies, into the design of translational and clinical research protocols; gain a basic understanding of measurement methodologies used in clinical medicine; understand how \"normal\" values are determined, and how to interpret test results in the context of patients/research subjects; and lastly approach disease measurements (tests) as a means of answering questions, and to be able to choose appropriate tests to answer the questions being posed. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 6040 Scientific & Ethical Conduct",
+    "courseid": "MTR 6040",
+    "coursedescription": "In this course, students will learn the foundational principles of scientific, operational and ethical conduct of research, complete directed experience in evaluating ethical principles through IRB membership and ultimately be able to apply all principles to their own work. By the end of the foundational class sessions, students will understand scientific conduct, ethical considerations of human subject's research, good clinical practices (GCP), good laboratory practices (GLP), conflict of interest, and budgetary concepts. The directed experience will include becoming a member of an Institutional Review Board (IRB) (Penn or CHOP) and participating as an active member in 6 meetings. Spring Also Offered As: REG 6040 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "By the end of the foundational class sessions, students will understand scientific conduct, ethical considerations of human subject's research, good clinical practices (GCP), good laboratory practices (GLP), conflict of interest, and budgetary concepts."
+      ]
+    }
+  },
+  {
+    "coursename": "MTR 6050 Data Manuscript Writing",
+    "courseid": "MTR 6050",
+    "coursedescription": "Students will write a primary data manuscript for publication with their primary lab mentor. Emphasis will be placed on identifying publishable data that was either generated by the student, or which is made available to the student for analysis from the mentor's lab. The student will be expected to learn the role of first author including 1) coordination with the senior mentor to write the introduction, 2) organize data, analyses and figures, 3) obtain or write methods and results from collaborators, 4) writing a discussion and, 5) getting it out the door. Mentors will be asked to agree to participate in this process, or identify another senior individual in their group who would perform the function as a condition to have MTR students funded in their program. Course director and members of the curriculum committee will provide guidance and critical review of work throughtout the process. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 6060 Grantsmanship for Career Development Awards",
+    "courseid": "MTR 6060",
+    "coursedescription": "Open to nondegree: No Prerequisite: Students are required to be writing a career development award during the term in which they enroll in the course. If you are interested in taking the course, please contact Dr. Rachel Locke to confirm you meet the requirements before requesting permission to register. Objectives: (1) Write a first draft of the Candidate Section of the K award (and more if your Specific Aims are clear and don’t change considerably during the course). (2) Understand and apply grant writing best practices to basic science and translational research grants beyond NIH. (3) Develop professional networks with other students. Topics covered: (1) How to Apply to NIH: NIH lingo; Reading NOFOs; Finding all the instructions; Grant review and scoring; Biosketch. (2) Writing Career Development Awards (K): The concept behind these awards; How to write the 3 parts of the Candidate Section; Identifying your career niche, career goals, and the skills you need to succeed in your niche; Writing the training plan: activities will you do to gain the skills you need, who will help you get those skills (identifying mentors and advisory committee members); Letters of Reference. (3) The Research Project: Grants solve problems that people in your field care about; What is your grant story?; Creating a graphical representation of your Specific Aims; Developing clarity about data output, interpretation, value, potential and where on the application you use each concept; Linking your preliminary data to the Specific Aims; Writing hypotheses: Presenting preliminary data and figures in grants; Grant planning using the statement of work; Your grant story’s happy ending: framing your application. (4) How to write the Specific Aims Page: structure. (5) How to write the Approach Section: structure. (6) How to write the Significance section: structure. What is the Innovation section about, anyway? (7) How to save hours of your precious life by using the Styles in MS Word. Approach: To achieve the course objectives, we will use: didactic presentations by the course director, outside experts, and students; group/partner discussions; in-class exercises and worksheets; weekly homework assignments. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "If you are interested in taking the course, please contact Dr.",
+        "Rachel Locke to confirm you meet the requirements before requesting permission to register."
+      ]
+    }
+  },
+  {
+    "coursename": "MTR 6070 Thesis I",
+    "courseid": "MTR 6070",
+    "coursedescription": "Candidates are expected to complete a thesis that involves designing a research project, writing a formal research proposal, performing the study described in it, preparing a comprehensive scholarly scientific paper reporting the results, and presenting and defending the thesis at a public seminar. At the time of application, each candidate specifies the project they will pursue, along with the lead mentor who will supervise the project. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 6080 Thesis II",
+    "courseid": "MTR 6080",
+    "coursedescription": "Candidates are expected to complete a thesis that involves designing a researchproject, writing a formal research proposal, performing the study described in it, preparing a comprehensive scholarly scientific paper reporting the results, and presenting and defending the thesis at a public seminar. At the time of application, each candidate specifies the project they will pursue along with the lead mentor who will supervise the project. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 6200 Medical Entrepreneurship: Commercializing Translational Science",
+    "courseid": "MTR 6200",
+    "coursedescription": "This course provides in depth insight into the process by which health technology platforms including scientific discoveries are transformed into viable commercial entities. This includes methods to evaluate market opportunities and derisk critical assumptions within the rapidly changing academic and healthcare environment. Topics include intellectual property creation and licensing, technology transfer, regulatory pathways, raising capital/NIH SBIR/STTR grant funding, go to market strategy, market sizing, formation equity, and recruiting co-founders. The major project will involve the formation of teams that will create a defendable business plan and consummate in a presentation (pitch deck) intended to raise capital. The course will be especially valuable for students who may be considering entrepreneurial career paths including starting a company, working for an early stage venture, healthcare consulting, or assuming innovation leadership roles. Spring Also Offered As: BE 6080 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 6210 Cell and Gene Therapy",
+    "courseid": "MTR 6210",
+    "coursedescription": "This course will provide students with a general overview of translational research in the area of gene and cell therapy. This includes technical considerations, translating preclinical investigation into therapeutics, the execution of gene and cell therapies clinical trials, and key regulatory issues. Entrepreneurial considerations will be discussed as well. By the end of this course, students will understand the basic technologies employed for gene and cell therapy along with approaches and pitfalls to translating these therapies into clinical applications including regulatory and commercial aspects of this emerging area. Prerequisite: For graduate students, at least one prior course in immunology. An undergraduate-level or medical school immunology course is sufficient to meet the prerequisite. For students outside of MTR, please use the Permit Request function in Path to request enrollment. When requesting a permit for the course, indicate your prior coursework and/or experience in immunology. If you do not indicate this information, your permit request will not be considered. PhD students should request the CAMB 7070 section. All other graduate students should request the MTR 6210 section. Also Offered As: CAMB 7070 , REG 6210 1 Course Unit",
+    "course-prerequsities": [
+      "CAMB 7070",
+      "MTR 6210",
+      "REG 6210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 6230 Writing an NIH Grant",
+    "courseid": "MTR 6230",
+    "coursedescription": "This course will provide a comprehensive overview of the grant writing process: fundamentals of good grant writing, general preparation of grant application (e.g. specific aims, research strategy, budgets, analysis of reviews and strategies of rebuttal and re-application), identifying RFAs, study sections, program officers and Scientific Review Officers (SROs), research strategy and detailed descriptions of the different types of funding mechanisms (e.g. R01, R21, K99/R00). While all grant mechanisms will be discussed, the class will focus on those relevant to the participants. Three mock study sections – two consisting of peer review and the other of faculty – is expected to familiarize the participants with the NIH review process. This course is expected to provide the foundation of any grant proposal, in terms of writing skills. It will be mandatory for all students to submit the intermediate proposals, and the final proposal. The participants will be drafting, revising, and working one-on-one with their peers and the course director to improve their proposal. The course will provide hands-on experience drafting the specific aims, significance, and innovation sections, through peer and faculty evaluation. Audience: Faculty or postdocs who have not written an NIH grant before or need guidance with submitting a revised application. Advanced graduate students may be permitted to enroll in the course. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MTR 6280 Quantitative Methods for Learning Health Systems Science",
+    "courseid": "MTR 6280",
+    "coursedescription": "This course explores core principles, theories, and methods from epidemiology, causal inference, biostatistics, and data science, with an emphasis on their application to inform, address, and evaluate health systems-focused research questions and interventions. The ideal learner will have a general familiarity with data analysis, electronic medical records, and experience or planned health systems projects, and is likely a doctoral student, post-doctoral researcher, or faculty member; however, interested students may contact the professor to discuss. The course will cover a wide range of topics to enhance students' familiarity, literacy, and critical appraisal skills in health-system-based randomized trials (including cluster and pragmatic trials), quasi-experimental and observational study designs and methods (such as pre/post studies, differences-in-differences, and time series analysis), as well as general considerations related to multivariable regression modeling, measurement error, missing data, predictive modeling, data integration, and related and emerging topics in learning health system science. Additional topics will vary yearly based on the availability of guest lectures and student composition and needs and may include, for example, lectures on advanced methods (such as Bayesian statistics for clinical research and machine learning), scientific and grant writing, informed consent ,and research ethics. Classes will be centered around instructor-led lectures, journal clubs, student-led presentations, case studies, and expert panels. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The ideal learner will have a general familiarity with data analysis, electronic medical records, and experience or planned health systems projects, and is likely a doctoral student, post-doctoral researcher, or faculty member; however, interested students may contact the professor to discuss.",
+        "Additional topics will vary yearly based on the availability of guest lectures and student composition and needs and may include, for example, lectures on advanced methods (such as Bayesian statistics for clinical research and machine learning), scientific and grant writing, informed consent ,and research ethics."
+      ]
+    }
+  },
+  {
+    "coursename": "MTR 6400 Seminar in Entrepreneurial Science",
+    "courseid": "MTR 6400",
+    "coursedescription": "Seminar in Entrepreneurial Science. Permission from department required to enroll. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Permission from department required to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "MTR 9999 Master of Science in Translational Research LAB",
+    "courseid": "MTR 9999",
+    "coursedescription": "1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "coursename": "Mentored Research",
+    "courseid": "PSYDBS690",
+    "coursedescription": "This course provides the mechanism through which students will receive credit while conducting pre-doctoral research. The student will be individually supervised and mentored by his or her advisor during the design and execution of an original Mentored Research Project.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Seminar in Development and Brain Sciences",
+    "courseid": "PSYDBS693",
+    "coursedescription": "This course covers topics of interest to the DBS Program faculty with a focus on classic article on the topic and recent paper of significance on the topic. The objectives for this course focus on the following core competencies: ability to clearly communicate and present research and scholarly material, develop critical skills required for evaluation research, and to gain knowledge of the history and recent advances on a relevant research topic.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course covers topics of interest to the DBS Program faculty with a focus on classic article on the topic and recent paper of significance on the topic."
+      ]
+    }
+  },
+  {
+    "coursename": "Developmental Cognitive Neuroscience",
+    "courseid": "PSYDBS725",
+    "coursedescription": "Developmental cognitive neuroscience is an evolving field that investigates the relations between brain and cognitive development. Fundamental questions include: What are the relations between developmental changes in the brain (e.g. morphology, connectivity) and developmental changes in children's perceptual and cognitive abilities (e.g. depth perception, ability to sustain selective attention, executive functions)? Why, and how, is learning enhanced during certain periods in development? These issues will be investigated in the context of the following specific topics: the development of the visual system, visual attention, memory, executive functions, speech and language. The methods of human cognitive neuroscientific research that can be used with infants and children will also be discussed (e.g. ERP, NIRS).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "PSYDBS796",
+    "coursedescription": "Study of a particular area of this subject under the supervision of a faculty member. Students wishing to register must do so through the department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Research",
+    "courseid": "PSYDBS899",
+    "coursedescription": "This course allows students to register for required dissertation credits towards the PhD in Developmental and Brain Sciences.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

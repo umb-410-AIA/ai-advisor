@@ -1,0 +1,986 @@
+[
+  {
+    "coursename": "MEAM 0099 Independent Study",
+    "courseid": "MEAM 0099",
+    "coursedescription": "An opportunity for the student to become closely associated with a professor in (1) a research effort to develop research skills and technique and/or (2) to develop a program of independent in-depth study in a subject area in which the professor and student have a common interest. The challenge of the task undertaken must be consistent with the student's academic level. To register for this course, the student and professor jointly submit a detailed proposal. Subject to the approval of the MEAM Undergraduate Curriculum Chair. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "An opportunity for the student to become closely associated with a professor in (1) a research effort to develop research skills and technique and/or (2) to develop a program of independent in-depth study in a subject area in which the professor and student have a common interest.",
+        "To register for this course, the student and professor jointly submit a detailed proposal."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 1010 Introduction to Mechanical Design",
+    "courseid": "MEAM 1010",
+    "coursedescription": "This hands-on, project-based course covers the fundamentals of the modern mechanical design process, from needfinding and brainstorming to the basics of computerized manufacturing and rapid prototyping. Topics include: product definition (needfinding, observation, sketching, and brainstorming); computer-aided design (part creation, assemblies, and animation using SolidWorks); fundamental engineering design practices (material selection, dimensioning, tolerances, etc.); basic computer simulation and analysis; and rapid prototyping (laser cutter, 3-D fused-deposition modeling, and an introduction to computer-controlled machining). Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 1100 Introduction to Mechanics",
+    "courseid": "MEAM 1100",
+    "coursedescription": "This lecture course and a companion laboratory course ( MEAM 1470 ) build upon the concepts of Newtonian (classical) mechanics and their application to engineered systems. This course introduces students to mechanical principles that are the foundation of upper-level engineering courses including MEAM 2100 and 2110 . The three major parts of this course are: I. Vector Mechanics; II. Statics and Structures; and III. Kinematics and Dynamics. Topics include: vector analysis, statics of rigid bodies, introduction to deformable bodies, friction, kinematics of motion, work and energy, and dynamics of particles. Case studies will be introduced, and the role of Newtonian mechanics in emerging applications including bio- and nano- technologies will be discussed. Students should be taking MATH 1400 concurrently with this course, unless they have MATH 1400 credit for taking it in a previous semester. Fall Prerequisite: MATH 1400 AND MEAM 1470 (may be taken concurrently) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400",
+      "MEAM 1470"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 1470 Introduction to Mechanics Lab",
+    "courseid": "MEAM 1470",
+    "coursedescription": "This half-credit laboratory class is a companion to the Introduction to Mechanics lecture course (MEAM 110). It investigates the concepts of Newtonian (classical) mechanics through weekly hands-on experiments, emphasizing connections between theoretical principles and practical applications in engineering. In addition to furthering their understanding about the workings of the physical world, students will improve their skills at conducting experiments, obtaining reliable data, presenting numerical results, and extracting meaningful information from such numbers. Fall Corequisite: MEAM 1100",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MEAM 1100"
+    ],
+    "other": {
+      "credits": ".5 Course Units",
+      "notes": [
+        "Fall Corequisite: MEAM 1100"
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 2010 Machine Design and Manufacturing",
+    "courseid": "MEAM 2010",
+    "coursedescription": "Building upon the fundamentals of mechanical design taught in MEAM 101, this hands-on, project-based course provides students with the knowledge and skills necessary to design, analyze, manufacture. and test fully-functional mechanical systems. Topics covered include an introduction to machine elements, analysis of the mechanics of machining, manufacturing technology, precision fabrication (milling, turning, and computer-controlled machining), metrology, tolerances, cutting-tool fundamentals and engineering materials. Enrollment is limited. Fall or Spring Prerequisite: MEAM 1010 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 1010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 2020 Introduction to Thermal-Fluids Engineering",
+    "courseid": "MEAM 2020",
+    "coursedescription": "This course introduces students to basic concepts of thermodynamics, fluid mechanics, and heat transfer, with emphasis on applications. The course will focus on first law of thermodynamics, mass and momentum conservation for both closed and open systems. Students will be exposed to the different modes of heat transfer (conduction, convection, and radiation) with attention to conduction and convection applications to heat engines and devices. Hydrostatics, including pressure distribution and forces acting on submerged surfaces, and buoyancy effects will be discussed as how they are related to hydraulic applications. Fluid dynamics will cover inviscid flows, Bernoulli equation, and concepts of lift, drag, and thrust, and how these are related to aerodynamical systems including wind turbines. Introduction to internal flows, head loss in pipes, friction factors, and Moody chart. Fall Prerequisite: MATH 1400 AND ( MEAM 1100 OR PHYS 0150 ) AND MATH 1410 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400",
+      "MEAM 1100",
+      "PHYS 0150",
+      "MATH 1410"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 2030 Thermodynamics",
+    "courseid": "MEAM 2030",
+    "coursedescription": "Thermodynamics studies the fundamental concepts related to energy conversion in such mechanical systems as internal and external combustion engines (including automobile and aircraft engines), compressors, pumps, refrigerators, and turbines. This course is intended for students in mechanical engineering, chemical engineering, materials science, physics and other fields. The topics include properties of pure substances, firs-law analysis of closed systems and control volumes, reversibility and irreversibility, entropy, second-law analysis, exergy, power and refrigeration cycles, and their engineering applications. Spring Prerequisites: MATH 1400 AND MATH 1410 and MEAM 2020 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1400",
+      "MATH 1410",
+      "MEAM 2020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 2100 Statics and Strength of Materials",
+    "courseid": "MEAM 2100",
+    "coursedescription": "This course is primarily intended for students in mechanical engineering, but may also be of interest to students in materials science and other fields. It continues the treatment of statics of rigid bodies begun in MEAM 1100 / PHYS 0150 and progresses to the treatment of deformable bodies and their response to loads. The concepts of stress, strain, and linearly elastic response are introduced and applied to the behavior of rods, shafts, beams and other mechanical components. The failure and design of mechanical components are discussed. Students should have either taken MATH 2400 in a previous semester or be taking it concurrently with this course. Fall Prerequisite: ( MEAM 1100 OR PHYS 0150 OR PHYS 0170 ) AND MATH 2400 AND MEAM 2470 (may be taken concurrently) 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 1100",
+      "PHYS 0150",
+      "PHYS 0170",
+      "MATH 2400",
+      "MEAM 2470"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is primarily intended for students in mechanical engineering, but may also be of interest to students in materials science and other fields."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 2110 Engineering Mechanics: Dynamics",
+    "courseid": "MEAM 2110",
+    "coursedescription": "This course introduces the basic concepts in kinematics and dynamics that are necessary to understand, analyze and design mechanisms and machines. These concepts are also fundamental to the modeling and analysis of human movement, biomechanics, animation of synthetic human models and robotics. The topics covered include: Particle dynamics using energy and momentum methods of analysis; Dynamics of systems of particles; Impact; Systems of variable mass; Kinematics and dynamics of rigid bodies in plane motion; Computer-aided dynamic simulation and animation. Spring Prerequisite: MEAM 2100 AND MATH 2400 AND ( ENGR 1050 OR CIS 1100 OR CIS 1200 ) AND ( MATH 2410 OR ENM 2510 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 2100",
+      "MATH 2400",
+      "ENGR 1050",
+      "CIS 1100",
+      "CIS 1200",
+      "MATH 2410",
+      "ENM 2510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 2200 Fundamentals of Materials Science and Engineering",
+    "courseid": "MEAM 2200",
+    "coursedescription": "The course is an introduction to the most important concepts in materials science and engineering. You will learn how the control of chemical bonding, synthesis, processing, structure and defects can be used to tailor the properties and performance of materials for applications that range from sustainable sources of energy, to construction, to consumer electronics. Case studies are also included to highlight environmental issues associated with materials degradation. This course includes lab demonstrations of key materials properties and a final project where students research an area of materials technology of their own interest. Fall Also Offered As: MSE 2200 Prerequisite: CHEM 1012 AND ( PHYS 0140 OR MEAM 1100 ) 1 Course Unit",
+    "course-prerequsities": [
+      "CHEM 1012",
+      "PHYS 0140",
+      "MEAM 1100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course includes lab demonstrations of key materials properties and a final project where students research an area of materials technology of their own interest."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 2250 Engineering in the Environment",
+    "courseid": "MEAM 2250",
+    "coursedescription": "Humans modify and control our environment, but are also subject to the whims of geologic forces. Earthquakes, landslides, floods and dust storms are natural hazards that, while unpredictable, may be understood from basic mechanical principles; and this understanding may be used to better prepare and adapt to a changing world. Human-induced climate change is triggering not only warming, but also \"global weirding\" as the climate system becomes increasingly unstable and unpredictable. This course will lead with applications related to the environment and climate change, and use simple scaling and dimensional analysis to develop physical intuition. Students will be introduced to topics such as mechanics (e.g., failure) and flow of soil and rock, river erosion, and transport and dispersion of contaminants in water and air, as well as basic phenomena of weather and climate. I will present an integrated approach to understanding these problems by applying elementary concepts of thermo-fluids and mechanics. Gravity currents make up the vast proportion of environmental flows; I will emphasize common principles, such as buoyancy and mixing. The primary objective for this course is that students discover how to apply basic engineering insight to non-engineered (i.e., natural), unconstrained systems. A secondary objective is to entice mechanical engineers to become interested in the environment. Spring, even numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A secondary objective is to entice mechanical engineers to become interested in the environment."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 2300 Bicycles: The Mechanical Advantage",
+    "courseid": "MEAM 2300",
+    "coursedescription": "This interdisciplinary course combines bicycle design, engineering, and service learning to provide students with a comprehensive understanding of the history, evolution, and impact of bicycles on society and the environment. Through hands-on projects, community engagement, and class discussions, students will develop bicycle design and engineering skills, gain practical experience and exposure to bicycle repair and maintenance, explore the impact of bicycles and related technologies on society and the environment, and understand the role of bicycles in sustainable urban mobility and planning. Spring Mutually Exclusive: MEAM 2301 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 2470 Mechanical Engineering Laboratory I",
+    "courseid": "MEAM 2470",
+    "coursedescription": "This is the first of a two semester sophomore level laboratory sequence that students complete over the fall and spring semesters. The course teaches the principles of experimentation and measurement as well as analysis and application to design. This fall semester course follows closely with MEAM 2020 and MEAM 2100 , involving experiments to explore the principles of statics and strength of materials and thermo-fluids and energy. Prerequisite: Sophomore standing in engineering Fall Prerequisite: MEAM 2020 (may be taken concurrently) AND MEAM 2100 (may be taken concurrently)",
+    "course-prerequsities": [
+      "MEAM 2020",
+      "MEAM 2100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "MEAM 2480 Mechanical Engineering Lab I",
+    "courseid": "MEAM 2480",
+    "coursedescription": "This is the second of a two-semester sophomore level laboratory sequence that students complete over the fall and spring semesters. The course teaches the principles of experimentation and measurement as well as analysis and application to design. The spring semester course follows closely with MEAM 2030 and MEAM 2110 , expanding upon the principles of experimentation, measurement, analysis, and design of systems through hands-on laboratories and projects in thermodynamics and dynamics. Prerequisite: Sophomore standing in engineering Spring Prerequisite: MEAM 2030 (may be taken concurrently) AND MEAM 2110 (may be taken concurrently)",
+    "course-prerequsities": [
+      "MEAM 2030",
+      "MEAM 2110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "MEAM 3020 Fluid Mechanics",
+    "courseid": "MEAM 3020",
+    "coursedescription": "Physical properties; fluid statics; Bernoulli equation; fluid kinematics; conservation laws and finite control-volume analysis; conservation laws and differential analysis; inviscid flow; The Navier-Stokes equation and some exact solutions; similitude, dimensional analysis, and modeling; flow in pipes and channels; boundary layer theory; lift and drag. Fall Prerequisite: ( MATH 2410 OR ENM 2510 ) AND ( PHYS 0150 OR MEAM 1100 OR PHYS 0170 ) 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2410",
+      "ENM 2510",
+      "PHYS 0150",
+      "MEAM 1100",
+      "PHYS 0170"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 3200 Intro to Mechanical and Mechatronic Systems",
+    "courseid": "MEAM 3200",
+    "coursedescription": "This course introduces topics in the design and analysis of modern mechanical systems. The course will cover concepts in mechanism design, kinematics, electronic circuits, motors and electromechanical systems, and measurement and filtering. Specific topics include kinematics of linkages, operational amplifiers, and interfacing with mechanical systems by programming microcontrollers. Prerequisite: MEAM 3470 (may be taken concurrently) 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 3470"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 3210 Dynamic Systems and Control",
+    "courseid": "MEAM 3210",
+    "coursedescription": "This course teaches the fundamental concepts underlying the dynamics of vibrations for single-degree of freedom, multi-degree, and infinite-degree of freedom mechanical systems. Methods include Newton's force methods as well as energy methods (e.g., Lagrangian approaches). Students will learn how to analyze transient, steady-state, and how different forcing scenarios relate to system stability (e.g., for controls). . The course teaches analytical solution techniques for linear systems, and practical linearization and numerical approaches for analysis of nonlinear dynamic systems. Spring Prerequisite: ( MATH 2410 OR ENM 2510 ) AND MEAM 2110 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 2410",
+      "ENM 2510",
+      "MEAM 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 3330 Heat and Mass Transfer",
+    "courseid": "MEAM 3330",
+    "coursedescription": "This course covers fundamentals of heat and mass transfer and applications to practical problems in energy conversion and conservation. Emphasis will be on developing a physical and analytical understanding of conductive, convective, and radiative heat transfer, as well as design of heat exchangers and heat transfer with phase change. Topics covered will include: types of heat transfer processes, their relative importance, and the interactions between them, solutions of steady state and transient state conduction, emission and absorption of radiation by real surfaces and radiative transfer between surfaces, heat transfer by forced and natural convection owing to flow around bodies and through ducts, analytical solutions for some sample cases and applications of correlations for engineering problems. Students will develop an ability to apply governing principles and physical intuition to solve problems. Spring Prerequisite: MEAM 2030 AND MEAM 3020 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 2030",
+      "MEAM 3020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 3470 Mechanical Engineering Design Laboratory",
+    "courseid": "MEAM 3470",
+    "coursedescription": "This is the first of a two-semester junior level laboratory sequence that students complete over the fall and spring semesters. The course is project-based, with problems whose solution requires experimental data and quantitative analysis, as well as creative mechanical design. The technical content is connected to MEAM 3020 , MEAM 3200 , and MEAM 3540 , including aerodynamics, applied fluid systems, and structural analysis. The course also includes electromechanical systems and applications of finite element analysis. Prerequisite: Junior standing in engineering Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 3480 Mechanical Engineering Design Laboratory",
+    "courseid": "MEAM 3480",
+    "coursedescription": "This is the second of a two-semester junior level laboratory sequence that students complete over the fall and spring semesters. The course is project-based, with open-ended design problems that challenge students to develop original experiments and choose appropriate analyses, with an increasing emphasis on teamwork and project planning. The technical content is connected to MEAM 321 and MEAM 333, including multimodal transient heat transfer and dynamic systems modeling. Prerequisite: Junior standing in engineering Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 3540 Mechanics of Solids",
+    "courseid": "MEAM 3540",
+    "coursedescription": "This course builds on the fundamentals of solid mechanics taught in MEAM 2100 and addresses more advanced problems in strength of materials. The students will be exposed to a wide array of applications from traditional engineering disciplines as well as emerging areas such as biotechnology and nanotechnology. The methods of analysis developed in this course will form the cornerstone of machine design and also more advanced topics in the mechanics of materials. Prerequisite: If course requirements not met, permission of instructor required. Fall Prerequisite: MEAM 2100 OR BE 2000 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 2100",
+      "BE 2000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirements not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 4050 Mechanical Properties of Macro/Nanoscale Materials",
+    "courseid": "MEAM 4050",
+    "coursedescription": "This course will discuss the mechanical properties of a wide range of materials from both macroscopic and microscopic viewpoints. Beginning with a review of elasticity and tensors, the course will describe the deformation, fracture and fatigue behavior of metals, ceramics and polymers. Dislocation theory, strengthening mechanisms and rate-dependent deformation will also be discussed. The following topics will be discussed: 1. Introduction and review of linear elasticity and tensors. Stress and strain tensors, transformations, principal stresses, invariants. Mechanical testing methods at the macro and micro scale. 2. Crystal symmetry and its effect on second and fourth rank tensors. Linear thermal expansion and thermal stresses. Anisotropic linear elasticity. Anisotropic elastic moduli of crystals. 3. Plasticity and yield in continuum elasticity. Notion of yield surfaces. 4. Elements of dislocation theory. Stress and strain fields of dislocations, forces and interactions. 5. Slip and twinning in crystalline solids. 6. Strengthening and deformation properties of crystalline materials. 7. Rate-dependent and high temperature deformation of materials. 8. Fracture of materials. Spring Also Offered As: MSE 4050 Prerequisite: MSE 2200 or MEAM 2100 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200",
+      "MEAM 2100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 4110 How to Make Things: Production Prototyping Studio",
+    "courseid": "MEAM 4110",
+    "coursedescription": "The course centers around a sequence of three projects that each culminate in the design and fabrication of functional objects. A 2D Design, 3D Design, and final \"Micro-Manufacturing\" project will introduce students to a wide variety of design, engineering, and fabrication skills made possible by the new Studios @ Tangen Hall. The micro-manufacturing final project will task interdisciplinary student teams to create a \"micro-business\" where they will design and utilize 3D printed molding and casting techniques to create a small-scale run of functional products. These products will then be showcased in an end of semester exposition, where the teams will merchandise and market their products to the Penn community. This exposition will also be a wonderful inaugural use of the student and alumni retail space on the 1st floor of Tangen Hall and serve as a great university-wide event to show case the work of SEAS students. Requires proficiency in solid modeling software (e.g., SolidWorks, Maya, Rhino), practice with design process, and hands-on fabrication experience. Also Offered As: OIDD 4110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 4150 Product Design",
+    "courseid": "MEAM 4150",
+    "coursedescription": "This course provides tools and methods for creating new products. The course is intended for students with a strong career interest in new product development, entrepreneurship, and/or technology development. The course follows an overall product design methodology, including the identification of customer needs, generation of product concepts, prototyping, and design-for-manufacturing. Weekly student assignments are focused on the design of a new product and culminate in the creation of a prototype, which is launched at an end-of-semester public Design Fair. The course project is a physical good - but most of the tools and methods apply to services and software products. The course is open to any Penn sophomore, junior, senior or graduate student. The course follows a studio format, in which students meet for three hours each week with Professor Marcovitz for lectures and hands-on making, and students will complete 90 minutes of asynchronous, self-paced content from Professor Ulrich on their own time each week. Professor Ulrich gives one in-person lecture during the semester and attends the Design Fair, but is not present at the weekly studio sessions. Also Offered As: OIDD 4150 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is intended for students with a strong career interest in new product development, entrepreneurship, and/or technology development."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 4210 Control For Autonomous Robots",
+    "courseid": "MEAM 4210",
+    "coursedescription": "This course introduces the hardware, software and control technology used in autonomous ground vehicles, commonly called \"self-driving cars.\" The weekly laboratory sessions focus on development of a small-scale autonomous car, incrementally enhancing the sensors, software, and control algorithms to culminate in a demonstration in a realistic outdoor operating environment. Students will learn basic physics and modeling; controls design and analysis in Matlab and Simulink; software implementation in C and Python; sensor systems and filtering methods for IMUs, GPS, and computer vision systems; and path planning from fixed map data. Prerequisite: If course requirement not met, permission of instructor required. Fall Also Offered As: ESE 4210 Prerequisite: ESE 2240 OR MEAM 2110 or permission of instructor 1.5 Course Unit",
+    "course-prerequsities": [
+      "ESE 4210",
+      "ESE 2240",
+      "MEAM 2110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required.",
+        "Fall Also Offered As: ESE 4210 Prerequisite: ESE 2240 OR MEAM 2110 or permission of instructor 1.5 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 4450 Mechanical Engineering Design Projects",
+    "courseid": "MEAM 4450",
+    "coursedescription": "This capstone design project course is required of all mechanical engineering students. Student teams will design and test complex mechanical systems that address a societal or consumer need. Projects are devised by the team, sponsored by industry, or formulated by Penn professors. Each project is approved by the instructor and a faculty advisor. Topics treated in the course include project planning, prototyping, patent and library searches, intellectual property, ethics, and technical writing and presentations. The work is spread over MEAM 4450 and MEAM 4460 . Prerequisite: Junior standing Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 4460 Mechanical Engineering Design Projects",
+    "courseid": "MEAM 4460",
+    "coursedescription": "This is the second course in the two course sequence involving the capstone design project. See MEAM 4450 for course description. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5020 Energy Engineering in Power Plants and Transportation Systems",
+    "courseid": "MEAM 5020",
+    "coursedescription": "Most energy consumed in the U.S. and in the world is produced using thermal-to-mechanical energy conversion. Through problem sets and a semester-long group project, students will learn the engineering principles that govern how heat is converted to mechanical power in electric power plants, jet aircraft, and internal combustion engines. Topics covered include a review of thermodynamics and basic power cycles, supercritical, combined, and hybrid cycles, cogeneration, jet propulsion, and reciprocating internal combustion engines. A brief introduction to desalination and combustion is also included. The material in this course will provide students a foundation important for industrial and research employment in energy engineering. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5030 Direct Energy Conversion: from Macro to Nano",
+    "courseid": "MEAM 5030",
+    "coursedescription": "The course focuses on devices that convert thermal, solar, or chemical energy directly to electricity, i.e., without intermediate mechanical machinery such as a turbine or a reciprocating piston engine. A variety of converters with sizes ranging from macro to nano scale will be discussed, with the advantages offered by nanoscale components specifically highlighted. Topics will include thermoelectric energy converters and radioisotope thermoelectric generators (RTGs), thermionic energy converters (TEC), photovoltaic (PV) and thermophotovoltaic (TPV) cells, as well as piezoelectric harvesters. Additional topics may include magnetohydrodynamic (MHD) generators, alkali metal thermal-to-electric converters (AMTEC), and fuel cells. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5040 Tribology",
+    "courseid": "MEAM 5040",
+    "coursedescription": "The course will compreshensively cover both theoretical and practical tribology, the science and technology of interacting surfaces in relative motion. The various modes of lubrication, hydrodynamic, elastohydrodynamic, hydrostatic, mixed, solid and dry, will be studied in detail. The contact between solid surfaces will be covered, leading to an understanding of friction and various modes of wear. At each stage, it will be shown how the tribological principles learned can be applied in practice to improve the efficiency and durability of mechanical equipment and thereby enhance sustainability through energy and materials conservation. Prerequisite: Senior standing in Mechanical Engineering or Material Science or permission of the instructor Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Senior standing in Mechanical Engineering or Material Science or permission of the instructor Fall 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5050 Mechanical Properties of Macro/Nanoscale Materials",
+    "courseid": "MEAM 5050",
+    "coursedescription": "The application of continuum and microstructural concepts to elasticity and plasticity and the mechanisms of plastic flow and fracture in metals, polymers and ceramics. Topics covered include elasticity, viscoelasticity, plasticity, crystal defects, strengthening, crystallographic effects, twinning, creep and fatigue. Emphasis will be on mathematical and physical understanding rather than problem solving. Spring Also Offered As: MSE 5050 Prerequisite: MSE 2200 OR MEAM 2100 OR MATH 2400 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200",
+      "MEAM 2100",
+      "MATH 2400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5060 Failure Analysis of Engineering Materials",
+    "courseid": "MEAM 5060",
+    "coursedescription": "This course will introduce students to the broad field of failure through hands-on real-life examples of specific failures. All engineering materials classes will be considered, including metals, polymers, elastomers, ceramics, and glasses. Emphasis will be placed on understanding how to actually analyze a failed component and understand the cause of failure. Several classes will be conducted by outside experts from places like the NTSB, FBI and OSHA. Fall Also Offered As: MSE 5060 Prerequisite: MSE 2200 or equivalent 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 2200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5070 Fundamentals of Materials",
+    "courseid": "MEAM 5070",
+    "coursedescription": "This course will provide a graduate level introduction to the science and engineering of materials. It is designed specifically to meet the needs of students who will be doing research that involves materials but who do not have an extensive background in the field. The focus is on fundamental aspects of materials science and will emphasize phenomena and how to describe them. The course assumes an undergraduate background in any area of physical/chemical science and undergraduate mathematics appropriate to this. The course will also be accessible to students of applied mathematics. Fall Also Offered As: MSE 5070 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5080 Materials and Manufacturing for Mechanical Design",
+    "courseid": "MEAM 5080",
+    "coursedescription": "The selection of materials and manufacturing processes are critical in the design of mechanical systems. Material properties and manufacturing processes are often tightly linked, thus this course covers both topics in an integrated manner. The properties and manufacturing processes for a wide range of materials (i.e., metals, ceramics, polymers, composites ) are examined from both a fundamental and practical perspective. From a materials standpoint, the course focuses on mechanical properties, including modulus, strength, fracture, fatigue, wear, and creep. Established and emerging manufacturing processes will be discussed. Design-based case studies are used to illustrate the selection of materials and processes. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5100 Design of Mechatronic Systems",
+    "courseid": "MEAM 5100",
+    "coursedescription": "In many modern systems, mechanical elements are tightly coupled with electronic components and embedded computers. Mechatronics is the study of how these domains are interconnected. This hands-on, project-based course teaches: MECHANICAL elements --prototyping (lasercutting, 3D printing), microcontrollers (ATmega32-u4, ESP32), actuators (DC motors, servos, solenoids, LEDS) and sensor (light, sound, touch, force sensors), ELECTRONICS -- basic circuits, filters, op amps, discrete logic, sensing and control of voltage and current, and COMPUTING -- interfacing with the analog world, microprocessor technology, basic control theory, wireless communication and structured embedded programming (including register level) and some web programming. Prerequisite: knowledge of structured programming language (C, C++ preferred). Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5130 Feedback Control Design and Analysis",
+    "courseid": "MEAM 5130",
+    "coursedescription": "Basic methods for analysis and design of feedback control in systems. Applications to practical systems. Methods presented include time response analysis, frequency response analysis, root locus, Nyquist and Bode plots, and the state-space approach. Spring Also Offered As: ESE 5050 Prerequisite: MEAM 3210 OR ESE 2100 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 3210",
+      "ESE 2100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5140 Design for Manufacturability",
+    "courseid": "MEAM 5140",
+    "coursedescription": "This course is aimed at providing current and future product design/development engineers, manufacturing engineers, and product development managers with an applied understanding of Design for Manufacturability (DFM) concepts and methods. The course content includes materials from multiple disciplines including: engineering design, manufacturing, marketing, finance, project management, and quality systems. Prerequisite: Senior or graduate standing in the School of Design, Engineering, or Business with completed product in development and/or design engineering core coursework or related experience. Spring Also Offered As: IPD 5140 1 Course Unit",
+    "course-prerequsities": [
+      "IPD 5140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5160 Advanced Mechatronic Reactive Spaces.",
+    "courseid": "MEAM 5160",
+    "coursedescription": "This course combines performance art and advanced mechatronics concepts that include the design and implementation of large-scale actuation, advanced sensing, actuation and control. This course pairs design school and engineering students to form interdisciplinary teams that together design and build electro-mechanical reactive spaces and scenic/architectural elements in the context of the performing arts. The two disciplinary groups will be treated separately and receive credit for different courses (ARCH746 will be taught concurrently and in some cases co-located) as they will be learning different things. Engineering students gain design sensibilities and advanced mechatronics in the form of networked embedded processing and protocols for large scale actuation and sensing. Design students learn elementary mechatronics and design reactive architectures and work with engineering students to build them. The class will culminate in a some artistic performance (typically with professional artists) such as a Shakespeare play, robotic ballet, a mechatronic opera. Not Offered Every Year Also Offered As: IPD 5160 Prerequisite: MEAM 5100 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5170 Control and Optimization with Applications in Robotics",
+    "courseid": "MEAM 5170",
+    "coursedescription": "This course covers a variety of advanced topics in model-based nonlinear control, primarily focused on computational techniques and dynamic robotic applications. Students will learn both the theoretical basics of nonlinear and optimal control along with computational algorithms. Topics include dynamic programming, trajectory optimization, canonical underactuated systems, control of limit cycles, stability analysis, nonsmooth mechanics, and model predictive control. Applications include walking and running robots, manipulation, and flying machines. As the course will cover state of the art techniques, we will review relevant research papers. At the end of the semester, students will prepare and present a final project on a related topic of their choosing. Prerequisite: If course requirement not met, permission of instructor required. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5180 Biomedical Microsystems",
+    "courseid": "MEAM 5180",
+    "coursedescription": "This course introduces biomedical microsystems (BioMEMS), focusing on the fundamentals of miniaturization, microfabrication, nanotechnology, and biomaterials, and their applications in engineering, biology, and medicine. Reflecting the interdisciplinary nature of the field, we will cover topics such as miniaturization and scaling laws, microfabrication techniques, lab-on-a-chip and Micro Total Analysis Systems (MicroTAS), and sensing and detection methods. We will also explore bio-applications ranging from molecules and cells to tissues, with an emphasis on BioMEMS in areas such as point-of-care diagnostics, cell biology, drug delivery, microfabricated implants, and tissue engineering. Fall Prerequisites: Undergraduate-level mathematics and physics 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5190 Elasticity and Micromechanics of Materials",
+    "courseid": "MEAM 5190",
+    "coursedescription": "This course is targeted to engineering students working in the areas on micro/nanomechanics of materials. The course will start with a quick review of the equations of linear elasticity and proceed to solutions of specific problems such as the Hertz contact problem, Eshelby's problem etc. Failure mechanisms such as fracture and the fundamentals of dislocations/plasticity will also be discussed. Prerequisite: graduate standing or permission of the instructor. Fall Also Offered As: MSE 5500 1 Course Unit",
+    "course-prerequsities": [
+      "MSE 5500"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: graduate standing or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5200 Introduction to Robotics",
+    "courseid": "MEAM 5200",
+    "coursedescription": "The rapidly evolving field of robotics includes systems designed to replace, assist, or even entertain humans in a wide variety of tasks. Recent examples include human-friendly robot arms for manufacturing, interactive robotic pets, medical and surgical assistive robots, and semi-autonomous search-and-rescue vehicles. This course presents the fundamental kinematic, dynamic, and computational principles underlying most modern robotic systems. The main topics of the course include: rotation matrices, homogeneous transformations, manipulator forward kinematics, manipulator inverse kinematics, Jacobians, path and trajectory planning, sensing and actuation, and feedback control. The material is reinforced with hands-on lab exercises involving a robotic arm. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5230 Control Systems for Robotics",
+    "courseid": "MEAM 5230",
+    "coursedescription": "In this course, we present approaches for designing controllers for a varied class of robotic systems. We focus on mathematical concepts of linear and nonlinear control theory and how the theory translates to practical robotic applications with emphasis on manipulators, ground, and aerial robots. Topics include inverse kinematics based controllers, trajectory following controllers, non-holonomic robot controllers, artificial potential functions, and model predictive control. Coursework consists of problem sets, programming assignments, critical reading of research papers, and a final project. Prerequisite: If course requirement not met, permission of instructor required. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5270 Finite Element Analysis",
+    "courseid": "MEAM 5270",
+    "coursedescription": "The objective of this course is to equip students with the necessary background needed to carry out finite elements-based simulations of various engineering and science problems using finite elements packages. The first part of the course will outline the theory of finite element methods. The objective is to acquaint the students with the theory rather than to equip them with the programming skills needed to write multi-dimensional finite elements codes. The second part of the course will address the solution of the classical equations of mathematical physics such as the Laplace, Poisson, Helmholtz, wave, and heat equations. The general properties of the solutions will be described, and potential pitfalls will be addressed. This part of the course will also address issues such as code verification and convergence. The students will gain hands-on experience working with COMSOL Multiphysics (finite element analysis, solver and simulation software / FEA software package for various physics and engineering applications). This part of the course will also address relevant topics of numerical analysis such as the solution of initial value problems and their precision, the solution of algebraic equations, and the calculation of eigenvalues and eigenvectors. The third part of the course will consist of case studies taken from various areas of engineering and sciences. Presentation of each case study will start with a description of the pertinent physical and engineering background and how finite elements are being used to solve the problem. The case studies will also address the verification issue (how do we know that the solution is right) and the analysis and post-processing of the computed data. Prerequisites: Calculus, introductory level fluid & solid mechanics and heat transfer Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5290 Introduction to Micro- and Nano-electromechanical Technologies",
+    "courseid": "MEAM 5290",
+    "coursedescription": "Introduction to MEMS and NEMS technologies: MEMS/NEMS applications and key commercial success stories (accelerometers, gyroscopes, digital light projectors, resonators). Review of micromachining techniques and MEMS/NEMS fabrication approaches. Actuation methods in MEMS and NEMS, MEMS/NEMS design and modeling. Examples of MEMS/NEMS components from industry and academia. Case studies: MEMS inertial sensors, microscale mirrors, micro and nano resonators, micro and nano switches, MEMS/NEMS chem/bio sensors, MEMS gyroscopes, MEMS microphones. Spring Also Offered As: ESE 5290 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5300 Continuum Mechanics",
+    "courseid": "MEAM 5300",
+    "coursedescription": "This course serves as a basic introduction to the Mechanics of continuous media, and it will prepare the student for more advanced courses in solid and fluid mechanics. The topics to be covered include: Tensor algebra and calculus, Lagrangian and Eulerian kinematics, Cauchy and Piola-Kirchhoff stresses, General principles: conservation of mass, conservation of linear and angular momentum, energy and the first law of thermodynamics, entropy and the second law of thermodynamics; constitutive theory, ideal fluids, Newtonian and non-Newtonian fluids, finite elasticity, linear elasticity, materials with microstructure. Multivariable Calculus, Linear Algebra, Partial Differential Equations. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5350 Advanced Dynamics",
+    "courseid": "MEAM 5350",
+    "coursedescription": "Three-Dimensional Geometry: Introduction to Reference Frames, Geometry of Rotations of Reference Frames and of Vectors, Euler Angle, Axis-Angle Representations, Properties of Rotation Matrices. Kinematics: Kinematics of Rigid-Body Motion, Rotations, Angular Velocity and Acceleration, Linear Velocity and Acceleration, Applications to Planar Linkage Analysis. Constraints: Configuration Space, Holonomic and Non-holonomic Constraints, Degrees of Freedom, Tests for Holonomic versus Non-holonomic Constraints, Generalized Coordinates, Generalized Speeds, Partial Speeds, Partial Velocities, Principle of Virtual Work for Holonomic and Non-holonomic systems. Constraint Forces: Virtual Work, D'Alembert Equations, Lagrange's Equations for Non-holonomic systems. Distribution of Mass: Center-of-Mass, Vector and Scalar Moments of Inertia. Vector Spaces: Operators, Dyads, Dyadic, Moment-of-Inertia Tensor, Rigid Bodies. Dynamics: Kinetic Energy and Angular Momentum, Lagrangian/Hamiltonian Mechanics and Conservation Laws, Poisson Brackets and Constants of the Motion, Kane-Lagrange Equations with Non-Holonomic Constraints, Kane-Lagrange Equations, Null Spaces and Computing Constraint Forces. Variational Calculus: The Principle of Least Action, A Study of Small Perturbations and Linear Stability Analysis. MEAM 2110 and some Linear Algebra. Senior or Master's Standing in Engineering or permission of the instructor. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Senior or Master's Standing in Engineering or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5360 Viscous Fluid Flow and Modern Applications",
+    "courseid": "MEAM 5360",
+    "coursedescription": "This is an intermediate course that builds on the basic principles of Fluid Mechanics. The course provides a more in depth and unified framework to understand fluid flow at different time and length scales, in particular viscous flows. Topics include review of basic concepts, conservation laws (momentum, mass, and heat), fluid kinematics, tensor analysis, Stokes' approximations, non-Newtonian fluid mechanics, and turbulence. The course will explore important modern topics such as microfluidics, swimming of micro-organisms, wind turbines, rheology, biofluid mechanics, and boundary layers. This course is intended for juniors, seniors, and graduate students from the School og Engineering and/or Arts and Sciences that have a general interest in fluid dynamics and its modern applications. Students should have an understanding of basic concepts in fluid mechanics and a good grasp on differential equaions. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is intended for juniors, seniors, and graduate students from the School og Engineering and/or Arts and Sciences that have a general interest in fluid dynamics and its modern applications."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5370 Nanotribology",
+    "courseid": "MEAM 5370",
+    "coursedescription": "Engineering is progressing to ever smaller scales, enabling new technologies, materials, devices, and applications. This course will provide an introduction to nano-scale tribology and the critical role it plays in the developing areas of nanoscience and nanotechnology. We will discuss how contact, adhesion, friction, lubrication, and wear at interfaces originate, using an integrated approach that combines concepts of mechanics, materials science, chemistry, and physics. We will cover a range of concepts and applications, drawing connections to both established and new approaches. We will discuss the limits of continuum mechanics and present newly developed theories and experiments tailored to describe micro- and nano-scale phenomena. We will emphasize specific applications throughout the course. Reading of scientific literature, critical peer discussion, individual and team problem assignments, and a peer-reviewed literature research project will be assigned as part of the course. Prerequisite: Prerequisite: MEAM 3540 or MEAM 5190 or MSE/ MEAM 5040 or equivalent required, or consent of instructor. Experience with mathematical analysis software (e.g. Matlab, Python) is required. Not Offered Every Year Also Offered As: MSE 5370 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 3540",
+      "MEAM 5190",
+      "MEAM 5040",
+      "MSE 5370"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Prerequisite: MEAM 3540 or MEAM 5190 or MSE/ MEAM 5040 or equivalent required, or consent of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5380 Turbulence",
+    "courseid": "MEAM 5380",
+    "coursedescription": "This course is an introductory course on turbulent flows. The course provides physical and mathematical framework for quantitative and qualitative descriptions of fundamental processes involved in turbulent flows. Topics include the Navier-Stokes equations, the statistical description of turbulence, equations for mean and fluctuations, energy cascade, turbulence spectra, Kolmogorov hypotheses, behavior of shear flows, and isotropic turbulence. The course will also explore modern topics such as computational modeling of turbulence. Instructor permission required for undergraduates. One graduate-level course in fluids or transport (e.g., MEAM 5360 , MEAM 5700 , or CBE 6400 ) required. Spring, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Instructor permission required for undergraduates."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5430 Performance, Stability and Control of UAVs",
+    "courseid": "MEAM 5430",
+    "coursedescription": "This course covers the application of classical aircraft performance and design concepts to fixed-wing and rotary-wing Unmanned Aerial Vehicles (UAVs). A survey of the latest developments in UAV technology will be used to motivate the development of quantitative mission requirements, such as payload, range, endurance, field length, and detectability. The implications of these requirements on vehicle configuration and sizing will be revealed through application of the fundamentals of aerodynamics and propulsion systems. The course will also cover basic flight dynamics and control, including typical inner-loop feedback applications. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5450 Aerodynamics",
+    "courseid": "MEAM 5450",
+    "coursedescription": "Review of fluid kinematics and conservation laws; vorticity theorems; two-dimensional potential flow; airfoil theory; finite wings; oblique shocks; supersonic wing theory; laminar and turbulent boundary layers. Spring Prerequisite: MEAM 3020 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 3020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5460 Hovering Vehicle Design and Analysis Techniques",
+    "courseid": "MEAM 5460",
+    "coursedescription": "This course aims at providing an overview of the fundamental concepts in the design and analysis of helicopters. The course will start with an overview of how helicopters of various types work (single main rotor, tandem rotor, tilt-rotor, quad-copter etc.). This will be followed by the introduction of how rotors work with a specific emphasis on the aerodynamic operating environment. The course will introduce topics pertaining to the rotor wake, inflow and will provide opportunities to exercise analysis techniques such as momentum and blade element theory. The latter portion of the course will cover the dynamic operation of larger scale rotors and will introduce concepts of blade articulation and associated analysis models/techniques. The content of the course will be laid to showcase the varying operating environments of rotor at different scales (e.g. small quadcopter, large multi-person carrier etc). The course will require students to code their analysis models using the language of their choice (C, C++, FORTRAN, MATLAB, Python etc.) and is intended to emphasize the importance of computational methods to engineering analysis. MEAM 2110 and MEAM 2020 or equivalent and required , MEAM 3020 and MEAM 3210 are recommended. Recommended textbook: Principles of Helicopter Aerodynamics, 2nd Edition, J. Gordon Leishman, ISBN-13: 978-1107013353, ISBN-10: 1107013356 Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "MEAM 2110 and MEAM 2020 or equivalent and required , MEAM 3020 and MEAM 3210 are recommended.",
+        "Recommended textbook: Principles of Helicopter Aerodynamics, 2nd Edition, J."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5480 Wind Physics and Applications",
+    "courseid": "MEAM 5480",
+    "coursedescription": "Where does wind come from, and how might it factor into some of the world's most pressing climate and energy challenges? We spend almost all of our lives within the atmospheric boundary layer (ABL), which reaches from the ground up to about a kilometer in altitude. The motions of the ABL thus have far-reaching consequences for a wide range of engineering and environmental systems, such as wind turbines and wind farms, aircraft and drones, flying animals and insects, urban air pollution, local ecosystem health, and many more. This course will introduce students to the governing principles of the ABL and of the technologies that operate within it. We will first study the dynamics of the ABL itself, including the effects of turbulence, stratification, rotation, and surface topography. We will then explore the means by which wind turbines and wind farms harness these dynamics for the sustainable generation of renewable energy. Applications to other systems affected by the atmosphere, such as light aerial vehicles, solar farms, and buildings and cities, will be surveyed. We will also consider the broader societal and environmental implications of these topics. Overall, the course will prepare students to account for and leverage the complex motions of the atmosphere in real-world engineering applications. Fall Prerequisite: MEAM 3020 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 3020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5490 Order-of-magnitude estimation for terrestrial and space engineering",
+    "courseid": "MEAM 5490",
+    "coursedescription": "The goal of this course is to develop the ability to make quick order-of-magnitude estimates that are not completely rigorous and precise but still very useful. In practicing engineering, one is often confronted with real-life problems where multiple technical approaches are possible, but rigorous theoretical analysis of all options would require too much time. Making quick order-of-magnitude (back-of-the-envelope) estimates of the performance limits can quickly eliminate some approaches and allow one to focus on the ones that offer the best chance of succeeding. Examples covered in this course will focus on Earth’s climate and planetary science, aircraft and spacecraft, orbital mechanics, and space travel. Fall, even numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5500 Design of Microelectromechanical Systems",
+    "courseid": "MEAM 5500",
+    "coursedescription": "A course that covers the design and fabrication of micro- and nano-electromechanical systems. Topics in the course include micro- and nano-fabrication techniques, mechanics of flexures, thin film mechanics, sensing and actuation approaches (e.g., electrostatic, plezoelectric, and piezoresistive), as well as materials and reliability issues. The fundamentals of these topics will be augmented with device-based case studies. Not Offered Every Year Prerequisite: MEAM 3540 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 3540"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5530 Atomic Modeling in Materials Science",
+    "courseid": "MEAM 5530",
+    "coursedescription": "This course covers two major aspects of atomic level computer modeling in materials. 1. Methods: Molecular statics, Molecular dynamics, Monte Carlo, Kinetic Monte Carlo as well as methods of analysis of the results such as radial distribution function, thermodynamics deduced from the molecular dynamics, fluctuations, correlations and autocorrelations. 2. Semi-empirical descriptions of atomic interactions: pair potentials, embedded atom method, covalent bonding, ionic bonding. Basics of the density functional theory. Mechanics, condensed matter physics, thermodynamics and statistical mechanics needed in interpretations are briefly explained. No prior coding experience is required. Students will be taught the basics of python in the first week of class. Fall Also Offered As: MSE 5610 Prerequisites: Undergraduate introduction to classical physics, quantum mechanics, thermodynamics and mechanical properties is helpful. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5550 Nanoscale Systems Biology",
+    "courseid": "MEAM 5550",
+    "coursedescription": "Nano-science and engineering approaches to systems in biology are of growing importance. They extend from novel methods, especially microscopies that invite innovation to mathematical and/or computational modeling which incorporates the physics and chemistry of small scale biology. Proteins and DNA, for example, are highly specialized polymers that interact, catalyze, stretch and bend, move, and/or store information. Membranes are also used extensively by cells to isolate, adhere, deform, and regulate reactions. In this course, students will become familiar with cell & molecular biology and nano-biotechnology through an emphasis on nano-methods, membranes, molecular machines, and 'polymers' - from the quantitative perspectives of thermodynamics, statistical physics, and mechanics. We specifically elaborate ideas of energetics, fluctuations and noise, force, kinetics, diffusion, etc. on the nano- thru micro- scale, drawing from very recent examples in the literature. Laboratory experiments will provide hands-on exposure to microscopies in a biological context (eg. fluorescence down to nano-scale, AFM), physical methods (eg. micromanipulation, tracking virus-scale particles or quantum dots), and numerical problems in applied biophysics, chemistry, and engineering. A key goal of the course is to familiarize students with the concepts and technology (plus their limitations) as being employed in current research problems in nanoscale systems biology, extending to nanobiotechnology. Prerequisite: Background in Biology, Physics, Chemistry or Engineering with coursework in Thermodynamics or permission of the instructor. Fall Also Offered As: BE 5550 , CBE 5550 1 Course Unit",
+    "course-prerequsities": [
+      "BE 5550",
+      "CBE 5550"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Background in Biology, Physics, Chemistry or Engineering with coursework in Thermodynamics or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5610 Thermodynamics: Foundations, Energy, Materials",
+    "courseid": "MEAM 5610",
+    "coursedescription": "To introduce students to advanced classical equilibrium thermodynamics based on Callen's postulatory approach, to exergy (Second-Law) analysis, and to fundamentals of nonequilibrium thermodynamics. Applications to be treated include the thermodynamic foundations of energy processes and systems including advanced power generation and aerospace propulsion cycles, batteries and fuel cells, combustion, diffusion, transport in membranes, materials properties and elasticity, superconductivity, biological processes. Undergraduate thermodynamics. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5620 Water Treatment Engineering",
+    "courseid": "MEAM 5620",
+    "coursedescription": "Globally, 2 billion people lack access to clean, safe water that is vital for drinking, sanitation, and agriculture. Climate change coupled with contamination of existing water supplies have exacerbated water scarcity, making technologies to remediate, reuse, and desalinate water more critical than ever. This course will cover the fundamental principles of water treatment engineering and examine how it can be applied to ensure access to safe and clean water, mitigate waterborne diseases, protect the environment, and support sustainable development. Water treatment engineering is the application of scientific and engineering principles to design, develop, and implement processes and technologies to purify and manage water resources for specific quality and safety standards. We will explore a wide range of water engineering technologies used in drinking water treatment, wastewater remediation, resource recovery, and desalination. Fundamental principles and advanced concepts governing water treatment systems will be introduced with a particular focus on the application of fundamental engineering sciences including thermodynamics, mass transport, and fluid dynamics to examine the efficiency of treatment and utilization of energy/emissions required for treatment. In addition to the engineering and scientific aspects of water treatment, this course will also place emphasis on the important humanitarian and economic aspects of water engineering and discuss global issues on water quality, scarcity, and environmental justice. Course content includes: (1) an overview of water engineering and its significance in environmental, societal, industrial, and municipal contexts, (2) a review of key concepts from fluid mechanics, mass transfer, and thermodynamics, (3) a brief introduction to water chemistry and contaminants of importance for human health and ecosystem protection, (4) the key physio-chemical and thermodynamic principles underlying all water treatment processes, (5) analysis of specific unit operations used in municipal water treatment, wastewater treatment, and desalination including membrane processes; and (6) an overview of advanced treatment operations for specific industrial and emerging applications. Also Offered As: CBE 5600 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5700 Transport Processes I",
+    "courseid": "MEAM 5700",
+    "coursedescription": "The course provides a unified introduction to momentum, energy (heat), and mass transport processes. The basic mechanisms and the constitutive laws for the various transport processes will be delineated, and the conservation equations will be derived and applied to internal and external flows featuring a few examples from mechanical, chemical, and biological systems. Reactive flows will also be considered. Prerequisite: graduate standing or permission of the instructor. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: graduate standing or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5710 Advanced Topics in Transport Phenomena",
+    "courseid": "MEAM 5710",
+    "coursedescription": "The course deals with advanced topics in transport phenomena and is suitable for graduate students in mechanical, chemical and bioengineering who plan to pursue research in areas related to transport phenomena or work in an industrial setting that deals with transport issues. Topics include: Transport processes with drops, Bubbles and particles; Phase change Phenomena: -condensation, evaporation, and combustion; Radiation heat transfer: non-participating media, participating media, equation of radiative transfer, optically thin and thick limits; Introduction to Hydrodynamic and Thermal Instability; Microscale energy transport; Nano-particle motion in fluids and transport. Prerequisite: If course requirements not met, permission of instructor required. Not Offered Every Year Prerequisite: MEAM 5700 OR MEAM 6420 OR CBE 6400 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 5700",
+      "MEAM 6420",
+      "CBE 6400"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirements not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 5750 Micro and Nano Fluidics",
+    "courseid": "MEAM 5750",
+    "coursedescription": "The course focuses on topics relevant for micro-fluidics, lab on chip technology, point of care diagnostics, nano-technology, biosensing, and interfacial phenomena. Although we will discuss briefly the fabrication of micro and nano fluidic devices, the course will mostly focus on physical phenomena from the continuum point of view. The mathematical complexity will be kept to a minimum. The course will be reasonably self-contained, and any necessary background material will be provided, consistent with the students' background and level of preparation. Specifically, we will examine fluid and nanoparticle transport under the action of pressure, electric, magnetic, and capillary forces; the structure and role of superhydrophobic surfaces; how the solid/liquid interface acquires electric charge; ion transport in electrolytes (Poisson-Nernst-Planck equations); colloid stability; electroosmosis, electrophoresis, and particle polarization; electrowetting and digital microfluidics; particle and cell sorting; immunoassays; and enzymatic amplification of nucleic acids. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5800 Electrochemistry for Energy, Nanofabrication and Sensing",
+    "courseid": "MEAM 5800",
+    "coursedescription": "Principles and mathematical models of electrochemical processes in energy conversion and storage, water desalination, nanofabrication, electroplating, and sensing for engineering and science graduate students and advanced undergraduates, lacking prior background in electrochemistry. The course covers equivalent circuits, electrode kinetics, electrokinetic and transport phenomena, and electrostatics. The course will introduce and use the finite element program COMSOLTM. We will discuss, among other things, applications to stationary and flow batteries, supercapacitors, integrated electric circuit fabrication, electrokinetics, and biosensing. In contrast to CBE 545 Electrochemical Energy Conversion that focuses on solid state electrochemistry, this course emphasizes liquid-based electrochemistry. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 5990 Master's Independent Study",
+    "courseid": "MEAM 5990",
+    "coursedescription": "Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-4 Course Units"
+    }
+  },
+  {
+    "coursename": "MEAM 6130 Non-Linear Control Theory",
+    "courseid": "MEAM 6130",
+    "coursedescription": "The course provides a basic understanding of nonlinear systems phenomena and studies analysis and control design problems of nonlinear systems. The main analysis tools that will be presented are Lyapunov theory for stability, including the well known LaSalle's invariance principle, and barrier function theory for safety of both autonomous and non-autonomous systems. Further topics include input-output stability, passivity, and the center manifold theorem. The main control tools that will be presented are feedback linearization, backstepping, as well as recent results on learning control Lyapunov and control barrier functions from data. Examples will be taken from mechanical and robotic systems. Not Offered Every Year Also Offered As: ESE 6170 Prerequisite: ESE 5000 1 Course Unit",
+    "course-prerequsities": [
+      "ESE 5000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6200 Advanced Robotics",
+    "courseid": "MEAM 6200",
+    "coursedescription": "This course covers advanced topics in robotics and includes such topics as multi-body dynamics, nonlinear control theory and planning algorithms with application to robots and systems of multiple robots. Prerequisite: Graduate standing in engineering Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6230 Learning and Control for Adaptive and Reactive Robots",
+    "courseid": "MEAM 6230",
+    "coursedescription": "For decades, we've envisioned a future where robots seamlessly coexist, collaborate, and cooperate with humans in our everyday lives. Yet, the reality of robots fluidly interacting with humans and other robots in our dynamic, human-centric environments remains elusive. This challenge stems from traditionalist views of how robot motions, tasks and behaviors should be specified, controlled and learned. To overcome this bottleneck, we must change the way we control robots, starting with changing the way we train roboticists. This graduate-level course introduces the fundamental principles of the modern Dynamical Systems (DS) paradigm for motion planning, learning, and control; designed to create adaptive, reactive, easy-to-teach, provably safe and stable robot behaviors in dynamic, ever-changing environments. We will cover a range of topics through the DS lens including, reactive control and motion planning, impedance, admittance and force control, safety-critical control, stability and convergence guarantees for physical human-robot and robot-robot interaction, human-guided learning and efficient learning for interactive robots. Students will learn to formally model and analyze controllers and learning algorithms for efficient, safe and adaptive robots interacting with humans and the physical world through homework, literature reviews and a final project. Spring, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6240 Distributed Robotics",
+    "courseid": "MEAM 6240",
+    "coursedescription": "This course covers challenges and approaches for planning, coordinating, and controlling multi-robot systems. Main topics of the course include: consensus, distributed search, multi-agent planning, coverage, swarming and flocking, with applications for distributed control in networked sensors/actuators in soft robots or in multirobot systems common in aerial, underwater, and autonomous driving applications. Students will learn to formally model and analyze multi-robot systems through paper readings on state-of-the-art techniques and an independent final project. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6300 Advanced Continuum Mechanics",
+    "courseid": "MEAM 6300",
+    "coursedescription": "This course is a more advanced version of MEAM 530. The topics to be covered include: tensor algebra and calculus, Lagrangian and Eulerian kinematics; Cauchy and Piola-Kirchhoff stresses. General principles: conservation of mass, conservation of linear and angular momentum, energy and the first law of hermodynamics, entropy and the second law of thermodynamics. Constitutive theory, ideal fluids, Newtonian and non-Newtonian fluids, finite elasticity, linear elasticity, materials with microstructure. One graduate level course in applied mathematics and one in either fluid or Solid Mechanics. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6320 Plasticity",
+    "courseid": "MEAM 6320",
+    "coursedescription": "This course develops the mathematical theory of plastic deformation for both crystalline and disordered materials. Phenomenological models for strain-hardening, creep and size-dependent plastic flow as well as physically-based theories for single crystals are discussed. Applications are drawn from problems in structural mechanics, deformation processing, friction and contact, and fracture. Large strain deformations and problems involving strain localization are considered. Prerequisite: If course requirement not met, permission of instructor required. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor required."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 6330 Mechanics of Adhesion and Fracture",
+    "courseid": "MEAM 6330",
+    "coursedescription": "This course focuses on mechanics aspects of adhesion and fracture of solids. The topics are intimately related, as fracture involves decohesion. Topics include forces of interaction between surfaces of solids, perfect versus imperfect adhesion, aspects of contact mechanics, linear analysis of cracks in elastic materials, non-linear analysis of cracks in elastic-plastic materials, J-integral methods, phenomenological theories, crack growth and heeling, and stability. Micro-mechanical models of fracture are analyzed using non-linear elasticity and energy methods. Applications to various material systems and processes, including structural materials, layered materials, friction and wear. Not Offered Every Year Prerequisite: MEAM 5190 AND ENM 5100 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 5190",
+      "ENM 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6340 Rods and Shells",
+    "courseid": "MEAM 6340",
+    "coursedescription": "This course is intended for 2nd year graduate students and introduces continuum mechanics theory of rods and shells with applications to structures and to biological systems as well as stability and buckling. The course begins with topics from differential geometry of curves and surfaces and the associated tensor analysis on Riemannian spaces. A brief introduction to variational calculus is included since variational methods are a powerful tool for formulating approximate structural mechanics theories and for numerical analysis. The structural mechanics theories of rods, plates and shells are introduced including both linear and nonlinear theories. First-year graduate-level applied mathematics for engineers (ENM 510 and 511) and a first course in continuum mechanics or elasticity or permission of instructor. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "First-year graduate-level applied mathematics for engineers (ENM 510 and 511) and a first course in continuum mechanics or elasticity or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 6350 Composite Materials",
+    "courseid": "MEAM 6350",
+    "coursedescription": "This course deals with the prediction of the average, or effective properties of composite materials. The emphasis will be on methods for determining effective behavior. The course will be concerned mostly with linear mechanical and physical properties, with particular emphasis on the effective conductivity and elastic moduli of multi-phase composites and polycrystals. However, time-dependent and non-linear properties will also be discussed. Not Offered Every Year Prerequisite: ENM 5100 AND ENM 5110 1 Course Unit",
+    "course-prerequsities": [
+      "ENM 5100",
+      "ENM 5110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6420 Advanced Fluid Mechanics",
+    "courseid": "MEAM 6420",
+    "coursedescription": "Fluid mechanics as a vector field theory; basic conservation laws, constitutive relations, boundary conditions, Bernoulli theorems, vorticity theorems, potential flow. Viscous flow; large Reynolds number limit; boundary layers. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6460 Computational Mechanics",
+    "courseid": "MEAM 6460",
+    "coursedescription": "The course is divided into two parts. The course first introduces general numerical techniques for elliptical partial differential equations - finite difference method, finite element method and spectral method. The second part of the course introduces finite volume method. SIMPLER formulation for the Navier-Stokes equations will be fully described in the class. Students will be given chances to modify a program specially written for this course to solve some practical problems in heat transfer and fluid flows. Prerequisites: ENM 5100 or equivalent, and one graduate level introductory course in mechanics. A programming experience is necessary. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "ENM 5100",
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6500 Mechanics of Soft and Biomaterials",
+    "courseid": "MEAM 6500",
+    "coursedescription": "This course is aimed to expose the students to a variety of topics in mechanic materials via discussion of \"classic\" problems that have had the widest impact long period of time and have been applied to analyze the mechanical behavior a variety of biological and engineering materials. Not Offered Every Year Also Offered As: MSE 6500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6620 Advanced Molecular Thermodynamics",
+    "courseid": "MEAM 6620",
+    "coursedescription": "This course begins with a brief review of classical thermodynamics, including the development of Maxwell relationships and stability analysis. The remainder of the course develops the fundamental framework of statistical mechanics, then reviews various related topics including ideal and interacting gases, Einstein and Debye models of crystals, lattice models of liquids, and the basis of distribution function theory. Fall Also Offered As: BE 6620 , CBE 6180 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6630 Mechanics of Macromolecules",
+    "courseid": "MEAM 6630",
+    "coursedescription": "This course is targeted for engineering/physics students working in the areas of nano/bio technology. The course will start with a quick review of statistical mechanics and proceed to topics such as Langevin dynamics, solution biochemistry (Poisson-Boltzmann and Debye-Huckel theory), entropic elasticity of bio-polymers and networks, reaction rate kinetics, solid state physics and other areas of current technological relevance. Students will be expected to have knowledge of undergraduate mechanics, physics and thermodynamics. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6640 Multiscale Modeling for Non-Equilibrium Material Behavior",
+    "courseid": "MEAM 6640",
+    "coursedescription": "This course will discuss a wide range of strategies aimed at integrating modeling and simulation techniques at various length and time scales with the goal of achieving a compromise between physical fidelity and computational cost. Our focus will lie on the bridge between atomistic simulations, described by Hamiltonian or Langevin dynamics, and continuum material descriptions, as well as the coarse-graining of mesoscopic continuum models. The course will review equilibrium statistical mechanics and thermodynamics, which are well-established theories, and discuss extensions to the non-equilibrium realm. We remark that non-equilibrium coarse-graining remains a long-standing challenge and a controversial quest in multiscale modeling, for which many approaches currently exist. Due to time limitations, this course can only give an overview of some state-of-the-art techniques. Although the course is aimed at being self-contained, it is assumed that students have a solid background in either elasticity/continuum mechanics or statistical physics, and are comfortable in Matlab, Python or some other programming language. Not Offered Every Year Prerequisites: The course is open to graduate students with a background in elasticity/continuum mechanics or statistical physics/atomistic simulation. Some programming background is assumed (e.g., Matlab or Python) as well as basic knowledge of linear algebra. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MEAM 6900 Advanced Topics in Thermal Fluid Science or Energy",
+    "courseid": "MEAM 6900",
+    "coursedescription": "This course will be offered when demand permits. The topics will change due to the interest and specialties of the instructor(s). Some topics could include: Computational Fluid Mechanics, Visualization of Computational Results, Free Surface Flows, Fluid Mechanics of the Respiratory System, and transport in Reacting Systems. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The topics will change due to the interest and specialties of the instructor(s)."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 6910 Special Topics in Mechanics of Materials",
+    "courseid": "MEAM 6910",
+    "coursedescription": "This course will be offered when demand permits. The topics will change due to the interests and specialties of the instructor(s). Some topics could include: Compliant Mechanisms, Optimal Control, and Fluid-Structure interaction. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The topics will change due to the interests and specialties of the instructor(s)."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 6920 Topics in Mechanical Systems",
+    "courseid": "MEAM 6920",
+    "coursedescription": "This course will be offered when demand permits. The topics will change due to the interests and specialties of the instructor(s). Some topics could include: Electromagnetics, Control Theory, and Micro-Electro-Mechanical Systems. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The topics will change due to the interests and specialties of the instructor(s)."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 6990 MEAM Seminar",
+    "courseid": "MEAM 6990",
+    "coursedescription": "The seminar course has been established so that students get recognition for their seminar attendance as well as to encourage students to attend. Students registered for this course are required to attend weekly departmental seminars given by distinguished speakers from around the world. In order to obtain a satisfactory (S) grade, the student must not only attend more than 70% of the departmental seminars but also provide satisfactory answers to the mini-essay assignments (shown as quizzes on Canvas) about three of those seminars. It is recommended that the student pick the seminars closest to their research interests, but they may choose any seminar they wish. Up to two of the seminars to be counted toward the MEAM 699 requirement may come from outside MEAM. To be counted, a non-MEAM seminar must be part of an established Penn seminar series that is focused on engineering, science, mathematics, computation, or other technical discipline. A mini-essay quiz must be completed for each non-MEAM seminar. There will be three such quizzes distributed through the semester, graded pass/fail. Participation in the seminar course will be documented and recorded on the students transcript. In order to obtain their degree, doctoral students will be required to accumulate six seminar courses and MS candidates two courses. Under special circumstances, i.e. in case of conflict with a course, the student may waive the seminar requirement for a particular semester by petition to the Graduate Group Chair. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "It is recommended that the student pick the seminars closest to their research interests, but they may choose any seminar they wish."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 8910 Shop Training: Special Topics",
+    "courseid": "MEAM 8910",
+    "coursedescription": "Intended for graduate students conducting research. Building upon the fundamentals of mechanical design, this hands-on , project-based course provides participants with the knowledge and skills necessary to design, analyze, manufacture, and test fully functional subtractive manufacturing processes and part components. Topics covered include an introduction to machine elements, analysis of the mechanics of machining, manufacturing technology, precision fabrication (milling turning and computer-controlled machining), metrology, tolerances, cutting-tool fundamentals and engineering materials. Graduate standing in engineering or permission of the instructor. Completion of MEAM 1010 or suitable computer aided design experience; this prerequisite may be waived at the discretion of the instructor if a CAD portfolio which includes technical drawings and assemblies is demonstrated. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units",
+      "notes": [
+        "Graduate standing in engineering or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 8920 Shop Training: Additive Fundamentals",
+    "courseid": "MEAM 8920",
+    "coursedescription": "Intended for graduate students conducting research. This course introduces students to the methods, techniques, and machines utilized in additive manufacturing spaces at Penn. The focus will be on iterative design using Fused Deposition Modeling, Stereolithography, and Polyjetting. These methods will be compared with alternatives such as Digital Light Processing, Selective Laser Sintering, Subtractive Manufacturing, and other fabrication techniques. Students will use computer-aided design tools and additive machines to solve problems of physical device and item manufacture. Graduate Standing in engineering or permission of the insturctor. MEAM 101 or a suitable 3D computer aided design experience to be determined by the instructor. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.25 Course Units",
+      "notes": [
+        "Graduate Standing in engineering or permission of the insturctor."
+      ]
+    }
+  },
+  {
+    "coursename": "MEAM 8950 Teaching Practicum",
+    "courseid": "MEAM 8950",
+    "coursedescription": "This course provides training in the practical aspects of teaching. The students will work with a faculty member to learn and develop teaching and communication skills. As part of the course, students will participate in a range of activities that may include: giving demonstration lectures, leading recitations, supervising laboratory experiments, developing instructional laboratories, developing instructional material, preparing homework assignments, and preparing examinations. Some of the recitations will be supervised and feedback and comments will be provided to the student by the faculty responsible for the course. At the completion of the 0.5 c.u. of teaching practicum, the student will receive a Satisfactory/Unsatisfactory grade and a written evaluation from the faculty member responsible for the course. The evaluation will be based on comments of the students taking the course and the impressions of the faculty. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "MEAM 9950 Dissertation",
+    "courseid": "MEAM 9950",
+    "coursedescription": "Dissertation",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "MEAM 9990 Master's Thesis",
+    "courseid": "MEAM 9990",
+    "coursedescription": "For students working on an advanced research program leading to the completion of master's thesis requirements. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1,2 Course Units"
+    }
+  },
+  {
+    "coursename": "MEAM 9999 Independent Study Research",
+    "courseid": "MEAM 9999",
+    "coursedescription": "For Mechanical Engineering and Applied Mechanics doctoral students studying a specific advanced subject area. Students should discuss with the faculty supervisor the scope of the independent study/research and know the expectations and work involved. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-3 Course Units"
+    }
+  }
+]

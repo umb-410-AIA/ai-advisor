@@ -1,0 +1,42 @@
+[
+  {
+    "coursename": "LANG 0100 Elementary I",
+    "courseid": "LANG 0100",
+    "coursedescription": "First semester of Language and Culture courses in LCTLs; customized courses for students doing research and area studies in very rare world languages. Not Offered Every Year Mutually Exclusive: LANG 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LANG 0200 Elementary II",
+    "courseid": "LANG 0200",
+    "coursedescription": "This courses is Part II of language specific courses in LCTL languages that are offered based on student demand and according to the individual requests. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LANG 0300 Intermediate I",
+    "courseid": "LANG 0300",
+    "coursedescription": "This is a second year first semester course in LCTL requested by students for their focused study of the are studies and their research. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LANG 0400 Intermediate II",
+    "courseid": "LANG 0400",
+    "coursedescription": "second semester of the intermediate level of a LCTL offered based on demand and requests from students doing research and are studies in a particular very rare language; Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LANG 5100 Elementary I",
+    "courseid": "LANG 5100",
+    "coursedescription": "This is First semester of Language and Culture courses in LCTLs; customized courses for students doing research and area studies in very rare world languages. Not Offered Every Year Mutually Exclusive: LANG 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "coursename": "FNSH 1300a, Intermediate Finnish I Staff",
+    "courseid": "FNSH 1300a",
+    "coursedescription": "The structure of the Finnish Studies Program at Columbia University ensures that students receive a solid grounding in both the language and the culture of Finland. The Program promotes the development of language ability through students’ participation in communicative activities and discussions. This course provides students a thorough and consistently structured revision of intermediate linguistic competence in Finnish including listening, speaking, reading, and writing. Students learn to talk fluently about a wide range of topics from everyday life, speak about recent past, read and understand newspaper articles, and use appropriate grammatical structures. Prerequisite: FNSH 120 or equivalent. L3 RP 1½ Course cr MW 3:10pm-5pm",
+    "course-prerequsities": [
+      "FNSH 120",
+      "L3",
+      "MW 3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNSH 1400b, Intermediate Finnish II Staff",
+    "courseid": "FNSH 1400b",
+    "coursedescription": "The structure of the Finnish Studies Program at Columbia University ensures that students receive a solid grounding in both the language and the culture of Finland. The Program promotes the development of language ability through students’ participation in communicative activities and discussions. This course is designed to further develop language skills at the intermediate level and provides a continuation of Finnish L3 along with study of the culture and cultural practices of the Finnish-speaking society. Prerequisite: FNSH 130 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L4 RP 1½ Course cr MW 3:10pm-5pm",
+    "course-prerequsities": [
+      "FNSH 130",
+      "L4",
+      "MW 3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  }
+]

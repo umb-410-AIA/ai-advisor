@@ -1,0 +1,70 @@
+[
+  {
+    "coursename": "TKSH 1100a, Elementary Modern Turkish I Meryem Yalcin",
+    "courseid": "TKSH 1100a",
+    "coursedescription": "Integration of basic listening, reading, speaking, and writing skills through a variety of functional, meaningful, and contextual activities. Students become active users of modern Turkish and gain a deeper understanding of Anatolian culture through lessons based on real-life situations and authentic materials. L1 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "TKSH 1200b, Elementary Modern Turkish II Meryem Yalcin",
+    "courseid": "TKSH 1200b",
+    "coursedescription": "Continuation of TKSH 1100 . Prerequisite: TKSH 1100 or permission of instructor. L2 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [
+      "TKSH 1100",
+      "L2",
+      "MTWTHF 9",
+      "25AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: TKSH 1100 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "TKSH 1300a, Intermediate Turkish I Meryem Yalcin",
+    "courseid": "TKSH 1300a",
+    "coursedescription": "Continued study of modern Turkish, with emphasis on advanced syntax, vocabulary acquisition, and the beginnings of free oral and written expression. Prerequisite: TKSH 1200 or permission of instructor. L3 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [
+      "TKSH 1200",
+      "L3",
+      "MTWTHF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: TKSH 1200 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "TKSH 1400b, Intermediate Turkish II Meryem Yalcin",
+    "courseid": "TKSH 1400b",
+    "coursedescription": "Continuation of TKSH 1300 . Prerequisite: TKSH 1300 . L4 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [
+      "TKSH 1300",
+      "L4",
+      "MTWTHF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* TKSH 1500a, Advanced Turkish I Meryem Yalcin",
+    "courseid": "TKSH 1500a",
+    "coursedescription": "This advanced language course enhances students' linguistic proficiency while fostering cultural, digital, and artistic literacy. Through an in-depth study of genre, grammar, and vocabulary, students will engage with Turkish art, literature, and media. Readings span a diverse range of genres, including newspaper articles, interviews, literature, author’s notes and formal writing. The course also integrates visual arts and discussions on Turkish painting, sculpture, music, and architecture. By analyzing artistic and cultural productions, students will deepen their understanding of Turkish society while refining their language skills. Prerequisite: TKSH 1400 . L5 , HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TKSH 1400",
+      "L5",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

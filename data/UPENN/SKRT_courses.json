@@ -1,0 +1,101 @@
+[
+  {
+    "coursename": "SKRT 0100 Sanskrit 1st Year, Part I",
+    "courseid": "SKRT 0100",
+    "coursedescription": "During the first semester of beginning Sanskrit, students will be introduced to the script, phonetics, and grammar of the Sanskrit language. By the end of the semester they will be able to begin to read Sanskrit texts and compose Sanskrit sentences in addition to carrying out simple conversation. They will build the requisite skills to read, by the second semester, simple inscriptions and sections from texts like the Ramayana, the Mahabharata, the Bhagavad Gita, Pancatantra, and Yoga Sutra. Students will also be introduced to many features of Sanskrit culture. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 0200 Sanskrit 1st Year Part II",
+    "courseid": "SKRT 0200",
+    "coursedescription": "During the first semester of beginning Sanskrit, students will be introduced to the script, phonetics, and grammar of the Sanskrit language. By the end of the semester they will be able to begin to read Sanskrit texts and compose Sanskrit sentences in addition to carrying out simple conversation. They will build the requisite skills to read, by the second semester, simple inscriptions and sections from texts like the Ramayana, the Mahabharata, the Bhagavad Gita, Pancatantra, and Yoga Sutra. Students will also be introduced to many features of Sanskrit culture. Spring Prerequisite: SKRT 0100 OR SKRT 5100 1 Course Unit",
+    "course-prerequsities": [
+      "SKRT 0100",
+      "SKRT 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 0300 Sanskrit 2nd Year Part I",
+    "courseid": "SKRT 0300",
+    "coursedescription": "This course will lead students to consolidate their knowledge of Sanskrit grammar and increase their familiarity with Sanskrit literature of all kinds, including epic, literary, philosophical, and narrative genres of texts. It will also introduce students to the study and reading of inscriptional materials. Two Term Class, Student must enter first term; credit given even if second term not complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 0400 Intermediate Sanskrit Part II",
+    "courseid": "SKRT 0400",
+    "coursedescription": "This course will lead students to consolidate their knowledge of Sanskrit grammar and increase their familiarity with Sanskrit literature of all kinds, including epic, literary, philosophical, and narrative genres of texts. It will also introduce students to the study and reading of inscriptional materials. Two Term Class, Student must enter first term; credit given after both terms are complete Prerequisite: SKRT 0300 OR SKRT 5300 1 Course Unit",
+    "course-prerequsities": [
+      "SKRT 0300",
+      "SKRT 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 1000 Readings in Sanskrit Literature",
+    "courseid": "SKRT 1000",
+    "coursedescription": "This course is for advanced students of Sanskrit. Designed as a seminar, the course aims to take students through the primary and secondary sources of Sanskrit literary and phlosophical production. Each semester will focus on a different genre: epic, belles-lettres, lyric poetry, drama, philosophy, shastra, advanced grammar, history, poetics, and epigraphy. We will focus on original sources, secondary scholarship, and theoretical approaches toward the translation and study of Sanskrit texts. Fall or Spring Mutually Exclusive: SKRT 6000 Prerequisite: ( SKRT 0300 OR SKRT 5300 ) AND ( SKRT 0400 OR SKRT 5400 ) 1 Course Unit",
+    "course-prerequsities": [
+      "SKRT 0300",
+      "SKRT 5300",
+      "SKRT 0400",
+      "SKRT 5400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 4998 Independent Study",
+    "courseid": "SKRT 4998",
+    "coursedescription": "Independent Study in Sanskrit 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 5100 Sanskrit 1st Year, Part I",
+    "courseid": "SKRT 5100",
+    "coursedescription": "During the first semester of beginning Sanskrit, students will be introduced to the script, phonetics, and grammar of the Sanskrit language. By the end of the semester they will be able to begin to read Sanskrit texts and compose Sanskrit sentences in addition to carrying out simple conversation. They will build the requisite skills to read, by the second semester, simple inscriptions and sections from texts like the Ramayana, the Mahabharata, the Bhagavad Gita, Pancatantra, and Yoga Sutra. Students will also be introduced to many features of Sanskrit culture. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 5200 Sanskrit 1st Year Part II",
+    "courseid": "SKRT 5200",
+    "coursedescription": "During the first semester of beginning Sanskrit, students will be introduced to the script, phonetics, and grammar of the Sanskrit language. By the end of the semester they will be able to begin to read Sanskrit texts and compose Sanskrit sentences in addition to carrying out simple conversation. They will build the requisite skills to read, by the second semester, simple inscriptions and sections from texts like the Ramayana, the Mahabharata, the Bhagavad Gita, Pancatantra, and Yoga Sutra. Students will also be introduced to many features of Sanskrit culture. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 5300 Sanskrit 2nd Year Part I",
+    "courseid": "SKRT 5300",
+    "coursedescription": "This course will lead students to consolidate their knowledge of Sanskrit grammar and increase their familiarity with Sanskrit literature of all kinds, including epic, literary, philosophical, and narrative genres of texts. It will also introduce students to the study and reading of inscriptional materials. Two Term Class, Student must enter first term; credit given even if second term not complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 5400 Intermediate Sanskrit Part II",
+    "courseid": "SKRT 5400",
+    "coursedescription": "This course will lead students to consolidate their knowledge of Sanskrit grammar and increase their familiarity with Sanskrit literature of all kinds, including epic, literary, philosophical, and narrative genres of texts. It will also introduce students to the study and reading of inscriptional materials. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 6000 Readings in Sanskrit Literature",
+    "courseid": "SKRT 6000",
+    "coursedescription": "This course is for advanced students of Sanskrit. Designed as a seminar, the course aims to take students through the primary and secondary sources of Sanskrit literary and phlosophical production. Each semester will focus on a different genre: epic, belles-lettres, lyric poetry, drama, philosophy, shastra, advanced grammar, history, poetics, and epigraphy. We will focus on original sources, secondary scholarship, and theoretical approaches toward the translation and study of Sanskrit texts. Two Term Class, Student may enter either term; credit given for either Mutually Exclusive: SKRT 1000 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

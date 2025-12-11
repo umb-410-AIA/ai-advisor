@@ -1,0 +1,48 @@
+[
+  {
+    "coursename": "BIOL 1010a or b, Biochemistry and Biophysics Staff",
+    "courseid": "BIOL 1010a",
+    "coursedescription": "The study of life at the molecular level. Topics include the three-dimensional structures and function of large biological molecules, the human genome, and the design of antiviral drugs to treat HIV/AIDS. The first of four modules in a yearlong foundational biology sequence; meets for the first half of the term. If you are taking this class along with BIOL 102, you should register for the same discussion section in BOTH classes. For instance, if you are in BIOL 102 A, then you should register for BIOL 101 A as well SC 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 1020a or b, Principles of Cell Biology Staff",
+    "courseid": "BIOL 1020a",
+    "coursedescription": "The study of cell biology and membrane physiology. Topics include organization and functional properties of biological membranes, membrane physiology and signaling, rough endoplasmic reticulum and synthesis of membrane/secretory membrane proteins, endocytosis, the cytoskeleton, and cell division. The second of four modules in a yearlong foundational biology sequence; meets for the second half of the term. Prerequisite: BIOL 101. If you are taking this class along with BIOL 101, you should register for the same discussion section in BOTH classes. For instance, if you are in BIOL 101 A, then you should register for BIOL 102 A as well. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "BIOL 101",
+      "BIOL 102",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* BIOL 1030a or b, Genetics and Development Staff",
+    "courseid": "BIOL 1030a",
+    "coursedescription": "Foundation principles for the study of genetics and developmental biology. How genes control development and disease; Mendel's rules; examples of organ physiology. The third of four modules in a yearlong foundational biology sequence; meets for the first half of the term. Prerequisites: BIOL 101 and 102. If you are taking this class along with BIOL 104, you should register for the same discussion section in BOTH classes. For instance, if you are in BIOL 103 A, then you should register for BIOL 104 A as well. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "BIOL 101",
+      "102",
+      "BIOL 104",
+      "BIOL 103",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BIOL 1040a or b, Principles of Ecology and Evolutionary Biology Staff",
+    "courseid": "BIOL 1040a",
+    "coursedescription": "The study of evolutionary biology, animal behavior, and the history of life. Evolutionary transitions and natural selection. Adaptation at genic, chromosomal, cellular, organismal, and supra-organismal levels. Distributional and social consequences of particular suites of organismal adaptations. If you are taking this class along with BIOL 103, you should register for the same discussion section in BOTH classes. For instance, if you are in BIOL 103 A, then you should register for BIOL 104 A as well. The fourth of four modules in a yearlong foundational biology sequence; meets for the second half of the term. Prerequisites: BIOL 101, 102, and 103. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "BIOL 101",
+      "103",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

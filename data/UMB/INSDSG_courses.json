@@ -1,0 +1,104 @@
+[
+  {
+    "coursename": "Foundations in Instructional Design and Learning Technology",
+    "courseid": "INSDSG601",
+    "coursedescription": "This course provides an introduction to the field of instructional design and learning technologies. Students explore the phases of instructional design including analysis, design, development, implementation, and evaluation; through the creation of an instructional design document that outlines a plan for a learning or training event. This course includes a team assignment allowing students to explore tools and processes related to online collaboration.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Adult as Learner",
+    "courseid": "INSDSG602",
+    "coursedescription": "In this course students research the practices and theoretical underpinnings of adult learning. An experiential process will allow students to increase their understanding and ability to apply theories of adult learning, to set appropriate learning climates conducive to the characteristics of adult learners, and to become familiar with a variety of existing and emerging tools and techniques for facilitation the adult learning process.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Using Primary Research for Evidence-Based Practice",
+    "courseid": "INSDSG607",
+    "coursedescription": "This course examines how understanding data, research methodology and research reports can contribute to informed evidence-based practice. The course emphasizes research relevant to the field of instructional design. Students will be introduced to the processes and vocabulary of research designs, including the questions, methodologies and standards of validity and reliability. Students learn to formulate a unique research question and look to academic sources to answer that question. Students will learn to locate, critically read and evaluate research reports, and synthesize research findings to inform design practice.",
+    "course-prerequsities": [
+      "INSDSG 601",
+      "INSDSG 602"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Video Principles for Instructional Design",
+    "courseid": "INSDSG610",
+    "coursedescription": "This course provides a comprehensive introduction to video production theory and technique, including the study of principles for analyzing and synthesizing information, and of some basic video instructional formats. The goal is to equip those responsible for developing instructional materials with the skills they need in order to work with video professionals in creating, designing, and producing instructional video programs.",
+    "course-prerequsities": [
+      "INSDSG 601"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Assessment and Evaluation in Instructional Design",
+    "courseid": "INSDSG642",
+    "coursedescription": "This course explores data collection and analysis in two key aspects of instructional design: the needs analysis phase and the evaluation phase. these two phases not only bookend the instructional design process but are also data-driven decision points by nature. Students explore methods and approaches of collecting, organizing, and analyzing data through the lens of these two instructional design junctures.",
+    "course-prerequsities": [
+      "INSDSG 601",
+      "INSDSG 602"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Universal Course Design: A Pathway to Mindful and Creative Learning for All",
+    "courseid": "INSDSG646",
+    "coursedescription": "This online elective course will investigate the principles and theories of Universal Course Design for Learning. The focus will be primarily on access tools for diverse learners with particular emphasis on learners with disabilities. The practical application of Universal Design principles to the discipline of Instructional Design will be explored. Some examples of instructional design tools that can be re-purposed to support universally designed learning are reusable learning objects and gaming. Reusable learning objects can be embedded into learning environments to support divers learning styles and gameification is a useful resource for educating learners with learning and cognitive disabilities. The development of accessible multi-media and the use of on-line for the establishment of inclusive teaching practices will also be presented.",
+    "course-prerequsities": [
+      "INSDSG 601"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Designing Your Professional Online Presence",
+    "courseid": "INSDSG651",
+    "coursedescription": "This course provides instructional design students and educational professionals with the necessary web-literacy skills to create and maintain a self-hosted website on which to showcase their online digital presence. Learners will produce items for a WordPress-based website such as digital stories describing their unique strengths and differentiators as instructional designers and educational professionals. Further, the course provides learners with skills in blogging and publishing of thoughtful opinion insights on how to build a professional network, how to select signature portfolio pieces to showcase on their website, as well as personal branding and design for learning considerations. Further, the course provides learners with proficiencies in self-directed learning in order to support life-long knowledge enhancement.",
+    "course-prerequsities": [
+      "INSDSG 601"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Design and Instruction of Online Courses",
+    "courseid": "INSDSG684",
+    "coursedescription": "This course is for instructional designers, instructors, teachers, or trainers who want to explore the critical success factors in designing and delivering online instruction. Through readings, discussion, and various activities, students will examine the pedagogical implications of technology-mediated learning, the dynamics of the virtual classroom, the elements of effective online course design, as well as some of the tools and technologies available to create and deliver online instruction. Through group-based and individual project work, students will design and create online modules. This course will use a range of interactive and collaborative instructional methods.",
+    "course-prerequsities": [
+      "INSDSG 640"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Capstone Seminar",
+    "courseid": "INSDSG690",
+    "coursedescription": "The capstone project is the culminating activity for the Instructional Design Master's program. In completing the capstone, students identify performance or educational problems and demonstrate expertise in design practice to address those problems. Under the guidance of a capstone advisor, students construct a formal proposal that outlines a complete plan for their capstone work. Once approved, the student designs, develops, and implements the project. The outcome of this coursework will be a learning intervention.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "INSDSG696",
+    "coursedescription": "The comprehensive study of a particular topic or area in instructional design, as determined by the needs of the individual student. The student works under the guidance and supervision of the instructor.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship",
+    "courseid": "INSDSG698",
+    "coursedescription": "This internship is a culminating experience in which the student assumes the responsibility for an instructional design and technology project, a research project or other work assigned by the host organization or institution. The student works under the guidance and supervision of both the instructor and the organization for which the project is to be done.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

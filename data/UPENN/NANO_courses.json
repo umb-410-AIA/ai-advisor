@@ -1,0 +1,22 @@
+[
+  {
+    "coursename": "NANO 5990 Master's Independent Study",
+    "courseid": "NANO 5990",
+    "coursedescription": "Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-4 Course Units"
+    }
+  },
+  {
+    "coursename": "NANO 9990 Master's Thesis",
+    "courseid": "NANO 9990",
+    "coursedescription": "For students working on an advanced research program leading to the completion of master's thesis requirements.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1,2 Course Units"
+    }
+  }
+]

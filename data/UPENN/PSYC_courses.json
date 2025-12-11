@@ -1,0 +1,1179 @@
+[
+  {
+    "coursename": "PSYC 0001 Introduction to Experimental Psychology",
+    "courseid": "PSYC 0001",
+    "coursedescription": "This course provides an introduction to the basic topics of psychology including our three major areas of distribution: the biological basis of behavior, the cognitive basis of behavior, and individual and group bases of behavior. Topics include, but are not limited to, neuropsychology, learning, cognition, development, disorder, personality, and social psychology. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Topics include, but are not limited to, neuropsychology, learning, cognition, development, disorder, personality, and social psychology."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 0400 The Pursuit of Happiness",
+    "courseid": "PSYC 0400",
+    "coursedescription": "What is happiness? Can it be successfully pursued? If so, what are the best ways of doing so? This interactive course will consider various ways of answering these questions by exploring theoretical, scientific, and practical perspectives on flourishing, thriving, and wellness. We will discuss approaches to happiness from the humanities and the sciences and then try them out to see how they might help us increase our own well-being and that of the communities in which we live. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 0405 Grit Lab: Fostering Passion and Perseverance in Ourselves and Others (SNF Paideia Program Course)",
+    "courseid": "PSYC 0405",
+    "coursedescription": "At the heart of this course are cutting-edge scientific discoveries about passion and perseverance for long-term goals. As in any other undergraduate course, you will learn things you didn't know before. But unlike most courses, Grit Lab requires you to apply what you've learned in your daily life, to reflect, and then to teach what you've learned to younger students. The ultimate aim of Grit Lab is to empower you to achieve your personal, long-term goals--so that you can help other people achieve the goals that are meaningful to them. LEARN -> EXPERIMENT -> REFLECT -> TEACH. The first half of this course is about passion. During this eight-week period, you'll identify a project that piques your interest and resonates with your values. This can be a new project or, just as likely, a sport, hobby, musical instrument, or academic field you're already pursuing. The second half of this course is about perseverance. During this eight-week period, your aim is to develop resilience, a challenge-seeking orientation, and the habits of practice that improve skill in any domain. By the end of Grit Lab, you will understand and apply, both for your benefit and the benefit of younger students, key findings in the emerging science on grit. Fall Also Offered As: OIDD 0050, OIDD 2000 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "During this eight-week period, you'll identify a project that piques your interest and resonates with your values."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 0986 Study abroad College elective",
+    "courseid": "PSYC 0986",
+    "coursedescription": "Non-major elective in the College study abroad Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 0996 Transfer College elective",
+    "courseid": "PSYC 0996",
+    "coursedescription": "Non-major elective in the College transfer Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 1210 Introduction to Brain and Behavior",
+    "courseid": "PSYC 1210",
+    "coursedescription": "Introduction to the structure and function of the vertebrate nervous system. We begin with the cellular basis of neuronal activities, then discuss the physiological bases of motor control, sensory systems, motivated behaviors, and higher mental processes. This course is intended for students interested in the neurobiology of behavior, ranging from animal behaviors to clinical disorders. Fall or Spring Also Offered As: BIOL 1110 , NRSC 1110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is intended for students interested in the neurobiology of behavior, ranging from animal behaviors to clinical disorders."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 1212 Physiology of Motivated Behavior",
+    "courseid": "PSYC 1212",
+    "coursedescription": "This course focuses on evaluating the experiments that have sought to establish links between brain structure (the activity of specific brain circuits) and behavioral function (the control of particular motivated and emotional behaviors). Students are exposed to concepts from regulatory physiology, systems neuroscience, pharmacology, and endocrinology and read textbook as well as original source materials. The course focuses on the following behaviors: feeding, sex, fear, anxiety, the appetite for salt, and food aversion. The course also considers the neurochemical control of responses with an eye towards evaluating the development of drug treatments for: obesity, anorexia/cachexia, vomiting, sexual dysfunction, anxiety disorders, and depression. Fall or Spring Also Offered As: NRSC 2227 Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 1230 Cognitive Neuroscience",
+    "courseid": "PSYC 1230",
+    "coursedescription": "The study of the neural systems that underlie human perception, memory and language; and of the pathological syndromes that result from damage to these systems. Fall or Spring Also Offered As: NRSC 2249 Prerequisite: PSYC 0001 OR COGS 1001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001",
+      "COGS 1001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 1310 Language and Thought",
+    "courseid": "PSYC 1310",
+    "coursedescription": "This course describes current theorizing on how the human mind achieves high-level cognitive processes such as using language, thinking, and reasoning. The course discusses issues such as whether the language ability is unique to humans, whether there is a critical period to the acquisition of a language, the nature of conceptual knowledge, how people perform deductive reasoning and induction, and how linguistic and conceptual knowledge interact. Fall or Spring Also Offered As: LING 0750 Prerequisite: PSYC 0001 OR COGS 1001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001",
+      "COGS 1001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 1333 Introduction to Cognitive Science",
+    "courseid": "PSYC 1333",
+    "coursedescription": "How do minds work? This course surveys a wide range of answers to this question from disciplines ranging from philosophy to neuroscience. The course devotes special attention to the use of simple computational and mathematical models. Topics include perception, learning, memory, decision making, and language. The course shows how the different views from the parent disciplines interact and identifies some common themes among the theories that have been proposed. The course pays particular attention to the distinctive role of computation in such theories and provides an introduction to some of the main directions of current research in the field. It is a requirement for the BA in Cognitive Science, the BAS in Computer and Cognitive Science, and the minor in Cognitive Science, and it is recommended for students taking the dual degree in Computer and Cognitive Science. Fall Also Offered As: CIS 1400 , COGS 1001 , LING 1005 , PHIL 1840 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is a requirement for the BA in Cognitive Science, the BAS in Computer and Cognitive Science, and the minor in Cognitive Science, and it is recommended for students taking the dual degree in Computer and Cognitive Science."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 1340 Perception",
+    "courseid": "PSYC 1340",
+    "coursedescription": "How the individual acquires and is guided by knowledge about objects and events in their environment. Fall Also Offered As: VLST 2110 Prerequisite: PSYC 0001 OR COGS 1001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001",
+      "COGS 1001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 1440 Social Psychology",
+    "courseid": "PSYC 1440",
+    "coursedescription": "An overview of theories and research across the range of social behavior from intra-individual to the group level including the effects of culture, social environment, and groups on social interaction. Fall or Spring Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 1450 Personality and Individual Differences",
+    "courseid": "PSYC 1450",
+    "coursedescription": "This course provides an introduction to the psychology of personality and individual differences. Many psychology courses focus on the mind or brain; in contrast to those approaches of studying people in general, the focus in this course is on the question \"How are people different from each other?\" It will highlight research that take a multidimensional approach to individual differences and attempts to integrate across the biological, cognitive-experimental, and social-cultural influences on personality. Fall or Spring Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 1462 Abnormal Psychology",
+    "courseid": "PSYC 1462",
+    "coursedescription": "The concepts of normality, abnormality, and psychopathology; symptom syndromes;theory and research in psychopathology and psychotherapy. Fall or Spring Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 1530 Memory",
+    "courseid": "PSYC 1530",
+    "coursedescription": "This course presents an integrative treatment of the cognitive and neural processes involved in learning and memory, primarily in humans. We will survey the major findings and theories on how the brain gives rise to different kinds of memory, considering evidence from behavioral experiments, neuroscientific experiments, and computational models. Also Offered As: NRSC 1159 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 1777 Introduction to Developmental Psychology",
+    "courseid": "PSYC 1777",
+    "coursedescription": "The goal of this course is to introduce both Psychology majors and non-majors majors to the field of Developmental Psychology. Developmental Psychology is a diverse field that studies the changes that occur with age and experience and how we can explain these changes. The field encompasses changes in physicalgrowth, perceptual systems, cognitive systems, social interactions and and much more. We will study the development of perception, cognition, language,academic achievement, emotion regulation, personality, moral reasoning,and attachment. We will review theories of development and ask how these theories explain experimental findings. While the focus is on human development, when relevant, research with animals will be used as a basis for comparison. Fall or Spring Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2220 Evolution of Behavior: Animal Behavior",
+    "courseid": "PSYC 2220",
+    "coursedescription": "The evolution of behavior in animals will be explored using basic genetic and evolutionary principles. Lectures will highlight behavioral principles using a wide range of animal species, both vertebrate and invertebrate. Examples of behavior include the complex economic decisions related to foraging, migratory birds using geomagnetic fields to find breeding grounds, and the decision individuals make to live in groups. Group living has led to the evolution of social behavior and much of the course will focus on group formation, cooperation among kin, mating systems, territoriality and communication. Fall Also Offered As: BIOL 2140 , NRSC 2140 Prerequisite: BIOL 1102 OR BIOL 1121 OR PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 1102",
+      "BIOL 1121",
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2233 Neuroethology",
+    "courseid": "PSYC 2233",
+    "coursedescription": "In course, students will learn how neurobiologists study the relationship between neural circuitry and behavior. Behaviors such as bat echolocation, birdsong, insect olfaction, spatial navigation, eye movement and others will be used to explore fundamental principles of brain function that include brain oscillations, population codes, efference copy, sensorimotor maps and sleep replay. The course will also discuss the various methodologies that are used to address these questions. The reading material will be derived mostly from the primary literature. Spring Also Offered As: NRSC 2233 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2240 Visual Neuroscience",
+    "courseid": "PSYC 2240",
+    "coursedescription": "An introduction to the scientific study of vision, with an emphasis on the biological substrate and its relation to behavior. Topics will typically include physiological optics, transduction of light, visual thresholds, color vision, anatomy and physiology of the visual pathways, and the cognitive neuroscience of vision. Spring Also Offered As: NRSC 2217 , VLST 2170 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2250 Drugs, Brain and Mind",
+    "courseid": "PSYC 2250",
+    "coursedescription": "The course will begin with a review of basic concepts in pharmacology including: routes of drug administration, drug metabolism, the dose response curve, tolerance and sensitization. Following a brief overview of cellular foundations of neuropharmacology (neuronal biology, synaptic and receptor function), the course will focus on several neurotransmitter systems and the molecular and behavioral mechanisms mediating the mind-altering, additive and neuropsychiatric disorders, including depression, schizophrenia and anxiety with an emphasis on their underlying neurobiological causes, as well as the pharmacological approaches for treatment. Spring Also Offered As: NRSC 2270 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2260 Neuroendocrinology",
+    "courseid": "PSYC 2260",
+    "coursedescription": "This course is designed to examine the various roles played by the nervous and endocrine systems in controlling both physiological processes and behavior. First, the course will build a foundation in the concepts of neural and endocrine system function. Then, we will discuss how these mechanisms form the biological underpinnings of various behaviors and their relevant physiological correlates. We will focus on sexual and parental behaviors, stress, metabolism, neuroendocrine-immune interactions, and mental health. Fall or Spring Also Offered As: NRSC 2260 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2280 Neuroscience and Society",
+    "courseid": "PSYC 2280",
+    "coursedescription": "Cognitive, social,and affective neuroscience have made tremendous progress in in the last two decades. As this progress continues, neuroscience is becoming increasingly relevant to all of the real-world endeavors that require understanding, predicting and changing human behavior. In this course we will examine the ways in which neuroscience is being applied in law, criminal justice, national defense, education, economics, business,and other sectors of society. For each application area we will briefly review those aspects of neuroscience that are most relevant, and then study the application in more detail. Fall Prerequisite: NRSC 1110 OR PSYC 1230 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110",
+      "PSYC 1230"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2310 Psychology of Language",
+    "courseid": "PSYC 2310",
+    "coursedescription": "This course describes the nature of human language, how it is used to speak and comprehend, and how it is learned. The course raises and discusses issues such as whether language ability is innate and unique to humans, whether there is a critical period for the acquisition of a language, and how linguistic and conceptual knowledge interact. Fall or Spring Also Offered As: LING 1750 Prerequisite: PSYC 1310 OR LING 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1310",
+      "LING 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2314 Data Science for Studying Language and the Mind",
+    "courseid": "PSYC 2314",
+    "coursedescription": "Data Science for studying Language and the Mind is an entry-level course designed to teach basic principles of data science to students with little or no background in statistics or computer science. Students will learn to identify patterns in data using visualizations and descriptive statistics; make predictions from data using machine learning and optimization; and quantify the certainty of their predictions using statistical models. This course aims to help students build a foundation of critical thinking and computational skills that will allow them to work with data in all fields related to the study of the mind (e.g. linguistics, psychology, philosophy, cognitive science). Fall Also Offered As: LING 0700 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2320 Introduction to Empirically Supported Psychological Treatments",
+    "courseid": "PSYC 2320",
+    "coursedescription": "This course will serve two primary academic goals. First, to provide students with a contemporary introduction to empirically supported treatments for mental health conditions, with a particular focus on psychotherapeutic approaches. Second, it will teach students how to think about and evaluate research that tests the efficacy of interventions and explore how they work. Fall Prerequisite: PSYC 1462 AND PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1462",
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2355 Introduction to Political Psychology",
+    "courseid": "PSYC 2355",
+    "coursedescription": "This course will explore psychological approaches to understanding political beliefs, attitudes, and actions at the levels of both individual citizens and national leaders. It will also explore the possibility that psychological science itself is not immune to the political debates swirling around it. Specific topics will include: the workings of belief systems (and their power to shape what we \"see\"), cognitive biases (and their power to cause miscalculations), sacred values and their role in stabilizing belief systems and social interaction, personality and ideology (the linkages between the personal and the political), and clashing conceptions of morality and distributive and corrective justice (striking variations among people in what they consider to be fair). We shall also explore some topics that have sparked controversy in the psychological research literature and that tend to polarize opinion along political lines, including work on intelligence and unconscious bias. Fall or Spring Also Offered As: PPE 2355 Prerequisite: PSYC 0001 OR COGS 1001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001",
+      "COGS 1001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2377 Cognitive Development",
+    "courseid": "PSYC 2377",
+    "coursedescription": "What infants and young children come to know about the world, and how they learn it. Topics will include changes in children's thinking, perceptual development, language acquisition, and current theories of cognitive development. Not Offered Every Year Prerequisite: PSYC 0001 OR COGS 1001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001",
+      "COGS 1001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2400 Introduction to Positive Psychology (SNF Paideia Program Course)",
+    "courseid": "PSYC 2400",
+    "coursedescription": "An introduction to the study of positive emotions, positive character traits, and positive institutions. The positive emotions consist of emotions about the past (e.g., serenity, satisfaction, pride), about the future (e.g., hope, optimism, faith), and emotions about the present (pleasure and gratification). The distinction among the pleasant life, the good life, and the meaningful life is drawn. The positive traits include wisdom, courage, humanity, justice, temperance, and spirituality, and the classification of these virtues is explored. The positive institutions are exemplified by extended families, free press, humane leadership, and representative government. Spring Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2477 Social and Emotional Development",
+    "courseid": "PSYC 2477",
+    "coursedescription": "This course will cover theory and research related to the development of attachment, emotional regulation, peer and intimate relationships, personality, moral reasoning, and emotional and behavioral disorders. The course will emphasize the degree to which family, peer, and community contexts influence development from infancy into adulthood. Efforts will be made to integrate biological and environmental accounts of development across the lifespan. Not Offered Every Year Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2555 Neuroeconomics",
+    "courseid": "PSYC 2555",
+    "coursedescription": "This course will introduce students to neuroeconomics, a field of research that combines economic, psychological, and neuroscientific approaches to study decision-making. The course will focus on our current understanding of how our brains give rise to decisions, and how this knowledge might be used to constrain or advance economic and psychological theories of decision-making. Topics covered will include how individuals make decisions under conditions of uncertainty, how groups of individuals decide to cooperate or compete, and how decisions are shaped by social context, memories, and past experience. Also Offered As: NRSC 2273 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2737 Judgment and Decisions",
+    "courseid": "PSYC 2737",
+    "coursedescription": "Thinking, judgment, and personal and societal decision making, with emphasis on fallacies and biases. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2740 Choice",
+    "courseid": "PSYC 2740",
+    "coursedescription": "The choices that people make determine their lived experiences, their social, economic, and political realities, and their overall well-being. For this reason, the study of choice is of special interest across both the sciences and the humanities, and is a central focus of academic disciplines like psychology, economics, cognitive science, neuroscience, computer science, and philosophy. This course will introduce you to the interdisciplinary study of human choice behavior, and will examine in detail what we know about how people make choices, how observed choice patterns and mechanisms relate to those in animals and artificially intelligent machines, and how we can accurately predict and influence people’s choices and choice outcomes. The primary objective of this course is to build students' understanding and appreciation of the diverse perspectives on human choice behavior. Moreover, by exploring the mechanisms and nuances of decision-making, students will gain insight into their personal choice patterns and acquire strategies to improve their own choice outcomes. Spring Also Offered As: PPE 3004 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "For this reason, the study of choice is of special interest across both the sciences and the humanities, and is a central focus of academic disciplines like psychology, economics, cognitive science, neuroscience, computer science, and philosophy."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 2750 Behavioral Economics and Psychology",
+    "courseid": "PSYC 2750",
+    "coursedescription": "Our understanding of markets, governments, and societies rests on our understanding of choice behavior, and the psychological forces that govern it. This course will introduce you to the study of choice, and will examine in detail what we know about how people make choices, and how we can influence these choices. It will utilize insights from psychology and economics, and will apply these insights to domains including risky decision making, intertemporal decision making, and social decision making. Fall Also Offered As: PPE 3003 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Our understanding of markets, governments, and societies rests on our understanding of choice behavior, and the psychological forces that govern it."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 2760 How We Change: Social-Psychological and Communication Dynamics (SNF Paideia Program Course)",
+    "courseid": "PSYC 2760",
+    "coursedescription": "Have you wondered why people undergo religious conversion, change their political affiliation, suddenly endorse conspiracy theories, alter their taste in music, or seek hypnosis to quit smoking? What is common to these processes of change, and how does resistance to change play out across these seemingly different contexts? In \"Why We Change,\" we will ask unique questions such as how religious change might highlight methods of transforming public health communications or how the study of attitude change might yield new theories about the impact of life experiences on personality. Broadly speaking, the class will provide an opportunity for students to learn theories of belief formation, attitudes and persuasion, normative influence, and behavioral change. For example, we will work to understand how specific beliefs, such as group stereotypes, or specific attitudes, such as trust and values, change in response to variations in the environment and communication with other people. We will cover culturally based and professional approaches to change, from fear appeals to motivational interviewing, to hypnosis. Students will read empirical studies and conduct observational projects about potential sources of social, cultural, or psychological change and resistance to change in Philadelphia. Also Offered As: COMM 2760 , NURS 2760 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 2900 Evolutionary Psychology",
+    "courseid": "PSYC 2900",
+    "coursedescription": "This course introduces the field of evolutionary psychology, which is an approach to the study of human behavior. We will consider the threoretical underpinnings of the field, including evolutionary threory, development, kinship, and adaptations for social life, and will sample some of the recent empirical contributions to this growing area. Fall or Spring Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3100 Being Human: The Biology of Human Behavior, Cognition, and Culture",
+    "courseid": "PSYC 3100",
+    "coursedescription": "This course will examine the biological basis of human behavior and culture as an emergent product of the brain and its interactions with the physical and social environment. As we explore this topic, we will emphasize human brain function at the level of neural systems and the neural networks they supply, how these systems may have evolved, how they change depending on experience, and what dysfunction of these circuits as occurs in neuropsychiatric and neurodevelopment disorders reveals about human thought and behavior. We will focus on key features of human nature, including language, mathematics, creativity and innovation, empathy, strategic thinking, cooperation, deception, economic behavior, and technology, amongst others. Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3220 Neural Systems and Behavior",
+    "courseid": "PSYC 3220",
+    "coursedescription": "This course will investigate neural processing at the systems level. Principles of how brains encode information will be explored in both sensory (e.g. visual, auditory, social, etc.) and motor systems. Neural encoding strategies will be discussed in relation to the specific behavioral needs of the animal. Examples will be drawn from a variety of different model systems. Fall Also Offered As: BIOL 4110 , NRSC 4110 Mutually Exclusive: BIOL 5110 Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3230 Neuroscience for Policymakers: Cognitive Neuroscience Seminar",
+    "courseid": "PSYC 3230",
+    "coursedescription": "Topics vary each semester. Prerequisite: PSYC 1230 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1230"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3231 Consciousness Seminar in Cognitive Neuroscience",
+    "courseid": "PSYC 3231",
+    "coursedescription": "Consciousness is our subjective experience of the world, including both perceptions and felt internal states. In this seminar, we will explore the the burgeoning scientific literature on the neural basis of consciousness. We will focus in particular on three topics: What are the neural systems underlying visual awareness? What are the mechanisms that control the progression of conscious contents to create our stream of thought? What is the relationship between consciousness and behavior? 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3232 The Social Brain Seminar",
+    "courseid": "PSYC 3232",
+    "coursedescription": "This seminar examines the cognitive and neural mechanisms that enable humans to predict and understand people's behavior. We will be propelled throughout the course by fundamental questions about the human social brain. For example, why are humans so social? Does the human brain have specialized processes for social thought? Consideration of these questions will involve advanced treatment of a range of topics. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3233 Seminar in Cognitive Neuroscience: Brain Development",
+    "courseid": "PSYC 3233",
+    "coursedescription": "This discussion-based seminar will focus on the neural bases of cognitive development. Each week the class will discuss a selection of papers that consider the roles of genes and environment on topics including the development of perceptual abilities, language, and cognition. The course will cover several aspects of pre- and postnatal brain and behavioral development with particular emphasis on animal models. This course is intended for students interested in neurobiology, cognitive psychology, evolutionary psychology and development. Fall Also Offered As: NRSC 4233 Prerequisite: PSYC 1230 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1230"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is intended for students interested in neurobiology, cognitive psychology, evolutionary psychology and development."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 3260 Neuroendocrinology Seminar",
+    "courseid": "PSYC 3260",
+    "coursedescription": "This course is an upper-level seminar, designed to examine the various roles played by the nervous and endocrine systems in controlling both physiological processes and behavior. We will focus on sexual and parental behaviors, stress, metabolism, neuroendocrine-immune interactions, and mental health. The format will be a mixture of lectures and journal club discussions based on recent primary literature in the field of neuroendocrinology. Students will also write several short papers based on the clinical neuroendocrinology. Fall or Spring Also Offered As: NRSC 4460 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3271 Seminar: Thought without Language",
+    "courseid": "PSYC 3271",
+    "coursedescription": "In this seminar we will tackle key topics in cognitive science through the lens of comparative and developmental psychology. Human infants in the first year of life and nonhuman animals share an important attribute: they both lack language. What type of thought is possible without language? What can we learn about the human mind by studying animal and infant cognition? We will explore topics such as concepts and categories, metacognition, numerical cognition, helping and sharing, and understanding other minds using empirical papers. The course will be heavily discussion-based and students will be required to give multiple short presentations and write one paper. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3280 Neurological Insights into Cognition and Behavior Seminar",
+    "courseid": "PSYC 3280",
+    "coursedescription": "Our modern understanding of the brain began with very humble foundations. Long before transgenic mice, MRI scans, and neuronal recordings, most knowledge about brain function was based on clinical observations of human patients with neurological lesions. This advanced seminar will focus on the cognitive neuroscience of perception, emotion, language, and behavior -- through the unique perspective of real-life patients -- to illustrate fundamental concepts of brain function. Tuesday classes will explore different cognitive neuroscience topics through student presentations and discussion. Thursday classes will involve observing medical history taking and examination of a patient with cognitive deficits pertinent to the Tuesday topic, with opportunity for students to interact with the patient. Spring Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3288 Ethical, Legal and Social Implications of Neuroscience",
+    "courseid": "PSYC 3288",
+    "coursedescription": "Neuroscience increasingly poses ethical issues relevant to everyday life, from students taking Adderall as a study aid to the use of brain scans to argue for clemency in criminal court proceedings. These and many other practices evoke moral judgments and may soon become subject to legislation, regulation and other forms of policy. Society needs to address these issues with an understanding of the science and its likely impact, as well as the ability to go beyond gut level reactions to analyze the ethical issues more thoughtfully. This seminar will build on students’ introductory level knowledge of neuroscience and help them develop the skills to analyze and discuss the ethical implications of the science. They will thus be positioned to guide legal and policy discussions about neuroscience in society. Not Offered Every Year Prerequisite: PSYC 1230 OR NEUR 1000 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1230",
+      "NEUR 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3300 Seminar in Sleep and Memory",
+    "courseid": "PSYC 3300",
+    "coursedescription": "Why do we sleep? This question has puzzled scientists for centuries, but one reason emerging from research in the area is that sleep is critical for forming, retaining, and transforming our memories. This seminar explores human and animal research in psychology and neuroscience that has shed light on how sleep carries out these functions. Topics will include the different stages of sleep and their roles in memory consolidation, its neural systems involved in representing memory at different timescales, and the role of dreams in processing memories. Spring Also Offered As: NRSC 4429 Prerequisite: CIS 1210 1 Course Unit",
+    "course-prerequsities": [
+      "CIS 1210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3301 Neurobiology of Learning and Memory",
+    "courseid": "PSYC 3301",
+    "coursedescription": "This course focuses on the current state of our knowledge about the neurobiological basis of learning and memory. A combination of lectures and student seminars will explore the molecular and cellular basis of learning in invertebrates and vertebrates from a behavioral and neural perspective. Fall Also Offered As: BIOL 4142 , NRSC 4442 Prerequisite: BIOL 2110 1 Course Unit",
+    "course-prerequsities": [
+      "BIOL 2110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3310 Psycholinguistics Seminar",
+    "courseid": "PSYC 3310",
+    "coursedescription": "This course examines how people use language. We will focus on Herb H. Clark’s book “Using Language” (1996). In this book, Clark proposes that language use is a form of joint action, and extensively develop what this claim entails and how it accounts for people’s linguistic behavior. The course will consist of a detailed examination of Clark’s thesis. Also Offered As: LING 3750 Prerequisite: PSYC 1310 OR PSYC 2310 OR LING 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1310",
+      "PSYC 2310",
+      "LING 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3350 Quantitative Methods in Cognitive Science: Data Analysis, Modeling, and Visualization",
+    "courseid": "PSYC 3350",
+    "coursedescription": "This seminar introduces students to common quantitative methods used to study cognitive processes based on behavioral measurements. The course covers experimental design, data analysis and visualization, and an introduction to basic models of cognitive behavior. Students will get to know common experimental designs to test cognitive behavior, how to perform hypothesis testing, and apply and fit theoretical models such as signal detection theory, ideal observer models, and drift-diffusion models. Throughout the course, students will independently analyze cognitive behavioral datasets, culminating in a research paper that showcases their ability to use the learned methods for an unbiased and effective analysis and interpretation of cognitive processes, and to visualize and present their results. A key emphasis of the course is on scientific rigor: students will learn to avoid common mistakes in analyzing, interpreting, and presenting data that have substantially harmed the reputation of cognitive and psychological sciences within the scientific community as well as the general public (e.g. the “reproduction crisis”). 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3400 Positive Psychology Seminar: Positive Education",
+    "courseid": "PSYC 3400",
+    "coursedescription": "This intensive, discussion-based seminar will equip you with useful insight and critical analysis about Positive Psychology by emphasizing scientific literacy. The workload for this seminar requires intensive reading. To excel in this seminar, students must be willing to enthusiastically read, dissect, and critique ideas within Positive Psychology. This requires students to articulate various ideas in verbal and written form. Fall Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3440 Friendship and Attraction Seminar (SNF Paideia Program Course)",
+    "courseid": "PSYC 3440",
+    "coursedescription": "This seminar primarily focuses on heterosexual friendship between men and women, and the methodological issues of investigating such relationships. The scope for sexuality and romance in heterosexual opposite-sex friendship will be explored, as well as the possibility that men and women perceive opposite-sex friendship differently from each other. The ramifications of sex, romance, and incongruent perspectives in these relationships will be discussed, as will intimacy, competition, homosexual friendship, and same-sex friendship. Fall or Spring Prerequisite: PSYC 1440 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1440"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3441 Psychology and Religion Seminar",
+    "courseid": "PSYC 3441",
+    "coursedescription": "The purpose of the seminar is to introduce the relationship between psychology and religion in a balanced fashion. I do not assume that either of these two powerful forces in the world has the last word on the other. Not do I assume that they can hide behind their typical assumptions without offering good reasons for them. So the seminar offers the opportunities for a disciplined personal engagement with the material. Almost everyone brings personal background and emotion as well as intellectual curiosity to religion and its relationship to human nature; this is the relationship that we will take seriously, pondering the emotional and immediately experiential as well as the cognitive and distanced aspects of the topics we study. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3442 Moral Psychology Seminar",
+    "courseid": "PSYC 3442",
+    "coursedescription": "This seminar will cover a range of topics within contemporary moral psychology, including: the nature of morality, the extent to which moral beliefs are based on reasoning as opposed to more intuitive or affective processes, the extent to which moral values can be traded off, the role of justice and blame in moral thinking, moral selfidentity, the causes of immoral behavior, and the cultural, political, and personal significance of people’s moral beliefs. Students will be expected to read and actively discuss selected papers, and will be asked to present readings at various points. There will be mid-term and final paper assignments. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3443 Psychology and Law Seminar",
+    "courseid": "PSYC 3443",
+    "coursedescription": "During the past several years, this seminar has emphasized criminal law, procedure, and social justice issues. The emphasis in each year’s course varies somewhat with what is going on “in the real world” outside of the classroom. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3444 Evolutionary Perspectives in Social Psychology",
+    "courseid": "PSYC 3444",
+    "coursedescription": "This discussion-based seminar uses evolutionary (Darwinian) perspectives to examine selected topics central to social psychology. Topics will include: Fundamental theories of evolutionary psychology; the self; prosocial behavior and altruism; aggression and violence; love, attraction, and mating; human sex differences in social behavior; religion and morality; and group behavior. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3446 The Science of Well-Being (SNF Paideia Program Course)",
+    "courseid": "PSYC 3446",
+    "coursedescription": "The course consists of weekly 90-minute lectures on Positive Psychology: The topics include Well-Being as a Life Goal, Good Character, Learned Helplessness, Optimism, Coaching, Therapy and Prevention, Positive Education, the Positive Corporation, Agency, and Artificial Intelligence. In addition, there will be weekly recitation sessions and exercises for students to measure and to increase their personal well-being. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3450 Technology and the Good Life",
+    "courseid": "PSYC 3450",
+    "coursedescription": "In this interdisciplinary seminar, advanced undergraduates explore the impact of technology on motivation, behavior, and well-being. Through readings, discussion, and hands-on projects, we will critically evaluate both the benefits and drawbacks of artificial intelligence, social media, and other technological advances—with the goal of developing interventions that encourage a more satisfying integration of technology into daily life. Although there are no formal prerequisites for this class, it is particularly well-suited to juniors and seniors who are seriously considering an advanced degree in psychology, human-computer interaction, or a related field. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3461 Survey of Mood Disorders Seminar",
+    "courseid": "PSYC 3461",
+    "coursedescription": "Mood disorders are common, sometimes debilitating, mental health conditions with considerable societal costs. These disorders include depression, bipolar disorder, and several variants of these disorders. In industrialized nations, depression alone ranks among the leading causes of disability. Bipolar disorder, while less common, is associated with even more marked impairments. In this course, we will examine mood disorders in depth, covering historical, cross-cultural, diagnostic, developmental, neuroscientific, etiological, and therapeutic issues. Throughout the course, I hope to encourage students to appreciate what we know about problems of mood, how we have acquired this knowledge, and how much we still do not understand. Prerequisite: PSYC 1462 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1462"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3462 Gender and Psychopathology Seminar",
+    "courseid": "PSYC 3462",
+    "coursedescription": "This course will explore contemporary theory and research on the role of gender in vulnerability to and expression of psychopathology. In the beginning of the course, we will explore and critique definitions of sex and gender and methodological approaches to the study of gender differences. This will include considering strong challenges to our conceptions of identity categories such as sex and gender. For instance, we will examine the evolution and controversies surrounding the diagnosis of Gender Dysphoria. Next, we will explore literature on gender differences in emotional expression, coping, and several forms of psychopathology, including mood disorders, eating disorders, disorders related to anxiety and trauma exposure, substance-related disorders and aggressive disorders. Finally, we will consider the role of gender in help-seeking behavior. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3463 Seminar in Abnormal Psychology: Developmental Psychopathology",
+    "courseid": "PSYC 3463",
+    "coursedescription": "Developmental psychopathology has been defined as “the study of the origins and course of individual patterns of behavioral maladaptation, whatever the age of onset, whatever the causes, whatever the transformations in behavioral manifestation, and however complex the course of the developmental pattern may be.” (Sroufe & Rutter, 1984, p. 18). We will read and discuss seminal papers in the field of developmental psychopathology, case studies, memoirs, and sociological writings with the goal that students will acquire a deep understanding of the historical and theoretical origins of the field, key concepts, popular methodological approaches, and well-replicated findings. Fall, even numbered years only Prerequisite: PSYC 1462 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1462"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3464 Seminar in Clinical Psychology: Theories of Psychotherapy",
+    "courseid": "PSYC 3464",
+    "coursedescription": "This seminar provides an introduction to several major theoretical approaches to psychotherapy, such as psychodynamic/psychoanalytic, behavioral and cognitive-behavioral, humanistic, and interpersonal/group therapy models. Students will learn how these theoretical frameworks differentially influence assessment, case conceptualization, treatment planning, style of the therapeutic relationship, intervention techniques, and methods of evaluating therapy process and outcomes. Using case vignettes, film demonstrations, classroom role playing, and other experiential exercises, students will learn how these models are applied in real world settings and begin to develop an awareness of their own therapeutic philosophy. Critical analysis of the models will be advanced through ethical considerations and the application of multicultural and feminist perspectives. Fall Prerequisite: PSYC 1462 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1462"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3730 Three Perspectives on Judgment and Decision Making: Seminar",
+    "courseid": "PSYC 3730",
+    "coursedescription": "This course is designed to help you become a better decision maker. By the end of the semester, you should have the skills to approach decision making from a broader perspective with new tools and a new awareness of many common errors and biases. You will learn about normative decisions (how people should make choices if they want to use principles of rationality, logic and probability), descriptive decisions (how people really do make decisions) and prescriptive decisions (how people can make better decisions given normative principles and what we know about human behavior). We’ll discuss the theoretical foundations of the field, some of the key empirical insights. We’ll discuss what it means to have good judgment and how experts and novices differ. We look at decision making in such as public policy, medicine, the law, business, and intelligence analysis. Decision making is something we do every day, many times a day. It is so natural that some people don’t even realize they are doing it. Many of the insights from this field have real-world implications. Fall or Spring Prerequisite: PSYC 2737 OR PPE 3003 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 2737",
+      "PPE 3003"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3766 Inside the Criminal Mind",
+    "courseid": "PSYC 3766",
+    "coursedescription": "This seminar explores the development of antisocial behavior including psychopathy, aggression, and violence. At its core, this course examines what increases the risk that children will develop behavior problems and go onto more chronic and extreme forms of violence and psychopathic personality that results in harm to others. We will examine psychiatric diagnoses associated with these antisocial behaviors in both childhood and adulthood and how they link to other relevant forms of psychopathology (e.g., substance use, ADHD). We will explore research elucidating the neural correlates of these behaviors, potential genetic mechanisms underlying these behaviors, and the environments that increase risk for these behaviors. Thus, there will be a focus on neurobiology and genetics approaches to psychiatric outcomes, as well as a social science approach to understanding these harmful behaviors, all while considering development across time. We will also consider ethical and moral implications of this research. Prerequisite: PSYC 1462 AND PSYC 1777 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1462",
+      "PSYC 1777"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3770 Educational Neuroscience Seminar",
+    "courseid": "PSYC 3770",
+    "coursedescription": "The field of educational neuroscience is an emerging field with the goal of joining knowledge gained from the disciplines of neuroscience, cognitive science, developmental psychology,and education. This interdisciplinary course will focus on how scientific exploration of the mind and brain can inform educational practices. PSYC 480-302 (Connolly): This advanced discussion-based seminar will focus on approaches to success in domains of modern life such as social living and academia. The first portion of this seminar will be a psychology book club where we read various books written by psychology researchers. This will contribute to an ongoing discussion about scientific communication, and the presentation of psychological research to various audiences. From there, students will focus on a specific area of interest, and write a literature review based on contemporary empirical research critiquing their given topic. Students must understand the workload for this seminar requires intensive reading culminating in a large written assignment. Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "From there, students will focus on a specific area of interest, and write a literature review based on contemporary empirical research critiquing their given topic."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 3771 Psychology of Modern Life: Success and Achievement",
+    "courseid": "PSYC 3771",
+    "coursedescription": "This intensive, discussion-based seminar focuses on the utility of Psychology in modern life. We will take a top-down approach to a range of contemporary ideas that could be described as practical: useful and applicable. Broadly, we will investigate the concepts of success and achievement to this end. This includes topics such as intelligence, grit, self-control, growth mindset, expertise, flow, and creativity. This will equip you with useful insight and critical analysis about various iterations of success, and how the field of Psychology conceptualizes how to achieve success. This seminar emphasizes scientific literacy. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3780 Advanced Seminar in Psychology: Obedience",
+    "courseid": "PSYC 3780",
+    "coursedescription": "Though almost half a century old, Milgram’s 1961-1962 studies of “destructive obedience” continue to puzzle, fascinate, and alarm. The main reason for their continued grip on the field’s attention (other than the boldness of the idea and elegance of execution) may be simply that they leave us with a portrait of human character that is radically different from the one that we personally wish to endorse or that the wider culture teaches us to accept. In this seminar, we will take an in-depth look at these famous studies (along with the more recent replications) and explore their various psychological, political and philosophical ramifications. Not Offered Every Year Also Offered As: PPE 4802 , PSYC 4780 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3790 Neuroeconomics Seminar",
+    "courseid": "PSYC 3790",
+    "coursedescription": "This seminar will review recent research that combines psychological, economic, and neuroscientific approaches to study human and animal decision-making. The course will focus on our current state of knowledge regarding the neuroscience of decision-making, and how evidence concerning the neural processes associated with choices might be used to constrain or advance economic and psychological theories of decision-making. Topics covered will include decisions involving risk and uncertainty, decisions that involve learning from experience, decisions in strategic interactions and games, and social preferences. Prerequisite: Psychology 149, 153, or 165, or permission of the instructor. Fall or Spring Also Offered As: NRSC 4473 Prerequisite: PSYC 1230 OR PSYC 2737 OR PPE 3003 1 Course Unit",
+    "course-prerequsities": [
+      "165",
+      "NRSC 4473",
+      "PSYC 1230",
+      "PSYC 2737",
+      "PPE 3003"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Psychology 149, 153, or 165, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 3795 Calling Bull: Discerning Fact from Fiction in Psychology and the Real World",
+    "courseid": "PSYC 3795",
+    "coursedescription": "Inspired by the course of the same name designed by Carl Bergstrom and Jevin West at the University of Washington, the aim of this seminar is to get students \"to think critically about the data and models that constitute evidence in the social and natural sciences\". We will reinforce critical thinking principles regarding probability and statistics, causality, data visualizations, and more, practicing how to apply these principles to both scientific papers and evidentiary claims made \"in the wild\" (in the news, on social media, etc). We will pay particular attention to topics and examples relevant to psychology. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3803 Advanced Seminar in Psychology: Modeling Choice Behavior",
+    "courseid": "PSYC 3803",
+    "coursedescription": "How do people decide and how can we study decision processes using formal mathematical and computational models? This course will address this question. It will examine popular quantitative modeling techniques in psychology, economics, cognitive science, and neuroscience, and will apply these techniques to study choice behavior. Students will learn how to test the predictions of choice models, fit the models on behavioral data, and quantitatively examine the goodness-of-fit. They will also get practice formulating their own models for describing human behavior. This class will have a major programming component, however no prior programming experience is required. Fall Also Offered As: PPE 4803 , PSYC 4803 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3900 Behavioral Biology of Women Seminar",
+    "courseid": "PSYC 3900",
+    "coursedescription": "A course that explores female behavior focusing on evolutionary, physiological,and biosocial aspects of women's lives from puberty, through reproductive processes such as pregnancy, birth, lactation to menopause and old age. Examples are drawn from traditional and modern societies and data from nonhuman primates are also considered. Fall or Spring Prerequisite: PSYC 2900 OR BIOL 1102 OR ANTH 1040 OR ANTH 1430 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 2900",
+      "BIOL 1102",
+      "ANTH 1040",
+      "ANTH 1430"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3931 Learning to Read Minds – Discovering the Brain Through Improv",
+    "courseid": "PSYC 3931",
+    "coursedescription": "Research has shown that improvisational theater can enhance cognitive processes like creativity and flexibility. This upper-level seminar explores cognitive neuroscience topics through the experiential lens of improvisational theater. Students will learn about the brain – particularly how we understand others’ minds – and apply improv exercises to illustrate and deepen that understanding. The course balances academic rigor with hands-on practice, maintaining an accessible approach to complex concepts. Classes meet twice weekly: the first meeting introduces a neuroscience concept with discussion of research, and the second meeting engages students in applied improv theater exercises related to that concept. Part of this class happens \"on stage\". By the end of the seminar, students should be able to explain key principles of social and cognitive neuroscience (e.g. theory of mind, empathy, creativity, communication) and demonstrate them through improv activities. The course is experiential and will be graded through a combination of participation, written reflexion and science based conceptualization of new improv excercises. Fall, even numbered years only Prerequisite: PSYC 0001 OR NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001",
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3990 Sleep and Sleep Disorders",
+    "courseid": "PSYC 3990",
+    "coursedescription": "This class will provide an introduction to sleep and sleep disorders, focusing on current research in the field. Students will learn about the neurobiology of sleep/wake regulation, the relationship between sleep and memory and how sleep is related to physical and mental health. Sleep disorders, including sleep apnea, insomnia, and narcolepsy will be covered in terms of pathophysiology, assessment and treatment. Summer Term Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 3991 TEST TEST TESTING",
+    "courseid": "PSYC 3991",
+    "coursedescription": "TESTING FOR ATTRIBUTES 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 4230 Introduction to functional magnetic resonance imaging (fMRI) research",
+    "courseid": "PSYC 4230",
+    "coursedescription": "This course provides a hands-on introduction to Functional magnetic resonance imaging (fMRI) research. fMRI is a non-invasive neuroimaging technique that allows one to track brain activity more or less in real time as a subject completes a cognitive task. MRI is a recent technology and fMRI is an even more recent use of that technology. While it has traditionally been used to establish functional localization (i.e., mapping what brain regions are involved in what tasks), fMRI can also be used to answer important questions such as how the brain goes about solving these tasks (i.e.,what are the computations the brain performs). fMRI has been used widely in the field of cognitive neuroscience, but it has also been applied in fields such as economics, marketing, sociology, and information systems to name a few. In this course, we will first cover the basics of MR physics in order to establish how fMRI works. We will then discuss considerations for fMRI experimental design. We will collect some fMRI data. We will spend the bulk of the course working on fMRI data analysis. By the end of this course, you should have the basic skills needed to collect and analyze an fMRI dataset. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 4281 Computational Neuroscience Lab",
+    "courseid": "PSYC 4281",
+    "coursedescription": "This course will focus on computational neuroscience from the combined perspective of data collection, data analysis, and computational modeling. These issues will be explored through lectures as well as Matlab-based tutorials and exercises. The course requires no prior knowledge of computer programming and a limited math background, but familiarity with some basic statistical concepts will be assumed. The course is an ideal preparation for students interested in participating in a more independent research experience in one of the labs on campus. Fall Also Offered As: NRSC 3334 , PSYC 3281 Prerequisite: NRSC 1110 1 Course Unit",
+    "course-prerequsities": [
+      "NRSC 1110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is an ideal preparation for students interested in participating in a more independent research experience in one of the labs on campus."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 4290 Big Data, Memory and the Human Brain",
+    "courseid": "PSYC 4290",
+    "coursedescription": "This course fulfills the research experience requirement in the psychology major. Advances in brain recording methods over the last decade have generated vastly more brain data than had been collected by neuroscientists during the previous century. To understand the human brain, scientists must now use computational methods that exploit the power of these huge data sets. This course will introduce you to the use of big data analytics in the study of human memory. Through hands-on Python-based programming projects, we will analyze very large data sets both to replicate existing phenomena and to make new discoveries. Programming experience in python is required for this course. Fall, even numbered years only Also Offered As: COGS 4290 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 4310 Research Experience in Cognitive Psychology",
+    "courseid": "PSYC 4310",
+    "coursedescription": "Students will work in small groups to develop, empirically test, and report on a research question in the field of cognitive psychology. Through this process,students will learn how to to conduct and report a psychological study, including the appropriate statistical tests. Class discussions will help students craft their projects, and in-class presentations will provide the opportunity to develop and refine presentation skills. Psychology majors only. Class size is limited to 16 students. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Psychology majors only.",
+        "Class size is limited to 16 students."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 4340 Research Experience in Perception",
+    "courseid": "PSYC 4340",
+    "coursedescription": "In this research course, students will begin by first replicating earlier experiments to measure human visual memory capacity. After several class discussions to discuss ideas, each student will design and conduct their own experiment to further investigate visual and/or familiarity memory. Fall or Spring Also Offered As: VLST 2120 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 4440 Sexuality and Attraction Research Experience Course",
+    "courseid": "PSYC 4440",
+    "coursedescription": "The overarching goal of this course is to offer a practicum (hands-on experience) in designing, conducting, and reporting a piece of psychological research. This objective will be met principally through participation in a group research project, class discussions related to the project and various exercises focusing on individual components of the research process. There are additional goals as well. One is to enable you to think critically (though not disparagingly) about other people’s research, all with the hope of eventually applying the the self-same critical acumen to some future work of your own. This objective will be met primarily through class lectures and discussions of the assigned readings. I also hope that our interactions throughout the course will be conducive to developing (and exchanging) creative ideas of your own. Lastly, the course aims to offer an informal introduction to research design and research ethics. This objective will be met primarily through class discussions, group project, exercises, and some additional readings. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 4450 Advanced Research Topics in Technology and the Good Life",
+    "courseid": "PSYC 4450",
+    "coursedescription": "In this research seminar, advanced undergraduates who have taken Technology and the Good Life design and carry out empirical studies on the impact of technology on motivation, behavior, and well-being. These studies can be either correlational or experimental, and may address topics in artificial intelligence, social media, or other technological advances. A special emphasis will be given to the goal of developing psychologically wise interventions that encourage a more satisfying integration of technology into daily life. Not Offered Every Year Prerequisites: Course only open to students who took PSYC3450, Technology and the Good Life, in Fall 2025 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC3450",
+      "FALL 2025"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 4460 Everyday Psychology",
+    "courseid": "PSYC 4460",
+    "coursedescription": "PSYC 4460 is an activity-based course with three major goals. First, the course is an opportunity for psychology and cognitive science undergrad majors to develop their professional and science communication skills and share their enthusiasm for these topics with high school students at a nearby public high school in West Philadelphia. In this regard, Penn students will prepare demonstrations and hands-on activities to engage local high school students, increase their knowledge in functions of the mind and brain, providing insights that may promote well being for the high school students and their community. This will be accomplished as students design and execute hands-on/minds-on activities on a range of psychology topics. There will be 10 sessions across the semester for these lessons, allowing the college and high school students to develop a consistent teacher-learner relationship. Second, students will explore the literature that discusses the need for better bridges between scientific research and the broader community. Discussions will incorporate the students' experiences, including challenges and rewards, as they bring psychology lessons to local youth. This academic portion of the course will include guest lectures from the Penn community who actively engaged in community partnerships. Third, students will be challenged to consider solutions for any problems that they encounter using a Theory of Change framework. This aspect of the course will result in a final project in which students much create logical, realistic, evidence-based links between interventions, indicators of change, and ultimate impacts to mitigate the problems. Fall Prerequisite: PSYC 0001 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 0001"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 4462 Research Experience in Abnormal Psychology",
+    "courseid": "PSYC 4462",
+    "coursedescription": "This is a two-semester course starting in the Fall. Class size limited to 8-10 students. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Class size limited to 8-10 students."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 4463 Research Experience Course in Clinical Psychological Data Analysis",
+    "courseid": "PSYC 4463",
+    "coursedescription": "This is a semester-long research experience class on the analysis of data from clinical trials and epidemiological studies to better understand topics relevant to clinical psychology and mental health. The class will primarily focus on practical application of data analytic skills to understand psychological phenomenon, including analysis of existing clinical datasets using statistical analysis tools such as R Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 4901 Research Practicum in Cognitive Science",
+    "courseid": "PSYC 4901",
+    "coursedescription": "Research Practicum is a six-week half-credit course that facilitates students’ entry into research in cognitive science. Students complete a small project of their own devising, from hypothesis generation to report writing, and attend weekly guest lectures from graduate students and post-docs in cognitive science labs that are looking for undergraduate research assistants. Practicum has a 'flipped' classroom. Before class each week, students watch video lectures that will help them implement their project; in-person class is for asking questions about the week’s lecture, and to work on the week’s assignment for the student’s project, with help from the instructor and TA as needed. Each week, we will also have a guest lecturer from the lab of a MindCORE faculty affiliate. The main product – pieces of which the student submits every week – is a 4-5 page paper reporting the study they conducted. Each week, students will also write a 150 word summary/reflection on the guest lecture that week. Fall or Spring Also Offered As: COGS 1770 , LING 1770",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": ".5 Course Units"
+    }
+  },
+  {
+    "coursename": "PSYC 4997 Senior Honors Seminar in Psychology",
+    "courseid": "PSYC 4997",
+    "coursedescription": "Open to senior honors candidates in psychology. A two-semester sequence supporting the preparation of an honors thesis in psychology. Students will present their work in progress and develop skills in written and oral communication of scientific ideas. Prerequisite: Acceptance into the Honors Program in Psychology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "PSYC 4998 Mentored Research",
+    "courseid": "PSYC 4998",
+    "coursedescription": "Mentored research involving data collection. Students do independent empirical work under the supervision of a faculty member, leading to a written paper. Normally taken in the junior or senior year. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  },
+  {
+    "coursename": "PSYC 4999 Honors Thesis Empirical Research",
+    "courseid": "PSYC 4999",
+    "coursedescription": "The Honors Program has been developed to recognize excellence in psychology among Penn undergraduates and to enhance skills related to psychological research. The 4998 credit signifies an Honors Independent Study, completed as part of the Honors Program. The honors program involves: (a) completing a year-long empirical research project in your senior year under the supervision of a faculty member (for a letter grade). This earns 2 cu's. (b) completing a second term of statistics (for a letter grade) before graduation. (c) participating in the year-long Senior Honors seminar (for a letter grade). This seminar is designed especially for Psychology Honors majors; this receives a total of 1 cu. (d) participating in the Undergraduate Psychology Research Fair in the Spring semester, at which honors students present a poster and give a 15-minute talk about their research. (e) a total of 15 cu's in psychology is required. Students will be selected to be part of the Honors Program in the Spring of their junior year (see application process online) Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  },
+  {
+    "coursename": "PSYC 5110 Probabilistic Models of Perception",
+    "courseid": "PSYC 5110",
+    "coursedescription": "How does vision work? What computations should be performed on images to support visual tasks? What computations do biological and engineered vision systems actually use? This course will provide an in-depth treatment of several topics in vision with implications for both biological and human-engineered systems. We will develop an understanding of select visual abilities in humans and in other creatures from around the animal kingdom (praying mantises, cuttlefish, etc.) and we will show how computational solutions that emerge from the study of biological systems can improve performance in engineered systems like smartphone cameras. The course will provide an introduction to useful tools like signal detection theory, dimensionality reduction, and optimal estimation theory and show how these tools are applied to the covered topics. Some programming experience is desirable. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5210 Judgment & Decisions",
+    "courseid": "PSYC 5210",
+    "coursedescription": "Thinking, judgment, and personal and societal decision making, with emphasis on fallacies and biases. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5250 Controversies in Psychology and Neuroscience",
+    "courseid": "PSYC 5250",
+    "coursedescription": "In this seminar, we will discuss several recent controversies in psychology and neuroscience, for example: \"p-hacking,\" replicability, methodological terrorists, neural activity in dead salmon and failures to control the false positive rate in neuroimaging, \"voodoo correlations\" and double dipping, whether Tic-Tacs can improve self-control and whether reading \"old\" makes you walk slower. Our goal is not just to engender ennui and/or schadenfreude, but also to ask what we can learn from these discussions about how to do science in the most rigorous, reproducible manner possible. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5390 Theoretical and Computational Neuroscience",
+    "courseid": "PSYC 5390",
+    "coursedescription": "This course will develop theoretical and computational approaches to structural and functional organization in the brain. The course will cover: (i) the basic biophysics of neural responses, (ii) neural coding and decoding with an emphasis on sensory systems, (iii) approaches to the study of networks of neurons, (iv) models of adaptation, learning and memory, (v) models of decision making, and (vi) ideas that address why the brain is organized the way that it is. The course will be appropriate for advanced undergraduates and beginning graduate students. A knowledge of multi-variable calculus, linear algebra and differential equations is required (except by permission of the instructor). Prior exposure to neuroscience and/or Matlab programming will be helpful. Spring Also Offered As: BE 5300 , NGG 5940 , NRSC 5585 , PHYS 5585 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A knowledge of multi-variable calculus, linear algebra and differential equations is required (except by permission of the instructor)."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 5410 Sleep and Memory",
+    "courseid": "PSYC 5410",
+    "coursedescription": "Why do we sleep? This question has puzzled scientists for centuries, but one reason emerging from research in the area is that sleep is critical for forming, retaining, and transforming our memories over time. This seminar explores human and animal research in psychology and neuroscience that has shed light on how sleep carries out these functions. Topics will include the different stages of sleep and their roles in memory consolidation, the neural systems involved in representing memory at different timescales, and the role of dreams in processing memories. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5462 Special Topics in Clinical Psychology: Transdiagnostic Processes in Psychopathology",
+    "courseid": "PSYC 5462",
+    "coursedescription": "For more than a century, psychopathology has been organized according to clinical syndromes. Although syndromes like schizophrenia, major depression, and ADHD have some utility, there is growing concern that they may be deeply flawed in ways that hamper real progress in research and treatment. In recent years, an alternative approach has been gaining momentum in the field. Rather than focusing on syndromes, psychologists increasingly are studying—and treating—basic processes that cut across traditional mental disorder categories. This course explores psychopathology at the level of these processes. We will examine disruptions in human emotion, cognition, movement, behavior, and social interaction that underlie symptoms of mental illness. We will consider how disruptions in these processes are being defined and measured, what methods have been (and could be) used to study them, and how findings from basic research on these mechanisms may be translated into improved clinical interventions. Our goal will be to break free of the DSM-5 model of mental disorders and to explore, critique, and debate what transdiagnostic models have to offer for our understanding of psychopathology. As a 5000-level course, this class is suitable for both graduate and advanced undergraduate students. The course will follow a seminar format in which student discussion plays a central role. All readings will be original scientific articles, and assignments will consist of written papers and an oral presentation. Not Offered Every Year Prerequisite: PSYC 1462 AND STAT 1110 Corequisites: PSYC 4462 , PSYC 4998 1 Course Unit",
+    "course-prerequsities": [
+      "PSYC 1462",
+      "STAT 1110"
+    ],
+    "course-corequisites": [
+      "PSYC 4462",
+      "PSYC 4998"
+    ],
+    "other": {
+      "notes": [
+        "Not Offered Every Year Prerequisite: PSYC 1462 AND STAT 1110 Corequisites: PSYC 4462 , PSYC 4998 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 5470 Foundations of Social, Cognitive, and Affective Neuroscience",
+    "courseid": "PSYC 5470",
+    "coursedescription": "This course is designed to introduce students to the interdisciplinary field of social, cognitive and affective neuroscience. We begin with the basics of neurons, synapses and neurotransmission and the functional anatomy of the human brain. We then move on to neuroscience methods including cellular recordings, EEG/ERP, lesion methods, structural and functional neuroimaging and brain stimulation. The remainder of the course covers the neural systems involved in emotion, social cognition, executive function, learning and memory, perception and development. We focus on how our understanding of these systems has emerged from the use of the methods studied earlier. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5490 A Neuroscience Perspective of Artificial Intelligence",
+    "courseid": "PSYC 5490",
+    "coursedescription": "This seminar course asks what would be required to achieve Strong Artificial Intelligence, also referred to as Artificial General Intelligence (AGI), in light of what we know about the emergence of life and mind in the universe. Specifically, we will consider the question whether it is possible for machines to become self-aware by asking what Natural Intelligence is, and considering what it implies about whether and how AGI can be achieved. To grapple with this question, in Part I of the course we will examine what is known about the emergence of Natural Intelligence in the universe. This study includes the phenomena of: (1a) Abiogenesis, (1b) The Universal Role of Entropy and Information in Evolution, (1c) Signal Transduction, intracellular signaling, and Mechanism of Stimulus-Response Coupling in Unicellular Organisms; (2a) The Evolution of the Metazoa during the Cambrian Explosion, (2b) The Consequences of Motility and Preditor - Prey Dynamics in the Metazoa for the Evolution of Complex Nervous Systems and Behaviors; (3a) The Implications of Invertebrate Navigation by Dead Reckoning for Understanding Insect Behavior, (3b) Insect Behavior in Relation to Robotics; (4a) Origin of the Vertebrates and the Evolution of the Vertebrate Nervous System, (4b) The Mammalian Neocortex; (5) Molecular Mechanisms of Synaptic Plasticity; (6) The Evolution of the Hominins and the Hominin Brain; (7) Higher-Order Thinking and Epistemology; (8a) Meta-awareness as the Foundation of Human Consciousness, (8b) The Fluidity of Mind Embodiment, (8c) Theories and Philosophy of Human Consciousness. (9a) Other Minds: The Atypical Nervous System of the Ctenophore and The Nervous System and Mind of the Octopus, (9b) Animal intelligence. (10a) The History and Trajectory of AI, (10b) Superintelligence, Human Cognitive Fluidity and the Existence of a Global Network of Human Superintelligence. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5510 Eye Movements in Perception, Language and Cognition",
+    "courseid": "PSYC 5510",
+    "coursedescription": "In this course, we examine how the recording of eye movements can provide a moment-by-moment record of perceptual, cognitive and linguistic processes. Four areas of research will be discussed: (1) task-based scene perception; (2) language processing (in both reading and spoken language); (3) category learning, and (4) decision making. In all of these domains, eyetracking research has led to a greater understanding of how attention and information selection supports real-time cognitive processes. Students will have access to eyetracking systems, giving them hands-on experience in designing, running, and analyzing eyetracking experiments. By the end of the semester, students will have collected pilot eyetracking data. Projects will be done individually or within small research teams. Requirements: Weekly readings; class presentations and discussion; and a paper. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5570 Neuroscience, Ethics & Law",
+    "courseid": "PSYC 5570",
+    "coursedescription": "How does the neuroscience of human decision-making and emotion impact our understanding of ethics and law? What can neuroscience tell us about why people find actions moral or immoral, worthy of praise or punishment? What, if anything, can it tell us normatively about morality, agency and responsibility? And what other insights might neuroscience offer regarding other morally and legally relevant phenomena such as stereotyping and bias, the causes of antisocial behavior and the detection of deception? 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5620 Anxiety Disorders, OCD, and PTSD: Theory, Diagnosis, and Evide",
+    "courseid": "PSYC 5620",
+    "coursedescription": "Schizophrenia is the same as “split personality”... or is it? People with mental illness are frequently violent… or are they? “Shock” therapy is barbaric...or is it? The “answers” to these questions as portrayed by the media often reinforce common myths and stereotypes about psychopathology, its treatments, and its treatment providers. These myths can have a tremendous impact on individuals and society. This course was designed to help students develop awareness of popular myths and stereotypes depicted in the media about psychopathology, treatment and providers; the ability to identify and understand the sources and impact of media representations of psychopathology; and knowledge about current empirical research on media depictions of psychopathology and their relationship to stigma. By the end of the course, students should be able to identify the many forms of media in which psychopathology is depicted; recognize common myths; critique the common and specific ways in which particular mental disorders are inaccurately or stereotypically portrayed in the media; evaluate the potential impact of psychopathology depictions on individuals and society; and describe current efforts to assess and reduce the stigmatization of mental health through the media. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5730 Seminar in Neuroeconomics",
+    "courseid": "PSYC 5730",
+    "coursedescription": "This seminar will review recent research that combines economic, psychological, and neuroscientific approaches to study decision-making. The course will focus on our current state of knowledge regarding the neuroscience of decision-making, and how evidence concerning the neural processes associated with choices might be used to constrain or advance economic and psychological theories of decision-making. Topics covered will include decisions involving risk and uncertainty, decisions that involve learning from experience, decisions in strategic interactions and games, and social preferences. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5770 Attitude & Behavior Prediction",
+    "courseid": "PSYC 5770",
+    "coursedescription": "This course surveys classic and contemporary theory and research in the area of attitude formation and change and examines the principles of social information processing that underlie attitudes. We cover some of the basic concepts of the psychology of attitudes, including attitude structure and measurement at both conscious and unconscious levels. After this introduction, we will review persuasion approaches, the role of affect and fear in communication, influences of past behavior, to finally turn to models that explain behavioral change and allow researchers and practitioners to design ways of modifying recipients' actions. Not Offered Every Year Also Offered As: COMM 5770 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 5790 Experimental Methods of Perception",
+    "courseid": "PSYC 5790",
+    "coursedescription": "The course will be lab based, and designed to introduce students to the major experimental 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 6000 Proseminar in General Psychology",
+    "courseid": "PSYC 6000",
+    "coursedescription": "Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "Choice of half or full course units each sem. covering a range of subjects and approaches in academic psychology."
+    }
+  },
+  {
+    "coursename": "PSYC 6090 Systems Neuroscience",
+    "courseid": "PSYC 6090",
+    "coursedescription": "This course provides an introduction to what is known about how neuronal circuits solve problems for the organism and to current resarch approaches to this question. Topics include: vision, audition, olfaction, motor systems, plasticity, and oscillations. In addition, the course aims to provide an overview of the structure of the central nervous system. A number of fundamental concepts are also discussed across topics, such as: lateral inhibition, integration, filterting, frames of reference, error signals, adaptation. The course format consists of lectures, discussions, readings of primary literature, supplemented by textbook chapters and review articles. Spring Also Offered As: NGG 5730 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 6110 Applied Regression and Analysis of Variance",
+    "courseid": "PSYC 6110",
+    "coursedescription": "An applied graduate level course in multiple regression and analysis of variance for students who have completed an undergraduate course in basic statistical methods. Emphasis is on practical methods of data analysis and their interpretation. Covers model building, general linear hypothesis, residual analysis, leverage and influence, one-way anova, two-way anova, factorial anova. Primarily for doctoral students in the managerial, behavioral, social and health sciences. Permission of instructor required to enroll. Fall Also Offered As: BSTA 5500 , STAT 5000 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of instructor required to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 6120 Introduction to Nonparametric Methods and Log-linear Models",
+    "courseid": "PSYC 6120",
+    "coursedescription": "An applied graduate level course for students who have completed an undergraduate course in basic statistical methods. Covers two unrelated topics: loglinear and logit models for discrete data and nonparametric methods for nonnormal data. Emphasis is on practical methods of data analysis and their interpretation. Primarily for doctoral students in the managerial, behavioral, social and health sciences. Permission of instructor required to enroll. Spring Also Offered As: STAT 5010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of instructor required to enroll."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 6980 Laboratory Rotation",
+    "courseid": "PSYC 6980",
+    "coursedescription": "Lab rotation for psychology grad students. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-3 Course Units"
+    }
+  },
+  {
+    "coursename": "PSYC 6999 Individual Research for First-Year Graduate Students",
+    "courseid": "PSYC 6999",
+    "coursedescription": "Individual Research for First-Year Graduate Students Two Term Class, Student must enter first term; credit given after both terms are complete",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-4 Course Units"
+    }
+  },
+  {
+    "coursename": "PSYC 7030 Special Topics in Psychology",
+    "courseid": "PSYC 7030",
+    "coursedescription": "Special Topics in Psychology. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 7040 Research Methods and Statistical Procedures for Social and Clinical Sciences",
+    "courseid": "PSYC 7040",
+    "coursedescription": "This course has three primary objectives: 1) developing criteria and strategies for strong inference of causal relationships in social and clinical psychology research; 2) examining the array of research designs employed in the social/clinical sciences together with the threats to internal and external validity associated with each; 3) learning and applying statistical analytical methods appropriate for questions in the social/clinical sciences. The course will employ a seminar format and a project-oriented approach to learning. Students will be encouraged to utilize examples from their own research programs in applying the design and analysis concepts covered in the course. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 7050 Neuroethics",
+    "courseid": "PSYC 7050",
+    "coursedescription": "Neuroscience is increasingly affecting all aspects of human life, from the relatively familiar medical applications in neurology and psychiatry, to new applications in education, business, law,and the military. Today's neuroscience graduate students will be among the scientists, citizens,and policymakers who will lead society through the maze of decisions regarding the appropriate uses of neuroscience.This course provides a survey of the key ethical, legal,and social issues at the intersection of neuroscience and society.It will include a combination of traditional classroom lectures, discussion and debates, as well as an online component coordinated with a course at Wisconsin's Neuroscience and Public Policy graduate program. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 7090 Special Topics in Clinical Psychology",
+    "courseid": "PSYC 7090",
+    "coursedescription": "A developmental approach to the study of psychopathology focuses on how psychological processes from normal to abnormal developmental trajectories. In this seminar we will cover theory, methods, and key constructs in the study of developmental psychopathology. Readings will include seminal empirical papers and chapters. Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 7110 Regression & ANOVA",
+    "courseid": "PSYC 7110",
+    "coursedescription": "A graduate-level course on the theory and application of multiple regression and analysis of variance. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 7120 Regression & ANOVA II",
+    "courseid": "PSYC 7120",
+    "coursedescription": "An advanced graduate-level course on the theory and application of multiple regression and analysis of variance. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 7440 Brain Development & Society",
+    "courseid": "PSYC 7440",
+    "coursedescription": "In this seminar, we will explore a series of topics in developmental neuroscience, focusing on recent scientific progress and its social relevance. Two major topics will be covered: Autism and other forms of “neurodiversity”, including gender-nonconformity, and socioeconomic status. For both of these topics we will examine the state of the fast-developing science, the implications of the science for policy, and the relations between the developmental neuroscience and society more broadly (issues such as identity, stigma and politics). 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 7450 Special Topics in Cognitive Neuroscience",
+    "courseid": "PSYC 7450",
+    "coursedescription": "Special Topics in Cognitive Neuroscience Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 7470 Contemporary Research Issues in Social, Cognitive and Affective Neuroscience",
+    "courseid": "PSYC 7470",
+    "coursedescription": "This course is intended to take you from a textbook-level acquaintance with psychology and neuroscience to critical engagement with the primary literature, through lectures, discussion and short written assignments. You will learn to extract, from the dense and detail-laden pages of a journal article, its contribution to the “big picture” of human neuroscience. You will also learn to recognize problematic research practices when they arise, and to analyze and communicate about the strengths and weaknesses of research articles. Spring Also Offered As: BIOE 7470 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 8100 Psychodiagnostic Testing",
+    "courseid": "PSYC 8100",
+    "coursedescription": "This course provides a basic introduction to the theories and tools of psychological assessment. Students learn how to administer and interpret a number of standard cognitive, neuropsychological and personality tests including the WAIS-III, WMS-III, WIAT-II, Wisconsin Card Sort, Minnesota Multiphasic Personality Inventory (MMPI) and the Millon Index of Personality Styles. Attention is given to serving as a consultant, differential diagnosis, case conceptualization, and integrating test results into formal but accessible reports. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 8110 Psychodiagnostic Interviewing",
+    "courseid": "PSYC 8110",
+    "coursedescription": "This course, usually taken simultaneously with Psychology 810, provides a basic introduction to psychodiagnostic interviewing and differential diagnosis. Students learn to take clinical histories and to administer a number of standardized diagnostic interviews, including the mental status exam, the SCID I and II for DSM-IV, the ADIS, and various clinician rating scales such as the Hamilton Rating Scale for Depression. Attention is also given to self-report symptom inventories such as the Beck Depression Inventory and the Symptom Checklist-90-Revised as well as to computerized diagnostic tools. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 8150 Introductory Practicum",
+    "courseid": "PSYC 8150",
+    "coursedescription": "Students typically complete 8-10 full assessment batteries on complex patients referred from a number of different sources in the community. This practicum offers intensive supervision, with live (in the room) supervision of every trainee’s first case, and live peer-supervision of their second case. Throughout their time in the practicum they receive close supervision of every case, including checking the scoring of tests and measures, and close reading and editing of every report. Students do a final feedback session with every patient which the supervisor co-leads at the beginning of the year, and observes in the room throughout the rest of the year, thus ensuring direct observation of every trainee throughout the year. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students do a final feedback session with every patient which the supervisor co-leads at the beginning of the year, and observes in the room throughout the rest of the year, thus ensuring direct observation of every trainee throughout the year."
+      ]
+    }
+  },
+  {
+    "coursename": "PSYC 8200 Advanced Practicum",
+    "courseid": "PSYC 8200",
+    "coursedescription": "Intensive studies of single individuals including interviews, tests, and experiments; also clinical experience at appropriate community agencies. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "PSYC 9999 Individual Study and Research",
+    "courseid": "PSYC 9999",
+    "coursedescription": "Individual Study and Research Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-4 Course Units"
+    }
+  }
+]

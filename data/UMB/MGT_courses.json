@@ -1,0 +1,128 @@
+[
+  {
+    "coursename": "Managing Organizations",
+    "courseid": "MGT303",
+    "coursedescription": "Examines theory, research, and practice in the management of organizations. Students learn to make use of analytical tools for recognizing diagnosing, and acting on managerial problems related to organizations to their objectives, and to the development of human resources. The course emphasizes at the macro level, such as organizational analysis and design, and at the micro level, such as managerial behavior motivation, and interpersonal relations.",
+    "course-prerequsities": [
+      "BC 290",
+      "ACM 299"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Business Environments and Public Policy",
+    "courseid": "MGT330",
+    "coursedescription": "Examines the interaction of business and government in the contemporary public policy process in the United States. The course helps students become familiar with the private sector's effect on the public sector as well as the public's effect on the private. It also examines how government promotes, regulates, and competes with private enterprise.",
+    "course-prerequsities": [
+      "BC 290",
+      "ACM 299"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Managerial Ethics and Social Issues",
+    "courseid": "MGT331",
+    "coursedescription": "Examines the kinds of ethical principles (e.g. justice, equality, rights and obligations, and the public interest) generally offered in justification of ethical judgments. Students learn to apply these principles to the social and economic issues that managers face, such as pollution, safety, discrimination, and fiduciary and product responsibilities. The course includes a research paper on an ethical problem in management.",
+    "course-prerequsities": [
+      "MGT 303",
+      "BC290"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "justice, equality, rights and obligations, and the public interest) generally offered in justification of ethical judgments."
+      ]
+    }
+  },
+  {
+    "coursename": "Sport Entrepreneurship: Innovation, Design and Start-Up of Sport-Themed Enterprises",
+    "courseid": "MGT415",
+    "coursedescription": "This course will expose students and allow you to practice the new 21st century entrepreneurial management skills in sport-related businesses, including organizational learning and change, innovative collaborations, and building viable business models.",
+    "course-prerequsities": [
+      "MGT 303",
+      "MATH 134",
+      "MATH 135",
+      "MATH 140",
+      "MATH 141",
+      "MATH 145",
+      "MATH 146",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Mngng Global Environ",
+    "courseid": "MGT434",
+    "coursedescription": "This course is designed to familiarize students with the world of international business. It introduces students to the special problems and issues firms encounter by virtue of operations abroad. It focuses on such concerns as relationships with host governments, and the complexities of planning, communicating, and controlling in the international arena.",
+    "course-prerequsities": [
+      "MGT 303",
+      "BC 290"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Topics in Managing Organizations",
+    "courseid": "MGT450",
+    "coursedescription": "Treats particular current issues and topics in the areas of human resource management, entrepreneurship, organizational behavior, and/or international management. Important, current topics, such as re-engineering, innovation, downsizing, or globalization often overlap two or more of the above areas. These advanced topics build on earlier courses and explore topics in depth. The specific topics are announced prior to pre-registration.",
+    "course-prerequsities": [
+      "MGT 303",
+      "BC 290"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Entrepreneurship and Innovation in Organizations",
+    "courseid": "MGT470",
+    "coursedescription": "Introduces students to entrepreneurship and small business management. This course focuses on writing business plans, analyzing financial data, and exploring legal issues in the creation of new enterprises. The course also provides students with an opportunity to evaluate their career interests and personal skills in the area of entrepreneurship and small business management.",
+    "course-prerequsities": [
+      "MGT 303",
+      "BC 290"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course also provides students with an opportunity to evaluate their career interests and personal skills in the area of entrepreneurship and small business management."
+      ]
+    }
+  },
+  {
+    "coursename": "Management Internship",
+    "courseid": "MGT480",
+    "coursedescription": "Provides students with opportunities for full- or part-time work experience in a management setting. On-site supervisors and faculty sponsors provide guidance and supervision for each intern.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Strategic Management",
+    "courseid": "MGT490",
+    "coursedescription": "Focuses on the organization as a whole from a perspective that takes into account both the role of top management and the future of the organization. The course is designed to be the capstone course in the student's College of Management curriculum. It develops an approach for identifying the mission of the organization, exploring its external environment for opportunities and risks, and relating these to internal strengths and weaknesses.",
+    "course-prerequsities": [
+      "MGT 303",
+      "MKT 301",
+      "MSIS 301",
+      "MGT 331",
+      "LEAST 80"
+    ],
+    "course-corequisites": [
+      "LEAST 80"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "College of Management Honors Thesis Seminar",
+    "courseid": "MGT499",
+    "coursedescription": "The CM honors research seminar and thesis Program is a two-semester course sequence. In this seminar, students successfully complete a research while working closely with a faculty advisor to define the project, which builds upon work completed in the per-requisite course, CM Honors Research Seminar. The honors thesis project stretches and grows a student's capabilities. Therefore, the program is structured around a series of assignments and milestones during which students will work with guidance from a faculty advisor and program coordinator toward a project that meets course goals.",
+    "course-prerequsities": [
+      "SCSM 498",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "coursename": "Creative Thinking",
+    "courseid": "CRCRTH602",
+    "coursedescription": "This course seeks to increase the participants' understanding of creativity, to improve their creative problem-solving skills, and to enhance their ability to promote these skills in others, in a variety of educational settings. Students participate in activities designed to help develop their own creativity and discuss the creative process from various theoretical perspectives. Readings are on such topics as creative individuals, environments that tend to enhance creative functioning, and related educational issues. Discussions with artists, scientists, and others particularly involved in the creative process focus on their techniques and on ways in which creativity can be nurtured.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Seminar in Critical Thinking",
+    "courseid": "CRCRTH611",
+    "coursedescription": "This course involves research on and discussion of important issues of current concern about critical thinking. Issues include critical thinking; logic and knowledge; critical thinking about facts and about values; knowledge in its social context; teaching to be critical; and evaluating critical thinking skills. The course addresses these issues through cases of topical interest.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course addresses these issues through cases of topical interest."
+      ]
+    }
+  },
+  {
+    "coursename": "Reflective Practice",
+    "courseid": "CRCRTH688",
+    "coursedescription": "Reflective practitioners in any profession pilot new practices, take stock of outcomes and reflect on possible directions, and make plans to revise their practice accordingly. They also make connections with colleagues who model new practices and support the experimenting and practice of others. Students in this course gain experiences and up-to-date tools for reflective practice through presentations, interactive and experiential sessions, and, optionally, supervised pilot activities in schools, workplaces, and communities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Action Research for Educational, Professional & Personal change",
+    "courseid": "CRCRTH693",
+    "coursedescription": "This course covers techniques for and critical thinking about the evaluation of changes in educational practices and policies in schools, organizations, and informal contexts. Topics include quantitative and qualitative methods for design and analysis, participatory design of practices and policies in a framework of action research, institutional learning, the wider reception or discounting of evaluations, and selected case studies, including those arising from semester-long student projects.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Synthesis of Theory and Practice Seminar",
+    "courseid": "CRCRTH694",
+    "coursedescription": "This seminar provides participants with an opportunity to review and reflect on their work in the program and its impact on their current and future professional and personal lives, through a final project that demonstrates knowledge and integration of critical and creative thinking skills, processes, and strategies. To facilitate the synthesis of ideas and the identification of a final project option, the seminar begins with group experiences. Students choosing the same final project option meet in small groups weekly to present their plans and progress notes for support and critique. A three-page final project description is presented early in the course, and all projects are presented during the last four weeks.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "coursename": "CHEM 1340La or b, General Chemistry Laboratory I Staff",
+    "courseid": "CHEM 1340La",
+    "coursedescription": "An introduction to basic chemistry laboratory methods. Techniques required for quantitative analysis of thermodynamic processes and the properties of gases. To accompany or follow CHEM 161 or 163. May not be taken after a higher-numbered laboratory course. SC RP 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 1360La or b, General Chemistry Laboratory II Staff",
+    "courseid": "CHEM 1360La",
+    "coursedescription": "Introduction to rate and equilibrium measurements, acid-base chemistry, synthesis of inorganic compounds, and qualitative/quantitative analysis. After CHEM 134L or the equivalent in advanced placement. To accompany or follow CHEM 165 or 167. May not be taken after a higher-numbered laboratory course. SC RP 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 1610a or b, General Chemistry I Staff",
+    "courseid": "CHEM 1610a",
+    "coursedescription": "A comprehensive survey of modern descriptive, inorganic, and physical chemistry. Atomic theory, stoichiometry, thermochemistry, chemical periodicity, concepts in chemical bonding, and the shapes of molecules. Appropriate either as a first chemistry course or for students with one year of high school chemistry. Attendance at a weekly discussion section required. Normally accompanied by CHEM 134L. QR , SC RP 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 1650a or b, General Chemistry II Staff",
+    "courseid": "CHEM 1650a",
+    "coursedescription": "Topics include kinetics, chemical equilibrium, acid-base chemistry, free energy and entropy, electrochemistry, and nuclear chemistry. Attendance at a weekly discussion section required. Prerequisite: CHEM 161. Normally accompanied by CHEM 136L. Enrollment by placement only. QR , SC RP 0 Course cr HTBA",
+    "course-prerequsities": [
+      "CHEM 161",
+      "CHEM 136L",
+      "RP 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 1700a, Quantitative Foundations of General Chemistry Patrick Holland",
+    "courseid": "CHEM 1700a",
+    "coursedescription": "An advanced course emphasizing conceptual aspects and physical principles in general chemistry. Fulfills the general chemistry prerequisite for organic chemistry. Attendance at a weekly discussion section required. Enrollment by placement only. QR , SC HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 1710La, Quantitative Foundations of General Chemistry Lab Jonathan Parr and Laura Herder",
+    "courseid": "CHEM 1710La",
+    "coursedescription": "This laboratory affords students at the beginning of their science studies to have meaningful and foundational engagement with experimental chemistry. The lab equips students for further science laboratory classes and laboratory research in the sciences. The course is structured to take students with little or no prior exposure to practical work in the sciences through a series of experiments in which they use scientific apparatus and practice techniques that are core to experimental work in chemistry and other physical sciences. This includes experiments involving calorimetry, electrochemistry, volumetric analysis, computational chemistry, spectroscopy, and synthesis. Students finish with a strong grounding in laboratory safety and experimental design, as well as in the collection and recording of measured and observational data, in addition to exposure to the apparatus and software platforms common to many physical science laboratories. This lab qualifies students for the organic chemistry laboratory sequence (CHEM 222L/223L). Prerequisites: By course placement. This laboratory class is intended to accompany CHEM 1700 only and may not be taken by any student unless they are either enrolled in CHEM 1700 concurrently or have already completed CHEM 1700 and have not in either case completed a higher numbered Chemistry laboratory class, SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "CHEM 1700",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 1740a, Organic Chemistry for First Year Students I Staff",
+    "courseid": "CHEM 1740a",
+    "coursedescription": "An introductory course focused on current theories of structure and mechanism in organic chemistry, their development, and their basis in experimental observation. Open to first-year students with excellent preparation in chemistry, mathematics, and physics who have taken the department's advanced chemistry placement examination. Attendance at a weekly discussion section required. Normally accompanied by CHEM 222L. Enrollment by placement only. SC RP 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 1750b, Organic Chemistry for First Year Students II Scott Miller",
+    "courseid": "CHEM 1750b",
+    "coursedescription": "Continuation of CHEM 174. Survey of simple and complex reaction mechanisms, spectroscopy, organic synthesis, and the molecules of nature. Attendance at a weekly discussion section required. After CHEM 174. Normally accompanied by CHEM 223L. Enrollment by placement only. SC RP 0 Course cr MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2200a or b, Organic Chemistry Staff",
+    "courseid": "CHEM 2200a",
+    "coursedescription": "An introductory course covering the fundamental principles of organic chemistry. The laboratory for this course is CHEM 222L. After college-level general chemistry. Students who have earned a grade lower than C in general chemistry are cautioned that they may not be sufficiently prepared for this course. Usually followed by CHEM 221 or 230. SC RP 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2210b, The Organic Chemistry of Life Processes David Spiegel",
+    "courseid": "CHEM 2210b",
+    "coursedescription": "The principles of organic reactivity and how they form the basis for biological processes. The laboratory for this course is CHEM 223L. After CHEM 220. Students who have earned a grade lower than C in CHEM 220 are cautioned that they may not be sufficiently prepared for this course. SC RP 0 Course cr MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2220La or b, Laboratory for Organic Chemistry I Staff",
+    "courseid": "CHEM 2220La",
+    "coursedescription": "First term of an introductory laboratory sequence covering basic synthetic and analytic techniques in organic chemistry. Prerequisite: CHEM 136L or equivalent. After or concurrently with CHEM 174 or 220. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "CHEM 136L",
+      "CHEM 174",
+      "220",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2230Lb, Laboratory for Organic Chemistry II Christine DiMeglio",
+    "courseid": "CHEM 2230Lb",
+    "coursedescription": "Second term of an introductory laboratory sequence covering basic synthetic and analytic techniques in organic chemistry. Prerequisite: CHEM 222L. After or concurrently with CHEM 175, 221, or 230. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "CHEM 222L",
+      "CHEM 175",
+      "230",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 2260La, Advanced Chemistry Lab Christine DiMeglio",
+    "courseid": "CHEM 2260La",
+    "coursedescription": "An advanced course in chemistry laboratory technique intended to develop student independence and confidence with planning and executing experimental procedures, while performing synthetic and analytical experiments. The course includes workshops, interactions with specialists in instrumentation, library science, and safety, an individual project, and training in the use of various instrumentation and techniques. Students must have received a grade for General Chemistry Lab I and II (CHEM 134L and 136L), or their equivalents, such as a college course elsewhere or the Chemistry Department placement exam. Organic Chemistry Lecture I and II (CHEM 220 and 221) and Organic Chemistry Labs I and II (CHEM 222L and CHEM 223L), or their equivalents are also pre-requisites. Enrollment is limited; capped to 7 people. Please e-mail course instructor to be put on a waitlist if cap is reached. WR , SC RP TTh 1pm-5pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2510Lb, Inorganic Chemistry Laboratory Jonathan Parr",
+    "courseid": "CHEM 2510Lb",
+    "coursedescription": "Introductory laboratory course covering synthetic and physical characterization techniques in inorganic chemistry. Prerequisite: 222L; concurrently with or after CHEM 252. SC 0 Course cr F 2:30pm-3:20pm",
+    "course-prerequsities": [
+      "222L",
+      "CHEM 252",
+      "SC 0",
+      "F 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 2520b, Introductory Inorganic Chemistry James Mayer",
+    "courseid": "CHEM 2520b",
+    "coursedescription": "Principles and applications of modern inorganic chemistry. Introduction to some of the fundamental concepts of solid-state chemistry, coordination chemistry, bioinorganic chemistry, and organometallic chemistry. Prerequisite: college-level general chemistry. After or concurrently with CHEM 220 or by permission of instructor. May not be taken after CHEM 450, 452 , or 457. SC RP 0 Course cr MWF 10:30am-11:20am",
+    "course-prerequsities": [
+      "CHEM 220",
+      "CHEM 450",
+      "457",
+      "RP 0",
+      "MWF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "After or concurrently with CHEM 220 or by permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 3190b, Chemical Biology: Chemical Dissection & Reprogramming of Biological Systems Jason Crawford",
+    "courseid": "CHEM 3190b",
+    "coursedescription": "This course is organized around the central dogma of life, progressing from genes to proteins and higher-order cellular structures, including core application areas such as imaging, chemical genetics, activity-based protein profiling, and natural product discovery and biosynthesis. Prerequisites: CHEM 220 and CHEM 221. SC 0 Course cr TTh 9am-10:15am",
+    "course-prerequsities": [
+      "CHEM 220",
+      "CHEM 221",
+      "SC 0",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 3300La, Laboratory for Physical Chemistry I Staff",
+    "courseid": "CHEM 3300La",
+    "coursedescription": "Introduction to the tools and techniques of modern experimental physical chemistry, including analog/digital electronics, quantitative measurements of basic thermodynamic properties, and nuclear magnetic resonance spectrometry. After or concurrently with CHEM 328 or 332. SC RP 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 3310Lb, Laboratory for Physical Chemistry II Paul Cooper",
+    "courseid": "CHEM 3310Lb",
+    "coursedescription": "Application of physical methods to chemical analysis by spectroscopic and spectrometric techniques. Please see the course syllabus for details regarding course registration. After CHEM 330L. After or concurrently with CHEM 333. SC RP 0 Course cr F 1:30pm-2:30pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 3320a, Physical Chemistry with Applications in the Physical Sciences I Staff",
+    "courseid": "CHEM 3320a",
+    "coursedescription": "CHEM 332 is an introductory course to fundamentals of physical chemistry, with an emphasis on macroscopic phenomena in chemical, physical, and biological systems. This course covers topics including fundamental laws of thermodynamics, properties of gases, phase equilibrium and transition, properties of solutions, chemical equilibrium, and chemical kinetics. This course, together with CHEM 333, provides a foundation for understanding the connection between chemistry and physics as well as theoretical chemistry. Prerequisites: introductory physics ( PHYS 1700 , 1800 , or higher), college-level general chemistry ( CHEM 1610 /1650, or CHEM 1700 , and/or CHEM 163/167), and single-variable calculus (Math 1150, 1160, or upper-level MATH equivalents), all taken for a grade. May not be taken after CHEM 3280 . QR , SC RP 0 Course cr HTBA",
+    "course-prerequsities": [
+      "PHYS 1700",
+      "CHEM 1610",
+      "CHEM 1700",
+      "CHEM 163",
+      "MATH 1150",
+      "CHEM 3280",
+      "RP 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 3330b, Physical Chemistry with Applications in the Physical Sciences II Patrick Vaccaro",
+    "courseid": "CHEM 3330b",
+    "coursedescription": "Continuation of CHEM 332, including topics drawn from quantum mechanics, atomic/molecular structure, spectroscopy, and statistical thermodynamics. Prerequisite: CHEM 328 or 332, or permission of instructor. QR , SC RP 0 Course cr MWF 9:25am-10:15am",
+    "course-prerequsities": [
+      "CHEM 328",
+      "332",
+      "RP 0",
+      "MWF 9",
+      "25AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: CHEM 328 or 332, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* CHEM 4000a, Current Chemistry Seminar Sarah Slavoff and Ruth Son",
+    "courseid": "CHEM 4000a",
+    "coursedescription": "Designed to engage students in the Chemistry research-seminar program by providing requisite scientific guidance and a forum for directed discussion. Participants explore current avenues of chemical research as presented orally by the prime movers in the field, thereby exploring the frontiers of current knowledge while still retaining the structured environment of a classroom. May fulfill all or part of the senior requirement for the Chemistry major, as detailed in the program description in the YCPS. F 11:30am-1pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 4020a, Fundamentals of Transition Metal Chemistry James Mayer",
+    "courseid": "CHEM 4020a",
+    "coursedescription": "This half-term course covers the structures and properties of coordination compounds, and strategies for the design and analysis of new compounds. Elements of chelating ligands, spectroscopic methods, and magnetism are addressed. Prerequisites: Two terms of organic chemistry, and Chem 252 or equivalent. SC ½ Course cr TTh 9am-10:15am",
+    "course-prerequsities": [
+      "CHEM 252",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 4030b, Fundamentals of Organometallic Chemistry Nilay Hazari",
+    "courseid": "CHEM 4030b",
+    "coursedescription": "A half-term survey of the main principles of organometallic chemistry that enable students to understand basic concepts in the field. It prepares students for CHEM 404 , Applications of Organometallic Chemistry, the second half of this course. Prerequisites: Two terms of organic chemistry and Chem 252 or equivalent experience. SC ½ Course cr MW 9am-10:15am",
+    "course-prerequsities": [
+      "CHEM 252",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 4060a, Bioinorganic Spectroscopy Gary Brudvig",
+    "courseid": "CHEM 4060a",
+    "coursedescription": "This course is an advanced introduction to biological inorganic chemistry with an emphasis on the methods used to characterize the active sites of metalloproteins. The major physical methods used in the determination of molecular structure, bonding and physical properties of metal ions in proteins are introduced. Prerequisite: A general knowledge of biochemistry and familiarity with both inorganic coordination chemistry and physical chemistry. SC ½ Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 4070a, Bioinorganic Mechanisms Gary Brudvig",
+    "courseid": "CHEM 4070a",
+    "coursedescription": "This course is an advanced introduction to biological inorganic chemistry. An overview of the relevant geometric and electronic structures of metalloprotein active sites are presented and related to each protein’s function. The objective is to define and understand the function of metals in biology in terms of structure. Prerequisite: CHEM 406 or permission of instructor. It will be assumed that students have a general knowledge of biochemistry and are familiar with both inorganic coordination chemistry and physical chemistry. SC ½ Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "CHEM 406",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: CHEM 406 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 4080a, Principles of Materials Chemistry Hailiang Wang",
+    "courseid": "CHEM 4080a",
+    "coursedescription": "This course is an advanced introduction to materials chemistry. It aims to serve senior undergraduate students who are interested in learning and applying chemical principles for materials research and applications. Fundamental principles in solid-state chemistry, including crystal structures and chemical interactions, will be taught. Ionics, metal, semiconductor and polymer materials, including their synthesis, structures, properties and applications, will be discussed. Prerequisite: General chemistry, inorganic chemistry and physical chemistry, or equivalent experience. SC ½ Course cr MW 9am-10:15am",
+    "course-prerequsities": [
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It aims to serve senior undergraduate students who are interested in learning and applying chemical principles for materials research and applications."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 4160a, Organic Structure and Energetics William Jorgensen",
+    "courseid": "CHEM 4160a",
+    "coursedescription": "The course covers concepts in physical organic chemistry including molecular structure & bonding, conformational energetics, electronic effects, thermochemistry, ring strain, non-covalent interactions, molecular recognition, and host-guest chemistry. Prerequisites: Two terms of organic chemistry and two terms of physical chemistry or related courses or permission of the instructor. SC ½ Course cr TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: Two terms of organic chemistry and two terms of physical chemistry or related courses or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 4170a, Kinetics and Thermodynamics in Organic Systems Scott Miller",
+    "courseid": "CHEM 4170a",
+    "coursedescription": "The course generally follows Organic Structure and Energetics. This module covers concepts in physical organic chemistry including acid-base chemistry, advanced issues in stereochemistry, kinetics and thermodynamics, as well as experiments and techniques employed in mechanistic analysis. Issues in catalysis are addressed throughout. Prerequisites: CHEM 416 and two terms of introductory organic chemistry, and two terms of physical chemistry. Permission of the instructor may be sought for potential exceptions. SC ½ Course cr TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "CHEM 416",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of the instructor may be sought for potential exceptions."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 4200a, Chemical Biology of Nucleic Acids Sarah Slavoff",
+    "courseid": "CHEM 4200a",
+    "coursedescription": "This course provides a chemical perspective on fundamental concepts and applications in the chemical biology of nucleic acids. Covered topics include nucleic acid synthesis, functional and modified nucleic acids, sequencing, CRISPR/Cas9, and analytical methods. SC ½ Course cr TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 4210a, Protein Design & Catalysis Jason Crawford",
+    "courseid": "CHEM 4210a",
+    "coursedescription": "The lecture component of this course largely focuses on protein function, catalysis, and the chemistry and biology of diverse small molecule products. The course also serves to support students in writing an effective NSF style research proposal in Chemical Biology and communicating its contents to a diverse scientific audience. PREREQUISITES: Two semesters of undergraduate organic chemistry (CHEM 174/175 and/or CHEM 220/221). A basic understanding of biochemistry and molecular biology is also assumed, but you can “catch up” by carefully and thoroughly reading the course materials and recommended books. SC ½ Course cr TTh 9am-10:15am",
+    "course-prerequsities": [
+      "CHEM 174",
+      "CHEM 220",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A basic understanding of biochemistry and molecular biology is also assumed, but you can “catch up” by carefully and thoroughly reading the course materials and recommended books."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 4240a, Chemical Biology of Drug Discovery David Spiegel",
+    "courseid": "CHEM 4240a",
+    "coursedescription": "This course explores the design and enablement of medicines derived from a convergence of concepts and techniques from chemistry and biology. Topics include: small molecule drug discovery concepts and tools, drug metabolism, protein therapeutics, hybrid chemical/biologic drugs, and bi-functional molecules. Modern approaches for target discovery and validation are also discussed. The course is not organized around a textbook. Rather, material covered in lectures will be the focus of the course and supplementary reading will be recommended, mostly from modern research literature. Reading lists will be distributed at the outset of the module. Prerequisites: Undergraduate level organic chemistry I and II (CHEM 174/175 and/or CHEM 220/221), biochemistry and molecular biology. SC ½ Course cr MW 9am-10:15am",
+    "course-prerequsities": [
+      "CHEM 174",
+      "CHEM 220",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Rather, material covered in lectures will be the focus of the course and supplementary reading will be recommended, mostly from modern research literature."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 4320a, Synthetic Methods in Organic Chemistry I Jon Ellman",
+    "courseid": "CHEM 4320a",
+    "coursedescription": "Compound synthesis is essential to the discovery and development of new chemical entities with a desired property whether that be for fundamental study or for a more applied goal such as a new pharmaceutical, agrochemical, or material. In this course we emphasize key transformations and principles to provide a framework for the efficient design and synthesis of organic compounds. Prerequisites: Two terms of organic chemistry and one term of introductory inorganic chemistry, or related course, or permission of the instructor. SC ½ Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: Two terms of organic chemistry and one term of introductory inorganic chemistry, or related course, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 4330a, Synthetic Methods in Organic Chemistry II Jon Ellman",
+    "courseid": "CHEM 4330a",
+    "coursedescription": "Compound synthesis is essential to the discovery and development of new chemical entities with a desired property whether that be for fundamental study or for a more applied goal such as a new pharmaceutical, agrochemical, or material. In this course we emphasize key transformations and principles to provide a framework for the efficient design and synthesis of organic compounds. This course builds on the knowledge learned in CHEM 432. Prerequisite: CHEM 432 or permission of instructor. SC ½ Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "CHEM 432",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: CHEM 432 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* CHEM 4720b, Introduction to Statistical Mechanics 1 Victor Batista",
+    "courseid": "CHEM 4720b",
+    "coursedescription": "A half-term introduction to modern statistical mechanics, starting with fundamental concepts on quantum statistical mechanics to establish a microscopic derivation of statistical thermodynamics. Topics include ensembles, Fermi, Bose and Boltzmann statistics, density matrices, mean field theories, phase transitions, chemical reaction dynamics, time-correlation functions, Monte Carlo simulations and Molecular Dynamics simulations. Prerequisites: Physical chemistry, multivariable calculus or equivalent experience. SC ½ Course cr TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 4730b, Introduction to Statistical Mechanics 2 Victor Batista",
+    "courseid": "CHEM 4730b",
+    "coursedescription": "A half-term continuation of the introduction to modern statistical mechanics, with focus on quantum statistical mechanics of liquids, Monte Carlo methods and linear response theory (Chapters 6-8 of the textbook). Classical results are obtained according to the classical limit of the quantum mechanical description. Topics include the Monte Carlo simulations and Molecular Dynamics simulations for the description of the Ising model, fluids, solvation of solutes, alchemist free energy calculations, kinetics and transport properties. Prerequisites: Physical chemistry, multivariable calculus or equivalent experience. SC ½ Course cr TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CHEM 4780a, Molecules and Radiation I Kurt Zilm",
+    "courseid": "CHEM 4780a",
+    "coursedescription": "This course is an efficient entry to the study of molecular spectroscopy and provides a broad foundation for chemical physicists, biophysicists, and engineers. It covers a general treatment of the quantum mechanics of spectroscopy and specific applications for time-dependent systems. This course focuses on matrix mechanics, perturbation theory, and angular momentum. Prerequisite: previous exposure to quantum mechanics at the level of physical chemistry, or permission of the instructor. There will be a brief review of some of this material in class. SC ½ Course cr MWF 9:25am-10:15am",
+    "course-prerequsities": [
+      "MWF 9",
+      "25AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: previous exposure to quantum mechanics at the level of physical chemistry, or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 4790a, Molecules and Radiation II Kurt Zilm",
+    "courseid": "CHEM 4790a",
+    "coursedescription": "This course is a continuation and builds on the foundation of quantum mechanics learned in CHEM 4780 /5780. During CHEM 4790 /5790, the curriculum will continue with group theory, time-dependent quantum mechanics and end with applications to coherent optical and magnetic resonance. This course was designed recognizing that most of the quantum needed to understand modern spectroscopy, and is a very useful foundation for other magnetic resonance and optical spectroscopy courses offered by the Department. CHEM 4780 or permission of the instructor SC ½ Course cr MWF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "CHEM 4780 or permission of the instructor SC ½ Course cr MWF 9:25am-10:15am"
+      ]
+    }
+  },
+  {
+    "coursename": "* CHEM 4800a or b, Introduction to Independent Research in Chemistry Sarah Slavoff",
+    "courseid": "CHEM 4800a",
+    "coursedescription": "After consultation with the DUS, students engage individual experimental and/or theoretical research problems in the laboratories of a selected faculty member within the Chemistry department. At the end of the term, students submit a brief report summarizing goals, methods, and accomplishments. For each term of enrollment, students must complete the CHEM 480 registration form, available in the DUS office, and have it signed by their faculty research mentor. It must be submitted to the Chemistry DUS for final approval no later than the last week of classes in the immediately preceding academic term. Individuals wishing to perform independent research must have demonstrated proficiency in the aspects of chemistry required for the planned project, as ascertained by the supervising faculty member, and must meet basic safety requirements prior to undertaking any activities, including certified completion of the online courses entitled Laboratory Chemical Training and Hazardous Chemical Waste Training administered by the Office of Environmental Health and Safety (EHS) at http://ehs.yale.edu/training. At least ten hours per week of research are required (including time spent on requisite safety training), with the faculty mentor affirming this level of student commitment by midterm. This course may be taken multiple times for Pass/Fail credit, subject to restrictions imposed by Yale College. RP HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course may be taken multiple times for Pass/Fail credit, subject to restrictions imposed by Yale College."
+      ]
+    }
+  },
+  {
+    "coursename": "* CHEM 4900a or b, Independent Research in Chemistry Staff",
+    "courseid": "CHEM 4900a",
+    "coursedescription": "Senior Chemistry majors engage individual experimental and/or theoretical research problems in the laboratories of a selected faculty member in the Chemistry department or in a closely related field of molecular science. CHEM 490 registration forms, found in the DUS office, must be signed by the student’s faculty research mentor and submitted it to the Chemistry DUS for final approval no later than the last week of classes in the immediately preceding academic term. Mandatory class meetings address issues of essential laboratory safety and ethics in science, with other class sessions focusing on core topics of broad interest to Chemistry students, including online literary research, oral presentation skills, and effective scientific writing. At least ten hours of research are required per week. Students are assigned letter grades, subject to restrictions imposed by Yale College. In special cases and with DUS approval, juniors may take this course. RP HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Mandatory class meetings address issues of essential laboratory safety and ethics in science, with other class sessions focusing on core topics of broad interest to Chemistry students, including online literary research, oral presentation skills, and effective scientific writing.",
+        "Students are assigned letter grades, subject to restrictions imposed by Yale College."
+      ]
+    }
+  },
+  {
+    "coursename": "CHEM 4920b, Biochemical Rates and Mechanisms I J Patrick Loria",
+    "courseid": "CHEM 4920b",
+    "coursedescription": "An advanced treatment of enzymology. Topics include transition state theory and derivation of steady-state and pre-steady-state rate equations. The role of entropy and enthalpy in accelerating chemical reactions is considered, along with modern methods for the study of enzyme chemistry. These topics are supplemented with in-depth analysis of the primary literature Prerequisites: CHEM 332 or equivalent, two semesters of organic chemistry, Math 115. SC ½ Course cr TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "CHEM 332",
+      "MATH 115",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* CHEM 4950b, Molecular Spectroscopy and Dynamics Mark Johnson",
+    "courseid": "CHEM 4950b",
+    "coursedescription": "This course covers the traditional treatment of molecular spectroscopy, including angular momentum coupling and selection rules for electric dipole excitations in atoms and diatomic molecules. It also explores vector aspects of the interaction of light with molecules in the molecular frame, which involves consideration of the polarization states of the light beam. Polyatomic molecules expand the complexity of the interactions through introduction of normal modes and anharmonic couplings both within the ground electronic state and between electronic states. That background is then leveraged to explore intra- and inter-molecular energy flow in molecules when isolated in the gas phase or immersed in solvent. Prerequisite: One graduate level course in quantum mechanics and/or molars. ½ Course cr MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

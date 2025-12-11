@@ -1,0 +1,139 @@
+[
+  {
+    "coursename": "Intervention Strategies",
+    "courseid": "PSYCLN620",
+    "coursedescription": "An introduction to effective, health-promoting psychotherapeutic interventions designed to address a wide range of clinical and developmental problems. Greatest attention is paid to the theory and practice of individual psychotherapy with adults, although therapeutic interventions with children and adolescents and with families are also introduced. The course adopts an integrative approach to psychotherapy, an approach that combines aspects of interpersonal psychodynamic, humanistic, cognitive-behavioral, and family systems perspectives.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Cognitive and Affective Bases of Behavior: Life Span Development I",
+    "courseid": "PSYCLN641",
+    "coursedescription": "This is part one of a two-semester course sequence. The aim of part one is to provide a broad perspective on a number of themes that are of enduring importance throughout the life cycle and thus merit special attention. The themes have been selected for the significance they hold for the study of normal as well as atypical development. They provide us with a vantage point from which to consider some of the prerequisites for normal development, and they set the stage for a discussion of mental health and of problem prevention, atypical mental development, psychopathology, and remedial intervention.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Clinical Psychology Proseminar II",
+    "courseid": "PSYCLN651",
+    "coursedescription": "This course is the second semester of the yearlong first year proseminar in our clinical psychology doctoral program. The purpose of this course is to continue to provide an introduction to the field of clinical psychology and to our program, while also introducing profession development strategies for surviving and thriving during graduate school. At the same time, this seminar is designed to help students understand themselves as scientist-practioner-activists. This course will provide students with guidance towards developing the professional values, attitudes, and behaviors and interpersonal skills that our necessary in the field of clinical psychology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Statistics",
+    "courseid": "PSYCLN670",
+    "coursedescription": "This course instructs students in advanced statistical topics and provides training in the use of the corresponding computer methods. The course emphasizes the statistical methods of most general interest and importance to social scientists: multiple regression analysis and analysis of variance.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course emphasizes the statistical methods of most general interest and importance to social scientists: multiple regression analysis and analysis of variance."
+      ]
+    }
+  },
+  {
+    "coursename": "Master's Research Seminar",
+    "courseid": "PSYCLN699",
+    "coursedescription": "Students are given individual supervision in research by a member of the psychology department faculty or faculty in related fields and attend a master's research seminar. Each student is helped to design and carry out an original master's thesis using an appropriate methodology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Neuropsychological Assessment",
+    "courseid": "PSYCLN701",
+    "coursedescription": "This course emphasized the neuropsychological assessment of adult brain dysfunction. It presents neuropsychological models of memory, attention,language, perception, and emotion, in relation to various adult brain disorders. Student learn to apply clinical neuropsychological tests and procedures for both descriptive and diagnostic purposes. They complete various learning modules that emphasize neuropsychology across the life span, beginning with developmental neuropsychology and culminating in geriatric neuropsychology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Emotion-Focused Psychotherapy",
+    "courseid": "PSYCLN727",
+    "coursedescription": "This course will introduce emotion-focused psychotherapy theory and skills to students. This empirically validated approach falls under the rubric of Humanistic Psychotherapy. It stems from client-centered and gestalt philosophies and theories of development. The mechanism of change in this approach to therapy lies within the re-structuring of clients' emotional schemes and relational patterns. Close attention is paid to the negotiation of the therapeutic alliance, particularly in relation to self-interruptive or defensive moments when clients back away from important or threatening issues. It teaches specific interventions such as focusing, gestalt chairwork, evocative unfolding, and problematic reaction point exercises. The weekly format of the course will entail one hour of lecture and two hours of supervised exercises and discussion. The course will relate the application of this psychotherapy to both individual adult and couples treatment.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Assessment Practicum II",
+    "courseid": "PSYCLN782",
+    "coursedescription": "This spring practicum course will provide students with a variety of clinical assessment training experiences that meet specific assessment requirements related to internship preparation (e.g., administering assessments, writing integrated assessment reports, providing testing feedback). Students will develop an assessment plan based on client need; conduct psychological, neuropsychological, and/or diagnostic assessments; interpret and integrate assessment findings within the client's cultural context; provide clinically thoughtful, culturally-sensitive feedback, along with clinical recommendations and referrals; write integrative assessment reports; and learn, understand, and abide by the ethical principles guiding the practice of psychology. Individualized readings will be based on specific assessments being conducted. Group supervision through discussion will focus on consultation and group supervision, including ethical and cultural considerations of assessments.",
+    "course-prerequsities": [
+      "PSYCLN 601"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum and Ethics II",
+    "courseid": "PSYCLN786",
+    "coursedescription": "This course will provide students with intensive clinical training through a practicum placement at the University Health Service's Counseling Center. To support this training, students will participate in weekly individual, group, and peer supervision, a didactic weekly seminar, and a monthly peer support group. Over the course of the semester, students are expected to learn how to: conduct assessments, provide therapeutic interventions, conceptualize cases, apply a multicultural framework to clinical interactions, effectively use supervision, comply with the administrative requirement of the Counseling Center, and learn, understand, and abide by the ethical principles guiding the practice of psychology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum IV",
+    "courseid": "PSYCLN788",
+    "coursedescription": "This course will provide students with intensive clinical training through a practicum placement at the University Health Services Counseling Center. To support this training, students will participate in weekly individual, group, and peer supervision, a didactic weekly seminar, and a monthly peer support group. Over the course of the semester, students are expected to learn how to: conduct assessments, provide therapeutic interventions, conceptualize cases, apply a multicultural framework to clinical interactions, effectively use supervision, comply with the administrative requirement of the Counseling Center, and learn, understand, and abide by the ethical principles guiding the practice of psychology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Clinical Outreach, Intervention, and Consultation Practicum II",
+    "courseid": "PSYCLN792",
+    "coursedescription": "This spring course offers advanced supervised individualized practicum experiences, primarily on campus but sometimes at associated community settings. Interventions, outreach, and consultations will be offered by students in this practicum to the individual and organizational members of the University community. This practicum course will provide students with a variety of clinical outreach, intervention, and consultation experiences, with an emphasis on providing culturally responsive services that are sensitive to contextual factors and promote health and well-being. Students will complete individualized readings to support the clinical services they are providing. The primary focus of the course will be participating in clinical outreach and intervention activities to provide services on campus. Group supervision through class discussion will involve consultation, peer supervision, and integration of clinical experiences, with attention to ethical and cultural considerations, to promote professional development as a clinical psychologist.",
+    "course-prerequsities": [
+      "PSYCLN 785",
+      "PSYCLN 786",
+      "PSYCLN 787",
+      "PSYCLN 788"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Community Practicum II",
+    "courseid": "PSYCLN894",
+    "coursedescription": "This spring course will provide oversight for advanced students completing practica in the community. Students will participate in clinical activities in community settings approved by the Clinical Executive Committee (CEC) of the Clinical Psychology graduate program. Activities may include psychological, neuropsychological, and/or diagnostic assessments; providing the therapeutic interventions; conceptualizing cases; applying a multicultural framework to clinical interactions; providing consultation or supervision; participating in prevention consultation, or supervision; or other approved clinical activities. Students will improve their competencies in clinical skills, effective use of supervision, and comply with the administrative requirements of the Externship site, as well as the ethical principles guiding the practice of psychology. To be eligible for this course, students must obtain written approval from the Clinical Executive Committee (CEC), who will evaluate the clinical activities, scope of clinical work, number of practicum hours, and amount of supervision.",
+    "course-prerequsities": [
+      "PSYCLN 785",
+      "PSYCLN 786",
+      "PSYCLN 787",
+      "PSYCLN 788",
+      "PSYCLN 620"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "PSYCLN896",
+    "coursedescription": "This course involves the comprehensive study of a particular topic in clinical psychology under the direction of a faculty member. An independent study course can fulfill one elective requirement. A detailed proposal must be submitted to the faculty member prior to registration.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Clinical Psychology",
+    "courseid": "PSYCLN898",
+    "coursedescription": "Doctoral candidates in clinical psychology are required to complete this one-year full-time predoctoral internship in a setting approved by the American Psychological Association. During the internship, students have a variety of clinical experiences, including assessments and therapeutic interventions. They are closely supervised by mental health professionals, some of whom must be licensed clinical psychologists. A letter from the on-site internship director documenting satisfactory completion must be in the student's file at the University before the degree can be granted.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation Research",
+    "courseid": "PSYCLN899",
+    "coursedescription": "Research, conducted under supervision of the doctoral committee, leading to the presentation of a doctoral dissertation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

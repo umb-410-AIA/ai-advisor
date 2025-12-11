@@ -1,0 +1,221 @@
+[
+  {
+    "coursename": "BMIN 5010 Introduction to Biomedical and Health Informatics",
+    "courseid": "BMIN 5010",
+    "coursedescription": "This course is designed to provide a survey of the major topic areas in medical informatics, especially as they apply to clinical research. Through a series of lectures and demonstrations, students will learn about topics such as medical data standards, electronic health record systems, natural language processing, clinical research informatics, clinical decision support, imaging informatics, public health informatics, consumer health informatics, perioperative informatics, and mental health informatics. It is recommended that students have basic familiarity with biomedical concepts. Non-majors need permission from the department. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is recommended that students have basic familiarity with biomedical concepts.",
+        "Non-majors need permission from the department."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5020 Database and Data Integration in Biomedical Research",
+    "courseid": "BMIN 5020",
+    "coursedescription": "This course is intended to provide in-depth, practical exposure to the design, implementation, and use of databases in biomedical research, and to provide students with the skills needed to design and conduct a research project using primary and secondary data. Topics to be covered include: database architectures, data normalization, database implementation, client-server databases, concurrency, validation, Structured-Query Language (SQL) programming, reporting, maintenance, and security. All examples will use problems or data from biomedical domains. MySQL will be used as the database platform for the course, although the principles apply generally to biomedical research and other relational databases. NOTE: Non-majors need permission from the department Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "NOTE: Non-majors need permission from the department Spring 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5030 Data Science for Biomedical Informatics",
+    "courseid": "BMIN 5030",
+    "coursedescription": "In this course, we will use RStudio/R and other freely available software to learn fundamental data science applied to a range of biomedical informatics topics, including those making use of health and genomic data. After completing this course, students will be able to retrieve and clean data, perform explanatory analyses, build and evaluate models to answer scientific questions, and present visually appealing results to accompany data analyses; be familiar with various biomedical data types and resources related to them; and know how to create reproducible and easily shareable results with RStudio/R and GitHub. Recommended prerequisite: Introductory-level statistics course. Familiarity with programming or a willingness to devote time to learn it. NOTE: Non-majors need permission from the department. Fall Also Offered As: EPID 6000 1 Course Unit",
+    "course-prerequsities": [
+      "EPID 6000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended prerequisite: Introductory-level statistics course.",
+        "NOTE: Non-majors need permission from the department."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5040 Special Topics in Biomedical and Health Informatics",
+    "courseid": "BMIN 5040",
+    "coursedescription": "This course is designed to provide an in-depth look at topics that are of essential importance in biomedical informatics. Each topic will be arranged into thematic modules which will occur in consecutive weeks in the class schedule, with the intention that each module becomes its own \"mini-course\". The topics for each module may rotate from semester to semester, based on these criteria: Historical importance to the current field of biomedical informatics research and/or practice; Cutting-edge developments in biomedical informatics; Topics not covered in depth in BMIN 5010 ; Consensus of the program leadership and teaching faculty. It is recommended that students have completed BMIN 5020 and BMIN 5030 prior to enrolling in this course. NOTE: Non-majors need permission from the instructor. Spring Also Offered As: EPID 6020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is recommended that students have completed BMIN 5020 and BMIN 5030 prior to enrolling in this course.",
+        "NOTE: Non-majors need permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5060 Standards and Clinical Terminologies",
+    "courseid": "BMIN 5060",
+    "coursedescription": "This survey course is designed to provide an overview of health information standards and clinical terminologies. Through a series of lectures, demonstrations, and hands-on exercises, students will learn about topics such as standards, interoperability, data modeling, vocabularies, and health information exchange. It is recommended that students have completed BMIN 5010 prior to enrolling in this course. NOTE: Non-majors need permission from the department. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is recommended that students have completed BMIN 5010 prior to enrolling in this course.",
+        "NOTE: Non-majors need permission from the department."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5070 Human Factors",
+    "courseid": "BMIN 5070",
+    "coursedescription": "The course covers seven main topic areas that will employ case studies from health system applications as well as models, techniques, and theory. The first half (taught by Ross Koppel, PhD) addresses: 1. Sociotechnical and human-centered design everyday life and in biomedical informatics; 2. Evaluation and measurement of usability; 3. Implementation and optimization—including tensions among existing vs revised workflows, new software vs legacy systems, vendor software vs need for new builds, customization, retrofits, dongles, etc; 4. Ethics, policy, cybersecurity, and advocacy. The second half (taught by Susan Harkness Regli, PhD) addresses healthcare-based applications of human factors that specifically include technology: 1. Human Computer Interaction history and key concepts; 2. Complex applications and multiple methods for design in applications such as electronic health records, clinical decision support (CDS), and patient safety; 3. Artificial Intelligence in healthcare including of Natural Language Processing (NLP) and Large Language Models (LLMs) as tools for documentation and reducing clinician burnout. Each topic area will incorporate principles, methods, and applications. In the principles section for each topic, the course will seek to clearly and define terminology related to the topic area, review how key concepts relate to each other, and examine the relevance of the topic’s role to applied clinical informatics. The course will cover qualitative, quantitative, and computational methods used for the design, implementation, and evaluation of health information technology, especially Electronic Health Records (EHRs). The applications section for each topic will use relevant case studies that examine the real-world application of principles and methods. It is recommended that students have completed BMIN 5060 prior to enrolling in this course. NOTE: Non-majors need permission from the department. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is recommended that students have completed BMIN 5060 prior to enrolling in this course.",
+        "NOTE: Non-majors need permission from the department."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5090 Consumer and Personal Health Informatics",
+    "courseid": "BMIN 5090",
+    "coursedescription": "This course is designed to develop intelligent consumers, managers, and researchers of telehealth and personal health/ consumer health informatics systems through guided exploration into the components of such systems. The course is designed to introduce many of the challenges facing designers and managers of telehealth/ mHealth and remote health care delivery networks. The spectrum of activity ranging from research into implications of system design for applications that bridge geographic distance to the development of practical applications to promote patient engagement is considered in both historical context and in case studies. The current status and future trends of this emerging domain are reviewed. It is recommended that students have some exposure to health care or health systems prior to enrolling in this course. NOTE: Non-majors need permission from the department. Fall Also Offered As: NURS 5290 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is recommended that students have some exposure to health care or health systems prior to enrolling in this course.",
+        "NOTE: Non-majors need permission from the department."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5100 Clinical Research Informatics in the Cloud: Analytic Workflows and Infrastructure",
+    "courseid": "BMIN 5100",
+    "coursedescription": "Machine learning, analysis, and meaningful visualizations can provide significant insights into clinical research datasets. One of the challenges is to make these tools, and workflows available at scale in a meaningful way for clinicians, data scientists, and patients. In this course, we will focus on cloud-based mechanisms and infrastructure to make analysis workflows broadly available to a wide range of potential users. Students will implement an analytic workflow related to a clinical research dataset and ultimately deploy the workflow as a publicly available service on the internet using AWS services. We will discuss all components related to the development life-cycle of cloud based analytic services including testing, logging, deploying infrastructure, APIs, front-end development and the value of doing research in the cloud. It is expected that students are comfortable with Python coding and have taken a data science class prior to enrolling in this course. Pre-requisites: - Students should have significant experience with programming in Python. - BMIN 5030 or BMIN 5200 or equivalent. - Students are interested in learning to work within the AWS environment. Prerequisite: BMIN 5030 OR BMIN 5200 1 Course Unit",
+    "course-prerequsities": [
+      "BMIN 5030",
+      "BMIN 5200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "- Students are interested in learning to work within the AWS environment."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5110 Biomedical Informatics Methods for Learning Health Systems",
+    "courseid": "BMIN 5110",
+    "coursedescription": "This course provides an introduction to the concepts and principles of learning health systems, focusing on the roles and methods of biomedical informatics in the data-knowledge-practice learning cycle that is the hallmark of such systems. Topics to be included in the course are history of health systems; information systems analysis and design as these apply to learning health systems; methods for integrating data from heterogeneous sources; analytic methods for establishing evidence and evaluating its usefulness in improving patient outcomes; and, working with teams in the learning health system context. There is a strong emphasis on applying these techniques to real-world issues with clinical and clinical research information systems. These include the electronic health record, information systems in clinical specialties, and systems to support the management of data used for clinical research and healthcare administration. This course is required for all MBMI students. Recommended prerequisite: BMIN 5010 and BMIN 5030 Spring 1 Course Unit",
+    "course-prerequsities": [
+      "BMIN 5010",
+      "BMIN 5030",
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended prerequisite: BMIN 5010 and BMIN 5030 Spring 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5200 Foundations of Artificial Intelligence in Health",
+    "courseid": "BMIN 5200",
+    "coursedescription": "Recent advances in artificial intelligence (AI) have revolutionized the practice of scientific and biomedical research. AI is often used interchangeably with the term 'machine learning', which itself is only one of the subfields within AI dealing with the broader concept of inductive reasoning. However, a wealth of key prerequisite topics that focus on deductive reasoning are central to the practice of AI in biomedical informatics. These founding principles and their intersection with biomedical informatics are the focus of this first course on artificial intelligence. This course is divided into modules that cover (1) introductory/background materials, (2) knowledge representation, (3) logic, (4) essentials of rule-based systems, (5) search, (6) information structure and inference, and (7) special topics. These topics offer a global foundation for the branches of AI in biomedicine and support a deeper understanding of inductive reasoning and machine learning. More broadly, we will explore how biomedical data can be organized, represented, interpreted, searched, and applied to derive knowledge, make decisions, and ultimately make predictions while avoiding bias. It is expected that students will be familiar with basic biomedical concepts, terminology, and statistics. Additionally, students should be competent in one or more computer programming languages (Python is preferred), and should be familiar with basic programming concepts including data structures, control flow, and I/O. It is recommended, but not required, that students have taken Introduction to Biomedical Informatics ( BMIN 5010 ) and Data Science for Biomedical Informatics ( BMIN 5030 ). No previous exposure to artificial intelligence is assumed. Fall 1 Course Unit",
+    "course-prerequsities": [
+      "BMIN 5010",
+      "BMIN 5030",
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is recommended, but not required, that students have taken Introduction to Biomedical Informatics ( BMIN 5010 ) and Data Science for Biomedical Informatics ( BMIN 5030 )."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5210 Advanced Methods and Health Applications in Machine Learning",
+    "courseid": "BMIN 5210",
+    "coursedescription": "Machine learning studies how computers learn from data and has enormous potential to impact biomedical research and applications. This course will cover fundamental topics in machine learning with an application focus on biomedical informatics. Specifically, the course will cover: supervised learning methods such as linear regression, logistic regression, nearest neighbors, support vector machines, decision trees and random forests; unsupervised learning topics such as clustering and dimensionality reduction; neural networks and deep learning methods for supervised or unsupervised learning tasks, including Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), Auto Encoder (AE), Generative Adversarial Network (GAN), Graph Neural Network (GNN), Transformer, Generated Pretrained Transformer (GPT), and Large Language Model (LLM); and the applications of these machine learning techniques to various biomedical informatics problems via analyzing genomics, imaging, biomarker, electronic health record, clinical and/or other biomedical data. The precise topics may vary from year to year based on student interest and developments in the field. Students are required to have completed BMIN 5250 (Python Class) or equivalent programming experience. It is recommended that students have basic knowledge in data analysis and biomedical research. Basic knowledge of machine learning, linear algebra, statistics and probability is preferred. NOTE: Non-majors need permission from the instructor. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Specifically, the course will cover: supervised learning methods such as linear regression, logistic regression, nearest neighbors, support vector machines, decision trees and random forests; unsupervised learning topics such as clustering and dimensionality reduction; neural networks and deep learning methods for supervised or unsupervised learning tasks, including Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), Auto Encoder (AE), Generative Adversarial Network (GAN), Graph Neural Network (GNN), Transformer, Generated Pretrained Transformer (GPT), and Large Language Model (LLM); and the applications of these machine learning techniques to various biomedical informatics problems via analyzing genomics, imaging, biomarker, electronic health record, clinical and/or other biomedical data.",
+        "The precise topics may vary from year to year based on student interest and developments in the field.",
+        "It is recommended that students have basic knowledge in data analysis and biomedical research.",
+        "NOTE: Non-majors need permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5220 Natural Language Processing for Health",
+    "courseid": "BMIN 5220",
+    "coursedescription": "The growing volume of unstructured health-related data presents unparalleled challenges and opportunities for informaticians, clinicians, epidemiologists and other public health researchers that seek to mine the rich information \"locked\" within free-texts. Clinical records, social media, published literature, transcribed text, among other textual sources are designed for human eyes, but not necessarily for automatic processing. In this class, we will survey the most recent natural language processing methods used for identifying and classifying information present in these sources. The class provides learning of health language processing – that is, the fundamental principles and methods of both natural language processing and machine learning and how they are currently applied in the biomedical domain. The class will focus on real problems in the context of health research where data are inherently biased, e.g., noisy, missing, or extremely imbalanced. Methods for addressing these biases, such as text normalization, rules-based systems, machine learning (supervised, unsupervised, active learning), deep learning, and large language models will be discussed. In-class lectures will be most often taught using Jupyter notebooks and guest speakers presenting how an NLP/ML method was used to solve a driving biomedical use case. This course requires proficiency in python programming. NOTE: Non-majors need permission from the instructor. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "NOTE: Non-majors need permission from the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 5230 Informatics Prec Med",
+    "courseid": "BMIN 5230",
+    "coursedescription": "Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BMIN 5330 Statistics for Genomics and Biomedical Informatics",
+    "courseid": "BMIN 5330",
+    "coursedescription": "BMIN 5330 is an introductory course in probability theory and statistical inference for graduate students in Genomics and Computational Biology. The goal of the course is to provide foundation of basic concepts and tools as well as hands-on practice in their application to problems in genomics. At the completion of the course, students should have an intuitive understanding of basic probability and statistical inference and be prepared to select and execute appropriate statistical approaches in their future research. Also Offered As: GCB 5330 , IMUN 5770 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BMIN 5490 Exploring Data Science Methods with Health Care Data",
+    "courseid": "BMIN 5490",
+    "coursedescription": "The growth and development of electronic health records, genetic information, sensor technologies and computing power propelled health care into the big data era. This course will emphasize data science strategies and techniques for extracting knowledge from structured and unstructured data sources. The course will follow the data science process from obtaining raw data, processing and cleaning, conducting exploratory data analysis, building models and algorithms, communication and visualization, to producing data products. Students will participate in hands-on exercises whenever possible using a clinical dataset. Spring Also Offered As: NURS 8490 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BMIN 6010 Seminar in Advanced Topics in Biomedical Informatics",
+    "courseid": "BMIN 6010",
+    "coursedescription": "This course is designed to provide an in-depth look at several topics that are of essential or timely importance in biomedical informatics by examining historic and current peer-reviewed literature. Each topic will be allotted three to five consecutive weeks in the class schedule with the intention that each module becomes its own “mini- course”. The course activities will be organized into two segments. In the first section, we will focus on reviewing, presenting, and writing about primary literature. In the second section, we will also expand our writing to include developing new questions and approaches. For PhD students, they will ultimately prepare a short grant proposal using the NIH application format in the second half of the course. At the end of the semester, we will break the class into two “study sections” where students will review each other’s proposals. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "BMIN 7990 Independent Study",
+    "courseid": "BMIN 7990",
+    "coursedescription": "An opportunity for the biomedical informatics student to become closely associated with a professor to develop a program of independent in-depth study in a subject area in which the professor and student have a common interest that is not covered (or covered in depth) in the biomedical informatics program curriculum. The challenge of the task undertaken must be consistent with the student's academic level. To register for this course, the student and supervising professor jointly submit a detailed proposal to the program Curriculum Committee via the Program Coordinator not later than two weeks before the beginning of the semester. This course is open only to students enrolled in one of the approved Biomedical Informatics programs. The course can be taken for 0.5 or 1.0cu, depending on the depth and breadth of the proposed independent study. Fall or Spring 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "An opportunity for the biomedical informatics student to become closely associated with a professor to develop a program of independent in-depth study in a subject area in which the professor and student have a common interest that is not covered (or covered in depth) in the biomedical informatics program curriculum.",
+        "To register for this course, the student and supervising professor jointly submit a detailed proposal to the program Curriculum Committee via the Program Coordinator not later than two weeks before the beginning of the semester."
+      ]
+    }
+  },
+  {
+    "coursename": "BMIN 9900 Capstone",
+    "courseid": "BMIN 9900",
+    "coursedescription": "The MBMI program requires that students engage in a mentored Capstone Project in clinical informatics during their final year. This is accomplished in the context of a weekly seminar in which students develop, propose, implement, and present their capstone project. During the semester, students meet with their Capstone Advisor, who is also invited to attend the seminars. The seminar affords both students and advisors the opportunity for cross-fertilization of ideas and skills, and ultimately the honing of projects to a high level of value for the students and the clinical environments in which they conduct their projects. Required Pre-requisite: Minimum of 7 CUs of the required coursework of the MBMI Program 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "coursename": "The Language of Art",
+    "courseid": "ART100",
+    "coursedescription": "The course teaches students to begin to understand the processes of artistic creation. It enables the student to grasp the expressive content of works of art in a wide variety of media and to analyze how the artist creates his/her effect. It is not an historical survey. Through lectures, discussions, field trips, and museum visits, the student studies paintings, sculptures, and buildings; examples are chosen as often as possible from the Boston area. The course addresses such concepts as elements of composition, rhythm, symmetry, and space; and the possibilities of differing interpretations of subject matter. It offers a solid introduction to the arts by developing the student's ability to see and analyze forms as the result of aesthetic and interpretive decisions.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Ancient and Medieval Art",
+    "courseid": "ART101",
+    "coursedescription": "The course offers an historical survey of art and architecture of the ancient world, giving particular emphasis to Egyptian, Greek and Roman cultures. Students are also introduced to the arts in Medieval Europe, with a special focus on the Romanesque and Gothic styles.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Renaissance to Modern Art",
+    "courseid": "ART102",
+    "coursedescription": "An historical survey of Western art and architecture from the fifteenth century to the twentieth century. The course deals with different aspects of the art of the Renaissance in Italy and the North, the Baroque and Rococo, Neoclassicism and Romanticism, Realism and Impressionism, and Post-Impressionism. (Course offered in the spring only.)",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to East Asian Art",
+    "courseid": "ART104L",
+    "coursedescription": "This course is an introduction to East Asian art, focusing on Japan and China. It is divided into three historical segments: early forms of Buddhism, paintings of the scholar class, and the interaction of tradition with imported Western cultural forms. These topics provide a comparative context for exploring style, culture, class and gender.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Visual Thinking",
+    "courseid": "ART199",
+    "coursedescription": "This course serves as an introduction to the visual arts by emphasizing how one thinks visually. It provides training and exploration in the organization of sensory experiences - experiences which are already ordered in forms of art and design or which are encountered haphazardly in the world around us. Writing assignments complement studio exercises , lectures and selected reading dealing with issues such as space, light, color, and composition.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Graphic Design",
+    "courseid": "ART220",
+    "coursedescription": "ART 220 is an introduction to the field of Graphic Design. Lectures, discussion, and readings will give students an informed appreciation of visual communication strategy. Class projects will hone students' practical ability to create visual solutions and messaging with clarity and effectiveness. Throughout the semester, students will gain mastery of various technical skills so that they can freely express their design intent.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Museum Practices",
+    "courseid": "ART224",
+    "coursedescription": "This course is an introduction to museum studies for undergraduates interested in exploring the fundamental components of museum and collections work. We look at museum functions as well as the humanistic values underlying their missions, programming and displays. As there are many kinds of museums, the course is appropriate to many majors, including Anthropology, Art, History, and Science. The course features individual and group assignments based on classwork and field trips, culminating with a project developing a virtual exhibition. The class is conducted in seminar format, meeting once per week for 3 hours. This is a hands-on, interactive course designed with the support of the Mellon Foundation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is an introduction to museum studies for undergraduates interested in exploring the fundamental components of museum and collections work."
+      ]
+    }
+  },
+  {
+    "coursename": "History of Global Design",
+    "courseid": "ART235",
+    "coursedescription": "This course is a survey of the global history of design (including furniture, clothing, utilitarian and decorative objects, and printed works) from 1400 to the present day. We shall study specific objects, places, makers, and consumers in order to understand the role of designed objects in the early-modern and modern era.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Art of the Twentieth Century",
+    "courseid": "ART250",
+    "coursedescription": "This lecture course examines the development of twentieth-century painting and sculpture as well as the newer mediums of photography, video, and performance. Students will learn about specific works and major movements in art through formal (visual), critical, and historical analyses. We will also interrogate ideas about authorship, originality, and myths of the artist.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Anthropology of the Objects and the Objectified: an Interdisciplinary Approach to Things",
+    "courseid": "ART269L",
+    "coursedescription": "We have all heard of, or used the term object to refer to things outside ourselves: the object of one's desires, the objectification of other cultures and peoples, works of art vs. ethnographic objects. In this course we deconstruct familiar discourses about things through an examination of the world of material possessions, places, people, ideas, and space in cross-cultural perspective. Our aim is to gain more nuanced understanding about the apparent human tendency to create our identities through assigning personal and cultural significance to objects around us. Course readings will be drawn primarily from anthropology, art history, art criticism, cultural studies, and curatorial/museum studies. We will also share our observations, experiences, and reflections of particular object worlds through museum site visits, class discussions, and individual projects. Our own milieu of the Western museums will offer valuable case studies about the historical and political implications of particular histories of collecting, classifying, displaying, and interpreting the wider world as a collection of objects.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "U.S. Documentary Photography",
+    "courseid": "ART278L",
+    "coursedescription": "This course examines U.S. documentary photographs as constructions of the past that articulate the social and political assumptions of their times. We will assess the impact of these photographs on their contemporary audiences and how they have shaped Americans' collective memories of such events as the conquest of the West, mass immigration, the Great Depression, and 9/11.",
+    "course-prerequsities": [
+      "ENGL 102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Drawing I",
+    "courseid": "ART281",
+    "coursedescription": "A comprehensive introduction to basic materials and techniques, with emphasis on drawing as a primary means for the description and interpretation of people and their environment. Problems in still life, landscape, and life drawing. Fundamentals of visual language are also addressed.",
+    "course-prerequsities": [
+      "ENGL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to the Materials, Techniques and Concepts of Painting",
+    "courseid": "ART283",
+    "coursedescription": "Art 283 is an introduction to the discipline of painting. Students will be exposed to many different painting materials and explore the techniques and ideas of painting through a combination of lecture and hands-on practice. This course is taught in the painting studio; students should expect to paint every class meeting.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Materials, Processes, and Ideas: Introduction to Contemporary Sculptural Practices",
+    "courseid": "ART286",
+    "coursedescription": "This course presents the concepts, processes, and materials that form the foundation of sculpture and its evolving definition. It will explore the possibilities for autobiographical, aesthetic, conceptual, and formal expression through the practice of sculpture. Methods and approaches to the sculptural practice will include object making, conceptual art, video, installation, public art, and performance. This course will introduce new ways of visual thinking, development, and awareness through individual meetings, critiques, readings, discussions, and current exhibitions.",
+    "course-prerequsities": [
+      "ENGL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Printmaking",
+    "courseid": "ART287",
+    "coursedescription": "Intro to Printmaking examines process, creativity and exploration involved in the creation of a number of different printing methods, including relief and intaglio. It involves the practice of learning to 'see' through the activity of making prints. Students apply drawing, visual design, digital image making and painting fundamentals to this medium and work in black and white and in color. It is a hands on studio course that promotes the conceptualization and expression of a visual idea and the refinement of visual aesthetic unique to each student.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Photography I",
+    "courseid": "ART293L",
+    "coursedescription": "An introduction to basic issues in photography. The mechanics of the camera, the techniques of the darkroom, and matters of creative and personal import are addressed through illustrated lectures, class critiques, and assigned lab hours. Some attention is given to the history of photography.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Video",
+    "courseid": "ART295L",
+    "coursedescription": "This studio course is an introduction to working creatively with moving images within a personal, historical, and critical framework. Through technical workshops using iMovie and Final Cut Pro on the Macintosh, students explore the potential of digital non-linear editing and examine the characteristics and strategies of various genres and forms to inform and enrich their own production.ART 295L and CINE 295L are the same course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Digital Media Art",
+    "courseid": "ART297",
+    "coursedescription": "Introduces students to an informed and critically engaged art practice using digital imaging software tools in a Macintosh environment. This course serves as a basic introduction to digital imaging, web media and influential themes in digital arts culture.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics",
+    "courseid": "ART310",
+    "coursedescription": "A course designed to provide in-depth study in different aspects of the history of painting, dealing with ideas, issues, movements, and major figures. Topics vary by semester and instructor. Consult current course announcement for specifics.",
+    "course-prerequsities": [
+      "ART 102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Early Italian Renaissance Art",
+    "courseid": "ART311",
+    "coursedescription": "This course focuses on early Renaissance art and architecture in Italy, 1300-1500. Focusing on Tuscany, it assesses how the visual arts were informed by humanism, politics, monastic reform, and the emergence of a wealthy mercantile class. The course also considers artists' growing self-awareness as professionals contributing to intellectual developments. Artists to be studied include Giotto, Brunelleschi, Donatello, Masaccio, Alberti, and Botticelli.",
+    "course-prerequsities": [
+      "ART 101",
+      "102"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Nineteenth-Century Art in Europe and the United States",
+    "courseid": "ART317",
+    "coursedescription": "Nineteenth-century art in Europe and the United States marks a shift towards what today is recognized as \"modernity\" in art and society. At the same time, historicist, academic, and period-specific trends were crucially important aspects of visual culture. This class focuses on the dual tendencies of tradition and progress that define the nineteenth century through a survey of its artistic, visual, and material culture. The discussion of specific artistic trends will be framed by an examination of the social and political climate in which they were created.",
+    "course-prerequsities": [
+      "ART 102",
+      "ART 250"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Graphic Design Workshop",
+    "courseid": "ART320",
+    "coursedescription": "Graphic Design Workshop is an upper-division course that explores various graphic design topics, including website design, information sheet design, poster design, package design, 3D design, motion graphics, typography, infographics, image and text sequencing, and artist books/photography design. This course studies histories, theories, techniques, and practices of motion graphics and the integration of design, still imaging, animation, and typography.",
+    "course-prerequsities": [
+      "ART 320"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Hellenistic Art and Culture",
+    "courseid": "ART327L",
+    "coursedescription": "This course introduces students to the Hellenistic period--the three centuries between the death of Alexander the Great in 323 BC and the defeat of Cleopatra at Actium in 31 BC--particularly primarily through a close examination of the visual arts. Hellenistic art and architecture are examined in their political, social, religious, and multi-cultural contexts, in order to arrive at a fuller portrait of the age.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Digital Drawing",
+    "courseid": "ART382",
+    "coursedescription": "Art 382: Digital Drawing Workshop combines traditional and digital drawing techniques. Students will draw with charcoal, ink, iPad drawing apps, Photoshop, Illustrator and custom laser cut tools we will make drawings from. Students must complete in-class assignments and keep up with weekly sketchbooks and studio projects.",
+    "course-prerequsities": [
+      "ART 297",
+      "ART 281"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Printmaking Workshop",
+    "courseid": "ART387",
+    "coursedescription": "This course explores diverse printmaking techniques, combining and incorporating them into other visual disciplines such as painting, photography, and digital media. Students are challenged to develop their imagery and concepts and to articulate their ideas.",
+    "course-prerequsities": [
+      "ART 287",
+      "ART 293",
+      "ART 383",
+      "ART 393"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Photography Workshop",
+    "courseid": "ART393L",
+    "coursedescription": "This workshop is designed to expand knowledge of photography learned in Photography I through individually initiated projects. While technical improvement is essential, emphasis is always given to the ideas and intentions behind the projects. Topics vary each semester.",
+    "course-prerequsities": [
+      "ART 293L"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ART478",
+    "coursedescription": "This course is an independent investigation in Art History under the supervision of qualified faculty that is open to a limited number of students in any semester.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ART479",
+    "coursedescription": "This course is an independent investigation in Studio Art under the supervision of qualified faculty that is open to a limited number of students in any semester. A written prospectus of the project is required of applicants.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Studio Art Capstone",
+    "courseid": "ART481",
+    "coursedescription": "This course is designed for the Art Major concentrating in studio art and is focused on developing a body of work to a level appropriate for inclusion in a class group exhibition. As part of the course, and for the exhibition, students will develop an artist statement that clearly states their intentions and situates their work within contemporary art practice along with a strong series of artworks for their portfolio. Students will also gain professional development skills and garner an informed idea of many professions in the arts through lectures and presentations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Problems: Field Work",
+    "courseid": "ART488",
+    "coursedescription": "An independent project with an off-campus project focus under the supervision of a qualified professional. . A written prospectus of the project, and a written final report, are required of all applicants.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Problems: Field Work",
+    "courseid": "ART489",
+    "coursedescription": "An independent project with an off-campus project focus under the supervision of a qualified professional. Open to a limited number of students in any semester. A written prospectus of the project, and a written final report, are required of all applicants.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors Project",
+    "courseid": "ART491",
+    "coursedescription": "This is the first semester's work of two leading to consideration for the award of Honors in Art. Course work includes an approved creative and/or research project under faculty supervision. Grades are to be awarded by supervising faculty as in regular independent study courses.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors Project",
+    "courseid": "ART492",
+    "coursedescription": "Continuation of work begun in ART 491. Candidacy for continuation in the Honors Program will be determined by the Honors Committee prior to enrollment in this course.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

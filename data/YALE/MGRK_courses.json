@@ -1,0 +1,28 @@
+[
+  {
+    "coursename": "MGRK 1200b / HELN 1200b, Elementary Modern Greek II Maria Kaliambou",
+    "courseid": "MGRK 1200b",
+    "coursedescription": "Continuation of MGRK 110. Prerequisite: MGRK 110. L2 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [
+      "MGRK 110",
+      "L2",
+      "MTWTHF 9",
+      "25AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MGRK 1400b / HELN 1400b, Intermediate Modern Greek II Maria Kaliambou",
+    "courseid": "MGRK 1400b",
+    "coursedescription": "Further development of listening, speaking, reading, and writing skills in modern Greek. Presentation of short research projects related to modern Greece. Prerequisite: MGRK 130 or equivalent. L4 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [
+      "MGRK 130",
+      "L4",
+      "MTWTHF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

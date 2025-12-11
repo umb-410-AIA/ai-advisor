@@ -1,0 +1,329 @@
+[
+  {
+    "coursename": "LATN 0100 Elementary Latin I",
+    "courseid": "LATN 0100",
+    "coursedescription": "An introduction to the Latin language for beginners. Students begin learning grammar and vocabulary, with practical exercises in reading in writing. By the end of the course students will be able to read and analyze simple Latin texts, including selected Roman inscriptions in the Penn Museum. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 0110 Intensive Elementary Latin",
+    "courseid": "LATN 0110",
+    "coursedescription": "An introduction to the Latin language for beginners, with explanation of basic grammatical concepts and intensive exercises in reading and writing. Ideal for undergraduates or graduate students from Penn or elsewhere with some background in learning other languages, or who need to learn Latin rapidly. The course covers the first year of college-level Latin, equivalent to LATN 0100 + 0200 at more than twice the normal pace. This is an online course. 2 c.u. Students are not required to be in Philadelphia. Course activities will involve a series of intensive online exercises completed each day according the students own schedule, plus one daily video-linked session 5.30-7.00pm EST (Monday thru Thursday). The textbook is Learn to Read Latin (Keller & Russell; textbook only, not workbook). For further information about the course, please contact Prof. James Ker (jker@sas.upenn.edu). Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "LATN 0200 Elementary Latin II",
+    "courseid": "LATN 0200",
+    "coursedescription": "Prerequisite(s): LATN 101 or equivalent. Completes the introduction to the Latin language begun in 101. By the end of the course students will have a complete working knowledge of Latin grammar, a growing vocabulary, and experience in reading simple continuous texts. Spring Prerequisite: LATN 0100 1 Course Unit",
+    "course-prerequsities": [
+      "LATN 101",
+      "IN 101",
+      "LATN 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 0300 Intermediate Latin: Prose",
+    "courseid": "LATN 0300",
+    "coursedescription": "Prerequisite(s): LATN 0200 or equivalent (such as placement score of 550). Introduction to continuous reading of unadapted works by Latin authors in prose(e.g., Cornelius Nepos, Cicero, Pliny), in combination with a thorough review of Latin grammar. By the end of the course students will have thorough familiarity with the grammar, vocabulary, and style of the selected authors, will be able to tackle previously unseen passages by them, and will be able to discuss questions of language and interpretation. Fall Prerequisite: LATN 0200 1 Course Unit",
+    "course-prerequsities": [
+      "LATN 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 0310 Intensive Intermediate Latin",
+    "courseid": "LATN 0310",
+    "coursedescription": "An introduction to the basic history and conventions of Latin prose and poetry, with continuous readings from classical authors accompanied by grammar review and exercises. Ideal for undergraduates or graduate students from Penn or elsewhere who have completed the equivalent of one year Latin (e.g., LATN 0110 ). The course covers the second year of college-level Latin, equivalent to LATN 0300 + 0400 at more than twice the normal pace. This is an online course. 2 c.u. Students are not required to be in Philadelphia. Course activities will involve a series of intensive online exercises completed each day according the students own schedule, plus one daily video-linked session 5.30-7.00pm EST (Monday thru Thursday). The focus of the course will be Romans and Carthaginians, combining readings on Hannibal and the second Punic war (mostly in prose, focusing on Cornelius Nepos Life of Hannibal) with readings from the story of Dido (mostly in poetry, focusing on Ovids Heroides). For further information about the course, please contact Prof. James Ker (jker@sas.upenn.edu). Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "LATN 0400 Intermediate Latin: Poetry",
+    "courseid": "LATN 0400",
+    "coursedescription": "Prerequisite(s): LATN 0300 or equivalent (such as placement score of 600). Continuous reading of several Latin authors in poetry (e.g., Ovid, Virgil, Horace) as well as some more complex prose, in combination with ongoing review of Latin grammar. By the end of the course students will have thorough familiarity with the grammar, vocabulary, and style and style of the selected authors, will be able to tackle previously unseen passages by them, and will be able to discuss language and interpretation. Note: Completion of Latin 0400 with C- or higher fulfills Penn's Foreign Language Requirement. Spring Prerequisite: LATN 0300 1 Course Unit",
+    "course-prerequsities": [
+      "LATN 0300",
+      "LATIN 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3001 Roman Satire",
+    "courseid": "LATN 3001",
+    "coursedescription": "Satire was an important form of expression throughout the history of ancient Rome. We will read selections in Latin from the three prominent satirists Horace, Persius, and Juvenal. Course themes will include: food and feasting, free and censored speech, in-groups and outsiders, bad poetry, bad philosophy, and daily annoyances. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3009 Topic in Latin Literature",
+    "courseid": "LATN 3009",
+    "coursedescription": "This advanced level course features a specific theme, text, or author and focuses on reading, interpretation, language, and research. Intended for students who have studied the Latin language for the equivalent of two years. The topic is different on each iteration, and the course may be taken for credit multiple times. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3202 Latin Love Letters",
+    "courseid": "LATN 3202",
+    "coursedescription": "In this course we look at an intersection between emotion and rhetoric, reading ancient theorists and practitioners in the art of love-letter writing. Readings will include Cicero, Ovid, Propertius, Horace, Seneca, and Petronius. \"Love\" will include the full breadth of affections from intellectual friendship to erotic desire, and \"letters\" will include the whole spectrum of written communication, both formal and informal. A special goal of this course will be to gently develop our speaking and writing skills in Latin. Final projects will be flexible, ranging from a traditional term-paper to creative experiments in speaking and writing Latin. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3203 Triangulating Augustanism: Livy, Horace, and Ovid",
+    "courseid": "LATN 3203",
+    "coursedescription": "What is a Roman? How does the rise of Augustus Caesar change the meaning of Romanness? In this course, we will read selections from the historian Livy and the poets Horace and Ovid as they try (and sometimes fail) to navigate and accommodate the new regime. Livy's prose history of Rome, Ab Urbe Condita, looks to the past for moral guidance and attempts to draw lessons for the imperial future. Horace's Odes veer from ironic to patriotic (and back again) as he works out the new reality and his place in it. Ovid's Fasti, written during the poet's exile from Rome, report the origins of Rome's sacred festival calendar. Through close readings of these three texts, this course will consider Augustanism from several angles and distances, and attempt to construct a richer picture of a complicated and vibrant period. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3204 Plague and Pestilence in Latin Literature",
+    "courseid": "LATN 3204",
+    "coursedescription": "Plagues and pestilences were a common feature of life in the ancient world. As such, they fueled the literary imagination. Historians, doctors, poets, and others have left many accounts of diseases, both endemic and epidemic. This literature can be considered a kind of literary genre with its own conventions, literal and metaphorical frames of reference, and intertextual relations. We will focus on a few representative examples in Latin literature to read in the original, and will read others Greek and Roman accounts in translation to gain familiarity with the broader context. Students will gain experience in reading upper-level Latin while broadening their knowledge of Latin literature and literary history. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3205 Medieval Latin",
+    "courseid": "LATN 3205",
+    "coursedescription": "This course will be an introduction to the literature of the Latin Middle Ages. Our readings will range from the early Christian era (beginning with the Latin Vulgate translation of Scripture) and early medieval poetic philosophy (Boethius) to medieval receptions of classical myth, funny and poignant Latin poetry of the later Middle Ages, literary love letters, autobiography (Abelard), and other selections from the rich fields of medieval Latin literature. The purpose of this course is to offer a big picture of the Latin literature of the Middle Ages and to engage with some key themes that medieval Latinity offers up to us: how to engage with antiquity, how to imitate and innovate, how to be persuasive, how to value poetic effect for its own sake, how to negotiate the sacred and secular domains of Latinity. We'll be particularly interested in how medieval teachers taught Latin to non-Latin speakers (students whose native languages were French, English, German, etc.), a parallel to our modern situation. 200-level Latin or equivalent is a prerequisite for enrollment. Not Offered Every Year Mutually Exclusive: LATN 5040 1 Course Unit",
+    "course-prerequsities": [
+      "LATN 5040"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "We'll be particularly interested in how medieval teachers taught Latin to non-Latin speakers (students whose native languages were French, English, German, etc.), a parallel to our modern situation."
+      ]
+    }
+  },
+  {
+    "coursename": "LATN 3206 The Underworld in Latin Poetry",
+    "courseid": "LATN 3206",
+    "coursedescription": "The mythical land of the dead was a source of endless fascination and inspiration for Latin poets of all periods. The importance of the underworld as a place of revelation, a storehouse of poetic treasure, and a demonic source of narrative and dramatic energy is especially great in epic and tragic poetry. In this course we will survey conceptions of the underworld as presented from the 2nd century BCE to the 4th century CE in the works of Ennius, Lucretius, Vergil, Ovid, Seneca, Lucan, Statius, and Claudian and the influence of these poets on medieval, renaissance, and modern literature. An intermediate (200-level) Latin or equivalent course is prerequisite. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3207 Writing Women at Rome",
+    "courseid": "LATN 3207",
+    "coursedescription": "In this course, students will read texts in Latin from a variety of classical Roman genres - letters, love poems, epic, history, graffiti - that represent women’s communications. While working on their own translations, students will become familiar with the contemporary lively discussion surrounding the interpretation and translation of the poet Ovid through contemporary opinion pieces. At the same time, we will also get to know some of the historical evidence for women’s educational, philosophical, literary, and sexual activities. We will read the mysterious poems attributed to Sulpicia, one of the few bodies of pre-Christian writings in Latin attributed to a woman - and understand the debates surrounding her work. Principal readings will be drawn from Ovid (Metamorphoses, Heroides), Sulpicia (Elegies), and Roman satire. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3208 Pagan and Christian Martyrs",
+    "courseid": "LATN 3208",
+    "coursedescription": "Under the Roman Empire, martyrdom — dying for one's beliefs — took many different forms among different groups. Some martyrs were members of the imperial power structure, while others were individually unimportant subjects. Nevertheless, all of their deaths had political, philosophical, religious, and personal meanings. Many of them came to be celebrated in some of the world's most compelling literature. In this course we will read and discuss a number of shorter and a few longer examples of martyr literature in Latin and in English translation from the 1st century BCE to the 6th century CE and compare them to one or more modern examples of martyr literature. Evaluation will be based primarily on daily, in-class contribution to translation and discussion. There will also be a mid-term examination and a choice between a final examination or a ten-to-fifteen page paper. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3209 Epic and Civil War",
+    "courseid": "LATN 3209",
+    "coursedescription": "They say that history is written by the victors. So, how do you write the history of a nation if you’re on the losing side? The young Roman poet Lucan’s answer was to write a story full of horror. His epic poem Civil War tells the story of the bloodshed between the rival armies of the lightning-fast Julius Caesar and the stately Pompey the Great – and Cato the Stoic who was forced to choose between them. With a narrative that moves around the Mediterranean from the streets of Rome to the deserts of Africa and Cleopatra’s palace in Egypt, Civil War reminds us that Roman history was a long cycle of violence from Republic to Empire. In this course, we will read substantial portions of Lucan’s epic poem in Latin, with the support of commentaries. We will also familiarize ourselves with the modern history of translating this poem into English. The poem’s regret over the demise of the Roman Republic – along with the death of Lucan after an attempt to assassinate the emperor Nero – has made it an important source of literary inspiration during periods of political conflict in the modern era. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3401 Seneca, On the Brevity of Life and other essays",
+    "courseid": "LATN 3401",
+    "coursedescription": "Seneca was the most important writer of Latin in the early imperial period. In addition to poetry, satire, and natural philosophy, he wrote ethical philosophy in the form of letters, dialogues, and essays. His works \"On the Brevity of Life\" and \"On Leisure\" speak both the ethical issues of his own time and those of many others, including our own. In this course we will read both these essays with the goals of becoming familiar with Seneca's thought and style of expression, both as an individual and as a writer representative of his age. Students will have the opportunity to respond to Seneca in the form of critical essays, essayistic or epistolary responses, or other forms of their choosing. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3403 The Poetry of Phaedrus",
+    "courseid": "LATN 3403",
+    "coursedescription": "A survey of the poetry of Phaedrus, who wrote during the reign of Tiberius or shortly thereafter. His poems consist mainly of animal fables in the manner of Aesop. Through regular translation and discussion, students will gain facility with Phaedrus’ poetic style, which is disarmingly simple, and with the esthetic and political interpretation of his work, which is always entertaining, and sometimes challenging. In addition, by reading other examples of Aesopic fables in translation, we will gain some familiarity with Phaedrus’ sources and his influence, which is considerable, as well as with the relation of Aesopic fable to other kinds of animal fable. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3601 Tacitus, Agricola",
+    "courseid": "LATN 3601",
+    "coursedescription": "Tacitus’ De vita Iulii Agricolae focuses on his father-in-law’s life, especially his military role in Britain. Initially, it appears to depict an exemplary Roman life marked by military successes. However, the text raises questions: Is Agricola’s life truly exemplary, or does Tacitus use it to reflect his own life under Domitian? The work’s genre, blending biography and eulogy, prompts discussions on historiography and rhetoric. This seminar will explore these themes, closely reading the text to understand its structure, content, and stylistic features, and examining its place within Tacitus’ larger historical works. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3801 Advanced Latin Language and Composition",
+    "courseid": "LATN 3801",
+    "coursedescription": "Study of Latin grammar, vocabulary, and stylistic features, combining exercises in analysis, composition, and sight translation. Intended for graduate students and advanced undergraduates. Not Offered Every Year Mutually Exclusive: LATN 5801 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3982 Study Abroad",
+    "courseid": "LATN 3982",
+    "coursedescription": "This course code is assigned to a course taken abroad that lacks an equivalent course on the Penn roster. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3999 Independent Study in Advanced Latin Literature",
+    "courseid": "LATN 3999",
+    "coursedescription": "This course is taken by students doing independent work with a faculty advisor, equivalent to 3000-level advanced courses. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 4998 Senior Research Paper (Honors Thesis)",
+    "courseid": "LATN 4998",
+    "coursedescription": "This course is taken in the senior year by students approved to write a Senior Research Paper for the Ancient History major. For policies see the Classical Studies department website. Fall or Spring Also Offered As: ANCH 4998 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 5040 Medieval Latin",
+    "courseid": "LATN 5040",
+    "coursedescription": "This course will be an introduction to the literature of the Latin Middle Ages. Our readings will range from the early Christian era (beginning with the Latin Vulgate translation of Scripture) and early medieval poetic philosophy (Boethius) to medieval receptions of classical myth, funny and poignant Latin poetry of the later Middle Ages, literary love letters, autobiography (Abelard), and other selections from the rich fields of medieval Latin literature. The purpose of this course is to offer a big picture of the Latin literature of the Middle Ages and to engage with some key themes that medieval Latinity offers up to us: how to engage with antiquity, how to imitate and innovate, how to be persuasive, how to value poetic effect for its own sake, how to negotiate the sacred and secular domains of Latinity. We'll be particularly interested in how medieval teachers taught Latin to non-Latin speakers (students whose native languages were French, English, German, etc.), a parallel to our modern situation. 200-level Latin or equivalent is a prerequisite for enrollment. Not Offered Every Year Mutually Exclusive: LATN 3205 1 Course Unit",
+    "course-prerequsities": [
+      "LATN 3205"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "We'll be particularly interested in how medieval teachers taught Latin to non-Latin speakers (students whose native languages were French, English, German, etc.), a parallel to our modern situation."
+      ]
+    }
+  },
+  {
+    "coursename": "LATN 5801 Advanced Latin Language and Composition",
+    "courseid": "LATN 5801",
+    "coursedescription": "Study of Latin grammar, vocabulary, and stylistic features, combining exercises in analysis, composition, and sight translation. Intended for graduate students and advanced undergraduates. Not Offered Every Year Mutually Exclusive: LATN 3801 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 6600 The Latin Text: Language and Style",
+    "courseid": "LATN 6600",
+    "coursedescription": "What do we need to read texts in Latin? In these courses we read just one prose text and one poetic text, or a very limited number of texts and passages, with a focus on language and formal analysis (such as diction, grammar, stylistics, metrics, rhetoric, textual criticism). A range of exercises will be used to develop this, including composition, lexical studies, recitation, memorization, exegesis, written close-readings, and sight-translation. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 6601 Latin Literary History",
+    "courseid": "LATN 6601",
+    "coursedescription": "In this course we survey an extensive range of readings in a variety of authors in both prose and poetry, and consider the problems and opportunities involved in literary history. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 6610 Reading Latin",
+    "courseid": "LATN 6610",
+    "coursedescription": "Intensive reading in ancient Latin literature, focusing on the skills and practices required to read closely a 150-page “short list” of key texts and to become familiar with authors, chronology, meters, dialects, and genres. Exercises include analysis, sight translation, and practice versions of the Qualifications Examination in Latin. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 7002 The Mostly Latin Epigram",
+    "courseid": "LATN 7002",
+    "coursedescription": "In this seminar we will explore the themes and aesthetics of the Latin epigram, a genre (or is it?) best known for its brevity and wit but one whose precise nature is tantalizingly elusive. After orienting ourselves in the epigrams of Hellenistic Greek epigrammatists and late Republican authors like the so-called Neoterics (Catullus, Cinna, Calvus, Caesar), we will turn our attention to the poetry of Martial, whose accounts of Rome, its inhabitants, and their foibles exerted a profound influence on subsequent epigrammatists. Among the themes we will engage are: epigram as a genre; persona in tessellated textual collections; the interaction of refined and obscene language; and the artistic and intellectual implications of replication, anthology, and remix. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 7004 The Worlds of the Latin Novel",
+    "courseid": "LATN 7004",
+    "coursedescription": "This seminar will explore the worlds of Petronius’ Satyrica, Apuleius’ Metamorphoses, and other works of Latin prose fiction, devoting equal time to literary, historical, and material dimensions. Participants will devise research topics to serve as the focus of presentations and a seminar paper. Latin is not required, but the regular reading assignments will include Latin options, both from ancient novels and from modern novellae (a recent innovation in Latin learning). Not Offered Every Year Also Offered As: CLST 7602 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 7201 Julio-Claudian Literature",
+    "courseid": "LATN 7201",
+    "coursedescription": "The years between the principates of Augustus and Nero are commonly regarded as a \"fallow\" period in Latin literary history. In fact, this is objectively untrue in terms of both the amount of literature produced during this time and in terms of its influence. If one considers the relationship between contemporary Latin and Greek literature or the evidence for increased institutional support of literature during this period, the sense of its importance increases. In this course we will study the formative aspects of literature culture during the regimes of Tiberius, Gaius, and Claudius and their decisive influence on the Latin and Greek literature of the subsequent Imperial Period. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 7203 Ugliness in Roman Literature",
+    "courseid": "LATN 7203",
+    "coursedescription": "This seminar explores ugliness in Roman literature in two areas: writing meant to discomfit, displease, and disgust—i.e. an ugly style—and writing about ugly bodies. We will explore ugliness in literature as it relates to disgust, fear, ridicule, and laughter, including where ugliness blurs with monstrosity. Readings in Latin will emphasize humor, invective, and satire (including Horace, Persius, Petronius) but will also include readings from Cicero, Seneca, Lucan, and Pliny. In addition to familiarizing ourselves with contemporary scholarship on disgust and horror in Roman literature, we will read reflections upon ugliness from outside the field (e.g. Eco, Hilal). In addition to weekly readings, students will be responsible for presentations, midterm exam, work-in-progress workshop, and final research paper. Not Offered Every Year Also Offered As: CLST 7200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 7204 The Black Aeneid",
+    "courseid": "LATN 7204",
+    "coursedescription": "This research seminar will bring the insights of critical race theory to bear on Vergil's Aeneid. Its general objective will be to assess how these insights reinforce and/or complicate existing ideas about the poem and its reception. We will frame our work in terms of three major questions: (1) To what extent are ancient conceptions of blackness thematized in the poem? (2) What insights can be gained by studying the poem with reference to modern conceptions of Blackness? (3) How has race figured in assessments of and responses to the Aeneid by scholars, writers, and artists? To answer these questions we will organize our work under three research rubrics, each of them based on a secondary character whom the poem figures explicitly or implicitly as black. These are: The Black Hero (Memnon); The Black Suitor (Iarbas); The Black Poet (Iopas). Students will work in groups to address these and other topics with a view to understanding the potential significance of such features in the poem as a whole and in its reception. The goal of the course will be to produce publishable research as well as materials to facilitate teaching the Aeneid with appropriate attention to issues of race in the poem, in classical studies, and in ancient and modern society. Each student will write a paper reporting on their own research, or a part of it, during the seminar and will contribute to one of several collaborative papers that will be assessed for eventual submission to an appropriate peer-reviewed journal. Graduate-level Latin is a pre-requisite for this course. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [
+      "YEAR 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 7210 The Principate under Pressure: Gaius Caligula",
+    "courseid": "LATN 7210",
+    "coursedescription": "Hactenus quasi de principe, reliqua ut de monstro narranda sunt (Suet. Cal. 22.1). Suetonius here captures the view of ancient sources (and some modern scholarship) that the principate of Gaius, which began with great expectations, degenerated into a crisis with a madman as the head of state. Revisionist scholarship has argued, however, that the empire functioned according to design during the brief but disconcerting principate of Gaius. In this seminar, we will look at the contemporary literary, documentary, and material sources for Gaius' principate (and slightly beyond, both before and after), with a focus not on the biography of the princeps but on the institutions constitutive of the principate. Sessions will be devoted to: the provinces and cities of the empire, Italy, literary and material cultural productions and spectacle, the army and praetorian guard, social groups and social mobility, the senate, client rulers, the ruler cult, the fiscus and imperial holdings, the treasury and taxation, the courts, the domus Augusta. Readings will be drawn from Suetonius, Philo of Alexandria, Josephus, Seneca, the Garland of Philip, Tacitus, and others. The documentary and material record for this period is richly varied, so we will be looking at papyri, inscriptions, coins, and archaeological discoveries. Not Offered Every Year Also Offered As: ANCH 7210 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 7403 Phaedrus and Aesopic Fable",
+    "courseid": "LATN 7403",
+    "coursedescription": "The Roman poet Phaedrus is author of the earliest surviving collection of Aesopic fables in Greek or Latin. His work, which dates from the reign of Tiberius or shortly afterwards, is foundational for later collections of animal fables in all European languages. In addition, and in contrast to most Greek and Latin literature, many of his fables are known in earlier and later versions in languages such as Sanskrit, Arabic, Syriac, Persian, and others. Phaedrus’ poetry therefore bears witness to the aesthetics and the sociopolitical realities of the early Roman Empire, and also belongs to a literary and cultural tradition that extends far beyond the limits of Greek and Roman indebtedness and influence. Students will become familiar with both aspects. Class meetings will be divided between group reading and discussion of Phaedrus’ poetry with reference to its closest Greek and Latin analogues, and individual student reports on related or similar material from other literary traditions. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 7601 Tacitus' Annals",
+    "courseid": "LATN 7601",
+    "coursedescription": "In this seminar we will read Tacitus' Annals, a work replete with stirring history presented in a style that eschews complacency. Through careful study of this work and selected passages of its predecessor, the Histories, we will develop a richly detailed understanding of Tacitus' historiographical method, principles, and practice. Consideration of surviving epigraphic parallels will allow us to see a particularly important element of his historiographical practice, namely, his awareness of but deviation from the official record of events. Each class session will involve close reading of the text and student-led discussion of important features of Tacitus work. As a group project we will produce a variorum edition of the Annals for on-line publication. Final projects will take the form of papers suitable for presentation at the SCS Annual Meeting. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 9999 Independent Study",
+    "courseid": "LATN 9999",
+    "coursedescription": "This course is taken by graduate students doing independent work with a faculty advisor. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  }
+]

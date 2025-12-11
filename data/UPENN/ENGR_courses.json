@@ -1,0 +1,161 @@
+[
+  {
+    "coursename": "ENGR 1050 Introduction to Scientific Computing",
+    "courseid": "ENGR 1050",
+    "coursedescription": "This course will provide an introduction to computation and data analysis using Python - an industry standard programming and visualization environment. The course will cover the fundamentals of computing including: variables, functions, decisions, and iteration. These concepts will be illustrated through examples and assignments which show how computing is applied to various scientific and engineering problems. Examples will be drawn from the simulation of physical and chemical systems, the analysis of experimental data, image processing, and the creation of graphical user interfaces. This course does not assume any prior programming experience but will make use of basic concepts from calculus and Newtonian physics. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENGR 1400 Penn Global Seminar: Robotics and Rehabilitation",
+    "courseid": "ENGR 1400",
+    "coursedescription": "This course focuses on understanding the design of intelligent technologies for rehabilitation diagnostics and intervention, which include using biomechanics, computer science, robotics and mechatronics design principles Beyond technology, this course explores the design process in which medical technology is developed for foreign economies, cultures, and healthcare systems. Student projects focus on understanding stake-holders needs and developing technology able to address a Jamaican client rehabilitation needs. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENGR 2120 Concepts in Micro- and Nanotechnology",
+    "courseid": "ENGR 2120",
+    "coursedescription": "Seminar/Lecture course on micro- and nanotechnology intended for nonspecialists. This course will discuss how very small structures and devices, as well as systems comprising these devices, are fabricated and characterized, with application examples from microelectronics, microelectromechanical systems, and quantum devices and systems. Current societal and ethical implications of micro- and nanotechnology, as well as creation and exploitation of commercial opportunities, will be discussed. Prerequisite: If course requirement not met, permission of instructor. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: If course requirement not met, permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ENGR 2500 Energy Systems, Resources and Technology",
+    "courseid": "ENGR 2500",
+    "coursedescription": "The course will present a comprehensive overview of the global demand for energy, and the resource availability and technology used in its current and future supply. Through a personal energy audit, students will be made aware of the extensive role that energy plays in modern life, both directly, through electricity and transportation fuel, and indirectly in the manufacturing of goods they use. The course will cover how that energy is supplied, the anticipated global growth in energy demand, the resource availability and the role of science and technology in meeting that demand in a world concerned about climate change. The roles of conservation, improved efficiency and renewable energy in meeting future demand in a sustainable, environmentally benign way will be covered. Prerequisite: Basic understanding of chemistry and physics Fall 1 Course Unit",
+    "course-prerequsities": [
+      "FALL 1"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENGR 3300A Discover, Design, Build and Test: A Hands-On Introduction to Product and Device Design",
+    "courseid": "ENGR 3300A",
+    "coursedescription": "Part one of a two semester lab and classroom-based design sequence. Engineers design molecules, medicines, materials, products and processes. This course introduces students to the practical elements of such design. It offers a hands-on introduction to the design and realization of practical products and devices that leverage chemical engineering principles for their operation. Students work in small teams to realize a specific design objective - a working device that meets cost and performance-based design specifications. The first part of the course is centered on lab safety, exploring the physical and chemical principles associated with the design objective, conducting basic market research, surveying intellectual property, and developing the required maker space skills in instrumentation and fabrication that are required to build the design target. The second part of the course entails the fabrication and evaluation of prototypes, and iterative refinement of designs. Two Term Class, Student must enter first term; credit given after both terms are complete Also Offered As: CBE 3300A Prerequisites: Two semesters of Math/Calculus. One semester of introductory Chemistry, Physics, or Biology.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "ENGR 3300B Discover, Design, Build and Test: A Hands-On Introduction to Product and Device Design",
+    "courseid": "ENGR 3300B",
+    "coursedescription": "Part two of a two semester lab and classroom-based design sequence. Engineers design molecules, medicines, materials, products and processes. This course introduces students to the practical elements of such design. It offers a hands-on introduction to the design and realization of practical products and devices that leverage chemical engineering principles for their operation. Students work in small teams to realize a specific design objective - a working device that meets cost and performance-based design specifications. The first part of the course is centered on lab safety, exploring the physical and chemical principles associated with the design objective, conducting basic market research, surveying intellectual property, and developing the required maker space skills in instrumentation and fabrication that are required to build the design target. The second part of the course entails the fabrication and evaluation of prototypes, and iterative refinement of designs. Prerequisites: . Two semesters of Math/Calculus. One semester of introductory Chemistry, Physics, or Biology. Two Term Class, Student must enter first term; credit given after both terms are complete Also Offered As: CBE 3300B Prerequisite: CBE 3300A OR ENGR 3300A",
+    "course-prerequsities": [
+      "CBE 3300B",
+      "CBE 3300A",
+      "ENGR 3300A"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "ENGR 3440 Answering Questions with Data, for Everyone",
+    "courseid": "ENGR 3440",
+    "coursedescription": "This course targets undergraduate students, such as Juniors and Seniors. Just about every student at UPenn and in particular in engineering is using progressively larger datasets to ask scientific questions. This course will break down how we use data and modeling to ask scientific questions and teach the basic toolkits to do so. The goal of this course is to allow any student who needs to use data to ask questions to see which computational tools they need to use and to use existing tools to ask those questions. All teaching will be small group and team based. The course will use a broad set of data representative of the school. The course is open to upper level undergraduate students who have some knowledge of Python. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENGR 4215 Energy and Sustainability: Science, Engineering and Technology",
+    "courseid": "ENGR 4215",
+    "coursedescription": "Engineers will play an essential role in redesigning systems across scales to meet energy and sustainability goals in mitigating the global climate crisis. This is a foundational course that establishes and applies broad science and engineering principles to connect microscopic and macroscopic aspects of “energy” from fundamental considerations of heat capacity and electrochemistry to limiting conversion efficiencies of thermal engines and solar cells and planetary energy balances. We will explore technical aspects of device engineering, policy requirements for technology implementation, and societal implications of such implementations. Finally, we will analyze local systems and design and justify possible changes to improve their sustainability. Prerequisites: CBE 2300 Material and Energy Balances of Chemical Processes OR MEAM 2030 Thermodynamics OR MSE 2600 Energetics of Macro and Nano-scale Materials OR equivalent. Fall Also Offered As: CBE 4215 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2300",
+      "MEAM 2030",
+      "MSE 2600",
+      "CBE 4215"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENGR 4500 Modern Biotechnology for Engineers",
+    "courseid": "ENGR 4500",
+    "coursedescription": "This course will start with the fundamentals of biotechnology, and no prior knowledge of biotechnology is necessary. Some chemistry is needed to understand how biological systems work. We will cover basic concepts in biotechnology, including DNA, RNA, the Central Dogma, proteins, recombinant DNA technology, polymerase chain reaction, DNA sequencing, the functioning of the immune system, acquired vs. innate immunity, viruses (including HIV, influenza, adenovirus, and coronavirus), gene therapy, CRISPR-Cas9 editing, drug discovery, types of pharmaceuticals (including small molecule inhibitors and monoclonal antibodies), vaccines, clinical trials. Some quantitative principles will be used to quantifying the strength of binding, calculate the dynamics of enzymes, writing and solving simple epidemiological models, methods for making and purifying drugs and vaccines. The course will end with specic case study of coronavirus pandemic, types of drugs proposed and their mechanism of action, and vaccine development. Fall Mutually Exclusive: ENGR 5500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENGR 5020 Engineering Sustainability at Penn",
+    "courseid": "ENGR 5020",
+    "coursedescription": "This is a project-based course in which students will work together to use their engineering knowledge and skills to work on an authentic sustainability project in collaboration with local partners, such as Penn’s Office of Sustainability. On the first day of class, a representative from the partner organization, who will serve as the client on the project, will present students with background and goals of a large-scale ongoing area of work. With guidance from the instructor and check-ins with the client, students will assess stakeholder needs, conduct data collection and analysis, and uncover and fill knowledge and skill gaps needed to achieve the project objectives. The class will culminate in the presentation of a comprehensive, actionable technical report to the client. Project topics will change each term depending on partner needs; possible areas include fume hood and freezer usage and upgrades in research and teaching labs, building energy sources and usage, lab chemical and equipment supply and disposal, waste and recycling, storm and wastewater management, and campus transit. Spring Prerequisite: CBE 2310 OR MEAM 2030 OR MSE 2600 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2310",
+      "MEAM 2030",
+      "MSE 2600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENGR 5030 Engineering in Oil, Gas and Coal, from Production to End Use",
+    "courseid": "ENGR 5030",
+    "coursedescription": "While conventional wisdom is that the world is running out of fossil fuels, technical advances such as deep water production, directional drilling, hydrofracturing, and the refining of non-conventional crude oil sources has increased the resource base significantly and there are well over 100 years of reserves of oil, natural gas and coal. The effect of technology advances has been most profound in the United States, where net energy imports are projected to fall to 12% of consumption by 2020. Excellent, highly technical careers are available in these industries, with opportunities to reduce their impact on the environment and in particular on climate change. The course will cover engineering technology in oil, natural gas and coal from production through end use. It will equip graduating students with the knowledge to contribute in these industries and to participate in informed debate about them. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENGR 5040 Fundamental Concepts in Nanotechnology",
+    "courseid": "ENGR 5040",
+    "coursedescription": "This is a Master's level course that seeks to teach the physics needed to begin a study of engineering and science at the nanometer scale. Since the nanometer scale is so close to the quantum scale, much of the course deals with an introduction to quantum mechanics but the course also includes discussions in solid-state physics, electricity and magnetism and mechanics. The objective of the course is to teach the physics that an engineering student would need to have in order to do experimental work at the nanometer scale. In addition, this course will prepare the student to take more advanced courses in the Nanotechnology Program. Prerequisite: Senior or Master's standing in Engineering or permission of the instructor. Classical Physics ( PHYS 0150 , PHYS 0151 ) or equivalent and some of MATH 2400 (ODEs) would be desirable but not necessary. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [
+      "PHYS 0150",
+      "PHYS 0151",
+      "MATH 2400",
+      "SPRING 1"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Senior or Master's standing in Engineering or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "ENGR 5215 Energy and Sustainability: Science, Engineering and Technology",
+    "courseid": "ENGR 5215",
+    "coursedescription": "Engineers will play an essential role in redesigning systems across scales to meet energy and sustainability goals in mitigating the global climate crisis. This is a foundational course that establishes and applies broad science and engineering principles to connect microscopic and macroscopic aspects of “energy” from fundamental considerations of heat capacity and electrochemistry to limiting conversion efficiencies of thermal engines and solar cells and planetary energy balances. We will explore technical aspects of device engineering, policy requirements for technology implementation, and societal implications of such implementations. Finally, we will analyze local systems and design and justify possible changes to improve their sustainability. Prerequisites: CBE 2300 Material and Energy Balances of Chemical Processes OR MEAM 2030 Thermodynamics OR MSE 2600 Energetics of Macro and Nano-scale Materials OR equivalent. Fall Also Offered As: CBE 5215 1 Course Unit",
+    "course-prerequsities": [
+      "CBE 2300",
+      "MEAM 2030",
+      "MSE 2600",
+      "CBE 5215"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENGR 5400 Engineering Economics",
+    "courseid": "ENGR 5400",
+    "coursedescription": "Topics include: money-time relationships, discrete and continuous compounding, equivalence of cash flows, internal and external rate of return, design and production economics, life cycle cost analysis, depreciation, after-tax cash flow analysis, cost of capital, capital financing and allocation, parametric cost estimating models, pricing, foreign exchange rates, stochastic risk analysis, replacement analysis, benefit-cost analysis, and analysis of financial statements. Case studies apply these topics to engineering systems. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ENGR 5500 Modern Biotechnology for Engineers",
+    "courseid": "ENGR 5500",
+    "coursedescription": "This course will start with the fundamentals of biotechnology, and no prior knowledge of biotechnology is necessary. Some chemistry is needed to understand how biological systems work. We will cover basic concepts in biotechnology, including DNA, RNA, the Central Dogma, proteins, recombinant DNA technology, polymerase chain reaction, DNA sequencing, the functioning of the immune system, acquired vs. innate immunity, viruses (including HIV, influenza, adenovirus, and coronavirus), gene therapy, CRISPR-Cas9 editing, drug discovery, types of pharmaceuticals (including small molecule inhibitors and monoclonal antibodies), vaccines, clinical trials. Some quantitative principles will be used to quantifying the strength of binding, calculate the dynamics of enzymes, writing and solving simple epidemiological models, methods for making and purifying drugs and vaccines. The course will end with specific case study of coronavirus pandemic, types of drugs proposed and their mechanism of action, and vaccine development. Fall Mutually Exclusive: ENGR 4500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

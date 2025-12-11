@@ -1,0 +1,33 @@
+[
+  {
+    "coursename": "Supply Chain Management",
+    "courseid": "SCSM454L",
+    "coursedescription": "This course teaches the leading-edge tools and techniques that enable the management of an organization to create sustainable profitable growth by managing the entire supply chain. A supply chain consists of suppliers, manufacturing centers, warehouses, distribution centers, and retail outlets. Supply chain management involves the full synchronization of market demand with flows of materials, information, other resources, and finished products through the entire system of raw materials to retail. The goal of supply chain management is to ensure that merchandise is produced and distributed a the right quantities, to the right locations, at the right time, satisfying service-level requirements while minimizing system-wide costs. Use is made of mathematical and information systems modeling techniques for supply chain management.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MSIS 301"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "Lean Operations and Process Improvement",
+    "courseid": "SCSM495",
+    "coursedescription": "The goal of the course is to train and engage students through hands-on experiences to enhance their quality and skills and to enable them to perform process improvement and cost reduction initiatives. They will learn techniques for process improvement and cost reduction by using six sigma and lean tools and the application of these techniques in a wide variety of industries in both the manufacturing and service sectors.The course includes several small projects and case studies and combines effective problem-solving methodologies, modern quality thinking, process flow analysis and data analysis techniques to solve problems that affect profitability by addressing quality, cost, timing, and customer satisfaction. The materials, techniques, and projects will enhance students' knowledge and skills to the level of a six sigma green belt and lean bronze certificate. Students who pass the course with an excellent grade will be strong candidates to join problem-solving, process improvement, lean and six sigma initiatives teams.",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "MSIS 301"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "College of Management Honors Thesis Seminar",
+    "courseid": "SCSM499",
+    "coursedescription": "The CM honors research seminar and thesis Program is a two-semester course sequence. In this seminar, students successfully complete a research while working closely with a faculty advisor to define the project, which builds upon work completed in the per-requisite course, CM Honors Research Seminar. The honors thesis project stretches and grows a student's capabilities. Therefore, the program is structured around a series of assignments and milestones during which students will work with guidance from a faculty advisor and program coordinator toward a project that meets course goals.",
+    "course-prerequsities": [
+      "SCSM 498",
+      "60"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

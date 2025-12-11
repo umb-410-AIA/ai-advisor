@@ -1,0 +1,548 @@
+[
+  {
+    "coursename": "LARP 5010 Studio I",
+    "courseid": "LARP 5010",
+    "coursedescription": "The focus of this foundation studio is to explore ways of recording and representing landscape - with an emphasis on material, space, rhythm and measure - through a range of drawings and constructions. The studio attempts to create a sensibility toward landscape where the act of surveying a site is as much an imaginative endeavor as is the crafting of an artifact or the construction of a path in a landscape. Emphasis is placed on visual and manual skills in two-dimensional and three-dimensional constructions (drawing, fabrications, model-making, etc.), while developing ways to \"see\" landscape. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 5020 Studio II",
+    "courseid": "LARP 5020",
+    "coursedescription": "This foundation design studio explores the relationship among sites, drawings, models and the making of landscape architectural projects. Sites are fairly large in size and present a complex set of issues, including fragmentation, lack of access, and contamination. Through the design of a park, students test and refine the relationship among project concept, modes of visualization, and project formation (organizational and material). The objective for the studio is to develop an informed and imaginative response to the site in order to create new relationships among the site, its immediate edges and the larger neighborhood or region. Spring Prerequisite: LARP 5010",
+    "course-prerequsities": [
+      "LARP 5010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 5110 Workshop I: Ecology and Built Landscapes",
+    "courseid": "LARP 5110",
+    "coursedescription": "This workshop explores a sequence of sites extending from the Atlantic Ocean to the Appalachian Mountains that illustrates the changing geology and topography of the regional physiographic provinces including the Atlantic Coastal Plain, Piedmont, and Valley and Ridge. In moving westward along the transect, field trips to natural areas and constructed sites will highlight the diversity of regional plant communities ranging from primary dune to salt marsh, serpentine Virginia pine-oak forest to seepage wetland, and more. Analysis of the inter-connections between the underlying geology, topography, hydrology, soils, vegetation, wildlife, and human interventions will reveal patterns reflecting process and demonstrate key ecological and cultural systems and processes through the production of field notebooks as well as large-scale measured drawings. Ultimately students will develop a vocabulary (recognition, identification and nomenclature) of the materials of landscape, its substance, its ecology, and its changing nature owing to place and time. NOTE: COURSE MEETS IN ASSIGNED CLASSROOM FROM 9-1PM. CLASS MEETING FROM 2-5PM IS DEDICATED TO FIELD WORK. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In moving westward along the transect, field trips to natural areas and constructed sites will highlight the diversity of regional plant communities ranging from primary dune to salt marsh, serpentine Virginia pine-oak forest to seepage wetland, and more."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 5120 Workshop II: Landform and Planting Design",
+    "courseid": "LARP 5120",
+    "coursedescription": "Workshop II combines two of the most elemental tools in the practice of landscape architecture: landform and planting design. Grading - the shaping and sculpting of the landform - is both art and science, and thus Workshop II aims to provide an appreciation of landform as an evocative component in the design vocabulary as well as a critical tool in solving difficult design problems. The basic techniques and strategies of grading design (slopes, terraces, water management, grade change devices) will be introduced, practiced and reinforced, so that grading design becomes an integral part of the students' design approach. Lecture, field trips, modeling, in-class exercises, and group projects will be used. The Planting component provides students with a working overview of the principles and processes of planting design. Plants will be considered both as individual elements and as part of larger dynamic systems. The natural distribution of plants, concepts of plant community and successional patterns, and the relationship of planting an topography will be used as the initial framework for planting design. Planting design typologies will be examined as an outgrowth of these \"natural\" patterns. The role of plants as a key element in the structural design of the landscape will be explored through a combination of modeling, plan and section drawing, temporal studies, writing, field trips and case studies. Emphasis will be placed on process and evolution: the temporality of planting (daily, seasonal and annual changes), establishment and maintenance of plantings, and the process of planting design. During the first week of May, a five-day field ecology course focuses on techniques of urban revitalization, sustainable land use, reclamation, and restoration. The field trips offer insight into the diversity of approaches to using plants to promote positive environmental change. Spring Prerequisite: LARP 5110 1 Course Unit",
+    "course-prerequsities": [
+      "LARP 5110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "During the first week of May, a five-day field ecology course focuses on techniques of urban revitalization, sustainable land use, reclamation, and restoration."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 5130 Workshop II: Landform and Planting Design Plants Audit",
+    "courseid": "LARP 5130",
+    "coursedescription": "Workshop II combines two of the most elemental tools in the practice of landscape architecture: landform and planting design. Grading - the shaping and sculpting of the landform - is both art and science, and thus Workshop II aims to provide an appreciation of landform as an evocative component in the design vocabulary as well as a critical tool in solving difficult design problems. The basic techniques and strategies of grading design (slopes, terraces, water management, grade change devices) will be introduced, practiced and reinforced, so that grading design becomes an integral part of the students' design approach. Lecture, field trips, modeling, in-class exercises, and group projects will be used. The Planting component provides students with a working overview of the principles and processes of planting design. Plants will be considered both as individual elements and as part of larger dynamic systems. The natural distribution of plants, concepts of plant community and successional patterns, and the relationship of planting an topography will be used as the initial framework for planting design. Planting design typologies will be examined as an outgrowth of these \"natural\" patterns. The role of plants as a key element in the structural design of the landscape will be explored through a combination of modeling, plan and section drawing, temporal studies, writing, field trips and case studies. Emphasis will be placed on process and evolution: the temporality of planting (daily, seasonal and annual changes), establishment and maintenance of plantings, and the process of planting design. During the first week of May, a five-day field ecology course focuses on techniques of urban revitalization, sustainable land use, reclamation, and restoration. The field trips offer insight into the diversity of approaches to using plants to promote positive environmental change. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units",
+      "notes": [
+        "During the first week of May, a five-day field ecology course focuses on techniques of urban revitalization, sustainable land use, reclamation, and restoration."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 5330 Media I: Drawing and Visualization",
+    "courseid": "LARP 5330",
+    "coursedescription": "Drawing is the ability to experience deeply things we see and envision. It allows us, not only to represent things or images seen, but, to discover and construct space and depth on the two dimensions of drawing surface. Expanding the tools of drawing, this course presents inquiries into applied media providing a basis for envisioning the speculative and developing an economy of expression. Work will be closely related to work in Studio I. Students will be introduced to the formal syntax of drawing (line, contour, structure, texture, chiaroscuro), graphic grammar (orthographic, oblique, perspective projection drawings and free-hand sketching) alongside exercises in material expression (collage, assemblage). Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 5350 Theory I: Histories and Theories of Landscape and Environment",
+    "courseid": "LARP 5350",
+    "coursedescription": "This course introduces students to relevant topics, themes, and sites that help us understand the conception, production, evolution, and reception of designed and found landscapes throughout the nineteenth and twentieth centuries. It aims at building an understanding of landscapes as both physical spaces and as cultural media and constructions that sit at the nexus between art and science and that contribute knowledge about humankind's relationship with non-human nature. Landscapes are the result of social, political, artistic and intellectual endeavors. The topography, soil and climate of a site also condition its design, use and habitation. As much as designed and found landscapes are a product of their time, they have also contributed to shaping history, both through their physical materiality and through the mental worlds they enable. Embedding found and designed landscapes into their social, political and cultural contexts, the course also pays close attention to the role of expert knowledge and the professions that have contributed to creating them. The course explores the various tensions and relationships embodied, created and represented by designed landscapes; the tensions between nature and culture, practice and use, design and reception, the visual reception of landscapes and their inhabitation, and site-specificity and purposefully \"international\" design expressions. Using a variety of sources including texts, illustrations, and film the course offers insights into the development and transfer of ideas between different cultures, countries and geographical regions, and time periods. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 5400 Theory II: The Culture of Nature",
+    "courseid": "LARP 5400",
+    "coursedescription": "Landscape architecture, architecture and visual art are all mediations between nature and culture. This course is designed to help students form their own view regarding our relationship with the \"natural\" world around us in an age of ecological crisis. To achieve this, the course provides a stimulating historical and contemporary survey of ideas of nature. We explore ways \"nature\" has been understood mythically, theologically, ideologically, philosophically, scientifically, and artistically through the ages, with an emphasis on contemporary culture. We survey the way in which the polarity of culture and nature has been historically constructed and more recently, deconstructed. The pedagogical philosophy of this course is that an appreciation of the broad pattern of history and the ideas that have shaped it are foundational to living a critical and ethical life and central to the process of making contemporary art, architecture, and landscape architecture. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 5420 Media II: Fundamentals of 3D Modeling",
+    "courseid": "LARP 5420",
+    "coursedescription": "Continuing the sequence of the Landscape Architecture media classes, this course will provide students with the techniques to explore and examine precision surface profiles and land forming strategies, in both physical and digital models. These models provide a basis to speculate on what processes and programs might be engendered or instigated. Rhino will be the primary modeling platform. Associated plug-ins of Grasshopper, Rhino Terrain, Sonic, and Bongo will help extend the toolset. GIS will facilitate the collection and analysis of extent data. The Adobe Creative Cloud will also be used for documenting and expressing modeling processes through static and time-based visualizations. Spring Prerequisite: LARP 5330 1 Course Unit",
+    "course-prerequsities": [
+      "LARP 5330"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 5430 Media III: Landscape and Digital Dynamics",
+    "courseid": "LARP 5430",
+    "coursedescription": "This course is the third in the media sequence and is required of all MLA students at the 600 level. This course engages the generative potential of the dynamic and temporal attributes of the landscape medium. Time-based visualizations are used to investigate landscape organizations shaped through the dynamic interplay of varying processes and their spatial consequences. Emphasis will parallel the LARP 601 on urban ecology and landscape systems. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 6010 Studio III",
+    "courseid": "LARP 6010",
+    "coursedescription": "This studio brings together both two-year and three-year MLA students for a landscape studio problem that works at a regional scale, as well as multiple design scales. LARP 601 - the Green Stimuli studio - emphasizes rigorous site analysis, the strategic organization of living material, and the potential of design to produce a wide range of effects. Studio problems are \"live\" - local leaders and experts are actively trying to solve them, there is an audience for student work outside the University, and projects have the potential to stimulate debate and new directions. The Green Stimuli studio takes on design problems where soil, terrain, geology, mineral resources, climate, water, plants, wildlife, and living systems interactions are major drivers. Studio projects explore one or more of these dimensions in depth to reach high levels of design exploration, strategic thinking, technical resolution and physical expression. The studio's topics intersect with a broader universe of practical concerns, including land use, local and regional economies, real estate development and public policy, as well as philosophical and artistic questions about nature and ecology. The intent is that designed Green Stimuli make new connections between the material of landscape and the economic, infrastructural, scientific, social, cultural and creative attributes of a region. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 6020 Studio IV",
+    "courseid": "LARP 6020",
+    "coursedescription": "This studio is the fourth and final studio in the core sequence and is designed to introduce students to essential competencies related to contemporary problems in urban design. The studio operates in what have been referred to as \"global cities\" - contexts in which there are significant pressures on the physical form of a metropolis from substantial population and economic growth (both ongoing and projected). These pressures induce considerable demands for the development of new contexts. The studio is focused on managing and megotiating these pressures through landscape-driven strategies capable of guiding and organizing this urbanization. Students develop individual design strategies through a process of mapping, modeling, scenario building and fieldwork that lead to both conceptual and physical proposals for the development of new urban districts and metropolitan agendas. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 6110 Workshop III: Site Engineering and Water Management",
+    "courseid": "LARP 6110",
+    "coursedescription": "Building upon the skills and concepts developed in Workshops I and II, this intermediate workshop focuses on technical aspects of site design, with an emphasis on landscape performance. Functional considerations related to landscapes and their associated systems - including circulation, drainage and stormwater management, site stabilization and remediation - will be explored as vital and integral components of landscape design, from concept to execution. Lectures, case studies, field trips, and focused design exercises will enable students to develop facility in the tools, processes and metrics by which landscape systems are designed, evaluated, built and maintained. In concert with the concurrent design studio, students will consider the means by which functional parameters can give rise to the conceptual, formal, and material characteristics of designed landscapes. There is a co-requisite lab section for all MLA II students who enter with a Bachelors degree in Architecture. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "SPRING 1"
+    ],
+    "other": null
+  },
+  {
+    "coursename": "LARP 6120 Workshop IV: Advanced Landscape Construction",
+    "courseid": "LARP 6120",
+    "coursedescription": "Advanced Landscape Construction: The Art and Craft of Design Documentation and Detailing introduces students to the process of landscape documentation as means of strengthening design intent through careful material selection and articulation of form. The course builds upon Workshop III by expanding the concept of site systems to the full range of drawings, details, specifications, and contracts used by landscape designers in the creation of the man-made environment. The course features lectures, case studies and field walks, exploring documentation from initial concept through construction administration. Topics will include materials and their use in exterior environments, documentation phases and their role in a projects evolution and the art of detailing to ensure beautiful, durable landscapes that define cohesive design. Fall Prerequisite: LARP 6110 1 Course Unit",
+    "course-prerequsities": [
+      "LARP 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 6650 Case Studies and Urban Design Explorations",
+    "courseid": "LARP 6650",
+    "coursedescription": "Participants in this course will become familiarized with a diversity of iconic urban references from all continents, while acquiring skills that will facilitate planning and design processes, appreciating the value of interdisciplinary, multi-scaler initiatives, and the transformative contributions of city planning and urban design/placemaking. It is a dynamic class in which each session is centered on a particular topic (see list below), combining class discussions on case studies presented by the instructor, guest lecturers, and teams of students. Interdisciplinary groups also are asked to deliver short planning/design exercises -without the pressure of the studios-, allowing to rapidly identify existing site conditions, design opportunities, delivering their proposals with compelling narratives, strategic moves, graphics, models, and verbal communication. Course topics include: From territory to site-specific; On the public realm; The rehabilitation of historic districts; Mobility/infrastructure and public space; The self-constructed city; Community and urban design; Contending forces of nature; Ecological urbanism; New town planning; Urban art. The class also organizes walking tours in Philadelphia. A final exhibit of the work delivered by the students will be held in Meyerson’s Lower Gallery. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 6741 Curricular Practical Training: Academic Year",
+    "courseid": "LARP 6741",
+    "coursedescription": null,
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "This course provides international Master of Landscape Architecture students the opportunity for practical training in architecture in the United States (CPT). The course develops critical thinking about the organization, operation, and ethics of professional practice in city planning. This course will allow international MLA students to work in an internship in the United States during the academic year without shortening their limited OPT time. The course is offered for .20 course units. The employment must relate to the major and the experience must be part of the program of study. Course enrollment is by permit only. 0.2 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 6850 Environmental Readings",
+    "courseid": "LARP 6850",
+    "coursedescription": "In this seminar, we will explore the green thread in America thought and letters and analyze its influence on how we shape our environments through design and planning. The course has three parts. Throughout, the influence of literature on design and planning theory will be explored. The first part will focus on three most important theorists in environmental planning and landscape architecture: Frederick Law Olmsted Sr., Charles Eliot, and Ian McHarg. The second part of the course will critically explore current theories in environmental planning and landscape architecture. The topics include: frameworks for cultural landscape studies, the future of the vernacular, ecological design and planning, sustainable and regenerative design, the languages of landscapes, and evolving views of landscape aesthetics and ethics. In the third part of the course, students will build on the readings to develop their own theory for ecological planning or, alternatively, landscape architecture. While literacy and inquiry are addressed throughout the course, critical thinking is especially important for this final section. Fall Also Offered As: ARCH 6850 , CPLN 6850 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 7010 Studio V",
+    "courseid": "LARP 7010",
+    "coursedescription": "These advanced elective studios provide opportunities for focused exploration of particular themes in contemporary landscape architecture. Important emerging and accomplished designers, often from divergent points-of-view, interests and backgrounds, are invited to run these studios. Collaborative options (between Landscape and the Departments of Architecture or City Planning) are sometimes offered across the School. In addition to our own faculty who offer some of these studios (Fabiani Giannetto, Gouverneur, Marcinkoski, Mathur, M'Closkey, Neises, Olin, Pevzner, Sanders, Tomlin), visitors have included Paolo Burgi (Switzerland), Peter Latz (Munich), Bernard Lassus (Paris), Margie Ruddick (Philadelphia), Chris Reed (Boston), Peter Beard (London), Nicholas Quennell (New York), Ken Smith (New York), Raymond Gastil (New York), Alessandro Tagliolini (Italy), Ignacio Bunster (Philadelphia), Perry Kulper (Los Angeles),James Wines (New York), Lee Weintraub (New York), Charles Waldheim (Chicago), Stanislaus Fung (Australia), Dennis Wedlick (New York), Sandro Marpillero (New York), Peter Connolly (Australia), and former associate professor Anita Berrizbeitia. More recent visitors have been Claire Fellman (New York), Catherine Mosbach (Paris), Nanako Umemoto/Neil Cook (New York), Valerio Morabito (Italy), Carol and Colin Franklin (Philadelphia), Keith Kaseman (Philadelphia), Silvia Benedito (New York), Claudia Taborda (Lisbon), Mark Thomann (New York), Jerry Van Eyck (New York), and Martin Rein-Cano (Berlin). Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units",
+      "notes": [
+        "Important emerging and accomplished designers, often from divergent points-of-view, interests and backgrounds, are invited to run these studios."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7020 Studio VI",
+    "courseid": "LARP 7020",
+    "coursedescription": "These advanced elective studios provide opportunities for focused exploration of particular themes in contemporary landscape architecture. Important emerging and accomplished designers, often from divergent points-of-view, interests and backgrounds, are invited to run these studios. Collaborative options (between Landscape and the Departments of Architecture or City Planning) are sometimes offered across the School. In addition to our own faculty who offer some of these studios (Fabiani Giannetto, Gouverneur, Marcinkoski, Mathur, M'Closkey, Neises, Olin, Pevzner, Sanders, Tomlin), visitors have included Paolo Burgi (Switzerland), Peter Latz (Munich), Bernard Lassus (Paris), Margie Ruddick (Philadelphia), Chris Reed (Boston), Peter Beard (London), Nicholas Quennell (New York), Ken Smith (New York), Raymond Gastil (New York), Alessandro Tagliolini (Italy), Ignacio Bunster (Philadelphia), Perry Kulper (Los Angeles),James Wines (New York), Lee Weintraub (New York), Charles Waldheim (Chicago), Stanislaus Fung (Australia), Dennis Wedlick (New York), Sandro Marpillero (New York), Peter Connolly (Australia), and former associate professor Anita Berrizbeitia. More recent visitors have been Claire Fellman (New York), Catherine Mosbach (Paris), Nanako Umemoto/Neil Cook (New York), Valerio Morabito (Italy), Carol and Colin Franklin (Philadelphia), Keith Kaseman (Philadelphia), Silvia Benedito (New York), Claudia Taborda (Lisbon), Mark Thomann (New York), Jerry Van Eyck (New York), and Martin Rein-Cano (Berlin). Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units",
+      "notes": [
+        "Important emerging and accomplished designers, often from divergent points-of-view, interests and backgrounds, are invited to run these studios."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7040 Urban Design Research Studio",
+    "courseid": "LARP 7040",
+    "coursedescription": "This course is a requirement for students enrolled in the Certificate of Urban Design. The Urban Design Research Studio (UDRC) is a capstone educational experience open to students of architecture, planning, landscape architecture and historic preservation in PennDesign. The studio's focus is how design intelligence can be applied to complex urban problems which are at once systemic and spatial. Reaching across scales and across disciplines the studio immerses students in the social, economic, political, ecological and aesthetic complexity of the contemporary city in a way that interweaves the speculative quality of the design process with the analytical and evidence-based empiricism of urban reseach. Interdisciplinary collaboration is the studio's modus operandi and its purpose is to develop techniques and strategies by which contemporary cities can become not only metabolically more efficient but also more edifying of the human spirit in the 21st century. Acceptance into the studio is based on interview and portfolio with priority placements given to students enrolled in the Urban Design Certificate Program. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 7100 Implementation of Urban Design",
+    "courseid": "LARP 7100",
+    "coursedescription": "This course is a requirement for students enrolled in the Certificate of Urban Design. With a focus on contemporary major cities this subject charts the various ways in which urban design is typically conceived, procured, administered and ultimately delivered. From the very conception of a project to its completion, the various methods and avenues through which contemporary cities are planned, designed, and constructed are examined from multiple perspectives so that students become familiar with the myriad issues and main actors involved in urban development. Though exemplary case studies the subject offers a comprehensive understanding of the complexities and contingencies of contemporary city making, placing a particular emphasis on the role of the urban designer as a practical, ethical and visionary agent of change. This course may open to other interested PennDesign students if there is space and with permission of the instructor. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course may open to other interested PennDesign students if there is space and with permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7200 Topics in Representation",
+    "courseid": "LARP 7200",
+    "coursedescription": "In these advanced representation courses the work extends to new ways of documenting and seeing landscape. These courses are open to all interested School of Design students who have previous drawing experience or have taken foundation studios. Recent topics have been: Landscape Representation (fall annually), instructors: Valerio Morabito; Terrains of Wetness (spring 2017-2020), instructors: Anuradha Mathur, Matthew Neff; Landscape Drawing, instructor: Laurie Olin (spring 2014); Traces and Inscriptions (spring 2013), instructors: Anuradha Mathur, Matthew Neff. Fall or Spring Prerequisite: LARP 5010 OR LARP 5330 OR LARP 6010 OR ARCH 5010 OR ARCH 5320 OR ARCH 6010 1 Course Unit",
+    "course-prerequsities": [
+      "LARP 5010",
+      "LARP 5330",
+      "LARP 6010",
+      "ARCH 5010",
+      "ARCH 5320",
+      "ARCH 6010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested School of Design students who have previous drawing experience or have taken foundation studios."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7201 Topics in Representation",
+    "courseid": "LARP 7201",
+    "coursedescription": "In these advanced representation courses the work extends to new ways of documenting and seeing landscape. These courses are open to all interested School of Design students who have previous drawing experience or have taken foundation studios. Prerequisite: LARP 5010 OR LARP 5330 OR LARP 6010 OR ARCH 5010 OR ARCH 5320 OR ARCH 6010 1 Course Unit",
+    "course-prerequsities": [
+      "LARP 5010",
+      "LARP 5330",
+      "LARP 6010",
+      "ARCH 5010",
+      "ARCH 5320",
+      "ARCH 6010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested School of Design students who have previous drawing experience or have taken foundation studios."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7300 Topics in Professional Practice",
+    "courseid": "LARP 7300",
+    "coursedescription": "These seminar courses explore ideas and methods in current landscape architectural practice. They include instruction in professional procedures, project development, leadership, and professional identity. They include visits to construction sites, professional offices and archives. Recent topics have been: Transformational Leadership (fall annually), instructor: Lucinda Sanders; Unruly Practices (spring 2021), instructors: Rebecca Popowsky and Sarai Williams; The Practice of Landscape Architecture (spring 2021, fall 2021). Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 7340 Designing a Green New Deal: From Concept to Program",
+    "courseid": "LARP 7340",
+    "coursedescription": "This advanced social science and design seminar is about mobilizing expert knowledge to develop transformative policy ideas to make the Green New Deal come alive. We'll look at cutting edge social science and design scholarship on the problems we're trying to solve, and the successes and failures of past efforts at transformative policy. And we'll focus in particular on the built environment. How might a Green New Deal make the physical changes to our infrastructures, homes, energy landscapes, transportation systems, public recreation amenities, care facilities, and more, in ways that slash carbon emissions, increase resiliency, and abolish inequalities of race, class, gender, and nation? That's not a rhetorical question: in this class, we'll assemble knowledge, get into teams, and come up with concrete proposals. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 7380 Cultural Landscapes and Landscape Preservation",
+    "courseid": "LARP 7380",
+    "coursedescription": "The course surveys and critically engages the field of cultural landscape studies. Over the semester, we will explore cultural landscape as a concept, theory and model of preservation and design practice; we will read cultural landscape historiography and creative non-fiction; we will examine a range of types (national parks, community gardens, designed landscapes, informal public spaces), and we will map the alternative preservation, planning and design methods that ground cultural landscape studies practically. Readings, class discussions, and projects will draw on cultural geography, environmental history, vernacular architecture, ecology, art, and writing. Not Offered Every Year Also Offered As: HSPV 5380 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 7400 Topics in Digital Media",
+    "courseid": "LARP 7400",
+    "coursedescription": "These courses offer advanced instruction in the uses and applications of various digital media, including Geographical Information Systems, 3-D modeling, video, animation, and web-design. These courses are open to all interested School of Design students who already have a working knowledge of basic digital graphic techniques and with permission of the instructor. Recent topics have been: Sensing and Sensibility (fall 2019-2021), instructors: Keith VanDerSys, Sean Burkholder; Simulated Natures (instructors Keith VanDerSys, Joshua Freese); Digital Fabrication (instructor: Keith VanDerSys); Non-Static Representation: Video, Animation, and Interactive Media (instructor: Todd Montgomery). Fall or Spring Prerequisite: LARP 5430 1 Course Unit",
+    "course-prerequsities": [
+      "LARP 5430"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested School of Design students who already have a working knowledge of basic digital graphic techniques and with permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7500 Topics in Construction, Horticulture and Planting Design",
+    "courseid": "LARP 7500",
+    "coursedescription": "These courses explore relevant topics in construction, horticulture and planting design as they relate to contemporary landscape architecture. The aim is to supplement fundamental skills and ideas explored in the core curriculum workshops with more advanced, cutting-edge research, technology and case studies. The teaching faculty are leading practitioners and researchers in the field. These courses are open to all interested Weitzman students. Recent topics have been: Build It/Detailing in Landscape Design (spring annually since 2015), instructors: Lindsay Falck, Abdallah Tabet, Andrew Schlatter; Plant Futures (spring 2019), instructors: Kira Appelhans, Misako Murata; Urban Horticulture and Planting Design (2009-2014), instructor: David Ostrich Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested Weitzman students."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7550 Arboretum Management I: Understanding Plants",
+    "courseid": "LARP 7550",
+    "coursedescription": "In this course, students will learn about plants from an oraganismal perspective, an applied/practical perspective, an aesthetic perspective, an environmental perspective, and an evolutionary perspective. Utilizing the plant collection of the Morris Arboretum as a living laboratory and the expertise of arboretum staff, this course will bring students, novices and experts alike, to a better understanding of plants. Session topics integrate both theoretical and hands-on practical work. Course assessment will be based on weekly practical assignments and two exams. Please note that this course takes place at the Morris Arboretum in the Chestnut Hill section of Philadelphia and students are responsible for transporting themselves to and from the arboretum on their own for class each week. For further information about the course, students may contact Cynthia Skema (cskema@upenn.edu). Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 7560 Arboretum Management II: Evaluating Public Gardens",
+    "courseid": "LARP 7560",
+    "coursedescription": "This interdisciplinary course looks at public gardens as a whole, studying these public institutions and their performance in the four major services they undertake: research, horticultural display, conservation and education/outreach. Students, of any level or discipline, begin the course by learning what arboreta and botanic gardens are, how they function, and what role they fill in our society through a series of lecture sessions at the Morris Arboretum. For the remainder of the semester, the students take that knowledge into the field to apply what they have learned and evaluate some of the many public gardens in \"America's Garden Capital,\" the Philadelphia region, with expert instructors from the Morris Arboretum as guides. Course assessment will be based on one exam, and a series of essays pertaining to their garden evaluations. Garden evaluations and the written work can be tailored to a particular subject of interest to a student, if pertinent within the public garden realm. Please note that this course takes place at the Morris Arboretum in the Chestnut Hill section of Philadelphia and students are responsible for transporting themselves to and from the arboretum on their own or to other Philadelphia area public gardens as required for class each week. For further information about the course, students may contact Cynthia Skema (cskema@upenn.edu). Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Garden evaluations and the written work can be tailored to a particular subject of interest to a student, if pertinent within the public garden realm."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7600 Topics in Ecological Design",
+    "courseid": "LARP 7600",
+    "coursedescription": "These elective courses explore relevant topics in ecological design and new technologies as they relate to contemporary landscape architecture. The courses explore topics such as ecology, sustainability, habitat restoration, hydrology, green roof and green architecture technology, soil technology, and other techniques pertinent to the construction of ecologically dynamic, functioning landscapes. The teaching faculty are leading practitioners and researchers in the field. These courses are open to all interested Weitzman students. Recent topics have been: Large-Scale Land Reclamation Projects (annually since 2005), instructor: William Young; Green Roof Systems (spring 2010-2014), instructor: Susan Weiler Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The courses explore topics such as ecology, sustainability, habitat restoration, hydrology, green roof and green architecture technology, soil technology, and other techniques pertinent to the construction of ecologically dynamic, functioning landscapes.",
+        "These courses are open to all interested Weitzman students."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7610 Urban Ecology",
+    "courseid": "LARP 7610",
+    "coursedescription": "This course introduces students to the core concepts, processes, and vocabulary of contemporary urban ecology. It aims to provide a conceptual framework and grounding in an understanding of ecological processes, in order to empower students to develop and critique the function and performance of landscape interventions. Urban ecology describes the interaction of the built and natural environment, looking at both ecology in the city, as well as ecology of the city. Lectures, case studies, critical reading and design exercises will enable students to increase their ability to analyze and interpret ecological systems and processes. By analyzing the application of ecological concepts in the design management of urban landscapes, urban ecology will be explored as a dynamic, human-influenced system. Registration is limited to MLA students in the LARP 601 studio. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Registration is limited to MLA students in the LARP 601 studio."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7700 Topics in Landscape Architecture History and Theory",
+    "courseid": "LARP 7700",
+    "coursedescription": "These advanced seminars explore central issues in the history and theory of landscape architecture from the Renaissance to the present day. The focus is upon the cultural context of built works, their relation to conceptual writings (contemporary with the designs as well as modern) and the dialogue between modern professional practice and historical example and method. These courses are open to all interested students. Recent topics include: The Culture of Cultivation (spring 2017), instructor: Raffaella Fabiani Giannetto; Weimar Landscapes (spring 2017), instructors: John Dixon Hunt, Liliane Weissberg; Seminar in American Architecture (spring 2016), instructor: Aaron Wunsch; Therapeutic Landscape (spring 2014), instructor: Aaron Wunsch Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested students."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7710 Celebrations in the Contigent City",
+    "courseid": "LARP 7710",
+    "coursedescription": "This seminar will explore the impact of Philadelphia’s 1876 Centennial Exhibition on the subsequent histories of the neighborhoods adjacent to the West Fairmount Park exhibition site. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 7800 Topics in Theory and Design",
+    "courseid": "LARP 7800",
+    "coursedescription": "These advanced seminars explore ideas in contemporary landscape architectural design and theory. A special link is made between the analysis of built work and text to design practice and the making of projects. Topics include the intersections of art, nature and creativity; practices of analysis and criticism; ideas of urbanism and infrastructure; collaborative ventures and cross-disciplinarity; vision and visuality; and representational structures, both verbal and visual. These courses are open to all interested Weitzman students. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested Weitzman students."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7801 Topics in Theory and Design",
+    "courseid": "LARP 7801",
+    "coursedescription": "These advanced seminars explore ideas in contemporary landscape architectural design and theory. A special link is made between the analysis of built work and text to design practice and the making of projects. Topics include the intersections of art, nature and creativity; practices of analysis and criticism; ideas of urbanism and infrastructure; collaborative ventures and cross-disciplinarity; vision and visuality; and representational structures, both verbal and visual. These courses are open to all interested Weitzman students. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested Weitzman students."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7802 Topics in Theory and Design",
+    "courseid": "LARP 7802",
+    "coursedescription": "These advanced seminars explore advanced ideas in contemporary landscape architectural design and theory. A special link is made between the analysis of built work and text to design practice and the making of projects. Topics include the intersections of art, nature and creativity; practices of analysis and criticism; ideas of urbanism and infrastructure; collaborative ventures and cross-disciplinarity; vision and visuality; and representational structures, both verbal and visual. These courses are open to all interested Weitzman students. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested Weitzman students."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7803 Topics in Theory and Design",
+    "courseid": "LARP 7803",
+    "coursedescription": "These advanced seminars explore advanced ideas in contemporary landscape architectural design and theory. A special link is made between the analysis of built work and text to design practice and the making of projects. Topics include the intersections of art, nature and creativity; practices of analysis and criticism; ideas of urbanism and infrastructure; collaborative ventures and cross-disciplinarity; vision and visuality; and representational structures, both verbal and visual. These courses are open to all interested Weitzman students. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested Weitzman students."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7804 Topics in Theory and Design",
+    "courseid": "LARP 7804",
+    "coursedescription": "These advanced seminars explore advanced ideas in contemporary landscape architectural design and theory. A special link is made between the analysis of built work and text to design practice and the making of projects. Topics include the intersections of art, nature and creativity; practices of analysis and criticism; ideas of urbanism and infrastructure; collaborative ventures and cross-disciplinarity; vision and visuality; and representational structures, both verbal and visual. These courses are open to all interested Weitzman students. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested Weitzman students."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7805 Topics in Theory and Design",
+    "courseid": "LARP 7805",
+    "coursedescription": "These advanced seminars explore advanced ideas in contemporary landscape architectural design and theory. A special link is made between the analysis of built work and text to design practice and the making of projects. Topics include the intersections of art, nature and creativity; practices of analysis and criticism; ideas of urbanism and infrastructure; collaborative ventures and cross-disciplinarity; vision and visuality; and representational structures, both verbal and visual. These courses are open to all interested Weitzman students. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "These courses are open to all interested Weitzman students."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7890 LARP Summer Institute: Lineages of Contemporary Landscape for 3-Year Students",
+    "courseid": "LARP 7890",
+    "coursedescription": "This one-week course will introduce students to some of the most important strands of contemporary landscape architecture, introduce important landscape vocabulary and terminology in the landscape lexicon, analyze seminal landscape case studies, and hold group discussion on these topics. It will provide an overview of the vocabulary of landscape representation and visualization, introduce students to techniques of landscape representation, and then dive more deeply into the visualization of information, grounded in landscape theory. Students will collaborate on a historical analysis of the various threads of landscape architecture, tracing its relationship to allied fields such as architecture, urbanism, ecology, cultural geography, art, and the landscape garden tradition--and use this analysis as a basis of group discussion about what landscape architecture can accomplish in the world. Along the way, we will talk about how we use visualization as a way to synthesize ideas and as a projective device for testing new concepts and combinations. This course will offer an opportunity to practice research methods, and prepare students for digital collaboration. Course enrollment is by permit only. Please contact landarch@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 7900 LARP Summer Institute: Natural Systems (3-year Students)",
+    "courseid": "LARP 7900",
+    "coursedescription": "This one-week session for entering three-year MLA students will provide an introduction to the varied physiographic provinces and associated plant communities of the greater Philadelphia region. Through a review of available mapping and on-site study we will characterize and consider the connections between climate, geology, topography, hydrology, soils, vegetation, wildlife, and disturbance, both natural and anthropogenic. With a focus on plants students will begin to develop a familiarity with the local flora (native and non-native) including plant species identification, preferred growing conditions, and potential for use. Field trips will include visits to the Inner Coastal Plain and Piedmont. Course enrollment is by permit only. Please contact landarch@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 7910 LARP Summer Institute: Landscape Operations (3-year Students)",
+    "courseid": "LARP 7910",
+    "coursedescription": "This one-week course will introduce some of the concepts and techniques for the manipulation of the ground plane, one of the most fundamental skills in landscape architecture. The course will discuss some of the technologies, considerations, and constraints of operating on landform, introduce representation techniques that convey how we describe and communicate landform and topography, and walk students through some simple design exercises to make a set of interventions on a topographic site. Students will develop an appreciation for the spatial implications of landform, for landscape narrative, for the movement of water and people across the landscape, and for the operation of reshaping the ground, through the construction of a set of drawings that walk viewers through students' set of interventions on their site. Work product from this week will serve as the starting point for the following week's course, Introduction to Digital Media for 3-year Students. Please contact landarch@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 7920 LARP Summer Institute: Introduction to Digital Media (3-year Students)",
+    "courseid": "LARP 7920",
+    "coursedescription": "This four-day introductory course is intended to enable students to orient themselves to digital media facilities, programs, and workflows. The course is focused around daily projects building up to a final pinup. Each daily project illustrates a different set of work paths between digital programs, as well as teaches students how to use different software applications key to the practice of landscape architecture today. The focus of this course is to enable students to understand what each digital software application offers to the landscape process, and how to build change and iteration into digital workflows. Please contact landarch@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 7930 LARP Summer Institute: Landform and Grading Workshop (2-Year Students)",
+    "courseid": "LARP 7930",
+    "coursedescription": "The reading and shaping of landform is an elemental tool in the practice of landscape architecture. The act of grading design - the shaping and sculpting of landform - is both art and science. This four-day session for entering two-year MLA students aims to provide an appreciation of landform as both an evocative component in the design vocabulary and as a critical tool in resolving difficult design problems. Basic techniques and strategies of grading design are introduced and reinforced, so that grading design becomes an integral part of the student's design approach. This session is intended to provide a concise overview of the principles and process of landform and grading design, and is designed to prepare the entering two-year students for Workshop III. Course enrollment is by permit only. Please contact landarch@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 7940 LARP Summer Institute: Natural Systems (2-year students)",
+    "courseid": "LARP 7940",
+    "coursedescription": "This five-day session for entering two-year MLA students will provide an introduction to the varied physiographic provinces and associated plant communities of the greater Philadelphia region. Through a review of available mapping and on-site study we will characterize and consider the connections between climate, geology, topography, hydrology, soils, vegetation, wildlife, and disturbance, both natural and anthropogenic. With a focus on plants students will begin to develop a familiarity with the local flora (native and non-native) including plant species identification, preferred growing conditions and potential for use. Field trips will include visits to the Coastal Plan and Piedmont of New Jersey and Pennsylvania. Course enrollment is by permit only. Please contact landarch@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 7950 LARP Summer Institute: Computing Introduction (2-year Students)",
+    "courseid": "LARP 7950",
+    "coursedescription": "This nine-day session introduces the entering two-year MLA students to digital media as the primary mode of design visual communication. The course provides a short, yet intensive, hands-on inquiry into the production and expression of digital media that is essential for all designers. Through a series of working labs, students learn various software applications and associated techniques to execute precise two-dimensional representations of three-dimensional concepts. Students also learn the Weitzman systems, network basics and computer lab procedures. Course enrollment is by permit only. Please contact landarch@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "LARP 7960 Independent Studio",
+    "courseid": "LARP 7960",
+    "coursedescription": "An independent studio may be undertaken in the final semester but is not required. The independent studio is intended to provide highly motivated students who have demonstrated their ability to work independently with the opportunity to pursue topics that extend the boundaries of the profession. For permission, students must prepare a written proposal in the preceding semester and apply for approval from the faculty. Details available in Landscape Architecture department office. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units",
+      "notes": [
+        "For permission, students must prepare a written proposal in the preceding semester and apply for approval from the faculty."
+      ]
+    }
+  },
+  {
+    "coursename": "LARP 7970 LA+ Journal",
+    "courseid": "LARP 7970",
+    "coursedescription": "LA+ (Landscape Architecture Plus) is a professional, academic journal produced out of the Weitzman School that explores landscape architecture’s interdisciplinary potential. Each semester, three to four students are selected as LA+ production team members and are responsible for researching, proposing, and producing the journal’s graphic content.* Designing an issue of LA+ can be very rewarding and production team members gain valuable skills and experience in graphic design, image creation, and image copyright that can help prepare them for careers in a number of professional creative environments. Students selected to participate in an LA+ production team will complete 1 CU of work, spread over two semesters. Even numbered issues begin in the Fall and conclude in the Spring. Odd numbered issues begin in the Spring and conclude in the Fall. Students work closely with the editor and LA+ production staff to produce the issue. Student work on the journal during the semester is planned so as not to unduly interfere with studio travel, reviews, or end-of-semester deadlines. LA+ pinups are scheduled on weekends. * Production team members do not have any editorial responsibilities – the journal’s written content is finalized prior to the design and production phase. This course is only open to students who already have been accepted to work on the LA+ Journal. No other permit requests will be approved. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LARP 9999 Independent Study",
+    "courseid": "LARP 9999",
+    "coursedescription": "An independent study may be taken for elective credit at any point during the degree program for a letter grade. For permission, students must prepare a written proposal in the preceding semester and obtain a Landscape Architecture faculty advisor to oversee their work. Details are available in the Landscape Architecture department office.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-2 Course Units",
+      "notes": [
+        "For permission, students must prepare a written proposal in the preceding semester and obtain a Landscape Architecture faculty advisor to oversee their work."
+      ]
+    }
+  }
+]

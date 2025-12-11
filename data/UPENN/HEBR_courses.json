@@ -1,0 +1,142 @@
+[
+  {
+    "coursename": "HEBR 0100 Elementary Modern Hebrew I",
+    "courseid": "HEBR 0100",
+    "coursedescription": "An introduction to the skills of reading, writing, and conversing in modern Hebrew. This course assumes no previous knowledge of Hebrew. A grade of B- or higher is needed to continue in the language. Fall or Spring Also Offered As: JWST 0100 Mutually Exclusive: HEBR 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 0200 Elementary Modern Hebrew II",
+    "courseid": "HEBR 0200",
+    "coursedescription": "A continuation of first semester Elementary Modern Hebrew, which assumes basic skills of reading and speaking and the use of the present tense. Open to all students who have completed one semester of Hebrew at Penn with a grade of B- or above and new students with equivalent competency. Fall or Spring Also Offered As: JWST 0200 Mutually Exclusive: HEBR 5200 Prerequisite: HEBR 0100 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 0300 Intermediate Modern Hebrew III",
+    "courseid": "HEBR 0300",
+    "coursedescription": "Development of the skills of reading, writing, and conversing in modern Hebrew on an intermediate level. Open to all students who have completed two semesters of Hebrew at Penn with a grade of B- or above and new students with equivalent competency. Fall or Spring Also Offered As: JWST 0300 Mutually Exclusive: HEBR 5300 Prerequisite: HEBR 0200 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 0400 Intermediate Modern Hebrew IV",
+    "courseid": "HEBR 0400",
+    "coursedescription": "This course constitutes the final semester of Intermediate Modern Hebrew. Hence, one of the main goals of the course is to prepare the students for the proficiency exam in Hebrew. Emphasis will be placed on grammar skills and ability to read literary texts. Open to all students who have completed three semesters of Hebrew at Penn with a grade of B- or above and new students with equivalent competency. Fall or Spring Also Offered As: JWST 0400 Mutually Exclusive: HEBR 5400 Prerequisite: HEBR 0300 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 1000 Advanced Modern Hebrew",
+    "courseid": "HEBR 1000",
+    "coursedescription": "In this course students are introduced to the vibrant world of contemporary Israeli culture by reading some of the best plays, poems, short stories and journalism published in Israel today. They also watch and analyze some of Israel's most popular films, TV programs, and videos. Themes include Jewish-Arab relations, the founding of the State, family ties and intergenerational conflict, war and society, and the recent dynamic changes in Israel society. Students must have taken four semesters of Hebrew at Penn or permission of instructor. Since the content of this course may change from year to year, students may take it more than once (but only once for credit). Fall or Spring Also Offered As: JWST 1000 Mutually Exclusive: HEBR 6000 Prerequisite: HEBR 0400 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 0400"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students must have taken four semesters of Hebrew at Penn or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HEBR 4000 Rabbinic Writers on Rabbinic Culture",
+    "courseid": "HEBR 4000",
+    "coursedescription": "This course traces reflections on rabbinic culture produced within Jewish legal literature of the classic rabbinic period - - Midrash, Mishna, and Talmud - - and in later juridical genres - - Talmudic commentary, codes and responses. Attention will be paid to the mechanics of different genres, the role of the underlying proof text, the inclusion or exclusion of variant opinions, the presence of non-legal information, the balance between precedent and innovation. Reading knowledge of Hebrew is required. Not Offered Every Year Also Offered As: JWST 4000 , RELS 4300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 5100 Elementary Modern Hebrew I",
+    "courseid": "HEBR 5100",
+    "coursedescription": "An introduction to the skills of reading, writing, and conversing in modern Hebrew. This course assumes no previous knowledge of Hebrew. A grade of B- or higher is needed to proceed to the next level. Fall or Spring Mutually Exclusive: HEBR 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 5200 Elementary Modern Hebrew II",
+    "courseid": "HEBR 5200",
+    "coursedescription": "A continuation of Elementary Modern Hebrew I, which assumes basic skills of reading and speaking and the use of the present tense. Open to all students who have completed one semester of Hebrew at Penn with a grade of B- or above and new students with equivalent competency. Mutually Exclusive: HEBR 0200 Prerequisite: HEBR 5100 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 5300 Intermediate Modern Hebrew III",
+    "courseid": "HEBR 5300",
+    "coursedescription": "Development of the skills of reading, writing, and conversing in modern Hebrew on an intermediate level. Open to all students who have completed two semesters of Hebrew at Penn with a grade of B- or above and new students with equivalent competency. Fall or Spring Mutually Exclusive: HEBR 0300 Prerequisite: HEBR 5200 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 5200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 5400 Intermediate Modern Hebrew IV",
+    "courseid": "HEBR 5400",
+    "coursedescription": "This course constitutes the final semester of Intermediate Modern Hebrew. Hence, one of the main goals of the course is to prepare the students for the proficiency exam in Hebrew. Emphasis will be placed on grammar skills and ability to read literary texts. Open to all students who have completed three semesters of Hebrew at Penn with a grade of B- or above and new students with equivalent competency. Fall or Spring Mutually Exclusive: HEBR 0400 Prerequisite: HEBR 5300 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 6000 Advanced Modern Hebrew",
+    "courseid": "HEBR 6000",
+    "coursedescription": "After four semesters of language study, it's time to enter the vibrant world of contemporary Israeli culture. In this course students read some of the best plays, poems, short stories, and journalism published in Israel today. They also watch and analyze some of Israel's most popular films, TV programs, and videos. Themes include Jewish-Arab relations, the founding of the State, family ties and intergenerational conflict, war and society, and the recent dynamic changes in Israel society. HEBR 054 or permission of instructor. Since the content of this course may change from year to year, students may take it more than once (but only once for credit). Fall or Spring Mutually Exclusive: HEBR 1000 Prerequisite: HEBR 0400 1 Course Unit",
+    "course-prerequsities": [
+      "HEBR 0400"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "HEBR 054 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HEBR 6100 Seminar in Rabbinic Literature",
+    "courseid": "HEBR 6100",
+    "coursedescription": "Most of the foundational writings of rabbinic Judaism corpora of Midrash, Mishna, and the two Talmuds were in existence by the end of the sixth century CE. Yet, for several centuries thereafter, there is little evidence attesting to the lived nature of rabbinic culture and society. Course will focus on writings by Jews and about Jews, produced between the 7th and 10th centuries, complemented by secondary sources. Texts will include selections from archaeological inscriptions; Midrash; liturgical poetry; Targum; Masora; geonic responsa, writings by Muslims and by Church Fathers. While students must be able to read Hebrew, much class time will be devoted to the improvement of reading and comprehension skills. Undergraduates should seek permission of the instructor. Not Offered Every Year Also Offered As: JWST 5300 , MELC 5300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Undergraduates should seek permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "HEBR 6200 Studies in Medieval Jewish Culture",
+    "courseid": "HEBR 6200",
+    "coursedescription": "Through close reading of primary sources in the original Hebrew, participants in this seminar will explore historical circumstances that engaged and shaped medieval Jews in both Christian and Muslim lands, along with the enduring cultural projects that Jews themselves produced. Topics will include Geonica, Karaism, the encounter of Reason and Revelation; the Christian “Other”: the Muslim “Other”; legal codification; the Tosafist project; Rhineland Pietism; Minhag (custom); family life; the aesthetic dimension; Kabbalah; conversos; messianism. Students should be able to comfortably read unpointed Hebrew. Fall Also Offered As: JWST 6200 , RELS 6200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "HEBR 9999 Independent Study",
+    "courseid": "HEBR 9999",
+    "coursedescription": "An independent study in Hebrew language for PhD students 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

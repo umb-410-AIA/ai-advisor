@@ -1,0 +1,402 @@
+[
+  {
+    "coursename": "MENG 1105a or b, Mechanical Design Staff",
+    "courseid": "MENG 1105a",
+    "coursedescription": "A course designed for potential majors in mechanical engineering, with units on design methodology, statics, mechanics of materials, and machining. Includes a design project. Prerequisite: physics at the level of PHYS 180, or permission of instructor. SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "PHYS 180",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: physics at the level of PHYS 180, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MENG 2050a or b, Computer-Aided Engineering Staff",
+    "courseid": "MENG 2050a",
+    "coursedescription": "Aspects of computer-aided design and manufacture (CAD/CAM). The computer's role in the mechanical design and manufacturing process; commercial tools for two- and three-dimensional drafting and assembly modeling; finite-element analysis software for modeling mechanical, thermal, and fluid systems. Prerequisite: ENAS 130 or permission of instructor. QR HTBA",
+    "course-prerequsities": [
+      "ENAS 130"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: ENAS 130 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MENG 2147b, Intermediate Mechanical Design Omer Subasi",
+    "courseid": "MENG 2147b",
+    "coursedescription": "This is a hands-on, project-based course in mechanical design. Students work on design projects that expose them to a variety of manufacturing techniques, including laser cutting, 3D printing, machining, and soldering. Completing these projects gives students the opportunity to hone many practical skills, including computer-aided design, parametric modeling, creating webpages, and programming microcontrollers. Throughout the semester, students create a design portfolio that showcases their projects. Prerequisite: MENG 185. TTh 9am-10:15am",
+    "course-prerequsities": [
+      "MENG 185",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 2311a, Mechanical Engineering I: Strength and Deformation of Mechanical Elements Omer Subasi",
+    "courseid": "MENG 2311a",
+    "coursedescription": "Elements of statics; mechanical behavior of materials; equilibrium equations, strains and displacements, and stress-strain relations. Elementary applications to trusses, bending of beams, pressure vessels, and torsion of bars. Prerequisites: PHYS 180 or 200, and MATH 115. QR , SC RP MWF 10:30am-11:20am",
+    "course-prerequsities": [
+      "PHYS 180",
+      "200",
+      "MATH 115",
+      "MWF 10",
+      "30AM-11"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 2511a or b, Thermodynamics for Mechanical Engineers Staff",
+    "courseid": "MENG 2511a",
+    "coursedescription": "Study of energy and its transformation and utilization. First and Second Laws for closed and open systems, equations of state, multicomponent nonreacting systems, auxiliary functions (H, A, G), and the chemical potential and conditions of equilibrium. Engineering devices such as power and refrigeration systems and their efficiencies. Prerequisites: PHYS 180 or 200, and MATH 115. QR , SC HTBA",
+    "course-prerequsities": [
+      "PHYS 180",
+      "200",
+      "MATH 115"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 2615a, Introduction to Materials Science Jan Schroers",
+    "courseid": "MENG 2615a",
+    "coursedescription": "Study of the atomic and microscopic origin of the properties of engineering materials: metals, glasses, polymers, ceramics, and composites. Phase diagrams; diffusion; rates of reaction; mechanisms of deformation, fracture, and strengthening; thermal and electrical conduction. Prerequisites: elementary calculus and background in basic mechanics (deformation, Hooke's law) and structure of atoms (orbitals, periodic table). QR , SC RP TTh 9am-10:15am",
+    "course-prerequsities": [
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 2616La or b, Solid Mechanics and Materials Science Laboratory Staff",
+    "courseid": "MENG 2616La",
+    "coursedescription": "This course introduces undergraduate students to a variety of microstructure characterization and mechanical testing techniques for engineering materials. It offers hands-on laboratory projects that enable students to investigate the relationship between the mechanical behavior of materials and their microstructure. Topics include bending and hardness tests, processing of materials, and fracture. The course uses several characterization methods, including scanning electron microscopy, atomic force microscopy, x-ray diffraction, differential scanning calorimetry, nanomechanical testing, and tensile testing. Prerequisite: MENG 285 SC RP 0 Course cr HTBA",
+    "course-prerequsities": [
+      "MENG 285",
+      "RP 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 3020Lb, Mechatronics Laboratory Madhusudhan Venkadesan",
+    "courseid": "MENG 3020Lb",
+    "coursedescription": "Hands-on synthesis of control systems, electrical engineering, and mechanical engineering. Review of Laplace transforms, transfer functions, software tools for solving ODEs. Review of electronic components and introduction to electronic instrumentation. Introduction to sensors; mechanical power transmission elements; programming microcontrollers; PID control. Prerequisites: ENAS 194 or equivalent, ENAS 130, and EENG 200; or permission of instructor. QR RP F 10:30am-1:30pm, MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "ENAS 194",
+      "ENAS 130",
+      "EENG 200",
+      "F 10",
+      "30AM-1",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: ENAS 194 or equivalent, ENAS 130, and EENG 200; or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MENG 3125a, Machine Elements and Manufacturing Processes Edward Diehl",
+    "courseid": "MENG 3125a",
+    "coursedescription": "This course provides students a working knowledge of two fundamental topics related to mechanical design: machine elements and manufacturing processes. Machine elements refer one or more of a range of common design elements that transmit power and enable smooth and efficient motion in mechanical systems with moving parts. This course introduces the most common of these elements and gives students the tools to systems design with them. Topics include common linkages, gearing, bearings, springs, clutches, brakes, and common actuators such as DC motors. Manufacturing processes are necessary for the mechanical design engineer to effectively perform her or his duties; they provide an understanding of how the parts and systems that they design are fabricated, allowing “Design for Manufacturing” principles to be taken into account in the product development process. Students learn the basics of common commercial manufacturing processes for mechanical systems, including low-volume processes such as machining to high-volume processes such as casting (metal parts), molding (plastic parts), and stamping (sheet metal parts). Prerequisites: Extensive CAD experience. MENG 185 and MENG 280 recommended. MW 9am-10:15am",
+    "course-prerequsities": [
+      "MENG 185",
+      "MENG 280",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "MENG 185 and MENG 280 recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "MENG 3323a or b, Mechanical Engineering III: Dynamics Staff",
+    "courseid": "MENG 3323a",
+    "coursedescription": "Kinematics and dynamics of particles and systems of particles. Relative motion; systems with constraints. Rigid body mechanics; gyroscopes. Prerequisites: PHYS 180 or 200, and MATH 120 or ENAS 151. QR , SC HTBA",
+    "course-prerequsities": [
+      "PHYS 180",
+      "200",
+      "MATH 120",
+      "ENAS 151"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 3422a, Mechanical Engineering II: Fluid Mechanics Mitchell Smooke",
+    "courseid": "MENG 3422a",
+    "coursedescription": "Mechanical properties of fluids, kinematics, Navier-Stokes equations, boundary conditions, hydrostatics, Euler's equations, Bernoulli's equation and applications, momentum theorems and control volume analysis, dimensional analysis and similitude, pipe flow, turbulence, concepts from boundary layer theory, elements of potential flow. Prerequisites: ENAS 194 or equivalent, and physics at least at the level of PHYS 180. QR , SC RP MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "ENAS 194",
+      "PHYS 180",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MENG 3423Lb, Fluid Mechanics and Thermodynamics Laboratory Staff",
+    "courseid": "MENG 3423Lb",
+    "coursedescription": "Hands-on experience in applying the principles of fluid mechanics and thermodynamics. Integration of experiment, theory, and simulation to reflect real-world phenomena. Students design and test prototype devices. Prerequisites: MENG 211 and 361. WR , SC 0 Course cr HTBA",
+    "course-prerequsities": [
+      "MENG 211",
+      "361",
+      "SC 0"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 3424b, Mechanical Engineering IV: Fluid and Thermal Energy Science Amir Pahlavan",
+    "courseid": "MENG 3424b",
+    "coursedescription": "Fundamentals of mechanical engineering applicable to the calculation of energy and power requirements, as well as transport of heat by conduction, convection, and radiation. Prerequisites: MENG 211, 361, and ENAS 194; or permission of instructor. QR , SC MW 9am-10:15am",
+    "course-prerequsities": [
+      "MENG 211",
+      "ENAS 194",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MENG 211, 361, and ENAS 194; or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MENG 3465a, Chemical Propulsion Systems Alessandro Gomez",
+    "courseid": "MENG 3465a",
+    "coursedescription": "Study of chemical propulsion systems. Topics include review of propulsion fundamentals; concepts of compressible fluid flow; development and application of relations for Fanno and Rayleigh flows; normal and oblique shock systems to various propulsion system components; engine performance characteristics; fundamentals of turbomachinery; liquid and solid rocket system components and performance. Prerequisite: MENG 361 or permission of instructor. QR , SC RP MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "MENG 361",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: MENG 361 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MENG 3675b, Thermodynamics, Kinetics, and Structure of Materials Jan Schroers",
+    "courseid": "MENG 3675b",
+    "coursedescription": "This advanced-level course focuses on the thermodynamic and kinetic aspects of materials and how they define structure and properties. We first discuss thermodynamics relevant to materials. This includes thermodynamic laws, auxiliary functions to develop convenient equations of state to describe equilibrium, Gibbs Free Energy ( G ), experimental determination of G , model calculations of G such as ideal solutions and regular solutions, using G curves to construct equilibrium conditions, phase diagram constructions, reading of phase diagrams. We then focus on solidification which we develop from the phenomena of undercooling, nucleation and growth. Combining both, allows us to predict microstructures formed during solidification far and close to equilibrium. We also discuss glass formation, the case when nucleation and growth can be suppressed, and the liquid freezes upon cooling into a glass. Prerequisite: MENG 285. 0 Course cr TTh 9am-10:15am",
+    "course-prerequsities": [
+      "MENG 285",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 4041b / ENAS 4041b, Applied Numerical Methods for Differential Equations Beth Anne Bennett",
+    "courseid": "MENG 4041b",
+    "coursedescription": "The derivation, analysis, and implementation of numerical methods for the solution of ordinary and partial differential equations, both linear and nonlinear. Additional topics such as computational cost, error estimation, and stability analysis are studied in several contexts throughout the course. Prerequisites: MATH 115, and 222 or 225, or equivalents; ENAS 130 or some knowledge of Matlab, C++, or Fortran programming; ENAS 194 or equivalent. ENAS 440 is not a prerequisite. QR MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 115",
+      "222",
+      "225",
+      "ENAS 130",
+      "ENAS 194",
+      "ENAS 440",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 4137La, Mechanical Design: Process and Implementation I Edward Diehl",
+    "courseid": "MENG 4137La",
+    "coursedescription": "This course is the first half of the capstone design sequence (students take MENG 488 in the spring semester of the same academic year) and is a unique opportunity to apply and demonstrate broad and detailed knowledge of engineering in a team effort to design, construct, and test a functioning engineering system. The lecture portion of the class provides guidance in planning and managing your project, as well other topics associated with engineering design. This course sequence requires quality design; analyses and experiments to support the design effort; and the fabrication and testing of the engineered system; as well as proper documentation and presentation of results to a technical audience. Prerequisites: MENG 280, MENG 325, MENG 361. MENG 185 and MENG 390 are strongly suggested. RP TTh 1pm-3pm",
+    "course-prerequsities": [
+      "MENG 280",
+      "MENG 325",
+      "MENG 361",
+      "MENG 185",
+      "MENG 390"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 4138Lb, Mechanical Design: Process and Implementation II Edward Diehl",
+    "courseid": "MENG 4138Lb",
+    "coursedescription": "This course is the second half of the capstone design sequence (students take MENG 487 in the fall semester of the same academic year) and is a unique opportunity to apply and demonstrate broad and detailed knowledge of engineering in a team effort to design, construct, and test a functioning engineering system. The lecture portion of the class provides guidance in planning and managing your project, as well other topics associated with engineering design. This course sequence requires quality design; analyses and experiments to support the design effort; and the fabrication and testing of the engineered system; as well as proper documentation and presentation of results to a technical audience. Prerequisites: MENG 487, MENG 280, and MENG 361. MENG 185 and MENG 325 are strongly suggested. ½ Course cr TTh 1pm-3pm",
+    "course-prerequsities": [
+      "MENG 487",
+      "MENG 280",
+      "MENG 361",
+      "MENG 185",
+      "MENG 325"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 4145b, Advanced Design and Analysis of Machines Edward Diehl",
+    "courseid": "MENG 4145b",
+    "coursedescription": "There are many useful, classic mechanisms that require a single actuator to operate. These include four-bar mechanisms, slider-cranks, cam-followers, and scotch-yokes. In this course, students learn to design (synthesize) classic mechanisms. They also learn how to analyze the kinematics and kinetics of important machines. While systems based on single actuators are common, the course then introduces the dynamics of multiple degree-of-freedom machines such as robotic actuators. This course focuses on planar systems and students learn to write equations of motion of robots that can roll forward with multiple articulating linkages. Students design and analyze using SolidWorks and solve equations with Matlab. A project is designed, analyzed, built, and tested utilizing a microcontroller and 3D printer. Prerequisites: ENAS 130, MENG 325. MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "ENAS 130",
+      "MENG 325",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 4154b / BENG 4104b, Medical Device Design and Innovation Daniel Wiznia and Steven Tommasini",
+    "courseid": "MENG 4154b",
+    "coursedescription": "The engineering design, project planning, prototype creation, and fabrication processes for medical devices that improve patient conditions, experiences, and outcomes. Students develop viable solutions and professional-level working prototypes to address clinical needs identified by practicing physicians. Some attention to topics such as intellectual property, the history of medical devices, documentation and reporting, and regulatory affairs. 0 Course cr MW 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 4359a / BENG 4559, Neuromuscular Biomechanics Madhusudhan Venkadesan",
+    "courseid": "MENG 4359a",
+    "coursedescription": "Mechanics and control of animal movement, including skeletal muscle mechanics, systems-level neural and sensory physiology, elements of feedback control, and optimal control. Deriving equations of motion for multibody mechanical systems that are actuated by muscles or muscle-like motors; incorporating sensory feedback; analyzing system properties such as stability and energetics. Prerequisites: MENG 383 and MATH 222 or equivalents, and familiarity with MATLAB or a similar scientific computing environment. QR RP MW 4pm-5:15pm",
+    "course-prerequsities": [
+      "MENG 383",
+      "MATH 222",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 4370b / BENG 4570b, Computational Mechanics Martin Pfaller",
+    "courseid": "MENG 4370b",
+    "coursedescription": "This course integrates fundamental concepts from nonlinear continuum mechanics and finite element methods applied to solid and fluid mechanics, focusing on theoretical understanding and numerical techniques. Topics covered are fundamentals of tensor calculus, kinematics, balance equations, constitutive relationships, geometric and material nonlinearities, nonlinear solution strategies, stability, nonlinear dynamics, errors, convergence, and adaptivity. Applications in biomedical engineering are stressed throughout the course. Fundamentals in calculus, differential equations, and linear algebra. TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MENG 4469a, Aerodynamics Juan de la Mora",
+    "courseid": "MENG 4469a",
+    "coursedescription": "Review of fluid dynamics. Inviscid flows over airfoils; finite wing theory; viscous effects and boundary layer theory. Compressible aerodynamics: normal and oblique shock waves and expansion waves. Linearized compressible flows. Some basic knowledge of thermodynamics is expected. Prerequisite: MENG 361 or permission of instructor. QR , SC TTh 9am-10:15am",
+    "course-prerequsities": [
+      "MENG 361",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: MENG 361 or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "MENG 4475a / ENAS 475, Fluid Mechanics of Natural Phenomena Amir Pahlavan",
+    "courseid": "MENG 4475a",
+    "coursedescription": "This course draws inspiration from nature and focuses on utilizing the fundamental concepts of fluid mechanics and soft matter physics to explain these phenomena. We study a broad range of problems related to i) nutrient transport in plants, slime molds, and fungi and the adaptation of their networks in dynamic environments, ii) collective behavior and chemotaxis of swimming microorganisms, and iii) pattern formation in nature, e.g. icicles, mud cracks, salt polygons, dendritic crystals, and Turing patterns. We also discuss how our understanding of these problems could be used to develop sustainable solutions for the society, e.g. designing synthetic trees to convert CO2 to oxygen, developing micro/nano robots for biomedical applications, and utilizing pattern formation and self-assembly to make new materials. Prerequisite: MENG 361. MW 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MENG 361",
+      "MW 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MENG 4664b, Forces on the Nanoscale Udo Schwarz",
+    "courseid": "MENG 4664b",
+    "coursedescription": "Modern materials science often exploits the fact that atoms located at surfaces or in thin layers behave differently from bulk atoms to achieve new or greatly altered material properties. The course provides an in-depth discussion of intermolecular and surface forces, which determine the mechanical and chemical properties of surfaces. In the first part, we discuss the fundamental principles and concepts of forces between atoms and molecules. Part two generalizes these concepts to surface forces. Part three then gives a variety of examples. The course is of interest to students studying thin-film growth, surface coatings, mechanical and chemical properties of surfaces, soft matter including biomembranes, and colloidal suspensions. Some knowledge of basic physics, mathematics, chemistry, and thermodynamics is expected. SC 0 Course cr TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is of interest to students studying thin-film growth, surface coatings, mechanical and chemical properties of surfaces, soft matter including biomembranes, and colloidal suspensions."
+      ]
+    }
+  },
+  {
+    "coursename": "MENG 4672b, Electronic and Optical Properties of Energy Materials Diana Qiu",
+    "courseid": "MENG 4672b",
+    "coursedescription": "This class explores the electronic and optical properties of materials from the perspective of electronic and molecular structure with a special focus on the microscopic origin and design of properties of interest for energy harvesting, storage, and transport. The course starts by briefly introducing concepts in quantum mechanics, such as wavefunctions and the time-independent Schrodinger equations. Then, we explore electronic structure in the context of designing materials for energy harvesting and generation, such as photovoltaics, thermoelectrics, and piezoelectrics. We also study dynamical processes, such as hot electron relaxation, multi-exciton generation, charge transport, and energy transport at a phenomenological level. Finally, we overview common energy storage materials, with a focus on solid-state batteries and solar fuels. Prerequisite: MENG 285, ENAS 151, or permission of instructor QR , SC TTh 9am-10:15am",
+    "course-prerequsities": [
+      "MENG 285",
+      "ENAS 151",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This class explores the electronic and optical properties of materials from the perspective of electronic and molecular structure with a special focus on the microscopic origin and design of properties of interest for energy harvesting, storage, and transport.",
+        "Prerequisite: MENG 285, ENAS 151, or permission of instructor QR , SC TTh 9am-10:15am"
+      ]
+    }
+  },
+  {
+    "coursename": "MENG 4673a, Introduction to Nanomaterials and Nanotechnology Cong Su",
+    "courseid": "MENG 4673a",
+    "coursedescription": "Survey of nanomaterial synthesis methods and current nanotechnologies. Approaches to synthesizing nanomaterials; characterization techniques; device applications that involve nanoscale effects. Prerequisites: ENAS 194 and MENG 285, or permission of instructor. SC MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "ENAS 194",
+      "MENG 285",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: ENAS 194 and MENG 285, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* MENG 4774b / BENG 4724b, Topics in Computational and Systems Biology Purushottam Dixit",
+    "courseid": "MENG 4774b",
+    "coursedescription": "This course covers topics related to modeling biological networks across time and length scales. Specifically, the course covers models of intracellular signaling networks, transcriptional regulation networks, cellular metabolic networks, and ecological networks in microbial consortia. For each type of network, we cover the biological basics, standard mathematical treatments including deterministic and stochastic modeling, methods to infer model parameters from data, and new machine-learning based inference approaches. The required mathematical methods are briefly covered. The course assignments involve coding in MATLAB. Prerequisite: MATH 120 or ENAS 151. MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "MATH 120",
+      "ENAS 151",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* MENG 4991a or b, Special Projects I Staff",
+    "courseid": "MENG 4991a",
+    "coursedescription": "Faculty-supervised one- or two-person projects with emphasis on research (experiment, simulation, or theory), engineering design, or tutorial study. Students are expected to consult the course instructor, director of undergraduate studies, and/or appropriate faculty members to discuss ideas and suggestions for topics. Focus on development of professional skills such as writing abstracts, prospectuses, and technical reports as well as good practices for preparing posters and delivering presentations. Permission of advisor and director of undergraduate studies is required. Students are required to attend a 75-minute section once per week. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Permission of advisor and director of undergraduate studies is required."
+      ]
+    }
+  },
+  {
+    "coursename": "* MENG 4992a or b, Special Projects II Staff",
+    "courseid": "MENG 4992a",
+    "coursedescription": "Faculty-supervised one- or two-person projects with emphasis on research (experiment, simulation, or theory), engineering design, or tutorial study. Students are expected to consult the course instructor, director of undergraduate studies, and/or appropriate faculty members to discuss ideas and suggestions for topics. These courses may be taken at any time during the student's career and may be taken more than once. Prerequisites: MENG 471 or 472; permission of adviser and director of undergraduate studies. HTBA",
+    "course-prerequsities": [
+      "MENG 471",
+      "472"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MENG 471 or 472; permission of adviser and director of undergraduate studies."
+      ]
+    }
+  }
+]

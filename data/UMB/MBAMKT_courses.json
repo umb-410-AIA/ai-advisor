@@ -1,0 +1,40 @@
+[
+  {
+    "coursename": "Entrepreneurship Sales & Marketing",
+    "courseid": "MBAMKT668",
+    "coursedescription": "Entrepreneurship Sales & Marketing is a course that will prepare you for an entry level sales and marketing position in a startup initiative as well as prepare you to launch your own sales and marketing initiative in your own startup. Live role play scenarios with experienced sales and marketing entrepreneurs will prepare you for the multiple areas of responsibilities and interactions within a startup organization as well as outward facing prospect and customer responsibilities and interactions that are required in a startup. And you will be exposed to the overall process and tools that drive a sales/marketing organization in a startup. Students will also be provided preparation assistance and given priority consideration to the internships offered through UMass Boston's Student Entrepreneurship Program (StEP)",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Marketing Management",
+    "courseid": "MBAMKT670",
+    "coursedescription": "This course focuses on the strategic decisions necessary to match organizational resources with market opportunities. Students learn to analyze market opportunities, to develop marketing plans and marketing mix strategies, and to manage implementation and control of the marketing plan.",
+    "course-prerequsities": [
+      "AF 610"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Marketing Communications",
+    "courseid": "MBAMKT673",
+    "coursedescription": "This course helps students develop an integrated communications strategy, blending individual external elements such as advertising, personal selling, sales promotion (including direct marketing and trade shows), and publicity with internal communications. The course is managerial in nature and provides the student with the necessary ability to analyze, plan, implement, and control marketing communications programs.",
+    "course-prerequsities": [
+      "MBAMKT 670"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Marketing Analytics for Big Data",
+    "courseid": "MBAMKT676",
+    "coursedescription": "Organizations large and small are inundated with data about markets and consumers. But the wealth of information does not always translate into better decisions. Knowing how to interpret data is the challenge - and marketers in particular are increasingly expected to use analytics to inform and justify their decisions. Considering the significant impact the big data and analytics, this course will be focused on understanding and making sense of market data collected at various levels. Students will learn data analysis methods, learn how to use R - one of the fasted growing software programs in business analytics, and have hands-on experience of data analysis by applying those methods to real cases.",
+    "course-prerequsities": [
+      "MBAMKT 670"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

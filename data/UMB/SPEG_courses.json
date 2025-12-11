@@ -1,0 +1,123 @@
+[
+  {
+    "coursename": "Behavioral and Classroom Management",
+    "courseid": "SPEG607",
+    "coursedescription": "This course identifies major theorists, techniques, and procedures for facilitating constructive behavior in the classroom. Topics include observational recording systems, contingency contracting, and monitoring of behavioral progress. Emphasis is on pro-social skill development and classroom structures conducive to collaborative learning. Field-work components are included.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introduction to Disabilities for Educational Professionals",
+    "courseid": "SPEG621",
+    "coursedescription": "This course focuses on the physical, cognitive, behavioral, and psychological aspects of the atypical developmental patterns of children and adolescents with varying disabilities. Emphasis is given to the conceptual frameworks for understanding normalcy, including cultural, racial, ethnic and linguistic expectations, family, community, and peer group norms, and gender roles and stereotypes within the context of today's urban schools. Legal definitions of disabilities are stressed as well as the range of learning differences within typical development. This course includes a fieldwork component",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Standardized Assessments for Students with Moderate Disabilities, PreK-12",
+    "courseid": "SPEG624",
+    "coursedescription": "This course examines standardized assessment procedures and tools for nondiscriminatory screening and identification of students with special educational needs (PreK-8 and 5-12). Primary emphasis is given to appropriate administering, scoring, and interpreting norm-referenced and criterion-referenced tests designed to assess student learning styles and academic achievement. Through field-based experiences participants administer a test battery to an individual student and learn how to analyze patterns of strength and weakness, how to synthesize findings into professional reports, and how to determine appropriate goals, objectives, and instructional recommendations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Building Collaborative Partnerships with Families of Students with Disabilities",
+    "courseid": "SPEG630",
+    "coursedescription": "The course focuses on implementing effective strategies in working with parents of exceptional children. Participants become sensitive to the issues of parenting a child with special needs and learn to establish a collaborative relationship with parents that makes the best possible use of available resources.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Legal and Political Issues in Special Education",
+    "courseid": "SPEG633",
+    "coursedescription": "The field of special education is governed by laws (Chapter 766, PL 94-142, PL 101-476, and PL 99-457) and is thus subject to the political process. This course addresses the critical legal aspects of special education, with an in-depth review of legislation, regulations, and current practice issues. The major goal of the course is to clarify for special education teachers their obligations under the law, and to develop strategies for implementing the law with full compliance.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Career Development and Competitive Employment",
+    "courseid": "SPEG655",
+    "coursedescription": "This graduate-level, secondary transition course is designed to give participants both an overview of the career development process and a student-centered framework for career preparation. course goals are based on career-related transition competencies, and are designed to help participants assess students' career interests, use formal and informal career assessments, assist students to develop a course of study related to career interests, identify and assist students to engage in career exploration activities, incorporate connection activities into a student's career plan, and develop work-based learning opportunities. Field-based assignments involve identifying a focal person/student, and using a student-centered approach to career development and planning, in order to pave the way for integrated, competitive work experiences during and following high school. As with other courses in this program, participants in this class will hear from experts across the state whose focus is on career awareness and development for youth with and without disabilities.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "course goals are based on career-related transition competencies, and are designed to help participants assess students' career interests, use formal and informal career assessments, assist students to develop a course of study related to career interests, identify and assist students to engage in career exploration activities, incorporate connection activities into a student's career plan, and develop work-based learning opportunities."
+      ]
+    }
+  },
+  {
+    "coursename": "Postsecondary Education for Students with Disabilities",
+    "courseid": "SPEG656",
+    "coursedescription": "This graduate-level, secondary transition course is designed to give participants an overview of postsecondary education options and the processes of applying for, enrolling in, and completing a postsecondary education course of study, using a person-centered framework. In particular, participants will learn how important it is that youth with disabilities are better prepared for college, both academically and with self-determination skills, and what specific documentation of disabilities is needed to insure receiving appropriate accommodations from disability services on campus. Participants in this class will work directly with a student with a disability who has expressed an interest in attending college as a bridge to integrated paid employment. Field-based assignments will involve a focal person interested in postsecondary education, who will be supported to develop an action plan, visit a college,and begin to compile an e-portfolio.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Participants in this class will work directly with a student with a disability who has expressed an interest in attending college as a bridge to integrated paid employment.",
+        "Field-based assignments will involve a focal person interested in postsecondary education, who will be supported to develop an action plan, visit a college,and begin to compile an e-portfolio."
+      ]
+    }
+  },
+  {
+    "coursename": "Autism Spectrum Disorders: Programs, Services, and Supports",
+    "courseid": "SPEG663",
+    "coursedescription": "This course focuses on the design of effective educational programs and individual supports for students with ASD based on peer-reviewed research to the extent practicable to support students in the least restrictive environment. Knowledge of the range of specialized and individualized instructional strategies and supports for students with autism, including assistive technology, to address needs related to the core symptoms of autism will be discussed.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course focuses on the design of effective educational programs and individual supports for students with ASD based on peer-reviewed research to the extent practicable to support students in the least restrictive environment."
+      ]
+    }
+  },
+  {
+    "coursename": "Autism Spectrum Disorder: Field Experience",
+    "courseid": "SPEG664",
+    "coursedescription": "This course focuses on the field-based experience required for the Massachusetts Autism Endorsement for Educators (603 CMR 7.00). Due to the varying nature of the presentation of autism spectrum disorder (ASD) within individuals, candidates' eligible for the endorsement should be evaluated based on the demonstration of course- and field-work experiences and assignments that comprehensively and specifically address the required competencies. This course meets the requirement of field experience working with students with ASD and includes related experience to focus upon core areas (e.g., classroom climate, assessment, instructional practices, social skill development, working with paraprofessionals and other school staff, working with families).",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Capstone Research Seminar in Special Education: Professional Licensure",
+    "courseid": "SPEG692",
+    "coursedescription": "This course utilizes current research in educational practices and qualitative research methodology as a foundation for the critical analysis of the student's own teaching. Students conduct and original research project based on a thematic interdisciplinary unit, which allows them to evaluate the impact of the unit as well as reflecting on their teaching. This research project represents the final capstone experience required for M.Ed. Degree leading to Professional Licensure.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum: Transition Leadership I",
+    "courseid": "SPEG693",
+    "coursedescription": "This seminar supports Transition Specialist (TS) candidates who are applying evidence-based transition policies and practices in high-need school districts in the first of semester-long practica. Assignments for this seminar are focused on supporting TS candidates as they work with and build the capacity of a school district to develop and sustain an interagency transition team that will support tall transition-ages students with disabilities. TS candidates will meet every week, via web conferencing, to discuss both the successes and challenges of team creation and facilitation. Related activities include determining team membership, securing commitment from members to meet regularly, communicating the purpose of the team, establishing roles and responsibilities for all members, setting goals and deadlines, and evaluation the team's effectiveness in meeting its goals.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "SPEG696",
+    "coursedescription": "Faculty-directed course of study in a particular area of interest or a fieldwork experience. A detailed proposal of intent must be submitted to the faculty member prior to registration.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Faculty-directed course of study in a particular area of interest or a fieldwork experience."
+      ]
+    }
+  },
+  {
+    "coursename": "Moderate Practicum",
+    "courseid": "SPEG698",
+    "coursedescription": "A supervised practicum and seminar for trainees working with school-aged children identified as having mild to moderate special needs (Pre K-8, 5-12) who are receiving Chapter 766 services.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

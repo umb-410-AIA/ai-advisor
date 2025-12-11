@@ -1,0 +1,259 @@
+[
+  {
+    "coursename": "IPD 5000 Product Engineering Basics",
+    "courseid": "IPD 5000",
+    "coursedescription": "The course targets non-engineering majors interested in understanding engineering approaches to product fabrication. The course covers a broad variety of engineering topics including mechanical, electrical, computer and material science. Many of these topics would normally be full courses in themselves. This course intends to teach familiarity with a focus on hands-on practice as applied to products. Students will briefly use equipment such as MTS materials testing machines, mills, lathes, oscilloscopes, laser cutters, photodiodes, motors, servos, microcomputers as well as engineering software such as Solidworks, C compilers, Labview, Matlab, and Cambridge Engineering Selector. The class concludes with independent projects. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course targets non-engineering majors interested in understanding engineering approaches to product fabrication."
+      ]
+    }
+  },
+  {
+    "coursename": "IPD 5010 Integrated Computer-Aided Design, Manufacturing and Analysis",
+    "courseid": "IPD 5010",
+    "coursedescription": "The majority of today's engineered products move through an advanced computer-aided workflow which greatly speeds design and process time. This course will explore the fundamental components of this workflow through a combination of lectures, hands-on exercises, and a semester design project. General course topics include: fundamental design principles, project definition and needfinding, advanced computer-aided design, rapid prototyping techniques, computer-controlled machining, and an in-depth exploration of the modern analysis and simulation tools that have revolutionized the way in which products are designed. Enrollment is limited. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5030 Design Fundamentals",
+    "courseid": "IPD 5030",
+    "coursedescription": "The creation of a successful product requires the integration of design, engineering, and marketing. The purpose of this intensive studio course is to introduce basic concepts in the design of three-dimensional products. For purposes of the course, design is understood as a creative act of synthesis expressed through various modes of 2-dimensional and 3-dimensional representation. The course develops basic design skills ranging from hand sketching to the use of digital modeling software and rapid prototyping. Fulfills the requirement for a design background course in the interdisciplinary graduate program in Integrated Product Design (IPD). Summer Term 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5040 Rehab Engineering and Design",
+    "courseid": "IPD 5040",
+    "coursedescription": "Students will learn about problems faced by disabled persons and medical rehabilitation specialists, and how engineering design can be used to solve and ameliorate those problems. The course combines lectures, multiple design projects and exercises, and field trips to clinical rehabilitation facilities. Students will have substantial interaction with clinical faculty, as well as with patients. Prerequisite: Graduate students or permission of the instructor. Fall Also Offered As: BE 5140 1 Course Unit",
+    "course-prerequsities": [
+      "BE 5140"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: Graduate students or permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "IPD 5090 Needfinding",
+    "courseid": "IPD 5090",
+    "coursedescription": "Needfinding is an approach that puts people and their needs at the center of product development and business strategy creation. Over 90% of new products introduced into the marketplace fail. A good portion of these failures are due to lack of understanding of end consumers and their needs. To develop truly successful new products, it's not enough just to ask people what they need or want. Designers and engineers need tools and techniques to get beyond what people can explicitly state and determine their implicit needs. Needfinding is an approach for developing deep insights that provide strategic direction for corporations and open up new possibilities for product development. In this class students will gain a toolset from which to develop their own approaches to conducting researching for design: learning how to think about other people, about culture, and about new perspectives. They will also learn tactical skills: how to define research questions, how to conduct observations and interviews, how to interpret results, how to synthesize them into fodder for design, and how to communicate their findings in a way that is compelling and actionable for designers, marketers, and business strategists. This class is designed for graduate students and upper level undergrads with a specific interest in product design or design thinking. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This class is designed for graduate students and upper level undergrads with a specific interest in product design or design thinking."
+      ]
+    }
+  },
+  {
+    "coursename": "IPD 5110 How to Make Things: Production Prototyping Studio",
+    "courseid": "IPD 5110",
+    "coursedescription": "The course centers around a sequence of three projects that each culminate in the design and fabrication of functional objects. A 2D Design, 3D Design, and final \"Micro-Manufacturing\" project will introduce students to a wide variety of design, engineering, and fabrication skills made possible by the new Studios @ Tangen Hall. The micro-manufacturing final project will task interdisciplinary student teams to create a \"micro-business\" where they will design and utilize 3D printed molding and casting techniques to create a small-scale run of functional products. These products will then be showcased in an end of semester exposition, where the teams will merchandise and market their products to the Penn community. This exposition will also be a wonderful inaugural use of the student and alumni retail space on the 1st floor of Tangen Hall and serve as a great university-wide event to show case the work of SEAS students. Requires proficiency in solid modeling software (e.g., SolidWorks, Maya, Rhino), practice with design process, and hands-on fabrication experience. Also Offered As: OIDD 5110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5140 Design for Manufacturability",
+    "courseid": "IPD 5140",
+    "coursedescription": "This course is aimed at providing current and future product design/development engineers, manufacturing engineers, and product development managers with an applied understanding of Design for Manufacturability (DFM) concepts and methods. The course content includes materials from multiple disciplines including: engineering design, manufacturing, marketing, finance, project management, and quality systems. Prerequisite: Senior or graduate standing in the School of Design, Engineering, or Business with completed product in development and/or design engineering core coursework or related experience. Spring Also Offered As: MEAM 5140 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 5140"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5150 Product Design",
+    "courseid": "IPD 5150",
+    "coursedescription": "This course provides tools and methods for creating new products. The course is intended for students with a strong career interest in new product development, entrepreneurship, and/or technology development. The course follows an overall product design methodology, including the identification of customer needs, generation of product concepts, prototyping, and design-for-manufacturing. Weekly student assignments are focused on the design of a new product and culminate in the creation of a prototype, which is launched at an end-of-semester public Design Fair. The course project is a physical good - but most of the tools and methods apply to services and software products. The course is open to any Penn sophomore, junior, senior or graduate student. The course follows a studio format, in which students meet for three hours each week with Professor Marcovitz for lectures and hands-on making, and students will complete 90 minutes of asynchronous, self-paced content from Professor Ulrich on their own time each week. Professor Ulrich gives one in-person lecture during the semester and attends the Design Fair, but is not present at the weekly studio sessions. Also Offered As: OIDD 5150 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is intended for students with a strong career interest in new product development, entrepreneurship, and/or technology development."
+      ]
+    }
+  },
+  {
+    "coursename": "IPD 5160 Advanced Mechatronic Reactive Spaces.",
+    "courseid": "IPD 5160",
+    "coursedescription": "This course combines performance art and advanced mechatronics concepts that include the design and implementation of large-scale actuation, advanced sensing, actuation and control. This course pairs design school and engineering students to form interdisciplinary teams that together design and build electro-mechanical reactive spaces and scenic/architectural elements in the context of the performing arts. The two disciplinary groups will be treated separately and receive credit for different courses (ARCH746 will be taught concurrently and in some cases co-located) as they will be learning different things. Engineering students gain design sensibilities and advanced mechatronics in the form of networked embedded processing and protocols for large scale actuation and sensing. Design students learn elementary mechatronics and design reactive architectures and work with engineering students to build them. The class will culminate in a some artistic performance (typically with professional artists) such as a Shakespeare play, robotic ballet, a mechatronic opera. Not Offered Every Year Also Offered As: MEAM 5160 Prerequisite: MEAM 5100 1 Course Unit",
+    "course-prerequsities": [
+      "MEAM 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5190 Smart Devices",
+    "courseid": "IPD 5190",
+    "coursedescription": "An embedded system is the product of a marriage between hardware and software. Embedded systems have grown to be ubiquitous in the modern world - from simple temperature controlled kettles to intricate smart watches with a plethora of functions squeezed into one small package to complex rovers for space exploration. This course introduces the theory and practice of developing embedded systems through exploration of modern microcontroller architectures and culminates in a final project where students have the opportunity to synthesize and apply their knowledge in a project of their own design. Previous programming experience (Preferably C); Some exposure to circuit/electronics; Undergraduates who have taken ESE 3500 are not permitted to take this course. Fall Also Offered As: ESE 5190 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5210 Designing Smart Objects for Play and Learning",
+    "courseid": "IPD 5210",
+    "coursedescription": "Today's children enjoy a wide array of play experiences, with stories, learning, characters and games that exist as physical stand-alone objects or toys enhanced with electronics or software. In this course, students will explore the domain of play and learning in order to develop original proposals for new product experiences that are at once tangible, immersive and dynamic. They will conduct research into education and psychology while also gaining hands-on exposure to new product manifestations in a variety of forms, both physical and digital. Students will be challenged to work in teams to explore concepts, share research and build prototypes of their experiences in the form of static objects that may have accompanying electronic devices or software. Final design proposals will consider future distribution models for product experiences such as 3D printing, virtual reality and software- hardware integration. Instruction will be part seminar and part workshop, providing research guidance and encouraging connections will subject matter experts throughout the Penn campus. Fall Also Offered As: ARCH 7210 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5250 Ergonomics/Human Factors Based Product Design",
+    "courseid": "IPD 5250",
+    "coursedescription": "Human Factors and Ergonomics knowledge is a critical component of a product designer or design engineer's toolbox. This course teaches the direct application of existing human factors/ergonomic data to the creation of new product designs. Applying human factors knowledge to problem solving for product design happens throughout the design process. It is a useful input as initial ideas begin to ut and as a way to verify completed concepts through directly documented user testing and design iteration. The course would be a mini-lecture/studio style course in which the students will work in class on assigned projects, finding, analyzing, extrapolating and applying data to design solutions and creating mockups, modeland prototypes for user testing of their designs. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5270 Industrial Design I",
+    "courseid": "IPD 5270",
+    "coursedescription": "This course provides an introduction to the ideas and techniques of Industrial Design, which operates between Engineering and Marketing as the design component of Integrated Product Development. The course is intended for students from engineering, design, or business with an interest in multi-disciplinary, needs-based product design methods. It will follow a workshop model, combining weekly lectures on design manufacturing, with a progressive set of design exercises. Spring Also Offered As: ARCH 7270 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is intended for students from engineering, design, or business with an interest in multi-disciplinary, needs-based product design methods."
+      ]
+    }
+  },
+  {
+    "coursename": "IPD 5280 Design of Contemporary Products: Design for Equity, Inclusion and Accessibility",
+    "courseid": "IPD 5280",
+    "coursedescription": "The power of design to shape the world we live in is increasingly obvious, as is the responsibility of designers to challenge our assumptions about who designs, who is included or marginalized by our designs, and how we can make sure that all design is inclusive design. This course will address issues around designing for equity, inclusion and accessibility and co-design. We will ask, What is inclusive design? Who does it serve? What should it look like? To answer these questions, we will engage with the current discourse around designing for equity, inclusion and accessibility, with a particular focus on accessibility. We will engage with disability justice frameworks and critical disability studies to challenge our assumptions about disability and engagement. And we will connect with members of the disability community and co-design along with them. This course is intended for anyone who considers themselves a designer: of physical or digital products, places, or services who wants to prioritize inclusion in their practice Spring Also Offered As: ARCH 7280 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5290 Designing Connected Objects and Experiences",
+    "courseid": "IPD 5290",
+    "coursedescription": "Designing Connected Objects and Experiences (IPD5290) explores the intersection of design, technology, and art. Students create interactive objects through three hands-on projects: a sensory object using silicone casting in 3D-printed molds, a digital pet responsive to sensors and IoT data, and a collaborative sculptural piece integrating digital and physical interaction. Blending engineering and artistic exploration, the course develops skills in analog, digital, and electronic design. The course culminates in a gallery showcase of the final projects, highlighting how technology and creativity combine to create engaging experiences. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5340 LLMs for UX Prototyping. Using Natural Language AI to Design and Prototype with Code.",
+    "courseid": "IPD 5340",
+    "coursedescription": "Background Since the emergence of Large Language Models and Multimodal Models it has become increasingly more feasible to write fully operating programs without ever touching a line of formal code. In contrast to AI Copilots which prioritize the software engineering environment, experiments such as, OpenAI’s CodeX, Draw-A-UI, and Spatial Pixel’s Natural Language IDE prioritize a design first environment for programming. Why a design first approach to programming? One, it allows those without a technical background to access the power of programming. Two, it allows for rapid prototyping of the design and technical functionality simultaneously. Three, it allows you to focus on the higher level intent of your design without getting stuck in the weeds of coding syntax. Course Structure This course will explore, experiment and research the capabilities of natural language programming for prototyping. It will be a project oriented course with technical exercises on how to string together AI capabilities. We will learn to build functional prototypes with AI. Who is this class for? Designers, engineers, and business folks who want to bring their ideas to life through prototyping with AI. No prior programming knowledge is needed though it is incredibly helpful. The course will allow for two tracks for those with a more technical programming background and those just starting out. Students at varying technical levels will work together on prototypes. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5440 Image, Object, Architecture",
+    "courseid": "IPD 5440",
+    "coursedescription": "As we have entered a postdigital era, the dominance of a purely technological approach as a vehicle for design innovation has waned. Questions of substance and disciplinary autonomy have found their way back into the contemporary cultural discourse, enriching the way we examine and deploy advanced technologies towards novel expressions in architecture. This seminar will investigate, through the production of estranged objects, opportunities for design that are being generated at the intersection of machinic and human minds, and speculate on possible futures in which concepts of nature and technology have been inseparably intertwined. Spring Also Offered As: ARCH 7440 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5450 Engineering Entrepreneurship I",
+    "courseid": "IPD 5450",
+    "coursedescription": "Engineers and scientists create and lead great companies, hiring managers when and where needed to help execute their vision. Designed expressly for students having a keen interest in technological innovation, this course investigates the roles of inventors and founders in successful technology ventures. Through case studies and guest speakers, we introduce the knowledge and skills needed to recognize and seize a high-tech entrepreneurial opportunity - be it a product or service - and then successfully launch a startup or spin-off company. The course studies key areas of intellectual property, its protection and strategic value; opportunity analysis and concept testing; shaping technology driven inventions into customer-driven products; constructing defensible competitive strategies; acquiring resources in the form of capital, people and strategic partners; and the founder's leadership role in an emerging high-tech company. Throughout the course emphasis is placed on decisions faced by founders, and on the sequential risks and determinants of success in the early growth phase of a technology venture. The course is designed for, but not restricted to, students of engineering and applied science and assumes no prior business education. Prerequisite: Second, Third, Fourth year, or Graduate standing Fall or Spring Also Offered As: EAS 5450 Mutually Exclusive: EAS 5410 1 Course Unit",
+    "course-prerequsities": [
+      "EAS 5450",
+      "EAS 5410"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Designed expressly for students having a keen interest in technological innovation, this course investigates the roles of inventors and founders in successful technology ventures.",
+        "The course is designed for, but not restricted to, students of engineering and applied science and assumes no prior business education."
+      ]
+    }
+  },
+  {
+    "coursename": "IPD 5510 Design Processes",
+    "courseid": "IPD 5510",
+    "coursedescription": "This studio is structured for IPD students as an intensive, interdisciplinary exploration of Design as purposeful for Integrated Product Design. The goal of the studio is to give students a firsthand experience of various processes involved in creating successful integrated product designs. This first semester of the four-semester studio sequence focuses on giving students experience developing designs based on a range of starting points: form, function, materiality and manufacturing process. Students will practice design through rigorous, consistent processes for thinking through the evolution of their ideas. In this course, they will go through an entire design process from conceptualization to design to producing prototypes. They will be taught to focus on the specifics of their designs, causing them to be conscious of what drives their choices as designers and providing them with a wider range of tools to design from in successive projects. Course work will involve readings, assignments, class participation, in-class exercises, a mid-term presentation and a final submission. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5520 Problem Framing",
+    "courseid": "IPD 5520",
+    "coursedescription": "In the second semester of the four-semester studio sequence, we ask students to take a step back from what and how they are designing and ask the question of why they are designing it. We will teach them a rigorous process for understanding stakeholder needs and for translating those needs into implications for product design. They will begin to develop greater awareness of the personal, social, competitive and technological contexts that their products fit into, and to learn how to design for those contexts. They will develop the ability to dive into a topic and frame a design problem, and to understand the implications of how they frame the problem on what they design. Ideally, they will use this process to identify a problem or opportunity to work on for their final project. Course work will involve readings, assignments, class participation, in-class exercises, and a final submission. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5680 Integrative Design Studio: Biological Design",
+    "courseid": "IPD 5680",
+    "coursedescription": "This course is a research-based design studio that introduces new materials, fabrication, and prototyping techniques to develop a series of design proposals in response to the theme: Biological Design. The studio introduces life sciences and biotechnologies to designers, artists, and non-specialists to develop creative and critical propositions that address the social, cultural, and environmental needs of the 21st century. The course will be a pilot study of the first biodesign challenge organized by CUT/PASTE/GROW. The final projects will be submitted to a competition and the winning entry will be featured at Biofabricate in Summer 2017. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IPD 5720 Design Thinking",
+    "courseid": "IPD 5720",
+    "coursedescription": "Creating new product concepts was once a specialized pursuit exclusively performed by design professionals in isolation from the rest of an organization. Today's products are developed in a holistic process involving a collaboration amont many disciplines. Design thinking - incorporating processes, approaches, and working methods from traditional designers' toolkits - has become a way of generating innovative ideas to challenging problems and refining those ideas. Rapid prototyping techniques, affordable and accessible prototyping platforms, and an iterative mindset have enabled people to more reliably translate those ideas into implementable solutions. In this course, students will be exposed to these techniques and learn how to engage in a human-centered design process. Fall Also Offered As: ARCH 7250 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Creating new product concepts was once a specialized pursuit exclusively performed by design professionals in isolation from the rest of an organization."
+      ]
+    }
+  },
+  {
+    "coursename": "IPD 5900 Special Topics in Integrated Product Design",
+    "courseid": "IPD 5900",
+    "coursedescription": "This course will be offered when demand permits. The topics will change due to the interests and specialties of the instructor(s). Some topics could include: Advanced Manufacturing, Design of Interactive Objects, Medical Devices and Sustainable Products. Not Offered Every Year 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The topics will change due to the interests and specialties of the instructor(s)."
+      ]
+    }
+  },
+  {
+    "coursename": "IPD 5990 Master's Independent Study",
+    "courseid": "IPD 5990",
+    "coursedescription": "The Independent Study course is a vehicle to accommodate special interests of IPD students which are not served through regular courses. They create opportunities for mini-projects and a mentoring relationship between the student and the faculty. IPD 5990 can only be counted towards the elective requirement for the MIPD degree and with approval for the MSEIPD degree and must be a topic independent of the IPD student's final project work. Prior to the beginning of the semester in which the student contemplates taking the independent study, the student and their independent study advisor should develop a brief proposal. An independent study course should require effort comparable to that of a regular course, about 9 hours a week or a total of 126 hours per semester. Full details are available in the IPD program guidelines. Fall, Spring, and Summer Terms",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5-2 Course Units",
+      "notes": [
+        "The Independent Study course is a vehicle to accommodate special interests of IPD students which are not served through regular courses."
+      ]
+    }
+  },
+  {
+    "coursename": "IPD 6990 IPD Seminar",
+    "courseid": "IPD 6990",
+    "coursedescription": "Capitalized course title and removed period from the end of the long course title. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "IPD 7990 IPD Final Project",
+    "courseid": "IPD 7990",
+    "coursedescription": "The last two semesters of the IPD studio sequence consist of the IPD Final Project. Students are given the opportunity to work on design problems that follow their passion or to work on a real world problem provided by our partners in academia, industry, or the non-profit world. The Final Project enables students to put the skills that they have developed in engineering, design arts and business into practice, following the process from initial opportunity identification into the development of a working product with a complementary business plan. Interdisciplinary group work is encouraged on final projects. Working in teams offers students the opportunity to collaborate across skill sets and learn from teammates from different disciplines. Final Projects provide students with ample opportunity to learn leadership and collaboration skills that are invaluable in today’s workplace. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

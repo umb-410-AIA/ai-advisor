@@ -1,0 +1,75 @@
+[
+  {
+    "coursename": "GREK 1001a, Beginning Greek: The Elements of Greek Grammar Staff",
+    "courseid": "GREK 1001a",
+    "coursedescription": "Introduction to ancient Greek. Emphasis on morphology and syntax within a structured program of readings and exercises. Prepares for GREK 1002 . No prior knowledge of Greek assumed. L1 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 1002b, Beginning Greek: Review of Grammar and Selected Readings Staff",
+    "courseid": "GREK 1002b",
+    "coursedescription": "Continuation of GREK 1001 . Emphasis on consolidating grammar and on readings from Greek authors. The sequence GREK 1001 and 1002 prepares for 2003 and/or 2004. Prerequisite: GREK 1001 or equivalent. L2 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [
+      "GREK 1001",
+      "L2",
+      "MTWTHF 9",
+      "25AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GREK 1012b, Intensive Beginning Greek Timothy Robinson",
+    "courseid": "GREK 1012b",
+    "coursedescription": "An introduction to classical Greek for students with no prior knowledge of the language. Readings from Greek authors supplement intensive instruction in grammar and vocabulary. The course is intended to be of use to students with diverse academic backgrounds and interests. Prepares for GREK 131. Not open to students who have taken GREK 110, 120. L1 , L2 RP 2 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is intended to be of use to students with diverse academic backgrounds and interests."
+      ]
+    }
+  },
+  {
+    "coursename": "GREK 2003a, Greek Prose: An Introduction Staff",
+    "courseid": "GREK 2003a",
+    "coursedescription": "Close reading of selections from classical Greek prose with review of grammar. Counts as L4 if taken after GREK 2004 or equivalent. L3 MWF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 2004b, Homer: An Introduction Staff",
+    "courseid": "GREK 2004b",
+    "coursedescription": "A first approach to reading Homeric poetry in Greek. Selected books of the Iliad or the Odyssey. Counts as L4 if taken after GREK 2003 or equivalent. L3 MWF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GREK 3335a, The Poetry of Illness Malina Buturovic",
+    "courseid": "GREK 3335a",
+    "coursedescription": "Following the red thread of plague, healing, and disease, this course offers an introductory overview to major authors and genres of Classical Greek literature. We begin in the Archaic period with selections of Homer, then jump forward to Sophocles, Euripides, and Thucydides. Reading across these texts, we ask: how did the Greeks think about the causes of diseases? How did they diagnose illness? How did they divide responsibility for illness between gods, doctors, and patients? What role did plague and healing occupy in civic life? Alongside this thematic study, the course also offers a structured review of Greek morphology and syntax. This course is a bridge course, which is designed to transition students from L4 to L5 and which bestows L5 credit upon completion. This course is designed for students who are proficient in Greek, having had at least 3-4 years of high school Greek or a minimum of two full years of Greek at the college level (having completed L4). L5 MW 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* GREK 4025a, Homer's Iliad Egbert Bakker",
+    "courseid": "GREK 4025a",
+    "coursedescription": "Reading of selected books of the Iliad, with attention to Homeric language and style, the Homeric view of heroes and gods, and the reception of Homer in antiquity. L5 , HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "GREK 5025a, Homer’s Iliad Egbert Bakker",
+    "courseid": "GREK 5025a",
+    "coursedescription": "Reading of selected books of the Iliad, with attention to Homeric language and style, the Homeric view of heroes and gods, and the reception of Homer in antiquity. TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "coursename": "MLYM 0100 Beginning Malayalam Part I",
+    "courseid": "MLYM 0100",
+    "coursedescription": "This course is designed to develop skills in reading, writing, and speaking. It will focus on the alphabet, basic vocabulary, nouns (cases, gender and number), verbs and their basic tenses, numerals, rules of joining words, adjectives, adverbs, and sentence structure. Guided conversation will be a part of every class. Students will receive considerable training in speaking and writing their own sentences and paragraphs. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MLYM 0200 Beginning Malayalam Part II",
+    "courseid": "MLYM 0200",
+    "coursedescription": "This course is designed to develop skills in reading, writing, and speaking. It will focus on the alphabet, basic vocabulary, nouns (cases, gender and number), verbs and their basic tenses, numerals, rules of joining words, adjectives, adverbs, and sentence structure. Guided conversation will be a part of every class. Students will receive considerable training in speaking and writing their own sentences and paragraphs. Spring Prerequisite: MLYM 0100 OR MLYM 5100 1 Course Unit",
+    "course-prerequsities": [
+      "MLYM 0100",
+      "MLYM 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MLYM 0300 Intermediate Malayalam Part I",
+    "courseid": "MLYM 0300",
+    "coursedescription": "This course is designed to further the language skills learned in Beginning Malayalam. Direct and indirect speech, passive voice, postpositions, and rules of joining words, will be included. Reading and discussion of texts from current Malayalam literature (essays, narration, short stories, and poems) will be a major portion of the course. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MLYM 0400 Intermediate Malayalam Part II",
+    "courseid": "MLYM 0400",
+    "coursedescription": "This course is designed to further the language skills learned in Beginning Malayalam. Direct and indirect speech, passive voice, postpositions, and rules of joining words, will be included. Reading and discussion of texts from current Malayalam literature (essays, narration, short stories, and poems) will be a major portion of the course. Spring Prerequisite: MLYM 0300 OR MLYM 5300 1 Course Unit",
+    "course-prerequsities": [
+      "MLYM 0300",
+      "MLYM 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MLYM 5100 Beginning Malayalam Part I",
+    "courseid": "MLYM 5100",
+    "coursedescription": "This course is designed to develop skills in reading, writing, and speaking. It will focus on the alphabet, basic vocabulary, nouns (cases, gender and number), verbs and their basic tenses, numerals, rules of joining words, adjectives, adverbs, and sentence structure. Guided conversation will be a part of every class. Students will receive considerable training in speaking and writing their own sentences and paragraphs. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MLYM 5200 Beginning Malayalam Part II",
+    "courseid": "MLYM 5200",
+    "coursedescription": "This course is designed to develop skills in reading, writing, and speaking. It will focus on the alphabet, basic vocabulary, nouns (cases, gender and number), verbs and their basic tenses, numerals, rules of joining words, adjectives, adverbs, and sentence structure. Guided conversation will be a part of every class. Students will receive considerable training in speaking and writing their own sentences and paragraphs. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MLYM 5300 Intermediate Malayalam Part I",
+    "courseid": "MLYM 5300",
+    "coursedescription": "This course is designed to further the language skills learned in Beginning Malayalam. Direct and indirect speech, passive voice, postpositions, and rules of joining words, will be included. Reading and discussion of texts from current Malayalam literature (essays, narration, short stories, and poems) will be a major portion of the course. Two Term Class, Student must enter first term; credit given after both terms are complete 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MLYM 5400 Intermediate Malayalam Part II",
+    "courseid": "MLYM 5400",
+    "coursedescription": "This course is designed to further the language skills learned in Beginning Malayalam. Direct and indirect speech, passive voice, postpositions, and rules of joining words, will be included. Reading and discussion of texts from current Malayalam literature (essays, narration, short stories, and poems) will be a major portion of the course. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,919 @@
+[
+  {
+    "coursename": "CPLN 5000 Introduction to City Planning: History, Theory and Practice",
+    "courseid": "CPLN 5000",
+    "coursedescription": "This course introduces students to the history, theories, and contemporary practice of city and regional planning. Readings, lectures, class discussion, and walking tours focus on: - The evolution of planning ideas, strategies, institutions, and powers, and of planning’s influence on cities and regions around the world; - The structure and dynamics of urban change; - The ways planners and social and environmental scientists have understood, theorized, and responded to social, economic, political, and environmental conditions and change over time; and - The development of the planning profession and its relationships with allied fields, examining various types of planning, urban development, and design. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5010 Quantitative Planning Analysis Methods",
+    "courseid": "CPLN 5010",
+    "coursedescription": "Introduction of methods in analyzing demographic conditions, population and housing trends, employment and business changes, community and neighborhood development. Focus on using spreadsheet models, data analysis, and basic statistical analysis for local and neighborhood planning. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5020 Urban Economics and Public Finance",
+    "courseid": "CPLN 5020",
+    "coursedescription": "This core course first covers the basic concepts of urban economics: central place theory, gravity models, agglomeration economies, bid rent curves, and regional settlement patterns. The course takes the theory and applies it to metropolitan outcomes: central business districts, edge cities, edgeless cities, the favored suburban quarter, and megaregions. And the impact of the COVID-19 pandemic. The second half of the course connects the community facilities section and the future land use map of the comprehensive plan with a city's capital improvements program to focus on how to pay for public infrastructure. Financing techniques include: bonds, pay-as-you-go, user fees, tax increment financing, impact fees, adequate public facilities ordinances, sales taxes, property taxes, and land value taxation. Cost-benefit analysis and other infrastructure finance practices are discussed. Applications of public finance include: (a) Financing affordable housing projects; (b) Financing economic development and redevelopment projects; (c) Financing transportation projects; (d) Structuring public-private partnership deals; (e) Financing environmental and green infrastructure projects; and (f) Issues in school finance. Spring Mutually Exclusive: CPLN 5090 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5030 Modeling Geographical Objects",
+    "courseid": "CPLN 5030",
+    "coursedescription": "This course offers a broad and practical introduction to the acquisition, storage, retrieval, maintenance, use, and presentation of digital cartographic data with vector-oriented (i.e. drawing-based) geographic information systems (GIS) for a variety of environmental science, planning, and management applications. Previous experience in GIS is not required. Fall Also Offered As: MUSA 5030 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5040 Site Planning",
+    "courseid": "CPLN 5040",
+    "coursedescription": "This course introduces students to the practice of site planning. Skills and methods examined in the course include observation of the physical environment; site analysis; development of alternative site programming and uses; site design processes and strategy; and the creation of site plans and development standards. Methods of community participation and collaboration with other disciplines will be explored. There are two sections of this class- one for urban designers and/or those with prior design backgrounds and skills, one for those who do not. Note: Non-designers should enroll in CPLN 504-002 section Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5050 Planning by Numbers",
+    "courseid": "CPLN 5050",
+    "coursedescription": "This course will use planning and policy data and applications to introduce you to a variety of useful techniques of inferential statistics and unstructured data learning techniques. Each of the techniques will be introduced and developed through the use of commonly available planning and urban policy data in order to address a planning problem or question. Applications and examples may include: (i) identifying determinants of transit ridership; (ii) identifying factors contributing to traffic crashes; (iii) identifying the characteristics that explain travel behavior and mode choice; and (iv) comparing socio-economic characteristics across neighborhoods. Class sessions will involve a mixture of lecture and in-class statistical modeling. Students will make extensive use of R, a free, open source statistical programming language. This course is especially appropriate for students whose future professional and academic work will involve the design and testing of planning and policy analysis models using quantitative data. Spring Mutually Exclusive: MUSA 5000 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5060 Negotiation and Conflict Resolution",
+    "courseid": "CPLN 5060",
+    "coursedescription": "This course is designed to introduce graduate students to the theory and practice of negotiation, conflict resolution and community engagement. We will start by looking at basic approaches to interpersonal negotiation and then move to considering contemporary approaches to understanding and addressing public disputes using negotiation, facilitation and public involvement. Design professionals - architects, construction managers, planners and others - face a variety of kinds of problems and challenges in their work. Some problems and challenges, whether simple or complex, are amenable to technical solutions based solely on the expertise of planners, managers, architects and others. There are, however, other problems and challenges that require adaptive work, primarily because technical expertise alone is insufficient to address the problems or challenges being faced. In this course, we'll focus on perspectives and methods for working through those later sorts of problems and challenges. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5080 Urban Research Methods",
+    "courseid": "CPLN 5080",
+    "coursedescription": "This course is designed for graduate students completing original urban research. For students in Penn’s Master of City Planning (MCP) program, it is the first class in a two-semester sequence in which students research and write their thesis. In the fall semester, this course takes students from the point of scoping and refining research questions through producing an in-depth literature review, research design, and initial fieldwork. In the spring, students completing an MCP thesis will complete the research and writing of the thesis. This fall class involves regular readings, orientation to research design, and a variety of methods exercises that students will help lead (for the methods they are employing in their own research). Students outside of the MCP program are welcome to take this class as long as they have a substantial urban research project to pursue. * To take this course, each student must submit a research proposal – either for an MCP thesis or a similarly substantial, original research project – and receive permission from the instructors of the MCP thesis classes (fall and spring). 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "* To take this course, each student must submit a research proposal – either for an MCP thesis or a similarly substantial, original research project – and receive permission from the instructors of the MCP thesis classes (fall and spring)."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 5090 Law of Planning and Urban Development",
+    "courseid": "CPLN 5090",
+    "coursedescription": "Overview of the constitutional and legal principles framing planning and urban development. Spring Mutually Exclusive: CPLN 5020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5110 The Business of Planning",
+    "courseid": "CPLN 5110",
+    "coursedescription": "course description coming soon 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5200 Introduction to Housing, Community and Economic Development",
+    "courseid": "CPLN 5200",
+    "coursedescription": "Introduction to the theories, institutions, and practices of housing, community and economic development with a focus on improving opportunity and building wealth in disadvantaged communities. Provides foundation for advanced courses in housing policy, downtown and neighborhood revitalization, real estate and economic development finance, and local and international community development. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5300 Introduction to Land Use Planning",
+    "courseid": "CPLN 5300",
+    "coursedescription": "Exploration of the methods and tools for managing land use and shaping the built environment. Presents how to create a successful Comprehensive Plan, Zoning Ordinance, Subdivision Regulations, Capital Improvements Progam, and design guidelines. Also, presents functional area, regional, and state-level plans. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5310 Sustainability and Environmental Planning",
+    "courseid": "CPLN 5310",
+    "coursedescription": "This course will identify and evaluate the application of planning tools and strategies to enhance sustainability and environmental conditions, and to promote the wise use of natural resources. Students will understand the causes and effects of air, water, and land pollution, and how to evaluate and implement responses to pollution through regulations, financial incentives, infrastructure, and design techniques. Emphasis is on planning to create sustainable communities. The course provides an overview of federal programs for protecting air quality, water quality, and endangered species along with managing climate change, solid waste, toxics, energy, transportation, and remediating brownfields in an overall sustainability framework. State-level, local government, and NGO efforts to protect the environment are also explored as are green infrastructure and green cities. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5400 Introduction to Property Development",
+    "courseid": "CPLN 5400",
+    "coursedescription": "This course is designed to acquaint students with the fundamental skills and techniques of real estate property development. It is designed as a first course for anyone interested in how to be a developer, and as a foundation for further courses in urban development and real estate. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is designed as a first course for anyone interested in how to be a developer, and as a foundation for further courses in urban development and real estate."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 5500 Introduction to Transportation Planning",
+    "courseid": "CPLN 5500",
+    "coursedescription": "This course provides an overview and introduction to urban transportation planning and policy. Although the focus is on US transportation, the course also puts an emphasis on transportation issues in the fast-growing cities of the developing world. The course is organized around: (1) histories and theories of transportation and travel behavior; (2) transportation policy and project evaluation; (3) transportation demand modeling; and (4) multimodal transportation planning and policy. Particular attention is given to interactions between transportation and land use systems. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5510 Transport Justice",
+    "courseid": "CPLN 5510",
+    "coursedescription": "This course will explore the concept of transport justice and how this idea can inform changes to public transit infrastructure. The first half of the course will set theoretical foundations through close reading and discussion of spatial and social justice theories, emphasizing questions of transportation and mobility. The second half of the course will feature a project-based application of these theories. Students will develop analyses to inform a planning at the intersection of Broad/Germantown/Erie in North Philadelphia. Students will be encouraged to explore multiple analytic approaches including: interviews and qualitative data collection; GIS and spatial analysis; quantitative analysis and predictive modeling, and more. The course will culminate in written and oral presentations given to partners from SEPTA, OTIS, and other planning agencies in Philadelphia. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5600 Introduction to Graphics for Urban Design",
+    "courseid": "CPLN 5600",
+    "coursedescription": "The purpose of this class is to give urban design students basic visual skills and proficiency, including the ability to: 1. Understand and critique drawings and drawing types 2. Work in: Adobe Illustrator, Photoshop, and InDesign, and McNeel Rhino3D. 3. Understand workflow between software packages This is an introductory skills class that operates on three levels: software proficiency, design proficiency, and critical visual analysis. The class requires regular weekly effort and completion of assignments as skills are cumulative. Students with a design background are discouraged from taking this class. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5710 Sensing the City",
+    "courseid": "CPLN 5710",
+    "coursedescription": "This course will teach you to design and build sensing installations that engage with real-time urban environmental stimuli. Using the Arduino microcontroller as a prototyping platform, you will write code and wire circuits, learn to select and implement available sensors, and generate raw environmental data. You will populate databases and interpret data streams, and then create responsive urban interventions. Following the model of hackerspaces around the globe, we will collaboratively pose problems and find solutions, teaching and learning from one another. No background in coding or electronics is required, but a desire to learn is absolutely necessary. Also, this course is hands-on. You are a maker! Be prepared to build, design, and create. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5720 Modern Architectural Theory Seminar",
+    "courseid": "CPLN 5720",
+    "coursedescription": "A survey of architectural theory from the mid-eighteenth century to the present. The discussion of original writings will be emphasized. Open to undergraduate and graduate students. Not Offered Every Year Also Offered As: ARTH 5710 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5770 Topics in International Development",
+    "courseid": "CPLN 5770",
+    "coursedescription": "Course examines current trends and topics pertaining to international development. See MCP website for current offerings: Graduate City and Regional Planning, Weitzman School (upenn.edu) Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5771 Topics in International Development",
+    "courseid": "CPLN 5771",
+    "coursedescription": "Course examines current trends and topics pertaining to international development. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5780 Research Seminar 21st Century Urbanism",
+    "courseid": "CPLN 5780",
+    "coursedescription": "The CPLN section of this course is open to City Planning sub-matriculants only. A seminar run in conjunction with the Institute for Urban Research at Penn, students will learn about the range of cutting-edge topics in urbanism that Penn faculty are working on and work closely with a faculty member on current research. Students will learn about new topics and methods in interdisciplinary urban research, and get first hand experience collecting urban data under the close supervision of an experienced researcher. Students and faculty jointly will present their findings for discussion. This course is a good introduction for how to frame and conduct an urban research project. For more information, visit https://penniur.upenn.edu/instruction/uurc Spring Mutually Exclusive: URBS 4780 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students and faculty jointly will present their findings for discussion."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 5800 The Penn Experience: Racism, Reconciliation, and Engagement",
+    "courseid": "CPLN 5800",
+    "coursedescription": "This new non-credit asynchronous course, consisting of six Modules, aims to establish common basic language and concepts for incoming graduate and professional students to facilitate subsequent difficult conversations about race, racism and difference in the classroom and beyond. Using video interviews, presentations, short readings and podcasts, the course highlights the significance of Penn and Philadelphia's history of racism and other forms of oppression, Penn's evolving relationship to West Philadelphia, and Penn's efforts toward greater engagement and inclusion. Modules also focus on implicit bias, intercultural communication gender identity and disparities in healthcare. A final module was designed primarily to address the antiracist work that must be done to dismantle white supremacy. All incoming SP2 master's students are expected to spend 20 or more hours reviewing the six modules and completing short assessments prior to starting the fall semester. Other graduate and professional schools will assign modules to be completed based on their schools requirements.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 5820 Place, Taste and Neighborhood Change: Frameworks for Integrating Aesthetics, Equity and Creativity",
+    "courseid": "CPLN 5820",
+    "coursedescription": "Places provide a sense of identity and orientation to the world for its users in ways that go beyond the traditional practice areas that urbanists are trained to understand (i.e. housing, economic development, transportation). The popularization of artistic, cultural, and \"creative interventions\" in redevelopment has added to that complexity in hybrid ways require new tools, languages, and frameworks to meaningfully participate in the development process. By taking a humanistic and scienctific views of the longstanding arts-based community development field now known as \"creative placemaking\", the class will help learners formulate critical, evaluative answers pressing, emergent questions for urban practitioners. In particular, learners will explore the various state-sponsored meanings of creative placemaking, artistic excellence, and artistic merit. During the course we will interrogate, compare, and articulate the power dynamics embedded in those definitions with new, alternate, and stakeholder-centric definitions. The course aims to invite conversation, reflection, and sharing of best practices alongside community-based leaders with the promise that learners will be able to apply equity-based frameworks to these debates. Learners will emerge from this guided journey with a sharpened ability to identify, generate, and extend authentic, inclusive arts-based neighborhood change. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5830 Coloring Climates: Race, Stories, Environments",
+    "courseid": "CPLN 5830",
+    "coursedescription": "Why is the Green New Deal not talked about as a \"Black Agenda\"? Why are Black people not employed in 90% of the leadership positions in environmental organizations? Do Black folks resist environmentalism as a \"white\" issue? Why are cannabis farmers, once arrested by cities for growing hemp, now being priced out of the regulated industry in legalized states? These questions may also be asked for people of color broadly. Since the \"Manifest Destiny\" days of John Muir, white spatial imaginaries have shaped how environmentalism is branded; planning has been in lock-step. These persistent myths motivate the basis of historical reflection and contemporary re-constitution of what it means to be \"green\" while Black in place. This seminar that proposes to \"Blacklight\" urban space: bare visible the oft-hidden Black Geographies in urban and environmental history on the margins. By drawing on texts in critical ecology, we will elucidate how primarily Black people imagine attachment to rural, pastoral, and urban spaces. This decentering of the colonial history of environmentalism is especially urgent in environmental and land use planning. Readings will include popular literature from Camille T. Dungy's Black Nature: Four Centuries of African American Nature Poetry, The Green Collar Economy by Van Jones, The Good Food Revolution by Will Allen; sociology from Dorceta Taylor's The Rise of the American Conservation Movement: Power, Privilege, and Environmental Protection, , Ron Finley's \"Ganstga Gardening\" videos, environmental planning from Mabel O. Wilson's \"Black & Green\" in Begin with the Past: Building the National Museum of African American History & Culture, and Richard Westmacott's African-American Gardens and Yards in the Rural South, Majora Carter's Sustainable South Bronx: A Model For Environmental Justice; memoirs by The Cooking Gene by chef Michael Twitty, Unbowed by Wangari Maathai. Articles will also include voices from BIPOC geographers, psychologists, and planners with relevant views. While being primed with these histories, students will identify a mode of environmental action and land use engagement for a \"Blacklight\" case study in either their hometown or current place of residence. Students will contribute to a Wikipedia page on eco-poetics or ecoliteracy to build public consciousness around Black, indigenous, and people of color (BIPOC) sensibilities in these places. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Why are cannabis farmers, once arrested by cities for growing hemp, now being priced out of the regulated industry in legalized states?"
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 5840 Effective Policy for the Energy Transition",
+    "courseid": "CPLN 5840",
+    "coursedescription": "This seminar will explore a collection of ideas influencing energy policy development in the U.S. and around the world. We will discuss all kinds of modern energy policy issues/debates, firmly grounding those discussions around fundamentals of public policy (e.g., market design, market failure, government failure, etc.). Example topics will include: The Inflation reduction act, infrastructure siting, fuel economy standards, and carbon border adjustments, amongst others. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5910 Introduction to Smart Cities",
+    "courseid": "CPLN 5910",
+    "coursedescription": "This course reviews the infrastructure, databases, deployment, and development of emerging digital technologies in cities. We review existing initiatives, discuss challenges and opportunities, and critically evaluate what technology has and has not been able to offer cities. We contrast utopian visions of technology with the possible buggy and brittle realities. Finally, we ask: what makes a city smart? Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5920 Public Policy Analytics",
+    "courseid": "CPLN 5920",
+    "coursedescription": "This course teaches advanced spatial analysis and an introduction to data science/machine learning in the urban planning and public policy realm. The class focuses on real-world spatial analysis applications and, in combination with introductory machine learning, provides students a modern framework for efficiently allocate limited resources across space. Unlike its private sector counterpart, data science in the public or non-profit sector isn't strictly about optimization - it requires understanding of public goods, governance, and issues of equity. We explore use cases in transportation, housing, public health, land use, criminal justice, and other domains. We will learn novel approaches for understanding and avoiding risks of \"algorithmic bias\" against communities/people of color as well as communities of different income levels. The format of the class includes weekly lectures/in-class demos and labs. There are seven required assignments, including two projects. Prerequisites include either CPLN503, the summer GIS course or prior experience with GIS in a formal setting. The class is conducted entirely in R. Having experience in R and the ‘tidyverse’ is helpful but not strictly required. Fall Also Offered As: MUSA 5080 1 Course Unit",
+    "course-prerequsities": [
+      "CPLN503",
+      "MUSA 5080"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 5989 City Planning PhD Transfer Credit",
+    "courseid": "CPLN 5989",
+    "coursedescription": "This is a placeholder course to be used to provide transfer credit for PhD students who completed coursework in Masters degrees elsewhere. This course number is only used internally for transfer credit designations. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6000 Studio I",
+    "courseid": "CPLN 6000",
+    "coursedescription": "Studio I builds on the background knowledge and skills learned in the fall semester to produce team-based neighborhood/corridor plans. Studio I is where you learn to make plans—a skill that is foundational to being an urban planner, which is why we are all here! This course walks through each step of the typical plan-making process, each step building on the previous. This generally includes: o Assembling and summarizing existing conditions o Analyzing and understanding community identity o Identifying issues and opportunities o Developing plan goals o Creating alternatives or strategic directions for development o Devising plan recommendations o Setting a course for plan implementation In addition to completing the steps of the plan, this course also helps students learn skills for working in groups, graphic design and presentation, verbal presentation, project and workflow management, understanding community dynamics, and overall professionalism. These are skills that every planner needs, and will rely on heavily in their professions, so Studio I is also helpful in preparing each student for work readiness, regardless of concentration. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 6200 Techniques of Urban Economic Development",
+    "courseid": "CPLN 6200",
+    "coursedescription": "This course is an introduction to the theory and practice of economic development planning. We will explore theories of economic growth and development as well as explore pressing questions regarding income and wealth inequality and labor markets. Economic development practice in the US is the result of decades of work from local and state governments and hybrid entities (community development institutions, hospitals, redevelopment authorities, commerce departments) attempting to make their respective places more “sticky” with respect to economic activity. While economic development may seem secondary, or worse, actively harmful in addressing some of the many pressing problems facing planners today, this course is designed to highlight why economic development remains central to questions about how regions can and should grow. The economic organization of our regions is a central actor in debates concerning global warming, displacement through gentrification or decline and social inequality. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6210 Metropolitan Food System",
+    "courseid": "CPLN 6210",
+    "coursedescription": "This course introduces students to the planning and development of metropolitan food systems. Major topics include regional planning and policy; sustainable agriculture; food access and distribution; and markets. The class includes a mix of lectures, discussion, and field trips. Ultimately, the course aims to develop students' broad knowledge of food systems planning in the global North and South, with an emphasis on community and economic development strategies for sustainable food systems and community food security. Spring, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6220 Healthy People/Healthy Places",
+    "courseid": "CPLN 6220",
+    "coursedescription": "In Healthy People/Healthy Places we will explore the role of space and place in the social construction of health. Pulling from the urban planning, geography and public health literatures, we will explore the role of the built environment in shaping individual and community health. We will explore questions behind why, and how, some groups of people die, or are injured, at greater rates than others and the role that planning and broader spatial policy play in these outcomes. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6230 The Carceral State",
+    "courseid": "CPLN 6230",
+    "coursedescription": "This course examines the period of mass incarceration that began in the US in the 1970s, its impact on communities and its connection to economic development. We'll look specifically at policies that fostered mass incarceration, the financialization of the criminal justice system, and abolitionist movements that challenge the carceral state. We will examine the ways in which policies and practices have had disparate impacts on people of color and women, and we will also pay attention to space and place, endeavoring to understand differences at the local, county and state levels. This is an Academically Based Community Service (ABCS) course, and we will be partnering with the Philadelphia Community Bail Fund on a project. Students will also conduct courtroom observations, tour the Eastern State Penitentiary, learn from formerly incarcerated Philadelphians, and interact with relevant experts. Students will read books and articles from a range of disciplines including sociology, law, political science, and planning. We will also read poetry and memoir, and study places that have instituted cutting edge policies and practices. This course relies on student engagement and discussion. Spring, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6240 Race, Poverty and Place",
+    "courseid": "CPLN 6240",
+    "coursedescription": "In recent years, long-disinvested cities have become the site of renewed investment, population growth, and economic development in a phenomenon often described as gentrification. Nonetheless, socioeconomic inequality between races, ethnicities, genders, and places within the larger metropolitan area continue to persist, suggesting that a rising tide does not raise all boats. Planners must grapple with these issues of inequality and inequity, particularly the implementation of plans and policies that may in theory provide benefits to all, but in practice continue to accumulate benefits for a select few. This class will examine the formation of race, place, and gender in various cities across North America from the years 1910 to the present. In taking this geographical, case-driven approach to the course, the course functions as a comparative study of how race and gender are shaped by unique places, and how different places shape race and gender constructions. To supplement the non-fiction examinations of race, place, and gender in the city, we will also read fiction and/or autobiographies written by Black women from this time period. Planners should be able to engage with a wide variety of sources to conceptualize and understand how marginalized groups engage and navigate the city. Black women’s experiences are often lost in the archives and erased from planning minutes, and fiction allows us to engage with their viewpoints in ways that formal testimony and oral histories do not. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6270 Community Engagement for Planners, Policy Makers, and Designers",
+    "courseid": "CPLN 6270",
+    "coursedescription": "Planners, policy makers and designers are often instructed to “engage the community” as a part of our work, yet few of us are equipped to do so in a way that is responsible and is robust enough to meaningfully inform our work. This course will provide students with an opportunity to meaningfully engage with community partners and practitioners working in Philadelphia and the surrounding region, and to grapple with the complex issues necessary for understanding community perspective, thereby influencing the approach when planning and designing as professionals. The course will prepare students to productively and sensitively work with communities of all types, on projects of all scales, to work towards common goals and high aspirations. The course will critically examine the argument that engaging with the community leads to better outcomes. We will study theories about why community engagement is so important to creating plans, policies and designs that work for the people they will affect. Students will also learn a range of methods for how to engage diverse communities in ways that are ethical, non-extractive, and generative. The course will be taught as an Academically-Based Community Service (ABCS) course affiliated with the Netter Center for Community Partnerships. Classroom sessions will be heavy on reading and discussion, relying both on theory and on examples of a range of engagement approaches and results. Guest speakers will join us to talk about their experiences, both as professionals and as members of communities. Assignments will include reflection pieces, presentations, and case studies. Students will also work on group projects through partnerships with one or more community-based organizations in Philadelphia to build their skills and contribute a piece of meaningful work to an organization. Students will work together, with the partner, and with community members to complete a project (could be built, a printed deliverable, evaluation, or other). Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6280 Migration and Development",
+    "courseid": "CPLN 6280",
+    "coursedescription": "International migration is one of the most important phenomena driving urban, community, economic, and human development. This course focuses on the ways that migrants and community, government, and private institutions work to influence development around the world. We explore a range of large- and small-scale economic development, human and community development. After a brief introduction to histories and theories of migration and development, our major themes include: 1) the work of institutions, governments, and private sector firms in sending and receiving nations that influence migration and development; 2) diaspora-led transnational development, including remittances, hometown and country associations, and transnational advocacy and community organizing; and 3) local revitalization, labor and housing markets, workforce and enterprise development in migrant-receiving settings. Readings are drawn from a variety of social sciences, planning and development studies, including from academia and practice. Guests from local and transnational development organizations will visit the class. Assignments include short papers on the readings and a research paper or project designed by each student in consultation with the instructor. Ultimately, the course aims to help students develop: 1) a broad knowledge of migration and development in geographic and institutional settings around the world; 2) an in-depth understanding of community and economic development practices in migrant sending and receiving communities; and 3) familiarity with social science approaches to evaluating the dynamics and impacts of migration and development. Spring, odd numbered years only Also Offered As: SOCI 6280 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6290 Housing, Community & Economic Development Topics Class",
+    "courseid": "CPLN 6290",
+    "coursedescription": "Elective classes for the Housing, Community and Economic Development concentration. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6291 Housing, Community & Economic Development Topics Class",
+    "courseid": "CPLN 6291",
+    "coursedescription": "Elective classes for the Housing, Community and Economic Development concentration. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6292 Housing, Community & Economic Development Topics Class",
+    "courseid": "CPLN 6292",
+    "coursedescription": "Elective classes for the Housing, Community and Economic Development concentration. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6300 Innovations in Growth Management",
+    "courseid": "CPLN 6300",
+    "coursedescription": "The US population is expected to grow by more than 85 million from now to 2050.This course evaluates the tools and techniques for managing growth in America, especially to control sprawl in metropolitan regions. The course analyzes the form and functions of the central cities, suburbs, edge cities, ex-urbs, and megaregions. Federal,state, and local programs that influence metro change are evaluated. Regional planning approaches are analyzed in case studies. Not Offered Every Year Prerequisite: CPLN 5300 OR CPLN 5310 1 Course Unit",
+    "course-prerequsities": [
+      "CPLN 5300",
+      "CPLN 5310"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6310 Planning for Land Conservation",
+    "courseid": "CPLN 6310",
+    "coursedescription": "Land preservation is one of the most powerful, yet least understood planning tools for managing growth and protecting the environment. This course provides an introduction to the tools and methods for preserving private lands by government agencies and private non-profit organizations (e.g., land trusts). Topics include purchase and donation of development rights (also known as conservation easements), transfer of development rights, land acquisition, limited development, and the preservation of urban greenways, trails, and parks. Preservation examples analyzed: open space and scenic areas, farmland, forestland, battlefields, and natural areas. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Preservation examples analyzed: open space and scenic areas, farmland, forestland, battlefields, and natural areas."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 6320 Modeling Geographic Space",
+    "courseid": "CPLN 6320",
+    "coursedescription": "This course explores the nature and use of raster-oriented geographic information systems (GIS) for the analysis and synthesis of spatial patterns and processes. Students will learn about the principles of raster data, image processing, and spatial analysis using ArcGIS Pro. By the end of the course, students will have a strong understanding of how to work with raster data and will have the skills and knowledge to apply these techniques to their own research or professional projects. Also Offered As: LARP 7410 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6330 Topics in Land Use & Environmental Planning",
+    "courseid": "CPLN 6330",
+    "coursedescription": "Various topics in Land Use & Environmental Planning will be examined Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6340 Climate Change: Plng for Mitigation and Adaptation",
+    "courseid": "CPLN 6340",
+    "coursedescription": "This course will present the science of climate change, the impacts of climate change, and the opportunities and obstacles for avoiding climate disasters. We will identify and evaluate the application of planning tools and strategies to achieve the mitigation of climate change and adaptations to climate change. Students will understand the causes and effects of climate change and how to implement and evaluate mitigation and adaptation responses through regulations, financial incentives, infrastructure investment, design techniques, and technology. Emphasis is on climate action planning to create resilient communities. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6350 Water Policy",
+    "courseid": "CPLN 6350",
+    "coursedescription": "Climate change, aging infrastructure, pollution, and institutional barriers are all contributing to urban water management crises around the globe. This course examines the systems and policies that comprise urban water, while looking for integrative, flexible solutions. First, we review water system fundamentals, ensuring everyone has a basic understanding of hydrology and traditional infrastructure. Next, we examine key challenges, concepts, and arguments in water management today. Then, we develop solutions, emphasizing integrated water resource management, demand-side management strategies, water portfolios, and decentralized systems. Through the course, you apply the lessons learned from readings, lectures, and class discussions in one city that you select. Final projects are published on urbanwateratlas.com. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6410 Progressive Development",
+    "courseid": "CPLN 6410",
+    "coursedescription": "This course will examine approaches to real estate development as a policy tool, and specifically a tool to achieve traditional progressive policy objectives linked to social welfare and environmental sustainability – reducing poverty, improving health and education outcomes, lowering greenhouse gas emissions etc. The course will focus on the practice of this work, examining financial, regulatory, and land use tools that are regularly utilized to achieve policy objectives via real estate development. The course will utilize Philadelphia as a primary case study, drawing on the work of guest speakers working as practitioners in the field to illustrate how these tools are implemented. The goal will be to give students a working knowledge of the field. Prerequisite: CPLN 5400 : Introduction to Property Development Spring Prerequisite: CPLN 5400 OR REAL 8210 1 Course Unit",
+    "course-prerequsities": [
+      "CPLN 5400",
+      "REAL 8210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6420 Downtown Development",
+    "courseid": "CPLN 6420",
+    "coursedescription": "Will downtowns recover? Is the office building obsolete? In the last decades of the 20th century America’s cities rebounded as downtowns diversified land-use, evolving from 9-5 office districts to 24-hour, mixed-use business, hospitality, retail, institutional and residential areas with an increasing number of well-managed parks and plazas. In many cities, downtown housing demand pushed prices beyond the range of many residents. The events of the last three years challenged many core assumptions and assets around which these places were built: public transit and the benefits of density, walkability and face-to-face interaction in the workplace, at conventions, in hotels, restaurants, cafes and public spaces. City Planning 6420 will focus on downtown recovery, reviewing the impact of three inter-related events: (1) the pandemic; (2) the duration of state and local government mandated shut-downs; and (3) civil unrest which led to rethinking and reformulating of public safety strategies in many cities. Responding to the pandemic required unprecedented actions by national governments, expedited production by pharmaceutical companies, well-designed and equitable distribution strategies. However, what happens on sidewalks, in stores and restaurants, in office buildings, universities and local health care institutions, in residential neighborhoods and in parks and public spaces is the result of local action: by government, business and civic groups and transit agencies. Some cities capitalized on this crisis to make needed changes, others are still mired in unresolved local challenges. This course focuses on what can be done at the local level and will use Philadelphia’s Center City as a laboratory for exploring strategies that work. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The events of the last three years challenged many core assumptions and assets around which these places were built: public transit and the benefits of density, walkability and face-to-face interaction in the workplace, at conventions, in hotels, restaurants, cafes and public spaces.",
+        "City Planning 6420 will focus on downtown recovery, reviewing the impact of three inter-related events: (1) the pandemic; (2) the duration of state and local government mandated shut-downs; and (3) civil unrest which led to rethinking and reformulating of public safety strategies in many cities.",
+        "However, what happens on sidewalks, in stores and restaurants, in office buildings, universities and local health care institutions, in residential neighborhoods and in parks and public spaces is the result of local action: by government, business and civic groups and transit agencies."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 6430 Design and Development",
+    "courseid": "CPLN 6430",
+    "coursedescription": "This course provides an overview of the real estate development business looked at in relationship to urban design, city planning, and architectural design. It provides exposure to the many real-world considerations of private sector development as well as an introduction to the language of real estate. The class focuses on various commercial building types and product offerings with examples of how planning, architectural and other design professions fit into creation of real estate value and the development process. This will cover the practical considerations and typical trade-offs of commercial business practices and real estate investment parameters and how these influence the ways developers and designers work. Industry sectors may include housing (single, multifamily and affordable), office, retail, hospitality, and industrial, with project types ranging from greenfield, adaptive reuse, downtown development, mixed-use projects, and planned communities. Through exercises, lectures and case studies, we'll address what drives the decisions designers and non-designers make in the development process, and provide insight to help designers understand what makes developers tick. Visiting lecturers (typically architects and developers) will provide real-world examples. Weekly written exercises, case studies and presentation assignments stress critical thinking, evaluating projects by how well they do their job and analyzing how that job is defined. Spring Also Offered As: ARCH 7620 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6440 Housing Policy",
+    "courseid": "CPLN 6440",
+    "coursedescription": "The government intervenes in housing markets in different ways and for different reasons. This course is designed to explore why the federal and local government in the U.S. intervene in housing markets and what forms these interventions take. Specifically, students will learn about: the mechanisms that drive both the supply and demand for housing; how U.S. housing policy has changed over time; factors that affect the production, distribution, and location of housing; the social and economic impact of housing on households and neighborhoods; the equity implications of housing policies. This course will place particular emphasis on low-income rental housing. By the end of this class students will have a firm understanding of U.S. housing policy and be able to engage in a meaningful debate about future challenges and opportunities in the U.S. housing market and the implications of different policy interventions. Ultimately, this course will provide students the conceptual tools necessary to evaluate, formulate, and implement housing policy. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6500 Transportation Planning Methods",
+    "courseid": "CPLN 6500",
+    "coursedescription": "This course introduces students to the development and uses of the 4-step urban transportation model (trip generation-trip distribution-mode choice-traffic assignment) for community and metropolitan mobility planning. Using the VISUM transportation desktop planning package, students will learn how to build and test their own models, apply them to real projects, and critique the results. Prerequisite: CPLN 5050 or other planning statistics course. Spring Also Offered As: ESE 5480 Prerequisite: CPLN 5050 1 Course Unit",
+    "course-prerequsities": [
+      "CPLN 5050",
+      "ESE 5480"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6520 Topics in Infrastructure",
+    "courseid": "CPLN 6520",
+    "coursedescription": "Course examines current trends and topics pertaining to the nation's infrastructure. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6540 The Practice of Trans.Plng:Crafting Policies & Bldg. Infrastructure",
+    "courseid": "CPLN 6540",
+    "coursedescription": "In this seminar-style course, Leslie Richards explores the planning, development, and delivery of multimodal projects and policies at the state and regional level, including national influences and an awareness of the many actors and processes involved. Topics to be discussed include funding and implementation processes through the levels of government (municipal, county, region, state, national), challenges and opportunities working with different sectors, politics, and contexts (including privatization and public-private partnerships), current issues and emerging technologies, and best practices for individuals pursuing careers in planning or public administration. Seminars are supplemented by field visits to SEPTA facilities and other City infrastructure projects and feature guest lectures offering perspectives of transportation leaders, policymakers, and planning consultants. Students will learn directly from leaders in the field and develop the skills and knowledge to work effectively with federal, state, and local entities. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6550 Multimodal Transport",
+    "courseid": "CPLN 6550",
+    "coursedescription": "This course explores contemporary multimodal transportation systems, policy, planning, and practice through a series of comparative international case studies, lectures, and class exercises. Case topics include innovative parking management in San Francisco, congestion charging in London, managing motorcycles in Indonesia, and Bus Rapid Transit in Bogota. By analyzing contemporary planning challenges and best practices, students will develop a better understanding of how the transportation system works and how to employ specific multimodal interventions and policies effectively. The first half of the course focuses on general surface-based transportation planning and policy. The second explores specific topics related to public and non-motorized transportation. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6600 Fundamentals of Urban Design",
+    "courseid": "CPLN 6600",
+    "coursedescription": "CPLN6600 is a two-course unit studio. It is intended as the first comprehensive exposure to the principles and processes of urban design for MCP students, and it is a required course for students in Urban Design concentration. This studio uses an incremental approach to explore contemporary practice of urban design. The semester consists of three sections: a site survey, an individual design project, and a group design project. The projects are organized around several themes associated with different scales and different dimensions of urban design: 1) street/block; 2) open space; 3) mobility and walkability; 4) urban form and ecology. This cross-scale method draws on essential theories of urbanism to investigate the interrelation between built environment and community development, and to address the issues of environmental and social sustainability of a postindustrial metropolis. Spring Also Offered As: LARP 6600",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 6620 Topics in Urban Design & Development",
+    "courseid": "CPLN 6620",
+    "coursedescription": "Topics in Urban Design & Development will be examined Fall, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6650 Case Studies and Urban Design Explorations",
+    "courseid": "CPLN 6650",
+    "coursedescription": "Participants in this course will become familiarized with a diversity of iconic urban references from all continents, while acquiring skills that will facilitate planning and design processes, appreciating the value of interdisciplinary, multi-scaler initiatives, and the transformative contributions of city planning and urban design/placemaking. It is a dynamic class in which each session is centered on a particular topic (see list below), combining class discussions on case studies presented by the instructor, guest lecturers, and teams of students. Interdisciplinary groups also are asked to deliver short planning/design exercises -without the pressure of the studios-, allowing to rapidly identify existing site conditions, design opportunities, delivering their proposals with compelling narratives, strategic moves, graphics, models, and verbal communication. Course topics include: From territory to site-specific; On the public realm; The rehabilitation of historic districts; Mobility/infrastructure and public space; The self-constructed city; Community and urban design; Contending forces of nature; Ecological urbanism; New town planning; Urban art. The class also organizes walking tours in Philadelphia. A final exhibit of the work delivered by the students will be held in Meyerson’s Lower Gallery. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6710 Statistical and Data Mining Methods for Urban Data Analysis",
+    "courseid": "CPLN 6710",
+    "coursedescription": "This hands-on course will cover a wide range of methods frequently used for analyzing urban and spatial data. These methods are drawn from a variety of fields, including traditional statistics, spatial econometrics, and machine learning, and include 1) regression analysis (OLS, ridge/lasso, logistic, multinomial logit); 2) measures of spatial autocorrelation; 3) spatial regression (spatial lag, spatial error, geographically weighted regression); 4) point pattern analysis; 5) an introduction to clustering methods (k-means, hierarchical clustering, DBSCAN); and 6) big data and GIS. Students will learn the assumptions and limitations of each method, and assignments will focus on the implementation, presentation and interpretation of the analyses. Students will use R and GeoDa in this course. Fall Also Offered As: MUSA 5000 Mutually Exclusive: CPLN 5050 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6720 Geospatial Data Science in Python",
+    "courseid": "CPLN 6720",
+    "coursedescription": "This course will provide students with the knowledge and tools to turn data into meaningful insights, with a focus on real-world case studies in the urban planning and public policy realm. Focusing on the latest Python software tools, the course will outline the \"pipeline\" approach to data science. It will teach students the tools to gather, visualize, and analyze datasets, providing the skills to effectively explore large datasets and transform results into understandable and compelling narratives. The course is organized into five main sections: 1. Exploratory Data Science: Students will be introduced to the main tools needed to get started analyzing and visualizing data using Python. 2. Introduction to Geospatial Data Science: Building on the previous set of tools, this module will teach students how to work with geospatial datasets using a range of modern Python toolkits. 3. Data Ingestion & Big Data: Students will learn how to collect new data through web scraping and APIs, as well as how to work effectively with the large datasets often encountered in real-world applications. 4. Geospatial Data Science in the Wild: Armed with the necessary data science tools, students will be introduced to a range of advanced analytic and machine learning techniques using a number of innovative examples from modern researchers. 5. From Exploration to Storytelling: The final module will teach students to present their analysis results using web-based formats to transform their insights into interactive stories. Fall Also Offered As: MUSA 5500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6741 Curricular Practical Training: Academic Year",
+    "courseid": "CPLN 6741",
+    "coursedescription": null,
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "This course provides international Master of City Planning students the opportunity for practical training in architecture in the United States (CPT). The course develops critical thinking about the organization, operation, and ethics of professional practice in city planning. This course will allow international MCP students to work in an internship in the United States during the academic year without shortening their limited OPT time. The course is offered for .20 course units. The employment must relate to the major and the experience must be part of the program of study. Course enrollment is by permit only. 0.2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 6750 Land Use and Environmental Modeling",
+    "courseid": "CPLN 6750",
+    "coursedescription": "This class is a survey of methods, concepts, and technologies used by planners to model urban and environmental systems in order to support decision-making and design. The student will learn how to use spatial data and computational models to analyze patterns, identify trends, and visualize alternate futures. The course includes three modules. Module one deals with urban-natural interfaces and includes site suitability analysis; landscape fragmentation analysis, hydrological modeling, and spatial interpolation. Module two introduces agent-based simulation of urban and environmental systems. The final module focuses on land-use applications including handling of remotely sensed data, and urban growth modeling. Students will learn basics of geo-spatial machine learning using the statistical software language R. No experience with R is required, however, basic familiarity with ArcGIS is required. Spring Mutually Exclusive: MUSA 6750 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6800 Smart Cities/MUSA Capstone Project",
+    "courseid": "CPLN 6800",
+    "coursedescription": "This course offers students an opportunity to work closely with faculty, staff, local practitioners, and each other on a capstone project that involves the development of a GIS and/or urban data management application. Spring Also Offered As: LARP 7450 Mutually Exclusive: MUSA 8020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6810 Anchor Institutions as Agents of Planning: Past, Present and Future",
+    "courseid": "CPLN 6810",
+    "coursedescription": "Starting with a review of the emergence of the anchor institution idea, this course will focus on several case studies of institutional involvement with their neighboring communities and their cities. It will address how local planning departments treat anchor institutions. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6820 How to Build a City",
+    "courseid": "CPLN 6820",
+    "coursedescription": "This course will study how to transform cities at a large, comprehensive scale and provide students with an introduction to the integrated set of tools necessary to “build a city” through the evaluation and design of large-scale urban revitalization efforts. Taught by a practitioner who led the London Olympic Legacy Corporation, was Deputy Mayor for Planning and Economic Development in Philadelphia and was the former planning director for Washington DC, the course will take a “hands-on” approach by combining case studies of major urban initiatives, field trips in Philadelphia to observe first hand how urban revitalization efforts have succeeded and been limited, and workshops where student teams will learn to design their own large-scale “city building” urban revitalization initiative. The goal of the course is for students to understand the forces that affect how cities and neighborhoods grow and change (economic, political, social, governance) and to be introduced to the comprehensive set of skills and perspectives essential to “building a city” such as infrastructure planning and finance; the organization of city planning and regulatory programs; urban and neighborhood governance and participation/ownership models; forms of public/private partnerships and tax incentive policies, among other topics. The course will examine major urban revitalization initiatives in recent 21st century history in North America and Europe to understand their effectiveness, such as: urban renewal; urban empowerment, enterprise and opportunity zones; Hope VI and the redevelopment of public housing; the London 2012 Olympics and mega sports events; urban waterfronts, such as the Anacostia Waterfront Initiative in Washington DC and the Delaware River waterfront in Philadelphia; the Neighborhood Transformation Initiative and recent Soda Tax in Philadelphia; the “smart city” proposed by Google on the Toronto waterfront; the rise of “innovation districts” and current initiatives proposed by President Biden’s Administration, such as the Bi-Partisan Infrastructure Act. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6830 Material Histories and Ethnographic Methods",
+    "courseid": "CPLN 6830",
+    "coursedescription": "What does it mean for students in the spatial disciplines (outside of anthropology, sociology, and history) to engage human subjects as primary sources of evidence? How can students in design, planning, and preservation both learn from the social sciences and transform classic ethnographic and historical methods to address the unique contexts of buildings, landscapes, and cities? This class focuses on how to conduct built environment research that views human subjects as repositories of knowledge and critical sources of primary evidence. We will explore research on the history of the built environment (dependent on maps, plats, documentation of sites) and human centered research as we design—collectively—best practices and spatially oriented interview and observation techniques. We will address multiple scales (sidewalks, commercial store fronts, post offices, neighborhoods) as we problematize human experience, perception, and knowledge of the built world. Fall Also Offered As: HSPV 6500 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6850 Environmental Readings",
+    "courseid": "CPLN 6850",
+    "coursedescription": "In this seminar, we will explore the green thread in America thought and letters and analyze its influence on how we shape our environments through design and planning. The course has three parts. Throughout, the influence of literature on design and planning theory will be explored. The first part will focus on three most important theorists in environmental planning and landscape architecture: Frederick Law Olmsted Sr., Charles Eliot, and Ian McHarg. The second part of the course will critically explore current theories in environmental planning and landscape architecture. The topics include: frameworks for cultural landscape studies, the future of the vernacular, ecological design and planning, sustainable and regenerative design, the languages of landscapes, and evolving views of landscape aesthetics and ethics. In the third part of the course, students will build on the readings to develop their own theory for ecological planning or, alternatively, landscape architecture. While literacy and inquiry are addressed throughout the course, critical thinking is especially important for this final section. Fall Also Offered As: ARCH 6850 , LARP 6850 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6860 Applications in Urban Design & Development",
+    "courseid": "CPLN 6860",
+    "coursedescription": "This elective seminar will provide a deeper dive into issues of evidence-based, high-performance, urban development & design. The course is intended for MCP students, and anyone with an interest in the large scale urban design & development projects. Diverse problem-solvers, with any one of a variety of backgrounds, such as design, landscape architecture, and financial analysis are encouraged to enroll. This is a project-based course in which students will work in groups on a semester-long project. The topic is flexible. 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course is intended for MCP students, and anyone with an interest in the large scale urban design & development projects."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 6870 Topics in Historic Preservation",
+    "courseid": "CPLN 6870",
+    "coursedescription": "This seminar concentrates on a selected topic in the social and cultural history of the built environment. Past themes have included photography and the American city and the relationship between cities and sound. For our current offering, please visit: https://www.design.upenn.edu/historic-preservation/courses Spring Also Offered As: HSPV 6380 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6880 Quantitative Research Design in Planning",
+    "courseid": "CPLN 6880",
+    "coursedescription": "This course introduces students to the quantitative research design process. The course uses examples of research debates from urban planning to illustrate different research strategies. Typically, the readings will include illustrations of empirical studies accompanied by readings that explain in more detail the research strategy used in the examples. Students will also have the opportunity to propose alternative strategies for addressing the research questions examined in the examples. Through practice, students will hone their research design skills. In the final part of the course students will present and critique each other’s research designs. Students interested in pursuing a career in research either in academia, government or industry and/or preparing to undertake research for a thesis or dissertation will benefit a great deal from the course. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Students interested in pursuing a career in research either in academia, government or industry and/or preparing to undertake research for a thesis or dissertation will benefit a great deal from the course."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 6890 The City at Night",
+    "courseid": "CPLN 6890",
+    "coursedescription": "This course is an urban planner’s guide to the emerging field of Nighttime Cities. We will survey a cross-section of issues and concepts related to urban life at night and discuss relevant practices in urban planning and policy. The course will give special focus to issues of culture, community, \"night work,\" and entertainment-related commerce, but it will also cover issues in transportation, governance, design, regulation, health, and economic development. Students will learn through field study, guest lectures, film and music, data analysis, and readings. The course will allow for individualized study of nighttime places, communities, and systems in Philadelphia. Introductory GIS knowledge is required. Be prepared to stay up late! Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 6920 Java Script Programming for Planners and Designers",
+    "courseid": "CPLN 6920",
+    "coursedescription": "Dashboards, story maps, and other interfaces that enable the display, analysis, and generation of geospatial data are often the end product of data analysis processes. In this course we'll focus on the interface and interaction aspects of creating these products. Students will learn to design and build interfaces to help users access the value promised by geospatial data, modeling, and analysis. We will cover the logic and syntax of the JavaScript programming language for use in data and map-oriented web applications. The \"hands-on\" uses of JavaScript in urban planning applications will be emphasized. Students will hone their skills through a series of complete application projects. Fall Also Offered As: MUSA 6110 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 7010 Planning Studio",
+    "courseid": "CPLN 7010",
+    "coursedescription": "Intensive study of a selected planning topic. Teams of students work with clients to develop alternative scenarios and produce plan and implementation strategies. Multiple presentations required. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7020 Planning Studio",
+    "courseid": "CPLN 7020",
+    "coursedescription": "Intensive study of a selected planning topic. Teams of students work with clients to develop alternative scenarios and produce plan and implementation strategies. Multiple presentations required. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7030 Planning Studio",
+    "courseid": "CPLN 7030",
+    "coursedescription": "Intensive study of a selected planning topic. Teams of students work with clients to develop alternative scenarios and produce plan and implementation strategies. Multiple presentations required. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7040 Planning Studio",
+    "courseid": "CPLN 7040",
+    "coursedescription": "Intensive study of a selected planning topic. Teams of students work with clients to develop alternative scenarios and produce plan and implementation strategies. Multiple presentations required. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7050 Planning Studio",
+    "courseid": "CPLN 7050",
+    "coursedescription": "Intensive study of a selected planning topic. Teams of students work with clients to develop alternative scenarios and produce plan and implementation strategies. Multiple presentations required. Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7060 Planning Studio",
+    "courseid": "CPLN 7060",
+    "coursedescription": "Intensive study of a selected planning topic. Teams of students work with clients to develop alternative scenarios and produce plan and implementation strategies. Multiple presentations required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7070 Planning Studio",
+    "courseid": "CPLN 7070",
+    "coursedescription": "Intensive study of a selected planning topic. Teams of students work with clients to develop alternative scenarios and produce plan and implementation strategies. Multiple presentations required. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 7080 Planning Studio",
+    "courseid": "CPLN 7080",
+    "coursedescription": "Intensive study of a selected planning topic. Teams of students work with clients to develop alternative scenarios and produce plan and implementation strategies. Multiple presentations required. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7090 Planning Studio",
+    "courseid": "CPLN 7090",
+    "coursedescription": "Second year planning studio Fall",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7200 Housing, Community and Economic Development Practicum",
+    "courseid": "CPLN 7200",
+    "coursedescription": "The Housing, Community & Economic Development Practicum course is the capstone for the CED concentration. Using the skills and knowledge they have acquired in CPLN 5200 and the theory/method requirement, students work in small groups on projects for local clients. These clients may include community-based organizations, public agencies, or other nonprofits. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 7300 Sustainable Cities",
+    "courseid": "CPLN 7300",
+    "coursedescription": "This reading and writing-intensive discussion seminar reviews and debates what it means to develop sustainably, primarily focusing on cities in the United States. We examine the theory behind the sustainable cities movement from healthy cities, to green cities, to smart growth, to just cities, low-carbon cities, and resilient cities. We critically evaluate examples of sustainability planning. We discuss regulation, incentives, technological advances, and social norms. Finally, we evaluate contemporary urban sustainability plans. The class meetings leave room for students to raise and debate their own ideas of sustainability—in past semesters, students have driven conversation everywhere from cricket-based foods, to battery technology, to building community trust. By the end of the course, you will have a more nuanced and comprehensive view on how to create sustainable cities and you will be able to articulate those ideas clearly through writing. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 7500 Advanced Transportation Seminar",
+    "courseid": "CPLN 7500",
+    "coursedescription": "This course will cover advanced topics in transportation planning and systems analysis. Through the lens of air transportation, rail transportation, logistics, and safety, students will learn and engage in concepts in economics and behavioral modeling, operations research, statistics, environmental planning, and human factors that are used in transportation systems. Topics will include airport and intercity multimodal planning, transportation-environmental planning, network design and reliability, disaster recovery and recovery from irregular operations, scheduled transportation operations, economics, fuel, transportation sustainability, and land use issues related to transportation systems. The course will emphasize learning through lessons, guest lecturers, case studies and an individual group and research project. Spring Also Offered As: ESE 5500 Prerequisite: CPLN 5500 1 Course Unit",
+    "course-prerequsities": [
+      "CPLN 5500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 7600 Urban Design Capstone Studio",
+    "courseid": "CPLN 7600",
+    "coursedescription": "This MCP Capstone Studio is for students concentrating on the discipline of Urban Design to investigate alternative theories and methods for the redevelopment of the urban systems of our cities; to develop detailed urban design schemes at the city, district, and development scales; and to work collaboratively on large-scale interventions, as well as urban design exploration at the individual or partner level. Pedagogic objectives include: connecting the links between theory and practice; developing principles to guide design; understanding associations between interventions and stakeholder interests; and exploring holistic approaches to sustainability and resiliency through collaborative design. Pragmatic problem solving and approaches to implementation will be balanced with essential skills in visioning, critical thinking, research and analysis, design leadership, and storytelling through multiple design presentations. Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units",
+      "notes": [
+        "Pedagogic objectives include: connecting the links between theory and practice; developing principles to guide design; understanding associations between interventions and stakeholder interests; and exploring holistic approaches to sustainability and resiliency through collaborative design."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 7730 Preservation and Development of Urban Heritage in the Americas",
+    "courseid": "CPLN 7730",
+    "coursedescription": "This advanced topic seminar will focus on the challenges confronted by the conservation and urban planning professions in turning the urban heritage into a social and economic development resource for cities in developing countries. The preservation of the urban heritage is moving to a new paradigm of intervention responding to: a growing interest in communities for preserving their intangible and tangible urban heritage; rising development pressures on historic neighborhoods; the generalization of adaptive rehabilitation as a conservation strategy; and recent international agreements calling for expanding the role of the urban heritage in the social and economic development of the communities. This is a problem that is in the cutting edge of the research and practice of heritage conservation and urban planning and has conservation, planning and design implications making it ideally suited to a multi-discipline seminar approach. The course will combine seminar and field study methodologies in ways that they support each other. The knowledge acquired through the seminar work will be put to use in a field study exercise whose objective is to allow the students to work on topics of their interest and pursue research or urban development and heritage conservation interventions related to the semester's specific studio site. For the current site offering, please visit: https://www.design.upenn.edu/historic-preservation/courses Spring, even numbered years only Also Offered As: HSPV 7030 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The preservation of the urban heritage is moving to a new paradigm of intervention responding to: a growing interest in communities for preserving their intangible and tangible urban heritage; rising development pressures on historic neighborhoods; the generalization of adaptive rehabilitation as a conservation strategy; and recent international agreements calling for expanding the role of the urban heritage in the social and economic development of the communities.",
+        "The knowledge acquired through the seminar work will be put to use in a field study exercise whose objective is to allow the students to work on topics of their interest and pursue research or urban development and heritage conservation interventions related to the semester's specific studio site."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 7900 MUSA/Smart Cities Practicum",
+    "courseid": "CPLN 7900",
+    "coursedescription": "Students will complete a semester-long applied spatial data science project. There are two sections of this class - one for client-based projects and one for independent or small team studies. In Section 401, small teams of students work under faculty direction with a government or NGO client on professional data science projects. In Section 402, students work an independent study. Students may select a project from a list of pre-defined projects from either section or, less commonly, identify their own independent research project. In the case of an independent project, the student must consult with the instructor of this practicum section before the start of the semester to have the project approved and scoped out in advance. Students may work in small teams or independently. Throughout the semester, students will be mentored by the instructor of the course on completing the deliverables by the end of the semester. Projects must be a practical application of geospatial, statistical, or machine learning methods or tools. Spring Also Offered As: MUSA 8010 Prerequisite: ( CPLN 5050 OR MUSA 5000 ) AND ( MUSA 5080 OR CPLN 5920 ) 1 Course Unit",
+    "course-prerequsities": [
+      "CPLN 5050",
+      "MUSA 5000",
+      "MUSA 5080",
+      "CPLN 5920"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 7910 CPLN Summer Institute: Spreadsheet Review",
+    "courseid": "CPLN 7910",
+    "coursedescription": "Excel for Planners: use of Excel to develop simple planning indicators (e.g., location quotients), simple planning models (e.g., fiscal impact models), and database operations. Course enrollment is by permit only. Please contact Roslynne Carter (CPLN Dept.) at at roslynne@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7920 CPLN Summer Institute: Statistics",
+    "courseid": "CPLN 7920",
+    "coursedescription": "Basic Statistics for Planners: review of descriptive and basic inferential statistics, including z-scores, confidence intervals, t-tests, and chi-squared. Course enrollment is by permit only. Please contact Roslynne Carter (CPLN Dept.) at at roslynne@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7930 CPLN Summer Institute: Urban Design",
+    "courseid": "CPLN 7930",
+    "coursedescription": "Intensive pre-enrollment workshop for students in the Urban Design concentration, who do not come from a design background. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7940 CPLN Summer Institute: Microeconomics Review",
+    "courseid": "CPLN 7940",
+    "coursedescription": "Micro-econ Review: review of principles of supply and demand, elasticities, equilibrium prices and quantities. Course enrollment is by permit only. Please contact Roslynne Carter (CPLN Dept.) at at roslynne@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7950 Cpln Summer: Introduction To GIS",
+    "courseid": "CPLN 7950",
+    "coursedescription": "The summer GIS Bootcamp prepares students for the intermediate GIS classes thatbegin in the fall semester. It begins with a discussion of GIS in planning and the social sciences and then moves on to topics related to spatial data, geocoding, projection, vector and raster-based geoprocessing, 3D visualization and more. Each class includes a brief lecture and a walk through involving actual planning related data. Course enrollment is by permit only. Please contact Roslynne Carter (CPLN Dept.) at at roslynne@design.upenn.edu. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7970 CPLN Summer Institute: Writing Lab",
+    "courseid": "CPLN 7970",
+    "coursedescription": "Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7980 CPLN Summer Institute: Success Stratgies",
+    "courseid": "CPLN 7980",
+    "coursedescription": "Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 7990 CPLN Summer Institute: Introduction to the R Statistical System",
+    "courseid": "CPLN 7990",
+    "coursedescription": "This one-week short course will introduce students to the basics of the R statistical programming language, including importing and setting up data, using the R interface to conduct descriptive data analysis, and basic model-building procedures. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 8000 Doctoral Seminar",
+    "courseid": "CPLN 8000",
+    "coursedescription": "Open to PhD students, this scholar-oriented seminar explores how academic researchers from different disciplines define researchable questions, craft research designs, and contribute to knowledge through an examination of important and/or recently published books and monographs with an urban focus. Required of all first- and second- year CPLN doctoral students and those doctoral students enrolled in the Urban Studies Graduate Certificate Program, enrollment is limited to 15 students. Other doctoral students may enroll on a space available basis. Course requirements include completion of a major research paper on a topic selected in consultation with the instructor. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Required of all first- and second- year CPLN doctoral students and those doctoral students enrolled in the Urban Studies Graduate Certificate Program, enrollment is limited to 15 students."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 8040 Research Seminar in the History of the Built Environment",
+    "courseid": "CPLN 8040",
+    "coursedescription": "How can one conduct research on the history of the built environment for a scholarly article in one semester? This class uses the structure of the semester and the cadence of weekly meetings to demystify research and writing. Alternative sources including photography, digital forms of evidence, and oral and ethnographic data, as well as correspondences, government documents, maps, architectural and planning documents, and related ephemera found in archives are explored. Topics range from: key questions and arguments that have driven built environment research since the 1980s (when vernacular architecture, cultural landscapes, and ordinary built environment history blossomed in the academy), developing questions, framing research, matching sources to arguments, where to publish, where to present, the different modes required for writing versus presenting, and how to reach intended audiences. Potential guests include editors of major scholarly journals and scholarly research blogs; and new and established scholars who will present the “backstage” (the hurdles, challenges, research strategies and insights) of articles we read for class. Substantial time during the last third of the class will be dedicated to writing, editing, and sharing work that will culminate in an original essay of 20 pages. This class is intended for doctoral and master’s students working on a dissertation, thesis, capstone, or personal research project as well as those who will identify a topic after class begins. Spring, odd numbered years only 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CPLN 8200 Readings in Urban & Planning History",
+    "courseid": "CPLN 8200",
+    "coursedescription": "Reading and discussion course on selected topics in urban and planning history, with an emphasis on the United States, 1820-2000. We will sample both canonical and more recent scholarship. Interested doctoral students from across the university are particularly welcome. Masters students interested in an intensive reading course are also welcome. All students will read at least one book per week, and the final written assignment can be tailored to individual student interests and needs. Spring, even numbered years only Also Offered As: HSPV 8200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Interested doctoral students from across the university are particularly welcome.",
+        "Masters students interested in an intensive reading course are also welcome.",
+        "All students will read at least one book per week, and the final written assignment can be tailored to individual student interests and needs."
+      ]
+    }
+  },
+  {
+    "coursename": "CPLN 9925 Independent Study: Dissertation Preparation Research",
+    "courseid": "CPLN 9925",
+    "coursedescription": "This independent study is reserved for students in the City Planning PhD program to focus on research related to their dissertation prior to passing the Candidacy Exam. This course cannot be counted towards the credits required for the degree.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0-3 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 9950 Dissertation",
+    "courseid": "CPLN 9950",
+    "coursedescription": "Dissertation course. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0 Course Units"
+    }
+  },
+  {
+    "coursename": "CPLN 9999 Independent Study and Research",
+    "courseid": "CPLN 9999",
+    "coursedescription": "Independent Study supervised by a faculty member. 0-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "coursename": "KORN 0100 Beginning Korean I",
+    "courseid": "KORN 0100",
+    "coursedescription": "This course is designed for students who have little or no knowledge of Korean. This course aims to develop foundational reading, writing, listening, and speaking skills through meaningful communicative activities and tasks. Upon successful completion of this course, students should be able to comprehend and carry on simple daily conversations and create simple sentences in the past, present, and future tenses. Students will learn how to introduce themselves, describe their surroundings, talk about daily lives, friends and relatives, and talk about past and future events. Fall Mutually Exclusive: KORN 5100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0103 Spoken Korean I",
+    "courseid": "KORN 0103",
+    "coursedescription": "This class is for those that have little to no knowledge of Korean. The main focus is the development of Korean communication skills by exploring a variety of everyday topics beyond school settings. Students will improve their Korean communication skills by engaging in a variety of interactive activities, role plays, and presentations. Class topics include, but are not limited to, introducing oneself, describing one's surroundings, discussing daily activities and past events, talking about common objects and people, etc. We will also introduce cultural topics in order to deepen students' understanding of Korea's culture and language. NOTE: This course does not count toward the language requirement or the EALC major or minor. Offered through the Penn Language Center. Fall Mutually Exclusive: KORN 5103 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Class topics include, but are not limited to, introducing oneself, describing one's surroundings, discussing daily activities and past events, talking about common objects and people, etc."
+      ]
+    }
+  },
+  {
+    "coursename": "KORN 0105 Spoken Korean II",
+    "courseid": "KORN 0105",
+    "coursedescription": "A continuation of Spoken Korean I, this course aims to further develop oral communication skills by exploring a variety of topics, such as shopping, hobbies, family and future plans. Class activities include interactive tasks, role plays and presentations. Cultural topics will also be incorporated in order to further deepen students' understanding of Korea's culture and language. Upon completion of the course, students will be able to comprehend and carry on basic conversations; exchange information on a variety of topics in the past, present and future tenses; and achieve a proficiency level of Novice High based on the ACTFL (American Council on the Teaching of Foreign Languages) proficiency scale. NOTE: This course does not count toward the language requirement or the EALC major or minor. Offered through the Penn Language Center. Spring Mutually Exclusive: KORN 5105 Prerequisite: KORN 0103 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0103"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0200 Beginning Korean II",
+    "courseid": "KORN 0200",
+    "coursedescription": "A continuation of Beginning Korean I, this course aims to further develop the four language skills of students to the novice-high level by building on materials covered in that class. Students will learn how to use three speech styles (polite formal, informal, and intimate) appropriately in a given context. Upon successful completion of this course, students should be able to handle simple and elementary needs of daily lives and talk (and write) about a variety of topics such as family, college life, birthday celebration, shopping, Korean food, etc. Spring Mutually Exclusive: KORN 5200 Prerequisite: KORN 0100 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0201 Beginning Korean II (Penn Global Seminar)",
+    "courseid": "KORN 0201",
+    "coursedescription": "Korean 0201 (Beginning Korean II) is the second semester of elementary-level Korean. Upon completion of this course, students will be able to handle simple elementary needs such as ordering food in a restaurant, shopping, using public transportation, asking for weather information, talking about personal interests, etc. As a Penn Global Seminar course, students will have ample opportunities to engage with real language and cultural perspectives, practices, and products, while also collaborating on a bilingual mini research project with language partners on a topic of their choice related to various aspects of Korean culture and society. The travel components include various cultural sites, historical monuments, museums, exhibits, and educational institution(s) to explore and develop an in-depth understanding of Korea’s past and present. Upon completion of the course, students are expected to obtain the Intermediate Low level of proficiency based on the ACTFL (American Council on the Teaching of Foreign Languages) proficiency scale. Note: This course will be offered in Spring 2026 if approved by Penn Global. Not Offered Every Year Mutually Exclusive: KORN 5201 Prerequisite: KORN 0100 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Upon completion of this course, students will be able to handle simple elementary needs such as ordering food in a restaurant, shopping, using public transportation, asking for weather information, talking about personal interests, etc."
+      ]
+    }
+  },
+  {
+    "coursename": "KORN 0210 Intensive Beginning Korean I & II",
+    "courseid": "KORN 0210",
+    "coursedescription": "This is an intensive Korean course that covers the material from Elementary Korean I and Elementary Korean II in an intensive format, designed for novice learners who have little or no knowledge of Korean. This course aims to develop a solid foundation for reading, writing, listening, and speaking skills through meaningful communicative activities and tasks in cultural context. Upon completion of the course, students should be able to handle simple and elementary needs of daily lives and be able to talk and write about a variety of topics such as mood and personalities, clothing, weather, illness, Korean food, etc. Students will also learn how to use three speech styles (polite formal, informal, and intimate) appropriately in a given context. Students are also expected to obtain the Novice High level of proficiency based on the ACTFL (American Council on the Teaching of Foreign Languages) proficiency scale. During the summer, this course will be given in an online format that provides a communicative learning environment through Adobe Connect and Canvas. Students will be required to view PowerPoint slide shows and do homework questions in Canvas before each class, and class time will be mostly spent on communicative activities. After class, students will practice four language skills with the online exercises on Canvas, class blogs, and Voice Thread. This online course requires acess to a reliable computer with high-speed internet and good quality headsets with a microphone. This course is offered through the Penn Language Center. Fall Mutually Exclusive: KORN 5210",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "KORN 0220 Korean for Heritage Speakers I",
+    "courseid": "KORN 0220",
+    "coursedescription": "This course is designed for heritage speakers who have a strong background in everyday Korean. This course focuses on enhancing linguistic accuracy (spelling, grammar, vocabulary, pronunciation) and fluency (idiomatic and figurative expressions, narrative structure, discursive practice) in both spoken and written Korean, as well as gaining a deeper understanding of Korean culture. Upon completion of the course, students will be able to express themselves more accurately and participate in Korea-related communities more meaningfully. This course and its subsequent course KORN0420 complete the College language requirement. Fall Mutually Exclusive: KORN 5220 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0300 Intermediate Korean I",
+    "courseid": "KORN 0300",
+    "coursedescription": "This is a continuation of Elementary Korean II. This course is designed to develop students' Korean language proficiency to the intermediate-low level of the ACTFL Proficiency Guidelines. Authentic materials, as well as various student-centered activities that are highly contextualized in everyday interactions will be used. Upon completion of the course, students will be able to present and exchange information on a variety of topics such as weather, fashion, travel, mailing, housing, public transportation, and shopping. Fall Mutually Exclusive: KORN 5300 Prerequisite: KORN 0200 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0400 Intermediate Korean II",
+    "courseid": "KORN 0400",
+    "coursedescription": "This is a continuation of Intermediate Korean I. This course is designed to develop students' Korean language proficiency to the intermediate-mid level of the ACTFL Proficiency Guidelines. This course expands student's competence by dealing with more functions in various contexts that students can frequently encounter in everyday interactions. In order to prepare students for social contexts, students are encouraged to engage in conversations by personalizing the topics, functions or contexts. Students will perform in an interpersonal way by providing and obtaining information, expressing feelings and emotions, and exchanging opinions on a variety of topics such as birthday parties, recreation and hobbies, Korean holidays, marriage, cultural differences, education and jobs. Spring Mutually Exclusive: KORN 5400 Prerequisite: KORN 0300 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0401 Intermediate Korean II (Penn Global Seminar)",
+    "courseid": "KORN 0401",
+    "coursedescription": "KORN0401 is the second semester of intermediate-level Korean. As a Penn Global seminar course, it aims to enhance students’ linguistic and cultural competence in Korean. Under the overarching theme of exploring Korea’s past and present, students will have ample opportunities to explore and engage in real language use and learn various cultural perspectives, practices, and products. In addition, students will collaborate on a bilingual mini research project with language partners, focusing on a topic of their choice related to various aspects of Korean culture and society (e.g., history, language, architecture, music, art, food, etc.). The travel component includes visits to cultural sites, historical monuments, museums, exhibits, and educational institutions to gain an in- depth understanding of Korea’s past and present. Upon completion of the course, students are expected to achieve the Intermediate Mid level based on the ACTFL (American Council on the Teaching of Foreign Languages) proficiency scale. Spring, even numbered years only Mutually Exclusive: KORN 5401 Prerequisite: KORN 0300 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0420 Korean for Heritage Speakers II",
+    "courseid": "KORN 0420",
+    "coursedescription": "This course is a continuation of Korean for Heritage Speakers I, and aims to further develop students' linguistic and cultural competence by building on materials covered in that class. In addition to gaining a deeper understanding of Korean culture, the course focuses on enhancing linguistic accuracy and fluency in both spoken and written Korean. Particular emphasis will be placed on building a meaningful Korean-speaking community, as well as consolidation of grammar structures, and expansion and enhancement of vocabulary. Topics include preparing for a trip to Korea, finding housing, college culture in Korea, entertainment and participating in various social events. Upon completion of this course, students will be able to express themselves more accurately and participate in Korea-related communities more meaningfully. This course completes the College language requirement. Spring Mutually Exclusive: KORN 5420 Prerequisite: KORN 0220 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0500 High Intermediate Korean I",
+    "courseid": "KORN 0500",
+    "coursedescription": "This course aims to develop functional proficiency in Korean at the intermediate-high level. Students will develop competence in fluency, grammatical accuracy and socio-linguistic/cultural appropriateness through a variety of activities and assignments. In addition, students will learn to communicate using more sophisticated grammatical structures and advanced vocabulary on various topics. The development of each of the four language skills (speaking, listening, reading and writing) is equally emphasized. Fall Mutually Exclusive: KORN 5500 Prerequisite: KORN 0400 OR KORN 0420 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0400",
+      "KORN 0420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0520 Korean for Heritage Speakers III",
+    "courseid": "KORN 0520",
+    "coursedescription": "KORN 0520 is a sequel to KORN 0420 , designed specifically for heritage speakers. The course focuses on advancing students' language proficiency to the intermediate-high level, as defined by the ACTFL Guidelines. The course aims to help students communicate effectively in Korean with both grammatical accuracy and socio-linguistic appropriateness across a range of topics, while fostering independent language learning beyond the classroom. This course enhances all four language skills with a particular focus on speaking and writing. Topics include majors and careers, holidays and traditions, regions and history of Korea, Koreans abroad, and food culture. Fall Mutually Exclusive: KORN 5520 Prerequisite: KORN 0400 OR KORN 0401 OR KORN 0420 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0400",
+      "KORN 0401",
+      "KORN 0420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0560 Business Communication in Korean",
+    "courseid": "KORN 0560",
+    "coursedescription": "Offered through the Penn Language Center. This course is designed to help students improve their Korean language proficiency by learning essential communication skills necessary to engage in business in Korea. Students will also develop their knowledge of and competence in Korean business culture and practice. The course objectives include: (1) to learn essential business terms, advanced grammar structures and communication strategies in business transactions; (2) to learn Korean business customs and culture, work norms, and business etiquette that students need to successfully communicate in a Korean business context. Topics include job application, business correspondence and reports, discussion and presentation in business meetings, communication styles and strategies in business contexts, current business culture, etc. Not Offered Every Year Mutually Exclusive: KORN 5560 Prerequisite: KORN 0400 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0600 High Intermediate Korean II",
+    "courseid": "KORN 0600",
+    "coursedescription": "This is a continuation of Advanced Korean I. Students continue to develop functional proficiency in Korean at the advanced-low level. The topics include literature, culture, Korean customs, and social issues in contemporary Korea. Spring Mutually Exclusive: KORN 5600 Prerequisite: KORN 0500 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0620 Korean for Heritage Speakers IV",
+    "courseid": "KORN 0620",
+    "coursedescription": "KORN 0620 is a continuation of KORN 0520 and the final course in the Korean for Heritage Speakers series. Building on the skills developed in KORN 0520 , this course focuses on advancing students' language proficiency to the Intermediate-High (speaking and writing) / Advanced-Low (listening and reading) level as defined by the ACTFL Guidelines. Emphasis is placed on enhancing students’ ability to communicate effectively in Korean with greater grammatical accuracy and socio-linguistic appropriateness in increasingly complex contexts, while fostering independent language learning outside the classroom. This course continues to strengthen all four language skills, with an emphasis on speaking and writing. Topics covered include contemporary lifestyle, traditional and contemporary aesthetics, regional culture, consumer culture, and diversity in Korean society. Spring Mutually Exclusive: KORN 5620 Prerequisite: KORN 0500 OR KORN 0520 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0500",
+      "KORN 0520"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0678 Medical Communication in Korean",
+    "courseid": "KORN 0678",
+    "coursedescription": "Medical Communication in Korean aims to develop students’ essential communication skills, intercultural competence, and knowledge to successfully engage in Korean for medical purposes. This task-supported curriculum content includes (1) fundamental language skills necessary to perform various tasks in the medical field and (2) knowledge and competence in Korea’s medical professions, industry, and culture. Students will further hone their interactional and intercultural competence by engaging in a variety of assignments, such as role plays, presentations, and a project. Topics include basic medical terminology related to symptoms and treatments; essential communication strategies regarding patient care and consultations; and associated topics such as traditional Korean medicine and remedies, medical tourism in Korea, etc. Upon completion of this course, students are expected to obtain the Intermediate High level of proficiency based on the ACTFL (American Council on the Teaching of Foreign Languages) proficiency scale. Spring Mutually Exclusive: KORN 5678 Prerequisite: KORN 0400 OR KORN 0420 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0400",
+      "KORN 0420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0700 Advanced Korean I",
+    "courseid": "KORN 0700",
+    "coursedescription": "This course aims to develop an in-depth understanding of Korean culture and society through the analysis of spoken and written Korean discourse. Students will engage with key sociolinguistic concepts of politeness, hierarchy, solidarity, power, age, and gender, and enhance their advanced vocabulary and grammar. Students will also develop their abilities in conversation management, self-presentation, socialization, and sense of socio-cultural appropriateness, and gain a better understanding of how native speakers' cultural practices are reflected in language use and how interpersonal relationships are built and maintained through language. Fall Mutually Exclusive: KORN 5700 Prerequisite: KORN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0800 Advanced Korean II",
+    "courseid": "KORN 0800",
+    "coursedescription": "KORN 0800 is a sequel to KORN 0700 (Advanced Korean I) that focuses on further developing language skills and intercultural competence at the advanced level, so that students can communicate in a clearly participatory manner regarding various topics of personal and general interests. Students will engage in various task-based activities to expand lexical repertoire, refine grammar, and develop appropriate and effective interactional skills in Korean. Students’ active engagement in learning through presentations and projects will constitute a crucial part of the course. Upon completion of the course, students will be able to participate in Korean-speaking communities in meaningful ways and competently and confidently interact with Korean people, utilize their linguistic knowledge in a wider range of social settings, and develop a deeper understanding and appreciation of Korea’s language and culture. According to the ACTFL (American Council on the Teaching of Foreign Languages) oral proficiency guidelines, students will attain Advanced Low/Mid-Level and sufficient linguistic and cultural competence to advance to a content-and-language course beyond the 0700 level. Spring Mutually Exclusive: KORN 5800 Prerequisite: KORN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0700"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "KORN 0800 is a sequel to KORN 0700 (Advanced Korean I) that focuses on further developing language skills and intercultural competence at the advanced level, so that students can communicate in a clearly participatory manner regarding various topics of personal and general interests."
+      ]
+    }
+  },
+  {
+    "coursename": "KORN 0860 Business Korean I",
+    "courseid": "KORN 0860",
+    "coursedescription": "Offered through the Penn Language Center. Business Korean I is designed for students who want to sharpen their Korean language skills to the advanced-high level by focusing their study on Korean business and economy. Students will learn business/economy-related terminologies and concepts. They will also take an in-depth look at the issues related to business practices and environment in Korea. Students will improve and refine their language skills through actively participating in discussions, research, and presentations. Fall Mutually Exclusive: KORN 5860 Prerequisite: KORN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0865 Business Korean II",
+    "courseid": "KORN 0865",
+    "coursedescription": "Offered through the Penn Language Center. A continuation of the material offered in Business Korean I. Students further develop their Korean language proficiency at the advance-high level by studying case studies, participating in discussions, and doing research and giving presentations on the topic of current Korean business and economy. Spring Mutually Exclusive: KORN 5865 Prerequisite: KORN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0870 Current Korean Media I",
+    "courseid": "KORN 0870",
+    "coursedescription": "Offered through the Penn Language Center. This course aims to develop a deeper understanding of the contemporary Korean society through critical analysis of language use and viewpoints expressed in various types of media including the internet, TV, films and newspapers. This course will provide students with a rich opportunity to relate what they have learned in previous Korean language courses to the larger context of Korean culture and society. The course is conducted entirely in Korean and utilizes both written and audiovisual materials to develop students' reading/listening comprehension and critical thinking. The course also involves in-depth class discussion and writing short compositions to enhance conversation and writing skills. Fall Mutually Exclusive: KORN 5870 Prerequisite: KORN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 0875 Current Korean Media II",
+    "courseid": "KORN 0875",
+    "coursedescription": "Offered through the Penn Language Center. Current Korean Media II aims at a deeper understanding of the contemporary Korean society, through critical analysis of language use and viewpoints expressed in various types of media including the Internet, TV, films, magazines and newspapers. This course will focus on cultural products and practices such as popular culture, media culture, and entertainment. By catering to the needs and interests of individual learners of Korean, the course will provide them with a rich opportunity to relate what they have learned in previous Korean language courses to the larger context of Korean culture and society. In addition, students will have an in-depth discussion on topics related to Korean society as well as Penn news. This course is conducted entirely in Korean. Spring Mutually Exclusive: KORN 5875 Prerequisite: KORN 0870 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0870"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "By catering to the needs and interests of individual learners of Korean, the course will provide them with a rich opportunity to relate what they have learned in previous Korean language courses to the larger context of Korean culture and society."
+      ]
+    }
+  },
+  {
+    "coursename": "KORN 1040 Advanced Readings in Modern Korean I",
+    "courseid": "KORN 1040",
+    "coursedescription": "This course is designed for advanced level students. Based on literary pieces in the form of short stories, essays, and novels, students are to gain an in-depth, multi-faceted and critical understanding of Korean people, society, and culture. These objectives are achieved primarily through 1) close reading and discussion of original literary texts by 20th -century Korean writers; and 2) regular writing exercises. Some Korean films that are related to the topics of the reading text will be used. Not Offered Every Year Mutually Exclusive: KORN 6040 Prerequisite: KORN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 1045 Advanced Readings in Modern Korean II",
+    "courseid": "KORN 1045",
+    "coursedescription": "This course allows development of creative and analytical thinking through introduction of more organized thematic topics such as family, human relationships, and the reflection of self-images, and individual's mental status while the society changes in time. Spring Mutually Exclusive: KORN 6045 Prerequisite: KORN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 1060 Advanced Business Korean I",
+    "courseid": "KORN 1060",
+    "coursedescription": "Offered through the Penn Language Center. This course aims to further develop students' advanced language proficiency and simultaneously deepen their knowledge and understanding of specific areas related to Korean business and economy such as an expansion of business into Asian markets and globalization strategies. Through research, discussion and presentation on various case studies and other business-related materials, students will enhance their critical thinking skills and gain an in-depth perspective on issues related to contemporary Korean business operations and practices. Fall Mutually Exclusive: KORN 6060 Prerequisite: KORN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 1065 Advanced Business Korean II",
+    "courseid": "KORN 1065",
+    "coursedescription": "Offered through the Penn Language Center. A continuation of the material offered in Advanced Business Korean I. Students continue to closely follow the current topics of business and financial markets of Korea by actively participating in discussions, research, and presentations. Spring Mutually Exclusive: KORN 6065 Prerequisite: KORN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 1070 Advanced Topics in Korean Language and Culture I",
+    "courseid": "KORN 1070",
+    "coursedescription": "This class aims to expand and deepen students’ understanding and knowledge related to various aspects of the Korean language and culture. Students will consolidate and further sophisticate their expertise in the Korean language and culture to achieve professional language proficiency while engaging in discussions, debates, mini-research, and presentations on a wide range of topics covering the Korean language, contemporary life, and culture. Special emphasis will be given to how the Korean language is structured, how cultural practices are reflected in the way language is used, and how interpersonal relationships are built and negotiated through the use of language. As such, the course is organized into the following two parts: (1) Analysis of the Korean language in various genres and media sources and (2) Examination of critical issues related to the Korean language and culture and development of one’s own stance on the given issues. Upon completion of the course, students will be able to reach the Advanced High Level (according to the ACTFL’s proficiency guidelines). Fall Mutually Exclusive: KORN 6070 Prerequisite: KORN 0800 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0800"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 1075 Advanced Topics in Korean Language and Culture II",
+    "courseid": "KORN 1075",
+    "coursedescription": "This course focuses on further developing comprehensive language abilities and deepening socio-cultural knowledge related to Korea by exploring contentious topics surrounding Korean society. Through a review of Korean materials from various genres and media, students will not only gain knowledge of Korean society and culture, but also advance their language proficiency to the professional level. Special emphasis will be given to the investigation of the dynamic nature of Korean culture and society, as well as the development of students' debate skills on important issues related to them. Upon completion of the course, students will be able to reach the Advanced High Level (according to the ACTFL's proficiency guidelines). Spring Mutually Exclusive: KORN 6075 Prerequisite: KORN 0800 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0800"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 1140 Advanced Academic Korean I",
+    "courseid": "KORN 1140",
+    "coursedescription": "This course aims to assist students who wish to improve their knowledge of the advanced Korean language skills required to conduct academic research. Students will critically read, analyze, and discuss academic and other relevant texts, written in either Korean or mixed scripts. Readings include, but are not limited to, academic journal articles and book chapters are important in the field of each student's research, as well as major primary sources, such as periodicals, government documents, and other authentic texts from the late nineteenth century to the present. Students will develop familiarity with these texts and a deeper understanding of academic writing styles in Korean. In addition, students will expand their proficiency in Sino-Korean vocabulary and Hanja (Chinese characters), both essential to developing their academic language skills in Korean. This course will be conducted in Korean. Fall, even numbered years only Mutually Exclusive: KORN 6140 Prerequisite: KORN 1045 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 1045"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Readings include, but are not limited to, academic journal articles and book chapters are important in the field of each student's research, as well as major primary sources, such as periodicals, government documents, and other authentic texts from the late nineteenth century to the present."
+      ]
+    }
+  },
+  {
+    "coursename": "KORN 1145 Advanced Academic Korean II",
+    "courseid": "KORN 1145",
+    "coursedescription": "This course aims to further develop and enhance the language and critical thinking skills required for conducting academic research in Korean studies or relevant disciplines. Through a historical lens, students will have the opportunity to explore a variety of topics, such as culture, gender, international relations, politics, the economy, and religion from early times to the nineteenth century. Students will continue to read critically, evaluate, analyze, and discuss these academic texts (both primary and secondary sources), written in Korean or mixed scripts, and will broaden and expand their repertoires of the Sino-Korean vocabulary and Hanja (Chinese characters) common in academic disciplines. Course materials will include academic journal articles, book chapters, and primary sources pertaining to the fields of each student's research, as well as Korean historical movies and documentaries. This course will be conducted in Korean. Not Offered Every Year Mutually Exclusive: KORN 6145 Prerequisite: KORN 1045 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 1045"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5100 Beginning Korean I",
+    "courseid": "KORN 5100",
+    "coursedescription": "This course is designed for students who have little or no knowledge of Korean. This course aims to develop foundational reading, writing, listening, and speaking skills through meaningful communicative activities and tasks. Upon successful completion of this course, students should be able to comprehend and carry on simple daily conversations and create simple sentences in the past, present, and future tenses. Students will learn how to introduce themselves, describe their surroundings, talk about daily lives, friends and relatives, and talk about past and future events. Fall Mutually Exclusive: KORN 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5103 Spoken Korean I",
+    "courseid": "KORN 5103",
+    "coursedescription": "This class is for those that have little to no knowledge of Korean. The main focus is the development of Korean communication skills by exploring a variety of everyday topics beyond school settings. Students will improve their Korean communication skills by engaging in a variety of interactive activities, role plays, and presentations. Class topics include, but are not limited to, introducing oneself, describing one's surroundings, discussing daily activities and past events, talking about common objects and people, etc. We will also introduce cultural topics in order to deepen students' understanding of Korea's culture and language. NOTE: This course does not count toward the language requirement or the EALC major or minor. Offered through the Penn Language Center. Spring Mutually Exclusive: KORN 0103 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Class topics include, but are not limited to, introducing oneself, describing one's surroundings, discussing daily activities and past events, talking about common objects and people, etc."
+      ]
+    }
+  },
+  {
+    "coursename": "KORN 5105 Spoken Korean II",
+    "courseid": "KORN 5105",
+    "coursedescription": "A continuation of Spoken Korean I, this course aims to further develop oral communication skills by exploring a variety of topics, such as shopping, hobbies, family and future plans. Class activities include interactive tasks, role plays and presentations. Cultural topics will also be incorporated in order to further deepen students' understanding of Korea's culture and language. Upon completion of the course, students will be able to comprehend and carry on basic conversations; exchange information on a variety of topics in the past, present and future tenses; and achieve a proficiency level of Novice High based on the ACTFL (American Council on the Teaching of Foreign Languages) proficiency scale. NOTE: This course does not count toward the language requirement or the EALC major or minor. Offered through the Penn Language Center. Spring Mutually Exclusive: KORN 0105 Prerequisite: KORN 0103 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0103"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5200 Beginning Korean II",
+    "courseid": "KORN 5200",
+    "coursedescription": "A continuation of Beginning Korean I, this course aims to further develop the four language skills of students to the novice-high level by building on materials covered in that class. Students will learn how to use three speech styles (polite formal, informal, and intimate) appropriately in a given context. Upon successful completion of this course, students should be able to handle simple and elementary needs of daily lives and talk (and write) about a variety of topics such as family, college life, birthday celebration, shopping, Korean food, etc. Spring Mutually Exclusive: KORN 0200 Prerequisite: KORN 0100 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5201 Beginning Korean II (Penn Global Seminar)",
+    "courseid": "KORN 5201",
+    "coursedescription": "Korean 0201 (Beginning Korean II) is the second semester of elementary-level Korean. Upon completion of this course, students will be able to handle simple elementary needs such as ordering food in a restaurant, shopping, using public transportation, asking for weather information, talking about personal interests, etc. As a Penn Global Seminar course, students will have ample opportunities to engage with real language and cultural perspectives, practices, and products, while also collaborating on a bilingual mini research project with language partners on a topic of their choice related to various aspects of Korean culture and society. The travel components include various cultural sites, historical monuments, museums, exhibits, and educational institution(s) to explore and develop an in-depth understanding of Korea’s past and present. Upon completion of the course, students are expected to obtain the Intermediate Low level of proficiency based on the ACTFL (American Council on the Teaching of Foreign Languages) proficiency scale. Not Offered Every Year Mutually Exclusive: KORN 0201 Prerequisite: KORN 0100 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0100"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Upon completion of this course, students will be able to handle simple elementary needs such as ordering food in a restaurant, shopping, using public transportation, asking for weather information, talking about personal interests, etc."
+      ]
+    }
+  },
+  {
+    "coursename": "KORN 5210 Intensive Beginning Korean I & II",
+    "courseid": "KORN 5210",
+    "coursedescription": "This is an intensive Korean course that covers the material from Elementary Korean I and Elementary Korean II in an intensive format, designed for novice learners who have little or no knowledge of Korean. This course aims to develop a solid foundation for reading, writing, listening, and speaking skills through meaningful communicative activities and tasks in cultural context. Upon completion of the course, students should be able to handle simple and elementary needs of daily lives and be able to talk and write about a variety of topics such as mood and personalities, clothing, weather, illness, Korean food, etc. Students will also learn how to use three speech styles (polite formal, informal, and intimate) appropriately in a given context. Students are also expected to obtain the Novice High level of proficiency based on the ACTFL (American Council on the Teaching of Foreign Languages) proficiency scale. During the summer, this course will be given in an online format that provides a communicative learning environment through Adobe Connect and Canvas. Students will be required to view PowerPoint slide shows and do homework questions in Canvas before each class, and class time will be mostly spent on communicative activities. After class, students will practice four language skills with the online exercises on Canvas, class blogs, and Voice Thread. This online course requires acess to a reliable computer with high-speed internet and good quality headsets with a microphone. This course is offered through the Penn Language Center. Fall Mutually Exclusive: KORN 0210",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "2 Course Units"
+    }
+  },
+  {
+    "coursename": "KORN 5220 Korean for Heritage Speakers I",
+    "courseid": "KORN 5220",
+    "coursedescription": "This course is designed for heritage speakers who have a strong background in everyday Korean. This course focuses on enhancing linguistic accuracy (spelling, grammar, vocabulary, pronunciation) and fluency (idiomatic and figurative expressions, narrative structure, discursive practice) in both spoken and written Korean, as well as gaining a deeper understanding of Korean culture. Upon completion of the course, students will be able to express themselves more accurately and participate in Korea-related communities more meaningfully. This course and its subsequent course KORN0420 complete the College language requirement. Fall Mutually Exclusive: KORN 0220 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5300 Intermediate Korean I",
+    "courseid": "KORN 5300",
+    "coursedescription": "This is a continuation of Elementary Korean II. This course is designed to develop students' Korean language proficiency to the intermediate-low level of the ACTFL Proficiency Guidelines. Authentic materials, as well as various student-centered activities that are highly contextualized in everyday interactions will be used. Upon completion of the course, students will be able to present and exchange information on a variety of topics such as weather, fashion, travel, mailing, housing, public transportation, and shopping. Fall Mutually Exclusive: KORN 0300 Prerequisite: KORN 0200 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5400 Intermediate Korean II",
+    "courseid": "KORN 5400",
+    "coursedescription": "This is a continuation of Intermediate Korean I. This course is designed to develop students' Korean language proficiency to the intermediate-mid level of the ACTFL Proficiency Guidelines. This course expands student's competence by dealing with more functions in various contexts that students can frequently encounter in everyday interactions. In order to prepare students for social contexts, students are encouraged to engage in conversations by personalizing the topics, functions or contexts. Students will perform in an interpersonal way by providing and obtaining information, expressing feelings and emotions, and exchanging opinions on a variety of topics such as birthday parties, recreation and hobbies, Korean holidays, marriage, cultural differences, education and jobs. Spring Mutually Exclusive: KORN 0400 Prerequisite: KORN 0300 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5401 Intermediate Korean II",
+    "courseid": "KORN 5401",
+    "coursedescription": "This is a continuation of Intermediate Korean I. This course is designed to develop students' Korean language proficiency to the intermediate-mid level of the ACTFL Proficiency Guidelines. This course expands student's competence by dealing with more functions in various contexts that students can frequently encounter in everyday interactions. In order to prepare students for social contexts, students are encouraged to engage in conversations by personalizing the topics, functions or contexts. Students will perform in an interpersonal way by providing and obtaining information, expressing feelings and emotions, and exchanging opinions on a variety of topics such as birthday parties, recreation and hobbies, Korean holidays, marriage, cultural differences, education and jobs. This course completes the College language requirement. Spring Mutually Exclusive: KORN 0401 Prerequisite: KORN 0300 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5420 Korean for Heritage Speakers II",
+    "courseid": "KORN 5420",
+    "coursedescription": "This course is a continuation of Korean for Heritage Speakers I, and aims to further develop students' linguistic and cultural competence by building on materials covered in that class. In addition to gaining a deeper understanding of Korean culture, the course focuses on enhancing linguistic accuracy and fluency in both spoken and written Korean. Particular emphasis will be placed on building a meaningful Korean-speaking community, as well as consolidation of grammar structures, and expansion and enhancement of vocabulary. Topics include preparing for a trip to Korea, finding housing, college culture in Korea, entertainment and participating in various social events. Upon completion of this course, students will be able to express themselves more accurately and participate in Korea-related communities more meaningfully. This course completes the College language requirement. Spring Mutually Exclusive: KORN 0420 Prerequisite: KORN 0220 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0220"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5500 High Intermediate Korean I",
+    "courseid": "KORN 5500",
+    "coursedescription": "This course aims to develop functional proficiency in Korean at the intermediate-high level. Students will develop competence in fluency, grammatical accuracy and socio-linguistic/cultural appropriateness through a variety of activities and assignments. In addition, students will learn to communicate using more sophisticated grammatical structures and advanced vocabulary on various topics. The development of each of the four language skills (speaking, listening, reading and writing) is equally emphasized. Fall Mutually Exclusive: KORN 0500 Prerequisite: KORN 0400 OR KORN 0420 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0400",
+      "KORN 0420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5520 Korean for Heritage Speakers III",
+    "courseid": "KORN 5520",
+    "coursedescription": "KORN 5520 is a sequel to KORN 5420 , designed specifically for heritage speakers. The course focuses on advancing students' language proficiency to the intermediate-high level, as defined by the ACTFL Guidelines. The course aims to help students communicate effectively in Korean with both grammatical accuracy and socio-linguistic appropriateness across a range of topics, while fostering independent language learning beyond the classroom. This course enhances all four language skills with a particular focus on speaking and writing. Topics include majors and careers, holidays and traditions, regions and history of Korea, Koreans abroad, and food culture. Fall Mutually Exclusive: KORN 0520 Prerequisite: KORN 0400 OR KORN 0420 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0400",
+      "KORN 0420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5560 Business Communication in Korean",
+    "courseid": "KORN 5560",
+    "coursedescription": "Offered through the Penn Language Center. This course is designed to help students improve their Korean language proficiency by learning essential communication skills necessary to engage in business in Korea. Students will also develop their knowledge of and competence in Korean business culture and practice. The course objectives include: (1) to learn essential business terms, advanced grammar structures and communication strategies in business transactions; (2) to learn Korean business customs and culture, work norms, and business etiquette that students need to successfully communicate in a Korean business context. Topics include job application, business correspondence and reports, discussion and presentation in business meetings, communication styles and strategies in business contexts, current business culture, etc. Not Offered Every Year Mutually Exclusive: KORN 0560 Prerequisite: KORN 0400 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5600 High Intermediate Korean II",
+    "courseid": "KORN 5600",
+    "coursedescription": "This is a continuation of Advanced Korean I. Students continue to develop functional proficiency in Korean at the advanced-low level. The topics include literature, culture, Korean customs, and social issues in contemporary Korea. Spring Mutually Exclusive: KORN 0600 Prerequisite: KORN 0500 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0500"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5620 Korean for Heritage Speakers IV",
+    "courseid": "KORN 5620",
+    "coursedescription": "KORN 5620 is a continuation of KORN 5520 and the final course in the Korean for Heritage Speakers series. Building on the skills developed in KORN 5520 , this course focuses on advancing students' language proficiency to the Intermediate-High (speaking and writing) / Advanced-Low (listening and reading) level as defined by the ACTFL Guidelines. Emphasis is placed on enhancing students’ ability to communicate effectively in Korean with greater grammatical accuracy and socio-linguistic appropriateness in increasingly complex contexts, while fostering independent language learning outside the classroom. This course continues to strengthen all four language skills, with an emphasis on speaking and writing. Topics covered include contemporary lifestyle, traditional and contemporary aesthetics, regional culture, consumer culture, and diversity in Korean society. Spring Mutually Exclusive: KORN 0620 Prerequisite: KORN 0500 OR KORN 0520 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0500",
+      "KORN 0520"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5678 Medical Communication in Korean",
+    "courseid": "KORN 5678",
+    "coursedescription": "Medical Communication in Korean aims to develop students’ essential communication skills, intercultural competence, and knowledge to successfully engage in Korean for medical purposes. This task-supported curriculum content includes (1) fundamental language skills necessary to perform various tasks in the medical field and (2) knowledge and competence in Korea’s medical professions, industry, and culture. Students will further hone their interactional and intercultural competence by engaging in a variety of assignments, such as role plays, presentations, and a project. Topics include basic medical terminology related to symptoms and treatments; essential communication strategies regarding patient care and consultations; and associated topics such as traditional Korean medicine and remedies, medical tourism in Korea, etc. Upon completion of this course, students are expected to obtain the Intermediate High level of proficiency based on the ACTFL (American Council on the Teaching of Foreign Languages) proficiency scale. Spring Mutually Exclusive: KORN 0678 Prerequisite: KORN 0400 AND KORN 0420 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0400",
+      "KORN 0420"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5700 Advanced Korean",
+    "courseid": "KORN 5700",
+    "coursedescription": "This course aims to develop an in-depth understanding of Korean culture and society through the analysis of spoken and written Korean discourse. Students will engage with key sociolinguistic concepts of politeness, hierarchy, solidarity, power, age, and gender, and enhance their advanced vocabulary and grammar. Students will also develop their abilities in conversation management, self-presentation, socialization, and sense of socio-cultural appropriateness, and gain a better understanding of how native speakers' cultural practices are reflected in language use and how interpersonal relationships are built and maintained through language. Fall Prerequisite: KORN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5800 Advanced Korean II",
+    "courseid": "KORN 5800",
+    "coursedescription": "KORN 0800 is a sequel to KORN 0700 (Advanced Korean I) that focuses on further developing language skills and intercultural competence at the advanced level, so that students can communicate in a clearly participatory manner regarding various topics of personal and general interests. Students will engage in various task-based activities to expand lexical repertoire, refine grammar, and develop appropriate and effective interactional skills in Korean. Students’ active engagement in learning through presentations and projects will constitute a crucial part of the course. Upon completion of the course, students will be able to participate in Korean-speaking communities in meaningful ways and competently and confidently interact with Korean people, utilize their linguistic knowledge in a wider range of social settings, and develop a deeper understanding and appreciation of Korea’s language and culture. According to the ACTFL (American Council on the Teaching of Foreign Languages) oral proficiency guidelines, students will attain Advanced Low/Mid-Level and sufficient linguistic and cultural competence to advance to a content-and-language course beyond the 0700 level. Spring Mutually Exclusive: KORN 0800 Prerequisite: KORN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0700"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "KORN 0800 is a sequel to KORN 0700 (Advanced Korean I) that focuses on further developing language skills and intercultural competence at the advanced level, so that students can communicate in a clearly participatory manner regarding various topics of personal and general interests."
+      ]
+    }
+  },
+  {
+    "coursename": "KORN 5860 Business Korean I",
+    "courseid": "KORN 5860",
+    "coursedescription": "Offered through the Penn Language Center. Business Korean I is designed for students who want to sharpen their Korean language skills to the advanced-high level by focusing their study on Korean business and economy. Students will learn business/economy-related terminologies and concepts. They will also take an in-depth look at the issues related to business practices and environment in Korea. Students will improve and refine their language skills through actively participating in discussions, research, and presentations. Fall Mutually Exclusive: KORN 0860 Prerequisite: KORN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5865 Business Korean II",
+    "courseid": "KORN 5865",
+    "coursedescription": "Offered through the Penn Language Center. A continuation of the material offered in Business Korean I. Students further develop their Korean language proficiency at the advance-high level by studying case studies, participating in discussions, and doing research and giving presentations on the topic of current Korean business and economy. Spring Mutually Exclusive: KORN 0865 Prerequisite: KORN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5870 Current Korean Media I",
+    "courseid": "KORN 5870",
+    "coursedescription": "Offered through the Penn Language Center. This course aims to develop a deeper understanding of the contemporary Korean society through critical analysis of language use and viewpoints expressed in various types of media including the internet, TV, films and newspapers. This course will provide students with a rich opportunity to relate what they have learned in previous Korean language courses to the larger context of Korean culture and society. The course is conducted entirely in Korean and utilizes both written and audiovisual materials to develop students' reading/listening comprehension and critical thinking. The course also involves in-depth class discussion and writing short compositions to enhance conversation and writing skills. Fall Mutually Exclusive: KORN 0870 Prerequisite: KORN 0600 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0600"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 5875 Current Korean Media II",
+    "courseid": "KORN 5875",
+    "coursedescription": "Offered through the Penn Language Center. Current Korean Media II aims at a deeper understanding of the contemporary Korean society, through critical analysis of language use and viewpoints expressed in various types of media including the Internet, TV, films, magazines and newspapers. This course will focus on cultural products and practices such as popular culture, media culture, and entertainment. By catering to the needs and interests of individual learners of Korean, the course will provide them with a rich opportunity to relate what they have learned in previous Korean language courses to the larger context of Korean culture and society. In addition, students will have an in-depth discussion on topics related to Korean society as well as Penn news. This course is conducted entirely in Korean. Spring Mutually Exclusive: KORN 0875 Prerequisite: KORN 0870 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0870"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "By catering to the needs and interests of individual learners of Korean, the course will provide them with a rich opportunity to relate what they have learned in previous Korean language courses to the larger context of Korean culture and society."
+      ]
+    }
+  },
+  {
+    "coursename": "KORN 6040 Advanced Readings in Modern Korean I",
+    "courseid": "KORN 6040",
+    "coursedescription": "This course is designed for advanced level students. Based on literary pieces in the form of short stories, essays, and novels, students are to gain an in-depth, multi-faceted and critical understanding of Korean people, society, and culture. These objectives are achieved primarily through 1) close reading and discussion of original literary texts by 20th -century Korean writers; and 2) regular writing exercises. Some Korean films that are related to the topics of the reading text will be used. Spring Mutually Exclusive: KORN 1040 Prerequisite: KORN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 6045 Advanced Readings in Modern Korean II",
+    "courseid": "KORN 6045",
+    "coursedescription": "This course allows development of creative and analytical thinking through introduction of more organized thematic topics such as family, human relationships, and the reflection of self-images, and individual's mental status while the society changes in time. Spring Mutually Exclusive: KORN 1045 Prerequisite: KORN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 6060 Advanced Business Korean I",
+    "courseid": "KORN 6060",
+    "coursedescription": "Offered through the Penn Language Center. This course aims to further develop students' advanced language proficiency and simultaneously deepen their knowledge and understanding of specific areas related to Korean business and economy such as an expansion of business into Asian markets and globalization strategies. Through research, discussion and presentation on various case studies and other business-related materials, students will enhance their critical thinking skills and gain an in-depth perspective on issues related to contemporary Korean business operations and practices. Not Offered Every Year Mutually Exclusive: KORN 1060 Prerequisite: KORN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 6065 Advanced Business Korean II",
+    "courseid": "KORN 6065",
+    "coursedescription": "Offered through the Penn Language Center. A continuation of the material offered in Advanced Business Korean I. Students continue to closely follow the current topics of business and financial markets of Korea by actively participating in discussions, research, and presentations. Spring Mutually Exclusive: KORN 1065 Prerequisite: KORN 0700 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 6070 Advanced Topics in Korean Language and Culture I",
+    "courseid": "KORN 6070",
+    "coursedescription": "This class aims to expand and deepen students’ understanding and knowledge related to various aspects of the Korean language and culture. Students will consolidate and further sophisticate their expertise in the Korean language and culture to achieve professional language proficiency while engaging in discussions, debates, mini-research, and presentations on a wide range of topics covering the Korean language, contemporary life, and culture. Special emphasis will be given to how the Korean language is structured, how cultural practices are reflected in the way language is used, and how interpersonal relationships are built and negotiated through the use of language. As such, the course is organized into the following two parts: (1) Analysis of the Korean language in various genres and media sources and (2) Examination of critical issues related to the Korean language and culture and development of one’s own stance on the given issues. Upon completion of the course, students will be able to reach the Advanced High Level (according to the ACTFL’s proficiency guidelines). Fall Mutually Exclusive: KORN 1070 Prerequisite: KORN 0800 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0800"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 6075 Advanced Topics in Korean Language and Culture II",
+    "courseid": "KORN 6075",
+    "coursedescription": "This course focuses on further developing comprehensive language abilities and deepening socio-cultural knowledge related to Korea by exploring contentious topics surrounding Korean society. Through a review of Korean materials from various genres and media, students will not only gain knowledge of Korean society and culture, but also advance their language proficiency to the professional level. Special emphasis will be given to the investigation of the dynamic nature of Korean culture and society, as well as the development of students’ debate skills on important issues related to them. Upon completion of the course, students will be able to reach the Advanced High Level (according to the ACTFL’s proficiency guidelines). Spring Mutually Exclusive: KORN 1075 Prerequisite: KORN 0800 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 0800"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "KORN 6140 Advanced Academic Korean I",
+    "courseid": "KORN 6140",
+    "coursedescription": "This course aims to assist students who wish to improve their knowledge of the advanced Korean language skills required to conduct academic research. Students will critically read, analyze, and discuss academic and other relevant texts, written in either Korean or mixed scripts. Readings include, but are not limited to, academic journal articles and book chapters are important in the field of each student's research, as well as major primary sources, such as periodicals, government documents, and other authentic texts from the late nineteenth century to the present. Students will develop familiarity with these texts and a deeper understanding of academic writing styles in Korean. In addition, students will expand their proficiency in Sino-Korean vocabulary and Hanja (Chinese characters), both essential to developing their academic language skills in Korean. This course will be conducted in Korean. Not Offered Every Year Mutually Exclusive: KORN 1140 Prerequisite: KORN 1045 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 1045"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Readings include, but are not limited to, academic journal articles and book chapters are important in the field of each student's research, as well as major primary sources, such as periodicals, government documents, and other authentic texts from the late nineteenth century to the present."
+      ]
+    }
+  },
+  {
+    "coursename": "KORN 6145 Advanced Academic Korean II",
+    "courseid": "KORN 6145",
+    "coursedescription": "This course aims to further develop and enhance the language and critical thinking skills required for conducting academic research in Korean studies or relevant disciplines. Through a historical lens, students will have the opportunity to explore a variety of topics, such as culture, gender, international relations, politics, the economy, and religion from early times to the nineteenth century. Students will continue to read critically, evaluate, analyze, and discuss these academic texts (both primary and secondary sources), written in Korean or mixed scripts, and will broaden and expand their repertoires of the Sino-Korean vocabulary and Hanja (Chinese characters) common in academic disciplines. Course materials will include academic journal articles, book chapters, and primary sources pertaining to the fields of each student's research, as well as Korean historical movies and documentaries. This course will be conducted in Korean. Not Offered Every Year Mutually Exclusive: KORN 1145 Prerequisite: KORN 1045 1 Course Unit",
+    "course-prerequsities": [
+      "KORN 1045"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]

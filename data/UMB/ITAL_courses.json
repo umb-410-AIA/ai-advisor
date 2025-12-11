@@ -1,0 +1,88 @@
+[
+  {
+    "coursename": "Elementary Italian II",
+    "courseid": "ITAL102",
+    "coursedescription": "The continuation of ITAL 101.",
+    "course-prerequsities": [
+      "ITAL 101"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Renaissance View of Man: Princes, Prostitutes, Poets, and Painters",
+    "courseid": "ITAL267",
+    "coursedescription": "A study of Renaissance man's ideals concerning culture, education, artistic creativity, civic values, societal roles, and love, through a critical reading of pertinent texts. Readings and discussions in English.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "The Italian-American Experience",
+    "courseid": "ITAL268L",
+    "coursedescription": "This course examines the cultural history of Italian-American communities from the early Twentieth century to present. The course will explore representations of Italian-Americans in literature, film and popular culture. Taught in English, no previous knowledge of Italian is required.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Italian Cinema",
+    "courseid": "ITAL276L",
+    "coursedescription": "An in-depth look into the thematic and technical development of the Italian cinema from the period of Neorealism to the present day, seen through the lens of the cultural and political transformations in Italian society since the end of World War II. Weekly screenings by Rossellini, Visconti, De Sica, Fellini, Antonioni, and Pasolini. Taught in English.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Italian Composition and Conversation",
+    "courseid": "ITAL301",
+    "coursedescription": "An intensive review of grammar, exercises in free composition, and advanced conversational practice.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "European Crime Fiction",
+    "courseid": "ITAL355L",
+    "coursedescription": "This course examines suspects, felons, and detectives in European crime fiction between the 18th century and today (in England, France, Germany, Italy, and Russia). It introduces students to the historical development of crime literature focusing on key authors, genres and movements. Beginning with the popularization of crime narratives in the era of Enlightenment, the course examines the development of genre conventions in subsequent centuries until the post-modern disintegration of narrative patterns. Particular emphasis is placed on the construction of gender roles, social class, national and regional identity through literature as a cultural practice. Taught in English; readings in the original language are available upon request.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "ITAL379",
+    "coursedescription": "Study of a particular area of this subject under the supervision of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Readings & Research",
+    "courseid": "ITAL479",
+    "coursedescription": "Primarily for seniors with a GPA of at least 3.0 in their major who wish to pursue a research topic in depth, one ordinarily not available in standard course offerings. A written prospectus detailing the plan of study must be submitted to supervising instructor and department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Honors Research Project",
+    "courseid": "ITAL498",
+    "coursedescription": "Independent and original investigation of a specific aspect of Italian literature of special interest to the student, under the supervision of a departmental advisor. Students read primary and secondary texts and determine a critical methodology in preparation for the writing of the thesis.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Independent and original investigation of a specific aspect of Italian literature of special interest to the student, under the supervision of a departmental advisor."
+      ]
+    }
+  },
+  {
+    "coursename": "Senior Honors Thesis",
+    "courseid": "ITAL499",
+    "coursedescription": "Closely supervised individual research resulting in the completion of a senior honors thesis to be accepted by the thesis advisor and a second reader approved by the department.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

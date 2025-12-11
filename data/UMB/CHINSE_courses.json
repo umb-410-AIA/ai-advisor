@@ -1,0 +1,49 @@
+[
+  {
+    "coursename": "Elementary Chinese II",
+    "courseid": "CHINSE102",
+    "coursedescription": "A continuation of CHINSE 101. Grammar, pronunciation, conversation, reading, and writing.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Intermediate Chinese II",
+    "courseid": "CHINSE202",
+    "coursedescription": "Continuation of CHINSE 201. Intensive review and further study of grammar and audio-lingual skills with correlated intermediate-level readings in modern Chinese.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Chinese II",
+    "courseid": "CHINSE302",
+    "coursedescription": "This course is designed for advanced students of Chinese who would like to improve their informal oral communication and formal presentational skills, and further develop their essay-writing ability. Readings and film selections focus on topical issues in modern and contemporary Chinese literature and culture. The course is conducted in standard Mandarin Chinese.",
+    "course-prerequsities": [
+      "CHINSE 202",
+      "CHINSE 301"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Chinese Popular Music",
+    "courseid": "CHINSE315",
+    "coursedescription": "This course familiarizes students with Chinese pop culture and popular language usage in social context through the study of Chinese pop songs over the last fifty years. Study of representative songs will contribute not only to a better understanding of Chinese society in different historical periods and the range of socio-cultural perspectives on these periods but also will realize the learners' language proficiency level through use of the target language in an artistic format. This course is designed for advanced level Chinese language learners (including heritage learners). Materials are primarily in Mandarin, although some videos may be subtitled in English. Lecture and discussion are conducted in Chinese, and all written work is to be done in Chinese.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "CHINSE379",
+    "coursedescription": "For those students wishing to pursue the study of Chinese language, literature, or culture beyond the intermediate level. A course of study is jointly designed by supervising instructor and student.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A course of study is jointly designed by supervising instructor and student."
+      ]
+    }
+  }
+]

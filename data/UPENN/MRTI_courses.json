@@ -1,0 +1,91 @@
+[
+  {
+    "coursename": "MRTI 0100 Beginning Marathi I",
+    "courseid": "MRTI 0100",
+    "coursedescription": "The first year course in Marathi begins with learning the Devnagari script which is common for other important languages like Hindi and Nepali. With proper emphasis on grammar, vocabulary, and phonetics, the syllabus will see the student becoming able to speak conversational Marathi, read Marathi data from the Internet, and compose simple short essays on selected topics. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MRTI 0200 Beginning Marathi II",
+    "courseid": "MRTI 0200",
+    "coursedescription": "Simple sentences in the present tense, narration (spoken as well written) of day to day activities, expressing likes & dislikes, culturally appropriate greetings and addressing, ability to describe events happening in present and present incomplete tense, consolidation of reading and writing skill acquired in the previous semester as well as proper pronunciations of common usage words and phrases. Speaking practices based upon the My Marathi Text book created by University of Mumbai. Spring Prerequisite: MRTI 0100 OR MRTI 5100 1 Course Unit",
+    "course-prerequsities": [
+      "MRTI 0100",
+      "MRTI 5100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MRTI 0300 Intermediate Marathi I",
+    "courseid": "MRTI 0300",
+    "coursedescription": "Intermediate Marathi builds up upon the Beginning Level of Marathi. Gaining ability to speak about past and future is the most important skill in the intermediate course. Students learn the grammar, vocabulary, sentence structures to narrate and write in simple language about their experiences, short anecdotes, their observations and opinions and future plans. Fall Prerequisite: MRTI 0200 OR MRTI 5200 1 Course Unit",
+    "course-prerequsities": [
+      "MRTI 0200",
+      "MRTI 5200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MRTI 0400 Intermediate Marathi Part II",
+    "courseid": "MRTI 0400",
+    "coursedescription": "In the syllabus for the fourth semester Marathi course gaining language inputs regarding Marathi culture and day to day daily life in Maharashtra becomes one important topic. Day to day communication skills necessary to survive in Maharashtra on the street like interaction with a grocery store clerk or a vegetable sales woman in the market, a rikshaw driver, a policeman, a commoner, asking and providing directions on the street and various day to day real life situations are improvised and practiced. Vocabulary, sentence structures and associated grammar is acquired during practice and real life situations based exercises. Spring Prerequisite: MRTI 0300 OR MRTI 5300 1 Course Unit",
+    "course-prerequsities": [
+      "MRTI 0300",
+      "MRTI 5300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MRTI 1500 Advanced Marathi",
+    "courseid": "MRTI 1500",
+    "coursedescription": "Theater and Films, Literature and poetry, Folk Songs, Dance and Music; this one semester course will explore the rich Marathi culture as well as will work on increasing the spoken, listening, reading and written proficiency of the students. News stories from the Marathi print media as well as glimpses from Marathi Television, News as well as Serials and popular comedy shows become the authentic materials in this course. Students learn the linguistic as well as cultural aspect of the variety of material through discussions, presentations in which students acquire and use the language to describe, narrate, express their opinions, evaluate, critique and appreciate these aspects of Marathi urban and rural culture. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MRTI 5100 Beginning Marathi I",
+    "courseid": "MRTI 5100",
+    "coursedescription": "The first year course in Marathi begins with learning the Devnagari script which is common for other important languages like Hindi and Nepali. With proper emphasis on grammar, vocabulary, and phonetics, the syllabus will see the student becoming able to speak conversational Marathi, read Marathi data from the Internet, and compose simple short essays on selected topics. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MRTI 5200 Beginning Marathi II",
+    "courseid": "MRTI 5200",
+    "coursedescription": "Simple sentences in the present tense, narration (spoken as well written) of day to day activities, expressing likes & dislikes, culturally appropriate greetings and addressing, ability to describe events happening in present and present incomplete tense, consolidation of reading and writing skill acquired in the previous semester as well as proper pronunciations of common usage words and phrases. Speaking practices based upon the My Marathi Text book created by University of Mumbai. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MRTI 5300 Intermediate Marathi I",
+    "courseid": "MRTI 5300",
+    "coursedescription": "Intermediate Marathi builds up upon the Beginning Level of Marathi. Gaining ability to speak about past and future is the most important skill in the intermediate course. Students learn the grammar, vocabulary, sentence structures to narrate and write in simple language about their experiences, short anecdotes, their observations and opinions and future plans. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MRTI 5400 Intermediate Marathi Part II",
+    "courseid": "MRTI 5400",
+    "coursedescription": "In the syllabus for the fourth semester Marathi course gaining language inputs regarding Marathi culture and day to day daily life in Maharashtra becomes one important topic. Day to day communication skills necessary to survive in Maharashtra on the street like interaction with a grocery store clerk or a vegetable sales woman in the market, a rikshaw driver, a policeman, a commoner, asking and providing directions on the street and various day to day real life situations are improvised and practiced. Vocabulary, sentence structures and associated grammar is acquired during practice and real life situations based exercises. Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "MRTI 5500 Advanced Marathi",
+    "courseid": "MRTI 5500",
+    "coursedescription": "Theater and Films, Literature and poetry, Folk Songs, Dance and Music; this one semester course will explore the rich Marathi culture as well as will work on increasing the spoken, listening, reading and written proficiency of the students. News stories from the Marathi print media as well as glimpses from Marathi Television, News as well as Serials and popular comedy shows become the authentic materials in this course. Students learn the linguistic as well as cultural aspect of the variety of material through discussions, presentations in which students acquire and use the language to describe, narrate, express their opinions, evaluate, critique and appreciate these aspects of Marathi urban and rural culture. Not Offered Every Year 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

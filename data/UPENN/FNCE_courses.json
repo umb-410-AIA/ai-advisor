@@ -1,0 +1,1136 @@
+[
+  {
+    "coursename": "FNCE 0001 Introduction to Financial Markets and the Global Economy",
+    "courseid": "FNCE 0001",
+    "coursedescription": "This course aims to provide a timely framework to understand economic recessions and expansions and the financial markets' response to world events. The Covid recession reduced the size of the world's economies and output. What does this mean? How is output connected to employment? How are exchange rates determined in global capital markets? We will introduce the policy options of government spending. We will discuss, as data become available, the continuing impact of the coronavirus on the domestic and the global economy. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 0002 Essentials of Personal Finance",
+    "courseid": "FNCE 0002",
+    "coursedescription": "This course introduces students to the key financial concepts through the lens of personal financial decisions, centering on financing one's education, culminating in a capstone project evaluating student loan offers. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 1000 Corporate Finance",
+    "courseid": "FNCE 1000",
+    "coursedescription": "This course provides an introduction to the theory, the methods, and the concerns of corporate finance. The concepts developed in FNCE 1000 form the foundation for all elective finance courses. The main topics include: 1) the time value of money and capital budgeting techniques; 2) uncertainty and the trade-off between risk and return; 3) security market efficiency; 4) optimal capital structure, and 5) dividend policy decisions. ACCT 1010 + STAT 1010 may be taken concurrently. Fall or Spring Mutually Exclusive: FNCE 1008 , FNCE 6110 Prerequisite: ( ECON 0100 AND ECON 0200 ) OR (ECON 0110 AND ( MATH 1400 OR MATH 1070 )) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0200",
+      "ECON 0110",
+      "MATH 1400",
+      "MATH 1070"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 1008 Corporate Finance (Honors)",
+    "courseid": "FNCE 1008",
+    "coursedescription": "This course provides an introduction to the theory, the methods, and the concerns of corporate finance. The concepts developed in FNCE 1000 form the foundation for all elective finance courses. The main topics include: 1) the time value of money and capital budgeting techniques; 2) uncertainty and the trade-off between risk and return; 3) security market efficiency; 4) optimal capital structure, and 5) dividend policy decisions. ACCT 1010 + STAT 1010 may be taken concurrently. Honors sections require MATH 1400 or MATH 1070 as a prerequisite. Application process. Mutually Exclusive: FNCE 1000 , FNCE 6110 Prerequisite: ( ECON 0100 AND ECON 0200 ) OR (ECON 0110 AND ( MATH 1400 OR MATH 1070 )) 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000",
+      "FNCE 6110",
+      "ECON 0100",
+      "ECON 0200",
+      "ECON 0110",
+      "MATH 1400",
+      "MATH 1070"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 1010 Monetary Economics and the Global Economy",
+    "courseid": "FNCE 1010",
+    "coursedescription": "This is an intermediate-level course in macroeconomics and the global economy, including topics in monetary and international economics. The goal is to provide a unified framework for understanding macroeconomic events and policy, which govern the global economic environment of business. The course analyzes the determinants and behavior of employment, production, demand and profits; inflation, interest rates, asset prices, and wages; exchange rates and international flows of goods and assets; including the interaction of the real economy with monetary policy and the financial system. The analysis is applied to current events, both in the US and abroad. Students cannot receive credit for taking both FNCE 1010 and ECON 2200 . Wharton students are required to take FNCE 1010 . Fall or Spring Mutually Exclusive: ECON 2200 , FNCE 1018 , FNCE 6130 Prerequisite: ( ECON 0100 AND ECON 0200 ) OR (ECON 0110 AND ( MATH 1400 OR MATH 1070 )) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 0100",
+      "ECON 0200",
+      "ECON 0110",
+      "MATH 1400",
+      "MATH 1070"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course analyzes the determinants and behavior of employment, production, demand and profits; inflation, interest rates, asset prices, and wages; exchange rates and international flows of goods and assets; including the interaction of the real economy with monetary policy and the financial system."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 1018 Monetary Economics and the Global Economy (Honors)",
+    "courseid": "FNCE 1018",
+    "coursedescription": "This is an intermediate-level course in macroeconomics and the global economy, including topics in monetary and international economics. The goal is to provide a unified framework for understanding macroeconomic events and policy, which govern the global economic environment of business. The course analyzes the determinants and behavior of employment, production, demand and profits; inflation, interest rates, asset prices, and wages; exchange rates and international flows of goods and assets; including the interaction of the real economy with monetary policy and the financial system. The analysis is applied to current events, both in the US and abroad. Students cannot receive credit for taking both FNCE 1010 and ECON 2200 . Wharton students are required to take FNCE 1010 . Honors sections require MATH 1400 or MATH 1070 as a prerequisite. Application process. Mutually Exclusive: ECON 2200 , FNCE 1010 , FNCE 6130 Prerequisite: ( ECON 0100 AND ECON 0200 ) OR (ECON 0110 AND ( MATH 1400 OR MATH 1070 )) 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 2200",
+      "FNCE 1010",
+      "FNCE 6130",
+      "ECON 0100",
+      "ECON 0200",
+      "ECON 0110",
+      "MATH 1400",
+      "MATH 1070"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course analyzes the determinants and behavior of employment, production, demand and profits; inflation, interest rates, asset prices, and wages; exchange rates and international flows of goods and assets; including the interaction of the real economy with monetary policy and the financial system."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2020 Consumer Financial Decision Making",
+    "courseid": "FNCE 2020",
+    "coursedescription": "Research shows that many individuals are profoundly underinformed about important financial facts and financial products, which frequently lead them to make mistakes and lose money. Moreover, consumer finance comprises an enormous sector of the economy, including products like credit cards, student loans, mortgages, retail banking, insurance, and a wide variety of retirement savings vehicles and investment alternatives. Additionally, recent breakthroughs in the FinTech arena are integrating innovative approaches to help consumers. Though virtually all people use these products, many find financial decisions to be confusing and complex, rendering them susceptible to fraud and deception. As a result, government regulation plays a major role in these markets. This course intended for Penn undergraduates considers economic models of household decisions and examines evidence on how consumers are managing (and mismanaging) their finances. Although academic research has historically placed more attention on corporate finance, household finance is receiving a brighter spotlight now-- partly due to its role in the recent financial crisis. Thus the course is geared toward those seeking to take charge of their own financial futures, anyone interested in policy debates over consumer financial decision making, and future FinTech entrepreneurs. Fall Also Offered As: BEPP 2020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Thus the course is geared toward those seeking to take charge of their own financial futures, anyone interested in policy debates over consumer financial decision making, and future FinTech entrepreneurs."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2030 Advanced Corporate Finance",
+    "courseid": "FNCE 2030",
+    "coursedescription": "This course discusses the theory and empirical evidence related to the various investment and financing policies of the firm and attempts to improve decision-making ability in these areas. This course covers aspects of financial management not covered in FNCE 1000 , including mergers and acquisitions, corporate reorganizations, financial planning and working capital management. It also offers a more rigorous coverage of topics discussed in FNCE 1000 , such as investment under uncertainty, cost of capital, capital structure, pricing of selected financial instruments and dividend policy. Fall or Spring Mutually Exclusive: FNCE 7030 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 2050 Investment Management",
+    "courseid": "FNCE 2050",
+    "coursedescription": "This course studies the concepts and evidence relevant to the management of investment portfolios. Topics include diversification, asset allocation, portfolio optimization, factor models, the relation between risk and return, trading, passive (e.g., index-fund) and active (e.g., hedge-fund, long-short) strategies, mutual funds, performance evaluation, long-horizon investing and simulation. The course deals very little with individual security valuation and discretionary investing (i.e., \"equity research\" or \"stock picking\"). In addition to course prerequisites, STAT 1020 may be taken concurrently. Fall or Spring Mutually Exclusive: FNCE 7050 Prerequisite: FNCE 1000 AND STAT 1010 1 Course Unit",
+    "course-prerequsities": [
+      "STAT 1020",
+      "FNCE 7050",
+      "FNCE 1000",
+      "STAT 1010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 2070 Valuation",
+    "courseid": "FNCE 2070",
+    "coursedescription": "The focus of this course is on the valuation of companies. The course covers current conceptual and theoretical valuation frameworks and translates those frameworks into practical approaches for valuing companies. The relevant accounting topics and the appropriate finance theory are integrated to show how to implement the valuation frameworks discussed on a step-by-step basis. The course teaches how to develop the required information for valuing companies from financial statements and other information sources in a real-world setting. Topics covered in depth include discounted cash flow techniques and price multiples. In addition, the course covers other valuation techniques. Fall or Spring Mutually Exclusive: FNCE 7070 Prerequisite: FNCE 1000 AND ACCT 1010 AND STAT 1010 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000",
+      "ACCT 1010",
+      "STAT 1010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 2090 Real Estate Investment: Analysis and Financing",
+    "courseid": "FNCE 2090",
+    "coursedescription": "This course provides an introduction to real estate investing with a focus on financial and economic analysis. It is intended both as a foundational class for students considering a career in real estate as well as a survey class for students interested in finance who want to learn about the real estate sector. Project evaluation, financing strategies, risk assessment, investment decision making, and real estate capital markets are covered. No prior knowledge of the industry is required, but students will rapidly acquire a working knowledge of real estate markets and will quickly develop the quantitative tools to help them make investment decisions. Classes are conducted in a standard lecture format with discussion required. The course contains cases that help students evaluate the impact of more complex financing and capital markets tools used in real estate. There are three case studies and two midterms. FNCE 1000 is required as the class assumes comfort with Corporate Finance concepts and terms. Fall or Spring Also Offered As: REAL 2090 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is intended both as a foundational class for students considering a career in real estate as well as a survey class for students interested in finance who want to learn about the real estate sector."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2170 Financial Derivatives",
+    "courseid": "FNCE 2170",
+    "coursedescription": "This course covers one of the most exciting and fundamental areas in finance. Financial derivatives serve as building blocks to understand broad classes of financial problems, such as complex asset portfolios, strategic corporate decisions, and stages in venture capital investing. The main objective of this course is build intuition and skills on (1) pricing and hedging of derivative securities, and (2) using them for investment and risk management. In terms of methodologies, we apply the non-arbitrage principle and the law of one price to dynamic models through three different approaches: the binomial tree model, the Black-Scholes-Merton option pricing model, and the simulation-based risk neutral pricing approach. The course covers a wide range of applications, including the use of derivatives in asset management, the valuation of corporate securities such as stocks and corporate bonds with embedded options, interest rate and credit derivatives, as well as crude oil derivatives. We emphasize practical considerations of implementing strategies using derivatives as tools, especially when no-arbitrage conditions do not hold. STAT 1020 may be taken concurrently. Fall or Spring Mutually Exclusive: FNCE 7170 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course covers a wide range of applications, including the use of derivatives in asset management, the valuation of corporate securities such as stocks and corporate bonds with embedded options, interest rate and credit derivatives, as well as crude oil derivatives."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2190 International Financial Markets and Cryptocurrencies",
+    "courseid": "FNCE 2190",
+    "coursedescription": "Major topics include foreign exchange rates, international money markets, currency and interest rate derivatives, international stock and bond portfolios, and cryptocurrencies. Students learn about the features of financial instruments and the motivations of market participants. The class focuses on risk management, investing, and arbitrage in these markets. In addition to course prerequisites, FNCE 1010 is recommended but not required. Fall or Spring Mutually Exclusive: FNCE 7190 Prerequisite: FNCE 1000 AND STAT 1010 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1010",
+      "FNCE 7190",
+      "FNCE 1000",
+      "STAT 1010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Major topics include foreign exchange rates, international money markets, currency and interest rate derivatives, international stock and bond portfolios, and cryptocurrencies.",
+        "In addition to course prerequisites, FNCE 1010 is recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2250 Fixed Income Securities",
+    "courseid": "FNCE 2250",
+    "coursedescription": "This course covers fixed income securities (including fixed income derivatives) and provides an introduction to the markets in which they are traded, as well as to the tools that are used to value these securities and to assess and manage their risk. Quantitative models play a key role in the valuation and risk management of these securities. As a result, although every effort will be made to introduce the various pricing models and techniques as intuitively as possible and the technical requirements are limited to basic calculus and statistics, the class is by its nature quantitative and will require a steady amount of work. In addition, some computer proficiency will be required for the assignments, although familiarity with a spreadsheet program (such as Microsoft Excel) will suffice. In addition to course prerequisites, FNCE 1010 is recommended. Fall or Spring Mutually Exclusive: FNCE 7250 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1010",
+      "FNCE 7250",
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "As a result, although every effort will be made to introduce the various pricing models and techniques as intuitively as possible and the technical requirements are limited to basic calculus and statistics, the class is by its nature quantitative and will require a steady amount of work.",
+        "In addition to course prerequisites, FNCE 1010 is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2300 Urban Fiscal Policy",
+    "courseid": "FNCE 2300",
+    "coursedescription": "This course will examine the provision of public services for firms and people through cities and other local governments. Why cities exist, when fiscal policy fails, investments in infrastructure, how to improve school quality, realities of local governments such as inequality, crime, corruption, high cost of living, congestion, and unfunded pensions will be covered. We will pay special attention to recent topics, such as the impact of the Covid-19 pandemic on city and public school finances, racial differences in police use of force, partnerships with the private sector, enterprise zones, the role of technology, and real estate policies that may (or may not!) promote housing affordability, such as inclusionary zoning and rent control. Fall Also Offered As: BEPP 2300 , REAL 2300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 2310 Global Valuation and Risk Analysis",
+    "courseid": "FNCE 2310",
+    "coursedescription": "This course analyzes the financial management problems that result from operating in global environments. Key topics include managing currency risk through hedging and financing, calculating the cost of capital for foreign operations, assessing sovereign risks, capital budgeting from a project and parent perspective, and international taxation and financing, measuring exchange rate exposure, calculating the cost of capital for foreign operations, assessment of sovereign risks, capital budgeting from a project and parent perspective, and international taxation. Spring Mutually Exclusive: FNCE 7310 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 2320 International Banking",
+    "courseid": "FNCE 2320",
+    "coursedescription": "This course focuses on international financial institutions, especially the activities of global, systemically important banks. We will examine how current and historical events are reshaping the industry and highlight the basic analytics of managing a bank's exposure to liquidity, credit, market and reputational risk. Most classes will begin with discussion of a current event related to course topics. Three team projects will be assigned that will give you deeper exposure to analytic techniques related to the course. Throughout the semester, we will discuss public policy issues facing the international financial system. In addition to course prerequisites, FNCE 1010 is recommended. Spring Mutually Exclusive: FNCE 7320 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1010",
+      "FNCE 7320",
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to course prerequisites, FNCE 1010 is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2370 Data Science for Finance",
+    "courseid": "FNCE 2370",
+    "coursedescription": "This course will introduce students to data science for financial applications using the Python programming language and its ecosystem of packages (e.g., Dask, Matplotlib, Numpy, Numba, Pandas, SciPy, Scikit-Learn, StatsModels). To do so, students will investigate a variety of empirical questions from different areas within finance including: FinTech, investment management, corporate finance, corporate governance, venture capital, private equity, and entrepreneurial finance. The course will highlight how big data and data analytics shape the way finance is practiced. Some programming experience is helpful though knowledge of Python is not assumed. Fall Mutually Exclusive: FNCE 7370 Prerequisite: FNCE 1000 AND STAT 1020 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000",
+      "STAT 1020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 2380 Capital Markets",
+    "courseid": "FNCE 2380",
+    "coursedescription": "The objective of this course is to give you a broad understanding of the framework and evolution of U.S. capital markets, the instruments that are traded, the mechanisms that facilitate their trading and issuance, and the motivations of issuers and investors across different asset classes. The course will highlight the problems that capital market participants are seeking to solve, which you can use in your post-Wharton careers to evaluate future market innovations. We will consider design, issuance, and pricing of financial instruments, the arbitrage strategies which keep their prices in-line with one another and the associated economic and financial stability issues. We will draw from events in the aftermath of the recent financial crisis, which illustrate financing innovations and associated risks, as well as policy responses that can change the nature of these markets. In addition to course prerequisites, FNCE 1010 is recommended. Fall or Spring Mutually Exclusive: FNCE 7380 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1010",
+      "FNCE 7380",
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to course prerequisites, FNCE 1010 is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2390 Behavioral Finance",
+    "courseid": "FNCE 2390",
+    "coursedescription": "This course combines insights from behavioral economics and psychology to shed light on anomalous decisions by investors and possibly behavior of asset prices. Its content is designed to both complement and challenge the \"rational\" investment paradigms developed in the early finance classes. It introduces students to much modern theoretical and empirical research showing this paradigm to be insufficient to describe various features of actual financial markets. The course structure involves early lectures, several cases, and a final project involving \"real life\" examples and some modern research methods. In the capstone project students research and explore a specific behavioral bias or a profitable investment opportunity. Students will work in groups to simulate the behavior of, say: a portfolio management team looking for a new trading strategy; a consulting firm advising corporations on issues of financial management; or an entrepreneurial start-up developing a retail financial product. The main deliverable is in a form of a \"pitch\" to potential clients to be delivered both in the form of a group presentation in class and a formal write-up to be submitted by the due date. Spring Mutually Exclusive: FNCE 7390 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 2400 Central Banks, Macroeconomic Policy and Financial Markets",
+    "courseid": "FNCE 2400",
+    "coursedescription": "Understanding and predicting central banking decision making and behavior is crucial for all market participants from asset managers and traders to private consumers. This course aims to provide the methods and knowledge on how central banks and governments think and implement policies to reach the goals of price and financial stability as well as support of growth and employment. The core of the course connects between the legal and actual goals that central banks follow and the related economic analysis on which these goals and policies are set. We explain the economic rationale for the policy prescriptions to reach the goals and how these policies are actually implemented by the Federal Reserve Bank (Fed) in the US, the European Central Bank (ECB), Bank of Israel (BOI) and some remarks on other countries. We use data, current events of the 2007-2018 period as the basis for discussion and assignments. All of these are aimed understanding how and why the Fed, the ECB and the BOI set their policies. For each we shall simulate in class current decisions based on assignment related to past policies and the theory presented in class. Fall Mutually Exclusive: FNCE 7400 Prerequisite: FNCE 1000 AND FNCE 1010 AND STAT 1020 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000",
+      "FNCE 1010",
+      "STAT 1020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 2450 Hedge Funds",
+    "courseid": "FNCE 2450",
+    "coursedescription": "This course will cover critical aspects and characteristics of hedge funds and the hedge fund industry. It will look at the legal foundations and structures of hedge funds including the primary regulations in the U.S. and abroad that are most relevant for hedge funds. It will also present the major hedge fund strategies, describe operation, control, administration, due diligence and valuation issues. Performance evaluation and investing in hedge funds from the investor's perspective will be discussed as will be issues of potential changes in regulation, risk management, and the use of leverage. The format of the course will mix lectures with presentations from industry participants, hedge fund managers, those who invest in hedge funds, those who advise them and provide services to them, and those who regulate them. Those who want to launch a hedge fund, join an existing one, invest in one, or provide services to one will want to register for this course. Spring Mutually Exclusive: FNCE 7450 Prerequisite: FNCE 1000 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 2500 Venture Capital and the Finance of Innovation",
+    "courseid": "FNCE 2500",
+    "coursedescription": "This course covers the finance of technological innovation, with a focus on the valuation tools useful in the venture capital industry. These tools include the \"venture capital method,\" comparables analysis, discounted cash flow analysis, contingent-claims analysis. The primary audience for this course is finance majors interested in careers in venture capital or in R&D-intensive companies in health care or information technology. Fall or Spring Mutually Exclusive: FNCE 7500 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The primary audience for this course is finance majors interested in careers in venture capital or in R&D-intensive companies in health care or information technology."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2510 The Finance of Buyouts and Acquisitions",
+    "courseid": "FNCE 2510",
+    "coursedescription": "The course focuses on financial tools, techniques, and best practices used in buyouts (financial buyers) and acquisitions (strategic buyers). While it will touch upon various strategic, organizational, and general management issues, the main lens for studying these transactions will be a financial one. It will explore how different buyers approach the process of finding, evaluating, and analyzing opportunities in the corporate-control market; how they structure deals and how deal structure affects both value creation and value division; how they add value after transaction completion; and how they realize their ultimate objectives (such as enhanced market position or a profitable exit). The course is divided into two broad modules. The first module covers mergers and acquisitions, and the second one studies buyouts by private equity partnerships. FNCE 2030 or FNCE 2070 are recommended. Fall or Spring Mutually Exclusive: FNCE 7510 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "FNCE 2030 or FNCE 2070 are recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2530 Distressed Investing and Value Creation",
+    "courseid": "FNCE 2530",
+    "coursedescription": "This course familiarizes students with financial, strategic and legal issues associated with the restructuring of financially distressed firms and investment in distressed securities. The objective is to give students the concepts and tools necessary to assess the often-complex situation facing a firm in financial distress. The course covers the various options available for distressed firms, such as out-of-court workouts, exchange offers, prepackaged and pre-negotiated, bankruptcies, distressed asset sales, 363 auctions, and Chapter 11 reorganization. We consider distressed debt as an asset class, develop techniques for investing in distressed securities and assess investment opportunities using the concepts of value investing. Students will sharpen their conceptual knowledge of finance and valuation in order to properly estimate the value of a distressed firm, and its securities. We will also address the importance of value creation and how to manage for value creation to either resolve distress or avoid it in the first place. FNCE 2030 or FNCE 2070 are recommended. Fall Mutually Exclusive: FNCE 7530 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course familiarizes students with financial, strategic and legal issues associated with the restructuring of financially distressed firms and investment in distressed securities.",
+        "FNCE 2030 or FNCE 2070 are recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2540 ESG and Impact Investing",
+    "courseid": "FNCE 2540",
+    "coursedescription": "This course explores Impact Investing, a discipline that seeks to generate social benefits as well as financial returns. From tiny beginnings, the Impact Investment space has expanded and now commands significant attention from policymakers, wealthy and public-spirited individuals, academia and, not least, the world's largest asset managers and philanthropic foundations. Evangelists believe it may be the key to freeing the world from poverty. Skeptics think it will remain confined to the boutique. Regardless, Impact Investing is becoming a distinct career specialization for finance professionals despite the diverse skillset each must have and the uncertainty of the new field's growth. In addition to prerequisites, FNCE 2050 is recommended but not required. Spring Mutually Exclusive: FNCE 7540 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 2050",
+      "FNCE 7540",
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to prerequisites, FNCE 2050 is recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2560 Energy Finance",
+    "courseid": "FNCE 2560",
+    "coursedescription": "The objective of this course is to provide students with detailed knowledge of corporate structures, valuation methods, project finance, risk management practices, corporate governance issues, and geo-political risks in the energy industry. In general, this course seeks to provide students with an overall context for understanding energy issues and risks, and how these might affect financing and investment decisions for both providers of energy and end-users of energy. FNCE 2030 or FNCE 2070 are recommended but not required. Spring Mutually Exclusive: FNCE 7560 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "FNCE 2030 or FNCE 2070 are recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2570 Foundations of Asset Pricing",
+    "courseid": "FNCE 2570",
+    "coursedescription": "This course will cover methods and topics that form the foundations of modern asset pricing. These include: investment decisions under uncertainty, mean-variance theory, capital market equilibrium, arbitrage pricing theory, state prices, dynamic programming, and risk-neutral valuation as applied to option prices and fixed-income securities. Upon completion of this course, students should acquire a clear understanding of the major principles concerning individuals' portfolio decisions under uncertainty and the valuations of financial securities. In addition to the prerequisites one of the following courses is recommended FNCE 2050 ; BEPP 2500 ; MATH 3600 ; STAT 4330 Spring Mutually Exclusive: FNCE 7570 Prerequisite: FNCE 1000 AND FNCE 1010 AND MATH 1410 AND MATH 3120 AND STAT 4300 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 2050",
+      "BEPP 2500",
+      "MATH 3600",
+      "STAT 4330",
+      "FNCE 7570",
+      "FNCE 1000",
+      "FNCE 1010",
+      "MATH 1410",
+      "MATH 3120",
+      "STAT 4300"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to the prerequisites one of the following courses is recommended FNCE 2050 ; BEPP 2500 ; MATH 3600 ; STAT 4330 Spring Mutually Exclusive: FNCE 7570 Prerequisite: FNCE 1000 AND FNCE 1010 AND MATH 1410 AND MATH 3120 AND STAT 4300 1 Course Unit"
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2800 FinTech",
+    "courseid": "FNCE 2800",
+    "coursedescription": "The course exposes students to this fast-growing and exciting intersection between finance (Fin) and technology (Tech) while emphasizing the role data and analytics play. The course is structured around three main FinTech areas: (i) Lending/Banking services, (ii) Clearing (iii) Trading. It provides specific coverage and examples of developments from(1) market-place lending, (2) blockchain and distributed ledgers, (3) quantitative trading and its use of non-standard inputs. In each of these areas, we start by analyzing the marketplace, the incumbents, and then proceed to analyze the impact of the most relevant technologies have on the business. The course is built around data/code examples, cases, guest lectures, and group projects. Student are thus expected to work in teams and demonstrate a high level of independent learning and initiative. Spring Mutually Exclusive: FNCE 7800 Prerequisite: FNCE 1000",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 2830 Strategic Equity Finance",
+    "courseid": "FNCE 2830",
+    "coursedescription": "This course discusses actual situations where companies need to make strategic decisions on raising equity capital. We will address different phases of a company's life cycle. Through these cases, from the decision-makers perspective, we will explore the different paths that can be taken and consider issues This half-semester course combines lectures and cases, and will go through actual situation where companies need to make strategic decisions on raising equity capital. We will address different phases of a company's life cycle. Through these cases, from the decision-makers perspective, we will explore the different paths that can be taken and consider issues such as investor activism, governance and regulatory and valuation impact. Spring Mutually Exclusive: FNCE 7830 Prerequisite: FNCE 1000",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 2910 Corporate Restructuring",
+    "courseid": "FNCE 2910",
+    "coursedescription": "This course explores the highly active and sophisticated deal making environment that is the hallmark of modern corporate restructuring. The course is primarily comprised of two key components. The first is groundwork-laying lectures that focus on fundamental rights and obligations of debtors, creditors, and other parties in interest in the various types of major chapter 11 cases, providing critical insight into understanding the motivations, strategies, and available tools for chapter 11 participants (which also serve as the foundation for out-of-court deals). The second element of the course is a series of case study panels based on market trends from the previous year that bring together key participants from recent deals, including the CEO or chairman of the company, the judge, the lead banker and lead lawyer, and the lead investors to give their insight and perspectives to the class. Fall Mutually Exclusive: FNCE 7910 , LAW 9080 Prerequisite: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course explores the highly active and sophisticated deal making environment that is the hallmark of modern corporate restructuring.",
+        "The first is groundwork-laying lectures that focus on fundamental rights and obligations of debtors, creditors, and other parties in interest in the various types of major chapter 11 cases, providing critical insight into understanding the motivations, strategies, and available tools for chapter 11 participants (which also serve as the foundation for out-of-court deals)."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 2970 Taxes and Business Strategy",
+    "courseid": "FNCE 2970",
+    "coursedescription": "The objective of this course is to develop a framework for understanding how taxes affect business decisions. The key themes of the framework - all parties, all taxes and all costs - are applied to decision contexts such as investments, compensation, organizational form, and mergers and acquisitions. The ultimate goal is to provide a new approach to thinking about taxes that will be valuable even as laws and governments change. If ACCT 2970 is not offered in a given year, Undergraduate students interested in ACCT 2970 will need to submit a permission request through Path. Please submit your request in Acct 7970. All prerequisites need to be completed in order to receive a permit. Also this class will follow the MBA calendar. Spring Also Offered As: ACCT 2970 Prerequisite: ACCT 1010 AND FNCE 1010 1 Course Unit",
+    "course-prerequsities": [
+      "ACCT 2970",
+      "ACCT 1010",
+      "FNCE 1010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "If ACCT 2970 is not offered in a given year, Undergraduate students interested in ACCT 2970 will need to submit a permission request through Path."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 3900 Advanced Seminar: Introduction to Finance Research",
+    "courseid": "FNCE 3900",
+    "coursedescription": "The objective of this course is to introduce undergraduates to finance research. It will integrate the work of the various finance courses and familiarize the student with the tools and techniques of research. This research course will give undergraduate students a financial framework that they can build on at Wharton and throughout their career. This Undergraduate Research Fellowship will allow us to broaden our support to our students. Fall Prerequisite: FNCE 1000 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 3990 Supervised Study in Finance",
+    "courseid": "FNCE 3990",
+    "coursedescription": "Integrates the work of the various courses and familiarizes the student with the tools and techniques of research. Prerequisite: FNCE 1000 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 4010 Advanced Topics in PE",
+    "courseid": "FNCE 4010",
+    "coursedescription": "This course will cover a variety of applied topics in private equity (PE) with a focus on growth and later-stage buyout transactions. It will have a primarily U.S.-centric view that is largely applicable to other markets. Venture capital is not explicitly addressed in this course. Course topics will address the entirety of the deal process and value creation in the post-acquisition period, and will include the following: - LBO modeling - Commercial due diligence (principles and execution) - Debt financing - Sale & purchase agreements (SPA) - Accounting diligence - Deal structuring - Operations & Value creation Throughout the course, students will learn about each element of the deal process through in-class lectures, while concurrently applying those learnings to former transactions (these must be old enough that sharing material is no longer sensitive). The in-class lectures will cover conceptual frameworks, practical considerations and real-world case studies and examples. There will be four assignments in this course. The first three assignments will apply these learnings to the art of the deal through a real world lens. In the last assignment, students will develop a value creation plan for designated public companies \"TargetCo1\" and \"TargetCo2\". Students are expected to actively engage in classroom discussions, challenging one another and the instructors about how to think through these issues in an ever-evolving investment world. In addition, throughout the course, students are expected to work as a team on the assignments. Fall or Spring Mutually Exclusive: FNCE 8010 Prerequisite: ( FNCE 1000 OR FNCE 1008 ) AND ( FNCE 1010 OR FNCE 1018 ) AND WH 1010 AND WH 2010 AND MGMT 3010 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000",
+      "FNCE 1008",
+      "FNCE 1010",
+      "FNCE 1018",
+      "WH 1010",
+      "WH 2010",
+      "MGMT 3010"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 4020 Shareholder Activism",
+    "courseid": "FNCE 4020",
+    "coursedescription": "The aim of the course is to provide an introduction to shareholder activism. The course makes use of lectures and case studies. The lectures expose the students to the institutional and empirical facts as well as approaches followed by leading shareholder activists. The case studies are designed to provide students an experience on identifying potential opportunity for value creation through active engagement. Assignments require students to develop/practice skills on fundamental analysis. Completion of either FNCE 2030 or FNCE 2070 is recommended. Fall Mutually Exclusive: FNCE 8020 Prerequisite: ( FNCE 1000 OR FNCE 1008 ) AND ( FNCE 1010 OR FNCE 1018 ) AND WH 1010 AND WH 2010 AND MGMT 3010 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 1000",
+      "FNCE 1008",
+      "FNCE 1010",
+      "FNCE 1018",
+      "WH 1010",
+      "WH 2010",
+      "MGMT 3010"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Completion of either FNCE 2030 or FNCE 2070 is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 6110 Corporate Finance",
+    "courseid": "FNCE 6110",
+    "coursedescription": "This course serves as an introduction to business finance (corporate financial management and investments) for both non-majors and majors preparing for upper-level course work. The primary objective is to provide the framework, concepts, and tools for analyzing financial decisions based on fundamental principles of modern financial theory. The approach is rigorous and analytical. Topics covered include discounted cash flow techniques; corporate capital budgeting and valuation; investment decisions under uncertainty; capital asset pricing; options; and market efficiency. The course will also analyze corporate financial policy, including capital structure, cost of capital, dividend policy, and related issues. Additional topics will differ according to individual instructors. Fall or Spring Mutually Exclusive: FNCE 1000 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 6130 Macroeconomics and the Global Economic Environment",
+    "courseid": "FNCE 6130",
+    "coursedescription": "This course is required for all students except those who, having prior training in macroeconomics, money and banking, and stabilization policy at an intermediate or advanced level. The purpose of the course is to train students to think systematically about the current state of the economy and macroeconomic policy, and to be able to evaluate the economic environment within which business and financial decisions are made. The course emphasizes the use of economic theory to understand the workings of financial markets and the operation and impact of government policies. We will study the determinants of the level of national income, employment, investment, interest rates, the supply of money, inflation, exchange rates, and the formulation and operation of stabilization policies. Fall or Spring Mutually Exclusive: FNCE 1010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "We will study the determinants of the level of national income, employment, investment, interest rates, the supply of money, inflation, exchange rates, and the formulation and operation of stabilization policies."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 6210 Corporate Finance (Half CU)",
+    "courseid": "FNCE 6210",
+    "coursedescription": "This half-semester course serves as an introduction to corporate investments for non-majors. The primary objective is to provide a framework, concepts, and tools for analyzing financial decisions based on fundamental principles of modern financial theory. Topics covered include discounted cash flow techniques, corporate capital budgeting and valuation, investment decisions under uncertainty, and capital asset pricing. The approach is rigorous and analytical but the course will not cover several topics included in the full semester Corporate Finance course, including: market efficiency, corporate financial policy (including capital structure, cost of capital, dividend policy, and related issues), and options. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 6230 Macroeconomics and The Global Economic Environment (Half CU)",
+    "courseid": "FNCE 6230",
+    "coursedescription": "This half-semester course in Macroeconomics is intended for non-finance majors. The goal of this course is to provide the foundation needed to recognize and understand broad economic and financial movements in the global economy. Key topics include national income accounting, production and economic growth, employment, business cycles, monetary and fiscal policy, and international finance. By the end of this course, students will be able to evaluate and discuss the global economic environment in which business and financial decisions are made. Fall or Spring",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 7030 Advanced Corporate Finance",
+    "courseid": "FNCE 7030",
+    "coursedescription": "The objective of this course is to study the major decision-making areas of managerial finance and some selected topics in financial theory. The course reviews the theory and empirical evidence related to the investment and financing policies of the firm and attempts to develop decision-making ability in these areas. This course serves as an extension of FNCE 6110 . Some areas of financial management not covered in FNCE 6110 are covered in FNCE 7030 . These may include leasing, mergers and acquisitions, corporate reorganizations, financial planning, and working capital management, and some other selected topics. Other areas that are covered in FNCE 6110 are covered more in depth and more rigorously in FNCE 7030 . These include investment decision making under uncertainty, cost of capital, capital structure, pricing of selected financial instruments and corporate liabilities, and dividend policy. Fall or Spring Mutually Exclusive: FNCE 2030 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 7050 Investment Management",
+    "courseid": "FNCE 7050",
+    "coursedescription": "This course studies the concepts and evidence relevant to the management of investment portfolios. Topics include diversification, asset allocation, portfolio optimization, factor models, the relation between risk and return, trading, passive (e.g., index-fund) and active (e.g., hedge-fund, long-short) strategies, mutual funds, performance evaluation, long-horizon investing and simulation. The course deals very little with individual security valuation and discretionary investing (i.e., \"equity research\" or \"stock picking\"). Fall or Spring Mutually Exclusive: FNCE 2050 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 7070 Valuation",
+    "courseid": "FNCE 7070",
+    "coursedescription": "The focus of this course is on the valuation of companies. The course covers current conceptual and theoretical valuation frameworks and translates those frameworks into practical approaches for valuing companies. The relevant accounting topics and the appropriate finance theory are integrated to show how to implement the valuation frameworks discussed on a step-by-step basis. The course teaches how to develop the required information for valuing companies from financial statements and other information sources in a real-world setting. Topics covered in depth include discounted cash flow techniques and price multiples. In addition, the course covers other valuation techniques such as leveraged buyout analysis. Fall or Spring Mutually Exclusive: FNCE 2070 Prerequisite: FNCE 6110 AND ( ACCT 6110 OR ACCT 6130 ) AND ( STAT 6130 OR STAT 6210 ) 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110",
+      "ACCT 6110",
+      "ACCT 6130",
+      "STAT 6130",
+      "STAT 6210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 7170 Financial Derivatives",
+    "courseid": "FNCE 7170",
+    "coursedescription": "This course covers one of the most exciting and fundamental areas in finance. Financial derivatives serve as building blocks to understand broad classes of financial problems, such as complex asset portfolios, strategic corporate decisions, and stages in venture capital investing. The main objective of this course is build intuition and skills on (1) pricing and hedging of derivative securities, and (2) using them for investment and risk management. In terms of methodologies, we apply the non-arbitrage principle and the law of one price to dynamic models through three different approaches: the binomial tree model, the Black-Scholes-Merton option pricing model, and the simulation-based risk neutral pricing approach. The course covers a wide range of applications, including the use of derivatives in asset management, the valuation of corporate securities such as stocks and corporate bonds with embedded options, interest rate and credit derivatives, as well as crude oil derivatives. We emphasize practical considerations of implementing strategies using derivatives as tools, especially when no-arbitrage conditions do not hold. Fall or Spring Mutually Exclusive: FNCE 2170 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The course covers a wide range of applications, including the use of derivatives in asset management, the valuation of corporate securities such as stocks and corporate bonds with embedded options, interest rate and credit derivatives, as well as crude oil derivatives."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7190 International Financial Markets and Cryptocurrencies",
+    "courseid": "FNCE 7190",
+    "coursedescription": "Major topics include foreign exchange rates, international money markets, currency and interest rate derivatives, international stock and bond portfolios, and cryptocurrencies. Students learn about the features of financial instruments and the motivations of market participants. The class focuses on risk management, investing, and arbitrage in these markets. In addition to course prerequisites, FNCE 6130 is recommended but not required. Fall or Spring Mutually Exclusive: FNCE 2190 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6130",
+      "FNCE 2190",
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Major topics include foreign exchange rates, international money markets, currency and interest rate derivatives, international stock and bond portfolios, and cryptocurrencies.",
+        "In addition to course prerequisites, FNCE 6130 is recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7210 Real Estate Investment: Analysis and Financing",
+    "courseid": "FNCE 7210",
+    "coursedescription": "This course provides an introduction to real estate investing with a focus on financial and economic analysis. It is intended both as a foundational class for students considering a career in real estate as well as a survey class for students interested in finance who want to learn about the real estate sector. Project evaluation, financing strategies, risk assessment, investment decision making, and real estate capital markets are covered. No prior knowledge of the industry is required, but students will rapidly acquire a working knowledge of real estate markets and will quickly develop the quantitative tools to help them make investment decisions. Classes are conducted in a standard lecture format with discussion required. The course contains cases that help students evaluate the impact of more complex financing and capital markets tools used in real estate. There are three case studies and two midterms. FNCE 6110 is required as the class assumes comfort with Corporate Finance concepts and terms. Fall or Spring Also Offered As: REAL 7210 Prerequisite: FNCE 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "It is intended both as a foundational class for students considering a career in real estate as well as a survey class for students interested in finance who want to learn about the real estate sector."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7250 Fixed Income Securities",
+    "courseid": "FNCE 7250",
+    "coursedescription": "This course covers fixed income securities (including fixed income derivatives) and provides an introduction to the markets in which they are traded, as well as to the tools that are used to value these securities and to assess and manage their risk. Quantitative models play a key role in the valuation and risk management of these securities. In addition to course prerequisites, FNCE 6130 is recommended but not required. Fall Mutually Exclusive: FNCE 2250 Prerequisite: FNCE 6110 AND ( STAT 6130 OR STAT 6210 ) 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6130",
+      "FNCE 2250",
+      "FNCE 6110",
+      "STAT 6130",
+      "STAT 6210"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to course prerequisites, FNCE 6130 is recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7300 Urban Fiscal Policy",
+    "courseid": "FNCE 7300",
+    "coursedescription": "This course will examine the provision of public services for firms and people through cities and other local governments. Why cities exist, when fiscal policy fails, investments in infrastructure, how to improve school quality, realities of local governments such as inequality, crime, corruption, high cost of living, congestion, and unfunded pensions will be covered. We will pay special attention to recent topics, such as the impact of the Covid-19 pandemic on city and public school finances, racial differences in police use of force, partnerships with the private sector, enterprise zones, the role of technology, and real estate policies that may (or may not!) promote housing affordability, such as inclusionary zoning and rent control. Fall Also Offered As: BEPP 7730 , REAL 7300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 7310 Global Valuation and Risk Analysis",
+    "courseid": "FNCE 7310",
+    "coursedescription": "This course analyzes the financial management problems that result from operating in global environments. Key topics include managing currency risk through hedging and financing, calculating the cost of capital for foreign operations, assessing sovereign risks, capital budgeting from a project and parent perspective, and international taxation. Spring Mutually Exclusive: FNCE 2310 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 7320 International Banking",
+    "courseid": "FNCE 7320",
+    "coursedescription": "This course focuses on international financial institutions, especially the activities of global, systemically important banks. We will examine how current and historical events are reshaping the industry and highlight the basic analytics of managing a bank's exposure to liquidity, credit, market and reputational risk. Most classes will begin with discussion of a current event related to course topics. Three team projects will be assigned that will give you deeper exposure to analytic techniques related to the course. Throughout the semester, we will discuss public policy issues facing the international financial system. In addition to course prerequisites, FNCE 6130 is recommended. Spring Mutually Exclusive: FNCE 2320 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6130",
+      "FNCE 2320",
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to course prerequisites, FNCE 6130 is recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7370 Data Science for Finance",
+    "courseid": "FNCE 7370",
+    "coursedescription": "This course will introduce students to data science for financial applications using the Python programming language and its ecosystem of packages (e.g., Dask, Matplotlib, Numpy, Numba, Pandas, SciPy, Scikit-Learn, StatsModels). To do so, students will investigate a variety of empirical questions from different areas within finance by way of data labs, or case studies that rely on data and analytics. Some of the areas that may be covered in the course, subject to time constraints, include: FinTech, investment management, corporate finance, corporate governance, venture capital, private equity. The course will highlight how big data and data analytics shape the way finance is practiced. Some programming and experience is helpful though knowledge of Python is not assumed. Spring Mutually Exclusive: FNCE 2370 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 7380 Capital Markets",
+    "courseid": "FNCE 7380",
+    "coursedescription": "The objective of this course is to give you a broad understanding of the instruments traded in modern financial markets, the mechanisms that facilitate their trading and issuance, as well as, the motivations of issuers and investors across different asset classes. The course will balance functional and institutional perspectives by highlighting the problems capital markets participants are seeking to solve, as well as, the existing assets and markets which have arisen to accomplish these goals. We will consider design, issuance, and pricing of financial instruments, the arbitrage strategies which keep their prices in-line with one another, and the associated economic and financial stability issues. The course is taught in lecture format, and illustrates key concepts by drawing on a collection of case studies and visits from industry experts. FNCE 6130 is recommended but not required. Fall or Spring Mutually Exclusive: FNCE 2380 Prerequisite: FNCE 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "FNCE 6130 is recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7390 Behavioral Finance",
+    "courseid": "FNCE 7390",
+    "coursedescription": "There is an abundance of evidence suggesting that the standard economic paradigm - rational agents in an efficient market - does not adequately describe behavior in financial markets. In this course, we will survey the evidence and use psychology to guide alternative theories of financial markets. Along the way, we will address the standard argument that smart, profit-seeing agents can correct any distortions caused by irrational investors. Further, we will examine more closely the preferences and trading decisions of individual investors. We will argue that their systematic biases can aggregate into observed market inefficiencies, thus giving rise to apparently profitable trading strategies. The latter part of the course extends the analysis to corporate decision making. We then explore the evidence for both views in the context of capital structure, investment, dividend, and merger decisions. In addition to prerequisites, FNCE 7050 is highly recommended but not required. Spring Mutually Exclusive: FNCE 2390 , FNCE 4030 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 7050",
+      "FNCE 2390",
+      "FNCE 4030",
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to prerequisites, FNCE 7050 is highly recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7400 Central Banks, Macroeconomic Policy and Financial Markets",
+    "courseid": "FNCE 7400",
+    "coursedescription": "Understanding and predicting central banking decision making and behavior is crucial for all market participants from asset managers and traders to private consumers. This course aims to provide the methods and knowledge on how central banks and governments think and implement policies to reach the goals of price and financial stability as well as support of growth and employment. The core of the course connects between the legal and actual goals that central banks follow and the related economic analysis on which these goals and policies are set. We explain the economic rationale for the policy prescriptions to reach the goals and how these policies are actually implemented by the Federal Reserve Bank (Fed) in the US, the European Central Bank (ECB), Bank of Israel (BOI) and some remarks on other countries. We use data, current events since 2007 as the basis for discussion and assignments. The second half of the class discusses the implications of these policies for equity and bond valuations. Students will be asked to forecast live policy decisions and implied market valuations. Fall Mutually Exclusive: FNCE 2400 Prerequisite: FNCE 6130 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 7401 Central Banks, Macroeconomic Policy and Financial Markets",
+    "courseid": "FNCE 7401",
+    "coursedescription": "Understanding and predicting central banking decision making and behavior is crucial for all market participants from asset managers and traders to private consumers. This course aims to provide the methods and knowledge on how central banks and governments think and implement policies to reach the goals of price and financial stability as well as support of growth and employment. The core of the course connects between the legal and actual goals that central banks follow and the related economic analysis on which these goals and policies are set. We explain the economic rationale for the policy prescriptions to reach the goals and how these policies are actually implemented by the Federal Reserve Bank (Fed) in the US, the European Central Bank (ECB), Bank of Israel (BOI) and some remarks on other countries. We use data, current events since 2007 as the basis for discussion and assignments. The second half of the class discusses the implications of these policies for equity and bond valuations. Students will be asked to forecast live policy decisions and implied market valuations. This course is for Wharton Executive MBA students only. Spring Mutually Exclusive: FNCE 2400 Prerequisite: FNCE 6130 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6130"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 7450 Hedge Funds",
+    "courseid": "FNCE 7450",
+    "coursedescription": "This course will cover critical aspects and characteristics of hedge funds and the hedge fund industry. It will look at the legal foundations and structures of hedge funds including the primary regulations in the U.S. and abroad that are most relevant for hedge funds. It will also present the major hedge fund strategies, describe operation, control, administration, due diligence and valuation issues. Performance evaluation and investing in hedge funds from the investor's perspective will be discussed as will be issues of potential changes in regulation, risk management, and the use of leverage. The format of the course will mix lectures with presentations from industry participants, hedge fund managers, those who invest in hedge funds, those who advise them and provide services to them, and those who regulate them. Those who want to launch a hedge fund, join an existing one, invest in one, or provide services to one will want to register for this course. Spring Mutually Exclusive: FNCE 2450 Prerequisite: FNCE 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 7500 Venture Capital and the Finance of Innovation",
+    "courseid": "FNCE 7500",
+    "coursedescription": "This course covers the finance of technological innovation, with a focus on the valuation tools useful in the venture capital industry. These tools include the \"venture capital method,\" comparables analysis, discounted cash flow analysis, contingent-claims analysis. The primary audience for this course is finance majors interested in careers in venture capital or in R&D-intensive companies in health care or information technology. Spring Mutually Exclusive: FNCE 2500 Prerequisite: FNCE 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "The primary audience for this course is finance majors interested in careers in venture capital or in R&D-intensive companies in health care or information technology."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7510 The Finance of Buyouts and Acquisitions",
+    "courseid": "FNCE 7510",
+    "coursedescription": "The course focuses on financial tools, techniques, and best practices used in buyouts (financial buyers) and acquisitions (strategic buyers). While it will touch upon various strategic, organizational, and general management issues, the main lens for studying these transactions will be a financial one. It will explore how different buyers approach the process of finding, evaluating, and analyzing opportunities in the corporate-control market; how they structure deals and how deal structure affects both value creation and value division; how they add value after transaction completion; and how they realize their ultimate objectives (such as enhanced market position or a profitable exit). The course is divided into two broad modules. The first module covers mergers and acquisitions, and the second one studies buyouts by private equity partnerships. FNCE 7030 or FNCE 7070 are recommended. Fall Mutually Exclusive: FNCE 2510 Prerequisite: FNCE 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "FNCE 7030 or FNCE 7070 are recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7530 Distressed Investing and Value Creation",
+    "courseid": "FNCE 7530",
+    "coursedescription": "This course familiarizes students with financial, strategic and legal issues associated with the restructuring of financially distressed firms and investment in distressed securities. The objective is to give students the concepts and tools necessary to assess the often-complex situation facing a firm in financial distress. The course covers the various options available for distressed firms, such as out-of-court workouts, exchange offers, prepackaged and pre-negotiated, bankruptcies, distressed asset sales, 363 auctions, and Chapter 11 reorganization. We consider distressed debt as an asset class, develop techniques for investing in distressed securities and assess investment opportunities using the concepts of value investing. Students will sharpen their conceptual knowledge of finance and valuation in order to properly estimate the value of a distressed firm, and its securities. We will also address the importance of value creation and how to manage for value creation to either resolve distress or avoid it in the first place. FNCE 7030 or FNCE 7070 are recommended. Fall or Spring Mutually Exclusive: FNCE 2530 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course familiarizes students with financial, strategic and legal issues associated with the restructuring of financially distressed firms and investment in distressed securities.",
+        "FNCE 7030 or FNCE 7070 are recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7540 ESG and Impact Investing",
+    "courseid": "FNCE 7540",
+    "coursedescription": "This course explores Impact Investing, a discipline that seeks to generate social benefits as well as financial returns. From tiny beginnings, the Impact Investment space has expanded and now commands significant attention from policymakers, wealthy and public-spirited individuals, academia and, not least, the world's largest asset managers and philanthropic foundations. Evangelists believe it may be the key to freeing the world from poverty. Skeptics think it will remain confined to the boutique. Regardless, Impact Investing is becoming a distinct career specialization for finance professionals despite the diverse skillset each must have and the uncertainty of the new field's growth. In addition to prerequisites, FNCE 7050 is recommended but not required. Spring Mutually Exclusive: FNCE 2540 Prerequisite: FNCE 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 7050",
+      "FNCE 2540",
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "In addition to prerequisites, FNCE 7050 is recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7560 Energy Finance",
+    "courseid": "FNCE 7560",
+    "coursedescription": "The objective of this course is to provide students with detailed knowledge of corporate structures, valuation methods, project finance, risk management practices, corporate governance issues, and geo-political risks in the energy industry. In general, this course seeks to provide students with an overall context for understanding energy issues and risks, and how these might affect financing and investment decisions for both providers of energy and end-users of energy. FNCE 7030 and FNCE 7070 are recommended but not required. Spring Mutually Exclusive: FNCE 2560 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "FNCE 7030 and FNCE 7070 are recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7570 Foundations of Asset Pricing",
+    "courseid": "FNCE 7570",
+    "coursedescription": "This course will cover methods and topics that form the foundations of modern asset pricing. These include: investment decisions under uncertainty, mean-variance theory, capital market equilibrium, arbitrage pricing theory, state prices, dynamic programming, and risk-neutral valuation as applied to option prices and fixed-income securities. Upon completion of this course, students should acquire a clear understanding of the major principles concerning individuals' portfolio decisions under uncertainty and the valuations of financial securities. FNCE 7050 is recommended but not required. Spring Mutually Exclusive: FNCE 2570 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "FNCE 7050 is recommended but not required."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7800 FinTech",
+    "courseid": "FNCE 7800",
+    "coursedescription": "The course exposes students to this fast-growing and exciting intersection between finance (Fin) and technology (Tech) while emphasizing the role data and analytics play. The course is structured around three main FinTech areas: (i) Lending/Banking services, (ii) Clearing (iii) Trading. It provides specific coverage and examples of developments from(1) market-place lending, (2) blockchain and distributed ledgers, (3) quantitative trading and its use of non-standard inputs. In each of these areas, we start by analyzing the marketplace, the incumbents, and then proceed to analyze the impact of the most relevant technologies have on the business. The course is built around data/code examples, cases, guest lectures, and group projects. Student are thus expected to work in teams and demonstrate a high level of independent learning and initiative. Spring Mutually Exclusive: FNCE 2800 Prerequisite: FNCE 6110",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 7830 Strategic Equity Finance",
+    "courseid": "FNCE 7830",
+    "coursedescription": "This course discusses actual situations where companies need to make strategic decisions on raising equity capital. We will address different phases of a company's life cycle. Through these cases, from the decision-makers perspective, we will explore the different paths that can be taken and consider issues. This half-semester course combines lectures and cases, and will go through actual situation where companies need to make strategic decisions on raising equity capital. We will address different phases of a company's life cycle. Through these cases, from the decision-makers perspective, we will explore the different paths that can be taken and consider issues such as investor activism, governance and regulatory and valuation impact. Spring Mutually Exclusive: FNCE 2830 Prerequisite: FNCE 6110",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 7850 Business Strategy & Corp",
+    "courseid": "FNCE 7850",
+    "coursedescription": "This course explores strategic, business and legal decision making in a fluid real world corporate context. Classes will cover a series of timely financial and legal subjects as well as case studies that deal with topical problems in corporate governance, investment strategy, finance, private equity, executive compensation, and potential corporate and criminal behavior. Press, public market reaction, and governmental/political considerations will be integrated into the discussion. All students will be required to participate in one major and two minor team projects. An equal number of graduate law and business students will be enrolled in this class. Also Offered As: LGST 7850 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 7910 Corporate Restructuring",
+    "courseid": "FNCE 7910",
+    "coursedescription": "This course explores the highly active and sophisticated deal making environment that is the hallmark of modern corporate restructuring. The course is primarily comprised of two key components. The first is groundwork-laying lectures that focus on fundamental rights and obligations of debtors, creditors, and other parties in interest in the various types of major chapter 11 cases, providing critical insight into understanding the motivations, strategies, and available tools for chapter 11 participants (which also serve as the foundation for out-of-court deals). The second element of the course is a series of case study panels based on market trends from the previous year that bring together key participants from recent deals, including the CEO or chairman of the company, the judge, the lead banker and lead lawyer, and the lead investors to give their insight and perspectives to the class. Fall Mutually Exclusive: FNCE 2910 , LAW 9080 Prerequisite: FNCE 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course explores the highly active and sophisticated deal making environment that is the hallmark of modern corporate restructuring.",
+        "The first is groundwork-laying lectures that focus on fundamental rights and obligations of debtors, creditors, and other parties in interest in the various types of major chapter 11 cases, providing critical insight into understanding the motivations, strategies, and available tools for chapter 11 participants (which also serve as the foundation for out-of-court deals)."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 7970 Taxes and Business Strategy",
+    "courseid": "FNCE 7970",
+    "coursedescription": "The objective of this course is to develop a framework for understanding how taxes affect business decisions. Traditional finance and strategy courses do not consider the role of taxes. Similarly, traditional tax courses often ignore the richness of the decision context in which tax factors operate. The key themes of the framework - all parties, all taxes and all costs - are applied to decision contexts such as investments, compensation, organizational form, regulated industries, financial instruments, tax-sheltered investments, mergers and acquisitions, multinational, and multistate. The ultimate goal is to provide a new approach to thinking about taxes (and all forms of government intervention) that will be valuable even as laws and governments change. Spring Also Offered As: ACCT 7970 Prerequisite: ( ACCT 6110 OR ACCT 6130 ) AND FNCE 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "ACCT 6110",
+      "ACCT 6130",
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 8010 Advanced Topics in Private Equity",
+    "courseid": "FNCE 8010",
+    "coursedescription": "The goal of this course is to put students in the seat of a private equity professional working on an investment from start to finish. Students will learn about the substance, process and mechanics of private equity investing, through the lens of the investment professional. The class will conduct a semester long case study, taking a specific transaction from the management presentation stage, to various modules in the deal process including: business diligence, industry diligence, accounting diligence, legal diligence, financial modeling, financing, valuation, negotiating the stock purchase agreement, and culminating in an investment committee presentation and recommendation. Working in teams, students will be required to build an integrated financial model to value the business, negotiate the key terms of the transaction agreements, and put together an investment committee presentation, defending their investment thesis and valuation. The class will also include several noteworthy guest speakers from the private equity industry and several smaller case studies to reinforce key topics. Fall or Spring Mutually Exclusive: FNCE 4010 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 8020 Shareholder Activism",
+    "courseid": "FNCE 8020",
+    "coursedescription": "The aim of the course is to provide an introduction to shareholder activism. The course makes use of lectures and case studies. The lectures expose the students to the institutional and empirical facts as well as approaches followed by leading shareholder activists. The case studies are designed to provide students an experience on identifying potential opportunity for value creation through active engagement. Assignments require students to develop/practice skills on fundamental analysis. Fall Mutually Exclusive: FNCE 4020 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 8120 The Finance, Economics and Law of Fiscal Crises",
+    "courseid": "FNCE 8120",
+    "coursedescription": "The focus will be on the causes of fiscal crises, a careful detailing of who wins and who loses, and then on how such crises might be resolved and, perhaps most importantly, how they might be prevented in the future. The course will draw upon the fiscal experiences of US local governments (New York, Philadelphia, Detroit, Orange County, Puerto Rico), utilities (WPPSS) and states (Illinois), and the international experience from such countries as Greece, Brazil, and Argentina. The cost of such crises for citizens, pensioners, and bond holders can be significant. We seek to understand the underlying economic, political, and legal/regulatory causes of such events so that they may be prevented in the future. The importance of private information and public regulation for disciplining the fiscal performance of democratically elected governments will be a central concern. We believe strongly that diagnosing and treating the \"disease\" of fiscal mismanagement is an interdisciplinary endeavor drawing on finance, economics, political science, and the law. Students with backgrounds in any of these disciplines are welcome. Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 8160 Economic and Regulatory Policy for Global Markets",
+    "courseid": "FNCE 8160",
+    "coursedescription": "This course explores these and related questions, starting with an overview of (1) the domestic economic policy framework, including the mandates and authorities of the Board of Governors of the Federal Reserve System, The Department of the Treasury, the Securities and Exchange Commission (SEC), the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency and the Commodities Futures Trading Commission (as well as other agencies and departments) and (2) the various components of the international framework for economic cooperation, including the G7 and G20, the Bank for International Settlements, the Financial Stability Board and the International Monetary Fund (as well asf IOSCO, the OECD, the World Bank, the WTO and others). The exploration then moves to analyzing the actions of these various bodies in response to economic trends and shocks over the past twenty years, including the global financial crisis of 2008, the emergence of China as the world’s second largest economy, the digitization of broad sectors of the U.S. and global economy, the recognition of climate-change as an economic risk and a driver of economic transition, the increasingly cross-border nature of labor and goods markets, and the COVID-19 pandemic. The exploration concludes with an analysis of current global economic conditions, domestic regulatory responses and efforts at global cooperation. Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 8920 Financial Engineering",
+    "courseid": "FNCE 8920",
+    "coursedescription": "This class covers advanced pricing models for equity, fixed income and credit derivatives. It aims at: 1) Introducing the main models used in practical applications to price and hedge derivatives; 2) Understanding their comparative advantages and limitations, as well as how they are calibrated and applied. As part of team assignments, students will be asked to calibrate and implement the models introduced in the class using software of their choice. Mutually Exclusive: FNCE 3920 Prerequisite: FNCE 6110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 8950 Global Business Week (GBW)",
+    "courseid": "FNCE 8950",
+    "coursedescription": "The Global Business Week (GBW) is set of classes offered annually to WEMBA second years. They are often repeated, but try to accommodate student interest along with faculty expertise and willingness, so can change with some regularity. Prerequisite: FNCE 6110",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "They are often repeated, but try to accommodate student interest along with faculty expertise and willingness, so can change with some regularity."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 8960 Global Modular Course",
+    "courseid": "FNCE 8960",
+    "coursedescription": "Open to MBA, Executive MBA and Undergraduate students, these modular courses are intended to provide unique educational experiences to students in a regional context that has particular resonance with the topic. Taught around the globe, the modular courses help us enrich the curriculum and research on our own campuses in Philadelphia and San Francisco. Not Offered Every Year Mutually Exclusive: WH 2150 Prerequisite: FNCE 6110",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 8970 Finance in Emerging Markets (GMC)",
+    "courseid": "FNCE 8970",
+    "coursedescription": "This is a Wharton Global Modular Course on Finance in the Middle East and North Africa. Its objective is to bring students, academics and industry experts together to study financial markets, practice, and institutions in this region. Not Offered Every Year Mutually Exclusive: WH 2140 Prerequisite: FNCE 6110",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 8990 Independent Study Project in Finance",
+    "courseid": "FNCE 8990",
+    "coursedescription": "Independent Study Projects require extensive independent work and a considerable amount of writing. ISP in Finance are intended to give students the opportunity to study a particular topic in Finance in greater depth than is covered in the curriculum. The application for ISP's should outline a plan of study that requires at least as much work as a typical course in the Finance Department that meets twice a week. Applications for FNCE 8990 ISP's will not be accepted after the THIRD WEEK OF THE SEMESTER. ISP's must be supervised by a Standing Faculty member of the Finance Department. Prerequisite: FNCE 6110 0.5-1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 6110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9110 Financial Economics",
+    "courseid": "FNCE 9110",
+    "coursedescription": "The objective of this course is to undertake a rigorous study of the theoretical foundations of modern financial economics. The course will cover the central themes of modern finance including individual investment decisions under uncertainty, stochastic dominance, mean variance theory, capital market equilibrium and asset valuation, arbitrage pricing theory, option pricing, and incomplete markets, and the potential application of these themes. Upon completion of this course, students should acquire a clear understanding of the major theoretical results concerning individuals' consumption and portfolio decisions under uncertainty and their implications for the valuation of securities. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9120 Corporate Finance and Financial Institutions",
+    "courseid": "FNCE 9120",
+    "coursedescription": "This course provides students with an overview of the basic contributions in the modern theory of corporate finance and financial institutions. The course is methodology oriented in that students are required to master necessary technical tools for each topic. The topics covered may include capital structure, distribution policy, financial intermediation, incomplete financial contracting, initial and seasoned public offerings, market for corporate control, product market corporate finance interactions, corporate reorganization and bankruptcy, financing in imperfect markets, security design under adverse selection and moral hazard, and some selected topics. Spring Prerequisite: ECON 6100 OR ECON 7100 1 Course Unit",
+    "course-prerequsities": [
+      "ECON 6100",
+      "ECON 7100"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9210 Introduction to Empirical Methods in Finance",
+    "courseid": "FNCE 9210",
+    "coursedescription": "This course is an introduction to empirical methods commonly employed in finance. It provides the background for FNCE 934, Empirical Research in Finance. The course is organized around empirical papers with an emphasis on econometric methods. A heavy reliance will be placed on analysis of financial data. Spring Prerequisite: FNCE 9110 AND STAT 5100 AND STAT 5110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 9110",
+      "STAT 5100",
+      "STAT 5110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9220 Continuous-Time Financial Economics",
+    "courseid": "FNCE 9220",
+    "coursedescription": "This course covers some advanced material on the theory of financial markets developed over the last two decades. The emphasis is on dynamic asset pricing and consumption choices in a continuous time setting. The articles discussed include many classical papers in the field as well as some of the most recent developments. The lectures will emphasize the concepts and technical tools needed to understand the articles. Fall Prerequisite: FNCE 9110 AND ECON 7100 AND ECON 7110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 9110",
+      "ECON 7100",
+      "ECON 7110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9230 Financial Economics Under Imperfect Information",
+    "courseid": "FNCE 9230",
+    "coursedescription": "This course covers general equilibrium and rational expectations, foundations of the theory of information; learning from prices in rational expectations equilibrium models, moral hazard, adverse selection, and signaling bidding theories. Not Offered Every Year Prerequisite: FNCE 9210 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 9210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9240 Intertemporal Macroeconomics and Finance",
+    "courseid": "FNCE 9240",
+    "coursedescription": "This is a doctoral level course on macroeconomics, with special emphasis on intertemporal choice under uncertainty and topics related to finance. Topics include: optimal consumption and saving, the stochastic growth model, q-theory of investment, (incomplete) risk sharing and asset pricing. The course will cover and apply techniques, including dynamic programming, to solve dynamic optimization problems under uncertainty. Numerical solution methods are also discussed. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9250 Topics in Asset Pricing",
+    "courseid": "FNCE 9250",
+    "coursedescription": "This course exposes student to recent development in the asset pricing literature. The starting point for the course is the standard neo-classical rational expectations framework. We will then investigate where this frameworkhas succeeded and where it has not. Recently documented deviations from the framework in the literature are discussed and placed in context. The course will also focus on hypothesis development, recent research methods, and research writing. The ultimate objective is for students to develop their own hyoptheses and research ideas, resulting in a paper. Not Offered Every Year Prerequisite: FNCE 9110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 9110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9260 Empirical Methods in Corporate Finance",
+    "courseid": "FNCE 9260",
+    "coursedescription": "The course will cover a variety of micro-econometric models and methods including panel data models, program evaluation methods e.g. difference in differences, matching techniques, regression discontinuity design, instrumental variables, duration models, structural estimation, simulated methods of moments. The structure of the course consists of lectures, student presentations, and empirical exercises. Published studies will be utilized in a variety of fields such as corporate finance, labor economics, and industrial organization to illustrate the various techniques. The goal of the course is to provide students with a working knowledge of various econometric techniques that they can apply in their own research. As such, the emphasis of the course is on applications, not theory. Students are required to have taken a graduate sequence in Econometrics, you should be comfortable with econometrics at the level of William Green's \"Econometric Analysis of Cross-Section and Panel Data\". Fall Prerequisite: STAT 5210 1 Course Unit",
+    "course-prerequsities": [
+      "STAT 5210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9320 Topics in Corporate Finance",
+    "courseid": "FNCE 9320",
+    "coursedescription": "This course covers advanced theory and empirical investigations; financial decisions of the firm, dividends, capital structure, mergers, and takeovers. Not Offered Every Year Prerequisite: FNCE 9210 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 9210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9330 International Finance",
+    "courseid": "FNCE 9330",
+    "coursedescription": "To provide an understanding of selected topics of current academic research in the areas of international finance and its intersection with international macroeconomics; to teach interested students the tools for conducting research in this field. Each topic will be developed beginning with early classic papers and then updated through the current status of the profession. The typical target audience comprises students in their second year or later. Prerequisite: Completion of first year course requirements Fall Prerequisite: FNCE 9110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 9110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "To provide an understanding of selected topics of current academic research in the areas of international finance and its intersection with international macroeconomics; to teach interested students the tools for conducting research in this field."
+      ]
+    }
+  },
+  {
+    "coursename": "FNCE 9340 Empirical Methods In Asset Pricing",
+    "courseid": "FNCE 9340",
+    "coursedescription": "This course has three main objectives: The first object is to introduce students to the fundamental works and the frontier of research in dynamic asset pricing. We will cover recent models that have been proposed to shed light on intreguing and important empirical patterns in the cross section and in the time series. Topics include non-separable utilities, market incompleteness, learning, uncertainty, differences of opionions, ex-ante and ex-post asymmetric information, ambiguity and Knightian uncertainty. The second objective is to teach students how to think of asset pricing research under a bigger or richer framework. We shall focus on the interactions between asset pricing and other fields such as macroeconomics, corporate finance, financial institutions, and international finance. The goal of inventigating the joint dynamics is not only to better understand how asset prices are determined, but also (maybe more importantly) how would asset pricing dynamics affect other important economic vaiables such as investment, corporate payout and financing, unemployment, risk sharing, and international capital flows. Students will learn production-based asset pricing models, particularly the asset pricing models with investment-specific technology shocks, risk shocks, financial friction, searching frictions and information frictions. Of course, the advanced solution methods will focus too. The third objective is to introduce advanced empirical methods to analyze the data and the quantitative dynamic models. It includes how to estimate structural dynamic models, how evaluate structural models beyond goodness-of-fit tests, how confront the models predictions with empirical data by simulation and re-sampling techniques, and how to efficiently test models and explore new patterns using asset pricing and macro data. Fall Prerequisite: FNCE 9110 AND FNCE 9210 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 9110",
+      "FNCE 9210"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9360 Household Finance",
+    "courseid": "FNCE 9360",
+    "coursedescription": "The primary goal of this 0.5cu course is to introduce students to the main areas of research in household finance. The emphasis will be on discussing papers on the research frontier on topics such as consumption, portfolio choices, housing, inequality and entrepreneurship. This course complements REAL 9480 , Advanced Topics in Urban Economics: Household Real Estate Decisions-Making. Students are encouraged to take REAL 9480 in the first half of the spring semester and FNCE 9360 in the second half of that semester. Spring, odd numbered years only Prerequisite: FNCE 9110",
+    "course-prerequsities": [
+      "FNCE 9110"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "FNCE 9370 Topics in Macro Finance",
+    "courseid": "FNCE 9370",
+    "coursedescription": "This is an advanced course in quantitative theory applied to macro and finance models. It is intended for doctoral students in finance, economics and related fields. The course focuses on four broad theoretical literatures: (i) firm investment and growth; (ii) corporate, household and sovereign debt; (iii) asset pricing in general equilibrium; and (iv) equilibrium macro models with a financial sector. My approach is to develop and discuss in detail a unified framework that is suited to address most topics, usually covering a few central topics and the core papers. We then discuss the more recent literature, highlighting how authors combine and expand upon the core ideas. This part of the course usually relies on regular student presentations. Fall Prerequisite: FNCE 9110 1 Course Unit",
+    "course-prerequsities": [
+      "FNCE 9110"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "FNCE 9500 Research Seminar in Finance",
+    "courseid": "FNCE 9500",
+    "coursedescription": "This course may be offered (and taken by a student) several times a year with varying topics. Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

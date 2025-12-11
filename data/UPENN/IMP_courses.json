@@ -1,0 +1,92 @@
+[
+  {
+    "coursename": "IMP 6000 Foundations in Implementation Science",
+    "courseid": "IMP 6000",
+    "coursedescription": "The purpose of this course is to introduce participants to the foundations of implementation science (i.e., terminology, conceptual models and frameworks, study design). Participants will develop an in-depth understanding of the historical and theoretical underpinnings of implementation science, preparing them to describe the positionality of their research within the broader field. Relevant theories and frameworks will be addressed in the context of multiple disciplines, such as healthcare, social work, education, and criminal justice. Significant group work will prepare participants to evaluate the appropriate usage of frameworks, theories, and models in the design and execution of IS research. This course is available to anyone outside of the Implementation program with permission from the program coordinator. This course may also be of interest to students with a major in Health Policy Research, Medicine, Nursing, Social Work, or Education. **There are two alternate completion pathways for IMP 6000 ; participants may take the summer 4-day virtual Implementation Science Institute ( HPR 6110 ) for 0.5 CU and complete an additional 0.5 CU elective, OR participants may enroll in HPR 6200 : Implementation Science in Health and Healthcare. Fall 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "This course is available to anyone outside of the Implementation program with permission from the program coordinator.",
+        "This course may also be of interest to students with a major in Health Policy Research, Medicine, Nursing, Social Work, or Education."
+      ]
+    }
+  },
+  {
+    "coursename": "IMP 6050 Implementation Science Institute",
+    "courseid": "IMP 6050",
+    "coursedescription": "The Penn Implementation Science Institute is a virtual 4-day intensive course that introduces learners to the fundamentals of implementation science, including theories, models, frameworks, strategies, and outcomes. Course content is delivered synchronously through didactic presentations and small group work, with course faculty available for consultation during office hours before and after each day. Summer Term",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "IMP 6100 Ethics and Equity in Implementation Science",
+    "courseid": "IMP 6100",
+    "coursedescription": "This course will leverage students' existing knowledge of implementation science and healthcare systems to explore ethical and equity considerations in research. Throughout the course, students will analyze how core concepts related to health equity apply to implementation research, and role of social, historical, and political contextual factors in shaping implementation processes. Students will gain familiarity with equity-entered implementation frameworks, models, and outcomes, as well as the design of implementation strategies. Students will also learn about different participatory approaches for implementation research in community and healthcare system settings. Beyond methods, course content will explore ethical issues relevant to implementation research, particularly in relation to pragmatic trials, informed consent, learning health systems, and nudges. Students will have opportunities to apply their knowledge to real-world case studies and their own scholarship. Prerequisite: IMP 6000 , HPR 6110 (Penn Implementation Science Institute) or HPR 6200 Fall Prerequisite: HPR 6110 OR IMP 6000 OR HPR 6200 1 Course Unit",
+    "course-prerequsities": [
+      "IMP 6000",
+      "HPR 6110",
+      "HPR 6200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Beyond methods, course content will explore ethical issues relevant to implementation research, particularly in relation to pragmatic trials, informed consent, learning health systems, and nudges."
+      ]
+    }
+  },
+  {
+    "coursename": "IMP 6200 Mixed Methods in Implementation Science",
+    "courseid": "IMP 6200",
+    "coursedescription": "The focus of this course is applying and integrating mixed methods in implementation research/science, with a particular emphasis on incorporating qualitative and mixed methods to design and evaluate implementation trials equitably and sustainably. This course will provide an overview of different ways in which mixed methods can be used across implementation and dissemination research using readings, lectures, case studies, and group discussions. Trainees will gain basic skills in collecting and analyzing qualitative and mixed methods data, ways in which mixed methods can be integrated into different study designs (e.g., pragmatic trials) and innovative approaches such as rapid ethnography and configurational comparative methods. The course will also cover philosophical and theoretical foundations and tensions in the field. At the end of the course, trainees will be able to: 1. Design and plan a mixed methods implementation research project. 2. Identify different forms of mixed methods analysis and how to integrate into study designs. 3. Critically evaluate the use of methodological paradigms and theoretical models to ensure alignment with implementation targets and strategies. 4. Identify different ways mixed methods can incorporated across the implementation process from contextual inquiry to implementation trials to policy change. Prerequisite: IMP 6000 , HPR 6110 (Penn Implementation Science Institute), or HPR 6200 Prior coursework or training in qualitative research is strongly suggested. Training or experience in public health, epidemiology, quality improvement or health care organization leadership is preferred. Spring Prerequisite: IMP 6000 OR HPR 6110 OR HPR 6200 1 Course Unit",
+    "course-prerequsities": [
+      "IMP 6000",
+      "HPR 6110",
+      "HPR 6200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "IMP 6300 Project Development in Implementation Sciences",
+    "courseid": "IMP 6300",
+    "coursedescription": "This course offers an opportunity for trainees to apply competencies acquired through the certificate program to address questions related to implementation research and practice. Students will meet weekly as a group to receive guidance and hands-on experience in developing individual proposals in their topical area of interest. At the conclusion of the course, students will have workshopped a proposal suitable for submission, so preference for enrollment will be given to trainees who plan to submit grants within the next year Prerequisite: IMP 6000 , HPR 6110 , or HPR 6200 Fall, Spring, and Summer Terms Prerequisite: HPR 6110 OR IMP 6000 OR HPR 6200",
+    "course-prerequsities": [
+      "IMP 6000",
+      "HPR 6110",
+      "HPR 6200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units",
+      "notes": [
+        "Students will meet weekly as a group to receive guidance and hands-on experience in developing individual proposals in their topical area of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "IMP 6400 Practicum in Implementation Science",
+    "courseid": "IMP 6400",
+    "coursedescription": "This course offers an opportunity for trainees to apply competencies in implementation research and practice. Through mentorship from course directors, trainees will receive guidance as they execute individual projects. Prerequisite: IMP 6000 , HPR 6110 , or HPR 6200 Fall, Spring, and Summer Terms Prerequisite: HPR 6110 OR IMP 6000 OR HPR 6200",
+    "course-prerequsities": [
+      "IMP 6000",
+      "HPR 6110",
+      "HPR 6200"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "credits": "0.5 Course Units"
+    }
+  },
+  {
+    "coursename": "IMP 6999 Independent Study in Implementation Science",
+    "courseid": "IMP 6999",
+    "coursedescription": "This course is reserved for students in the Implementation Science Certificate to complete an independent study with a predetermined faculty member. The topics will be determined in coordination with that faculty. Consultation with IMP Sci program and faculty is required before registration. The option to complete an independent study requires approval from academic advisor and Director of the IMP Sci program. 0.5-1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

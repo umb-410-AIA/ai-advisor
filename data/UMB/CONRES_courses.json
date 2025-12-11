@@ -1,0 +1,86 @@
+[
+  {
+    "coursename": "Negotiation (M)",
+    "courseid": "CONRES621",
+    "coursedescription": "Negotiation is the bedrock skill in this field. The course addresses the development of negotiation techniques and fosters student knowledge of the substantial body of negotiation theory that is now available.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Introductory Theory",
+    "courseid": "CONRES623",
+    "coursedescription": "This course examines the theories and assumptions underpinning the practice of negotiation and mediation. It identifies the major schools of thought that influence models in practice and shape research agendas. It examines theories critically, with three aims-uncovering implicit assumptions of practice, testing those assumptions against empirical evidence or other theories, and gleaning insights to assist practitioners.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Issues in Conflict Resolution Practice",
+    "courseid": "CONRES626",
+    "coursedescription": "This course applies the principles of conflict resolution interventions to particular contexts. The specific course context changes from semester to semester. Please contact the Conflict Resolution program for current course information.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Research Methods in Dispute Resolution",
+    "courseid": "CONRES635",
+    "coursedescription": "This course meets with three primary objectives. First, it provides students with a basic \"literacy\" in research methods, enabling them to be critical consumers of literature reporting research findings. Students will learn the fundamentals of sound research design, inference from data to conclusions, and the assumptions underlying various methods. Second, it introduces students to the role and use of research methods in conflict intervention work. And third, it provides students preparing to undertake the Master's Project an introduction to the types of research methodology that they are most likely to use in their MPs.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Conflict in Workgroups",
+    "courseid": "CONRES636",
+    "coursedescription": "This course provides the participant with an opportunity to develop a deeper understanding of the dynamics of work groups, with an emphasis on processes of conflict within them, and to develop skills to deal constructively with intra- and inter- group conflict. Class sessions will deal with conceptual issues in a combination of lecture and seminar-discussion format, drawing from various literatures on groups. Students will also participate in weekly meetings with a small workgroup, consisting of a sub-set of the class, which will offer an opportunity to study group processes in vivo with the aid of a facilitator.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Master's Project in Conflict Resolution",
+    "courseid": "CONRES689",
+    "coursedescription": "Under the guidance of an individual faculty advisor, students complete a research or applied project that makes a substantive contribution to critical understanding of an issue in conflict resolution. The final product is a substantial paper, indicating mastery of pertinent concepts and critical analysis that is assessed by the student's advisor and by an external evaluator outside of the department.",
+    "course-prerequsities": [
+      "CONRES 693"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Court Internship",
+    "courseid": "CONRES690",
+    "coursedescription": "Students mediate cases, under close faculty supervision, in one of the small claims courts in Greater Boston. Each day of mediation is followed by a debriefing session with the supervisor. A mediation seminar is part of the internship. The seminar enables students to compare mediating experiences, focus on particular problem areas encountered by mediators, and re-examine theoretical concepts.",
+    "course-prerequsities": [
+      "CONRES 621"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "CONRES696",
+    "coursedescription": "This course provides students the opportunity for students to pursue in-depth study of a particular topic under the direction of a faculty member. A student must find a faculty sponsor, and together with that faculty member develop a study plan detailing topics to be covered, readings and activities to be completed, and products to be produced. A copy of the study plan should be signed by both the student and the faculty sponsor and filed with the department office.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Special Topics in Dispute Resolution",
+    "courseid": "CONRES697",
+    "coursedescription": "Special topics courses are advanced courses that offer intensive study of a selected topic in dispute resolution. With faculty approval, students select a topic from a broad range of options. The course can be used to deepen knowledge of the specialization area, or to broaden a student's range of dispute resolution experience.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Master's Thesis in Conflict Resolution",
+    "courseid": "CONRES699",
+    "coursedescription": "Under the guidance of an individual faculty advisor, students complete a major research project that makes a substantive contribution to critical understanding of an issue in conflict resolution. The final product is a substantial paper, indicating mastery of pertinent, concepts and critical analysis that is defended before a committee of 3 faculty members.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

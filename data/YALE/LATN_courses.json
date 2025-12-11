@@ -1,0 +1,86 @@
+[
+  {
+    "coursename": "LATN 1001a, Beginning Latin: The Elements of Latin Grammar Staff",
+    "courseid": "LATN 1001a",
+    "coursedescription": "Introduction to Latin. Emphasis on morphology and syntax within a structured program of readings and exercises. Prepares for LATN 1002 . No prior knowledge of Latin assumed. L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 1002b, Beginning Latin: Review of Grammar and Selected Readings Staff",
+    "courseid": "LATN 1002b",
+    "coursedescription": "Continuation of LATN 1001 . Emphasis on consolidating grammar and on readings from Latin authors. The sequence LATN 1001 and 1002 prepares for 2003 or 2004. Prerequisite: LATN 1001 or equivalent. L2 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [
+      "LATN 1001",
+      "L2",
+      "MTWTHF 9",
+      "25AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* LATN 1012a, Intensive Beginning Latin Timothy Robinson",
+    "courseid": "LATN 1012a",
+    "coursedescription": "An accelerated course that covers in one term the material taught in LATN 110 and 120. Readings from Latin authors supplement intensive instruction in grammar and vocabulary. Admits to LATN 131 or 141. Not open to students who have completed LATN 110 or 120. L1 , L2 RP 2 Course cr MTWThF 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 2003a, Latin Prose: An Introduction Staff",
+    "courseid": "LATN 2003a",
+    "coursedescription": "Close reading of a major work of classical prose; review of grammar as needed. Counts as L4 if taken after LATN 2004 or equivalent, or if placed into L4. L3 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 2004b, Latin Poetry: An Introduction Staff",
+    "courseid": "LATN 2004b",
+    "coursedescription": "An introduction to reading hexameter (epic) poetry in Latin. Readings come primarily from Vergil's Aeneid. Attention is paid both to grammar/syntax and to interpretation of poetic style and content. Counts as L4 if taken after LATN 2003 or equivalent, or if placed into L4. L3 MWF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LATN 3305a, Early Rome from Aeneas to Romulus John Dillon",
+    "courseid": "LATN 3305a",
+    "coursedescription": "Investigation of how the Romans imagined the founding of their nation and their city, events to which they attached the highest importance yet about which they had little information. Careful reading of both prose and verse by Vergil, Livy, Ovid, and others. A bridge course between L4 and other L5 courses. L5 , HU TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* LATN 3315a, Ovid's Poetic Career Kirk Freudenburg",
+    "courseid": "LATN 3315a",
+    "coursedescription": "A bridge course designed to transition students from L4 to L5 Latin, focused on the poetic career of the Roman poet Ovid. Readings are drawn from all the major works of Ovid, following their publication over the course of his long career. The course is designed to take students beyond matters of grammar, vocabulary, and syntax (though these are stressed) into the complex workings of Latin poetry (including metrics, stylistics, and advanced Latin syntax) and the larger political and social contexts of one of antiquity's greatest literary careers. Class sessions are devoted to close reading of Ovid’s Latin, with strong emphasis on grammar and syntax; analysis of Ovid’s art; discussion of cultural context; discussion of Ovid in reception and in modern scholarship. This course is designed for students who are proficient in Latin, having had at least 3-4 years of high school Latin, or a minimum of two full years of Latin at the college level. L5 , HU MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* LATN 4465a, Martial James Uden",
+    "courseid": "LATN 4465a",
+    "coursedescription": "Martial is a major author in a miniature mode. Over 1500 of Martial’s Latin epigrams survive across fifteen books of poetry, and they offer concise, witty summations of every conceivable aspect of Roman life in the late first century CE. His corpus includes gift-tags, commemorations of public monuments, odes to patrons, and praise and blame of a shifting set of emperors. For some institutions – such as the Roman baths – Martial is our only substantial source of evidence in Latin literature. In reading his short poems, we can build a detailed picture of everyday Roman life, one poem at a time. From an aesthetic perspective, though, Martial presents a challenge. How do we read the work en masse of an author devoted to the fleeting, ephemeral, and small? Ability to read Latin at the L5 level, typically demonstrated by completion of an L4 course (whose course number ends with 4), by completion of an L5 \"bridge\" course (numbered at the 3000 level), or via placement score. L5 , HU TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* LATN 4525a, Readings in Roman Environmental Thought Kirk Freudenburg",
+    "courseid": "LATN 4525a",
+    "coursedescription": "An advanced Latin course (with L5 credit) focusing on ancient literary depictions of Roman encounters with the natural world. Through close readings of Latin texts, the class will examine how the Romans exploited their natural surroundings not only as physical resources, but as resources for human thought. The focus will be on how ancient thinkers, living lives that were largely city-bound and detached from nature, structured their thoughts about the lives they lived (and about human existence more generally) by reference to their nonhuman surroundings: creatures, plants and places, some of which existed in the real world (in places far off, largely unknown and elsewhere; in places penetrated, explored, and/or told of), others of which existed entirely in the imagination, whether as inherited lore, or as places and creatures invented ad hoc by individuals and groups to get certain kinds of cultural work done. We will look not only at the how and what, but at the why of nature’s encoding via culture, and vice versa (their symbiosis), paying special attention to conceptions of man and nature, natural history, agriculture, diet, human work (in the fields of war and on farms), waters, forests, bees and flowers. Prerequisites: The completion of two full years of Latin at the beginning and intermediate levels, as well as one ‘bridge’ course at the L5 level. L5 , HU MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "L5",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "We will look not only at the how and what, but at the why of nature’s encoding via culture, and vice versa (their symbiosis), paying special attention to conceptions of man and nature, natural history, agriculture, diet, human work (in the fields of war and on farms), waters, forests, bees and flowers."
+      ]
+    }
+  }
+]

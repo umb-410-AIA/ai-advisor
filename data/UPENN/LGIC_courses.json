@@ -1,0 +1,72 @@
+[
+  {
+    "coursename": "LGIC 1710 Introduction to Logic",
+    "courseid": "LGIC 1710",
+    "coursedescription": "This course provides an introduction to some of the fundamental ideas of logic. Topics will include truth functional logic, quantificational logic, and logical decision problems. Fall or Spring Also Offered As: PHIL 1710 Mutually Exclusive: PHIL 5710 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LGIC 2100 Discrete Mathematics I",
+    "courseid": "LGIC 2100",
+    "coursedescription": "Topics will be drawn from some subjects in combinatorial analysis with applications to many other branches of math and science: graphs and networks, generating functions, permutations, posets, asymptotics. Not Offered Every Year Also Offered As: MATH 3400 Prerequisite: MATH 1410 OR MATH 1510 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 1410",
+      "MATH 1510"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LGIC 2200 Discrete Mathematics II",
+    "courseid": "LGIC 2200",
+    "coursedescription": "Topics will be drawn from some subjects useful in the analysis of information and computation: logic, set theory, theory of computation, number theory, probability, and basic cryptography. Also Offered As: MATH 3410 Prerequisite: MATH 3400 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 3400"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LGIC 3100 Logic and Computability 1",
+    "courseid": "LGIC 3100",
+    "coursedescription": "This graduate course focuses on topics drawn from the central areas of mathematical logic: model theory, proof theory, set theory, and computability theory. Not Offered Every Year Also Offered As: PHIL 4721 Prerequisite: MATH 3710 OR MATH 5030 1 Course Unit",
+    "course-prerequsities": [
+      "MATH 3710",
+      "MATH 5030"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LGIC 3200 Logic and Computability 2",
+    "courseid": "LGIC 3200",
+    "coursedescription": "The course is a continuation of PHIL 4721 . Cross-list with MATH5710 and LGIC3200. Not Offered Every Year Also Offered As: PHIL 4722 Prerequisite: PHIL 4721 OR PHIL 6721 OR MATH 5700 1 Course Unit",
+    "course-prerequsities": [
+      "PHIL 4721",
+      "PHIL 6721",
+      "MATH 5700"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LGIC 4960 Topics in Mathematical Logic",
+    "courseid": "LGIC 4960",
+    "coursedescription": "The course focuses on topics drawn from the central areas of mathematical logic: model theory, proof theory, set theory, and computability theory. Not Offered Every Year Also Offered As: PHIL 4720 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "LGIC 4999 Independent Study",
+    "courseid": "LGIC 4999",
+    "coursedescription": "Student arranges with a faculty member to pursue an independent research project on a suitable topic.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "credits": "1-2 Course Units"
+    }
+  }
+]

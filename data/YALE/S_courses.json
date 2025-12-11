@@ -1,0 +1,1145 @@
+[
+  {
+    "coursename": "SBCR 1100a, Elementary Bosnian-Croatian-Serbian I Staff",
+    "courseid": "SBCR 1100a",
+    "coursedescription": "The first half of a two-term introduction to Bosnian-Croatian-Serbian designed to develop skills in comprehension, reading, speaking, and writing. The grammatical structure and the writing systems of the languages; communication on topics drawn from daily life. Study of Serbian, Bosnian, and Croatian culture, and of south Slavic culture more generally. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L1 RP 1½ Course cr TWF 10:10am-11:25am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* SBCR 1200b, Elementary Bosnian-Croatian-Serbian II Staff",
+    "courseid": "SBCR 1200b",
+    "coursedescription": "The second half of a two-term introduction to Bosnian-Croatian-Serbian designed to develop skills in comprehension, reading, speaking, and writing. The grammatical structure and the writing systems of the languages; communication on topics drawn from daily life. Study of Serbian, Bosnian, and Croatian culture, and of south Slavic culture more generally. Prerequisite: SBCR 110 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L2 RP 1½ Course cr TWF 10:10am-11:25am",
+    "course-prerequsities": [
+      "SBCR 110",
+      "L2",
+      "TWF 10",
+      "10AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "SBCR 1300a, Intermediate Bosnian Croatian Serbian I Staff",
+    "courseid": "SBCR 1300a",
+    "coursedescription": "This intermediate course is a continuation of the elementary course and is intended to enhance overall communicative competence in the language. This course moves forward from the study of the fundamental systems and vocabulary of the Bosnian/Croatian/Serbian to rich exposure to the spoken and written language with the wide range of speakers and situations. SBCR 120, or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L3 RP 1½ Course cr TWF 11:40am-12:55pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "SBCR 1400b, Intermediate Bosnian Croatian Serbian II Staff",
+    "courseid": "SBCR 1400b",
+    "coursedescription": "The intermediate course in BCS is a continuation of the elementary course and is intended to enhance overall communicative competence in the language. This course moves forward from the study of the fundamental systems and vocabulary of the Bosnian/Croatian/Serbian to rich exposure to the spoken and written language with the wide range of speakers and situations. Prerequisite: SBCR 130 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L4 RP 1½ Course cr TWF 11:40am-12:55pm",
+    "course-prerequsities": [
+      "SBCR 130",
+      "L4",
+      "TWF 11",
+      "40AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "SWAH 1110a, Beginning Kiswahili I John Wa'Njogu",
+    "courseid": "SWAH 1110a",
+    "coursedescription": "A beginning course with intensive training and practice in speaking, listening, reading, and writing. Initial emphasis is on the spoken language and conversation. L1 1½ Course cr MTWThF 9:25am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 1130a, Intermediate Kiswahili I Veronica Waweru",
+    "courseid": "SWAH 1130a",
+    "coursedescription": "Further development of students' speaking, listening, reading, and writing skills. Prepares students for further work in literary, language, and cultural studies as well as for a functional use of Kiswahili. Study of structure and vocabulary is based on a variety of texts from traditional and popular culture. Emphasis on command of idiomatic usage and stylistic nuance. After SWAH 120 . L3 1½ Course cr MTWThF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 1150a, Advanced Kiswahili I John Wa'Njogu",
+    "courseid": "SWAH 1150a",
+    "coursedescription": "Development of fluency through readings and discussions on contemporary issues in Kiswahili. Introduction to literary criticism in Kiswahili. Materials include Kiswahili oral literature, prose, poetry, and plays, as well as texts drawn from popular and political culture. After SWAH 140. L5 MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SWAH 1170a, Topics in Kiswahili Literature John Wa'Njogu",
+    "courseid": "SWAH 1170a",
+    "coursedescription": "Advanced readings and discussion with emphasis on literary and historical texts. Reading assignments include materials on Kiswahili poetry, Kiswahili dialects, and the history of the language. After SWAH 160. L5 , HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SKRT 1100a / LING 1150a, Introductory Sanskrit I Aleksandar Uskokov",
+    "courseid": "SKRT 1100a",
+    "coursedescription": "An introduction to Sanskrit language and grammar. Focus on learning to read and translate basic Sanskrit sentences in Devanagari script. No prior background in Sanskrit assumed. L1 1½ Course cr MTWThF 11:35am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SKRT 1300a / LING 1380a, Intermediate Sanskrit I Aleksandar Uskokov",
+    "courseid": "SKRT 1300a",
+    "coursedescription": "The first half of a two-term sequence aimed at helping students develop the skills necessary to read texts written in Sanskrit. Readings include selections from the Hitopadesa, Kathasaritsagara, Mahabharata, and Bhagavadgita. After SKRT 120 or equivalent. L3 MWF 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SKRT 1500a, Advanced Sanskrit: Readings in Indian Philosophy and Aesthetics Aleksandar Uskokov",
+    "courseid": "SKRT 1500a",
+    "coursedescription": "This advanced language course introduces the jargon of the philosophical disciplines (theory of knowledge, metaphysics, philosophy of mind and language, philosophical theology, hermeneutics) and aesthetics in the several systems of learning in ancient and classical India, across the traditions of Hinduism, Buddhism, and Jainism. Additionally, the course introduces topics of philosophical significance in foundational texts such as the Upaniṣads, portions of the Mahābhārata and the Purāṇa s, and the Buddhist sūtra literature. Special attention is given to matters of style, scholastic techniques, and advanced morphology and syntax. The course, thus, combines advanced language instruction with learning intellectual and cultural content, and it facilitates training in primary research in one of the classical languages of South Asia. Prerequisite: SKRT 140 or equivalent, or instructor permission. L5 TTh 4pm-5:15pm",
+    "course-prerequsities": [
+      "SKRT 140",
+      "L5",
+      "4PM-5"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: SKRT 140 or equivalent, or instructor permission."
+      ]
+    }
+  },
+  {
+    "coursename": "* SCIE 0010a and SCIE 0011b, Perspectives on Biological Research Sandy Chang",
+    "courseid": "SCIE 0010a",
+    "coursedescription": "5The goal of this two course series is to teach Science, Technology, and Research Scholars 1 (STARS1) scientific skills necessary to conduct cutting-edge undergraduate research in their first summer. During the first semester, students read primary research papers on the COVID19 pandemic and emerge from this course with an appreciation for how rapidly scientific knowledge can be utilized to combat a deadly disease. Students learn how to (1) read the primary scientific literature, (2) present this material to the class and, (3) write a group grant proposal. During the second semester, students are required to take MCDB 201L concurrently and identify a Yale research mentor to work with over the summer. Students learn how to write an independent grant proposal to prepare them for summer research. Students receive guaranteed funding upon successful completion of the grant proposal. Credit for SCIE 010 is given only upon completion of SCIE 011. One course credit, one SC or WR credit, is awarded after successful completion of the grant proposal and one year's work. Enrollment limited to first-year students. Prerequisite: Score of 5 on AP biology test or equivalent on IB biology exam. Students MUST take MCDB 201L, Molecular Biology Laboratory, in Spring 2025 concurrent with SCIE 011. WR , SC ½ Course cr per term F 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "MCDB 201L",
+      "SPRING 2025",
+      "SCIE 011",
+      "F 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* SCIE 0020a and SCIE 0021b, Perspectives on Research in the Mathematical and Physical Sciences Charles Bailyn",
+    "courseid": "SCIE 0020a",
+    "coursedescription": "This first-year seminar is the first of a two-part sequence designed for students in the Science, Technology and Research Scholars (STARS) program, and other first-year students interesting in studying the physical and mathematical sciences. In the first semester, students encounter on-going research at Yale and in the broader scientific community across physics, astronomy, geology, computer science and data science. Skills necessary to understand, write, and present research in these areas are developed. In the second semester, students identify a Yale research mentor and prepare an independent grant proposal to prepare for summer research. The organizational structures and best practices associated with scientific research are examined. Credit for SCIE 020 is given only upon successful completion of SCIE 021. One course credit, one SC or WR credit, is awarded after successful completion of both courses. Enrollment limited to first-year students. Corequisite: Students must enroll in an appropriate introductory course sequence in Physics or Computer Science. WR , SC ½ Course cr per term F 2:30pm-4:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [
+      "F 2",
+      "30PM-4"
+    ],
+    "other": {
+      "notes": [
+        "This first-year seminar is the first of a two-part sequence designed for students in the Science, Technology and Research Scholars (STARS) program, and other first-year students interesting in studying the physical and mathematical sciences.",
+        "Enrollment limited to first-year students.",
+        "Corequisite: Students must enroll in an appropriate introductory course sequence in Physics or Computer Science."
+      ]
+    }
+  },
+  {
+    "coursename": "* SNHL 1100a, Elementary Sinhala I Staff",
+    "courseid": "SNHL 1100a",
+    "coursedescription": "First half of a two-term sequence focusing on all four language skills. Basic grammar, sentence construction, simple reading materials, and use of everyday expressions. Course taught through distance learning using videoconferencing technology from Cornell University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L1 RP 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* SNHL 1200b, Elementary Sinhala II Staff",
+    "courseid": "SNHL 1200b",
+    "coursedescription": "Second half of a two-term sequence focusing on all four language skills. Basic grammar, sentence construction, simple reading materials, and use of everyday expressions. Prerequisite: SNHL 110. Course taught through distance learning using videoconferencing technology from Cornell University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L2 RP 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "SNHL 110",
+      "L2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "SNHL 1300a, Intermediate Sinhala I Staff",
+    "courseid": "SNHL 1300a",
+    "coursedescription": "Further development of speaking, listening, reading, and writing skills in Sinhala. Communicative approach to the exchange of ideas and information, with early emphasis on oral skills and reading comprehension. Prerequisite: SNHL 120 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information. L3 RP 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "SNHL 120",
+      "L3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "* SNHL 1400b, Intermediate Sinhala II Staff",
+    "courseid": "SNHL 1400b",
+    "coursedescription": "Further development of speaking, listening, reading, and writing skills in Sinhala, with a communicative approach to the exchange of ideas and information. Prepares students for the transition to the study of literary Sinhala. Prerequisite: SNHL 130 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information. L4 RP 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "SNHL 130",
+      "L4"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail david.ortega@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "SNHL 1500a, Advanced Literary Sinhala I Staff",
+    "courseid": "SNHL 1500a",
+    "coursedescription": "This course introduces the distinctive grammatical forms and vocabulary used in Literary Sinhala. While focused particularly on the development of reading skills, the course also introduces students to Literary Sinhala composition, builds students’ listening comprehension of semi-literary Sinhala forms (such as those used in radio and TV news), and guides students in incorporating elements of the literary register of Sinhala in their spoken production. Prerequisite: SNHL 140, or equivalent. L5 RP HTBA",
+    "course-prerequsities": [
+      "SNHL 140",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SNHL 1600b, Advanced Literary Sinhala II Staff",
+    "courseid": "SNHL 1600b",
+    "coursedescription": "As a continuation of SNHL 150, this one-semester course further develops students’ comprehension of written Literary Sinhala, expanding their knowledge of the distinctive grammatical forms and vocabulary used. While continuing to focus primarily on reading development, the course also includes elements of Literary Sinhala composition, builds students’ listening comprehension of semi-literary Sinhala forms (such as those used in radio and TV news), and guides students in incorporating elements of the literary register of Sinhala in their spoken production. The course incorporates modern texts adapted from recent articles featured in the local Sri Lankan news, and when appropriate, additional Classical Sinhala texts relevant to graduate student research. The course is taught in Sinhala. Prerequisite: SNHL 150, or equivalent. L5 RP HTBA",
+    "course-prerequsities": [
+      "SNHL 150",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SLAV 1010a / CPLT 1010a / HUMS 2015a / RUSS 2010a, Writing Literature: Doubles, Doppelgängers, and the Boundaries of the Self Emily Ziffer",
+    "courseid": "SLAV 1010a",
+    "coursedescription": "In 2024, a BBC article proclaimed that we are “living in the golden age of the doppelgänger.” From celebrity lookalike competitions to the threat of AI duplicates in Hollywood, recent media has demonstrated a renewed fascination with the concept of “the double.” In this course, we turn to the rich literary tradition of the “doppelgänger” to examine how writers—from Fyodor Dostoevsky to Kazuo Ishiguro—have engaged with the trope to explore questions of selfhood. We spend the first part of the course considering the theoretical origins of the doppelgänger in gothic literature, turning to concepts of “the self and other” from psychoanalytic, feminist, and postcolonial theory to help us think broadly through the category. In the second part of the course, we read works of literature that feature encounters with a large cast of doppelgänger sub-types, including alter-egos, shadows, ghosts, and evil twins. Finally, we revisit the doppelgänger trope in the digital age to interrogate how advanced technologies have altered the possibilities for “doubling” through innovations such as AI, cloning, and biogenetic de-extinction projects. WR MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SLAV 3120a and SLAV 6120a / FILM 3007a / RSEE 3120a / UKRN 3120a and UKRN 6120a, Cinematic Ukraine: Culture, Identity, and Memory Olha Tytarenko",
+    "courseid": "SLAV 3120a",
+    "coursedescription": "This course traces the evolution of Ukrainian cinema from the avant-garde experiments of the 1920s to the vibrant post-2014 film resurgence. Exploring themes of national identity, historical memory, and resistance to political and cultural oppression, we analyze how filmmakers have shaped Ukraine’s self-conception through film. Topics include the poetic cinema of the 1960s, post-Soviet transition films, and contemporary works responding to war and cultural sovereignty. Students will engage critically with cinematic language, narrative structures, and visual aesthetics while incorporating perspectives from postcolonial theory and memory studies. The course features guest lectures from Ukrainian film directors and hands-on cinematographic workshops. Weekly thematic units pair films with historical and theoretical readings, offering a dynamic exploration of Ukraine’s place in global cinema and cultural history. None HU M 3:30pm-5:20pm, Th 6pm-9pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 0074a / ER&M 0581a / MUSI 0081a, Race and Place in British New Wave, K-Pop, and Beyond Grace Kao",
+    "courseid": "SOCY 0074a",
+    "coursedescription": "This seminar introduces you to several popular musical genres and explores how they are tied to racial, regional, and national identities. We examine how music is exported via migrants, return migrants, industry professionals, and the nation-state (in the case of Korean Popular Music, or K-Pop). Readings and discussions focus primarily on the British New Wave (from about 1979 to 1985) and K-Pop (1992-present), but we also discuss first-wave reggae, ska, rocksteady from the 1960s-70s, British and American punk rock music (1970s-1980s), the precursors of modern K-Pop, and have a brief discussion of Japanese City Pop. The class focuses mainly on the British New Wave and K-Pop because these two genres of popular music have strong ties to particular geographic areas, but they became or have become extremely popular in other parts of the world. We also investigate the importance of music videos in the development of these genres. Enrollment limited to first year students. SO MW 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first year students."
+      ]
+    }
+  },
+  {
+    "coursename": "SOCY 1012a / AMST 1110a / EDST 1110a, Foundations in Education Studies Staff",
+    "courseid": "SOCY 1012a",
+    "coursedescription": "Introduction to key issues and debates in the U.S. public education system with a focus on the nexus of education theory and research, policy and pedagogy. The course emphasizes social, scientific, economic, and political forces that shape approaches to schooling and education reform, and it includes theoretical and practical perspectives from practitioners, policymakers, and scholars. SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCY 1283a, Computers, Networks, and Society Scott Boorman",
+    "courseid": "SOCY 1283a",
+    "coursedescription": "Comparison of major algorithm-centered approaches to the analysis of complex social network and organizational data. Fundamental principles for developing a disciplined and coherent perspective on the effects of modern information technology on societies worldwide. Software warfare and algorithm sabotage; blockmodeling and privacy; legal, ethical, and policy issues. No prior experience with computers required. SO 0 Course cr TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCY 1700a / EDST 1144a / EDST 144 / ER&M 2511a / EVST 1144a / EVST 144, Race, Ethnicity, and Immigration Staff",
+    "courseid": "SOCY 1700a",
+    "coursedescription": "Exploration of sociological studies and theoretical and empirical analyses of race, ethnicity, and immigration, with focus on race relations and racial and ethnic differences in outcomes in contemporary U.S. society (post-1960s). Study of the patterns of educational and labor market outcomes, incarceration, and family formation of whites, blacks (African Americans), Hispanics, and Asian Americans in the United States, as well as immigration patterns and how they affect race and ethnic relations. SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCY 1702a / EAST 2721 / GLBL 3303a, Inequality and Social Change in China Emma Zang",
+    "courseid": "SOCY 1702a",
+    "coursedescription": "This course offers an introduction to major social and economic issues in contemporary China. It provides a survey of the ongoing reforms and the Chinese society in transition with a focus on selected policy issues. In most weeks, the first session is reserved for a lecture by the instructor or a guest lecturer, and the second session is reserved for student-led discussions of pre-circulated questions. SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCY 1704a / AFAM 1986a / LAST 1214a / PLSC 2417a, Contesting Injustice Staff",
+    "courseid": "SOCY 1704a",
+    "coursedescription": "Exploration of why, when, and how people organize collectively to challenge political, social, and economic injustice. Cross-national comparison of the extent, causes, and consequences of inequality. Analysis of mobilizations for social justice in both U.S. and international settings. Intended primarily for first years and sophomores. SO 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCY 1840b / ANTH 1840b / ER&M 2541b, The Corporation Douglas Rogers",
+    "courseid": "SOCY 1840b",
+    "coursedescription": "Survey of the rise, diversity, and power of the capitalist corporation in global contexts, with a focus on the 20th and 21st centuries. Topics include: the corporation as legal entity and the social and cultural consequences of this status; corporations in the colonial era; relationships among corporations, states, and non-governmental organizations in Western and non-Western contexts; anti-corporate critique and response; corporate social responsibility; and race, gender, and indigeneity. HU , SO 0 Course cr MW 10:30am-11:20am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SOCY 2002a / AFAM 1952a / PLSC 2363a, Topics in Contemporary Social Theory Philip Gorski",
+    "courseid": "SOCY 2002a",
+    "coursedescription": "In-depth introduction to recent developments in social theory, with particular emphasis on the last twenty years. Focus on three distinct areas of study: the building blocks and contrasting understandings of human persons and social action; the competing theories of the social structure of markets, institutions, cultures, social fields, and actor-networks; and the theoretical controversies concerning nations, states and empires, ethnic and racial identity, and the relation between facts and values in social research. Authors include Judith Butler, Michel Foucault, Jurgen Habermas, Pierre Bourdieu and Bruno Latour. SOCY 151 or equivalent is strongly recommended. WR , SO 0 Course cr MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "SOCY 151 or equivalent is strongly recommended."
+      ]
+    }
+  },
+  {
+    "coursename": "* SOCY 2009a, The Sociological Imagination Julia Adams",
+    "courseid": "SOCY 2009a",
+    "coursedescription": "Introduction to the study of sociology and modernity. Topics include the rise and transformations of capitalism; colonialism and empire; the linked advent of democracy and bureaucracy; the world-historical invention of the individual, and the modern and postmodern city. The course culminates in individualized student final projects, and includes a student-run class blog that discusses readings from classical and contemporary authors. Recommended for sophomores and juniors. SO MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Recommended for sophomores and juniors."
+      ]
+    }
+  },
+  {
+    "coursename": "* SOCY 2048a / BENG 2048a, AI, Medicine, and Society Alka Menon and Xenophon Papademetris",
+    "courseid": "SOCY 2048a",
+    "coursedescription": "AI has shown tremendous promise to address problems in medicine and science. There is also considerable hype surrounding AI and many concerns (some justified, some not) regarding the use of this type of technology. This discussion-based seminar will 1) provide undergraduate students across disciplines with a broad overview of issues related to AI in medicine at a non-technical level, drawing on perspectives from the interpretive/humanistic social sciences, computing, engineering, and healthcare and 2) model interdisciplinary communication and build a robust framework for collaboration. Overarching topics, grounded in medical case studies, include what it means for computers to “think” and how we understand what they are thinking about; the use and limits of scientific knowledge in making policy decisions; bias, fairness, equity, equality; the challenges of implementation of AI systems; safety and risk; and the human/computer interface. The course also provides a high level overview of machine learning, discussing opportunities, limitations, and tradeoffs. Ultimately, the course offers a grounded look at how AI is being discussed and deployed on the ground in medicine, equipping students with a critical lens for thinking about responsible and practical implementation and innovation when it comes to AI. SO TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 2103a, Visual Sociology Philip Smith",
+    "courseid": "SOCY 2103a",
+    "coursedescription": "Introduction to themes and methods in visual sociology. The role and use of visual information in social life, including images, objects, settings, and human interactions. Ethnographic photography, the study of media images, maps and diagrams, observation and coding of public settings, unobtrusive measures, and the use of internet resources. SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3044a / ER&M 3044a / URBN 3305a, Informal Cities Leigh-Anna Hidalgo",
+    "courseid": "SOCY 3044a",
+    "coursedescription": "The informal sector is an integral and growing part of major global cities. With a special focus on the context of U.S. cities, students examine where a burgeoning informality is visible in the region’s everyday life. How planners and policymakers address informality is an important social justice challenge. But what is the informal sector, or urban informality, or the informal city? This class addresses such questions through a rigorous examination of the growing body of literature from Sociology, Latinx Studies, Urban Planning, and Geography. We reflect on the debates and theories in the study of informality in the U.S. and beyond and gain an understanding of the prevalence, characteristics, rationale, advantages and disadvantages, and socio-spatial implications of informal cities. More specifically, we examine urban informality in work—examining street vendors, sex workers, and waste pickers—as well as housing, and the built environment. SO T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3104a / AMST 3304a / ANTH 3304a / ER&M 3304a / HUMS 3304a, Ethnography & Journalism Madiha Tahir",
+    "courseid": "SOCY 3104a",
+    "coursedescription": "While each is loathed to admit it, journalism and ethnography are cousins in some respects interested in (albeit distinct) modes of storytelling, translation, and interpretation. This methods course considers these shared grounds to launch a cross-comparative examination. What can the practies of each field and method—journalism and ethnography—tell us about the other? How do journalists and ethnographers engage ideas about the truth? What can they learn from each other? Students spend the first four weeks studying journalistic methods and debates before shifting to ethnographic discussions, and finally, comparative approaches to writing; data and evidence; experience and positionality. HU , SO Th 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "While each is loathed to admit it, journalism and ethnography are cousins in some respects interested in (albeit distinct) modes of storytelling, translation, and interpretation."
+      ]
+    }
+  },
+  {
+    "coursename": "* SOCY 3201a, From Knowledge to Inaction Rene Almeling",
+    "courseid": "SOCY 3201a",
+    "coursedescription": "We live in one of the wealthiest countries in the world, and yet there remain millions of Americans who do not have a home, enough food to eat, or access to health care. Academic researchers produce enormous amounts of data and knowledge about social problems like poverty, and yet the poverty rate has remained almost unchanged for fifty years. Likewise, there are reams of historical and social scientific studies about major social problems such as racism, gun violence, abortion access, and climate change. In this seminar, we examine the social processes through which all of this knowledge is ignored by policymakers and others with power to make change. How does increasing knowledge keep resulting in inaction? SO W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3203a / PLSC 3511a, AI for Social Science Methods Daniel Karell",
+    "courseid": "SOCY 3203a",
+    "coursedescription": "Social scientists have begun integrating AI technology into the designs and methods of their research projects. How are they doing so? What are the current standards and best practices? This course uses a seminar format to review, discuss, and critique how AI technologies are currently being incorporated into social science research activities. Students read recently published articles and widely discussed unpublished papers, and, through class discussion, identify the promises and pitfalls of using AI to conduct social science research. Students also learn how to justify and explain the use of AI in their own research projects. Prerequisite: The required methods courses in Sociology or Political Science. SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "TH 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3233a / AMST 2253a / ENGL 2853a / HIST 3742a / HSHM 4180a / WGSS 4435a, Queer Science Juno Richards and Carlo Sariego",
+    "courseid": "SOCY 3233a",
+    "coursedescription": "Why are there so many studies involving trans brain scans? Can facial recognition technology really tell if you’re queer? Why is everyone so obsessed with gay penguins? For that matter, how did science come to be the right tool for defining and knowing sex, gender, and sexuality at all? How does that history influence our collective lives in the present, and what are some alternatives? This course gives students a background in the development of sex science, from evolutionary arguments that racialized sexual dimorphism to the contemporary technologies that claim to be able to get at bodily truths that are supposedly more real than identity. It introduces scholarly and political interventions that have attempted to short-circuit the idea that sex is stable and knowable by science, highlighting ways that queer and queering thinkers have challenged the stability of sexual categories. It concludes by asking how to put those interventions into practice when so much of the fight for queer rights, autonomy, and survival has been rooted in categorical recognition by the state, and by considering whether science can be made queer. HU W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3401a, Media and Mass Atrocities in Africa j. Wahutu",
+    "courseid": "SOCY 3401a",
+    "coursedescription": "Over the last century, several instances of mass violence have unfolded in numerous parts of the world, the most notable being the Holocaust, the Rwandan Genocide, and ongoing atrocities in Darfur and the Democratic Republic of Congo. How these instances of violence have been represented will form the main body of this class. The study of western news representation of Africa (and the global south) and the dynamics of differential reporting is not new. However, what do we actually know about how African media represent genocide and mass atrocities that occur in Africa? How does the news create and reinforce knowledge about mass atrocities? How can the media both generate and rely on knowledge? Is there a difference between the knowledge produced by African media and media from the global north? These are the questions that will guide us for the semester. T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3425a / EAST 4720a / ER&M 1611a, Migration in East Asia and Beyond Angela McClean",
+    "courseid": "SOCY 3425a",
+    "coursedescription": "Over the past few decades, East Asia has become a new destination region for migrants, the phenomenon of which is continuing to cause fierce public and political discussions on national identity and immigration and integration policies. This course explores various types, debates, and industries of migration in contemporary East Asia. While we focus largely on Japan and South Korea, we also have an opportunity to discuss migrant experiences in other popular destination and origin countries in Asia including China, Indonesia, the Philippines, Singapore, and Taiwan. Starting with the major theories and concepts in international migration, we examine East Asian migration regimes, connections between migration and high- and low-skilled labor, gender, co-ethnics, and families, as well as state, public, and civil society responses to migration. SO T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3433b / ANTH 3821b / MMES 3321b / WGSS 3321b, Middle East Gender Studies Marcia Inhorn",
+    "courseid": "SOCY 3433b",
+    "coursedescription": "The lives of women and men in the contemporary Middle East explored through a series of anthropological studies and documentary films. Competing discourses surrounding gender and politics, and the relation of such discourse to actual practices of everyday life. Feminism, Islamism, activism, and human rights; fertility, family, marriage, and sexuality. SO Th 3:30pm-5:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3470a / EAST 4721a, Power, Exclusion and Resistance in South Korea Angela McClean",
+    "courseid": "SOCY 3470a",
+    "coursedescription": "South Korea is often perceived as a socially and culturally homogeneous country, yet – like any society – it encompasses a complex landscape of diversity and experiences of exclusion. This course examines the processes of political and social exclusion in South Korea, analyzing the systematic forces, such as patriarchy, nationalism, racism, and capitalism, that produce marginalization. It also explores how populations affected by such forces, including women, migrants, and LGBTQ+ communities, navigate and contest their impacts. Ultimately, this course challenges students to critically inspect how power operates in Korean society by exploring the experiences of exclusion and marginalization, as well as the possibilities and limits of resistance. While the primary focus will be on contemporary issues, the course will also consider their historical roots, using theoretical readings and case studies to explore both past and present dynamics. SO Th 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3500a / RLST 3500a, The Sociology of the Sacred Philip Gorski",
+    "courseid": "SOCY 3500a",
+    "coursedescription": "The dominant paradigm in the sociology of religion is the theory of secularization. But what if that theory is wrong? What if religion is not so much declining or disappearing as making room for other forms of the sacred, some \"spiritual\", others \"secular\", still others somewhere in between? How would that change our understanding of Western modernity and its history? What do we mean by \"the sacred\"? How do certain times, places, objects, rituals and persons come to be experienced as sacred? How have our understandings of the sacred evolved? And what possibilities–and dangers–arise from the fragmentation of the sacred in modern societies? Some exposure to theories of religion and/or some knowledge of a religious tradition is helpful. MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3707a / AFAM 3707a / WGSS 2271a, Prison Nation, Race, Gender, Crime, and Abolition Politics David Knight",
+    "courseid": "SOCY 3707a",
+    "coursedescription": "Mass incarceration and police violence are pressing human rights issues in the contemporary Americas. The US carceral state is sweeping, with nearly 2 million people currently incarcerated on any given day and a targeted policing apparatus that brings people under the penal net. At the same time, countries in Latin America have high rates of incarceration and often even higher rates of police violence than the US. These dynamics are deeply racialized and shape individuals, families, and communities. But that is not the full story. Liberatory movements have resisted and surged against this subjugation for decades. In this course, students will comparatively study the development of the contemporary carceral state and the political struggles waged against it. Students will read across the social sciences, Black studies, history, and law, as well as performance, memoir, and testimony. By examining the carceral state in this way, students will gain a critical lens on longstanding debates related to race and racism, justice and injustice, and reparation and abolition, in both the US and Latin America. While the course is not exhaustive, it is meant to equip students with a working framework on the critical debates in the field. This course is not open to students previously enrolled in SOCY 105/WGSS 106. SO W 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3741a, Poverty and Social Welfare Policy in the United States Rourke O'Brien",
+    "courseid": "SOCY 3741a",
+    "coursedescription": "Formation and effectiveness of anti-poverty policies from a sociological and public policy perspective. Consideration of who is poor and who deserves federal assistance. Topics include: origins of the modern social safety net; the federal government’s role in constructing and implementing anti-poverty policy; realities of low-wage work; the \"culture of poverty;\" and employment- and family-based policy strategies for alleviating poverty. Applied understanding of quantitative social science research methods is helpful, but not required. T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3742a / AFAM 3929a, Managing Blackness in a \"White Space\" Elijah Anderson",
+    "courseid": "SOCY 3742a",
+    "coursedescription": "White space” is a perceptual category that assumes a particular space to be predominantly white, one where black people are typically unexpected, marginalized when present, and made to feel unwelcome—a space that blacks perceive to be informally “off-limits” to people like them and where on occasion they encounter racialized disrespect and other forms of resistance. This course explores the challenge black people face when managing their lives in this white space. SO M 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 3843a / ER&M 3083a, Central Americans in the U.S. Leigh-Anna Hidalgo and Katy Maldonado Dominguez",
+    "courseid": "SOCY 3843a",
+    "coursedescription": "This course is an interdisciplinary survey of the social, historical, political, economic, educational, and cultural experiences of Central American immigrants and their children in the United States. The primary objective of the course is to introduce students to several contemporary experiences and issues in the U.S. Central American community. Focusing mostly on Guatemalan, Honduran, and Salvadoran immigrants—the three largest groups in the United States—we explore the social structures that constrain individuals as well as the strategies and behaviors immigrants and their communities have taken to establish their presence and make a home in U.S. society and stay connected to their countries of origin. Students gain a critical understanding of Central American identities, particularly as these have been constructed through the intersection of race, ethnicity, gender, sexuality, and legal status. SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 4100a, Senior Essay and Colloquium for Nonintensive Majors Yuan Hsiao",
+    "courseid": "SOCY 4100a",
+    "coursedescription": "Independent library-based research under faculty supervision. To register for this course, students must submit a written plan of study approved by a faculty adviser to the director of undergraduate studies no later than the end of registration period in the term in which the senior essay is to be written. The course meets biweekly, beginning in the first week of the term. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 4200a, Senior Essay and Colloquium for Intensive Majors Alex Manning",
+    "courseid": "SOCY 4200a",
+    "coursedescription": "Independent research under faculty direction, involving empirical research and resulting in a substantial paper. Workshop meets biweekly to discuss various stages of the research process and to share experiences in gathering and analyzing data. The first meeting is in the second week of the term. W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SOCY 4701a, Individual Study Jonathan Wyrtzen",
+    "courseid": "SOCY 4701a",
+    "coursedescription": "Individual study for qualified juniors and seniors under faculty supervision. To register for this course, each student must submit to the director of undergraduate studies a written plan of study that has been approved by a faculty adviser. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SAST 2610a / HUMS 4501a / PHIL 1118a / RLST 1270a, Buddhist Thought: The Foundations Staff",
+    "courseid": "SAST 2610a",
+    "coursedescription": "This class introduces the fundamentals of Buddhist thought, focusing on the foundational doctrinal, philosophical, and ethical ideas that have animated the Buddhist tradition from its earliest days in India 2500 years ago down to the present, in places such as Tibet, China, and Japan. Though there will be occasional discussion of the social and practical contexts of the Buddhist religion, the primary focus of this course lies on how traditional Buddhist thinkers conceptualize the universe, think about the nature of human beings, and propose that people should live their lives. Our main objects of inquiry are therefore the foundational Buddhist ideas, and the classic texts in which those ideas are put forth and defended, that are broadly speaking shared by all traditions of Buddhism. In the later part of the course, we take up some of these issues in the context of specific, regional forms of Buddhism, and watch some films that provide glimpses of Buddhist religious life on the ground. HU 0 Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SAST 2620a / AMST 3303a / EP&E 247 / ER&M 3530a / FILM 2980a, Digital War Madiha Tahir",
+    "courseid": "SAST 2620a",
+    "coursedescription": "From drones and autonomous robots to algorithmic warfare, virtual war gaming, and data mining, digital war has become a key pressing issue of our times and an emerging field of study. This course provides a critical overview of digital war, understood as the relationship between war and digital technologies. Modern warfare has been shaped by digital technologies, but the latter have also been conditioned through modern conflict: DARPA (the research arm of the US Department of Defense), for instance, has innovated aspects of everything from GPS, to stealth technology, personal computing, and the Internet. Shifting beyond a sole focus on technology and its makers, this class situates the historical antecedents and present of digital war within colonialism and imperialism. We will investigate the entanglements between technology, empire, and war, and examine how digital war—also sometimes understood as virtual or remote war—has both shaped the lives of the targeted and been conditioned by imperial ventures. We will consider visual media, fiction, art, and other works alongside scholarly texts to develop a multidiscpinary perspective on the past, present, and future of digital war. none HU , SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SAST 2690a / HUMS 4598 / PHIL 4474 / RLST 2820a, Philosopher Queens of Hinduism and Buddhism Sonam Kachru",
+    "courseid": "SAST 2690a",
+    "coursedescription": "Inspired by the bestselling book The Philosopher Queens , this course seeks to make cognitive room for women in the history of Indian (and Indian Buddhist) philosophy, and to reflect on what making such room involves: we explore the arguments and concerns of neglected figures—some human (like Nanduttara or Lalleshwari), some not; some historical (Laksmikaradevi), some not—and explore philosophical concerns involved in the reconstruction of their voices and views. HU T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SAST 3030a / ANTH 4883a, In Ordinary Fashion Jane Lynch",
+    "courseid": "SAST 3030a",
+    "coursedescription": "Clothing fashions not only our bodies but also our experiences in and claims about the world. It has been used to define the nature and radical possibilities of indigeneity, anti-colonial nationalism, counter-cultural narratives, and capitalist critiques. At the same time, dress–and its social and legal regulation–also creates and reinforces social hierarchies, systems of morality, and forms of exclusion. This course centers these competing social realities and histories using clothing as a way into understanding the poetics and politics of everyday life. Readings include ethnographies and social histories of textiles, fashion, and the manufacture of garments including cases from India, Guatemala, Italy, China, Sri Lanka, Bangladesh, Trinidad, and the United States. SO T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SAST 3040b / ANTH 3858b, Corporations & Communities Jane Lynch",
+    "courseid": "SAST 3040b",
+    "coursedescription": "Can communities redefine corporations? How do corporations shape everyday life? To whom are they responsible? This course examines the relationship between commerce, society, and culture through a diverse set of case studies that are rooted in both global and local histories. Students learn about Henry Ford’s rubber plantations in the Amazon, family firms in Italy, how the East India Company shaped the modern multinational, the first company town to be established and run by an Indian firm, transnational “stakeholder” arrangements to compensate injured garment workers in Bangladesh, and the rise of “corporate social responsibility” culture. The goal of this course is not to define the relationship between corporations and communities as singular or obvious, but rather, to draw out the variety of factors—economic, historical, social, and cultural—that shape commercial interactions, institutional cultures, and claims about market ethics and social responsibility. HU , SO Th 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SAST 3340a / ER&M 3633a / HIST 3463a, Mobile South Asians and the Global Legal Order Rohit De",
+    "courseid": "SAST 3340a",
+    "coursedescription": "South Asians make up the largest population of overseas migrants in the world, close to 33 million in 2017 and a diaspora that is almost double that number. This course looks at the unprecedented mobility of South Asians from the mid-19th century until now as merchants, indentured labor, students, pilgrims, professionals, domestic workers, political exiles, refugees, and economic migrants, through the lens of state attempts to control movement and individual resistance, subversion, and adaptation to such controls. Focusing on the legal consciousness of South Asian migrants and the emergence of South Asian nations as political players on the global stage, this class traces how South Asian mobility led to the forging of a new global order, over migration, multiculturalism, Islamic law, civil liberties, labor law, and international law. WR , HU T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SAST 3450a / GLBL 226 / PLSC 3108a, National Security in India in the Twenty-first Century Sushant Singh",
+    "courseid": "SAST 3450a",
+    "coursedescription": "This course examines the state and dynamics of national security in India in the past two decades. As an emergent power, India is an important country in Asia, with its economic and geo-political strength noticed globally. A major share of the country’s heft comes from its national security paradigm which has undergone a significant shift in the twenty-first century. This course intends to take a holistic look at the conceptions for the basis of India's national security, its evolution, the current challenges and its future course by exploring its various dimensions such as China, Pakistan, global powers, Indian Ocean region, Kashmir, nuclear weapons, civil-military relations and defense preparedness. SO T 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SAST 3640a / HIST 3415a / HSHM 4740a, Health, Medicine and Science in Modern South Asia Gourav Krishna Nandi",
+    "courseid": "SAST 3640a",
+    "coursedescription": "In this seminar, we explore health, medicine, and science in South Asia during the 19th and 20th centuries, and examine how networks and circulations of medical knowledge, local and transnational actors, and anticolonial physicians and scientists shaped colonial modernities and postcolonial nationalism in the region. In the first part, we examine the establishment of colonial medicine in British India, colonial interventions during plague visitations, and approaches to famine and food in the 19th century. We explore how science in colonial India was intertwined with anticolonialism, and examine anticolonial arguments against famines using modern economic sciences. In the second part, we explore pluralist practices of medicine in colonial South Asia and analyze how diverse approaches of colonial Indian medical practitioners blur the categories of “traditional” and “modern” medicine. We then focus on colonial and postcolonial public health interventions—including, regulating poisons and adulterated food, population control, and vaccination campaigns—and their contestations. In the final part, we focus on the postcolonial state and explore how scientific nationalism shaped the postcolonial state’s approaches to modernization and development. We examine how Indian physicists and surgeons created and maintained knowledge networks using alliances on both sides of Cold War rivalries.\" WR , HU T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SAST 3760a / ANTH 2252a / RLST 3300a, Religion, Place, and Space Harini Kumar",
+    "courseid": "SAST 3760a",
+    "coursedescription": "This seminar explores why ‘placemaking’ is significant for practitioners of various religions worldwide. From the holy city of Mecca to the sacred landscape of Banaras in India, religious traditions are tethered to sacred geographies. These locations are often physical sites imbued with sacred energies and social meaning. Religious activities can occur in churches or mosques, forests or mountains, community centers, public squares, or homes. The course materials consider specific religious sites and contexts (including those on the Yale campus), examining how these places simultaneously become sites of worship, articulations of identity and heritage, claims of political significance, and hubs of social and emotional life. Special attention is given to how space and place are gendered, racialized, and shaped by emotions, senses, and memories. HU , SO MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Religious activities can occur in churches or mosques, forests or mountains, community centers, public squares, or homes."
+      ]
+    }
+  },
+  {
+    "coursename": "* SAST 3830b / ANTH 3873b, Water and Society: Culture, Life, and Values Staff",
+    "courseid": "SAST 3830b",
+    "coursedescription": "Water has become an urgent theme not just in current anthropology, but in development studies and environmental studies more generally. Beyond questions of scarcity and sustainability, water allows human life to flourish, and without water, there would be no civilization. Yet water is not equitably distributed across time or space, leading to contestation and conflict around water. Against such a background of strife, this course examines how human beings have related to water, to other life forms, and to each other through the control of water, in different historical moments and different parts of the world. The seminar is organized around four porous thematic clusters: (i) “urban water”, to do with cities and urban industrial life; (ii) “agrarian water”, to do with rivers, irrigation systems, and agrarian life; (iii) “rural water”, to do with coasts, lakes, dams and rural life; and (iv) and “living water”, to do with social, cultural and political values, and human and more-than-human life. This seminar introduces students to the everyday values of water, as well as the everyday politics of water, including the production of water and its attendant politics at the level of the nation-state as well as the city municipality while also being attentive to the moral ecologies of water. By studying water in different ways through the lens of culture, environment, social justice, and spirituality or faith, students develop a nuanced understanding of development, urbanization, environmental justice, and climate change. HU , SO W 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SAST 4860a, Directed Study Aleksandar Uskokov",
+    "courseid": "SAST 4860a",
+    "coursedescription": "A one-credit, single-term course on topics not covered in regular offerings. To apply for admission, a student should present a course description and syllabus to the director of undergraduate studies, along with written approval from the faculty member who will direct the study. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 0560a, First-Year Colloquium: Literary Studies in Spanish Noel Valis",
+    "courseid": "SPAN 0560a",
+    "coursedescription": "Introduction to the study of literature in general and to some of the most important texts in Hispanic literature. Selected texts in Spanish include short stories, novels, lyric, and theater. Open to students who have placed into L5 courses. Counts toward the requirements of the Spanish major. Enrollment limited to first-year students. L5 , HU MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to first-year students."
+      ]
+    }
+  },
+  {
+    "coursename": "* SPAN 1100a, Elementary Spanish I Staff",
+    "courseid": "SPAN 1100a",
+    "coursedescription": "For students who wish to begin study of the Spanish language. Development of basic skills in understanding, speaking, reading, and writing through a functional approach to the teaching of Spanish grammar. Includes an introduction to the cultures (traditions, art, literature, music) of the Spanish-speaking world. Audiovisual materials are incorporated into class sessions. Conducted in Spanish. To be followed immediately by SPAN 120. L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SPAN 1200a, Elementary Spanish II Staff",
+    "courseid": "SPAN 1200a",
+    "coursedescription": "Further development of understanding, speaking, reading, and writing skills. Class sessions incorporate short authentic texts in Spanish, audiovisual materials, and film. Cultural topics of the Spanish-speaking world (traditions, art, literature, music) are included. Conducted in Spanish. After SPAN 110 or in accordance with placement results. Admits to SPAN 130 or 145. L2 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 1250a, Intensive Elementary Spanish Lourdes Sabé",
+    "courseid": "SPAN 1250a",
+    "coursedescription": "An intensive beginning course in spoken and written Spanish that covers the material of SPAN 110 and 120 in one term. Conducted in Spanish. Admits to SPAN 130 or 145. Not open to students who have completed SPAN 110 or 120. L1 , L2 RP 2 Course cr MTWThF 9:25am-11:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SPAN 1300a, Intermediate Spanish I Staff",
+    "courseid": "SPAN 1300a",
+    "coursedescription": "Development of language proficiency in listening, speaking, reading, and writing through communicative activities rather than a sequence of linguistic units. Authentic Spanish language texts, films, and videos serve as the basis for the functional study of grammar and the acquisition of a broader vocabulary. Cultural topics are presented throughout the term. Prerequisites: Conducted in Spanish. Admits to SPAN 140. L3 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "SPAN 140",
+      "L3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "SPAN 1400a, Intermediate Spanish II Staff",
+    "courseid": "SPAN 1400a",
+    "coursedescription": "Continuation of SPAN 130. Development of increased proficiency in the four language skills. Greater precision in grammar usage, vocabulary enrichment, and expanded cultural awareness are achieved through communicative activities based on authentic Spanish-language texts, including a short novel. Conducted in Spanish. Admits to L5 courses. L4 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 1500a, Spanish for Heritage Speakers Staff",
+    "courseid": "SPAN 1500a",
+    "coursedescription": "SPAN 142 is exclusively designed for Spanish heritage language speakers. In this course, we analyze a wide array of compelling multimodal texts and genres (e.g., visual arts, music, film, literature, mythological narratives) to shed light on and celebrate the cultural productions and worldviews of four communities at the center of contemporary discussions pertaining to social justice and representation in Latin America and Latinx USA: women, indigenous communities, Afro-Latinos/as, and immigrants. The tasks and projects created around these texts will further advance your literacy and your command of mechanical aspects of the language while fostering a deeper understanding of various cultures in the Spanish-speaking world. After SPAN 130 or in accordance with placement results. L4 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2010a, Policies and Politics in the Spanish-Speaking World María Pilar Asensio-Manrique",
+    "courseid": "SPAN 2010a",
+    "coursedescription": "This course is a content-based course that looks to further increase your language proficiency and critical cultural awareness by engaging you with a wide array of compelling texts and media (e.g., legal texts, journalistic and opinion pieces, film, podcasts, literature) from various communities in Latin America and Spain. Through critical analyses of these texts and media, as well as through conversations with native speakers of Spanish in different countries, this course gives you an insider’s perspective of some of the most pressing political, social, and cultural issues in the Spanish-speaking world today. This course is organized into the following 4 thematic units: local perspectives from Latin American & Spanish cities; when quality education speaks a minority/minoritized language; healthcare as culture, healthcare as right; and let us write a Latin American constitution for all. Prerequisite: SPAN 140 or SPAN 142 or SPAN 145 or L5 placement L5 HTBA",
+    "course-prerequsities": [
+      "SPAN 140",
+      "SPAN 142",
+      "SPAN 145",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2015a, Spanish Language and Culture through Art Rosamaria Leon",
+    "courseid": "SPAN 2015a",
+    "coursedescription": "An advanced course designed to increase student’s fluency in oral and written skills. Through the exploration of five art themes relevant to Spanish speaking countries, students review advanced points of Spanish grammar, focus on vocabulary enrichment, and learn the basic principles of academic composition. The course approach for learning is a project-based model which introduces a wide variety of texts: readings, visual art, podcast, music, videos. Students are required to register for a recitacion practice that consists of a weekly 40-minute conversation with students from Pontificia Universidad Católica del Perú. Prerequisite: AP with score of 5/ IB score of 7, Placement in L5 through Spanish Department placement exam or by having completed L4. L5 , HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "L5",
+      "L4",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2020a / LAST 2223a, Spanish in Film: An Introduction to the New Latin American Cinema Staff",
+    "courseid": "SPAN 2020a",
+    "coursedescription": "Development of proficiency in Spanish through analysis of critically acclaimed Latin American films. Includes basic vocabulary of film criticism in Spanish as well as discussion and language exercises. Enrollment limited to 18. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to 18."
+      ]
+    }
+  },
+  {
+    "coursename": "* SPAN 2040a, Languaging in Latino America Jorge Méndez-Seijas",
+    "courseid": "SPAN 2040a",
+    "coursedescription": "This interdisciplinary seminar explores the dynamic nature of the languages and identities that shape and are shaped by Latino communities in the United States. Critical sociolinguistics, literature, art, history, and politics are some of the disciplines that guide our discussions as we try to better understand how different groups of Latinos/as have developed some of their linguistic and cultural products, practices, and perspectives. While engaging with the intricacies of language use, identity, and power dynamics in Latino America, this course seamlessly integrates a series of activities and assignments intended to help students hone their knowledge of Spanish while further expanding their multiple literacies. Prerequisite: SPAN 1400 , SPAN 1450 , SPAN 1500 , or L5 placement. L5 , HU HTBA",
+    "course-prerequsities": [
+      "SPAN 1400",
+      "SPAN 1450",
+      "SPAN 1500",
+      "L5"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2050a / LAST 2222a, Legal Spanish Mercedes Carreras",
+    "courseid": "SPAN 2050a",
+    "coursedescription": "An introduction to Spanish and Latin American legal culture with a focus on the specific traits of legal language and on the development of advanced language competence. Issues such as human rights, the death penalty, the jury, contracts, statutory instruments, and rulings by the constitutional courts are explored through law journal articles, newspapers, the media, and mock trials. Enrollment limited to 18. A maximum of one course in the 200-230 range may count as an elective toward the Spanish major. L5 HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to 18."
+      ]
+    }
+  },
+  {
+    "coursename": "SPAN 2090a / FILM 2167a / LAST 2165a / PORT 2165a / WGSS 2165a, Through the Lens of Memory: Other Perspectives on Dictatorships in Latin America and Iberia Giseli Tordin",
+    "courseid": "SPAN 2090a",
+    "coursedescription": "This course examines the cinematic portrayals of military dictatorships in Brazil, Argentina, Chile, Spain, and Portugal, exploring how film serves as both a historical document and a means to reinterpret and reconstruct the past. As a language course, it allows students to engage with multiple modes of meaning–linguistic, visual, auditory, tactile, gestural, and spatial–through which cinema conveys its narratives. Students analyze how films reconstruct memory, challenge hegemonic historiography, and reinscribe erased or silenced perspectives. The course reflects on the relevance of these works in contemporary struggles against violence and oppression, considering how they teach us to critically engage with power, resistance, and collective memory. It also focuses on women's cinematic productions and representations, examining how gender, race, and political resistance intersect in the visual representation of repression, violence, and memory. The course incorporates both Spanish and Portuguese, encouraging students to express their ideas and develop projects in either language. Languages: Portuguese and Spanish. Prerequisite: PORT 1400 (or equivalent) or SPAN 1400 (or equivalent). L5 , HU MW 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "PORT 1400",
+      "SPAN 1400",
+      "L5",
+      "MW 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2100a / LAST 2227a, Creative Writing Mayte López",
+    "courseid": "SPAN 2100a",
+    "coursedescription": "An introduction to the writing of fiction, poetry, and creative nonfiction, with a focus on developing techniques and abilities that are essential for crafting imaginative texts and honing self-expression. Through in-class tasks, substantive discussions on composition and craft, and analyses of contemporary Latinx, Latin American, and Spanish works, students enhance their writing skills and nurture their unique voices as writers. This course takes on the format of a workshop, with students receiving constructive feedback from both the instructor and their fellow writers. Conducted in Spanish. Enrollment limited to 15. A maximum of one course in the 200-230 range may count as an elective toward the Spanish major. L5 , HU HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited to 15."
+      ]
+    }
+  },
+  {
+    "coursename": "SPAN 2145a / ER&M 1678a / LAST 2228a, Borders & Globalization in Hispanophone Cultures Luna Najera",
+    "courseid": "SPAN 2145a",
+    "coursedescription": "The borders that constitute the geographical divisions of the world are contingent, but they can have enormous ordering power in the lives of people and other beings. Human-made borders can both allow and disallow the flow of people and resources (including goods, knowledge, information, technologies, etc.). Like geographical borders, social borders such as race, caste, class, and gender can form and perpetuate privileged categories of humans that constrain the access of excluded persons to resources, education, security, and social mobility. Thus, bordering can differentially value human lives. Working with the premise that borders are sites of power, in this course we study bordering and debordering practices in the Hispanic cultures of Iberia, Latin America, and North America, from the 1490s to the present. Through analyses of a wide range of texts that may include treatises, maps, travel literature, visual culture, material culture (e.g., currency), law, music, and performance art, students investigate the multiple ways in which social, cultural, and spatial borders are initiated, expressed, materialized, and contested. More broadly, we explore, describe, and trace the entanglements of bordering, globalizations, and knowledge production in Hispanophone cultures. Some of the questions that will guide our conversations are: What are (social) borders and what are the processes through which they persist? How do the effects of practices that transcend borders (e.g., environmental pollution, deforestation) change our understanding of borders? What can we learn from indigenous peoples’ responses to bordering process and globalization? Prerequisite: SPAN 140 or 145, or in accordance with placement results. The course is conducted entirely in Spanish. Readings are available electronically through Canvas and the University Library. To be conducted in Spanish. L5 , HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "SPAN 140",
+      "145",
+      "L5",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "How do the effects of practices that transcend borders (e.g., environmental pollution, deforestation) change our understanding of borders?"
+      ]
+    }
+  },
+  {
+    "coursename": "* SPAN 2155a / EVST 2232a, Ecological Mindfulness: Poetics and Praxis in the Spanish-Speaking World Sarah Glenski",
+    "courseid": "SPAN 2155a",
+    "coursedescription": "What is our relationship with nature? What constitutes ecological mindfulness? Does the practice of ecological mindfulness constitute a poetics? Is art a form of ecological mindfulness? These are some of the questions that we consider as we examine the concept of ecological mindfulness as an intersection of poetics and praxis. Throughout the semester, we explore a wide array of artistic expressions (essays, short stories, sound, poetry, photography, painting, etc.), which allows us to both appreciate and interrogate the many ways in which interactions with nature are depicted and performed in different Hispanophone cultures. Our analysis of these texts is complemented by carrying out and reflecting upon our own practice of ecological mindfulness. This course is taught in Spanish. Prerequisite: SPAN 140, or SPAN 142, or SPAN 145, or equivalent L5 , HU MW 9am-10:15am",
+    "course-prerequsities": [
+      "SPAN 140",
+      "SPAN 142",
+      "SPAN 145",
+      "L5",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2200a, Cultural Inquiries: Spain, Latin America, and the Latinx World Olivia Lott",
+    "courseid": "SPAN 2200a",
+    "coursedescription": "This course offers an in-depth exploration of the cultural landscapes of Latin America, Spain, and the Latinx world, providing students with specialized terminology and methodologies essential for studying cultural production. Organized around four thematic modules, students engage with a variety of cultural forms, including literature, film, and visual art, spanning different historical periods and geographical regions. This course is mandatory for Spanish majors, bridging previous language and culture courses with advanced levels of study. HU TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2310a / LAST 2266a, Critical Contexts in Colonial Latin America Lisa Voigt",
+    "courseid": "SPAN 2310a",
+    "coursedescription": "This course offers a panoramic introduction to the written and visual cultural production of colonial Latin America (ca. 1492-1800). Organized chronologically and guided by the methodology of close reading, we analyze works of various genres and formats whose creators were of Indigenous, African, Spanish, and mestizo descent. We investigate how these texts reveal, critique, reimagine, or participate in the power relations of multiethnic societies founded on conquest, colonization, and slavery. Among our objectives is the development of the skills of critical analysis of texts written in Spanish, which we pursue through class discussion, oral presentations, and written and creative projects. L5 , HU MW 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 2510a / LAST 2261a, Critical Contexts in Medieval and Early Modern Iberia Jesus Velasco",
+    "courseid": "SPAN 2510a",
+    "coursedescription": "This course offers a panoramic introduction to Iberian written cultures from the medieval to early modern period (ca. 800-1700). Organized chronologically and guided by the methodology of close reading, we will analyze a wide range of concepts and topics relevant for understanding the multilingual, multireligious contexts in which literary and non-literary works were produced, including knowledge and hospitality; borders and negotiation; authority and power; autobiography and eyewitness narrative accounts; courtly love and love sickness; makeup and cosmetic theory; prostitution and public health; gender dissidence and transgressive bodies; masculinities and misogyny; economic crisis and decline; black Africans and the African diaspora; the Inquisition and religious orthodoxy. Open to students who have placed into L5 courses or who have successfully completed an L4 course in Spanish. Counts toward the major in Spanish. L5 , HU MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 3385a / CPLT 3385a, Hemispheric Poetics & Politics Olivia Lott",
+    "courseid": "SPAN 3385a",
+    "coursedescription": "This course offers a survey of hemispheric poetics and politics. We examine pivotal moments of US-Latin American history and their subsequent representation or interrogation in Latin American and US Latinx poetry. We cover much of the 20th and 21st centuries, including the so-called Banana Wars, the disintegration of the Good Neighbor era, the inter-American Cold War, US-backed dictatorships and occupations, the neoliberal national security complex, and how these foreign policies “come home.” Writing in real time or decades later, we consider how poets “sing,” witness, document, confront, or denaturalize these hemispheric realities, write in tension or collaboration with others across borders, and create transformative knowledges that allows us to see—and read—the American hemisphere differently. We aim to cultivate a South-to-North comparative approach, centering Latin American and US Latinx poets, and Spanish-language poetic accounts of these hemispheric encounters. Taught in Spanish. Prerequisites: Open to students who have placed into L5 courses or who have successfully completed an L4 course in Spanish. Counts toward the Spanish major. First-year students will not be admitted into the course. L5 , HU TTh 9am-10:15am",
+    "course-prerequsities": [
+      "L5",
+      "L4",
+      "9AM-10"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 3525a / WGSS 4403a, Women Writers of Spain Noel Valis",
+    "courseid": "SPAN 3525a",
+    "coursedescription": "The development of women's writing in Spain, with a focus on the modern era. Equal attention to the sociohistorical and cultural contexts of women writers and to the narrative and poetic strategies the authors employed. Some readings from critical and theoretical works. L5 , HU MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 3565a / CPLT 3565a / PORT 3230a / TDPS 3051a, Staging Early Iberian Drama Nicholas Jones",
+    "courseid": "SPAN 3565a",
+    "coursedescription": "This course examines the construction and representation of class, gender, power, race, and sexuality in early Iberian drama. Taking a chronological frame, we cover these themes beginning with medieval Iberian pageantry and ending with the works of Pedro Calderón de la Barca and Sor Juana Inés de la Cruz. To guide and nuance our class discussions and readings, we interrogate the staging and performance of class, gender, race, and sexuality along the lines of: courtly and civic coronations, pageantry, and tournaments; the Renaissance underworld of La Celestina ; the short-skit interludes of Lope de Rueda; Lope de Vega and the comedia nueva ; African dances and blackface performance; cross-dressing and gender dissidence in Tirso de Molina and Sor Juana; queer readings of Agustín Moreto’s El lindo Don Diego ; celebrity and the stardom of actors; clothing, cosmetics, and stage props; and, architecture, urban space and cities. L5 , HU MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 3570a, Revolutionary Barcelona Aurelie Vialette",
+    "courseid": "SPAN 3570a",
+    "coursedescription": "This course explores the many facets of Barcelona, a city through which students can understand social tensions, working-class revolts, Spain’s civil war and the legacies of slavery in today’s world. L5 , HU MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 4600a / ER&M 3592a / HSAR 4492a, Visual Encounters in the Early Modern Atlantic Catalina Ospina and Lisa Voigt",
+    "courseid": "SPAN 4600a",
+    "coursedescription": "This course examines the visual, material, and human flows that connected Africa, Europe, and the Americas between 1450 and 1850 and gave its contours to the early modern Atlantic World. Students explore the role of the visual in key institutions and phenomena that emerged in the circum-Atlantic and continue to cast their long shadow over the contemporary world. Topics include: colonialism, the slave trade, blackness and indigeneity, scientific exploration, religious encounters, and revolt. HU T 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 4605a / LAST 2605a, Pacific Bridges: Asian Diasporas Across Latin America Inês Forjaz de Lacerda and Anibal González-Pérez",
+    "courseid": "SPAN 4605a",
+    "coursedescription": "What do Borges and Bashō have in common? Why is K-Pop so popular in places like Chile and Brazil? And what can Shōgun teach us about the world? In this course, we dive into the unexpected connections between Asia and Latin America, tracing stories of migration, cultural fusion, and artistic exchange from colonial encounters to today’s global pop culture. Our travels take us from early modern Japan, India, and the Philippines to today’s Cuba, Brazil, Peru, and Argentina, with several other stops along the way. Through literature, film, music, and anime, we explore how Asian diasporas shaped, and were shaped by, the Spanish- and Portuguese-speaking worlds. Readings include Jorge Luis Borges, Cristina García, Chen Li, Augusto Higa Oshiro, Octavio Paz, Adriana Lisboa, and José Watanabe, among others. All materials are in English, with optional readings in Spanish and Portuguese for those interested in the original texts. Taught in English. TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "All materials are in English, with optional readings in Spanish and Portuguese for those interested in the original texts."
+      ]
+    }
+  },
+  {
+    "coursename": "* SPAN 4610a / RLST 3400a, The World(ing) of Tarot Todne Thomas and Nicholas Jones",
+    "courseid": "SPAN 4610a",
+    "coursedescription": "This course takes an interdisciplinary approach to the exploration of tarot. It joins together religious studies, social scientific, historical, and aesthetic approaches to teach about contexts of practice, genealogies of tarot phenomena, and their visuality. It establishes a foundational knowledge of tarot by exploring popular culture (mis)representations, tracing its longstanding eclectic history, and studying its archetypes. Conceptually, the course uses tarot as an avenue to discuss conceptual themes of materiality and aesthetics, esotericism, politics, gender, culture, and worlding. Through this guided study of tarot, we explore tarot’s enduring, yet contested appeal and relativize Western epistemologies, including that of the academy itself. MW 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 4618b / ANTH 4818b / ER&M 4518b and ER&M 6606b / WGSS 4518b, Multi-Sited Ethnography: Trans-Atlantic Port Cities in Colombia and Spain Eda Pepi and Ana Ramos-Zayas",
+    "courseid": "SPAN 4618b",
+    "coursedescription": "Critical to colonial, imperial, and capitalist expansion, the Atlantic offers a dynamic setting for adapting ethnographic practices to address questions around interconnected oppressions, revolts, and revolutions that are foundational to global modernity. Anchored in a Spanish and a Colombian port city, this course engages trans-Atlantic 'worlding' through a multi-sited and historically grounded ethnographic lens. Las Palmas—the earliest mid-Atlantic port and Europe's first settler colony in Africa—and Cartagena—once the principal gateway connecting Spain and its American empire—illuminate urgent contemporary issues such as climate, displacement, inter-regional subjectivities, and commerce. During a spring recess field experience (March 8–16, 2026), students immerse themselves for four nights each in Las Palmas and Cartagena, developing critical \"tracking\" skills that bridge ethnographic practice with cultural theory. Preparation for fieldwork includes an on-campus curriculum, organized around Cartagena and Las Palmas, and sessions with Yale Ethnography Hub faculty, covering different methodologies. As part of this broader programming, the curriculum delves into trans-Atlantic migrations from the Middle East, South Asia, and Africa that have transformed port cities, labor and aesthetic practices, class-making racial formations, and global geopolitics. After recess, the course shifts toward independent work, as students synthesize field-collected data and insights into a collaborative multimodal group project and individual ethnographic papers. Interested students must apply by November 1st via the course website. Students may withdraw by the university deadlines in April. Prerequisite: Conversational and reading proficiency in Spanish. Readings are in English and Spanish, with assignments accepted in either language. HU Th 1:30pm-3:20pm",
+    "course-prerequsities": [
+      "TH 1",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Interested students must apply by November 1st via the course website."
+      ]
+    }
+  },
+  {
+    "coursename": "* SPAN 4900a, The Senior Project Aurelie Vialette",
+    "courseid": "SPAN 4900a",
+    "coursedescription": "A research project completed under faculty supervision and resulting in an essay of considerable length, or its equivalent in another medium, in Spanish. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* SPAN 4903a, Directed Readings and/or Individual Research Aurelie Vialette",
+    "courseid": "SPAN 4903a",
+    "coursedescription": "Individual study under faculty supervision. The student must submit a bibliography and a written plan of study approved by the faculty adviser to the director of undergraduate studies. No reading or research course credit is granted without prior approval from the director of undergraduate studies. The student must meet with the instructor at least one hour a week. A final examination or essay is required. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 1000a or b, Introductory Statistics Ethan Meyers",
+    "courseid": "S&DS",
+    "coursedescription": "An introduction to statistical reasoning. Topics include numerical and graphical summaries of data, data acquisition and experimental design, probability, hypothesis testing, confidence intervals, correlation, regression, multiple regression, and ANOVA. Application of statistical concepts to data; analysis of real-world problems. A basic introduction to the R programming language. May not be taken after S&DS 1080 or 1090 . QR HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 1230a or b / CPSC 1230a or b / PLSC 3508a or b / S&DS 5230a or b, YData: An Introduction to Data Science Staff",
+    "courseid": "S&DS",
+    "coursedescription": "Computational, programming, and statistical skills are no longer optional in our increasingly data-driven world; these skills are essential for opening doors to manifold research and career opportunities. This course aims to dramatically enhance knowledge and capabilities in fundamental ideas and skills in data science, especially computational and programming skills along with inferential thinking. YData is an introduction to Data Science that emphasizes the development of these skills while providing opportunities for hands-on experience and practice. YData is accessible to students with little or no background in computing, programming, or statistics, but is also engaging for more technically oriented students through extensive use of examples and hands-on data analysis. Python 3, a popular and widely used computing language, is the language used in this course. The computing materials will be hosted on a special purpose web server. QR HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* S&DS 1720a / EP&E 328 / EP&E 4328a / PLSC 2509a, YData: Data Science for Political Campaigns Joshua Kalla",
+    "courseid": "S&DS",
+    "coursedescription": "Political campaigns have become increasingly data driven. Data science is used to inform where campaigns compete, which messages they use, how they deliver them, and among which voters. In this course, we explore how data science is being used to design winning campaigns. Students gain an understanding of what data is available to campaigns, how campaigns use this data to identify supporters, and the use of experiments in campaigns. This course provides students with an introduction to political campaigns, an introduction to data science tools necessary for studying politics, and opportunities to practice the data science skills presented in S&DS 123, YData. QR W 1:30pm-3:20pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* S&DS 1730b, YData: Analysis of Baseball Data Ethan Meyers",
+    "courseid": "S&DS",
+    "coursedescription": "The fields of data science aim to extract insights from large data sets that often contain random variation. Baseball is a game that contains a high degree of randomness, and because professional baseball has been played since the 19th century, a large amount of data has been collected about players' performance. In this class we use baseball data to understand key concepts in data science including data visualization, data wrangling, and statistical inference. To understand these concepts, we analyze data include season-level statistics going back to the 1870’s, play-by-play statistics going back to the 1930’s and pitch trajectory statistics going back to 2006. The course uses the Python programming language and is paced to be accessible to students who have previously taken or are currently enrolled in S&DS 123. QR HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* S&DS 1790a, Data Science Applications in Insurance Perry Beaumont",
+    "courseid": "S&DS",
+    "coursedescription": "The insurance industry is becoming increasingly data driven. Data Science can be used to inform where new market opportunities are emerging, where risks are growing, how insurance policies can be more optimally structured, and ways claims can be more meaningfully managed. In exploration of these topics, flood insurance claims maintained by the Federal Emergency Management Agency (FEMA) and available in a data set with over 2.6 million rows and 40 data fields, serve as a north star in our analytic journey. We address issues that can arise when working with real-world data collection, along with related strategies for handling data that may be incomplete or simply messy. This course provides opportunities for students to extend the data science skills acquired in computationally-oriented introductory statistics courses, using new applications relevant to the financial services industry. The data science skills presented in a computationally oriented introductory course (S&DS 123, 220, or 230), and previous use of R are suggested. QR MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 2200b, Introductory Statistics, Intensive Robert Wooster",
+    "courseid": "S&DS",
+    "coursedescription": "Introduction to statistical reasoning for students with particular interest in data science and computing. Using the R language, topics include exploratory data analysis, probability, hypothesis testing, confidence intervals, regression, statistical modeling, and simulation. Computing taught and used extensively, as well as application of statistical concepts to analysis of real-world data science problems. MATH 115 is helpful but not required. While no particular prior experience in computing is required, strong motivation to practice and learn computing are desirable. QR TTh 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Introduction to statistical reasoning for students with particular interest in data science and computing."
+      ]
+    }
+  },
+  {
+    "coursename": "* S&DS 2240a, Dice, Data, and Decisions - The Statistics of Board Game Strategy Robert Wooster",
+    "courseid": "S&DS",
+    "coursedescription": "This course provides a hands-on application of data analysis, simulation, and probability theory to the world of board games and traditional games of chance. Class lessons will be a combination of lecture, computing labs, and actually learning and playing games! Topics include analyzing board game strategy using probability theory, probabilistic modeling using simulation in R, and exploration and analysis of both simulated and real game board game data. One of S&DS 100, 123, 220, or 230, and experience in the R statistical programming language. QR TTh 4pm-5:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 2300a or b, Data Exploration and Analysis Jonathan Reuning-Scherer",
+    "courseid": "S&DS",
+    "coursedescription": "Survey of statistical methods: plots, transformations, regression, analysis of variance, clustering, principal components, contingency tables, and time series analysis. The R computing language and Web data sources are used. Prerequisite: a 100-level Statistics course or equivalent, or with permission of instructor. QR HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisite: a 100-level Statistics course or equivalent, or with permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "S&DS 2380a, Probability and Bayesian Statistics Robert Wooster",
+    "courseid": "S&DS",
+    "coursedescription": "Fundamental principles and techniques of probabilistic thinking, statistical modeling, and data analysis. Essentials of probability, including conditional probability, random variables, distributions, law of large numbers, central limit theorem, and Markov chains. Statistical inference with emphasis on the Bayesian approach: parameter estimation, likelihood, prior and posterior distributions, Bayesian inference using Markov chain Monte Carlo. Introduction to regression and linear models. Computers are used for calculations, simulations, and analysis of data. After or concurrently with MATH 118 or 120. QR TTh 1pm-2:15pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 2400b, An Introduction to Probability Theory Robert Wooster",
+    "courseid": "S&DS",
+    "coursedescription": "Introduction to probability theory. Topics include probability spaces, random variables, expectations and probabilities, conditional probability, independence, discrete and continuous distributions, central limit theorem, Markov chains, and probabilistic modeling. This course counts towards the Data Science certificate but not the Statistics and Data Science major. Prerequisite: MATH 115. QR TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "MATH 115",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 2410a / MATH 2410a, Probability Theory Sinho Chewi",
+    "courseid": "S&DS",
+    "coursedescription": "Introduction to probability theory. Topics include probability spaces, random variables, expectations and probabilities, conditional probability, independence, discrete and continuous distributions, central limit theorem, Markov chains, and probabilistic modeling. After or concurrently with MATH 120 or equivalent. QR MW 9am-10:15am",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 2420b / MATH 2420b, Theory of Statistics Zhou Fan",
+    "courseid": "S&DS",
+    "coursedescription": "Study of the principles of statistical analysis. Topics include maximum likelihood, sampling distributions, estimation, confidence intervals, tests of significance, regression, analysis of variance, and the method of least squares. Some statistical computing. After S&DS 241 and concurrently with or after MATH 222 or 225, or equivalents. QR MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 2650b, Introductory Machine Learning John Lafferty",
+    "courseid": "S&DS",
+    "coursedescription": "This course covers the key ideas and techniques in machine learning without the use of advanced mathematics. Basic methodology and relevant concepts are presented in lectures, including the intuition behind the methods. Assignments give students hands-on experience with the methods on different types of data. Topics include linear regression and classification, tree-based methods, clustering, topic models, word embeddings, recurrent neural networks, dictionary learning and deep learning. Examples come from a variety of sources including political speeches, archives of scientific articles, real estate listings, natural images, and several others. Programming is central to the course, and is based on the Python programming language. Prerequisites: Two of the following courses: S&DS 230, 238, 240, 241 and 242; previous programming experience (e.g., R, Matlab, Python, C++), Python preferred. QR HTBA",
+    "course-prerequsities": [
+      "DS 230",
+      "242"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 3120a, Linear Models Zongming Ma",
+    "courseid": "S&DS",
+    "coursedescription": "The geometry of least squares; distribution theory for normal errors; regression, analysis of variance, and designed experiments; numerical algorithms, with particular reference to the R statistical language. After S&DS 242 and MATH 222 or 225. QR MW 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 3510b / EENG 434 / MATH 2510b, Stochastic Processes Ilias Zadik",
+    "courseid": "S&DS",
+    "coursedescription": "Introduction to the study of random processes including linear prediction and Kalman filtering, Poison counting process and renewal processes, Markov chains, branching processes, birth-death processes, Markov random fields, martingales, and random walks. Applications chosen from communications, networking, image reconstruction, Bayesian statistics, finance, probabilistic analysis of algorithms, and genetics and evolution. Prerequisite: S&DS 241 or equivalent. QR MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "DS 241",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 3520b / MB&B 3520b / MCDB 3520b, Biomedical Data Science, Mining and Modeling Mark Gerstein and Matthew Simon",
+    "courseid": "S&DS",
+    "coursedescription": "Techniques in data mining and simulation applied to bioinformatics, the computational analysis of gene sequences, macromolecular structures, and functional genomics data on a large scale. Sequence alignment, comparative genomics and phylogenetics, biological databases, geometric analysis of protein structure, molecular-dynamics simulation, biological networks, microarray normalization, and machine-learning approaches to data integration. Prerequisites: MB&B 301 and MATH 115, or permission of instructor. SC 0 Course cr MW 1pm-2:15pm",
+    "course-prerequsities": [
+      "B 301",
+      "MATH 115",
+      "SC 0",
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Prerequisites: MB&B 301 and MATH 115, or permission of instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "S&DS 3610b / AMTH 3610b, Data Analysis Brian Macdonald",
+    "courseid": "S&DS",
+    "coursedescription": "Selected topics in statistics explored through analysis of data sets using the R statistical computing language. Topics include linear and nonlinear models, maximum likelihood, resampling methods, curve estimation, model selection, classification, and clustering. Extensive use of the R programming language. Experience with R programming (from e.g. S&DS 106, S&DS 220, S&DS 230, S&DS 242), probability and statistics (e.g. S&DS 106, S&DS 220, S&DS 238, S&DS 241, or concurrently with S&DS 242), linear algebra (e.g. MATH 222, MATH 225, MATH 118), and calculus is required. This course is a prerequisite for S&DS 425 and may not be taken after S&DS 425. QR TTh 2:30pm-3:45pm",
+    "course-prerequsities": [
+      "DS 425",
+      "TTH 2",
+      "30PM-3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 3630b, Multivariate Statistics for Social Sciences Jonathan Reuning-Scherer",
+    "courseid": "S&DS",
+    "coursedescription": "Introduction to the analysis of multivariate data as applied to examples from the social sciences. Topics include principal components analysis, factor analysis, cluster analysis (hierarchical clustering, k-means), discriminant analysis, multidimensional scaling, and structural equations modeling. Extensive computer work using either SAS or SPSS programming software. Prerequisites: knowledge of basic inferential procedures and experience with linear models. QR TTh 1pm-2:15pm",
+    "course-prerequsities": [
+      "1PM-2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 3640b / AMTH 3640b / EENG 454, Information Theory Yihong Wu",
+    "courseid": "S&DS",
+    "coursedescription": "Foundations of information theory in communications, statistical inference, statistical mechanics, probability, and algorithmic complexity. Quantities of information and their properties: entropy, conditional entropy, divergence, redundancy, mutual information, channel capacity. Basic theorems of data compression, data summarization, and channel coding. Applications in statistics and finance. After STAT 241. QR TTh 11:35am-12:50pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 3650a or b, Intermediate Machine Learning Staff",
+    "courseid": "S&DS",
+    "coursedescription": "S&DS 365 is a second course in machine learning at the advanced undergraduate or beginning graduate level. The course assumes familiarity with the basic ideas and techniques in machine learning, for example as covered in S&DS 265. The course treats methods together with mathematical frameworks that provide intuition and justifications for how and when the methods work. Assignments give students hands-on experience with machine learning techniques, to build the skills needed to adapt approaches to new problems. Topics include nonparametric regression and classification, kernel methods, risk bounds, nonparametric Bayesian approaches, graphical models, attention and language models, generative models, sparsity and manifolds, and reinforcement learning. Programming is central to the course, and is based on the Python programming language and Jupyter notebooks. Prerequisites: a background in probability and statistics at the level of S&DS 242; familiarity with the core ideas from linear algebra, for example through Math 222; and computational skills at the level of S&DS 265 or CPSC 200. QR HTBA",
+    "course-prerequsities": [
+      "DS 242",
+      "MATH 222",
+      "DS 265",
+      "CPSC 200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 4000a / MATH 3300a, Advanced Probability Shuangping Li",
+    "courseid": "S&DS",
+    "coursedescription": "Measure theoretic probability, conditioning, laws of large numbers, convergence in distribution, characteristic functions, central limit theorems, martingales. Some knowledge of real analysis assumed. QR TTh 2:30pm-3:45pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 4100a, Statistical Inference Theodor Misiakiewicz",
+    "courseid": "S&DS",
+    "coursedescription": "A systematic development of the mathematical theory of statistical inference covering methods of estimation, hypothesis testing, and confidence intervals. An introduction to statistical decision theory. Prerequisite: level of S&DS 241. TTh 11:35am-12:50pm",
+    "course-prerequsities": [
+      "DS 241",
+      "TTH 11",
+      "35AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* S&DS 4250a or b, Statistical Case Studies Staff",
+    "courseid": "S&DS",
+    "coursedescription": "Statistical analysis of a variety of statistical problems using real data. Emphasis on methods of choosing data, acquiring data, assessing data quality, and the issues posed by extremely large data sets. Extensive computations using R statistical software. Prerequisites: S&DS 361, and prior course work in probability, statistics, and data analysis (e.g. 363, 365, 220, 230, etc., equivalent courses, or equivalent research/internship experience). Enrollment limited; requires permission of the instructor. QR HTBA",
+    "course-prerequsities": [
+      "DS 361",
+      "G. 363"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; requires permission of the instructor."
+      ]
+    }
+  },
+  {
+    "coursename": "* S&DS 4800a or b, Individual Studies Sekhar Tatikonda",
+    "courseid": "S&DS",
+    "coursedescription": "Directed individual study for qualified students who wish to investigate an area of statistics not covered in regular courses. A student must be sponsored by a faculty member who sets the requirements and meets regularly with the student. Enrollment requires a written plan of study approved by the faculty adviser and the director of undergraduate studies. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "S&DS 4910a and S&DS 4920b, Senior Project Brian Macdonald",
+    "courseid": "S&DS",
+    "coursedescription": "Individual research that fulfills the senior requirement. Requires a faculty adviser and DUS permission. The student must submit a written report about results of the project. HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Requires a faculty adviser and DUS permission."
+      ]
+    }
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "coursename": "DTCH 0020 Amsterdam at 750: Exploring Culture, Society, and Policy in the Dutch Capital",
+    "courseid": "DTCH 0020",
+    "coursedescription": "Join us on an immersive journey through the vibrant city of Amsterdam as it celebrates its 750th anniversary. This seminar will delve into the rich tapestry of Dutch culture, society, and policy, offering a unique perspective guided by a native Dutch academic (who celebrated Amsterdam’s 700th in 1975!). Through a series of virtual trips, classroom discussions, readings, and multimedia resources, participants will gain an understanding of Amsterdam's past, present, and future. Not Offered Every Year Also Offered As: GRMN 0020 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 0100 Elementary Dutch I",
+    "courseid": "DTCH 0100",
+    "coursedescription": "A first semester language course covering the core Dutch grammar and vocabulary with the goal of providing the corner stone for developing overall linguistic proficiency in Dutch. Fall Mutually Exclusive: DTCH 5010 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 0200 Elementary Dutch II",
+    "courseid": "DTCH 0200",
+    "coursedescription": "Continuation of DTCH 0100 . Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 0300 Intermediate Dutch I",
+    "courseid": "DTCH 0300",
+    "coursedescription": "A third semester Dutch language course. The emphasis lies on vocabulary expansion through the use of audio-taped materials and readings. Grammar is expanded beyond the basics and focuses on compound sentences, features of text coherence and idiomatic language usage. Fall Mutually Exclusive: DTCH 5030 Prerequisite: DTCH 0200 1 Course Unit",
+    "course-prerequsities": [
+      "DTCH 0200"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 0400 Intermediate Dutch II",
+    "courseid": "DTCH 0400",
+    "coursedescription": "A fourth semester Dutch language course. Spring Mutually Exclusive: DTCH 5040 Prerequisite: DTCH 0300 1 Course Unit",
+    "course-prerequsities": [
+      "DTCH 0300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 1153 Is Europe Facing a Spiritual Crisis?",
+    "courseid": "DTCH 1153",
+    "coursedescription": "Is Europe Facing a Spiritual Crisis? On Contemporary Debates about Secularization, Religion and Rationality. Point of departure for this course is the difference between Europe and the US as to the role of religion in the unfolding of their respective \"cultural identities\" (cf. Charles Taylor, A Secular Age, 522-530). As a rule, both the US and Western Europe are now defined as secularized cultures, even if their histories and specific identities are strongly rooted in the Christian heritage. Given this contemporary situation, four research questions will be dealt with in this course. 1) What is meant by secularization? In answer to that question, two secularization theories are distinguished: the classic versus the alternative secularization thesis; 2) What is the historical impact of the nominalist turning-point at the end of the Middle Ages in this process towards secularization? 3) How did the relation between rationality and religion develop during modern times in Europe? 4) What is the contemporary outcome of this evolution in so-called postmodern / post-secular Europe and US? We currently find ourselves in this so-called postmodern or post-secular period, marked by a sensitivity to the boundaries of (modern) rationality and to the fragility of our (modern) views on man, world and God. In this respect, we will focus on different parts of Europe (Western and Eastern Europe alike) and will refer to analogies and differences between Western Europe and US. This historical-thematic exposition is illustrated by means of important fragments from Western literature (and marginally from documents in other arts) and philosophy. We use these fragments in order to make more concrete the internal philosophical evolutions in relation to corresponding changes in diverse social domains (religion, politics, economy, society, literature, art...). Spring Also Offered As: GRMN 1153 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 2300 Topics in Dutch Studies",
+    "courseid": "DTCH 2300",
+    "coursedescription": "Topics vary. Not Offered Every Year Also Offered As: GRMN 2300 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 2610 Early Netherlandish Painting: Angels, Demons, Nudes",
+    "courseid": "DTCH 2610",
+    "coursedescription": "Over the course of the fifteenth and sixteenth centuries, painting in the Netherlands experienced dramatic technological advancements: the application of oil on panel allowed for an unprecedented richness of color; experiments with optics led to improved illusions of space; artists rendered light and reflections as never before. Did these advancements in depicting the natural world conflict with or enhance the portrayal of spiritual visions? Did realism pave the way for secular art? In this course, we will look critically at the relationship of science and art, tradition and innovation, the imagined and the experienced. The delicate preciousness of Jan van Eyck, the strange spaces of Petrus Christus, the bizarre hellscapes of Hieronymus Bosch, and the peasant festivals of Peter Bruegel will guide us through these themes. Not Offered Every Year Also Offered As: ARTH 2620 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 5010 Elementary Dutch I",
+    "courseid": "DTCH 5010",
+    "coursedescription": "A first semester language course covering the core Dutch grammar and vocabulary with the goal of providing the corner stone for developing overall linguistic proficiency in Dutch. Fall Mutually Exclusive: DTCH 0100 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 5020 Elementary Dutch II",
+    "courseid": "DTCH 5020",
+    "coursedescription": "Continuation of DTCH 0100 . Spring Mutually Exclusive: DTCH 0200 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 5030 Intermediate Dutch I",
+    "courseid": "DTCH 5030",
+    "coursedescription": "A third semester Dutch language course. The emphasis lies on vocabulary expansion through the use of audio-taped materials and readings. Grammar is expanded beyond the basics and focuses on compound sentences, features of text coherence and idiomatic language usage. Fall Mutually Exclusive: DTCH 0300 Prerequisite: DTCH 5020 1 Course Unit",
+    "course-prerequsities": [
+      "DTCH 5020"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 5040 Intermediate Dutch II",
+    "courseid": "DTCH 5040",
+    "coursedescription": "A fourth semester Dutch language course. Spring Mutually Exclusive: DTCH 0400 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 5300 Topics in Dutch Studies",
+    "courseid": "DTCH 5300",
+    "coursedescription": "Topics vary. Not Offered Every Year Also Offered As: COML 5550 , GRMN 5550 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 5710 Literature and Multilingualism",
+    "courseid": "DTCH 5710",
+    "coursedescription": "Since several years, the societal and cultural reality of multilingualism has become an important research field in linguistics and literary studies, as in cultural studies more generally. This graduate course will investigate how multilingual poetics challenge and resist paradigms and ideologies of innate monolingualism, linguistic mastery, absolute translatability and monocultural nationalism. To begin with, the course will introduce central aspects of scholarship on literature and multilingualism, covering concepts such as heteroglossia, code switching, translingualism and macaronic language, and debates such as those on world literature, global English, foreignization, (un)translatability and non-translation, including their political and ethical importance. After a brief historical overview, glancing at western literary multilingualism in the Middle Ages, Romanticism and the avantgarde, the course will mainly focus on literature of the late 20th and 21st centuries taken from Germanic and Romance linguistic contexts. Using an exemplary selection, the course will cover prose, poetry and drama, and include excerpts of texts by authors such as Andrea Camilleri, Gino Chiellino, Fikry El Azzouzi, Ernst Jandl, Jackie Kay, Çağlar Köseoğlu, Monique Mojica, Melinda Nadj Abonji, Emine Sevgi Özdamar, Olivier Rolin, Yoko Tawada, Nicoline van Harskamp, and others. Reading these texts, we will try to determine how multilingualism manifests itself (linguistically, discursively, rhetorically, thematically, contextually etc.) and how the texts engage with linguistic, cultural and social pluralities. The course will conclude with a focus on the translator as a central character in fictional prose and movies. Classes will take place in an interactive format that stimulates discussion and exchange. Students will get the respective excerpts – both in the original version and in English translation – one week at a time so that they can prepare themselves each week for the discussion. Theoretical and contextual information will be provided via Power Point presentations. Not Offered Every Year Also Offered As: COML 5710 , FREN 5710 , GRMN 5710 , ITAL 5710 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 5740 Politics and Societies in the Early Modern World",
+    "courseid": "DTCH 5740",
+    "coursedescription": "In this seminar, we will discuss how early modern globalization affected societies and the ways their members and rulers made politics. Following a historiographical introduction, it is divided in three sections. In the first, we will concentrate on empires and kings in order to detect common features of dynastic power across the globe and to explore how such characteristics influenced each other. Second, we will shift our attention to citizens and the ways they made politics in their city-states. For a long time, research on citizenship has been confined to the post-revolutionary nation states. However, recent research suggests that urban citizenship has far deeper roots in medieval and early modern cities. Up to now most research has focused on urban centers in Western Europe and more precisely on the so-called urban belt stretching from Central and North-Italy, over Switzerland and Southern Germany to the Rhineland and the Low Countries. Comparisons with urban centers in Asia and the colonial Americas will be needed to test that view. In the third section, we will study the people who provided information to societies and decision makers. Often, they held multiple identities or they acted as religious or ethnic outsiders. Therefore, we call them, with a term borrowed from anthropology 'brokers'. Taken together, the analysis of these aspects will deepen our understanding of politics and societies in the globalizing early modern world. Thus, the seminar will contribute to a more comprehensive, less Europe-centered view on that period. Not Offered Every Year Also Offered As: GRMN 5740 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 5780 Privacy and Society in Seventeenth-Century Dutch Art Seminar",
+    "courseid": "DTCH 5780",
+    "coursedescription": "How do paintings offer occasions for personal reflection, and how do they construct social bonds? The aim of this seminar is to develop a set of critical skills for analyzing the different ways in which seventeenth-century Dutch paintings drew upon shared social values, national identity and economic pride, how they appealed to individual buyer tastes, and how they have engaged and continue to engage poetic minds. We will address these matters by paying particular attention to the representation of space, considering domestic interiors, urban settings, church architecture, imperial arenas, and landscapes both real and imagined. Our discussions of how paintings reflect and shape privacy and society will be informed by visits to the Philadelphia Museum of Art, by readings from methodologically diverse essays, and by writing frequently, which will provide us with occasions to test our ideas in response to what we see and read. Open to graduate and undergraduate students. Not Offered Every Year Also Offered As: ARTH 5610 , GRMN 5781 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 6610 Nature and Labor in Early Modern Art Seminar",
+    "courseid": "DTCH 6610",
+    "coursedescription": "In the sixteenth century, the notion of nature as fecund spawned not only images of lushness but also analogies to the artist's mind as a fertile place. The idea of \"natural law\" was also appealed to as a presumably primal condition, one that established how the earth's resources were to be distributed among its people. Yet the taste for artistic objects in gold, silver, wax, and wood--materials that could be worked into shapes attesting to the owner's dominium over land--led to harvesting processes which met the awareness that nature's resources could run low or even run out. Untappable nature was a functional metaphor, but scarcity was a reality. As a collective effort to write the other side of the story of Renaissance abundance, this seminar will proceed by addressing the question of how the history of art might be told as a description of materials and their potential for the expenditure of natural and human resources. We will address this question by focusing on primary texts, theoretical interventions, and a selection of objects, images, and early books from collections near at hand. Open to graduate students only. Not Offered Every Year Also Offered As: ARTH 7610 , GRMN 6850 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 6650 Northern Baroque Art Seminar",
+    "courseid": "DTCH 6650",
+    "coursedescription": "This seminar will consider major themes in Northern art of the 16th and 17th centuries, essentially from Bruegel to Vermeer. The premise is that the Reformation altered certainties in knowledge and even in perception, especially in the wake of wars, newly discovered lands, changing science and collecting of Wonders. Among new imagery topics would include: melancholy, vanitas, witchcraft, travel images, and the status of the emblem as well as allegory. Students will select a topic for semester-long investigation and co-present a class with the instructor. Open to graduate students only. Not Offered Every Year Also Offered As: ARTH 7650 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "DTCH 9999 Independent Study",
+    "courseid": "DTCH 9999",
+    "coursedescription": "Independent Study Fall or Spring 1 Course Unit",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

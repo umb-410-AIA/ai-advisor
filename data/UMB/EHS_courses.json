@@ -1,0 +1,284 @@
+[
+  {
+    "coursename": "Careers in Exercise & Health",
+    "courseid": "EHS120",
+    "coursedescription": "This course is an overview of professions in the fields of exercise and health science. Career opportunities within fitness instruction and management, clinical exercise, sports medicine, health science, and allied health will be investigated. Objectives include describing various aspects of careers, determining requirements for advanced study and learning what necessary coursework would be for applying to several professions of interest. Activities and faculty/guest speakers will introduce students to the wide array of careers related to exercise and health science.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Objectives include describing various aspects of careers, determining requirements for advanced study and learning what necessary coursework would be for applying to several professions of interest."
+      ]
+    }
+  },
+  {
+    "coursename": "Introduction to Nutrition",
+    "courseid": "EHS150",
+    "coursedescription": "This course examines ways in which nutrition promotes health, influences disease, and affects exercise and sports performance. A major goal is to have students better understand the role that nutrition plays in their own health. Participants evaluate popular diets and dietary supplements, examine current nutrient recommendations, and acquire confidence in making sensible nutrition recommendations.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Fitness & Wellness",
+    "courseid": "EHS160",
+    "coursedescription": "Students completing this course will learn introductory concepts about 1) fitness and related topical areas, including physical activity, nutrition, behavior change, body composition, muscular strength, cardiorespiratory endurance, and flexibility, and 2) wellness, including lifestyle related chronic diseases such as obesity, diabetes, cancer and cardiovascular disease. Students will learn about the components of fitness as it related to health and develop their own personal fitness plan. Students will be introduced to causes and treatments for lifestyle related chronic diseases, relevant organizational websites, and develop their own wellness profile. This is a fundamental course that introduces students to the basic principles of fitness and wellness.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Strength and Conditioning",
+    "courseid": "EHS230",
+    "coursedescription": "This course addresses the scientific and theoretical basis of strength training and conditioning. Basic terms and concepts will be discussed and an overview of the major research that has been conducted in this area will be explored. The fundamental concepts and variables that influence the design of strength and conditioning programs will be discussed, with an emphasis on functional training. The bioenergetics of exercise and training will be explored. Anaerobic training adaptions will be compared and contrasted with aerobic training adaptions. The course is designed to serve as basic preparations for the National Strength and Conditioning Association (NSCA) Certified Strength and Conditioning Specialist (CSCS) certification.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Prevention and Care of Sport Injuries",
+    "courseid": "EHS240",
+    "coursedescription": "This course is designed to assist students in recognizing and providing immediate treatment of the common injuries seen in recreational and competitive sports. Additional topics include pre-participation physicals, protective equipment, emergency first-aid, orthotics, illnesses and disease routinely seen in active individuals, and when to treat and when to refer.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Nutrition for Sports & Performance",
+    "courseid": "EHS250",
+    "coursedescription": "This course examines the interaction between nutrition, exercise, and athletic performance. Weeks include the biological, psychological, and sociological aspects of nutrition as it relates to exercise performance. Lectures cover current research on nutritional needs in response to exercise including: fluids, energy nutrient requirements and caloric distribution, supplementation, ergogenic aids, pre/post event recommendations. A strong foundation of bioenergetics for sports competition will be emphasized.",
+    "course-prerequsities": [
+      "EHS 150"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Physical Activity & Health",
+    "courseid": "EHS260",
+    "coursedescription": "The relationship between physical activity and health across the life span and the implications for health promotion strategies targeted at both individuals and the community are examined. The course focuses on national health statistics, gaining experience reading peer reviewed scientific literature, and understanding how science is used to guide physical activity program planning.",
+    "course-prerequsities": [
+      "EHS 160",
+      "EHS 280"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Statistics for Health Professionals",
+    "courseid": "EHS280",
+    "coursedescription": "This course focuses on basic concepts of statistics such as measures of central tendency and variability; concepts of test validity, reliability, and objectivity; and on basic techniques used in inferential statistics such as correlation, regression, t-tests, and analysis of variance. Advantages and limitation of statistical tests will be presented. Emphasis will be placed on interpreting the statistics presented in scientific peer-reviewed research in the field of exercise and health sciences.",
+    "course-prerequsities": [
+      "MATH 114Q"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Health Fitness Assessment",
+    "courseid": "EHS300",
+    "coursedescription": "This course focuses on the evaluation of cardiopulmonary and musculoskeletal fitness in apparently health populations.Theoretical and practical components relating to coronary artery disease risk factor analysis, body composition assessment, aerobic fitness testing, muscle strength testing and flexibility assessments will be discussed as they relate to an individual's probability for developing a disease and issues in exercise programming. Completion of this course will help prepare students to take one of the American college of Sports medicine (ACSM) Health Fitness Certifications.",
+    "course-prerequsities": [
+      "EHS 160"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Applied Kinesiology",
+    "courseid": "EHS310",
+    "coursedescription": "Applied Kinesiology is designed to provide a foundational level of knowledge of the field of Human Kinesiology, and will serve as a primer for students who will be entering higher levels of the health and fitness professions. This course places particular emphasis on expanding the student's level of understanding of functional musculoskeletal anatomy. Mechanical and anatomical concepts essential for understanding human movement are integrated routinely through this course. After introductory sections on these underlying kinesiological principles, this course systematically progresses through the human body on a joint by joint basis, and then explores the synergistic interaction of all joints systems that is the hallmark of human motion. Topics of focus will include classification of joint systems, connective tissue anatomy and biomechanics, arthrokinematics, and kinetics. Clinical and athletic application of these principles will be made through sections on the biomechanics of sport and exercise.",
+    "course-prerequsities": [
+      "BIOL 207",
+      "BIOL 208"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Health Behavior Change",
+    "courseid": "EHS345",
+    "coursedescription": "This course is an introduction to the science of health behavior change. The most commonly used theories, models and strategies of health behavior change will be explored in the context of promoting health and preventing disease. The particular emphasis of the course is on health behavior change in relation to improving physical activity, eating a healthful diet, eliminating tobacco use, and other lifestyle related habits that impede optimal health and wellness. This course is designed to teach students strategies and skills that they can use to support and facilitate a client or patient's behavior change goals. Emphasis is placed on improving student competency in designing evidence- and theory-based interventions for individuals and possibly groups. Students will learn the evidence-based counseling skills to interact with individuals in a few settings such as in health care, the community, and worksites. The course has particular relevance to students who plan to be exercise specialists, physical therapists, nutritionists, physical assistants, nurses, health educators, psychologists and other health care professionals.",
+    "course-prerequsities": [
+      "EHS 160"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Integrative Physiology",
+    "courseid": "EHS365",
+    "coursedescription": "This course provides the learner with an understanding of the integration between the different body systems that control how the human body functions. Concepts covered include structure and function of the nervous system, circulatory system, respiratory system, and muscular system, and how these systems interact when the body responds to different physiological situations. These concepts are addressed in situations including changes in posture, temperature, altitude, and physical activity.",
+    "course-prerequsities": [
+      "BIOL 207",
+      "BIOL 208"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Exercise Program Design",
+    "courseid": "EHS370",
+    "coursedescription": "This course examines the theory and practice of designing exercise programs to improve or maintain cardio respiratory and muscular fitness. Students will study the principles of prescribing safe and effective exercise training programs for apparently health individuals and for persons who have various stable chronic medical conditions such as coronary heart disease, diabetes, hypertension, obesity, osteoarthritis, and osteoporosis. Designing exercise programs for other special populations including youth, older adults and pregnancy will also be studied.",
+    "course-prerequsities": [
+      "EHS 230",
+      "EHS 300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Exercise Physiology I",
+    "courseid": "EHS385",
+    "coursedescription": "This course examines the acute and chronic effects of exercise on the human body. Specific topic areas to be covered include; 1) aerobic and anaerobic energy metabolism, 2) pulmonary system physiology, 3) cardiovascular system physiology, 4) hormones related to energy metabolism, 50 skeletal muscle physiology, 6) nervous system physiology, and 7) possible other topics such as temperature regulation, the effects of altitude, ergogenic aids.",
+    "course-prerequsities": [
+      "BIOL 207"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum in Adult Fitness",
+    "courseid": "EHS400",
+    "coursedescription": "This course explores the physiological and psychological basis of physical conditioning; body weight control and exercise adherence for apparently health adults. Students will gain practical experience administering fitness tests, designing safe and effective exercise programs and developing effective leadership and communication skills. Students will enhance their competencies in adult fitness programming by serving as instructors, test administrators and fitness counselors. Theories and practices related to exercise physiology and health behavior change will be employed throughout the course.",
+    "course-prerequsities": [
+      "EHS 370"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Exercise & Aging",
+    "courseid": "EHS410",
+    "coursedescription": "This course focuses on fitness, exercise, physical activity, and health issues in the geriatric population. Topics include methods of evaluating fitness levels, exercise prescription, public health issues, and current research issues.",
+    "course-prerequsities": [
+      "EHS 380",
+      "EHS 385"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "EHS485",
+    "coursedescription": "A student may register for independent study only with the permission of the department. The proposed study must be approved by the appropriate departmental committee and supervised by a member of the faculty.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "A student may register for independent study only with the permission of the department."
+      ]
+    }
+  },
+  {
+    "coursename": "Internship in Exercise Physiology",
+    "courseid": "EHS490",
+    "coursedescription": "The purpose of this internship program is to provide students with hands-on practical experience in the fields of exercise and health sciences. This course is a 12 credit non-paid internship for students who have completed or are in the process of completing all other course work for graduation. Students are required to complete approximately 400 hours of work over 14-16 weeks at an agency/affiliation that has been approved by the Faculty Internship Coordinator. In addition to the practical field experience, students will also participate in several seminars directed by the Faculty Internship Coordinator. These seminars will provide a forum for sharing experiences, further developing career objectives, and stimulating creative thinking related to their professional development.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Internship in Exercise and Health Sciences",
+    "courseid": "EHS491",
+    "coursedescription": "The purpose of this internship program is to provide students with hands-on practical experience in the fields of exercise and health sciences. This course is a 6 credit non-paid internship for students who have completed or are in the process of completing all other course work for graduation. Students are required to complete approximately 200 hours of work over 14-16 weeks at an agency/affiliation that has been approved by the Faculty Internship Coordinator. In addition to the practical field experience, students will also participate in several seminars directed by the Internship Faculty. These seminars will provide a forum for sharing experiences, further developing career objectives, and stimulation creative thinking related to their professional development.",
+    "course-prerequsities": [
+      "EHS 385",
+      "EHS 320",
+      "EHS 310",
+      "EHS 345",
+      "EHS 370",
+      "EHS 300"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Project and Program Management in Health Promotion",
+    "courseid": "EHS635",
+    "coursedescription": "Successful managers of projects and programs mobilize a group toward a shared vision. To do so while managing resources and stakeholders requires a systematic approach, skill, and planning. This course will use theory, supportive research, and experiential learning opportunities to enable students to lead and manage a broad range of health promotion efforts in diverse settings including public health agencies, community organizations, or fitness centers.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Physical Activity and Health",
+    "courseid": "EHS655",
+    "coursedescription": "The primary purpose of this course is for students to develop an understanding of the relationships among physical activity, exercise, and health across the lifespan, be able to identify key behavioral and social determinants of physical activity behaviors, and identify evidence-base approaches to promoting physical activity at the individual, community and population levels. The course focuses on gaining experience reading peer reviewed scientific literature, and understanding how research is used to guide physical activity programs and policies. This course provides an overview of the epidemiological evidence on associations between physical activity and a variety of health outcomes with an emphasis on chronic cardio-metabolic disease and cancer, key determinants of physical activity behaviors in different populations, and effective approaches for increasing participation in physical activity. Special attention is given to developing critical thinking skills and understanding the application of epidemiological methods to the science of physical activity and health outcome. The class is also structures to provide opportunities for in-depth analysis and discussion as to how various research methods are used to study physical activity.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Clinical Exercise Physiology",
+    "courseid": "EHS680",
+    "coursedescription": "This course focuses on the role of exercise in managing several common chronic disease conditions. Risk reduction and the treatment of chronic conditions using exercise will be addressed. The chronic conditions studies in this course are endocrine and metabolic diseases (such as diabetes, metabolic syndrome and obesity) pulmonary diseases (such as asthma and chronic obstructive pulmonary disease), and cardiovascular diseases (such as heart failure, cardiovascular disease, and peripheral artery disease). Graded exercise testing and prescription in clinical populations will be included.",
+    "course-prerequsities": [
+      "EHS 630"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Independent Study",
+    "courseid": "EHS696",
+    "coursedescription": "Study of a particular area of this subject under the supervision of a faculty member.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Practicum",
+    "courseid": "EHS698",
+    "coursedescription": "The purpose of the graduate practicum is to provide students with a capstone experience in the fields of exercise of health sciences. This experiential course, which can be field- or laboratory-based, and located on site at UMass Boston or off-campus, provides an opportunity for students to apply relevant clinical, communications and management skills. The practicum is designed to support students' translation of knowledge acquired in prior EHS courses to actual skill-based practice. In close consultation with the course instructor and major advisor, the student is placed in an EHS department-approved site to complete a minimum of 100 hours of experience. In addition, the student attends a class meeting once per month. The classroom meetings provide a forum for students to reflect on and assess their practicum learning experiences with their course instructor and peers. Discussion extends beyond the student's skill practicum experience to include on-going evaluation or re-evaluation of career goals.",
+    "course-prerequsities": [
+      "EHS 690"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Thesis",
+    "courseid": "EHS699",
+    "coursedescription": "Mentored research for the presentation of master's thesis.",
+    "course-prerequsities": [
+      "EHS 690"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Neurovascular Exercise Physiology in Health and Cardiovascular-Related Disease",
+    "courseid": "EHS787",
+    "coursedescription": "This course provides the learner with an in-depth understanding of the integration between the nervous and cardiovascular systems with regard to exercise in populations of health and cardiovascular-related disease. Concepts covered include neural control of the heart, kidneys, blood vessels, and skeletal muscle, and the acute and chronic effects of exercise on these areas of neurovascular physiology. These concepts are addressed in non-clinical and clinical populations, including healthy young adults, healthy older adults, and patients with cardiovascular-related disease.",
+    "course-prerequsities": [
+      "EHS 685"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Advanced Topics in Exercise and Health Sciences",
+    "courseid": "EHS887",
+    "coursedescription": "This course explores and evaluates current concepts in the understanding of function of physical activity and exercise on physiology and health promotion. Particular emphasis is placed on the understanding current scientific literature, research methods, and clinical implementation of advanced exercise science topics. Students will be exposed to research in the field of exercise and health sciences. The course includes readings from textbooks or review articles, and readings and presentations by the students of original research articles on pertinent topics.The emphasis is on communicating knowledge across different areas of exercise and health sciences.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Directed Research in Exercise and Health Sciences",
+    "courseid": "EHS898",
+    "coursedescription": "The directed study offers the student the opportunity to continue their studies in an in-depth manner in a subject/topic of their choice. The student will work with their primary advisor to devise methods to further explore and evaluate current concepts in their area of study while working on skills and competencies that are required inthe field of exercise science. Particular emphasis is placed on the understanding current scientific literature, research methods, and clinical implementation of advanced exercise and health science topics.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "Dissertation",
+    "courseid": "EHS899",
+    "coursedescription": "Mentored research for the presentation of a doctoral dissertation.",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  }
+]

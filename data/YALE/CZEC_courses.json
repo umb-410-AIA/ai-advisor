@@ -1,0 +1,57 @@
+[
+  {
+    "coursename": "CZEC 1100a, Elementary Czech I Staff",
+    "courseid": "CZEC 1100a",
+    "coursedescription": "This course aims to develop basic proficiency in understanding, reading, speaking and writing the Czech language. Through work with a textbook, workbook, audio files and a broad range of authentic printed and online Czech language materials, students should develop mastery of the most essential vocabulary and grammatical structures necessary for basic communication in Czech and for laying a solid foundation for further study of the language. Students should reach out to sci-cls@yale.edu if they have questions about the course. L1 RP 1½ Course cr TThF 10:10am-12:25pm",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CZEC 1200b, Elementary Czech II Staff",
+    "courseid": "CZEC 1200b",
+    "coursedescription": "Continuation of CZEC 110. This course aims to expand basic proficiency in understanding, reading, speaking, and writing the Czech language. The course works through a selection of dialogues, texts and exercises to develop mastery of the most essential idiomatic vocabulary and grammatical structures necessary for basic communication in Czech and for laying a solid foundation for further study of the language. Prerequisite: CZEC 110 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L2 RP 1½ Course cr TThF 10:10am-11:25am",
+    "course-prerequsities": [
+      "CZEC 110",
+      "L2",
+      "TTHF 10",
+      "10AM-11"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  },
+  {
+    "coursename": "CZEC 1300a, Intermediate Czech I Staff",
+    "courseid": "CZEC 1300a",
+    "coursedescription": "This course aims to develop intermediate proficiency in understanding, reading, speaking, and writing the Czech language. Through work with a textbook, workbook, audio files, and a broad range of authentic printed and online Czech language materials, students build their active vocabulary and improve their control of Czech grammar and syntax so they can communicate effectively on a broad range of general topics. Students should reach out to sci-cls@yale.edu with any questions. Prerequisite: CZEC 120, or equivalent. L3 RP 1½ Course cr TThF 11:40am-12:55pm",
+    "course-prerequsities": [
+      "CZEC 120",
+      "L3",
+      "TTHF 11",
+      "40AM-12"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "CZEC 1400b, Intermediate Czech II Staff",
+    "courseid": "CZEC 1400b",
+    "coursedescription": "This course aims to expand basic proficiency in understanding, reading, speaking, and writing the Czech language. The course works through a selection of dialogues, texts, and exercises to develop mastery of the most essential idiomatic vocabulary and grammatical structures necessary for basic communication in Czech and for laying a solid foundation for further study of the language. Prerequisite: CZEC 130 or equivalent. Course taught through distance learning using videoconferencing technology from Columbia University. Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information. L4 RP 1½ Course cr TThF 11:40am-12:55pm",
+    "course-prerequsities": [
+      "CZEC 130",
+      "L4",
+      "TTHF 11",
+      "40AM-12"
+    ],
+    "course-corequisites": [],
+    "other": {
+      "notes": [
+        "Enrollment limited; interested students should e-mail sci-cls@yale.edu for more information."
+      ]
+    }
+  }
+]

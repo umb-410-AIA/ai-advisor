@@ -1,0 +1,32 @@
+[
+  {
+    "coursename": "* ASL 1100a, American Sign Language I Staff",
+    "courseid": "ASL 1100a",
+    "coursedescription": "An introduction to American Sign Language (ASL) with the goal of building conversational competency in ASL by activating visual-spatial communication skills; mastering basic vocabulary, grammar and compositional structures; and developing awareness of the history of gestural languages and deaf people in society. L1 1½ Course cr HTBA",
+    "course-prerequsities": [],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "ASL 1120a, American Sign Language II Julia Silvestri",
+    "courseid": "ASL 1120a",
+    "coursedescription": "A continuation to American Sign Language (ASL) I, with emphasis on ASL grammar, expressive and receptive skills in storytelling and dialogues. Use of visual materials (DVD), grammar drills, proper use of non-manual markers and body language. Emphasis on character development, role shifting and story cohesion. Prerequisite: ASL 110. L2 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "ASL 110",
+      "L2"
+    ],
+    "course-corequisites": [],
+    "other": null
+  },
+  {
+    "coursename": "* ASL 2130a, American Sign Language III Staff",
+    "courseid": "ASL 2130a",
+    "coursedescription": "Building on ASL 120, the purpose of this course is to expand abstract conversational skills in American Sign Language by building on visual-spatial communication skills, vocabulary, grammar and compositional structures; while implementing a greater awareness of the history of gestural languages and deaf people in society through ASL community projects and literary production work. Prerequisites: ASL 120 or a placement evaluation by professor. L3 1½ Course cr HTBA",
+    "course-prerequsities": [
+      "ASL 120",
+      "L3"
+    ],
+    "course-corequisites": [],
+    "other": null
+  }
+]
