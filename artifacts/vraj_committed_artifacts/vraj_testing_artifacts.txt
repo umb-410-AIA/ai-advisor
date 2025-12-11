@@ -1,0 +1,81 @@
+Vraj Soni
+Shrey's Proj testing artifacts:
+
+1. Onboarding & Profile Setup (onboarding.tsx)
+
+What I tested (early in development):
+	•	Completed the onboarding flow multiple times with different names, majors, and years.
+	•	Checked that each step advanced correctly and buttons responded as expected.
+	•	Verified that, after finishing onboarding, the app redirected to the main chat interface with the profile considered “set up”.
+
+Result:
+Onboarding worked end-to-end with no broken steps or stuck states.
+
+2. Chat Window and ChatBar
+
+What I tested:
+	•	Sent multiple prompts through the ChatBar to confirm messages appeared correctly in the chat window.
+	•	Verified that new responses appended to the conversation in the right order.
+	•	Checked that longer conversations still rendered without layout glitches.
+
+Result:
+Chat input and message display behaved consistently and preserved conversation history.
+
+3. Flowchart / Degree Roadmap Visualization (Top-to-Bottom Layout)
+
+What I tested:
+	•	Used prompts like “show me the roadmap for CS courses” to trigger the roadmap visualization.
+	•	Confirmed that semesters appeared in the correct top-to-bottom order, from early to later terms.
+	•	Expanded and collapsed several semesters to verify the toggle behavior.
+	•	Clicked courses inside the flowchart to open the course details panel and checked that the information matched the course.
+
+Result:
+The roadmap loaded with correct ordering, the expand/collapse feature worked, and the detail panel opened for each selected course.
+
+4. Course Recommendation / “Preferred Courses” Feature
+
+What I tested:
+	•	Prompted the system with phrases like “give me preferred courses” and career-style prompts (e.g., “best courses for cloud engineer”).
+	•	Verified that the UI displayed a list of recommended courses rather than the roadmap.
+	•	Clicked recommended courses to ensure they reused the same course details panel as the roadmap.
+
+Result:
+Preferred-course prompts produced recommendation results, and clicking any item opened the correct course details.
+
+5. Keyword Routing Logic in pages/api/chat.ts
+
+What I tested:
+	•	Tried different wording such as “roadmap for CS degree”, “preferred courses”, “recommended courses”, and “degree plan”.
+	•	Observed which visualization component was returned (Flowchart vs Recommendation) for each prompt.
+	•	Repeated tests with slight variations in phrasing to confirm that the keyword mapping behaved consistently.
+
+Result:
+The API routed prompts to the correct visualization type (roadmap vs preferred courses) according to the keyword rules I added.
+
+6. Data Loading from newData.json
+
+What I tested:
+	•	Confirmed that courses shown in the roadmap and in recommendations matched entries from newData.json.
+	•	Spot-checked several courses (IDs, names, credits, difficulty) to ensure that UI values lined up with the data file.
+
+Result:
+The UI displayed course information consistent with the JSON dataset.
+
+7. UMass Boston–Themed Styling and Layout
+
+What I tested (later in development):
+	•	Reviewed the updated UMass-style color palette across the main screens (chat, roadmap, onboarding).
+	•	Resized the browser to common viewport sizes (laptop vs smaller window) to confirm that layout and theme remained consistent.
+
+Result:
+The styling changes applied correctly across the app without breaking layout or readability.
+
+8. Component Integration in pages/index.tsx
+
+What I tested (final integration pass):
+	•	Sent different prompts to trigger plain text, roadmap visualization, and course recommendation responses.
+	•	Verified that the correct component rendered inside the chat interface for each response type.
+	•	Checked that switching between different response types did not cause errors or leave stale components on screen.
+
+Result:
+The integrated flow worked: prompts led to the correct components, and transitions between text, roadmap, and recommendations were stable.
