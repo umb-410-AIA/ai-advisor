@@ -19,7 +19,7 @@ To start the main web application:
 3.  Open your browser and navigate to `http://localhost:3000`.
 
 
-## 2. Updating Data with `main.py` (Only for the developer not necessary)
+## 2. Updating Data with `main.py` (Only for the developer, not necessary)
 
 You run `main.py` when you want to **scrape fresh course data** from the university website. This ensures the application has the latest course catalog.
 
