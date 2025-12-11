@@ -1,20 +1,21 @@
 import fs from "fs";
+import { UMB_MAJORS } from "../data/UMB/majors.js";
 
 const jsonDataPath = "./data/" 
 export const UNIVERSITIES = [
     null, // index 0 unused so IDs can start at 1
     {
-        name: "UMASS_BOSTON",
-        majors: ["CS"],
+        name: "UMB",
+        majors: UMB_MAJORS
     },
 ] as const;
         
 export async function getCoursesByMajor(major: string, university_id: number) {
     const name = UNIVERSITIES[university_id]?.name
-    const jsonPath = jsonDataPath + name + "_coursecatalogstructured.json";
+    const jsonPath = jsonDataPath + name + "/" + major + "_courses.json";
+    console.log("Fetching courses from:", jsonPath);
     const raw = fs.readFileSync(jsonPath, "utf8");
     const data = JSON.parse(raw);
-    
     // Convert the object into an array of classes
     const classes = Object.values(data);
 
