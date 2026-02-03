@@ -28,7 +28,7 @@ export interface MessageBox {
   };
   mermaid?: string;
   tool_id?: string;
-  tool_calls?: string[];
+  tool_calls?: Object[];
 }
 
 const CHAT_API = "/api/chat"
@@ -46,6 +46,7 @@ export default function Home() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [onboarding, setOnboarding] = useState(false);
   const [profile, setProfile] = useState<UserProfile>();
+  const [llmRes, setLlmRes] = useState<any>(null);
   const initLock = useRef(false);
 
   const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
@@ -80,8 +81,8 @@ export default function Home() {
         // look for old chats
         if (profile.chats) {
           setChat(profile.chats.map(m => ({
-            user: m.role === "user" ? m.message : undefined,
-            bot: m.role === "assistant" ? m.message : ""
+            user: m.role === "user" ? m.content : undefined,
+            bot: m.role === "assistant" ? m.content : ""
           })));
         } else {
           // ONBOARD ROUTING
@@ -149,15 +150,14 @@ export default function Home() {
           llmRes.bot = llmRes.bot.replace(/```mermaid[\s\S]*?```/g, "");
         }
         console.log({llmRes})
-        // END LLM RESPONSE
 
-        if (llmRes.tool_id) {
-          setChat((chat) => { return [...chat, llmRes] });
-          message = "tool";
+        setLlmRes(llmRes);
+        setChat((chat) => { return [...chat, llmRes] });
+        if (llmRes.tool_calls) {
+          message = 'tool';
+        // END LLM RESPONSE
           continue;
         } else {
-          // show llm response
-          setChat((chat) => { return [...chat, llmRes] });
           break;
         }
       }
@@ -260,9 +260,8 @@ export default function Home() {
   };
 
   const currentMermaidChart = useMemo<string | null>(() => {
-    if (!chat?.length) return null;
-    return chat.reverse().find(c => !!c.mermaid)?.mermaid ?? null;
-  }, [chat]);
+    return llmRes?.mermaid ?? null;
+  }, [llmRes]);
 
   return (
     <div style={styles.page}>
@@ -374,29 +373,33 @@ export default function Home() {
           ) : (
             chat.map((msg, i) => (
               <div key={i} style={styles.chatMessage}>
-                <div style={{ marginBottom: 8 }}>
-                  <b>You:</b>
-                  <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
-                </div>
-                <div>
-                  <b>Bot:</b>
-                  <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
+                {msg.user && msg.user.trim() !== "" && (
+                  <div style={{ marginBottom: 8 }}>
+                    <b>You:</b>
+                    <div style={{ whiteSpace: "pre-line" }}>{msg.user}</div>
+                  </div>
+                )}
 
-                  {/* Render mermaid chart if present */}
-                  {msg.mermaid && (
-                    <div style={{ marginTop: 15, color: '#aaa' }}>
-                      <em>Chart updated</em>
-                      {/*<FlowChart chart={msg.mermaid} />*/}
-                    </div>
-                  )}
+                {msg.bot && msg.bot.trim() !== "" && (
+                  <div>
+                    <b>Bot:</b>
+                    <div style={{ whiteSpace: "pre-line" }}>{msg.bot}</div>
 
-                  {/* Render visualization if available */}
-                  {msg.visualization && (
-                    <div style={{ marginTop: 15 }}>
-                      {renderVisualization(msg.visualization)}
-                    </div>
-                  )}
-                </div>
+                    {/* Render mermaid chart if present */}
+                    {msg.mermaid && (
+                      <div style={{ marginTop: 15 }}>
+                        {/* <FlowChart chart={msg.mermaid} /> */}
+                      </div>
+                    )}
+
+                    {/* Render visualization if available */}
+                    {msg.visualization && (
+                      <div style={{ marginTop: 15 }}>
+                        {renderVisualization(msg.visualization)}
+                      </div>
+                    )}
+                  </div>
+                )}
               </div>
             ))
           )}

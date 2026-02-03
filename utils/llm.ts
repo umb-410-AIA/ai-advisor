@@ -9,7 +9,7 @@ import { MessageBox } from "@/pages";
 const MESSAGE_LIMIT = 10 // limit open ai API to 10 message history
 const MODEL_ID =  "gpt-5-nano";
 
-const UNIVERSITY_MAP = UNIVERSITIES.map((u, i) => `${i + 1}: ${u}`).join("\n") // map university name to int (UMB is 1)
+const UNIVERSITY_MAP = UNIVERSITIES.map((u, i) => `${i}: ${u}`).join("\n") // map university name to int (UMB is 0)
 
 const APP_DESCRIPTION = `You are an AI-powered college advisor designed to help students plan their academic journeys.
       Your primary functions include:
@@ -63,7 +63,7 @@ export const default_system_prompt = `
     PRIORITY STACK (Follow these steps in strict order)
     ====================================================================
 
-    1. **Create a Mermaid Diagram**
+    0. **Create a Mermaid Diagram**
       As soon as possible in the conversation, include a mermaid diagram in the response within a markdown block (headed by "\`\`\`mermaid"), 
       which should represent a particular course path that the student might take given their major, university, and other relevant information.
 
@@ -74,8 +74,7 @@ export const default_system_prompt = `
 
     2. **University Normalization**
       Any time the user mentions a university (even vaguely):
-        → First call normalizeUniversity.
-        → All subsequent toolcalls must use the returned university_id.
+        → Use the university ID instead of its name. If you are unsure of the university ID, use its index from the UNIVERSITY_MAP above.
       Using raw university strings for toolcalls is invalid.
 
     3. **Unknown-Field Completion**
@@ -85,11 +84,12 @@ export const default_system_prompt = `
     4. **Major Validation**
       Before ANY course-recommendation or visualization step:
         → Call getMajorByUniversity(university_id) to retrieve valid majors.
+        → The university_id MUST come from the UNIVERSITY_MAP or previous toolcalls.
         → The user major MUST match one of the returned majors exactly.
       Using a raw major string not in that list is invalid.
 
     5. **Autonomous Multi-Step Toolcalling**
-      If the user request requires multiple steps (e.g., normalize → fetch majors → visualize):
+      If the user request requires multiple steps (e.g., fetch majors → fetch courses → visualize):
         → Perform all needed toolcalls in order.
         → Do NOT wait for extra user input if the intent is clear.
 
@@ -111,13 +111,14 @@ export const default_system_prompt = `
     - As soon as possible, include a mermaid diagram in a markdown code block in your response and expect to iterate on it in 
       subsequent chat turns.
     - Never make up a university, major, or course.
+    - Never ask user for a university_id, must derive from UNIVERSITY_MAP or previous toolcalls.
+    - Never assume a major is valid without calling getMajorByUniversity first.
+    - Never use raw strings for university_id in toolcalls.
     - Never guess qualifications; ask instead.
     - Never provide fictitious course codes or structures.
     - Always verify through tools before responding.
     - Maintain a helpful, concise, friendly tone.
     - Never end with statements like “hold on,” “wait,” “let me think,” etc.
-    - If a tool requires university_id or major:
-        → You must use the values from tools, not raw strings.
     - Do not assume data exists unless returned by a tool.
 
     MANDATORY TOOLCALL ORDER:
@@ -126,20 +127,13 @@ export const default_system_prompt = `
     3. You may NOT call visualizeCoursePath or saveUserData until both steps above have successfully completed.
     4. If a user enters a major in any freeform text (e.g., “CS”, “Computer Science”, “CompSci”), you MUST normalize it by calling getMajorByUniversity first.
 
-    REASONING REQUIREMENT:
-    You cannot assume the user-provided major is valid. ALWAYS normalize it via getMajorByUniversity.
-
     VISUALIZATION RULE:
     Never call visualizeCoursePath without validated course data obtained from getMajorByUniversity → getCoursesByMajor.
-
 
     ====================================================================
     TOOL RETURN FORMATS (STRICT)
     Do NOT invent fields. Do NOT infer. Do NOT rename fields.
     ====================================================================
-
-    normalizeUniversity(name: string)
-      → { university_id: number, normalized_name: string }
 
     getMajorByUniversity(university_id: number)
       → { majors: string[] }
@@ -152,15 +146,6 @@ export const default_system_prompt = `
 
     visualizeCoursePath(university_id: number, major: string)
       → { visualization_data: VISUALIZATION_DATA }
-
-    listUniversities()
-      → { universities: { id: number, name: string }[] }
-
-    listCourses(university_id: number, major: string)
-      → { courses: { id: string, name: string, prerequisites: string[] }[] }
-
-    getJobOutlook(major: string)
-      → { careers: { title: string, description: string, salary_range: string }[] }
 
     ====================================================================
     BEHAVIORAL GUIDELINES
@@ -396,17 +381,8 @@ export async function llm(user_id: string,
 
   // get reply
   let reply = completion.choices[0]?.message;
-  
-  const assistantContent = reply.content ?? "";
-
-  console.log(reply.tool_calls)
-
-  messages.push({
-    role: "assistant",
-    content: assistantContent,
-    tool_calls: reply.tool_calls
-  });
-
+  console.log("LLM REPLY: ", reply)
+  const assistantContent = reply.content ?? "Thinking...";
   await insertChatMessage({
     user_id,
     chat_id,
@@ -416,81 +392,76 @@ export async function llm(user_id: string,
     tool_call_id: null
   });
 
-  // set ui response
-  llmRes.bot = reply.content;
-  console.log("MESSAGES:\n", messages)
-
   // Source ChatGPT:
   // Prompt: Rewrite this code to handle multiple tool calls in a loop until no tool calls are left.
   // Current code only handles one tool call.
   // *-- begin llm tool call loop --*
   // check for tool calls
   if (reply.tool_calls?.length > 0) {
-    for (const toolCall of reply.tool_calls) {
-      console.log("TOOL CALL\n", (toolCall as any).function.name);
-      const args = JSON.parse((toolCall as any).function.arguments);
-        
-      let result: any;
-      // Parse tool call
-      const functionName = (toolCall as any).function.name
-      if (functionName == "getMajorByUniversity") {
-        console.log(args.university_id)
+      for (const toolCall of reply.tool_calls) {
+        console.log("TOOL CALL\n", (toolCall as any).function.name);
+        const args = JSON.parse((toolCall as any).function.arguments);
+          
+        let result: any;
+        // Parse tool call
+        const functionName = (toolCall as any).function.name
+        if (functionName == "getMajorByUniversity") {
+          console.log(args.university_id)
+            result = {
+            MAJOR_LIST: await getMajorByUniversity(args.university_id)
+          };
+        }
+
+        else if (functionName == "getCoursesByMajor") {
+          try { 
+            result = {
+            COURSE_LIST: await getCoursesByMajor(args.major, args.university_id)
+          };
+        } catch (e) {
           result = {
-          MAJOR_LIST: await getMajorByUniversity(args.university_id)
-        };
+            COURSE_LIST: `Error fetching courses for major ${args.major} at university ID ${args.university_id}: ${e.message}`
+          };
+        } 
       }
 
-      else if (functionName == "getCoursesByMajor") {
-        result = {
-          COURSE_LIST: await getCoursesByMajor(args.major, args.university_id)
-        };
-      } 
+        else if (functionName == "updateUserProfile") {
+          await upsertUserData(user_id, args);
+          result = {
+            success: true,
+            reprompt: SAVED_REPROMPT
+          };
+        }
 
-      else if (functionName == "updateUserProfile") {
-        await upsertUserData(user_id, args);
-        result = {
-          success: true,
-          reprompt: SAVED_REPROMPT
-        };
-      }
+        else if (functionName == "visualizeCoursePath") {
+          result = {
+            COURSE_LIST: await getCoursesByMajor(args.major, args.university_id),
+            reprompt: VISUALIZATION_REPROMPT
+          };
+        }
 
-      else if (functionName == "visualizeCoursePath") {
-        result = {
-          COURSE_LIST: await getCoursesByMajor(args.major, args.university_id),
-          reprompt: VISUALIZATION_REPROMPT
-        };
-      }
+        // REPROMPT AFTER TOOL CALL
+        const msg: LLMResponse = {
+          user_id: user_id,
+          chat_id : chat_id,
+          role: "tool",
+          tool_call_id: toolCall.id,
+          content: JSON.stringify(result)
+        }
+        await insertChatMessage(msg);
 
-      // REPROMPT AFTER TOOL CALL
-      const msg: LLMResponse = {
-        user_id: user_id,
-        chat_id : chat_id,
-        role: "tool",
-        tool_call_id: toolCall.id,
-        content: JSON.stringify(result)
-      }
-      messages.push({role: "tool", content: msg.content, tool_call_id: msg.tool_call_id});
-      await insertChatMessage(msg);
-
-      llmRes.tool_id = functionName
+        llmRes.tool_id = functionName
     }
-
-    const completion = await openai.chat.completions.create({
-      model: MODEL_ID,
-      messages: messages
-    });
-    reply = completion.choices[0]?.message;
-    reply.content = reply.content ?? "";
-
-    // process mermaid if present
-    const { cleanedText, mermaid } = extractMermaidFromText(reply.content);
-
-    // update llmRes
-    llmRes.bot = cleanedText;
-    llmRes.mermaid = mermaid;
   }
   // *-- end llm tool call loop --*
 
+  // process mermaid if present
+  const { cleanedText, mermaid } = extractMermaidFromText(assistantContent);
+
+  // update llmRes
+  llmRes.tool_calls = reply.tool_calls
+  llmRes.bot = cleanedText;
+  llmRes.mermaid = mermaid;
+  console.log(llmRes)
   if (!llmRes.bot) {
     throw new Error("No reply from LLM");
   }
